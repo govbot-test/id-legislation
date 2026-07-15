@@ -111,6 +111,7 @@
     "division_id": "ocd-division/country:us/state:id"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-15T03:54:52Z"
+    "logs_latest_update": "2026-07-15T03:54:52Z",
+    "text_extraction_latest_update": "2026-07-15T04:18:04.743642Z"
   }
 }
