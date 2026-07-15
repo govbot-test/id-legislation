@@ -1,0 +1,195 @@
+{
+  "legislative_session": "2026",
+  "identifier": "H 0598",
+  "title": "CAMPAIGN FINANCE \u2013 Amends existing law to require all contributions and loans to a candidate or political committee to be deposited into a separate campaign account, to prohibit commingling of funds, and to require loans from a candidate to such candidate\u2019s campaign to be reported to the Secretary of State.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BUSINESS AND BUSINESS ENTITIES",
+    "CAMPAIGNS AND CANDIDATES",
+    "COUNTIES",
+    "ELECTIONS",
+    "FINANCE",
+    "FUNDS",
+    "LOANS",
+    "SECRETARY OF STATE"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Campaign finance, accounts"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-id-2026-h598"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced, read first time, referred to JRA for Printing",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Reported Printed and Referred to State Affairs",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Read second time; Filed for Third Reading",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "U.C. to hold place on third reading calendar one legislative day",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Read Third Time in Full \u2013 U.C. to be placed on General Orders; objection",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Motion to send to Gen Ord, motion carried",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Retained on General Orders",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Retained on General Orders",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Take bill off General Orders; referred to State Affairs",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "STATE AFFAIRS COMMITTEE",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"lower\", \"name\": \"STATE AFFAIRS COMMITTEE\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0598.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Purpose / Fiscal Note",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0598SOP.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0598/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:id/government",
+    "name": "Idaho",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:id"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:54:51Z"
+  }
+}

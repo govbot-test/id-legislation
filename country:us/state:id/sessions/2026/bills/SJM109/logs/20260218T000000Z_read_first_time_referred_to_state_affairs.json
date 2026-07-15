@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read First Time, Referred to State Affairs",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/SJM109/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJM 109"
+}

@@ -1,0 +1,178 @@
+{
+  "legislative_session": "2026",
+  "identifier": "H 0704",
+  "title": "UNAUTHORIZED WORKERS \u2013 Adds to existing law to establish certain requirements for employers to verify the lawful status of workers.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "EMPLOYERS AND EMPLOYEES",
+    "FEDERAL LAWS AND RELATIONS",
+    "IDENTITY AND NAMES",
+    "IMMIGRATION AND IMMIGRANTS",
+    "INTERNATIONAL RELATIONS",
+    "LABOR"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Unauthorized workers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-id-2026-h704"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced, read first time, referred to JRA for Printing",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Reported Printed and Referred to Business",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Read second time; Filed for Third Reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "U.C. to hold place on third reading calendar one legislative day",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Read Third Time in Full \u2013 PASSED - 43-26-1AYES \u2013 Alfieri, Barbieri, Beiswenger, Boyle, Bruce, Burgoyne, Cayler, Cornilles, Crane(12), Crane(13), Dygert, Ehardt, Ehlers, Erickson, Hall(Stone), Harris, Hawkins, Healey, Hill, Holtzclaw, Hostetler, Leavitt, Marmon, Mendive, Mitchell, Monks, Palmer, Pohanka, Price, Rasor, Redman, Sauter, Scott, Shepherd, Shirts, Skaug, Tanner(13), Tanner(14), Thompson, Veile, Wheeler, Wisniewski, Mr. SpeakerNAYS \u2013 Berch, Bingham, Cannon, Cheatum, Church, Egbert, Fuhriman, Furniss, Galaviz, Gannon, Garner, Green, Handy, Haws, Manwaring, Mathias, McCann, Mickelsen, Miller, Nelsen, Pickett, Raybould, Raymond, Rubel, Vander Woude, WeberAbsent \u2013 PetzkeFloor Sponsors - Redman & Crane(12)Title apvd - to Senate",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Received from the House passed; filed for first reading",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Introduced, read first time; referred to: State Affairs",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "BUSINESS COMMITTEE",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"lower\", \"name\": \"BUSINESS COMMITTEE\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0704.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Purpose / Fiscal Note",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0704SOP.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0704/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:id/government",
+    "name": "Idaho",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:id"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:54:51Z"
+  }
+}

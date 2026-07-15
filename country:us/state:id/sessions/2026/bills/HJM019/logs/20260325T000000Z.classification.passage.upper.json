@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read in full \u2013 ADOPTED - 20-5-10AYES \u2013 Adams, Anthon, Bernt, Burtenshaw, Carlson, Cook, Den Hartog, Foreman, Galloway, Grow, Guthrie, Hart, Kohl, Lakey, Lent, Okuniewicz, Ricks, Toews, Woodward, ZitoNAYS \u2013 Rabe, Ruchti, Semmelroth, Taylor, Ward-EngelkingAbsent and excused \u2013 Bjerke(Bjerke), Blaylock, Harris, Keyser, Lenney, Nichols, Shippy, VanOrden, Wintrow, ZuiderveldFloor Sponsor - Den HartogTitle apvd - to House",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/HJM019/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJM 019"
+}

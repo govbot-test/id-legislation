@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read second time; Filed for Third Reading",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0667/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0667"
+}

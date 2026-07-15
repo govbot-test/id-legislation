@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Reported Signed by Governor on March 27, 2026    Session Law Chapter 203    Effective: 07/01/2026",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0766/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0766"
+}

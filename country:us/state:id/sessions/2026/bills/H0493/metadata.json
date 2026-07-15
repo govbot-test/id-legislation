@@ -1,0 +1,205 @@
+{
+  "legislative_session": "2026",
+  "identifier": "H 0493",
+  "title": "COMMERCIAL SEXUAL ACTIVITY \u2013 Amends existing law to revise the penalty for soliciting commercial sexual activity.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "COURTS",
+    "CRIMINAL OFFENSES AND PROCEDURES",
+    "LAW ENFORCEMENT"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Commercial sexual activity, penalty"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-id-2026-h493"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced, read first time, referred to JRA for Printing",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Reported Printed and Referred to Judiciary, Rules & Administration",
+      "date": "2026-01-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Read second time; Filed for Third Reading",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "U.C. to hold place on third reading calendar one legislative day",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "U.C. to hold place on third reading calendar one legislative day",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "U.C. to hold place on third reading calendar one legislative day",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "U.C. to hold place on third reading calendar until Monday, February 2, 2026",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Read Third Time in Full \u2013 PASSED - 50-19-1AYES \u2013 Beiswenger, Berch, Bingham, Boyle, Cannon, Cheatum, Church, Cornilles, Crane(12), Crane(13), Dygert, Ehardt, Ehlers, Erickson, Fuhriman, Furniss, Galaviz, Garner, Green, Hall(Stone), Handy, Healey, Hill, Holtzclaw, Manwaring, Mathias, McCann, Mendive, Mickelsen, Miller, Mitchell, Monks, Nelsen, Palmer, Petzke, Pickett, Pohanka, Raybould, Raymond, Redman, Sauter, Shepherd, Shirts, Skaug, Tanner(14), Vander Woude, Veile, Weber, Wheeler, Mr. SpeakerNAYS \u2013 Alfieri, Barbieri, Bruce, Burgoyne, Cayler, Egbert, Gannon, Harris, Hawkins, Haws, Hostetler, Leavitt, Marmon, Price, Rasor, Rubel, Scott, Tanner(13), WisniewskiAbsent \u2013 ThompsonFloor Sponsor - RaybouldTitle apvd - to Senate",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Received from the House passed; filed for first reading",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Introduced, read first time; referred to: Judiciary & Rules",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "JUDICIARY, RULES AND ADMINISTRATION COMMITTEE",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"lower\", \"name\": \"JUDICIARY, RULES AND ADMINISTRATION COMMITTEE\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0493.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Purpose / Fiscal Note",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0493SOP.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0493/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:id/government",
+    "name": "Idaho",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:id"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:54:51Z"
+  }
+}

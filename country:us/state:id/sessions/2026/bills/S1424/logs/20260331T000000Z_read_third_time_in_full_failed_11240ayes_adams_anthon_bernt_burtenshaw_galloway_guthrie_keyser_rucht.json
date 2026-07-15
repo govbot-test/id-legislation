@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time in full \u2013 FAILED - 11-24-0AYES \u2013 Adams, Anthon, Bernt, Burtenshaw, Galloway, Guthrie, Keyser, Ruchti, Semmelroth, Taylor, WintrowNAYS \u2013 Bjerke(Bjerke), Blaylock, Carlson, Cook, Den Hartog, Foreman, Grow, Harris, Hart, Kohl, Lakey, Lenney, Lent, Nichols, Okuniewicz, Rabe, Ricks, Shippy, Toews, VanOrden, Ward-Engelking, Woodward, Zito, ZuiderveldAbsent and excused \u2013 NoneFloor Sponsor - KeyserFiled in Office of the Secretary of Senate",
+    "occurred_at": "2026-03-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1424/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1424"
+}

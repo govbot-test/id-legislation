@@ -1,0 +1,168 @@
+{
+  "legislative_session": "2026",
+  "identifier": "S 1342",
+  "title": "EGGS \u2013 Amends and adds to existing law to provide for household egg production.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ACTS",
+    "AGRICULTURE",
+    "ANIMALS",
+    "FOOD",
+    "HOMES AND HOUSING",
+    "LIVESTOCK",
+    "REAL PROPERTY"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Household egg production"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-id-2026-s1342"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced; read first time; referred to JR for Printing",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Reported Printed; referred to Agricultural Affairs",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Reported out of Committee with Do Pass Recommendation; Filed for second reading",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read second time; filed for Third Reading",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read third time in full \u2013 PASSED - 30-1-4AYES \u2013 Adams, Anthon, Bernt, Bjerke(Bjerke), Blaylock, Burtenshaw, Carlson, Cook, Foreman, Grow, Guthrie, Harris, Hart, Keyser, Keyser(Galloway), Kohl, Lakey, Lenney, Nichols, Okuniewicz, Ricks, Ruchti, Semmelroth, Shippy, Toews, VanOrden, Ward-Engelking, Wintrow, Zito, ZuiderveldNAYS \u2013 TaylorAbsent and excused \u2013 Den Hartog, Lent, Rabe, WoodwardFloor Sponsor - NicholsTitle apvd - to House",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Received from the Senate, Filed for First Reading",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read First Time, Referred to Agricultural Affairs",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "JUDICIARY AND RULES COMMITTEE",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"upper\", \"name\": \"JUDICIARY AND RULES COMMITTEE\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/S1342.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Purpose / Fiscal Note",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/S1342SOP.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1342/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:id/government",
+    "name": "Idaho",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:id"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:54:52Z"
+  }
+}

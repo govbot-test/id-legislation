@@ -78,6 +78,74 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:05:27Z"
       }
+    },
+    {
+      "description": "Returned from Senate Passed; to JRA for Enrolling",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Reported Enrolled; Signed by Speaker; Transmitted to Senate",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Received from the House enrolled/signed by Speaker",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Signed by President; returned to House",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Returned Signed by the President; Ordered Transmitted to Secretary of State",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Delivered to Secretary of State at 9:23 a.m. on January 16, 2026",
+      "date": "2026-01-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
     }
   ],
   "sponsorships": [
@@ -140,7 +208,7 @@
     "division_id": "ocd-division/country:us/state:id"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:27Z",
+    "logs_latest_update": "2026-07-15T03:54:51Z",
     "text_extraction_latest_update": "2026-07-13T07:11:01.656630Z"
   }
 }

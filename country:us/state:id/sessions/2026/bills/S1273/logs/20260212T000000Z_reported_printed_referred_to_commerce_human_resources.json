@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported Printed; referred to Commerce & Human Resources",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1273/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1273"
+}

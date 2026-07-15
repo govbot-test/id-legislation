@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "FAILED - 15-20-0AYES \u2013 Bernt, Burtenshaw, Cook, Den Hartog, Grow, Guthrie, Lent, Rabe, Ruchti, Semmelroth, Taylor, VanOrden, Ward-Engelking, Wintrow, WoodwardNAYS \u2013 Adams, Anthon, Bjerke(Bjerke), Blaylock, Carlson, Foreman, Galloway, Harris, Hart, Keyser, Kohl, Lakey, Lenney, Nichols, Okuniewicz, Ricks, Shippy, Toews, Zito, ZuiderveldAbsent and excused \u2013 NoneFloor Sponsor - No sponsor data.Ret\u2019d to House",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0760/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0760"
+}

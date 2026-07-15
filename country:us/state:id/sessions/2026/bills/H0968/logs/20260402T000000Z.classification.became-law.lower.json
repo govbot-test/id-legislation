@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Line item vetoed by Governor on April 8, 2026    Session Law Chapter 311    Effective: 04/08/2026 SECTION 1-6 with exception of line item veto in SECTION 1 & 4;    07/01/2026 SECTION 7-14",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law",
+      "executive-veto-line-item"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0968/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0968"
+}

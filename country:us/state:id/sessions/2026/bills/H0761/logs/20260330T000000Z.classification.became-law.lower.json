@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Reported Signed by Governor on March 26, 2026    Session Law Chapter 184    Effective: 07/01/2026 SECTION 1-5 & 7-10;    10/01/2026 SECTION 6",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0761/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0761"
+}

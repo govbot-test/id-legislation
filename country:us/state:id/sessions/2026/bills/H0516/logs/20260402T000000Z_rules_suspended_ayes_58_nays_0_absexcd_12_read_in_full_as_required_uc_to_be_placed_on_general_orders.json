@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rules Suspended: Ayes 58 Nays 0 Abs/Excd 12, read in full as required \u2013 U.C. to be placed on General Orders; objection",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0516/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0516"
+}

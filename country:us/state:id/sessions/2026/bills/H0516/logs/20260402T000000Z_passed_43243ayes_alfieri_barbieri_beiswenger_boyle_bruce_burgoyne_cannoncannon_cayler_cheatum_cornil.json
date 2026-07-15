@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "PASSED - 43-24-3AYES \u2013 Alfieri, Barbieri, Beiswenger, Boyle, Bruce, Burgoyne, Cannon(Cannon), Cayler, Cheatum, Cornilles, Crane(12), Crane(13), Dygert, Ehardt, Ehlers, Furniss, Hall(Stone), Harris, Hawkins, Healey, Hill(Hill), Holtzclaw, Hostetler, Leavitt, Mendive, Miller, Mitchell, Monks, Palmer, Pickett, Price, Rasor, Redman, Scott, Shepherd, Shirts(Batt), Skaug, Tanner(13), Tanner(14), Thompson, Vander Woude, Wisniewski, Mr. SpeakerNAYS \u2013 Berch, Bingham, Church, Egbert(Beazer), Erickson, Fuhriman, Galaviz, Gannon, Garner, Green, Handy, Haws, Manwaring, Mathias, McCann, Mickelsen, Nelsen, Petzke, Pohanka, Raybould, Raymond, Rubel, Sauter, VeileAbsent \u2013 Marmon, Weber, WheelerFloor Sponsors - Hawkins & BoyleTitle apvd - to enrol",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0516/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0516"
+}

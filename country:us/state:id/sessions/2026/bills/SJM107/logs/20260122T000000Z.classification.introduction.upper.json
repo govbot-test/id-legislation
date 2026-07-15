@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced; read first time; referred to JR for Printing",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/SJM107/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJM 107"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported Engrossed; Filed for First Reading of Engrossed Bills",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0516/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0516"
+}

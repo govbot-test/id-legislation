@@ -1,0 +1,321 @@
+{
+  "legislative_session": "2026",
+  "identifier": "S 1247",
+  "title": "MEMORANDUM OF AGREEMENT \u2013 Adds to existing law to establish provisions regarding law enforcement entering into a memorandum of agreement.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CONTRACTS",
+    "COUNTIES",
+    "CRIMINAL OFFENSES AND PROCEDURES",
+    "EMPLOYERS AND EMPLOYEES",
+    "FEDERAL LAWS AND RELATIONS",
+    "FEDERAL LAWS AND RELATIONS",
+    "IMMIGRATION AND IMMIGRANTS",
+    "IMMIGRATION AND IMMIGRANTS",
+    "INTERNATIONAL RELATIONS",
+    "INTERNATIONAL RELATIONS",
+    "INTERNATIONAL RELATIONS",
+    "LABOR",
+    "LAW ENFORCEMENT"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Idaho e-verify act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-id-2026-s1247"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced; read first time; referred to JR for Printing",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Reported Printed; referred to State Affairs",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Reported out of Committee with Do Pass Recommendation; Filed for second reading",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read second time; filed for Third Reading",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read third time in full \u2013 PASSED - 27-7-1AYES \u2013 Bernt, Blaylock, Burtenshaw, Carlson, Cook, Foreman, Galloway, Grow, Guthrie, Harris, Hart, Hawkins(Anthon), Keyser, Kohl, Lenney, Merrell(Lakey), Nichols, Ricks, Ruchti, Semmelroth, Taylor, VanOrden, Ward-Engelking, Wintrow, Woodward, Zito, ZuiderveldNAYS \u2013 Adams, Bjerke, Den Hartog, Okuniewicz, Rabe, Shippy, ToewsAbsent and excused \u2013 LentFloor Sponsor - HarrisTitle apvd - to House",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Received from the Senate, Filed for First Reading",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read First Time, Referred to Business",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Reported out of Committee, Recommend place on General Orders",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Referred to the Committee of the Whole",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Reported out without recommendation as amended",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Amendments Referred to the JRA for Printing",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Filed for First Reading",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read first time as amended in House; Filed for Second Reading",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read second time as amended in House; Filed for Third Reading",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Rules Suspended: Ayes 59 Nays 6 Abs/Excd 5, read in full as required \u2013 PASSED - 37-29-4AYES \u2013 Alfieri, Barbieri, Beiswenger, Boyle, Bruce, Cannon(Cannon), Cayler, Cornilles, Crane(12), Crane(13), Dygert, Ehardt, Ehlers, Furniss, Harris, Hawkins, Healey, Hill(Hill), Holtzclaw, Hostetler, Leavitt, Mitchell, Monks, Palmer, Pickett, Price, Rasor, Redman, Scott, Shepherd, Shirts(Batt), Skaug, Tanner(13), Tanner(14), Thompson, Wisniewski, Mr. SpeakerNAYS \u2013 Berch, Bingham, Cheatum, Church, Egbert(Beazer), Erickson, Fuhriman, Galaviz, Gannon, Garner, Green, Hall(Stone), Handy, Haws, Mathias, McCann, Mickelsen, Miller, Nelsen, Petzke, Pohanka, Raybould, Raymond, Rubel, Sauter, Vander Woude, Veile, Weber, WheelerAbsent \u2013 Burgoyne, Manwaring, Marmon, MendiveFloor Sponsors - Redman & HawkinsTitle apvd - to Senate",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Returned from House, amended",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Referred to 10th Order for possible concurrence",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Senate did not Concur in House Amendments",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Filed in the office of the Secretary of the Senate",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "STATE AFFAIRS COMMITTEE",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"upper\", \"name\": \"STATE AFFAIRS COMMITTEE\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/S1247.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/S1247A5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Purpose / Fiscal Note",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/S1247SOP.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Legislative Co-sponsors",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/S1247LegCo.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1247/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:id/government",
+    "name": "Idaho",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:id"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:54:52Z"
+  }
+}

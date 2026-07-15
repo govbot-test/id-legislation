@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time in full \u2013 FAILED - 6-28-1AYES \u2013 Den Hartog, Galloway, Harris, Hart, Nichols, ShippyNAYS \u2013 Adams, Anthon, Bernt, Bjerke(Bjerke), Blaylock, Burtenshaw, Carlson, Cook, Foreman, Grow, Guthrie, Keyser, Kohl, Lakey, Lenney, Lent, Okuniewicz, Rabe, Ricks, Ruchti, Semmelroth, Taylor, Toews, VanOrden, Wintrow, Woodward, Zito, ZuiderveldAbsent and excused \u2013 Ward-EngelkingFloor Sponsor - NicholsRet\u2019d to House",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0630/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0630"
+}

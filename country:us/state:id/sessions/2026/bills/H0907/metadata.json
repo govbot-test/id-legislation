@@ -1,0 +1,283 @@
+{
+  "legislative_session": "2026",
+  "identifier": "H 0907",
+  "title": "APPROPRIATIONS \u2013 DIVISION OF CAREER TECHNICAL EDUCATION \u2013 Relates to the appropriation to the Division of Career Technical Education for fiscal years 2026 and 2027.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "APPROPRIATIONS",
+    "EDUCATION"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Approp, CTE, add\u2019l"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-id-2026-h907"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced, read first time, referred to JRA for Printing",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Reported Printed; Filed for Second Reading",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read second time; Filed for Third Reading",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Rules Suspended: Ayes 66 Nays 0 Abs/Excd 4, read in full as required \u2013 PASSED - 46-21-3AYES \u2013 Berch, Bingham, Boyle, Cannon, Cheatum, Church, Cornilles, Crane(12), Crane(13), Dygert, Egbert, Ehardt, Erickson, Fuhriman, Furniss, Galaviz, Gannon, Garner, Green, Handy, Haws, Healey, Hill, Holtzclaw, Mathias, McCann, Mickelsen, Miller, Mitchell, Monks, Nelsen, Palmer, Petzke, Pickett, Pohanka, Raybould, Raymond, Rubel, Shepherd, Shirts, Tanner(14), Vander Woude, Veile, Weber, Wheeler, Mr. SpeakerNAYS \u2013 Alfieri, Barbieri, Beiswenger, Bruce, Burgoyne, Cayler, Ehlers, Harris, Hawkins, Hostetler, Leavitt, Marmon, Mendive, Price, Rasor, Redman, Scott, Skaug(Chadwick), Tanner(13), Thompson, WisniewskiAbsent \u2013 Hall(Stone), Manwaring, SauterFloor Sponsor - PetzkeTitle apvd - to Senate",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Received from the House passed; filed for first reading",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Introduced, read first time; referred to: Finance",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Reported out of Committee with Do Pass Recommendation; Filed for second reading",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read second time; filed for Third Reading",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Read third time in full \u2013 PASSED - 23-11-1AYES \u2013 Adams, Anthon, Bernt, Burtenshaw, Carlson, Cook, Den Hartog, Galloway, Grow, Guthrie, Harris, Lakey, Lent, Rabe, Ricks, Ruchti, Semmelroth, Taylor, Toews, VanOrden, Ward-Engelking, Wintrow, WoodwardNAYS \u2013 Blaylock, Foreman, Hart, Keyser, Kohl, Lenney, Nichols, Okuniewicz, Shippy, Zito, ZuiderveldAbsent and excused \u2013 Bjerke(Bjerke)Floor Sponsor - CarlsonTitle apvd - to House",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Returned from Senate Passed; to JRA for Enrolling",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Reported Enrolled; Signed by Speaker; Transmitted to Senate",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Received from the House enrolled/signed by Speaker",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Signed by President; returned to House",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Returned Signed by the President; Ordered Transmitted to Governor",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Delivered to Governor at 12:10 p.m. on March 25, 2026",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    },
+    {
+      "description": "Reported Signed by Governor on March 26, 2026    Session Law Chapter 140    Effective: 03/26/26 SECTION 2;    07/01/26 SECTION 1",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "APPROPRIATIONS COMMITTEE",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"lower\", \"name\": \"APPROPRIATIONS COMMITTEE\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0907.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Purpose / Fiscal Note",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0907SOP.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Idaho Session Laws 2026",
+      "citation": "Chapter 140",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0907/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:id/government",
+    "name": "Idaho",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:id"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:54:52Z"
+  }
+}

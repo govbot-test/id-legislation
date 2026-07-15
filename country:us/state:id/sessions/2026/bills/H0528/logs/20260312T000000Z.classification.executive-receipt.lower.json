@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Delivered to Governor at 3:13 p.m. on March 12, 2026",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0528/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0528"
+}

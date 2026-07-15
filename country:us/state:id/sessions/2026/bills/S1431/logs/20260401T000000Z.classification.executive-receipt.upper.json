@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported delivered to Governor at 1:24 p.m. on 04/01/26",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1431/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1431"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time in full \u2013 FAILED - 8-27-0AYES \u2013 Anthon, Carlson, Den Hartog, Foreman, Harris, Lakey, Okuniewicz, ToewsNAYS \u2013 Adams, Bernt, Bjerke(Bjerke), Blaylock, Burtenshaw, Cook, Galloway, Grow, Guthrie, Hart, Keyser, Kohl, Lenney, Lent, Nichols, Rabe, Ricks, Ruchti, Semmelroth, Shippy, Taylor, VanOrden, Ward-Engelking, Wintrow, Woodward, Zito, ZuiderveldAbsent and excused \u2013 NoneFloor Sponsor - LakeyRet\u2019d to House",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0896/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0896"
+}

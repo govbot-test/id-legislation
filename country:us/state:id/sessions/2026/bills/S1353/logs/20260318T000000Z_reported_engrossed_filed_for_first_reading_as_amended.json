@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported engrossed, filed for first reading, as amended",
+    "occurred_at": "2026-03-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1353/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1353"
+}

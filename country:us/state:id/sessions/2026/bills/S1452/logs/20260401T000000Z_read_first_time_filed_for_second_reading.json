@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read First Time, Filed for Second Reading",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1452/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1452"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time in full \u2013 FAILED - 17-17-1Tie vote - President voted NAYAYES \u2013 Bernt, Blaylock, Burtenshaw, Cook, Den Hartog, Grow, Guthrie, Rabe, Ricks, Ruchti, Semmelroth, Taylor, Toews, VanOrden, Ward-Engelking, Wintrow, WoodwardNAYS \u2013 Adams, Anthon, Carlson, Foreman, Galloway, Harris, Hart, Keyser, Kohl, Lakey, Lenney, Lent, Nichols, Okuniewicz, Shippy, Zito, ZuiderveldAbsent and excused \u2013 Bjerke(Bjerke)Floor Sponsor - BerntRet\u2019d to House",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0760/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0760"
+}

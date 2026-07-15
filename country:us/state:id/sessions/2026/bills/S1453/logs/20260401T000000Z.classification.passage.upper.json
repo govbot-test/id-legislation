@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Rules Suspended (2/3 Vote - Read in full as required) \u2013 Read third time in full \u2013 PASSED - 20-15-0AYES \u2013 Adams, Anthon, Bernt, Bjerke(Bjerke), Burtenshaw, Cook, Den Hartog, Galloway, Grow, Guthrie, Harris, Lent, Rabe, Ricks, Ruchti, Shippy, Taylor, VanOrden, Ward-Engelking, WintrowNAYS \u2013 Blaylock, Carlson, Foreman, Hart, Keyser, Kohl, Lakey, Lenney, Nichols, Okuniewicz, Semmelroth, Toews, Woodward, Zito, ZuiderveldAbsent and excused \u2013 NoneFloor Sponsor - CookTitle apvd - to House",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1453/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1453"
+}

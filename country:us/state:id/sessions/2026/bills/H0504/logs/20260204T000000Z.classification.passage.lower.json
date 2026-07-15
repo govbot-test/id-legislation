@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 PASSED - 62-6-2AYES \u2013 Alfieri, Barbieri, Berch, Bingham, Boyle, Burgoyne, Cannon, Cayler, Cheatum, Church, Cornilles, Crane(12), Crane(13), Dygert, Egbert, Ehardt, Ehlers, Erickson, Fuhriman, Furniss, Gannon, Garner, Green, Hall(Stone), Handy, Harris, Hawkins, Haws, Healey, Hill, Holtzclaw, Manwaring, Mathias, McCann, Mendive, Mickelsen, Miller, Mitchell, Monks, Palmer, Petzke, Pickett, Pohanka, Price, Rasor, Raybould, Raymond, Redman, Rubel, Sauter, Scott, Shepherd, Shirts, Skaug, Tanner(13), Tanner(14), Vander Woude, Veile, Weber, Wheeler, Wisniewski, Mr. SpeakerNAYS \u2013 Beiswenger, Bruce, Hostetler, Leavitt, Marmon, NelsenAbsent \u2013 Galaviz, ThompsonFloor Sponsor - AlfieriTitle apvd - to Senate",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0504/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0504"
+}

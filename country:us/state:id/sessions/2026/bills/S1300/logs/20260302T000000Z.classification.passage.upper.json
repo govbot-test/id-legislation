@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third time in full \u2013 PASSED - 21-14-0AYES \u2013 Anthon, Bernt, Bjerke(Bjerke), Blaylock, Bruner(Adams), Carlson, Den Hartog, Foreman, Galloway, Harris, Hart, Keyser, Kohl, Lakey, Lenney, Nichols, Okuniewicz, Shippy, Toews, Zito, ZuiderveldNAYS \u2013 Burtenshaw, Cook, Grow, Guthrie, Lent, Rabe, Ricks, Ruchti, Semmelroth, Taylor, VanOrden, Ward-Engelking, Wintrow, WoodwardAbsent and excused \u2013 NoneFloor Sponsor - OkuniewiczTitle apvd - to House",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1300/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1300"
+}

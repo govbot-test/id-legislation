@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 FAILED - 28-42-0AYES \u2013 Bingham, Boyle, Cannon, Cheatum, Cornilles, Fuhriman, Galaviz, Green, Handy, Haws, Healey, Holtzclaw, Mathias, Mickelsen, Miller, Nelsen, Palmer, Petzke, Pickett, Pohanka, Raybould, Raymond, Sauter, Shepherd, Shirts, Veile, Weber, WheelerNAYS \u2013 Alfieri, Barbieri, Beiswenger, Berch, Bruce, Burgoyne, Cayler, Church, Crane(12), Crane(13), Dygert, Egbert, Ehardt, Ehlers, Erickson, Furniss, Gannon, Garner, Hall(Stone), Harris, Hawkins, Hill, Hostetler, Leavitt, Manwaring, Marmon, McCann, Mendive, Mitchell, Monks, Price, Rasor, Redman, Rubel, Scott, Skaug(Chadwick), Tanner(13), Tanner(14), Thompson, Vander Woude, Wisniewski, Mr. SpeakerAbsent \u2013 NoneFloor Sponsor - PickettOrder ret\u2019d to Senate",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1340/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1340"
+}

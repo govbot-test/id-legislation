@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third time in full as amended \u2013 PASSED - 58-11-1AYES \u2013 Alfieri, Barbieri, Beiswenger, Bingham, Boyle, Bruce, Burgoyne, Cannon, Cayler, Cheatum, Cornilles, Crane(12), Crane(13), Dygert, Ehardt, Ehlers, Erickson, Fuhriman, Furniss, Garner, Hall(Stone), Handy, Harris, Hawkins, Healey, Hill, Holtzclaw, Hostetler, Leavitt, Manwaring, Marmon, Mendive, Mickelsen(Athay), Miller, Mitchell, Monks, Palmer, Petzke, Pickett, Pohanka, Price, Rasor, Raybould, Raymond, Redman, Scott, Shepherd, Shirts, Skaug, Tanner(13), Tanner(14), Thompson, Vander Woude, Veile, Weber, Wheeler, Wisniewski, Mr. SpeakerNAYS \u2013 Berch, Church, Egbert, Galaviz, Gannon, Haws, Mathias, McCann, Nelsen, Rubel, SauterAbsent \u2013 GreenFloor Sponsor - HillTitle apvd - to Senate",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0561/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0561"
+}

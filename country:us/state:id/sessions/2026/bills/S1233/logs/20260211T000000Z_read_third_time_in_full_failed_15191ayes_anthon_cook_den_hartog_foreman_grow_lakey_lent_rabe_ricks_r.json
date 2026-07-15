@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time in full \u2013 FAILED - 15-19-1AYES \u2013 Anthon, Cook, Den Hartog, Foreman, Grow, Lakey, Lent, Rabe, Ricks, Ruchti, Semmelroth, Taylor, VanOrden, Ward-Engelking, WoodwardNAYS \u2013 Adams, Bernt, Bjerke, Blaylock, Burtenshaw, Carlson, Galloway, Guthrie, Harris, Hart, Keyser, Kohl, Lenney, Nichols, Okuniewicz, Shippy, Toews, Zito, ZuiderveldAbsent and excused \u2013 WintrowFloor Sponsor - ForemanFiled in Office of the Secretary of Senate",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1233/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1233"
+}

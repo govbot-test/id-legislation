@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 ADOPTED \u2013 voice voteFloor Sponsor \u2013 ChurchTitle apvd \u2013 Filed in Office of the Chief Clerk",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/HR020/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 020"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by President; returned to House",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/HCR034/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 034"
+}

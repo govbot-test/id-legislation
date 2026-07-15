@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 FAILED - 30-40-0AYES \u2013 Berch, Bingham, Burgoyne, Cannon, Cheatum, Church, Cornilles, Egbert, Fuhriman, Furniss, Galaviz, Gannon, Garner, Green, Hall(Stone), Handy, Haws, Manwaring, Mathias, McCann, Mickelsen, Nelsen, Pohanka, Raybould, Raymond, Rubel, Sauter, Veile, Weber, WheelerNAYS \u2013 Alfieri, Barbieri, Beiswenger, Boyle, Bruce, Cayler, Crane(12), Crane(13), Dygert, Ehardt, Ehlers, Erickson, Harris, Hawkins, Healey, Hill, Holtzclaw, Hostetler, Leavitt, Marmon, Mendive, Miller, Mitchell, Monks, Palmer, Petzke, Pickett, Price, Rasor, Redman, Scott, Shepherd, Shirts, Skaug(Chadwick), Tanner(13), Tanner(14), Thompson, Vander Woude, Wisniewski, Mr. SpeakerAbsent \u2013 NoneFloor Sponsor - CheatumFiled in Office of the Chief Clerk",
+    "occurred_at": "2026-03-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0725/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0725"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0725/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0725"
+}

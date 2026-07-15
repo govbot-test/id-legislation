@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 ADOPTED \u2013 voice voteFloor Sponsor \u2013 MonksTitle apvd \u2013 to Senate",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/HCR036/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 036"
+}

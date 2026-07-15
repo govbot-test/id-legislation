@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported out of Committee with Do Pass Recommendation; Filed for second reading",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1384/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1384"
+}

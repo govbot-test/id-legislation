@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third time in full \u2013 PASSED - 21-14-0AYES \u2013 Adams, Anthon, Bernt, Blaylock, Burtenshaw, Cook, Galloway, Grow, Guthrie, Harris, Lenney, Lent, Rabe, Ruchti, Semmelroth, Shippy, Taylor, Toews, Ward-Engelking, Wintrow, WoodwardNAYS \u2013 Bjerke(Bjerke), Carlson, Den Hartog, Foreman, Hart, Keyser, Kohl, Lakey, Nichols, Okuniewicz, Ricks, VanOrden, Zito, ZuiderveldAbsent and excused \u2013 NoneFloor Sponsor - WoodwardTitle apvd - to House",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1397/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1397"
+}

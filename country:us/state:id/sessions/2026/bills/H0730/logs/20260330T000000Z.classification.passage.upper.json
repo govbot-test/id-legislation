@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third time as amended in the Senate \u2013 PASSED - 29-6-0AYES \u2013 Adams, Anthon, Bernt, Bjerke(Bjerke), Blaylock, Burtenshaw, Carlson, Cook, Den Hartog, Foreman, Galloway, Grow, Guthrie, Harris, Hart, Keyser, Kohl, Lakey, Lenney, Lent, Nichols, Okuniewicz, Ricks, Shippy, Toews, VanOrden, Woodward, Zito, ZuiderveldNAYS \u2013 Rabe, Ruchti, Semmelroth, Taylor, Ward-Engelking, WintrowAbsent and excused \u2013 NoneFloor Sponsor - BlaylockTitle apvd - to House",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0730/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0730"
+}

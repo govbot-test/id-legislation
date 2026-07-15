@@ -1,0 +1,127 @@
+{
+  "legislative_session": "2026",
+  "identifier": "H 0951",
+  "title": "APPROPRIATIONS \u2013 OFFICE OF THE ATTORNEY GENERAL \u2013 Relates to the appropriation to the Office of the Attorney General for fiscal years 2026 and 2027.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "APPROPRIATIONS",
+    "ATTORNEY GENERAL"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Approp, attorney gen, add\u2019l"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-id-2026-h951"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced, read first time, referred to JRA for Printing",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Reported Printed; Filed for Second Reading",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Read second time; Filed for Third Reading",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Rules Suspended: Ayes 68 Nays 1 Abs/Excd 1, read in full as required \u2013 FAILED - 33-37-0AYES \u2013 Alfieri, Barbieri, Beiswenger, Boyle, Bruce, Burgoyne, Cannon, Crane(12), Crane(13), Ehardt, Ehlers, Fuhriman, Hall(Stone), Harris, Hawkins, Healey, Hill, Holtzclaw, Mendive, Miller, Mitchell, Palmer, Price, Rasor, Redman, Scott, Shepherd, Shirts, Skaug, Tanner(13), Tanner(14), Vander Woude, WisniewskiNAYS \u2013 Berch, Bingham, Cayler, Cheatum, Church, Cornilles, Dygert, Egbert, Erickson, Furniss, Galaviz, Gannon, Garner, Green, Handy, Haws, Hostetler, Leavitt, Manwaring, Marmon, Mathias, McCann, Mickelsen, Monks, Nelsen, Petzke, Pickett, Pohanka, Raybould, Raymond, Rubel, Sauter, Thompson, Veile, Weber, Wheeler, Mr. SpeakerAbsent \u2013 NoneFloor Sponsor - BruceFiled in Office of the Chief Clerk",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "APPROPRIATIONS COMMITTEE",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"lower\", \"name\": \"APPROPRIATIONS COMMITTEE\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0951.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Purpose / Fiscal Note",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0951SOP.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0951/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:id/government",
+    "name": "Idaho",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:id"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:54:51Z"
+  }
+}

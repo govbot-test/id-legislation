@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced; read first time; referred to JR for Printing",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/SR124/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 124"
+}

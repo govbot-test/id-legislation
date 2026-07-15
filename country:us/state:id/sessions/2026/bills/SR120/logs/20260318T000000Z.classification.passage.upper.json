@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read in full \u2013 ADOPTED \u2013 voice voteFloor Sponsor \u2013 ZitoTitle apvd \u2013 Filed in Office of Secretary of Senate",
+    "occurred_at": "2026-03-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/SR120/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 120"
+}

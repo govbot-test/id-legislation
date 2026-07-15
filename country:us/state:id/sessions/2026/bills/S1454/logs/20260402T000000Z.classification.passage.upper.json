@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported enrolled; signed by President; to House for signature of Speaker",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1454/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1454"
+}

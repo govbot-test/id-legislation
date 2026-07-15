@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read in full \u2013 ADOPTED - 24-10-1AYES \u2013 Adams, Anthon, Bernt, Bjerke(Bjerke), Blaylock, Burtenshaw, Carlson, Cook, Den Hartog, Foreman, Galloway, Grow, Guthrie, Harris, Hart, Keyser, Lakey, Lent, Nichols, Okuniewicz, Ricks, Ruchti, VanOrden, WoodwardNAYS \u2013 Kohl, Lenney, Rabe, Semmelroth, Shippy, Taylor, Ward-Engelking, Wintrow, Zito, ZuiderveldAbsent and excused \u2013 ToewsFloor Sponsor - VanOrdenTitle apvd - to House",
+    "occurred_at": "2026-03-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/HCR030/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 030"
+}

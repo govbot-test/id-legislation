@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Reported Signed by Governor on March 31, 2026    Session Law Chapter 242    Effective: 07/01/2026",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0678/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0678"
+}

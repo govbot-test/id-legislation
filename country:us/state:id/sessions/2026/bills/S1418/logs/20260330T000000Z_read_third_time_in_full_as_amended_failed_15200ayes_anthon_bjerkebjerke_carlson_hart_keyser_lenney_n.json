@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read third time in full as amended \u2013 FAILED - 15-20-0AYES \u2013 Anthon, Bjerke(Bjerke), Carlson, Hart, Keyser, Lenney, Nichols, Okuniewicz, Rabe, Ruchti, Semmelroth, Toews, Ward-Engelking, Wintrow, WoodwardNAYS \u2013 Adams, Bernt, Blaylock, Burtenshaw, Cook, Den Hartog, Foreman, Galloway, Grow, Guthrie, Harris, Kohl, Lakey, Lent, Ricks, Shippy, Taylor, VanOrden, Zito, ZuiderveldAbsent and excused \u2013 NoneFloor Sponsor - NicholsFiled in Office of the Secretary of Senate",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1418/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1418"
+}

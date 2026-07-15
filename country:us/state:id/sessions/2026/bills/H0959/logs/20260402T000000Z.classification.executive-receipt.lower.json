@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Delivered to Governor at 6:25 p.m. on April 2, 2026",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0959/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0959"
+}

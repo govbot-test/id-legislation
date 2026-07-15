@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported signed by the Speaker & ordered delivered to Governor",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1331/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1331"
+}

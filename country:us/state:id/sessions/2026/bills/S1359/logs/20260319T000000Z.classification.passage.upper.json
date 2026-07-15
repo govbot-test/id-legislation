@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third time in full as amended \u2013 PASSED - 19-16-0AYES \u2013 Adams, Bernt, Burtenshaw, Cook, Den Hartog, Foreman, Galloway, Guthrie, Harris, Keyser, Lenney, Lent, Rabe, Ruchti, Semmelroth, Taylor, VanOrden, Ward-Engelking, WintrowNAYS \u2013 Anthon, Bjerke(Bjerke), Blaylock, Carlson, Grow, Hart, Kohl, Lakey, Nichols, Okuniewicz, Ricks, Shippy, Toews, Woodward, Zito, ZuiderveldAbsent and excused \u2013 NoneFloor Sponsor - RuchtiTitle apvd - to House",
+    "occurred_at": "2026-03-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1359/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1359"
+}

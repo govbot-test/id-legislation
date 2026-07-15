@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time in full \u2013 FAILED - 16-19-0AYES \u2013 Bernt, Bruner(Adams), Burtenshaw, Cook, Foreman, Guthrie, Harris, Lent, Rabe, Ruchti, Semmelroth, Taylor, VanOrden, Ward-Engelking, Wintrow, WoodwardNAYS \u2013 Anthon, Bjerke(Bjerke), Blaylock, Carlson, Den Hartog, Galloway, Grow, Hart, Keyser, Kohl, Lakey, Lenney, Nichols, Okuniewicz, Ricks, Shippy, Toews, Zito, ZuiderveldAbsent and excused \u2013 NoneFloor Sponsor - BurtenshawFiled in Office of the Secretary of Senate",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1317/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1317"
+}

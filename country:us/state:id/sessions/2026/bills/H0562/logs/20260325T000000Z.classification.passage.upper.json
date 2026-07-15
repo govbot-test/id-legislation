@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by President; returned to House",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0562/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0562"
+}

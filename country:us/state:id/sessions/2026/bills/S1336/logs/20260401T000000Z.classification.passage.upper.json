@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third time in full as amended \u2013 PASSED - 28-6-1AYES \u2013 Adams, Anthon, Bernt, Bjerke(Bjerke), Blaylock, Burtenshaw, Carlson, Cook, Den Hartog, Galloway, Grow, Guthrie, Harris, Hart, Keyser, Kohl, Lakey, Lenney, Lent, Nichols, Okuniewicz, Ricks, Shippy, Toews, VanOrden, Woodward, Zito, ZuiderveldNAYS \u2013 Rabe, Ruchti, Semmelroth, Taylor, Ward-Engelking, WintrowAbsent and excused \u2013 ForemanFloor Sponsor - AnthonTitle apvd - to House",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1336/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1336"
+}

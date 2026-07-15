@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rules Suspended: Ayes 65 Nays 0 Abs/Excd 5, read in full as required \u2013 FAILED - 21-44-4AYES \u2013 Barbieri, Cannon(Cannon), Ehardt, Ehlers, Erickson, Fuhriman, Hill(Hill), McCann, Mendive, Miller, Mitchell, Monks, Palmer, Petzke, Pickett, Redman, Sauter, Shepherd, Tanner(14), Vander Woude, Mr. SpeakerNAYS \u2013 Alfieri, Beiswenger, Berch, Bingham, Boyle, Bruce, Burgoyne, Cayler, Cheatum, Cornilles, Crane(12), Crane(13), Dygert, Egbert(Beazer), Furniss, Galaviz, Gannon, Garner, Green, Hall(Stone), Handy, Harris, Hawkins, Healey, Holtzclaw, Hostetler, Leavitt, Marmon, Mathias, Mickelsen, Nelsen, Pohanka, Price, Rasor, Raybould, Raymond, Rubel, Scott, Shirts(Batt), Skaug, Tanner(13), Thompson, Veile, WisniewskiAbsent \u2013 Church, Manwaring, Weber, WheelerExcused from voting \u2013 HawsFloor Sponsor - Vander WoudeOrder ret\u2019d to Senate",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1436/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1436"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 U.C. to be placed on General Orders; objection",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0598/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0598"
+}

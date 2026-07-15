@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read in full \u2013 ADOPTED - 31-3-1AYES \u2013 Adams, Anthon, Bernt, Bjerke, Blaylock, Burtenshaw, Carlson, Cook, Den Hartog, Foreman, Galloway, Grow, Guthrie, Harris, Hart, Keyser, Lakey, Lenney, Lent, Nichols, Okuniewicz, Rabe, Ricks, Ruchti, Semmelroth, Shippy, Taylor, Toews(Toews), VanOrden, Ward-Engelking, WintrowNAYS \u2013 Kohl, Zito, ZuiderveldAbsent and excused \u2013 WoodwardFloor Sponsor - AnthonTitle apvd - to House",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/SCR118/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 118"
+}

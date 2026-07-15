@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported Printed and Referred to Judiciary, Rules & Administration",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0525/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0525"
+}

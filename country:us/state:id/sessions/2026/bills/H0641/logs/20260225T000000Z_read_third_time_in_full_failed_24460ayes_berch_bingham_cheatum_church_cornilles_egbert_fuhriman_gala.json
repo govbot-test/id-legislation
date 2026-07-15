@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 FAILED - 24-46-0AYES \u2013 Berch, Bingham, Cheatum, Church, Cornilles, Egbert, Fuhriman, Galaviz, Gannon, Green, Hall(Stone), Haws, Mathias, McCann, Nelsen, Petzke, Pohanka, Raybould, Raymond, Rubel, Sauter, Veile, Weber, WheelerNAYS \u2013 Alfieri, Barbieri, Beiswenger, Boyle, Bruce, Burgoyne, Cannon, Cayler, Crane(12), Crane(13), Dygert, Ehardt, Ehlers, Erickson, Furniss, Garner, Handy, Harris, Hawkins, Healey, Hill, Holtzclaw, Hostetler, Leavitt, Manwaring, Marmon, Mendive, Mickelsen, Miller, Mitchell, Monks, Palmer, Pickett, Price, Rasor, Redman, Scott, Shepherd, Shirts, Skaug, Tanner(13), Tanner(14), Thompson, Vander Woude, Wisniewski, Mr. SpeakerAbsent \u2013 NoneFloor Sponsor - CornillesFiled in Office of the Chief Clerk",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0641/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0641"
+}

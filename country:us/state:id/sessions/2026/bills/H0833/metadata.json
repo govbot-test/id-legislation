@@ -1,0 +1,129 @@
+{
+  "legislative_session": "2026",
+  "identifier": "H 0833",
+  "title": "EDUCATION \u2013 Adds to existing law to require public schools to offer daily recess to students in kindergarten through grade 5 and to encourage public schools to offer unstructured activity breaks for students in grades 6 through 8.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "EDUCATION",
+    "SCHOOLS AND SCHOOL DISTRICTS",
+    "STUDENTS",
+    "TEACHING AND TEACHERS"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Daily recess"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-id-2026-h833"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced, read first time, referred to JRA for Printing",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Reported Printed; Filed for Second Reading",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Read second time; Filed for Third Reading",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    },
+    {
+      "description": "Rules Suspended: Ayes 65 Nays 0 Abs/Excd 5, read in full as required \u2013 FAILED - 30-35-5AYES \u2013 Barbieri, Beiswenger, Boyle, Bruce, Cayler, Crane(12), Crane(13), Ehardt, Ehlers, Erickson(Larsen), Garner, Hall(Stone), Harris, Hill, Holtzclaw, Hostetler, Leavitt, Marmon, Mendive, Miller, Monks, Palmer, Pickett, Price, Rasor, Redman, Sauter, Scott, Shirts, Tanner(14)NAYS \u2013 Alfieri, Berch, Bingham, Burgoyne, Cannon, Cheatum, Church, Cornilles, Dygert, Egbert, Fuhriman, Furniss, Galaviz, Gannon, Handy, Haws, Mathias, Mickelsen, Mitchell, Nelsen, Petzke, Pohanka, Raybould, Raymond, Rubel, Shepherd, Skaug, Tanner(13), Thompson, Vander Woude, Veile, Weber, Wheeler, Wisniewski, Mr. SpeakerAbsent \u2013 Green, Hawkins, Healey, Manwaring, McCannFloor Sponsor - RedmanFiled in Office of the Chief Clerk",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:54:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "EDUCATION COMMITTEE",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"lower\", \"name\": \"EDUCATION COMMITTEE\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0833.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Purpose / Fiscal Note",
+      "links": [
+        {
+          "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0833SOP.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0833/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:id/government",
+    "name": "Idaho",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:id"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:54:51Z"
+  }
+}

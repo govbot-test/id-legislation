@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 ADOPTED \u2013 voice voteFloor Sponsor \u2013 WeberTitle apvd \u2013 Filed in Office of the Chief Clerk",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/HR024/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 024"
+}

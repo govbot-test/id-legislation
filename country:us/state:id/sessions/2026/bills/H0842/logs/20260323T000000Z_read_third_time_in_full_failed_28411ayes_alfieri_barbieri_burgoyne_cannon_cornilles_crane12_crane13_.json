@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 FAILED - 28-41-1AYES \u2013 Alfieri, Barbieri, Burgoyne, Cannon, Cornilles, Crane(12), Crane(13), Dygert, Ehardt, Ehlers, Erickson, Gannon, Healey, Hill, Holtzclaw, Miller, Mitchell, Monks, Palmer, Pickett, Price, Redman, Sauter, Shepherd, Skaug, Tanner(13), Tanner(14), Mr. SpeakerNAYS \u2013 Beiswenger, Berch, Bingham, Boyle, Bruce, Cayler, Cheatum, Church, Egbert, Fuhriman, Furniss, Garner, Green, Hall(Stone), Handy, Harris, Hawkins, Haws, Hostetler, Leavitt, Manwaring, Marmon, Mathias, McCann, Mendive, Mickelsen, Nelsen, Petzke, Pohanka, Rasor, Raybould, Raymond, Rubel, Scott, Shirts, Thompson, Vander Woude, Veile, Weber, Wheeler, WisniewskiAbsent \u2013 GalavizFloor Sponsor - CannonFiled in Office of the Chief Clerk",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0842/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0842"
+}

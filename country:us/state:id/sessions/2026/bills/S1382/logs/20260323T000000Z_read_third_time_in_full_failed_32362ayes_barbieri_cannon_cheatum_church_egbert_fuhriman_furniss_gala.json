@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 FAILED - 32-36-2AYES \u2013 Barbieri, Cannon, Cheatum, Church, Egbert, Fuhriman, Furniss, Galaviz, Gannon, Green, Hall(Stone), Handy, Haws, Healey, Manwaring, Mathias, McCann, Mendive, Miller, Monks, Nelsen, Petzke, Pohanka, Raybould, Raymond, Rubel, Sauter, Tanner(14), Veile, Weber, Wheeler, Mr. SpeakerNAYS \u2013 Alfieri, Beiswenger, Bingham, Boyle, Bruce, Burgoyne, Cayler, Crane(12), Crane(13), Dygert, Ehardt, Ehlers, Erickson, Garner, Harris, Hawkins, Hill, Holtzclaw, Hostetler, Leavitt, Marmon, Mickelsen, Mitchell, Palmer, Pickett, Price, Rasor, Redman, Scott, Shepherd, Shirts, Skaug, Tanner(13), Thompson, Vander Woude, WisniewskiAbsent \u2013 Berch, CornillesFloor Sponsor - FurnissOrder ret\u2019d to Senate",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1382/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1382"
+}

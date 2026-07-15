@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed in the Committee of the Whole",
+    "occurred_at": "2026-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0494/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0494"
+}

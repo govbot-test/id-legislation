@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported delivered to Governor at 11:51 a.m. on 03/12/26",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1332/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1332"
+}

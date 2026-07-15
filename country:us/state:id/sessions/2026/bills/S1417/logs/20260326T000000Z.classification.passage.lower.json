@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Rules Suspended: Ayes 68 Nays 1 Abs/Excd 1, read in full as required \u2013 PASSED - 39-30-1AYES \u2013 Berch, Bingham, Cheatum, Church, Cornilles, Egbert, Erickson, Fuhriman, Furniss, Galaviz, Gannon, Green, Hall(Stone), Handy, Haws, Healey, Holtzclaw, Manwaring, Mathias, McCann, Mendive, Mickelsen, Miller, Mitchell, Monks, Palmer, Petzke, Pickett, Raybould, Raymond, Rubel, Sauter, Shepherd, Shirts, Tanner(14), Veile, Weber, Wheeler, Mr. SpeakerNAYS \u2013 Alfieri, Barbieri, Beiswenger, Boyle, Bruce, Burgoyne, Cannon, Cayler, Crane(12), Crane(13), Dygert, Ehardt, Ehlers, Garner, Harris, Hawkins, Hill, Hostetler, Leavitt, Marmon, Pohanka, Price, Rasor, Redman, Scott, Skaug, Tanner(13), Thompson, Vander Woude, WisniewskiAbsent \u2013 NelsenFloor Sponsor - ManwaringTitle apvd - to Senate",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1417/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1417"
+}

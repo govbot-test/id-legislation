@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third time in full \u2013 PASSED - 30-3-2AYES \u2013 Adams, Bernt, Bjerke(Bjerke), Burtenshaw, Carlson, Cook, Foreman, Galloway, Grow, Guthrie, Harris, Hart, Keyser, Kohl, Lakey, Lent, Nichols, Okuniewicz, Ricks, Ruchti, Semmelroth, Shippy, Taylor, Toews, Ward-Engelking, Wintrow, Woller(Rabe), Woodward, Zito, ZuiderveldNAYS \u2013 Blaylock, Den Hartog, LenneyAbsent and excused \u2013 Anthon, VanOrdenFloor Sponsor - ForemanTitle apvd - to House",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0556/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0556"
+}

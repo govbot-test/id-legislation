@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third time in full as amended \u2013 PASSED - 25-10-0AYES \u2013 Adams, Bjerke(Bjerke), Blaylock, Carlson, Den Hartog, Galloway, Harris, Hart, Kohl, Lakey, Lent, Nichols, Okuniewicz, Rabe, Ruchti, Semmelroth, Shippy, Taylor, Toews, VanOrden, Ward-Engelking, Wintrow, Woodward, Zito, ZuiderveldNAYS \u2013 Anthon, Bernt, Burtenshaw, Cook, Foreman, Grow, Guthrie, Keyser, Lenney, RicksAbsent and excused \u2013 NoneFloor Sponsor - ToewsTitle apvd - to House",
+    "occurred_at": "2026-03-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1354/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1354"
+}

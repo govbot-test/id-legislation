@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read Third Time in Full \u2013 ADOPTED - 39-29-2AYES \u2013 Alfieri, Barbieri, Beiswenger, Boyle, Bruce, Burgoyne, Cayler, Church, Crane(12), Crane(13), Egbert, Ehardt, Ehlers, Gannon, Harris, Hawkins, Healey, Hill, Holtzclaw, Hostetler, Leavitt, Marmon, Mendive, Mitchell, Monks, Palmer, Price, Rasor, Redman, Rubel, Scott, Shepherd, Shirts, Skaug(Chadwick), Tanner(13), Tanner(14), Thompson, Wisniewski, Mr. SpeakerNAYS \u2013 Bingham, Cannon, Cheatum, Cornilles, Dygert, Erickson(Larsen), Fuhriman, Furniss, Galaviz, Garner, Green, Hall(Stone), Handy, Manwaring, Mathias, McCann, Mickelsen, Miller, Nelsen, Petzke, Pickett, Pohanka, Raybould, Raymond, Sauter, Vander Woude, Veile, Weber, WheelerAbsent \u2013 Berch, HawsFloor Sponsor - HostetlerTitle apvd - to Senate",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/HJM018/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJM 018"
+}

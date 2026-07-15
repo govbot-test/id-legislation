@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "U.C. to be returned to Revenue & Taxation Committee",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0671/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 0671"
+}

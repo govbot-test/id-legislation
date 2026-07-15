@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported delivered to Governor at 11:15 a.m. on 03/19/26",
+    "occurred_at": "2026-03-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1325/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1325"
+}

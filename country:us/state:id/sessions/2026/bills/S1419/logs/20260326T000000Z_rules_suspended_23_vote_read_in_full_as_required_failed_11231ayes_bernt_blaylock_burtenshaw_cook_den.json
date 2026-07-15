@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rules Suspended (2/3 Vote - Read in full as required) \u2013 FAILED - 11-23-1AYES \u2013 Bernt, Blaylock, Burtenshaw, Cook, Den Hartog, Galloway, Guthrie, Harris, Lent, VanOrden, WoodwardNAYS \u2013 Adams, Anthon, Bjerke(Bjerke), Carlson, Foreman, Grow, Hart, Keyser, Kohl, Lenney, Nichols, Okuniewicz, Rabe, Ricks, Ruchti, Semmelroth, Shippy, Taylor, Toews, Ward-Engelking, Wintrow, Zito, ZuiderveldAbsent and excused \u2013 LakeyFloor Sponsor - VanOrdenFiled in Office of the Secretary of Senate",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1419/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1419"
+}

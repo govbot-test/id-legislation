@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Returned From House Passed; referred to enrolling",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/SJM107/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJM 107"
+}

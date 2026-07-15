@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Signed by Governor on 04/10/26    Session Law Chapter 321    Effective: 04/10/2026",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1439/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1439"
+}
