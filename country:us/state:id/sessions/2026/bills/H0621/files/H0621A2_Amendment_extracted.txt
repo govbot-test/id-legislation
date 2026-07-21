@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Mitchell
+Seconded by Harris(7)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO H.B. NO. 621
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, delete lines 14 and 15, and insert: "house,
+3 as defined in subsection (2) of this section"; in line 16, delete "awaiting
+4 sentencing"; following line 28, insert:
+5 "(2) For the purposes of this section, "courtroom portions of a court-
+6 house" means the courtroom, judges' chambers, witness rooms, jury deliber-
+7 ation rooms, attorney conference rooms, prisoner holding cells, the offices
+8 of the court clerks, probation and parole offices, and adjoining corridors
+9 of any court.";
+10 and in line 29, delete "(2)" and insert: "(3)".
+11 AMENDMENT TO THE BILL
+12 On page 1, delete lines 31 through 33, and insert:
+13 "SECTION 2. This act shall be in full force and effect on and after July
+14 1, 2027.".
+15 CORRECTION TO TITLE
+16 On page 1, in line 3, following "CONDUCT" insert: ", TO DEFINE A TERM,";
+17 and in line 4, delete "AND DECLARING AN EMERGENCY".

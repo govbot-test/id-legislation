@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Ehlers
+Seconded by Hawkins(2)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO S.B. NO. 1227
+1 AMENDMENT TO SECTION 1
+2 On page 2 of the printed bill, following line 7, insert:
+3 "(b) Ensure that no generative artificial intelligence replaces or
+4 eliminates a human teacher;";
+5 in line 8, delete "(b)" and insert: "(c)"; in line 10, delete "(c)" and in-
+6 sert: "(d)"; in line 12, delete "(d)" and insert: "(e)"; in line 17, fol-
+7 lowing "convene" insert: "two (2) members of the house of representatives
+8 appointed by the speaker of the house of representatives, two (2) members
+9 of the senate appointed by the president pro tempore of the senate,"; and
+10 in line 34, following "requirements," insert: "the Idaho parental rights
+11 act,".

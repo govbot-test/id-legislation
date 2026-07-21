@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 832
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-2205, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING CAREER TECHNICAL EDUCATION CERTIFICATES; AND DECLAR-
+4 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-2205, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-2205. STATE BOARD TO APPOINT ADMINISTRATOR -- DESIGNATION OF AS-
+9 SISTANTS -- DIVISION OF CAREER TECHNICAL EDUCATION -- DUTIES AND POWERS. (1)
+10 The state board of education shall appoint a person to serve as an adminis-
+11 trator to the state board for career technical education, who shall be known
+12 as the administrator of career technical education. The administrator shall
+13 designate, by and with the advice and consent of the state board for career
+14 technical education, such assistants as may be necessary to properly carry
+15 out the provisions of the federal acts and this chapter for the state of
+16 Idaho. The administrator and such assistants shall together be known as the
+17 division of career technical education.
+18 (2) The administrator of career technical education shall also carry
+19 into effect such rules as the state board for career technical education may
+20 adopt, shall coordinate all efforts in career technical education approved
+21 by the board with the executive secretary, and shall prepare such reports
+22 concerning the condition of career technical education in the state as the
+23 state board for career technical education may require.
+24 (3) The division of career technical education may coordinate with
+25 the Idaho digital learning academy to develop any statewide virtual career
+26 technical education course delivery. Districts may choose to enroll in the
+27 course offered by the Idaho digital learning academy or may use their own
+28 curriculum providers.
+29 (4) The division of career technical education shall maintain a list of
+30 secondary career technical education pathways that can be delivered by tra-
+31 ditional means or entirely online, or a combination of both methods. The
+32 division of career technical education shall develop a methodology for the
+33 funding of each pathway delivery type. For those pathways that are able to
+34 be delivered entirely online, there shall be a presumption that they shall
+35 receive the same funding as for traditional career technical education path-
+36 ways; however, actual funding shall be based upon actual approved costs, not
+37 to exceed the cost of delivering these pathways in a traditional setting.
+38 (5) The division of career technical education may provide incentives
+39 to Idaho public colleges and universities offering career technical pro-
+40 grams that, in coordination with the division, align their foundational
+41 courses that are required in the same or substantially similar programs of
+42 study so as to achieve uniformity and transferability in the core program
+
+2
+1 requirements at all such public colleges and universities. Postsecondary
+2 credits earned by a student in a career technical education program shall
+3 transfer at the full credit value to any public Idaho college or university
+4 in a like program of study and such postsecondary credits will be treated by
+5 any such public college or university as satisfying specific course require-
+6 ments in such program of study.
+7 (6) The board shall authorize the issuance of career technical educa-
+8 tion certificates to individuals who seek to teach in career-related sub-
+9 jects and who:
+10 (a) Submit to a criminal history check as described in section 33-130,
+11 Idaho Code, and meet at least one (1) of the following criteria:
+12 (i) Hold or have held an approved industry certification in a
+13 field closely related to the content area in which the individual
+14 seeks to teach as defined by the division of career technical edu-
+15 cation;
+16 (ii) Demonstrate a minimum of six thousand (6,000) hours of
+17 adequate professional experience in a field closely related to the
+18 content area in which the individual seeks to teach, as determined
+19 by the state board for career technical education; or
+20 (iii) Hold a baccalaureate degree in a field closely related to
+21 the content area in which the individual seeks to teach and demon-
+22 strate two thousand (2,000) hours of adequate professional expe-
+23 rience in a field closely related to the content area in which the
+24 individual seeks to teach, as determined by the state board for ca-
+25 reer technical education; and
+26 (b) Complete an educator training program or courses approved by the
+27 division of career technical education.
+28 (7) The state board of education may promulgate rules to implement the
+29 provisions of this section.
+30 SECTION 2. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after
+32 July 1, 2026.

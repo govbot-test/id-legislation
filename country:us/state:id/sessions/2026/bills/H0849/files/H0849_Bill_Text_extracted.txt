@@ -1,0 +1,458 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 849
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1004B, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE CAREER LADDER; AMENDING SECTION 33-1201A, IDAHO
+4 CODE, TO REVISE PROVISIONS REGARDING IDAHO PROFESSIONAL ENDORSEMENTS;
+5 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 33-1004B, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 33-1004B. CAREER LADDER. School districts shall receive an allocation
+10 for instructional staff and pupil service staff based on their staffs' posi-
+11 tion on the career ladder as follows:
+12 (1) Instructional Except as otherwise provided in this section, in-
+13 structional staff and pupil service staff who are in their first year
+14 of holding an Idaho certificate shall be placed in the first cell of the
+15 residency compensation rung and shall move one (1) cell on the residency com-
+16 pensation rung for each year they hold an Idaho certificate and are employed
+17 in an Idaho public school thereafter for up to three (3) years, at which point
+18 they will remain in the third cell of the residency rung until they earn a
+19 professional endorsement.
+20 (2) Instructional staff and pupil service staff in their first year of
+21 holding a professional endorsement shall be placed in the first cell of the
+22 professional compensation rung.
+23 (3) Instructional Except as otherwise provided in this section, in-
+24 structional staff and pupil service staff on the professional compensation
+25 rung with four (4) years of experience shall move one (1) cell on the profes-
+26 sional compensation rung unless they have failed to meet the professional
+27 compensation rung performance criteria for three (3) of the previous four
+28 (4) years. Instructional staff and pupil service staff on the professional
+29 compensation rung who meet the performance criteria for three (3) of the
+30 previous five (5) years, one (1) of which must be during the fourth or fifth
+31 year, shall move one (1) cell. Allocations for instructional staff and pupil
+32 service staff who do not meet the professional compensation rung performance
+33 criteria for three (3) of the previous five (5) years, one (1) of which must
+34 be during the fourth or fifth year, shall remain at the previous fiscal year
+35 allocation level. This also applies to the educational allocation.
+36 (4) Instructional staff and pupil service staff in their first year of
+37 holding an advanced professional endorsement shall be placed in the first
+38 cell of the advanced professional compensation rung.
+39 (5) Instructional Except as otherwise provided in this section, in-
+40 structional staff and pupil service staff on the advanced professional
+41 compensation rung who met the performance criteria for the advanced pro-
+42 fessional rung in the previous year shall move one (1) cell on the advanced
+
+2
+1 professional compensation rung. Allocations for instructional staff and
+2 pupil service staff who do not meet the advanced professional compensation
+3 rung performance criteria shall remain at the previous fiscal year alloca-
+4 tion level. This also applies to the additional education allocation.
+5 (6) Career technical education instructional staff holding an occupa-
+6 tional specialist certificate shall be placed on the career ladder as fol-
+7 lows:
+8 (a) Instructional staff new to or returning to working in an Idaho pub-
+9 lic school:
+10 (i) With two (2) or three (3) years of industry experience in a
+11 field closely related to the subjects they seek to teach shall be
+12 placed in an equivalent cell to instructional staff who have been
+13 on the career ladder and met the movement requirements for one (1)
+14 year;
+15 (ii) With four (4) or five (5) years of industry experience in a
+16 field closely related to the subjects they seek to teach shall be
+17 placed in an equivalent cell to instructional staff who have been
+18 on the career ladder and met the movement requirements for two (2)
+19 years;
+20 (iii) With six (6) or seven (7) years of industry experience in a
+21 field closely related to the subjects they seek to teach shall be
+22 placed in an equivalent cell to instructional staff who have been
+23 on the career ladder and met the movement requirements for three
+24 (3) years; and
+25 (iv) With eight (8) or more years of industry experience in a
+26 field closely related to the subjects they seek to teach shall be
+27 placed in an equivalent cell to instructional staff who have been
+28 on the career ladder and met the movement requirements for four (4)
+29 years; and
+30 (b) Existing career technical education instructional staff on the
+31 residency compensation rung shall have their placement updated con-
+32 sistent with the provisions of paragraph (a) of this subsection if the
+33 update would result in a rung higher than their current placement.
+34 (7)(a) Career technical education instructional staff holding an oc-
+35 cupational specialist certificate who are placed on the career ladder
+36 pursuant to the provisions of subsection (6) of this section and ini-
+37 tially placed on the professional compensation rung shall move cells on
+38 the professional compensation rung as follows:
+39 (i) Those with one (1) year of experience shall move one (1) cell
+40 on the professional compensation rung unless they have failed to
+41 meet the professional compensation rung performance criteria for
+42 the first year;
+43 (ii) Those with two (2) years of experience shall move one (1) cell
+44 on the professional compensation rung unless they have failed to
+45 meet the professional compensation rung performance criteria in
+46 either of the two (2) years;
+47 (iii) Those with three (3) years of experience shall move one (1)
+48 cell on the professional compensation rung unless they have failed
+49 to meet the professional compensation rung performance criteria
+50 for two (2) of the previous three (3) years; and
+
+3
+1 (iv) Those with four (4) or more years of experience shall move
+2 according to the provisions of subsection (3) of this section.
+3 (b) Allocations for such instructional staff who do not meet the pro-
+4 fessional compensation rung performance criteria in any year shall re-
+5 main at the previous fiscal year allocation level.
+6 (7) (8) Instructional staff or pupil service staff entering their first
+7 year on the career ladder, but with prior certificated instructional, pupil
+8 service, administrative, or equivalent elementary or secondary school ex-
+9 perience, including in an accredited private or parochial school, shall be
+10 placed on the career ladder as follows:
+11 (a) Instructional staff and pupil service staff who have been awarded a
+12 professional endorsement shall be placed as follows:
+13 (i) Those with four (4) years of certificated experience and doc-
+14 umentation from the hiring school district or charter school ad-
+15 ministrator, attesting the individual has provided evidence that
+16 the individual has met the professional compensation rung perfor-
+17 mance criteria in two (2) of the previous four (4) years, shall be
+18 placed in an equivalent cell on the career ladder to instructional
+19 staff or pupil service staff who have met the movement criteria for
+20 four (4) years; or
+21 (ii) Those with five (5) or more years of certificated experi-
+22 ence and documentation from the hiring school district or charter
+23 school administrator, attesting the individual has provided ev-
+24 idence that the individual has met the professional compensation
+25 rung performance criteria in three (3) of the previous five (5)
+26 years, with one (1) year being the fourth or fifth year, shall be
+27 placed in an equivalent cell on the career ladder to instructional
+28 staff or pupil service staff who have met the movement criteria for
+29 the equivalent number of years as they have verified experience.
+30 (b) Instructional staff and pupil service staff who have been awarded
+31 an advanced professional endorsement with nine (9) or more years of cer-
+32 tificated experience and documentation from the hiring school district
+33 or charter school administrator, attesting the individual has provided
+34 evidence that the individual has met the professional compensation rung
+35 performance criteria in three (3) of the previous five (5) years, with
+36 one (1) year being the fourth or fifth year, shall be placed in an equiv-
+37 alent cell on the career ladder to instructional staff or pupil service
+38 staff who have met the movement criteria for the equivalent number of
+39 years as they have verified experience.
+40 (9)(a) Pupil service staff new to or returning to working in an Idaho
+41 public school who are certified in and have industry experience in a
+42 field closely related to the position in which they seek to be employed,
+43 and which position is eligible for certificated pupil service staff,
+44 shall be placed on the career ladder as follows:
+45 (i) Those with two (2) or three (3) years of industry experience
+46 in a field closely related to the position in which they seek to
+47 work shall be placed in an equivalent cell to pupil service staff
+48 who have been on the career ladder and met the movement require-
+49 ments for one (1) year;
+
+4
+1 (ii) Those with four (4) or five (5) years of industry experience
+2 in a field closely related to the position in which they seek to
+3 work shall be placed in an equivalent cell to pupil service staff
+4 who have been on the career ladder and met the movement require-
+5 ments for two (2) years;
+6 (iii) Those with six (6) or seven (7) years of industry experience
+7 in a field closely related to the position in which they seek to
+8 work shall be placed in an equivalent cell to pupil service staff
+9 who have been on the career ladder and met the movement require-
+10 ments for three (3) years; and
+11 (iv) Those with eight (8) or more years of industry experience in
+12 a field closely related to the position in which they seek to work
+13 shall be placed in an equivalent cell to pupil service staff who
+14 have been on the career ladder and met the movement requirements
+15 for four (4) years; and
+16 (b) Existing pupil service staff on the residency compensation rung
+17 shall have their placement updated consistent with the provisions of
+18 paragraph (a) of this subsection if the update would result in a rung
+19 higher than their current placement.
+20 (10)(a) Pupil service staff holding a pupil service staff certificate
+21 who are placed on the career ladder pursuant to subsection (9) of this
+22 section and initially placed on the professional compensation rung
+23 shall move cells on the professional compensation rung as follows:
+24 (i) Those with one (1) year of experience shall move one (1) cell
+25 on the professional compensation rung unless they have failed to
+26 meet the performance criteria for the first year;
+27 (ii) Those with two (2) years of experience shall move one (1) cell
+28 on the professional compensation rung unless they have failed to
+29 meet the professional compensation rung performance criteria in
+30 either of the two (2) years;
+31 (iii) Those with three (3) years of experience shall move one (1)
+32 cell on the professional compensation rung unless they have failed
+33 to meet the professional compensation rung performance criteria
+34 for two (2) of the previous three (3) years; and
+35 (iv) Those with four (4) or more years of experience shall move
+36 according to the provisions of subsection (3) of this section.
+37 (b) Allocations for such pupil service staff who do not meet the profes-
+38 sional compensation rung performance criteria in any year shall remain
+39 at the previous fiscal year allocation level.
+40 (11) When determining the placement of instructional staff, pupil ser-
+41 vice staff, or career technical education instructional staff new to or re-
+42 turning to working in an Idaho public school, all experience calculated un-
+43 der subsections (6), (8), and (9) of this section shall be combined.
+44 (8) (12) In addition to the allocation amount specified for the applica-
+45 ble cell on the career ladder, school districts shall receive an additional
+46 allocation amount for career technical education instructional staff hold-
+47 ing an occupational specialist certificate in the area for which they are
+48 teaching in the amount of three thousand dollars ($3,000), which shall be
+49 designated for career technical education staff and included as part of
+50 their salary.
+
+5
+1 (9) (13) In addition to the allocation amount specified for the applica-
+2 ble cell on the career ladder, school districts shall receive an additional
+3 allocation amount for instructional staff and pupil service staff holding
+4 a professional or an advanced professional endorsement who have acquired
+5 additional education and meet the professional or advanced professional
+6 compensation rung performance criteria. In determining the additional ed-
+7 ucation allocation amount, only transcripted credits and degrees on file
+8 with the teacher certification office of the state department of education,
+9 earned at an institution of higher education accredited by a body recognized
+10 by the state board of education or credits earned through an internship or
+11 work experience approved by the state board of education, shall be allowed.
+12 All credits and degrees earned must be in a relevant pedagogy or content area
+13 as determined by the state department of education. Additional education
+14 allocation amounts are not cumulative. Instructional staff whose initial
+15 certificate is an occupational specialist certificate shall be treated as BA
+16 degree-prepared instructional staff. Credits earned by such occupational
+17 specialist instructional staff after initial certification shall be cred-
+18 ited toward the education allocation. Additional education allocations
+19 are:
+20 (a) For instructional staff and pupil service staff holding a profes-
+21 sional or an advanced professional endorsement, a baccalaureate degree
+22 and twenty-four (24) or more credits, two thousand dollars ($2,000) per
+23 fiscal year.
+24 (b) For instructional staff and pupil service staff holding a profes-
+25 sional or an advanced professional endorsement and a master's degree,
+26 three thousand five hundred dollars ($3,500) per fiscal year.
+27 (c) Effective July 1, 2021, the allocation shall be:
+28 Base
+29 Allocation 1 2 3 4 5
+30 Residency $40,369 $40,990 $41,611
+31 Professional $42,991 $44,836 $46,681 $48,526 $50,370
+32 Advanced
+33 Professional $52,734 $53,207
+34 (d) Effective July 1, 2022, the allocation shall be:
+35 Base
+36 Allocation 1 2 3 4 5
+37 Residency $40,742 $41,486 $42,231
+38 Professional $43,488 $45,302 $47,116 $48,930 $50,743
+39 Advanced
+40 Professional $53,478 $54,442 $55,389
+41 (e) Effective July 1, 2023, the allocation shall be:
+42 Base
+43 Allocation 1 2 3 4 5
+44 Residency $41,118 $41,988 $42,860
+
+6
+1 Professional $43,990 $45,773 $47,555 $49,337 $51,119
+2 Advanced
+3 Professional $54,233 $55,705 $57,165 $58,613
+4 (f) Effective July 1, 2024, the allocation shall be:
+5 Base
+6 Allocation 1 2 3 4 5
+7 Residency $41,500 $42,500 $43,500
+8 Professional $44,500 $46,250 $48,000 $49,750 $51,500
+9 Advanced
+10 Professional $55,000 $57,000 $59,000 $61,000 $63,000
+11 (10) (14) Effective July 1, 2025, the educator salary-based apportion-
+12 ment program compensation rung cell amounts shall be adjusted by an amount
+13 equivalent to the salary-based apportionment adjustment for administrative
+14 and classified staff positions.
+15 (11) (15) A review of a sample of evaluations completed by adminis-
+16 trators shall be conducted annually to verify such evaluations are being
+17 conducted with fidelity to the state framework for teaching evaluation,
+18 including each domain and identification of which domain or domains the
+19 administrator is focusing on for the instructional staff or pupil service
+20 staff member being evaluated, as outlined in administrative rule. The re-
+21 view shall be completed prior to November 1 of each year. The state board of
+22 education shall randomly select a sample of administrators throughout the
+23 state. A portion of such administrators' instructional staff and pupil ser-
+24 vice staff employee evaluations shall be independently reviewed. The ratio
+25 of instructional staff evaluations to pupil service staff evaluations shall
+26 be equal to the ratio of the statewide instructional staff salary allowance
+27 to pupil service staff salary allowance. The state board of education, with
+28 input from the Idaho-approved teacher preparation programs and the state
+29 department of education, shall identify individuals and a process to conduct
+30 the reviews. Administrator certificate holders shall be required to par-
+31 ticipate in ongoing evaluation training pursuant to section 33-1204, Idaho
+32 Code. The state board of education shall report annually the findings of
+33 such reviews to the senate education committee, the house of representatives
+34 education committee, the state board of education and the deans of Idaho's
+35 approved teacher preparation programs. The state board of education shall
+36 promulgate rules implementing the provisions of this subsection.
+37 (12) (16) School districts shall submit annually to the state the data
+38 necessary to determine if an instructional staff or pupil service staff
+39 member has met the performance criteria for movement on the applicable
+40 compensation rung. Such data shall include the individuals' performance
+41 on each of the performance criteria as defined in section 33-1001, Idaho
+42 Code, including the percentage of students meeting their measurable student
+43 achievement and student success indicator targets. The department of edu-
+44 cation shall calculate whether or not instructional staff and pupil service
+45 staff have met the compensation rung performance criteria based on the data
+46 submitted during the previous five (5) years. Individually identifiable
+47 performance evaluation ratings submitted to the state remain part of the
+48 employee's personnel record and are exempt from public disclosure pursuant
+49 to section 74-106, Idaho Code.
+
+7
+1 SECTION 2. That Section 33-1201A, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 33-1201A. IDAHO PROFESSIONAL ENDORSEMENT -- ELIGIBILITY. (1) Any in-
+4 structional staff employee or any pupil service staff employee will receive
+5 mentoring as outlined in such employee's individualized professional learn-
+6 ing plan during the initial three (3) years of holding such certificate.
+7 Upon holding a certificate for three (3) years, any such instructional staff
+8 or pupil service staff employee may apply for an Idaho professional endorse-
+9 ment. Upon holding a professional endorsement for five (5) years or more,
+10 any such instructional staff or pupil service staff employee may apply for an
+11 Idaho advanced professional endorsement. Individuals who hold an instruc-
+12 tional staff certificate and a pupil service staff certificate shall have
+13 their experience based on the overall years of experience if held consecu-
+14 tively or the certificate they have held the longest if dually certificated.
+15 (2) To be eligible for an Idaho professional endorsement, the instruc-
+16 tional staff or pupil service staff employee must:
+17 (a) Have held a certificate and been employed in a public school for at
+18 least three (3) years or have completed a state board of education-ap-
+19 proved interim certificate of three (3) years or longer;
+20 (b) Show they met the professional compensation rung performance cri-
+21 teria for two (2) of the three (3) previous years or the third year;
+22 (c) Have a written recommendation from the employing school district;
+23 and
+24 (d) Have an annual individualized professional learning plan developed
+25 in conjunction with the employee's school district supervisor.
+26 Instructional staff employees may provide additional evidence demonstrat-
+27 ing effective teaching that may be considered in exceptional cases for
+28 purposes of determining proficiency and student achievement in the event
+29 required standards for professional endorsement are not met. Pupil service
+30 staff employees may provide additional evidence demonstrating effective
+31 student achievement or success that may be considered in exceptional cases
+32 for purposes of determining proficiency and student achievement or success
+33 in the event required standards for professional endorsement are not met.
+34 (3) To be eligible for an Idaho advanced professional endorsement, the
+35 instructional staff or pupil service staff employee must:
+36 (a) Have held a renewable certificate and been employed in a public
+37 school for at least eight (8) years or more or have completed a state
+38 board of education-approved interim certificate of three (3) years or
+39 longer and held a renewable certificate and been employed in a public
+40 school for five (5) years or more;
+41 (b) Show they met the professional compensation rung performance cri-
+42 teria for four (4) of the five (5) previous years or the third, fourth,
+43 and fifth year;
+44 (c) During three (3) of the previous five (5) years, have served in
+45 an additional building or district leadership role in an Idaho public
+46 school, including but not limited to:
+47 (i) Instructional specialist or instructional coach;
+48 (ii) Mentor;
+49 (iii) Curriculum or assessment committee member;
+
+8
+1 (iv) Team or committee leadership position;
+2 (v) Data coach; or
+3 (vi) Other leadership positions identified by the school dis-
+4 trict;
+5 (d) Have a written recommendation from the employing school district;
+6 (e) Have an annual individualized professional learning plan developed
+7 in conjunction with the employee's supervisor and a self-evaluation;
+8 and
+9 (f)(i) Effective July 1, 2020, through June 30, 2021, show they
+10 have met the advanced professional compensation rung performance
+11 criteria for three (3) of the five (5) previous years or the fifth
+12 year;
+13 (ii) Effective July 1, 2021, through June 30, 2022, show they have
+14 met the advanced professional compensation rung performance cri-
+15 teria for three (3) of the five (5) previous years or the fourth and
+16 fifth year; or
+17 (iii) Effective July 1, 2022, show they have met the advanced pro-
+18 fessional compensation rung performance criteria for three (3) of
+19 the five (5) previous years.
+20 Instructional staff employees may provide additional evidence demon-
+21 strating effective teaching that may be considered in exceptional cases
+22 for purposes of determining proficiency and student achievement in the
+23 event required standards for the advanced professional endorsement are not
+24 met. Pupil service staff employees may provide additional evidence demon-
+25 strating effective student achievement or success that may be considered
+26 in exceptional cases for purposes of determining proficiency and student
+27 achievement or success in the event required standards for the advanced pro-
+28 fessional endorsement are not met.
+29 (4) Instructional staff and pupil service staff who have been certified
+30 in another state shall be eligible for the professional endorsement if they:
+31 (a) Have a written recommendation from the employing school district;
+32 (b) Have worked in a certificated position in a compact-member state
+33 other than Idaho pursuant to section 33-4104, Idaho Code; and
+34 (c) Would have been eligible to work in a certificated position in an
+35 Idaho public school based on that certification for three (3) to eight
+36 (8) years.
+37 (5) Instructional staff and pupil service staff who have been certified
+38 in another state shall be eligible for the advanced professional endorsement
+39 if they:
+40 (a) Have a written recommendation from the employing school district;
+41 (b) Have worked in a certificated position in a compact-member state
+42 other than Idaho pursuant to section 33-4104, Idaho Code; and
+43 (c) Would have been eligible to work in a certificated position in an
+44 Idaho public school based on that certification for nine (9) years or
+45 more.
+46 (6) Instructional staff and pupil service staff who have worked in
+47 an accredited private school and maintained their instructional or pupil
+48 service staff certification may use their years of private school work ex-
+49 perience to meet the years of experience requirements for the professional
+50 and advanced professional endorsement. Such staff may provide additional
+
+9
+1 evidence demonstrating effective teaching that may be considered in excep-
+2 tional cases for purposes of determining proficiency and student achieve-
+3 ment requirements for professional and advanced professional eligibility
+4 criteria.
+5 (7) Pupil service staff and career technical education instructional
+6 staff may use the years of industry experience, as calculated pursuant to
+7 section 33-1004B(6) and (9), Idaho Code, to meet the years of experience
+8 requirements for the professional and advanced professional endorsements.
+9 Such staff may provide additional evidence demonstrating effective teaching
+10 that may be considered in exceptional cases for purposes of determining pro-
+11 ficiency and student achievement requirements for professional and advanced
+12 professional eligibility criteria.
+13 (7) (8) Individuals holding a professional endorsement or an advanced
+14 professional endorsement will be annually evaluated in at least two (2) do-
+15 mains in the state evaluation framework approved by the state board of educa-
+16 tion. All other instructional or pupil service staff employees must be eval-
+17 uated across all domains in the evaluation framework. Ratings in the domains
+18 described in section 33-1001(20)(b), Idaho Code, are required as part of the
+19 advanced professional compensation rung performance criteria.
+20 (8) (9) The state board of education shall promulgate rules implement-
+21 ing the provisions of this section.
+22 (9) (10) For the purposes of this section:
+23 (a) "Certificate" means an Idaho instructional certificate, pupil
+24 service staff certificate, or out-of-state educator certificate that
+25 meets the requirements for reciprocity under rules promulgated by the
+26 state board of education;
+27 (b) In conjunction with the Idaho evaluation framework, "individual-
+28 ized professional learning plan" means an individualized professional
+29 development plan based on the Idaho framework for teaching evaluation
+30 and includes, at a minimum, identified interventions based on the indi-
+31 vidual's strengths and areas of needed growth, how the individual will
+32 set student achievement and growth goals, and areas of identified pro-
+33 fessional development and mentoring that target continuous improvement
+34 in professional areas, future student achievement, and school building
+35 or district culture;
+36 (c) "Instructional staff" means those involved in the direct instruc-
+37 tion of a student or group of students and who hold a certificate issued
+38 under section 33-1201, Idaho Code;
+39 (d) "Pupil service staff" means those who provide services to students
+40 but are not involved in direct instruction of those students and who
+41 hold a certificate issued under section 33-1201, Idaho Code; and
+42 (e) "School district" means a school district or a public charter
+43 school.
+44 SECTION 3. An emergency existing therefor, which emergency is hereby
+45 declared to exist, this act shall be in full force and effect on and after
+46 July 1, 2026.

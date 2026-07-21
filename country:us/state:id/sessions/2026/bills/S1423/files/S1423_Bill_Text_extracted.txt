@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1423
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE FAST ACT; AMENDING TITLE 67, IDAHO CODE, BY THE ADDITION OF A
+3 NEW CHAPTER 83, TITLE 67, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO PRO-
+4 VIDE A DECLARATION OF NECESSITY, TO DEFINE TERMS, TO PROVIDE FOR A LIST
+5 OF AUTHORIZED PAYMENT STABLECOINS, REQUIRE A CERTAIN REPORT, AND PRO-
+6 VIDE FOR CERTAIN LEGISLATIVE AUTHORITY, TO PROVIDE FOR STATE USE OF AU-
+7 THORIZED PAYMENT STABLECOINS, AND TO PROVIDE FOR INTERSTATE COORDINA-
+8 TION; PROVIDING SEVERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING
+9 AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Title 67, Idaho Code, be, and the same is hereby amended
+12 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+13 ter 83, Title 67, Idaho Code, and to read as follows:
+14 CHAPTER 83
+15 FINANCIAL ACCOUNTABILITY STABLECOIN TRANSACTION (FAST) ACT
+16 67-8301. SHORT TITLE. This act shall be known and may be cited as the
+17 "FAST Act."
+18 67-8302. DECLARATION OF NECESSITY. The legislature finds that:
+19 (1) Timely and efficient payment of obligations to state vendors and
+20 contractors is essential to the operation of state government;
+21 (2) The use of payment stablecoins backed by U.S. dollar-denominated
+22 reserves may reduce transaction costs, improve financial transparency, and
+23 expedite payment delivery;
+24 (3) The federal guiding and establishing national innovation for U.S.
+25 stablecoins act (GENIUS act), P.L. 119-27, establishes a comprehensive fed-
+26 eral framework governing payment stablecoins, including issuer qualifica-
+27 tion, reserve standards, consumer protections, and enforcement;
+28 (4) States are authorized under the GENIUS act to recognize and use per-
+29 mitted payment stablecoin issuers and to adopt substantially similar frame-
+30 works for oversight of state-level usage; and
+31 (5) It is the purpose of this chapter to authorize the state to recog-
+32 nize and use privately issued payment stablecoins qualified under the GENIUS
+33 act and state-issued, public purpose-qualified stablecoins.
+34 67-8303. DEFINITIONS. For the purposes of this chapter:
+35 (1) "Authorized payment stablecoin" means a GENIUS-qualified or pub-
+36 lic purpose-qualified stablecoin that has been authorized for state use pur-
+37 suant to section 67-8304, Idaho Code.
+38 (2) "GENIUS-qualified stablecoin" means a payment stablecoin that is:
+
+2
+1 (a) Approved, certified, listed, or otherwise authorized under the GE-
+2 NIUS act, including any rule, order, or regulation issued pursuant to
+3 the GENIUS act;
+4 (b) Fully backed on a one-to-one basis by U.S. dollars or U.S. treasury
+5 obligations;
+6 (c) Redeemable at par value on demand;
+7 (d) Fungible and transferable on regulated banking platforms, ex-
+8 changes, or open markets;
+9 (e) Sufficient for operational scale and market usage, demonstrating
+10 no less than two billion dollars ($2,000,000,000) in aggregate trans-
+11 action volume during the preceding twelve (12) months, as verified
+12 through publicly available disclosures, independent audits, or other
+13 reliable documentation acceptable to the state treasurer; and
+14 (f) Issued by a corporation or entity:
+15 (i) That is incorporated and headquartered in the United States;
+16 (ii) Whose corporate founders are United States citizens;
+17 (iii) Whose controlling shareholders are United States citizens;
+18 (iv) That maintains reserves in accounts held in banks chartered
+19 within the United States or with federally regulated custodians;
+20 (v) That is subject to quarterly independent attestations by an
+21 accounting firm that is currently registered with the public com-
+22 pany accounting oversight board; and
+23 (vi) That publishes monthly reserve reports disclosing asset com-
+24 position and location.
+25 (3) "Public purpose-qualified stablecoin" means any public entity
+26 stablecoin issued by a U.S. state and fully backed by U.S. dollars or U.S.
+27 treasury obligations with statutory over-collateralization. Public pur-
+28 pose-qualified stablecoins must provide a public benefit to Idaho through a
+29 revenue-sharing agreement or substantially similar benefit agreement.
+30 67-8304. LIST OF AUTHORIZED PAYMENT STABLECOINS -- REPORT. (1) Annu-
+31 ally, by January 1, the department of finance shall compile, maintain, and
+32 publish a list of payment stablecoins that are GENIUS-qualified or public
+33 purpose-qualified and have been authorized for use in state payments. The
+34 state treasurer may suspend or revoke authorization of any payment stable-
+35 coin that no longer maintains GENIUS or public purpose qualification or that
+36 presents material risk to state operations.
+37 (2) By December 15, 2027, and annually by December 15 thereafter, the
+38 state treasurer shall submit a report to the legislature through the portal
+39 provided pursuant to section 67-705, Idaho Code. The report shall be made
+40 available to the public and shall include:
+41 (a) Transaction volumes and estimated cost savings to the state to use
+42 authorized payment stablecoins; and
+43 (b) How the use of authorized payment stablecoins will:
+44 (i) Provide demonstrable fiscal benefits, revenue opportuni-
+45 ties, or cost savings to the state;
+46 (ii) Enhance transparency, auditability, or financial stability;
+47 or
+48 (iii) Promote competition and innovation within U.S. financial
+49 infrastructure.
+
+3
+1 (3) The department of finance shall establish standards for regulatory
+2 compliance. The state treasurer shall establish operational risk manage-
+3 ment procedures. The state controller shall establish accounting controls
+4 and audit requirements.
+5 (4) Notwithstanding the provisions of this section, the legislature
+6 may suspend or revoke the authorization of any payment stablecoin by adopt-
+7 ing a concurrent resolution or through the enactment of a law amending or
+8 superseding a list of stablecoins that have been authorized for use in state
+9 payments by the department of finance.
+10 67-8305. STATE USE OF AUTHORIZED PAYMENT STABLECOINS. (1) The state
+11 of Idaho and the state controller may use authorized payment stablecoins to
+12 make payments to vendors and contractors.
+13 (2) A vendor or contractor may elect, but shall not be required, to re-
+14 ceive payment in an authorized payment stablecoin.
+15 (3) Payments made using an authorized payment stablecoin shall be
+16 deemed valid, final, and enforceable as satisfaction of monetary obliga-
+17 tions owed by the state.
+18 (4) Prior to electing to receive payment in an authorized payment sta-
+19 blecoin, a vendor or contractor shall be provided disclosures relating to
+20 redemption rights, reserve backing, audit standards, and digital-asset cus-
+21 tody risks.
+22 (5) The state treasurer and the state controller shall establish secure
+23 systems and procedures for the use of authorized payment stablecoins and may
+24 contract with private entities to implement necessary infrastructure.
+25 (6) The state treasurer shall coordinate with applicable federal reg-
+26 ulators to ensure compliance with the GENIUS act and with applicable state
+27 regulators to ensure compliance with public purpose regulations and shall
+28 not impose issuer requirements inconsistent with federal law.
+29 67-8306. INTERSTATE COORDINATION. The state treasurer and the state
+30 controller, acting jointly, are authorized to enter into memoranda of under-
+31 standing, cooperative agreements, or information-sharing arrangements with
+32 other states and with federal agencies for the evaluation, integration, or
+33 utilization of public purpose-qualified stablecoins.
+34 SECTION 2. SEVERABILITY. The provisions of this act are hereby declared
+35 to be severable and if any provision of this act or the application of such
+36 provision to any person or circumstance is declared invalid for any reason,
+37 such declaration shall not affect the validity of the remaining portions of
+38 this act.
+39 SECTION 3. An emergency existing therefor, which emergency is hereby
+40 declared to exist, this act shall be in full force and effect on and after
+41 July 1, 2026.

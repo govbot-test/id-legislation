@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1227
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING TITLE 33, IDAHO CODE, BY THE ADDITION OF A
+3 NEW CHAPTER 70, TITLE 33, IDAHO CODE, TO PROVIDE FOR LEGISLATIVE IN-
+4 TENT, TO PROVIDE FOR DEFINITIONS, TO REQUIRE THE STATE DEPARTMENT OF
+5 EDUCATION TO DEVELOP A GENERATIVE ARTIFICIAL INTELLIGENCE IN EDUCATION
+6 FRAMEWORK, TO REQUIRE LOCAL SCHOOL DISTRICTS AND PUBLIC CHARTER SCHOOLS
+7 TO ADOPT CERTAIN POLICIES, TO REQUIRE THE STATE DEPARTMENT OF EDUCATION
+8 TO DEVELOP CERTAIN STANDARDS, ASSESSMENTS, AND PROFESSIONAL DEVELOP-
+9 MENT, TO PROVIDE FOR PARENTAL AND COMMUNITY ENGAGEMENT, TO PROVIDE FOR
+10 PROCUREMENT REQUIREMENTS, AND TO PROVIDE FOR RULEMAKING; AND DECLARING
+11 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. That Title 33, Idaho Code, be, and the same is hereby amended
+14 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+15 ter 70, Title 33, Idaho Code, and to read as follows:
+16 CHAPTER 70
+17 GENERATIVE ARTIFICIAL INTELLIGENCE IN EDUCATION
+18 33-7001. LEGISLATIVE INTENT. The legislature finds that generative
+19 artificial intelligence technologies are rapidly reshaping classroom
+20 learning, communication, and workforce expectations. It is the intent
+21 of the legislature to safeguard student privacy, protect the role of the
+22 educator, promote human-centered learning, increase transparency, and pre-
+23 pare Idaho students for success in an economy increasingly influenced by
+24 generative artificial intelligence technologies. It is the intent of the
+25 legislature that Idaho's public education system ensures the responsible,
+26 ethical, safe, and effective use of generative artificial intelligence
+27 tools in teaching, learning, and administration.
+28 33-7002. DEFINITIONS. For the purpose of this chapter:
+29 (1) "Generative artificial intelligence" or "generative AI" means ar-
+30 tificial intelligence models that use machine learning and are trained on
+31 large volumes of data that can generate new content. When prompted, gener-
+32 ative AI can create various outputs, including text, images, videos, com-
+33 puter code, and music. Generative AI does not include artificial intelli-
+34 gence models that have the primary goal of classifying data, such as those
+35 used in automated vehicles.
+36 (2) "Generative artificial intelligence in education" means the re-
+37 sponsible use of generative artificial intelligence technologies to support
+38 instruction, enhance student engagement, personalize learning, improve ad-
+39 ministrative efficiency, or assist educator decision-making while ensuring
+40 that human judgment remains the final authority.
+
+2
+1 33-7003. GENERATIVE ARTIFICIAL INTELLIGENCE IN EDUCATION FRAME-
+2 WORK. (1) The state department of education shall develop a statewide
+3 generative artificial intelligence in education framework, subject to state
+4 board of education approval, for use in K-12 Idaho public schools. The
+5 framework shall:
+6 (a) Prioritize human-centered oversight, transparency, safety, and
+7 data security;
+8 (b) Provide guidance on instructional integration, academic in-
+9 tegrity, digital citizenship, and responsible student use;
+10 (c) Address accessibility, accommodations, and access to generative AI
+11 tools; and
+12 (d) Serve as the foundation for local school district and public char-
+13 ter school policies, professional development, procurement practices,
+14 and statewide standards as provided for in the provisions of this chap-
+15 ter.
+16 (2) The framework shall be reviewed and updated as needed through a
+17 process led by the state department of education, which shall convene edu-
+18 cation practitioners, industry partners, and workforce representatives to
+19 ensure the framework reflects emerging technologies, risks, and best prac-
+20 tices.
+21 33-7004. POLICY ADOPTION. Each local school district and public char-
+22 ter school shall adopt a policy governing the use of generative artificial
+23 intelligence by students and employees in school buildings, on school
+24 grounds, during school activities, and on school-issued devices. The policy
+25 shall:
+26 (1) Align with the statewide generative artificial intelligence in ed-
+27 ucation framework approved by the state board of education pursuant to the
+28 provisions of this chapter;
+29 (2) Define appropriate and prohibited uses of generative AI for in-
+30 structional, administrative, and communication purposes;
+31 (3) Include safeguards for student privacy, data security, accessibil-
+32 ity, and academic integrity; and
+33 (4) Comply with all applicable state and federal laws, including Idaho
+34 student data privacy requirements, the family educational rights and pri-
+35 vacy act, the children's internet protection act, and the children's online
+36 privacy protection act.
+37 33-7005. STANDARDS, ASSESSMENTS, AND PROFESSIONAL DEVELOPMENT. The
+38 state department of education, in consultation with educators, industry
+39 partners, and technology experts, shall develop and recommend to the state
+40 board of education the following:
+41 (1) Generative AI literacy standards for K-12 students, including the
+42 knowledge and skills required to understand what generative AI is, how it
+43 works, its appropriate and age-appropriate uses, and how to use it ethi-
+44 cally, securely, and transparently;
+45 (2) Assessment guidelines to evaluate student understanding of genera-
+46 tive AI concepts, ethics, and responsible use; and
+47 (3) A professional development plan to build educator capacity in safe
+48 and effective integration of generative AI technologies.
+
+3
+1 33-7006. PARENTAL AND COMMUNITY ENGAGEMENT. The state department of
+2 education shall develop for parents and legal guardians a generative AI
+3 guidance document to support transparency and public understanding of gen-
+4 erative AI in public education.
+5 33-7007. PROCUREMENT AND TECHNOLOGY REQUIREMENTS. (1) All generative
+6 AI-related software, applications, and tools procured by local school dis-
+7 tricts and public charter schools shall comply with state and federal data
+8 privacy laws, including the family educational rights and privacy act, the
+9 children's internet protection act, and the children's online privacy pro-
+10 tection act. Vendors shall disclose whether products utilize machine learn-
+11 ing, predictive analytics, or generative AI and shall provide assurances re-
+12 garding data protection, algorithmic transparency, and responsible use.
+13 (2) The state department of education may establish a list of approved
+14 generative AI tools or develop model procurement guidelines for use by local
+15 school districts and public charter schools.
+16 33-7008. RULEMAKING AUTHORITY. The state board of education may pro-
+17 mulgate rules, subject to legislative approval, to implement the provisions
+18 of this chapter.
+19 SECTION 2. An emergency existing therefor, which emergency is hereby
+20 declared to exist, this act shall be in full force and effect on and after
+21 July 1, 2026.

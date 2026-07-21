@@ -1,0 +1,1187 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 884
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO NICOTINE PRODUCTS; AMENDING THE HEADING FOR CHAPTER 57, TITLE
+3 39, IDAHO CODE; AMENDING SECTION 39-5702, IDAHO CODE, TO DEFINE TERMS
+4 AND TO REVISE A DEFINITION; AMENDING SECTION 39-5703, IDAHO CODE, TO RE-
+5 VISE PROVISIONS REGARDING POSSESSION, DISTRIBUTION, OR USE BY A MINOR;
+6 AMENDING SECTION 39-5704, IDAHO CODE, TO PROVIDE FOR CERTAIN PERMIT-
+7 TING AND TO PROVIDE PENALTIES; AMENDING CHAPTER 57, TITLE 39, IDAHO
+8 CODE, BY THE ADDITION OF A NEW SECTION 39-5704A, IDAHO CODE, TO ESTAB-
+9 LISH PROVISIONS REGARDING SALES BETWEEN PERMITTED PERSONS OR ENTITIES
+10 ONLY; AMENDING CHAPTER 57, TITLE 39, IDAHO CODE, BY THE ADDITION OF A
+11 NEW SECTION 39-5704B, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING THE
+12 PERMITS REQUIRED FOR MANUFACTURERS OF ALTERNATIVE NICOTINE PRODUCTS,
+13 TOBACCO PRODUCTS, AND ELECTRONIC SMOKING DEVICES; AMENDING CHAPTER
+14 57, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-5704C,
+15 IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING AGENTS FOR SERVICE OF
+16 PROCESS; AMENDING CHAPTER 57, TITLE 39, IDAHO CODE, BY THE ADDITION OF
+17 A NEW SECTION 39-5704D, IDAHO CODE, TO ESTABLISH PROVISIONS REGARD-
+18 ING THE BOND REQUIREMENT FOR NONRESIDENT OR FOREIGN MANUFACTURERS OF
+19 ELECTRONIC SMOKING DEVICES; AMENDING CHAPTER 57, TITLE 39, IDAHO CODE,
+20 BY THE ADDITION OF A NEW SECTION 39-5704E, IDAHO CODE, TO ESTABLISH
+21 PROVISIONS REGARDING CERTAIN PENALTIES; AMENDING SECTION 39-5705,
+22 IDAHO CODE, TO PROHIBIT THE SALE OF ALTERNATIVE NICOTINE PRODUCTS TO
+23 MINORS; AMENDING SECTION 39-5706, IDAHO CODE, TO PROVIDE THAT ALTERNA-
+24 TIVE NICOTINE PRODUCTS MAY BE SOLD ONLY THROUGH VENDOR-ASSISTED SALES;
+25 AMENDING SECTION 39-5707, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+26 OPENED PACKAGES AND SAMPLES; AMENDING SECTION 39-5708, IDAHO CODE, TO
+27 REVISE PROVISIONS REGARDING CERTAIN CIVIL PENALTIES FOR VIOLATIONS OF
+28 A PERMIT; AMENDING SECTION 39-5709, IDAHO CODE, TO REVISE PROVISIONS
+29 REGARDING CERTAIN CRIMINAL PENALTIES FOR VIOLATIONS WITHOUT A PERMIT;
+30 AMENDING SECTION 39-5710, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+31 THE CONDUCT OF CERTAIN ENFORCEMENT ACTIONS; AMENDING SECTION 39-5711,
+32 IDAHO CODE, TO REVISE PROVISIONS REGARDING FUNDING; AMENDING SECTION
+33 39-5713, IDAHO CODE, TO REVISE PROVISIONS REGARDING LOCAL ORDINANCES;
+34 AMENDING SECTION 39-5714, IDAHO CODE, TO REVISE PROVISIONS REGARD-
+35 ING REQUIREMENTS FOR DELIVERY SALES; AMENDING SECTION 39-5715, IDAHO
+36 CODE, TO REVISE PROVISIONS REGARDING AGE VERIFICATION REQUIREMENTS;
+37 AMENDING SECTION 39-5717, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+38 SHIPPING REQUIREMENTS; AMENDING SECTION 39-5718, IDAHO CODE, TO RE-
+39 VISE PROVISIONS REGARDING REGISTRATION AND REPORTING REQUIREMENTS;
+40 AMENDING SECTION 39-8421, IDAHO CODE, TO PROVIDE A CORRECT CODE REFER-
+41 ENCE; AMENDING SECTION 56-227F, IDAHO CODE, TO PROVIDE A CORRECT CODE
+42 REFERENCE; AMENDING THE HEADING FOR CHAPTER 25, TITLE 63, IDAHO CODE;
+43 AMENDING SECTION 63-2551, IDAHO CODE, TO REVISE DEFINITIONS AND TO
+44 DEFINE TERMS; AMENDING SECTION 63-2552B, IDAHO CODE, TO REVISE PROVI-
+45 SIONS REGARDING USE TAXES; AMENDING CHAPTER 25, TITLE 63, IDAHO CODE,
+
+2
+1 BY THE ADDITION OF A NEW SECTION 63-2552C, IDAHO CODE, TO PROVIDE FOR
+2 A TAX ON THE SALE OF ALTERNATIVE NICOTINE PRODUCTS AND VAPOR PRODUCTS
+3 AND TO PROVIDE FOR THE DISTRIBUTION CERTAIN REVENUE; AMENDING SECTION
+4 63-2553, IDAHO CODE, TO REVISE LEGISLATIVE INTENT; AMENDING SECTION
+5 63-2554, IDAHO CODE, TO REVISE PROVISIONS REGARDING PERMITS REQUIRED;
+6 AMENDING SECTION 63-2555, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+7 BOOKS AND RECORDS TO BE PRESERVED AND ENTRY AND INSPECTION BY THE STATE
+8 TAX COMMISSION; AMENDING SECTION 63-2556, IDAHO CODE, TO REVISE PROVI-
+9 SIONS REGARDING THE PRESERVATION OF INVOICES OF SALES; AMENDING SECTION
+10 63-2557, IDAHO CODE, TO REVISE A PROVISION REGARDING INVOICES; AMENDING
+11 SECTION 63-2558, IDAHO CODE, TO REVISE PROVISIONS REGARDING RECORDS;
+12 AMENDING SECTION 63-2559, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+13 WHEN CREDIT MAY BE OBTAINED FOR TAX PAID; AMENDING SECTION 63-2563,
+14 IDAHO CODE, TO REVISE PROVISIONS REGARDING COLLECTION AND ENFORCEMENT;
+15 AMENDING SECTION 63-2565, IDAHO CODE, TO REVISE A PROVISION REGARDING
+16 REFUNDS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. That the Heading for Chapter 57, Title 39, Idaho Code, be,
+19 and the same is hereby amended to read as follows:
+20 CHAPTER 57
+21 PREVENTION OF MINORS' ACCESS TO ALTERNATIVE NICOTINE PRODUCTS, TOBACCO
+22 PRODUCTS, OR ELECTRONIC SMOKING DEVICES
+23 SECTION 2. That Section 39-5702, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 39-5702. DEFINITIONS. The terms used in this chapter are defined as
+26 follows:
+27 (1) "Alternative nicotine product" means a noncombustible product
+28 that contains nicotine or a nicotine analog, whether natural or synthetic,
+29 but does not contain tobacco and is intended for human consumption, whether
+30 chewed, absorbed, dissolved, ingested, or by other means. This term shall
+31 not include a vapor product, tobacco product, or any product regulated by the
+32 United States food and drug administration under chapter V of the federal
+33 food, drug, and cosmetic act.
+34 (1) (2) "Business" means any company, partnership, firm, sole propri-
+35 etorship, association, corporation, organization, or other legal entity, or
+36 a representative of the foregoing entities.
+37 (2) (3) "Delivery sale" means to distribute tobacco products or elec-
+38 tronic smoking devices to a consumer in a state where either:
+39 (a) The individual submits the order for such sale by means of a
+40 telephonic or other method of voice transmission, data transfer via
+41 computer networks, including the internet and other online services, or
+42 facsimile, or the mails; or
+43 (b) The tobacco products or electronic smoking devices are delivered by
+44 use of the mails or a delivery service.
+45 (3) (4) "Delivery service" means any person who is engaged in the com-
+46 mercial delivery of letters, packages or other containers.
+
+3
+1 (4) (5) "Department" means the state department of health and welfare
+2 or its duly authorized representative.
+3 (5) (6) "Distribute" means to give, deliver, sell, offer to give, offer
+4 to deliver, offer to sell or cause any person to do the same or hire any person
+5 to do the same.
+6 (7) "Distributor" means:
+7 (a) Any person engaged in the business of selling alternative nicotine
+8 products, tobacco products, or electronic smoking devices in this state
+9 who brings, or causes to be brought, into this state from outside the
+10 state any such products for sale;
+11 (b) Any person who makes, manufactures, or fabricates alternative
+12 nicotine products, tobacco products, or electronic smoking devices in
+13 this state for sale in this state; and
+14 (c) Any person engaged in the business of selling alternative nicotine
+15 products, tobacco products, or electronic smoking devices outside this
+16 state who ships or transports such products to retailers in this state
+17 to be sold by those retailers.
+18 (8) "Electronic smoking device" means any nonlighted, noncombustible
+19 product that employs a mechanical heating element, battery, or electronic
+20 circuit regardless of shape or size and that can be used to produce vapor
+21 from nicotine or a nicotine analog, however derived, in a solution. The term
+22 includes any vapor cartridge or other container of nicotine in a solution or
+23 other form that is intended to be used with or in an electronic cigarette,
+24 electronic cigar, electronic cigarillo, electronic pipe, or similar product
+25 or device. The term does not include any product regulated by the United
+26 States food and drug administration under chapter V of the federal food,
+27 drug, and cosmetic act.
+28 (6) (9) "Location" means the street address where tobacco or electronic
+29 smoking device products are sold or the uniform resource locator for retail-
+30 ers who sell tobacco or electronic smoking products exclusively via the in-
+31 ternet.
+32 (10) "Manufacturer" means a person who manufactures and sells alterna-
+33 tive nicotine products, tobacco products, or electronic smoking devices.
+34 (7) (11) "Minor" means a person under twenty-one (21) years of age.
+35 (8) (12) "Minor-exempt permit" means a permittee location whose rev-
+36 enues from the sale of alcoholic beverages for on-site consumption comprises
+37 at least fifty-five percent (55%) of total revenues, or whose products and
+38 services are primarily obscene, pornographic, profane, or sexually ori-
+39 ented, is exempt from inspections assisted by a minor, if minors are not
+40 allowed in the location and such prohibition is posted clearly on all en-
+41 trance doors.
+42 (13)(a) "Nicotine analog" means a substance:
+43 (i) The chemical structure of which is substantially similar to
+44 the chemical structure of nicotine; or
+45 (ii) That has, purports to have, or is represented to have, an ef-
+46 fect on the central nervous system that is similar to or greater
+47 than the effect on the central nervous system as nicotine.
+48 (b) Factors relevant to determining whether a substance is a nicotine
+49 analog include but are not limited to the marketing, advertising, and
+50 labeling of the substance and whether the substance has been manufac-
+
+4
+1 tured, formulated, sold, distributed, or marketed with the intent to
+2 avoid the provisions of this chapter and other provisions of law.
+3 (9) (14) "Permit" means a permit issued by the department for the sale or
+4 distribution of tobacco products or electronic smoking devices.
+5 (10) (15) "Permit endorsement" means a sale or delivery method used by
+6 the permittee to sell tobacco or electronic smoking device products, includ-
+7 ing delivery sales, delivery service, and direct sales.
+8 (11) (16) "Permittee" means the holder of a valid permit for the sale or
+9 distribution of tobacco products or electronic smoking devices.
+10 (12) (17) "Photographic identification" means state, district, terri-
+11 torial, possession, provincial, national or other equivalent government
+12 driver's license, identification card or military card, in all cases bearing
+13 a photograph and a date of birth, or a valid passport.
+14 (13) (18) "Random, unannounced inspection" means an inspection of re-
+15 tail outlets by a law enforcement agency or by the department, with or with-
+16 out the assistance of a minor, to monitor compliance of this chapter.
+17 (19) "Retailer" means any person engaged in the business of selling
+18 alternative nicotine products, tobacco products, or electronic smoking de-
+19 vices to ultimate consumers.
+20 (14) (20) "Seller" means the person who physically sells or distributes
+21 tobacco products or electronic smoking devices.
+22 (15) (21)(a) "Tobacco product or electronic smoking device" means:
+23 (i) Any substance containing, made of, or derived from tobacco
+24 or nicotine that is intended for human consumption or is likely to
+25 be consumed, whether inhaled, absorbed, or ingested by any other
+26 means, including but not limited to cigarettes, cigars, pipes,
+27 snuff, smoking or chewing tobacco, snus, tobacco papers, or smoke-
+28 less tobacco; or
+29 (ii) Any electronic smoking device that may be used to deliver an
+30 aerosolized or a vaporized substance to the person inhaling from
+31 the device, including but not limited to an electronic cigarette,
+32 an electronic cigar, an electronic pipe, a vape pen, or an elec-
+33 tronic hookah, or any component, part, or accessory of such a
+34 device, or any substance intended to be aerosolized or vaporized
+35 during use of the device, whether or not the substance contains
+36 nicotine, or any heated or lighted device intended to be used for
+37 inhalation; or
+38 (iii) (ii) Any components, parts, or accessories of a tobacco
+39 product or an electronic smoking device, whether or not they con-
+40 tain tobacco or nicotine, including but not limited to filters,
+41 rolling papers, blunt or hemp wraps, and pipes, whether manufac-
+42 tured, distributed, marketed, or sold as an electronic cigarette,
+43 electronic cigar, electronic hookah, or vape pen, or under any
+44 other product name or descriptor.
+45 (b) The term "tobacco product or electronic smoking device" does not
+46 include alternative nicotine products or drugs, devices, or combina-
+47 tions of products authorized for sale by the United States food and drug
+48 administration as those terms are defined in the federal food, drug, and
+49 cosmetic act.
+
+5
+1 (16) (22) "Vending machine" means any mechanical, electronic, or other
+2 similar device that, upon the insertion of tokens, money or any other form of
+3 payment, dispenses tobacco products or electronic smoking devices.
+4 (17) (23) "Vendor-assisted sales" means any sale or distribution in
+5 which the customer has no access to the product except through the assistance
+6 of the seller.
+7 (18) (24) "Without a permit" means a business that has failed to obtain a
+8 permit or a business whose permit is suspended or revoked.
+9 SECTION 3. That Section 39-5703, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 39-5703. POSSESSION, DISTRIBUTION, OR USE BY A MINOR. (1) It shall
+12 be unlawful for a minor to possess, receive, purchase, use, or consume
+13 alternative nicotine products, tobacco products, or electronic smoking de-
+14 vices or to attempt any of the foregoing.
+15 (2) It shall be unlawful for a minor to sell or distribute alternative
+16 nicotine products, tobacco products, or electronic smoking devices or to at-
+17 tempt either of the foregoing.
+18 (3) It shall be unlawful for a minor to provide false identification
+19 or make any false statement regarding their age in an attempt to obtain
+20 alternative nicotine products, tobacco products, or electronic smoking de-
+21 vices.
+22 (4) A minor who is assisting with a random unannounced inspection in ac-
+23 cordance with this chapter shall not be in violation of this chapter.
+24 (5) A minor may possess but not sell or distribute alternative nico-
+25 tine products, tobacco products, or electronic smoking devices in the course
+26 of employment, for duties such as stocking shelves or carrying purchases to
+27 customers' vehicles.
+28 (6) Penalties for violations by a minor. A violation of subsection (1)
+29 of this section by a minor shall constitute an infraction and shall be pun-
+30 ishable by a fine of seventeen dollars and fifty cents ($17.50). The first
+31 violation of subsection (2) or (3) of this section by a minor shall consti-
+32 tute an infraction and shall be punishable by a fine of two hundred dollars
+33 ($200). A subsequent violation of subsection (2) or (3) of this section by a
+34 minor shall constitute a misdemeanor and shall be punishable by imprisonment
+35 in an appropriate facility not exceeding thirty (30) days, a fine not exceed-
+36 ing three hundred dollars ($300), or both such fine and imprisonment. The
+37 court may, in addition to the penalties provided in this section, require the
+38 minor and, if the minor is under eighteen (18) years of age, the minor's par-
+39 ents or legal guardian to attend alternative nicotine product, tobacco prod-
+40 uct, or and electronic smoking device awareness programs or to perform com-
+41 munity service in programs related to alternative nicotine product, tobacco
+42 product, or and electronic smoking device awareness.
+43 SECTION 4. That Section 39-5704, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 39-5704. PERMITTING OF ALTERNATIVE NICOTINE PRODUCTS, TOBACCO PROD-
+46 UCTS, OR AND ELECTRONIC SMOKING DEVICES RETAILERS. (1) It shall be unlawful
+47 to sell or distribute or offer alternative nicotine products, tobacco prod-
+
+6
+1 ucts, or electronic smoking devices for sale or distribution at retail or
+2 to possess alternative nicotine products, tobacco products, or electronic
+3 smoking devices with the intention of selling at retail without having first
+4 obtained a tobacco product or electronic smoking device permit from the
+5 department, which shall be the only retail alternative nicotine products,
+6 tobacco product, or electronic smoking device permit or license required.
+7 Provided however, this section shall not be deemed to require a wholesaler
+8 or manufacturer's representative or employees who, in the course of their
+9 employment, stock shelves and replenish alternative nicotine products,
+10 tobacco products, or electronic smoking devices at a permittee's place of
+11 business to obtain a permit.
+12 (2) The department shall administer the permitting of alternative
+13 nicotine product, tobacco product, or electronic smoking device retailers
+14 and shall be authorized to ensure compliance with this chapter.
+15 (3) Permits shall be issued annually for each permanent business loca-
+16 tion to ensure compliance with the requirements of this chapter. A copy of
+17 signage required by this chapter, and any other materials deemed necessary
+18 shall be provided with each permit issued.
+19 (4) A separate permit must be obtained for each place of business and is
+20 nontransferable to another person, business, or location.
+21 (5) The applicant shall select one (1) or more permit endorsements and
+22 make the permit available upon request.
+23 (6) A permittee may display a sign in each location within a place of
+24 business where alternative nicotine products, tobacco products, or elec-
+25 tronic smoking devices are sold or distributed. A sign may be clearly
+26 visible to the customer and the seller and shall state: "STATE LAW PROHIBITS
+27 THE SALE OF ALTERNATIVE NICOTINE PRODUCTS, TOBACCO PRODUCTS, OR ELECTRONIC
+28 SMOKING DEVICES TO PERSONS UNDER THE AGE OF TWENTY-ONE (21) YEARS. PROOF OF
+29 AGE REQUIRED. ANYONE WHO SELLS OR DISTRIBUTES ALTERNATIVE NICOTINE PROD-
+30 UCTS, TOBACCO PRODUCTS, OR ELECTRONIC SMOKING DEVICES TO A PERSON UNDER
+31 THE AGE OF TWENTY-ONE (21) YEARS IS SUBJECT TO STRICT FINES AND PENALTIES.
+32 PERSONS UNDER THE AGE OF TWENTY-ONE (21) YEARS ARE SUBJECT TO FINES AND
+33 PENALTIES."
+34 (7) Permittees are responsible to educate employees as to the require-
+35 ments of this chapter and retain forms signed by each employee stating that
+36 the employee understands such requirements.
+37 (8) It shall be unlawful for the permittee to allow employees who are
+38 minors to sell or distribute alternative nicotine products, tobacco prod-
+39 ucts, or electronic smoking devices, except as provided in this subsection.
+40 Employees who are minors may possess but not sell or distribute alternative
+41 nicotine products, tobacco products, or electronic smoking devices in the
+42 course of employment, for such duties as stocking shelves or carrying pur-
+43 chases to customers' vehicles, and employees who are eighteen (18) years
+44 to twenty (20) years of age may sell or distribute alternative nicotine
+45 products, tobacco products, or electronic smoking devices in the course and
+46 scope of their employment.
+47 (9) A permit shall be closed when the permittee closes the business, no
+48 longer sells alternative nicotine products, tobacco products, or electronic
+49 smoking device products devices, moves to a different physical location, or
+50 sells the business.
+
+7
+1 (10) A permit shall be revoked when it is determined that a permit was
+2 fraudulently obtained to avoid penalties on an existing permit.
+3 (11) All permits expire annually at midnight on December 31 unless re-
+4 newed. The department shall mail notice of renewal for permits at least
+5 ninety (90) days prior to expiration.
+6 (12) The department may deny an application and refuse to issue or renew
+7 a permit or may suspend or revoke a permit issued to any person, partnership,
+8 corporation, limited liability company, or business trust upon determining
+9 that the licensee or the principals or managers at the permitted location of
+10 the applicant or permittee have been:
+11 (a) Found guilty of any fraud or misrepresentation in connection with
+12 an application filed pursuant to this section;
+13 (b) Convicted of robbery, extortion, burglary, larceny, embezzlement,
+14 fraudulent conversion, gambling, perjury, bribery, treason, tax eva-
+15 sion, or racketeering; or
+16 (c) Convicted of a felony within the last five (5) years.
+17 (13) The department may deny an application and refuse to issue or renew
+18 a permit if there is a reasonable basis to determine the application is filed
+19 by a person as subterfuge for a different party of interest whose permit has
+20 previously been denied, canceled, or revoked for cause or a violation under
+21 this chapter.
+22 SECTION 5. That Chapter 57, Title 39, Idaho Code, be, and the same is
+23 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+24 ignated as Section 39-5704A, Idaho Code, and to read as follows:
+25 39-5704A. SALES BETWEEN PERMITTED PERSONS OR ENTITIES ONLY. (1) Dis-
+26 tributors and retailers shall purchase alternative nicotine products, to-
+27 bacco products, and electronic smoking devices only from a manufacturer or
+28 distributor who has obtained a permit under chapter 25, title 63, Idaho Code,
+29 and shall verify that such seller holds a valid permit before making a pur-
+30 chase.
+31 (2) Manufacturers and distributors shall sell alternative nicotine
+32 products, tobacco products, and electronic smoking devices only to a dis-
+33 tributor or retailer who has obtained a permit under this chapter or chapter
+34 25, title 63, Idaho Code, and shall verify that the purchaser holds a valid
+35 permit before making a sale.
+36 SECTION 6. That Chapter 57, Title 39, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 39-5704B, Idaho Code, and to read as follows:
+39 39-5704B. PERMITTING OF MANUFACTURERS OF ALTERNATIVE NICOTINE PROD-
+40 UCTS, TOBACCO PRODUCTS, AND ELECTRONIC SMOKING DEVICES. (1) Every manufac-
+41 turer of alternative nicotine products, tobacco products, and electronic
+42 smoking devices that are sold in this state, whether directly or through a
+43 distributor, retailer, or similar intermediary shall obtain from the de-
+44 partment a manufacturer permit. A manufacturer of alternative nicotine
+45 products, tobacco products, or electronic smoking devices that already
+46 holds a wholesaler or distributor permit shall also separately obtain a man-
+47 ufacturer permit. The permit is nontransferable.
+
+8
+1 (2) Each application for a manufacturer permit shall be accompanied by
+2 such information as the department may require for the purpose of adminis-
+3 tering this chapter, and by a one-time fee of fifty dollars ($50.00).
+4 (3) A person or entity that obtains a permit under this chapter has es-
+5 tablished minimum contacts with the state and consents to the exercise of
+6 personal jurisdiction over the person or entity in the courts of this state
+7 in any matter or issue arising under this chapter or related to the sale or
+8 distribution of alternative nicotine products, tobacco products, and elec-
+9 tronic smoking devices.
+10 (4) The department shall maintain a website that identifies all per-
+11 mitted entities, including information regarding permits that have been re-
+12 voked or suspended.
+13 SECTION 7. That Chapter 57, Title 39, Idaho Code, be, and the same is
+14 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+15 ignated as Section 39-5704C, Idaho Code, and to read as follows:
+16 39-5704C. AGENT FOR SERVICE OF PROCESS. (1) Any nonresident or foreign
+17 manufacturer of electronic smoking devices that has not registered to do
+18 business in this state as a foreign corporation or business entity shall,
+19 as a condition to receiving an electronic smoking device permit under this
+20 chapter, appoint and continually engage without interruption the services
+21 of an agent in this state to act as agent for the service of process on whom
+22 all process, and any action or proceeding against such manufacturer con-
+23 cerning or arising out of the enforcement of this chapter, may be served in
+24 any manner authorized by law. Such service shall constitute legal and valid
+25 service of process on the manufacturer. The manufacturer shall provide the
+26 name, address, telephone number, and proof of the appointment and availabil-
+27 ity of such agent to the department.
+28 (2) The electronic smoking device manufacturer shall provide notice to
+29 the department thirty (30) calendar days prior to termination of the author-
+30 ity of an agent and shall further provide proof to the satisfaction of the
+31 department of the appointment of a new agent no less than five (5) calendar
+32 days prior to the termination of an existing agent appointment. In the event
+33 an agent terminates an agency appointment, the manufacturer shall notify the
+34 department of the termination within five (5) calendar days and shall in-
+35 clude proof to the satisfaction of the department of the appointment of a new
+36 agent.
+37 (3) Any electronic smoking device manufacturer whose products are
+38 sold in this state without appointing or designating an agent as required
+39 in this section shall be deemed to have appointed the secretary of state as
+40 such agent and may be proceeded against in courts of this state by service of
+41 process upon the secretary of state; however, the appointment of the secre-
+42 tary of state as such agent shall not satisfy the condition for obtaining an
+43 electronic smoking device manufacturer permit.
+44 SECTION 8. That Chapter 57, Title 39, Idaho Code, be, and the same is
+45 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+46 ignated as Section 39-5704D, Idaho Code, and to read as follows:
+
+9
+1 39-5704D. BOND REQUIREMENT FOR NONRESIDENT OR FOREIGN MANUFACTURERS
+2 OF ELECTRONIC SMOKING DEVICES. (1) Any nonresident or foreign manufacturer
+3 of electronic smoking devices that has not registered to do business in
+4 the state as a foreign corporation or business entity shall, as a condition
+5 precedent to receiving an electronic smoking device permit, submit to the
+6 department a surety bond or other cash security payable to the state in the
+7 amount of twenty-five thousand dollars ($25,000). The bond shall be posted
+8 by a corporate surety located within the United States. Whenever it is the
+9 opinion of the department that the bond given by a permittee is inadequate
+10 in amount to fully protect the state, the department shall require an addi-
+11 tional bond in such amount as the department deems sufficient.
+12 (2) The bond shall be conditioned on the performance by the electronic
+13 smoking device manufacturer of all requirements and obligations imposed by
+14 this section. A surety on a manufacturer's bond shall be liable up to the
+15 amount of the bond, and the state may execute on such surety bond for the pay-
+16 ment of fines and penalties imposed on the manufacturer under this chapter
+17 and for the costs of seizure and destruction of products sold in violation of
+18 this chapter. If the state executes on the surety bond, it may require the
+19 manufacturer to provide an additional bond as a condition precedent for re-
+20 taining the electronic smoking device manufacturer permit.
+21 (3) A surety on a bond furnished by an electronic smoking device manu-
+22 facturer as provided in this section shall be released and discharged from
+23 liability to the state accruing on the bond after expiration of sixty (60)
+24 days from the date upon which such surety lodges with the department a writ-
+25 ten request to be released and discharged. This provision shall not operate
+26 to relieve, release, or discharge the surety from liability already accrued
+27 or that accrues before the expiration of the sixty (60) day period. The de-
+28 partment shall, upon receiving any such request, notify the manufacturer who
+29 furnished the bond. Unless the manufacturer, on or before the expiration
+30 of the sixty (60) day period, files with the department a new bond, with the
+31 surety approved by and acceptable to the department, the department shall
+32 cancel the manufacturer's electronic smoking device manufacturer permit.
+33 SECTION 9. That Chapter 57, Title 39, Idaho Code, be, and the same is
+34 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+35 ignated as Section 39-5704E, Idaho Code, and to read as follows:
+36 39-5704E. PENALTIES. (1) Any person who violates any of the provisions
+37 of sections 39-5704A through 39-5704D, Idaho Code, shall be subject to the
+38 following penalties:
+39 (a) In the case of a first violation, a fine of five hundred dollars
+40 ($500) per product purchased, sold, or manufactured in violation of
+41 such sections.
+42 (b) In the case of a second violation in a two (2) year period, a fine of
+43 one thousand dollars ($1,000) per product purchased, sold, or manufac-
+44 tured in violation of such sections, and if the violator holds a permit,
+45 the permit shall be suspended for seven (7) days.
+46 (c) In the case of a third violation in a two (2) year period, a fine of
+47 two thousand dollars ($2,000) per product purchased, sold, or manufac-
+48 tured in violation of such sections, and if the violator holds a permit,
+49 the permit shall be suspended for thirty (30) days.
+
+10
+1 (d) In the case of a fourth violation in a two (2) year period, a fine of
+2 five thousand dollars ($5,000) per product purchased, sold, or manufac-
+3 tured in violation of such sections, and if the violator holds a permit,
+4 the permit shall be revoked.
+5 (2) A second or subsequent violation of the provisions of sections
+6 39-5704A through 39-5704D, Idaho Code, constitutes an unfair and deceptive
+7 act or practice pursuant to chapter 6, title 48, Idaho Code.
+8 (3) Any electronic smoking devices offered for sale in violation of the
+9 provisions of this chapter are hereby declared to be contraband goods and
+10 may be seized by the department or an employee of the department, or by any
+11 peace officer when directed by the department, without a warrant. Said elec-
+12 tronic smoking devices seized shall be destroyed or otherwise permanently
+13 disposed of and shall not be subject to resale. Fifteen (15) days' notice of
+14 the destruction or disposal shall be given. The cost of such seizure and de-
+15 struction or disposal shall be borne by the person from whom the products are
+16 seized.
+17 SECTION 10. That Section 39-5705, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 39-5705. SALE OR DISTRIBUTION OF ALTERNATIVE NICOTINE PRODUCTS, TO-
+20 BACCO PRODUCTS, OR ELECTRONIC SMOKING DEVICES TO A MINOR. (1) It shall be un-
+21 lawful to sell, distribute, or offer alternative nicotine products, tobacco
+22 products, or electronic smoking devices to a minor.
+23 (2) It shall be an affirmative defense that the seller of an alternative
+24 nicotine product, a tobacco product, or an electronic smoking device to a mi-
+25 nor in violation of this section had requested, examined, and reasonably re-
+26 lied upon a photographic identification from such person establishing that
+27 the person is at least twenty-one (21) years of age prior to selling such
+28 person an alternative nicotine product, a tobacco product, or an electronic
+29 smoking device. The failure of a seller to request and examine photographic
+30 identification from a person under twenty-one (21) years of age prior to the
+31 sale of an alternative nicotine product, a tobacco product, or an electronic
+32 smoking device to such person shall be construed against the seller and form
+33 a conclusive basis for the seller's violation of this section.
+34 SECTION 11. That Section 39-5706, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 39-5706. VENDOR-ASSISTED SALES. (1) It shall be unlawful to sell or
+37 distribute alternative nicotine products, tobacco products, or electronic
+38 smoking devices by any means other than vendor-assisted sales where the
+39 customer has no access to the product except through the assistance of the
+40 seller.
+41 (2) It shall be unlawful to sell or distribute alternative nicotine
+42 products, tobacco products, or electronic smoking devices from vending ma-
+43 chines or self-service displays.
+44 (3) Stores with alternative nicotine products, tobacco products, or
+45 electronic smoking devices comprising at least seventy-five percent (75%)
+46 of total merchandise are exempt from requiring vendor-assisted sales if mi-
+
+11
+1 nors are not allowed in the store and such prohibition is posted clearly on
+2 all entrance doors.
+3 SECTION 12. That Section 39-5707, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 39-5707. OPENED PACKAGES AND SAMPLES. (1) It shall be unlawful to sell
+6 or distribute alternative nicotine products, tobacco products, or elec-
+7 tronic smoking devices for commercial purposes other than in the federally
+8 required sealed package provided by the manufacturer with all the required
+9 warning labels and health warnings.
+10 (2) It shall be unlawful to sell or distribute alternative nicotine
+11 products, tobacco products, or electronic smoking devices for free or below
+12 the cost of such products to the sellers or distributors of the products for
+13 commercial or promotional purposes to members of the general public in pub-
+14 lic places or at public events.
+15 SECTION 13. That Section 39-5708, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 39-5708. CIVIL PENALTIES FOR VIOLATIONS OF PERMIT. (1) Any permittee
+18 who fails to comply with any part of this chapter regarding the sale or dis-
+19 tribution of alternative nicotine products, tobacco products, or electronic
+20 smoking devices shall be subject to a civil penalty as provided in this sec-
+21 tion or have their permit suspended, pursuant to compliance with the con-
+22 tested case provisions of the Idaho administrative procedure act, chapter
+23 52, title 67, Idaho Code, or both.
+24 (2) If a seller who is not a permittee violates section 39-5705, Idaho
+25 Code, and sells or distributes alternative nicotine products, tobacco prod-
+26 ucts, or electronic smoking devices to a minor, then the seller shall be
+27 fined one hundred dollars ($100).
+28 (3) In the case of a first violation, the permittee shall be notified in
+29 writing of penalties to be levied for further violations.
+30 (4) In the case of a second violation, the permittee shall be fined two
+31 hundred dollars ($200) and shall be notified in writing of penalties to be
+32 levied for further violations. For a violation of section 39-5705, Idaho
+33 Code, the permittee shall not be fined if the permittee can show that a train-
+34 ing program was in place for the employee and that the permittee has a form
+35 signed by that employee on file stating that the employee understands the
+36 alternative nicotine product, tobacco product, or electronic smoking device
+37 laws dealing with minors and the unlawful purchase of alternative nicotine
+38 products, tobacco products, or electronic smoking devices, but the permit-
+39 tee shall be notified in writing of penalties to be levied for any further vi-
+40 olations. If no such training is in place, the permittee shall be fined two
+41 hundred dollars ($200).
+42 (5) In the case of a third violation in a two (2) year period, the
+43 permittee shall be fined two hundred dollars ($200) and the permit may be
+44 suspended for up to seven (7) days. If the violation is by an employee, at the
+45 same location, who was involved in any previous citation for violation, the
+46 permittee shall be fined four hundred dollars ($400). Effective training
+47 and employment practices by the permittee, as determined by the department,
+
+12
+1 shall be a mitigating factor in determining permit suspension. Evidence of
+2 mitigating factors shall be submitted to the department within ten (10) days
+3 of the date of violation. Tobacco Alternative nicotine product, tobacco
+4 product, or electronic smoking device retailers must remove all alternative
+5 nicotine products, tobacco products, or electronic smoking devices from all
+6 areas accessible to or visible to the public while the permit is suspended.
+7 (6) In the case of four (4) or more violations within a two (2) year pe-
+8 riod, the permittee shall be fined four hundred dollars ($400) and the per-
+9 mit shall be revoked until such time that the permittee demonstrates an ef-
+10 fective training plan to the department, but in no case shall the revoca-
+11 tion be for less than thirty (30) days. Tobacco Alternative nicotine prod-
+12 uct, tobacco product, or electronic smoking device retailers must remove all
+13 alternative nicotine products, tobacco products, or electronic smoking de-
+14 vices from all areas accessible to or visible to the public while the permit
+15 is revoked.
+16 (7) All moneys collected for violations pursuant to this section shall
+17 be remitted to the prevention of minors' access to alternative nicotine
+18 products, tobacco products, or electronic smoking devices fund created in
+19 section 39-5711, Idaho Code.
+20 (8) All fines shall be paid in full prior to renewal of a permit and
+21 within ten (10) days of the date of the violation.
+22 SECTION 14. That Section 39-5709, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 39-5709. CRIMINAL PENALTIES FOR VIOLATIONS WITHOUT A PERMIT. Sale or
+25 distribution of alternative nicotine products, tobacco products, or elec-
+26 tronic smoking devices, or any violation of this chapter, without a permit is
+27 considered by the state of Idaho as an effort to subvert the state's public
+28 purpose to prevent minor's minors' access to alternative nicotine products,
+29 tobacco products, or electronic smoking devices.
+30 (1) The sale or distribution of alternative nicotine products, tobacco
+31 products, or electronic smoking devices without a permit shall constitute a
+32 misdemeanor punishable by imprisonment not exceeding six (6) months in the
+33 county jail, a fine of three hundred dollars ($300), or by both such fine
+34 and imprisonment. If the sale or distribution of alternative nicotine prod-
+35 ucts, tobacco products, or electronic smoking devices was to a minor, the
+36 fine shall be no less than five hundred dollars ($500) nor more than one thou-
+37 sand dollars ($1,000). The provisions of this section shall not be applica-
+38 ble to an employee of the business engaged in the sale of alternative nico-
+39 tine products, tobacco products, or electronic smoking devices if the sale
+40 occurred during the course of such employment and the seller does not have an
+41 ownership interest in the business.
+42 (2) In addition to the penalties set forth in subsection (1) of this
+43 section, the court may impose an additional fine of one thousand dollars
+44 ($1,000) per day beginning the day following the date of citation as long as
+45 the illegal alternative nicotine products, tobacco products, or electronic
+46 smoking devices sales or distribution continues. The first seven (7) days of
+47 additional fines may be suspended, provided that the business or seller is
+48 able to prove that the business or seller has applied for the permit within
+49 seven (7) days of the citation.
+
+13
+1 SECTION 15. That Section 39-5710, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 39-5710. CONDUCT OF ENFORCEMENT ACTIONS. (1) It is the intent of the
+4 legislature that law enforcement agencies, the attorney general, and the
+5 department shall enforce this chapter in a manner that can reasonably be
+6 expected to significantly reduce the extent to which alternative nicotine
+7 products, tobacco products, and electronic smoking devices are sold or dis-
+8 tributed to minors.
+9 (2) Law enforcement agencies may conduct random, unannounced inspec-
+10 tions at locations where alternative nicotine products, tobacco products,
+11 or electronic smoking devices are sold or distributed to ensure compliance
+12 with this chapter. A copy of all citations issued under this chapter shall be
+13 submitted to the department.
+14 (3) The department shall conduct at least one (1) random, unannounced
+15 inspection per year at all locations where alternative nicotine products,
+16 tobacco products, or electronic smoking devices are sold or distributed at
+17 retail to ensure compliance with this chapter. The department shall conduct
+18 inspections for minor-exempt permittees without the assistance of a minor.
+19 The department shall conduct inspections for all other permittees with the
+20 assistance of a minor. Each year, the department shall conduct random, unan-
+21 nounced inspections equal to the number of permittees on the last day of the
+22 calendar year multiplied by the violation percentage rate reported for the
+23 previous year multiplied by a factor of ten (10). In no instance will the
+24 number of inspections exceed twice the number of permittees. Local law en-
+25 forcement agencies are encouraged to contract with the department to perform
+26 these required inspections.
+27 (4) Minors may assist with random, unannounced inspections, provided
+28 that minors under the age of eighteen (18) years must have the written con-
+29 sent of a parent or legal guardian. When assisting with these inspections,
+30 minors shall not provide false identification or make any false statement
+31 regarding their age.
+32 (5) Citizens may file a written complaint of noncompliance of this
+33 chapter with the department or with a law enforcement agency. Permit holders
+34 under 26 U.S.C. 5712 may file written complaints relating to delivery sales
+35 to the department or the attorney general's offices. Complaints shall be
+36 investigated and the proper enforcement actions taken.
+37 (6) Within a reasonable time, not later than two (2) business days after
+38 an inspection has occurred, a representative of the business inspected shall
+39 be informed in writing of the results of the inspection.
+40 (7) The attorney general or his designee, or any person who holds a per-
+41 mit under 26 U.S.C. 5712, may bring an action in district court in Idaho to
+42 prevent or restrain violations of this chapter by any person or by any person
+43 controlling such person.
+44 SECTION 16. That Section 39-5711, Idaho Code, be, and the same is hereby
+45 amended to read as follows:
+46 39-5711. FUNDING AND CREATION OF PREVENTION OF MINORS' ACCESS TO
+47 ALTERNATIVE NICOTINE PRODUCTS, TOBACCO PRODUCTS, OR ELECTRONIC SMOKING
+48 DEVICES FUND. There is hereby created the prevention of minors' access to
+
+14
+1 alternative nicotine products, tobacco products, or electronic smoking de-
+2 vices fund in the state treasury. Moneys in the fund shall be used to fund the
+3 administration, inspections and enforcement of this chapter. Moneys in the
+4 fund may be expended only pursuant to appropriation. The fund shall consist
+5 of:
+6 (1) The current federal funds that are available for inspections or for
+7 the prevention of minors' access to tobacco products or electronic smoking
+8 devices shall be utilized by the department;
+9 (2) The fines from the civil penalties pursuant to section 39-5708,
+10 Idaho Code; and
+11 (3) Moneys from any other source.
+12 SECTION 17. That Section 39-5713, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 39-5713. LOCAL ORDINANCES PROHIBITED. No local unit of government
+15 may adopt or enforce requirements for the regulation, marketing, or sale of
+16 alternative nicotine products, tobacco products, or electronic smoking de-
+17 vices that are more restrictive than or in addition to this chapter. No local
+18 unit of government may impose or enforce a tax or fee on alternative nicotine
+19 products, tobacco products, or electronic smoking devices. This section
+20 shall not be construed to prevent a local unit of government from regulating
+21 the use of alternative nicotine products, tobacco products, or electronic
+22 smoking devices in any public place pursuant to section 39-5511, Idaho Code,
+23 or in any other public outdoor area. Nothing in this section shall preclude
+24 or preempt any local, county, or municipal government from exercising its
+25 lawful authority to regulate zoning or land use.
+26 SECTION 18. That Section 39-5714, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 39-5714. REQUIREMENTS FOR DELIVERY SALES. (1) No permittee shall make
+29 a delivery sale of alternative nicotine products, tobacco products, or elec-
+30 tronic smoking devices to any individual who is under age twenty-one (21)
+31 years in this state.
+32 (2) Each permittee taking a delivery sale order shall comply with: the
+33 age verification requirements set forth in section 39-5715, Idaho Code;
+34 the disclosure and notice requirements set forth in section 39-5716, Idaho
+35 Code; the shipping requirements set forth in section 39-5717, Idaho Code;
+36 the registration and reporting requirements set forth in section 39-5718,
+37 Idaho Code; all tax collection requirements provided by title 63, Idaho
+38 Code; and all other laws of the state of Idaho generally applicable to sales
+39 of alternative nicotine products, tobacco products, or electronic smoking
+40 devices that occur entirely within Idaho, including but not limited to those
+41 laws imposing excise taxes, sales and use taxes, licensing and tax stamping
+42 requirements, and escrow or other payment obligations.
+43 SECTION 19. That Section 39-5715, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+
+15
+1 39-5715. AGE VERIFICATION REQUIREMENTS. No permittee shall mail or
+2 ship alternative nicotine products, tobacco products, or electronic smoking
+3 devices in connection with a delivery sale order unless, before mailing or
+4 shipping such alternative nicotine products, tobacco products, or elec-
+5 tronic smoking devices, the permittee accepting the delivery sale order
+6 first obtains from the prospective customer a certification that includes
+7 proof of age that the purchaser is at least twenty-one (21) years old, the
+8 credit or debit card used for payment has been issued in the purchaser's
+9 name, and the address to which the alternative nicotine products, tobacco
+10 products, or electronic smoking devices are being shipped matches the
+11 credit card company's address for the cardholder or employs technology that
+12 requires and authenticates independent, third-party age and identity veri-
+13 fication services, comparing data against third-party sources.
+14 SECTION 20. That Section 39-5717, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 39-5717. SHIPPING REQUIREMENTS -- TOBACCO PRODUCTS, ALTERNATIVE
+17 NICOTINE PRODUCTS, OR ELECTRONIC SMOKING DEVICES. Each permittee who mails
+18 or ships alternative nicotine products, tobacco products, or electronic
+19 smoking devices in connection with a delivery sale order shall include as
+20 part of the shipping documents a clear and conspicuous statement providing
+21 as follows:
+22 ALTERNATIVE NICOTINE PRODUCTS, TOBACCO PRODUCTS, OR ELECTRONIC
+23 SMOKING DEVICES: IDAHO LAW PROHIBITS SHIPPING TO INDIVIDUALS UNDER
+24 THE AGE OF TWENTY-ONE (21) YEARS AND REQUIRES THE PAYMENT OF TAXES
+25 PURSUANT TO CHAPTER 25, TITLE 63, IDAHO CODE. PERSONS VIOLATING
+26 THIS LAW MAY BE CIVILLY AND CRIMINALLY LIABLE.
+27 Anyone who delivers any such container distributes alternative nico-
+28 tine products, tobacco products, or electronic smoking devices as defined in
+29 section 39-5702(5) 39-5702(6), Idaho Code, and is subject to the terms and
+30 requirements of this chapter. If a permittee taking a delivery sale order
+31 also delivers the alternative nicotine products, tobacco products, or elec-
+32 tronic smoking devices without using a third-party delivery service, the
+33 permittee shall comply with all the requirements of vendor-assisted sales as
+34 defined in section 39-5702(17) 39-5702, Idaho Code.
+35 SECTION 21. That Section 39-5718, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 39-5718. REGISTRATION AND REPORTING REQUIREMENTS. (1) Prior to making
+38 delivery sales or shipping alternative nicotine products, tobacco products,
+39 or electronic smoking devices in connection with any such sales, every busi-
+40 ness shall obtain a permit from the department and file with the state tax
+41 commission a statement setting forth the permittee's name, trade name, and
+42 the address of the business's principal place of business and any other place
+43 of business.
+44 (2) No later than the tenth day of each calendar month, each permit-
+45 tee that has made a delivery sale or shipped or delivered alternative nico-
+46 tine products, tobacco products, or electronic smoking devices in connec-
+47 tion with any such sale during the previous calendar month shall file with
+
+16
+1 the department and the state tax commission a memorandum or a copy of the in-
+2 voice that provides for each and every such delivery sale:
+3 (a) The name and address of the individual to whom the delivery sale was
+4 made;
+5 (b) The brand or brands of the alternative nicotine products, tobacco
+6 products, or electronic smoking devices that were sold in such delivery
+7 sale; and
+8 (c) The quantity of alternative nicotine products, tobacco products,
+9 or electronic smoking devices that were sold in such delivery sale.
+10 (3) Any alternative nicotine products, tobacco products, or electronic
+11 smoking devices sold or attempted to be sold in a delivery sale that does
+12 not meet the requirements of this chapter shall be forfeited to the state of
+13 Idaho.
+14 SECTION 22. That Section 39-8421, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 39-8421. DEFINITIONS. As used in sections 39-8420 through 39-8425,
+17 Idaho Code:
+18 (1) The definitions set forth in section 39-8402, Idaho Code, of the
+19 Idaho tobacco master settlement agreement complementary act, and in this
+20 section, apply to sections 39-8420 through 39-8425, Idaho Code.
+21 (2) "Cigarette rolling machine" means any machine or device that has
+22 the capability to produce at least one hundred fifty (150) cigarettes in less
+23 than thirty (30) minutes.
+24 (3) "Cigarette rolling machine operator" means any person who owns or
+25 leases or otherwise has available for use a cigarette rolling machine and
+26 makes such a machine available for use by another person in a commercial
+27 setting in order to manufacture a cigarette. No person shall be deemed a
+28 cigarette rolling machine operator based solely upon that person's manufac-
+29 ture, sale, enabling, disabling, or repair of a cigarette rolling machine.
+30 (4) "Minor" has the same meaning as that term is defined in section
+31 39-5702(7) 39-5702, Idaho Code.
+32 (5) "Person" means natural persons, corporations both foreign and do-
+33 mestic, trusts, partnerships both limited and general, incorporated or un-
+34 incorporated associations, companies, business entities, and any other le-
+35 gal entity, or any other group associated in fact although not a legal en-
+36 tity.
+37 (6) "Tobacco products" means any substance that contains tobacco,
+38 including but not limited to cigarettes, cigars, pipes, snuff, smoking to-
+39 bacco, tobacco papers, or smokeless tobacco.
+40 SECTION 23. That Section 56-227F, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 56-227F. PUBLIC ASSISTANCE BENEFIT CARDS -- PROHIBITED USES. (1) Any
+43 recipient of public assistance is prohibited from using public assistance
+44 benefit cards or cash obtained with public assistance benefit cards:
+45 (a) For the purpose of participating in any of the activities described
+46 under chapters 38 and 49, title 18, Idaho Code, or authorized pursuant
+47 to any state-tribal gaming compact under section 67-429A, Idaho Code;
+
+17
+1 (b) For the purpose of pari-mutuel betting authorized under chapter 25,
+2 title 54, Idaho Code;
+3 (c) To purchase lottery tickets or shares authorized under chapter 74,
+4 title 67, Idaho Code;
+5 (d) For the purpose of participating in or purchasing tattoo, branding
+6 or body piercing services as defined in section 18-1523, Idaho Code;
+7 (e) To purchase cigarettes as defined in section 39-7802(d), Idaho
+8 Code, or tobacco products or electronic smoking devices as defined in
+9 section 39-5702(15) 39-5702, Idaho Code;
+10 (f) To purchase any items regulated under title 23, Idaho Code;
+11 (g) For the purpose of adult entertainment at venues with performances
+12 that contain sexually oriented material where minors under the age of
+13 eighteen (18) years are prohibited; or
+14 (h) For the purpose of purchasing or participating in any activities in
+15 any location listed in subsection (2) of this section.
+16 (2) The following businesses are required to comply with the provisions
+17 of this section:
+18 (a) Any establishment or business licensed under chapter 9, title 23,
+19 Idaho Code;
+20 (b) State liquor stores defined under section 23-902, Idaho Code, with
+21 the exception of special distributors as referenced in chapter 3, title
+22 23, Idaho Code;
+23 (c) Any business or agency that issues or underwrites bail bonds as de-
+24 fined in section 41-1038(3), Idaho Code;
+25 (d) Gambling establishments licensed under Idaho law;
+26 (e) Any business or establishment that offers tattoo, body piercing or
+27 branding services as defined in section 18-1523, Idaho Code;
+28 (f) Adult entertainment venues with performances that contain sexually
+29 oriented material where minors under the age of eighteen (18) years are
+30 prohibited; and
+31 (g) Any establishment where persons under the age of eighteen (18)
+32 years are not permitted.
+33 (3) The department shall notify any business determined to be in viola-
+34 tion of the provisions of subsection (2) of this section and the licensing
+35 authority of any such business, if applicable, that such business has con-
+36 tinued to allow the use of a public assistance benefit card in violation of
+37 subsection (2) of this section. The department may require the Idaho quest
+38 electronic benefits transfer (EBT) card business identification number
+39 (BIN) be disabled at any business found to be in violation of subsection (2)
+40 of this section. Any business in violation of subsection (2) of this section
+41 may also be required to deny all public assistance cash transactions made
+42 with an Idaho quest EBT card at any automated teller machine (ATM) located
+43 in their establishment. All costs associated with disabling the BIN and ATM
+44 will be the responsibility of such business owner.
+45 (4) Only the recipient, an eligible member of the recipient's house-
+46 hold or the recipient's authorized representative may use a public assis-
+47 tance benefit card or the benefit, and such use shall only be for the re-
+48 spective benefit program purposes. The recipient shall not sell, attempt to
+49 sell, exchange or donate a public assistance benefit card or any benefits to
+50 any other person or entity.
+
+18
+1 (5) A violation of subsection (1) or (4) of this section by a recipient
+2 constitutes a misdemeanor.
+3 (a) The department shall notify all recipients of public assistance
+4 benefit cards that any violation of subsection (1) or (4) of this sec-
+5 tion could result in legal proceedings and forfeiture of all cash public
+6 assistance.
+7 (b) Whenever the department has confirmed that a person has violated
+8 subsection (1) or (4) of this section, the department shall notify the
+9 person in writing that the violation could result in legal proceedings
+10 and forfeiture of all cash public assistance.
+11 (6) As used in this section, "public assistance" or "public assistance
+12 benefit" means benefits provided to a recipient pursuant to the temporary
+13 assistance for families in Idaho (TAFI) program on an Idaho quest EBT card
+14 account.
+15 (7) This section shall be enforced by the director of the department of
+16 health and welfare in cooperation with local law enforcement and prosecuting
+17 agencies.
+18 SECTION 24. That the Heading for Chapter 25, Title 63, Idaho Code, be,
+19 and the same is hereby amended to read as follows:
+20 CHAPTER 25
+21 CIGARETTE, NICOTINE, AND TOBACCO PRODUCTS TAXES
+22 SECTION 25. That Section 63-2551, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 63-2551. TOBACCO AND NICOTINE PRODUCTS TAX -- DEFINITIONS. As used in
+25 this act:
+26 (1) "Tobacco products" shall mean any cigars, cheroots, stogies,
+27 smoking tobacco (including granulated, plug, cut, crimp cut, ready rubbed
+28 and any other kinds and forms of tobacco suitable for smoking in a pipe or
+29 cigarette), chewing tobacco (including cavendish, twist, plug, scrap and
+30 any other kinds and forms of tobacco suitable for chewing) and snuff, however
+31 prepared; and shall include any other articles or products made of tobacco
+32 except cigarettes;
+33 (2) "Manufacturer" means a person who manufactures and sells tobacco
+34 products, alternative nicotine products, or vapor products;
+35 (3) "Distributor" means (a) any person engaged in the business of sell-
+36 ing tobacco products, alternative nicotine products, or vapor products in
+37 this state who brings, or causes to be brought, into this state from without
+38 the state any tobacco products, alternative nicotine products, or vapor
+39 products for sale, (b) any person who makes, manufactures, or fabricates
+40 tobacco products, alternative nicotine products, or vapor products in this
+41 state for sale in this state, (c) any person engaged in the business of
+42 selling tobacco products, alternative nicotine products, or vapor products
+43 without this state who ships or transports tobacco products, alternative
+44 nicotine products, or vapor products to retailers in this state, to be sold
+45 by those retailers;
+46 (4) "Subjobber" means any person, other than a manufacturer or distrib-
+47 utor, who buys tobacco products, alternative nicotine products, or vapor
+
+19
+1 products from a distributor and sells them to persons other than the ultimate
+2 consumers;
+3 (5) "Retailer" means any person engaged in the business of selling to-
+4 bacco products, alternative nicotine products, or vapor products to ulti-
+5 mate consumers;
+6 (6) "Sale" means any transfer, exchange, or barter, in any manner or by
+7 any means whatsoever, for a consideration, and includes and means all sales
+8 made by any person. It includes a gift by a person engaged in the business of
+9 selling tobacco products, alternative nicotine products, or vapor products,
+10 for advertising, as a means of evading the provisions of this chapter, or for
+11 any other purposes whatsoever;
+12 (7) "Wholesale sales price" means the established price for which a
+13 manufacturer or any person sells a tobacco product, alternative nicotine
+14 product, or vapor product to a distributor that is not a related person as de-
+15 fined in section 267 of the Internal Revenue Code, exclusive of any discount
+16 or other reduction;
+17 (8) "Business" means any trade, occupation, activity, or enterprise
+18 engaged in for the purpose of selling or distributing tobacco products, al-
+19 ternative nicotine products, or vapor products in this state;
+20 (9) "Place of business" means any place where tobacco products, alter-
+21 native nicotine products, or vapor products are manufactured, stored, or
+22 kept for the purpose of sale or consumption, including any vessel, vehicle,
+23 airplane or train;
+24 (10) "Retail outlet" means each place of business from which tobacco
+25 products, alternative nicotine products, or vapor products are sold to con-
+26 sumers;
+27 (11) "Commission" means the Idaho state tax commission.
+28 (12) "Alternative nicotine product" means a noncombustible product
+29 that contains nicotine, whether natural or synthetic, but does not contain
+30 tobacco and is intended for human consumption, whether chewed, absorbed,
+31 dissolved, ingested, or by other means. This term shall not include a vapor
+32 product or any product regulated by the United States food and drug adminis-
+33 tration under chapter V of the federal food, drug, and cosmetic act.
+34 (13) "Electronic smoking device" has the same meaning as that term is
+35 defined in section 39-5702, Idaho Code.
+36 (14) "Vapor product" means any liquid, substance, or mixture, whether
+37 or not containing nicotine, that is designed, manufactured, or marketed for
+38 use in an electronic smoking device to produce vapor, including any pre-
+39 filled cartridge, pod, vapor solution, vapor cartridge, or other container
+40 of liquid or other form that is intended to be used with or in an electronic
+41 cigarette, electronic cigar, electronic cigarillo, electronic pipe, or sim-
+42 ilar product or device. The term does not include any product regulated by
+43 the United States food and drug administration under chapter V of the federal
+44 food, drug, and cosmetic act.
+45 SECTION 26. That Section 63-2552B, Idaho Code, be, and the same is
+46 hereby amended to read as follows:
+47 63-2552B. TOBACCO PRODUCTS, ALTERNATIVE NICOTINE PRODUCTS, AND VAPOR
+48 PRODUCTS USE TAX. Any person who does not hold a tobacco products tax permit
+49 who possesses, purchases or consumes tobacco products, alternative nicotine
+
+20
+1 products, or vapor products upon which tax imposed by this chapter has not
+2 been paid, including tobacco products, alternative nicotine products, or
+3 vapor products sold by internet, catalog, telephone and facsimile sell-
+4 ers, is liable for the taxes imposed by sections 63-2552, and 63-2552A, and
+5 63-2552C, Idaho Code, to be reported and paid as required in section 63-2560,
+6 Idaho Code.
+7 SECTION 27. That Chapter 25, Title 63, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 63-2552C, Idaho Code, and to read as follows:
+10 63-2552C. TAX ON THE SALE OF ALTERNATIVE NICOTINE PRODUCTS AND VAPOR
+11 PRODUCTS -- DISTRIBUTION. (1) There is hereby imposed an excise tax on vapor
+12 products sold in the state of Idaho. Such tax shall be at the rate of five
+13 cents (5¢) per fluid milliliter of vapor products. All invoices for any va-
+14 por product issued by manufacturers shall state the amount of consumable va-
+15 por product in milliliters. The distributor shall be liable for the payment
+16 of the tax imposed by this subsection. The tax shall be imposed at the time
+17 the distributor:
+18 (a) Brings or causes to be brought into this state vapor products for
+19 sale;
+20 (b) Manufactures vapor products in this state for sale; or
+21 (c) Ships or transports vapor products to retailers in this state to be
+22 sold by those retailers.
+23 (2) There is hereby imposed an excise tax on alternative nicotine prod-
+24 ucts sold in the state of Idaho. Such tax shall be at the rate of twenty-five
+25 cents (25¢) per container of alternative nicotine products that contains at
+26 least one (1) and not more than twenty (20) units, and for any container that
+27 includes more than twenty (20) units, at the rate of twenty-five cents (25¢)
+28 per container plus a proportionate tax at the like rate on each unit in excess
+29 of twenty (20) units. The distributor shall be liable for the payment of the
+30 tax imposed by this subsection. The tax shall be imposed at the time the dis-
+31 tributor:
+32 (a) Brings or causes to be brought into this state alternative nicotine
+33 products for sale;
+34 (b) Manufactures alternative nicotine products in this state for sale;
+35 or
+36 (c) Ships or transports alternative nicotine products to retailers in
+37 this state to be sold by those retailers.
+38 (3) A retailer who brings, or causes to be brought, into this state from
+39 outside the state alternative nicotine products or vapor products for sale
+40 on which the tax has not been paid is responsible for payment of the tax at
+41 the time of receiving such products and before selling such products to the
+42 ultimate consumer.
+43 (4) Revenues received from the taxes imposed by this section shall be
+44 distributed by the state tax commission as follows:
+45 (a) Fifty percent (50%) shall be distributed to the department of
+46 health and welfare for adult and children's behavioral health programs;
+47 (b) Twenty-five percent (25%) shall be distributed to the public school
+48 income fund for the purposes of safe and drug free schools and include
+
+21
+1 purposes of prevention and cessation, behavioral health, and the hiring
+2 of personnel necessary to respond to the use of nicotine products; and
+3 (c) Twenty-five (25%) shall be distributed to the general fund.
+4 SECTION 28. That Section 63-2553, Idaho Code, be, and the same is hereby
+5 amended to read as follows:
+6 63-2553. LEGISLATIVE INTENT. It is the intent and purpose of this
+7 chapter to levy a tax on all tobacco products, alternative nicotine prod-
+8 ucts, and vapor products sold, used, consumed, handled, or distributed
+9 within this state and to collect the tax from the distributor as defined in
+10 section 63-2551, Idaho Code. It is the further intent and purpose of this
+11 chapter to impose the tax only once but nothing in this chapter shall be con-
+12 strued to exempt any person taxable under any other law or under any other tax
+13 imposed by the state of Idaho.
+14 SECTION 29. That Section 63-2554, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 63-2554. PERMIT REQUIRED. (1) No person shall engage in the business
+17 of a manufacturer, distributor, or subjobber of tobacco products, alterna-
+18 tive nicotine products, or vapor products at any place of business without
+19 first having received from the commission a permit as provided in section
+20 63-2503 or 63-2504, Idaho Code.
+21 (2) Distributors and subjobbers shall purchase tobacco products, al-
+22 ternative nicotine products, or vapor products only from a manufacturer,
+23 wholesaler, or distributor who has obtained a permit under this chapter or
+24 under chapter 57, title 39, Idaho Code, as appropriate, and shall verify that
+25 the seller holds a valid permit before making a purchase.
+26 (3) Retailers shall purchase alternative nicotine products, tobacco
+27 products, or vapor products only from a wholesaler or distributor who has ob-
+28 tained a permit under this chapter or under chapter 57, title 39, Idaho Code,
+29 as appropriate, and shall verify that the seller holds a valid permit before
+30 making a purchase.
+31 (4) Manufacturers shall sell alternative nicotine products, tobacco
+32 products, or vapor products only to a wholesaler, subjobber, or distributor
+33 who has obtained a permit under this chapter or under chapter 57, title 39,
+34 Idaho Code, as appropriate, and shall verify that the purchaser holds a valid
+35 permit before making a sale.
+36 (5) Wholesalers, subjobbers, and distributors shall sell alternative
+37 nicotine products, tobacco products, or vapor products only to a wholesaler,
+38 subjobber, distributor, or retailer who has obtained a permit under this
+39 chapter or under chapter 57, title 39, Idaho Code, as appropriate, and shall
+40 verify that the purchaser holds a valid permit before making a sale.
+41 (6) The state tax commission shall publish a list of active permits and
+42 shall update such list monthly. The state tax commission also shall publish
+43 a list of persons whose permits have been suspended or revoked, including the
+44 date of the suspension and the date of the anticipated reinstatement or the
+45 date of the revocation.
+
+22
+1 SECTION 30. That Section 63-2555, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 63-2555. BOOKS AND RECORDS TO BE PRESERVED -- ENTRY AND INSPECTION BY
+4 COMMISSION. (1) Every distributor shall keep at each registered place of
+5 business complete and accurate records for that place of business, including
+6 itemized invoices, of tobacco products, alternative nicotine products, and
+7 vapor products held, purchased, manufactured, brought in or caused to be
+8 brought in from without the state, or shipped or transported to retailers
+9 in this state, and of all sales of tobacco products, alternative nicotine
+10 products, and vapor products made, except sales to the ultimate consumer.
+11 (2) These records shall show the names and addresses of purchasers, the
+12 inventory of all tobacco products, alternative nicotine products, and vapor
+13 products on hand on July 1, 1972, July 1, 2026, and other pertinent papers and
+14 documents relating to the purchase, sale or disposition of tobacco products,
+15 alternative nicotine products, and vapor products.
+16 (3) When a registered distributor sells tobacco products, alternative
+17 nicotine products, or vapor products exclusively to the ultimate consumer
+18 at the address given in the certificate, no invoice of those sales shall
+19 be required, but itemized invoices shall be made of all tobacco products,
+20 alternative nicotine products, and vapor products transferred to other re-
+21 tail outlets owned or controlled by that registered distributor. All books,
+22 records, and other papers and documents required by this section to be kept
+23 shall be preserved for a period of at least five (5) years after the date of
+24 the documents, as aforesaid, or the date of the entries thereof appearing in
+25 the records, unless the commission, in writing, authorizes their destruc-
+26 tion or disposal at an earlier date. At any time during usual business hours,
+27 the commission, or its duly authorized agents or employees, may enter any
+28 place of business of a distributor, without a search warrant, and inspect
+29 the premises, the records required to be kept under this chapter, and the to-
+30 bacco products, alternative nicotine products, and vapor products contained
+31 therein, to determine whether or not all the provisions of this chapter are
+32 being fully complied with. If the commission, or any of its agents or employ-
+33 ees, is denied free access or is hindered or interfered with in making such
+34 examination, the permit of the distributor at such premises shall be subject
+35 to revocation by the commission.
+36 SECTION 31. That Section 63-2556, Idaho Code, be, and the same is hereby
+37 amended to read as follows:
+38 63-2556. PRESERVATION OF INVOICES OF SALES TO OTHER THAN ULTIMATE CON-
+39 SUMER. Every person who sells tobacco products, alternative nicotine prod-
+40 ucts, or vapor products to persons other than the ultimate consumer shall
+41 render with each sale itemized invoices showing the seller's name and ad-
+42 dress, the purchaser's name and address, the date of sale, and all prices and
+43 discounts. He shall preserve legible copies of all such invoices for five
+44 (5) years from the date of sale.
+45 SECTION 32. That Section 63-2557, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+
+23
+1 63-2557. INVOICES OF PURCHASES TO BE PROCURED BY RETAILER, SUBJOBBER
+2 -- PRESERVATION -- INSPECTION. Every retailer and subjobber shall procure
+3 itemized invoices of all tobacco products, alternative nicotine products,
+4 and vapor products purchased. The invoices shall show the name and address
+5 of the seller and the date of purchase. The retailer and subjobber shall pre-
+6 serve a legible copy of each such invoice for five (5) years from the date of
+7 purchase. Invoices shall be available for inspection by the commission or
+8 its authorized agents or employees at the retailer's or subjobber's place of
+9 business.
+10 SECTION 33. That Section 63-2558, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 63-2558. RECORDS OF SHIPMENTS, DELIVERIES FROM PUBLIC WAREHOUSE OF
+13 FIRST DESTINATION -- PRESERVATION -- INSPECTION. Records of all deliveries
+14 or shipments of tobacco products, alternative nicotine products, or vapor
+15 products from any public warehouse of first destination in this state shall
+16 be kept by the warehouse and be available to the commission for inspection.
+17 They shall show the name and address of the consignee, the date, the quan-
+18 tity of tobacco products, alternative nicotine products, and vapor products
+19 delivered, and such other information as the commission may require. These
+20 records shall be preserved for five (5) years from the date of delivery of the
+21 tobacco products, alternative nicotine products, or vapor products.
+22 SECTION 34. That Section 63-2559, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 63-2559. WHEN CREDIT MAY BE OBTAINED FOR TAX PAID. (1) Where tobacco
+25 products, alternative nicotine products, or vapor products upon which
+26 the tax taxes imposed by this chapter has have been reported and paid, are
+27 shipped or transported by the distributor to distributors or retailers
+28 outside the state, to be sold by those distributors or retailers, or are
+29 returned to the manufacturer by the distributor or destroyed by the distrib-
+30 utor, credit of such tax taxes may be made to the distributor in accordance
+31 with rules prescribed by the commission.
+32 (2) Taxes paid on tobacco products, alternative nicotine products, or
+33 vapor products sold on or after January 1, 2000, on accounts later found to be
+34 worthless and actually charged-off may be credited upon a subsequent payment
+35 of the tax taxes on tobacco products, alternative nicotine products, and va-
+36 por products or, if no such tax is taxes are due, refunded. If all or part
+37 of such an account is thereafter collected, the tax taxes shall be paid based
+38 upon the proportion of the amount collected.
+39 SECTION 35. That Section 63-2563, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 63-2563. COLLECTION AND ENFORCEMENT. The collection and enforcement
+42 procedures provided by the Idaho income tax act, sections 63-3038, 63-3039,
+43 63-3040, 63-3042 through 63-3045B, 63-3047 through 63-3065A, 63-3068,
+44 63-3071, 63-3075 and 63-3078, Idaho Code, shall apply and be available to
+45 the state tax commission for the enforcement of this act and collection of
+
+24
+1 any amounts due under this act and said sections shall, for this purpose,
+2 be considered part of this act and wherever liens or any other proceedings
+3 are defined as income tax liens or proceedings, they shall, when applied in
+4 enforcement or collection under this act, be described as tobacco products,
+5 alternative nicotine products, and vapor products tax liens and proceed-
+6 ings. Any reference to taxable year in the income tax act shall be, for the
+7 purposes of this act, considered a taxable period.
+8 The state tax commission may be made a party defendant in an action at
+9 law or in equity by any person aggrieved by the unlawful seizure or sale of
+10 his property, or in any suit for refund or to recover an overpayment, but
+11 only the state of Idaho shall be responsible for any final judgment secured
+12 against the state tax commission, and said judgment shall be paid or satis-
+13 fied out of the tobacco products, alternative nicotine products, and vapor
+14 products tax refund fund.
+15 SECTION 36. That Section 63-2565, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 63-2565. REFUNDS, LIMITATIONS, INTEREST. (a) Where there has been an
+18 overpayment of any tobacco products, alternative nicotine products, and va-
+19 por products tax imposed by this act, the amount of such overpayment shall be
+20 credited against any tobacco products, alternative nicotine products, and
+21 vapor products tax then due from the taxpayer, and any balance of such excess
+22 shall be refunded to the taxpayer.
+23 (b) The state tax commission is authorized and the state board of tax
+24 appeals is authorized to order the tax commission in proper cases to credit
+25 or remit, refund, and pay back all taxes and penalties erroneously or ille-
+26 gally assessed or collected, regardless of whether the same have been paid
+27 under protest, which claims for refund shall be certified to the state board
+28 of examiners by the state tax commission.
+29 (c) No such credit or refund of taxes, penalties or interest paid, shall
+30 be allowed or made after three (3) years from the time the return was filed,
+31 unless before the expiration of such period a claim therefor is filed by the
+32 taxpayer with the commission.
+33 (d) Interest shall be allowed on the amount of such credits or refunds
+34 at the rate provided in section 63-3045, Idaho Code, from the date such tax
+35 was paid.
+36 (e) Appeal of a tax commission decision denying in whole or part a claim
+37 for refund shall be made in accordance with and within the time limits pre-
+38 scribed in section 63-3049, Idaho Code.
+39 SECTION 37. An emergency existing therefor, which emergency is hereby
+40 declared to exist, this act shall be in full force and effect on and after
+41 July 1, 2026.

@@ -1,0 +1,213 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 815
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1006, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE TRANSPORTATION SUPPORT PROGRAM; AND DECLARING AN
+4 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-1006, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-1006. TRANSPORTATION SUPPORT PROGRAM. (1) The state board of ed-
+9 ucation shall determine what costs of transporting pupils, including main-
+10 tenance, operation and depreciation of basic vehicles, insurance, payments
+11 under contract with other public transportation providers whose vehicles
+12 used to transport pupils comply with federal transit administration regula-
+13 tions, "bus testing," 49 CFR part 665, and any revision thereto, as provided
+14 in subsection (4)(d) of this section, or other state department of educa-
+15 tion-approved private transportation providers, salaries of drivers, and
+16 any other costs, shall be allowable in computing the transportation support
+17 program of authorized transportation operations.
+18 (2) Any costs associated with the addition of vehicle features that are
+19 not part of the basic vehicle shall not be allowable in computing the trans-
+20 portation support program of an authorized transportation operation. A ba-
+21 sic vehicle is hereby defined as the cost of the vehicle without optional
+22 features, plus the addition of essential safety features and features nec-
+23 essary for the transportation of pupils with disabilities.
+24 (3) Each authorized transportation operation shall maintain records
+25 and make reports as are required for the purposes of this section.
+26 (4) The transportation support program of an authorized transportation
+27 operation shall be based upon the allowable costs of:
+28 (a) Transporting public school pupils one and one-half (1 1/2) miles or
+29 more to school;
+30 (b) Transporting pupils less than one and one-half (1 1/2) miles as pro-
+31 vided in section 33-1501, Idaho Code, when approved by the state board
+32 of education;
+33 (c) Payments when transportation is not furnished, as provided in sec-
+34 tion 33-1503, Idaho Code;
+35 (d) The transportation program for kindergarten through grade 12,
+36 upon the costs of payments pursuant to a contract with other public or
+37 private transportation providers entered into as provided in section
+38 33-1510, Idaho Code, if the authorized transportation operation estab-
+39 lishes that the reimbursable costs of transportation under the contract
+40 are equal to or less than the costs for school buses;
+41 (e) The employer's share of contributions to the public employee re-
+42 tirement system and to social security; and
+
+2
+1 (f) Providing transportation to and from approved school activities as
+2 may be approved by the rules of the state board of education.
+3 (5) The state's share of the transportation support program shall be
+4 fifty percent (50%) of reimbursable transportation costs incurred by the
+5 authorized transportation operation during the immediately preceding state
+6 fiscal year, except for the cost of state department of education training
+7 and fee assessments and bus depreciation and maintenance, for which the
+8 state's share shall be eighty-five percent (85%) of such costs. The state's
+9 share for authorized transportation operations that contract for pupil
+10 transportation services shall be the average state share of costs for autho-
+11 rized transportation operations that are school district-run operations,
+12 based on the statewide total of such costs. Provided however, that the reim-
+13 bursable costs for any authorized transportation operation shall not exceed
+14 one hundred three percent (103%) of the statewide average reimbursable
+15 cost per mile or the statewide average reimbursable cost per student rider,
+16 whichever is more advantageous to the authorized transportation provider.
+17 If an authorized transportation operation's costs exceed the one hundred
+18 three percent (103%) limit when computed by the more advantageous of the two
+19 (2) methods, that authorized transportation operation shall be reimbursed
+20 at the appropriate percentage designated by this subsection, multiplied
+21 by the maximum limit for whichever method is more favorable to the autho-
+22 rized transportation operation. An authorized transportation operation may
+23 appeal the application of the one hundred three percent (103%) limit on reim-
+24 bursable costs to the state board of education, which may establish for that
+25 authorized transportation operation a new percentile limit for reimbursable
+26 costs compared to the statewide average, which is higher than one hundred
+27 three percent (103%). In doing so, the state board of education may set a
+28 new limit that is greater than one hundred three percent (103%), but is less
+29 than the percentile limit requested by the authorized transportation oper-
+30 ation. However, the percentage increase in the one hundred three percent
+31 (103%) cap shall not exceed the percentage of the authorized transportation
+32 operation's bus runs that qualify as a hardship bus run, pursuant to this
+33 subsection. Any costs above the new level established by the state board of
+34 education shall not be reimbursed. Such a change shall only be granted by the
+35 state board of education for hardship bus runs. To qualify as a hardship bus
+36 run, such bus run shall meet at least two (2) of the following criteria:
+37 (a) The number of student riders per mile is less than fifty percent
+38 (50%) of the statewide average number of student riders per mile;
+39 (b) Less than a majority of the miles on the bus run are by paved sur-
+40 face, concrete or asphalt road;
+41 (c) Over ten percent (10%) of the miles driven on the bus run are a five
+42 percent (5%) slope or greater.
+43 (6) Beginning on July 1, 2005, any eligible home-based public virtual
+44 school may claim transportation reimbursement for the prior fiscal year's
+45 cost of providing educational services to students. In order to be eligi-
+46 ble, such a school shall have at least one (1) average daily attendance divi-
+47 sor, pursuant to section 33-1002, Idaho Code, that is greater than the median
+48 divisor shown for any category of pupils, among the actual divisors listed.
+49 For the purposes of paragraphs (a), (b) and (c) of this subsection, "educa-
+50 tion provider" means the home-based public virtual school or an entity that
+
+3
+1 has legally contracted with the home-based public virtual school to supply
+2 education services. Reimbursable costs shall be limited to the costs of:
+3 (a) Providing an internet connection service between the student and
+4 the education provider, not including the cost of telephone service;
+5 (b) Providing electronic and computer equipment used by the student
+6 to transmit educational material between the student and the education
+7 provider;
+8 (c) Providing a toll-free telephone service for students to communi-
+9 cate with the education provider;
+10 (d) Providing education-related, face-to-face visits by representa-
+11 tives of the home-based public virtual school, with such reimbursements
+12 limited to the mileage costs set for state employee travel by the state
+13 board of examiners; and
+14 (e) Any actual pupil transportation costs that would be reimbursable
+15 if claimed by an authorized transportation operation that is a school
+16 district.
+17 The total reimbursement for such home-based public virtual schools shall be
+18 exempt from the statewide average cost per mile limitations of this section.
+19 The state's share of reimbursable costs shall be eighty-five percent (85%),
+20 subject to the statewide cost per student rider provisions of this section.
+21 For the purposes of such home-based public virtual school, the number of stu-
+22 dent riders shall be the same as the number of pupils in average daily atten-
+23 dance.
+24 (7) The state department of education shall calculate the amount of
+25 state funds lost in fiscal year 2010 by each authorized transportation oper-
+26 ation as a result of the decrease in the state reimbursement from eighty-five
+27 percent (85%) to fifty percent (50%) of certain eligible costs, including
+28 the reduction calculated for authorized transportation operations that con-
+29 tract for pupil transportation services, and excluding any reductions made
+30 due to the limitation on reimbursable expenses, all pursuant to subsection
+31 (5) of this section. The amount so calculated shall be distributed to each
+32 authorized transportation operation in fiscal year 2010. For each fiscal
+33 year thereafter, the amount distributed pursuant to this subsection for each
+34 authorized transportation operation shall be determined as follows:
+35 (a) Divide the amount distributed to the authorized transportation op-
+36 eration pursuant to this subsection in fiscal year 2010 by the autho-
+37 rized transportation operation's support units for fiscal year 2010;
+38 (b) Multiply the result of the calculation found in paragraph (a) of
+39 this subsection by the number of support units in the current fiscal
+40 year, excluding any support units attributable to students educated
+41 primarily through home-based or virtual means;
+42 (c) Determine the percentage change in statewide transportation reim-
+43 bursements as provided for in subsection (5) of this section since fis-
+44 cal year 2010;
+45 (d) Determine the percentage change in statewide student enrollment
+46 since fiscal year 2010;
+47 (e) Subtract the result of the calculation found in paragraph (d) of
+48 this subsection from the result of the calculation found in paragraph
+49 (c) of this subsection;
+
+4
+1 (f) Adjust the result of the calculation found in paragraph (b) of this
+2 subsection by the percentage result from paragraph (e) of this subsec-
+3 tion.
+4 For authorized transportation operations that are school districts
+5 that divided after fiscal year 2010, the calculation in paragraph (a) of
+6 this subsection shall still be based on the fiscal year 2010 figures for the
+7 formerly consolidated district. For authorized transportation operations
+8 that are public charter schools beginning operations on or after July 1,
+9 2009, all calculations in this subsection that are based on fiscal year 2010
+10 shall instead be based on the public charter school's first fiscal year of
+11 operations. For public charter schools beginning authorized transportation
+12 operations before July 1, 2009, that received a transportation distribution
+13 of less than three thousand dollars ($3,000) in the 2010 fiscal year, all
+14 calculations in this subsection that are based on fiscal year 2010 shall
+15 instead be based on the public charter school's first fiscal year of full
+16 operations after the 2010 fiscal year. For the purposes of this subsection,
+17 the support units used shall be the number used for calculating salary-based
+18 apportionment. Funds distributed pursuant to this subsection shall be used
+19 to defray the cost of pupil transportation. If the amount distributed is
+20 in excess of an authorized transportation operation's actual pupil trans-
+21 portation costs, less any state reimbursements provided by subsection (5) of
+22 this section, the excess funds may be used at the authorized transportation
+23 operation's discretion.
+24 (8) Notwithstanding the provisions of subsection (5) of this section,
+25 the state's share of the transportation support program will be based on
+26 reimbursable transportation costs incurred by an authorized transportation
+27 provider during the state fiscal year prior to the immediately preceding
+28 state fiscal year if, during the immediately preceding state fiscal year:
+29 (a) An emergency occurred in the state or in the area where the au-
+30 thorized transportation operation is located. For purposes of this
+31 subsection, an emergency includes but is not limited to school closures
+32 caused by extreme weather conditions, a fire, an epidemic, or pollution
+33 of air or water; and
+34 (b) As a direct result of such emergency, the reimbursable transporta-
+35 tion costs of an authorized transportation operation decreased by at
+36 least ten percent (10%) from the prior fiscal year.
+37 (9) Notwithstanding any provisions of law to the contrary, for the du-
+38 ration of an emergency described in subsection (8) of this section, the miles
+39 for which transportation costs may be reimbursed will be miles:
+40 (a) Directly associated with transporting students for the purpose of
+41 school attendance during regular days and hours; or
+42 (b) Related to the delivery of food, delivery of instructional mate-
+43 rials, or other trips supporting the continuation of educational ser-
+44 vices.
+45 (10) As used in this section, "authorized transportation operation"
+46 means a school district or public charter school transportation program au-
+47 thorized by the state department of education that may include the use of any
+48 vehicles authorized pursuant to chapter 15, title 33, Idaho Code.
+
+5
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

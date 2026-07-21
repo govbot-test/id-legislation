@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 698
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO VOTING; AMENDING SECTION 18-310, IDAHO CODE, TO REVISE A PROVI-
+3 SION REGARDING VOTING BY PERSONS CONVICTED OF FELONIES IN OTHER STATES;
+4 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 18-310, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 18-310. IMPRISONMENT -- EFFECT ON CIVIL RIGHTS AND OFFICES. (1) A
+9 sentence of custody to the Idaho state board of correction suspends all the
+10 civil rights of the person so sentenced, including the right to refuse treat-
+11 ment authorized by the sentencing court, and forfeits all public offices and
+12 all private trusts, authority or power during such imprisonment: provided
+13 that any such person may bring an action for damages or other relief in the
+14 courts of this state or have an action brought against such person; and pro-
+15 vided further that any such person may lawfully exercise all civil rights
+16 that are not political during any period of parole or probation, except the
+17 right to ship, transport, possess or receive a firearm, and the right to
+18 refuse treatment authorized by the sentencing court.
+19 (2) Upon final discharge, a person convicted of any Idaho felony shall
+20 be restored the full rights of citizenship, except that for persons con-
+21 victed of treason or those offenses enumerated in paragraphs (a) through
+22 (hh) of this subsection the right to ship, transport, possess or receive a
+23 firearm shall not be restored. As used in this subsection, "final discharge"
+24 means satisfactory completion of imprisonment, probation and parole as the
+25 case may be.
+26 (a) Aggravated assault (18-905, 18-915, Idaho Code);
+27 (b) Aggravated battery (18-907, 18-915, Idaho Code);
+28 (c) Assault with intent to commit a serious felony (18-909, 18-915,
+29 Idaho Code);
+30 (d) Battery with intent to commit a serious felony (18-911, 18-915,
+31 Idaho Code);
+32 (e) Burglary (18-1401, Idaho Code);
+33 (f) Domestic battery, felony (18-918, Idaho Code);
+34 (g) Enticing of children, felony (18-1509, Idaho Code);
+35 (h) Forcible sexual penetration by use of a foreign object (18-6604,
+36 Idaho Code);
+37 (i) Indecent exposure, felony (18-4116, Idaho Code);
+38 (j) Injury to child, felony (18-1501, Idaho Code);
+39 (k) Intimidating a witness, felony (18-2604, Idaho Code);
+40 (l) Lewd conduct with a minor or child under sixteen (18-1508, Idaho
+41 Code);
+42 (m) Sexual abuse of a child under sixteen (18-1506, Idaho Code);
+
+2
+1 (n) Sexual exploitation of a child (18-1507, Idaho Code);
+2 (o) Felonious rescuing prisoners (18-2501, Idaho Code);
+3 (p) Escape by one charged with, convicted of or on probation for a
+4 felony (18-2505, Idaho Code);
+5 (q) Unlawful possession of a firearm (18-3316, Idaho Code);
+6 (r) Degrees of murder (18-4003, Idaho Code);
+7 (s) Voluntary manslaughter (18-4006(1), Idaho Code);
+8 (t) Assault with intent to murder (18-4015, Idaho Code);
+9 (u) Administering poison with intent to kill (18-4014, Idaho Code);
+10 (v) Kidnapping (18-4501, Idaho Code);
+11 (w) Mayhem (18-5001, Idaho Code);
+12 (x) Rape (18-6101, Idaho Code);
+13 (y) Robbery (18-6501, Idaho Code);
+14 (z) Ritualized abuse of a child (18-1506A, Idaho Code);
+15 (aa) Cannibalism (18-5003, Idaho Code);
+16 (bb) Felonious manufacture, delivery or possession with the intent to
+17 manufacture or deliver, or possession of a controlled or counterfeit
+18 substance (37-2732, Idaho Code);
+19 (cc) Trafficking (37-2732B, Idaho Code);
+20 (dd) Threats against state officials of the executive, legislative or
+21 judicial branch, felony (18-1353A, Idaho Code);
+22 (ee) Unlawful discharge of a firearm at a dwelling house, occupied
+23 building, vehicle or mobile home (18-3317, Idaho Code);
+24 (ff) Unlawful possession of destructive devices (18-3319, Idaho Code);
+25 (gg) Unlawful use of destructive device or bomb (18-3320, Idaho Code);
+26 (hh) Attempt (18-306, Idaho Code), conspiracy (18-1701, Idaho Code),
+27 or solicitation (18-2001, Idaho Code), to commit any of the crimes de-
+28 scribed in paragraphs (a) through (gg) of this subsection.
+29 (ii) The provisions of this subsection shall apply only to those persons
+30 convicted of the enumerated felonies in paragraphs (a) through (hh) of
+31 this subsection on or after July 1, 1991, except that persons convicted
+32 of the felonies enumerated in paragraphs (r) and (s) of this subsec-
+33 tion, for any degree of murder or voluntary manslaughter, shall not be
+34 restored the right to ship, transport, possess or receive a firearm,
+35 regardless of the date of their conviction if the conviction was the
+36 result of an offense committed by use of a firearm.
+37 (3) A person not restored to the civil right to ship, transport, pos-
+38 sess or receive a firearm may make application to the commission of pardons
+39 and parole to restore the civil right to ship, transport, possess or receive
+40 a firearm. The commission shall not accept any such application until five
+41 (5) years after the date of final discharge. The commission shall conduct
+42 the proceeding upon such application pursuant to rules adopted in accordance
+43 with the law. The commission shall not restore the right to ship, transport,
+44 possess or receive a firearm to any person convicted of murder in the first
+45 degree (18-4003, Idaho Code), murder in the second degree (18-4003, Idaho
+46 Code), or any felony enumerated in paragraphs (a) through (hh) of subsection
+47 (2) of this section, upon which the sentence was enhanced for the use of a
+48 firearm during the commission of said felony.
+49 (4) Persons convicted of felonies in other states or jurisdictions, ex-
+50 cept for persons convicted of treason, shall be allowed to register and vote
+
+3
+1 in Idaho upon final discharge which means satisfactory completion of impris-
+2 onment, probation and parole as the case may be. These individuals shall not
+3 have the right restored to ship, transport, possess or receive a firearm in
+4 the same manner as an Idaho felon as provided in subsection (2) of this sec-
+5 tion.
+6 SECTION 2. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2026.

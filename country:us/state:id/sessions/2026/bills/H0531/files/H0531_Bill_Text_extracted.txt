@@ -1,0 +1,139 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 531
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO EPINEPHRINE DELIVERY SYSTEMS; AMENDING SECTION 33-520, IDAHO
+3 CODE, TO REVISE PROVISIONS REGARDING EPINEPHRINE DELIVERY SYSTEMS;
+4 AMENDING SECTION 33-520A, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+5 LIFE-THREATENING ALLERGIES IN SCHOOLS AND GUIDELINES REGARDING EPI-
+6 NEPHRINE DELIVERY SYSTEMS; AND DECLARING AN EMERGENCY AND PROVIDING AN
+7 EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 33-520, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 33-520. POLICY GOVERNING MEDICAL INHALERS, EPINEPHRINE AUTO-INJEC-
+12 TORS DELIVERY SYSTEMS, INSULIN AND BLOOD GLUCOSE MONITORING SUPPLIES. (1)
+13 The board of trustees of each school district, including charter districts,
+14 shall adopt a policy permitting the self-administration of medication ad-
+15 ministered by way of a metered-dose inhaler by a pupil for asthma or other po-
+16 tentially life-threatening respiratory illness or by way of an epinephrine
+17 auto-injector delivery system for severe allergic reaction (anaphylaxis).
+18 On or before September 1, 2016, such boards of trustees shall also adopt a
+19 policy permitting the self-administration of diabetes medication and blood
+20 glucose monitoring by a pupil with diabetes.
+21 (2) As used in this section:
+22 (a) "Medication" means an epinephrine auto-injector delivery system, a
+23 metered-dose inhaler or a dry powder inhaler or insulin prescribed by a
+24 physician and having an individual label; and
+25 (b) "Self-administration" means a student's use of medication or of
+26 blood glucose monitoring supplies pursuant to prescription or written
+27 direction from a physician.
+28 (3) A student who is permitted to self-administer medication or blood
+29 glucose monitoring pursuant to this section shall be permitted to possess
+30 and use a prescribed inhaler, an epinephrine auto-injector delivery system,
+31 insulin or blood glucose monitoring supplies at all times.
+32 (4) Nothing in this section shall be construed to prevent a school dis-
+33 trict from requiring pupils to maintain current duplicate prescription med-
+34 ications or blood glucose monitoring supplies with the school nurse or, in
+35 the absence of such nurse, with the school administrator.
+36 SECTION 2. That Section 33-520A, Idaho Code, be, and the same is hereby
+37 amended to read as follows:
+38 33-520A. LIFE-THREATENING ALLERGIES IN SCHOOLS -- GUIDELINES, STOCK
+39 SUPPLY OF EPINEPHRINE AUTO-INJECTORS DELIVERY SYSTEMS AND EMERGENCY ADMIN-
+
+2
+1 ISTRATION. (1) As used in this section, the following definitions shall ap-
+2 ply:
+3 (a) "Administer" means the direct application of an epinephrine auto-
+4 injector delivery system to the body of an individual.
+5 (b) "Designated school personnel" means an employee, agent or vol-
+6 unteer of a school designated by the governing authority of a school
+7 who has completed the training to provide or administer an epinephrine
+8 auto-injector delivery system to a student.
+9 (c) "Epinephrine auto-injector delivery system" means a device that
+10 automatically injects a premeasured dose of epinephrine that is ap-
+11 proved by the federal food and drug administration that contains a
+12 premeasured dose of epinephrine and that is used to administer epineph-
+13 rine into the human body.
+14 (d) "Provide" means the supply of one (1) or more epinephrine auto-in-
+15 jectors delivery systems to an individual.
+16 (e) "School" means any public or nonpublic school.
+17 (f) "Self-administration" means a student or other person's discre-
+18 tionary use of an epinephrine auto-injector delivery system, whether
+19 provided by the student or by a school nurse or designated school per-
+20 sonnel pursuant to the provisions of this section.
+21 (2) Any physician, advanced practice registered nurse licensed to pre-
+22 scribe or physician assistant licensed to prescribe pursuant to title 54,
+23 Idaho Code, may prescribe epinephrine auto-injectors delivery systems in
+24 the name of a school to be maintained for use in accordance with subsection
+25 (3) of this section. Licensed pharmacists and physicians may dispense epi-
+26 nephrine auto-injectors delivery systems pursuant to a prescription issued
+27 in accordance with this subsection. A school may maintain a stock supply of
+28 epinephrine auto-injectors delivery systems.
+29 (3) The governing authority of a school may authorize school nurses and
+30 designated school personnel to do the following:
+31 (a) Provide an epinephrine auto-injector delivery system to a student
+32 to self-administer the epinephrine auto-injector delivery system in
+33 accordance with a prescription specific to the student on file with the
+34 school nurse;
+35 (b) Administer an epinephrine auto-injector delivery system to a stu-
+36 dent in accordance with a prescription specific to the student on file
+37 with the school nurse; and
+38 (c) Administer an epinephrine auto-injector delivery system to any
+39 student or other individual on school premises that the school nurse
+40 or designated school personnel in good faith believes is experiencing
+41 anaphylaxis regardless of whether the student or other individual has a
+42 prescription for an epinephrine auto-injector delivery system.
+43 (4) A school may enter into arrangements with manufacturers of epineph-
+44 rine auto-injectors delivery systems or third-party suppliers of epineph-
+45 rine auto-injectors delivery systems to obtain epinephrine auto-injectors
+46 delivery systems at fair market price, reduced price or free.
+47 (5) The governing authority of a school that participates in supplying
+48 and administering epinephrine auto-injectors delivery systems pursuant to
+49 the provisions of this section shall do the following:
+
+3
+1 (a) Require each school that maintains a stock supply and administers
+2 epinephrine auto-injectors delivery systems to submit a report of each
+3 incident at the school or related school event involving a severe al-
+4 lergic reaction or the administration of an epinephrine auto-injector
+5 delivery system to the governing authority of the school or its de-
+6 signee; and
+7 (b) Establish detailed standards for training programs that must be
+8 completed by designated school personnel in order to provide or admin-
+9 ister an epinephrine auto-injector delivery system in accordance with
+10 this section. Such training may be conducted online and, at a minimum,
+11 shall cover:
+12 (i) Techniques on how to recognize symptoms of severe allergic
+13 reactions, including anaphylaxis;
+14 (ii) Standards and procedures for the storage, administration and
+15 disposal of an epinephrine auto-injector delivery system; and
+16 (iii) Emergency follow-up procedures.
+17 (6) There shall be no civil liability for any damages for a physician,
+18 advanced practice registered nurse, physician's assistant or pharma-
+19 cist providing a prescription or standing protocol for school epinephrine
+20 auto-injectors delivery systems consistent with the standard of care for
+21 the provider. Further, there shall be no civil liability for damages for
+22 a school or its employees or agents for any injuries that result from the
+23 administration or self-administration of an epinephrine auto-injector
+24 delivery system regardless of whether authorization for use was given by the
+25 student's parents, guardian or medical provider provided the actions taken
+26 in administering or providing the injector epinephrine delivery system
+27 were reasonable under the circumstances. The liability protections in this
+28 section do not apply to acts or omissions constituting gross negligence,
+29 those that are reckless or that constitute willful and wanton behavior. The
+30 liability protections in this section are in addition to any provided under
+31 section 5-330, Idaho Code.
+32 SECTION 3. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after
+34 July 1, 2026.

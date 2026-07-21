@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1413
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ENDOWMENT LAND LEASES; AMENDING SECTION 58-307, IDAHO CODE, TO
+3 REVISE A PROVISION REGARDING THE TERM OF COMMERCIAL LEASES; AND DECLAR-
+4 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 58-307, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 58-307. TERM OF LEASE -- APPLICATION FOR RENEWAL -- ALLOWANCE FOR IM-
+9 PROVEMENTS. (1) No lease of state trust lands shall be for a longer term than
+10 twenty (20) years.
+11 (2) Notwithstanding any other provisions of law, all state lands may
+12 be leased for a period of up to twenty-five (25) years to the federal gov-
+13 ernment, to federal agencies, state agencies, counties, or cities, school
+14 districts or political subdivisions when leased for public purposes. Such
+15 leases for public purposes may be entered into by negotiation and shall se-
+16 cure a rental amount based on the fair market value of the state land.
+17 (3) Notwithstanding any other provisions of law, all state endowment
+18 trust lands may be leased for a period of up to thirty-five (35) years for
+19 residential purposes as determined by the state board of land commissioners
+20 including, but not limited to, single family, recreational cottage site and
+21 homesite leases.
+22 (4) Notwithstanding any other provision of law to the contrary, all
+23 state lands may be leased for a period of up to forty (40) years for grazing
+24 leases.
+25 (5) Notwithstanding any other provisions of law, all state endowment
+26 trust lands may be leased for a period of up to forty-nine (49) ninety-nine
+27 (99) years for commercial purposes under such terms and conditions as may
+28 be set by the board, provided that, for such leases in excess of twenty (20)
+29 years, the board consults with the county commissioners of the county in
+30 which the lands are located before leasing the lands, and the use for which
+31 the land is leased shall be consistent with the local planning and zoning
+32 ordinances insofar as is reasonable and practicable. For each lease in ex-
+33 cess of twenty (20) years, the department shall hold a hearing in the county
+34 in which the parcel is located. Grazing leases shall be excluded from the
+35 hearing requirement.
+36 (6) The term "commercial purposes" means fuel cells, low impact hy-
+37 dro, wind, geothermal resources, biomass, cogeneration, sun or landfill
+38 gas as the principal source of power with a facility capable of generating
+39 not less than twenty-five (25) kilowatts of electricity, industrial enter-
+40 prises, retail sales outlets, business and professional office buildings,
+41 hospitality enterprises, commercial recreational activities, multifamily
+42 residential developments and other similar businesses. For purposes of
+
+2
+1 this section, farming leases, grazing leases, conservation leases including
+2 lands enrolled in federal conservation programs such as the conservation
+3 reserve enhancement program (CREP), noncommercial recreation leases, oil
+4 and gas leases, mineral leases, communication site leases, single family,
+5 recreational cottage site and homesite leases, and leases for other similar
+6 uses, are not considered leases for commercial purposes. The terms fuel
+7 cells, low impact hydro, wind, geothermal resources, biomass, cogeneration,
+8 sun or landfill gas shall have the same definitions as provided in section
+9 63-3622QQ, Idaho Code.
+10 (7) The board may require that all fixed improvements constructed upon
+11 land leased for commercial purposes be removed or become the property of the
+12 state upon termination of the lease, and that any heirs, encumbrances or
+13 claims of third parties with respect to any improvements shall be expressly
+14 subordinate and subject to the rights of the state under this section.
+15 (8) Except for oil and gas, mineral and commercial leases, the lease
+16 year shall run from January 1 through December 31, and all leases shall ex-
+17 pire on December 31 of the year of expiration.
+18 (9) All applications to lease or to renew an existing lease which ex-
+19 pires December 31 of any year, shall be filed in the office of the director
+20 of the department of lands by the thirtieth day of April preceding the date
+21 of such expiration. Such applications will be considered by the state land
+22 board and be disposed of in the manner provided by law; except that the board
+23 may reject conflicting applications for a lease for commercial purposes if
+24 the lessee exercises the preference right to renew clause, and provided such
+25 right is specified in the lease.
+26 (10) Where conflicts appear upon leases, except for mineral leases
+27 which, pursuant to chapter 7, title 47, Idaho Code, contain a preferential
+28 right to renew clause, such applications shall be considered as having been
+29 filed simultaneously. However, nothing herein shall be construed to prevent
+30 the state board of land commissioners from accepting and considering appli-
+31 cations for new leases at any time.
+32 (11) In case improvements have been made on land while under lease which
+33 is expiring, and the former lessee is not the successful bidder, but the land
+34 is leased to another, the amount of such improvements shall be paid to the
+35 former lessee. The following shall be considered improvements: plowing
+36 done within one (1) year, provided no crop has been raised on the plowed land
+37 after such plowing, fencing, buildings, cisterns, wells, growing crops and
+38 any other asset which shall be considered an improvement by the director.
+39 (12) Commercial leases of the state lands shall not be subject to the
+40 conflict auction provisions of section 58-310, Idaho Code. The board may,
+41 at its discretion, consider individual applications or call for proposals
+42 and sealed bids by public advertisement, and may evaluate said proposals and
+43 award the lease to the bidder whose proposal achieves the highest return over
+44 the term of the lease and who is capable of meeting such terms and conditions
+45 as may be set by the board; in the alternative, the board may call for lease
+46 applications by public advertisement and if more than one (1) person files
+47 an application to hold an auction in the same manner as provided in section
+48 58-310, Idaho Code. In all cases, the board must obtain a reasonable rental,
+49 based upon fair market value of the state land, throughout the duration of
+50 the lease. The board may reject any or all proposals and any or all bids, and
+
+3
+1 may reoffer the lease at a later date if the board determines that the pro-
+2 posals or bids do not achieve the highest and best use of the land at market
+3 rental.
+4 SECTION 2. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after
+6 July 1, 2026.

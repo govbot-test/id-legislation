@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 848
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE LEGISLATIVE BRANCH; APPROPRIATING MON-
+3 EYS TO THE LEGISLATIVE BRANCH FOR THE LEGISLATIVE SERVICES OFFICE AND
+4 THE OFFICE OF PERFORMANCE EVALUATIONS FOR FISCAL YEAR 2027; EXEMPTING
+5 THE APPROPRIATION FROM EXPENSE CLASS AND PROGRAM TRANSFER LIMITATIONS;
+6 PROVIDING REAPPROPRIATION AUTHORITY FOR THE ARPA STATE FISCAL RECOV-
+7 ERY FUND; PROVIDING FOR CONDITIONS, LIMITATIONS, AND RESTRICTIONS; AND
+8 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. There is hereby appropriated to the Legislative Branch the
+11 following amounts to be expended according to the designated programs and
+12 expense classes from the listed funds for the period July 1, 2026, through
+13 June 30, 2027:
+14 FOR FOR
+15 PERSONNEL OPERATING
+16 COSTS EXPENDITURES TOTAL
+17 I. LEGISLATIVE SERVICES OFFICE:
+18 FROM:
+19 General
+20 Fund $7,892,000 $1,051,600 $8,943,600
+21 TechnologyInfrastructureStabilization
+22 Fund 127,300 15,000 142,300
+23 Miscellaneous Revenue
+24 Fund 117,800 94,000 211,800
+25 LegislativeCapitolFacilities
+26 Fund 440,000 440,000
+27 Professional Services
+28 Fund 2,109,200 152,500 2,261,700
+29 TOTAL $10,246,300 $1,753,100 $11,999,400
+30 II. OFFICE OF PERFORMANCE EVALUATIONS:
+31 FROM:
+32 General
+33 Fund $1,048,900 $40,800 $1,089,700
+34 GRAND TOTAL $11,295,200 $1,793,900 $13,089,100
+
+2
+1 SECTION 2. EXEMPTIONS FROM EXPENSE CLASS AND PROGRAM TRANSFER LIMI-
+2 TATIONS. The Legislative Services Office and Office of Performance Evalua-
+3 tions are hereby exempted from the provisions of Section 67-3511 (1), (2),
+4 and (3), Idaho Code, allowing unlimited transfers between expense classes
+5 and between programs, for all moneys appropriated to them for the period July
+6 1, 2026, through June 30, 2027. Legislative appropriations shall not be
+7 transferred from one fund to another fund unless expressly approved by the
+8 Legislature.
+9 SECTION 3. REAPPROPRIATION AUTHORITY FOR THE ARPA STATE FISCAL RECOV-
+10 ERY FUND. There is hereby reappropriated to the Legislative Technology Pro-
+11 gram any unexpended and unencumbered balances appropriated or reappropri-
+12 ated to the Legislative Technology Program from the ARPA State Fiscal Recov-
+13 ery Fund for fiscal year 2026, to be used for nonrecurring expenditures for
+14 the period July 1, 2026, through June 30, 2027. The Office of the State Con-
+15 troller shall confirm the reappropriation amount, by fund, expense class,
+16 and program, with the Legislative Services Office prior to processing the
+17 reappropriation authorized herein.
+18 SECTION 4. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+19 made pursuant to this act are subject to the conditions, limitations, and re-
+20 strictions specified in this act.
+21 SECTION 5. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2026.

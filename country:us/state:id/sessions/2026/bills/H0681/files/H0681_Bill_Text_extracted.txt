@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 681
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO CRIMINAL PROCEDURE; AMENDING SECTION 19-401, IDAHO CODE, TO PRO-
+3 VIDE THAT THERE SHALL BE NO STATUTE OF LIMITATIONS FOR CERTAIN FELONIES;
+4 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 19-401, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 19-401. NO STATUTE OF LIMITATIONS FOR CERTAIN FELONIES. Notwithstand-
+9 ing any other provision of law, there is no limitation of time within which a
+10 prosecution for the following crimes must be commenced:
+11 (1) Murder;
+12 (2) Voluntary manslaughter;
+13 (3) Rape pursuant to section 18-6101(3) through (10), Idaho Code;
+14 (4) Sexual abuse of a child or, lewd conduct with a child, or aggravated
+15 lewd conduct with a child as set forth in sections 18-1506 and, 18-1508,
+16 18-1508B, and 18-1508C, Idaho Code; or
+17 (5) Producing or making sexually exploitative material as set forth in
+18 section 18-1507(2)(b), Idaho Code; or
+19 (5) (6) An act of terrorism as set forth in sections 18-8102, 18-8103,
+20 18-3322, 18-3323 and 18-3324, Idaho Code.
+21 SECTION 2. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2026.

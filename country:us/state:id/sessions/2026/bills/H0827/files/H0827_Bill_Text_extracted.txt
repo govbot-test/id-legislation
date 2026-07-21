@@ -1,0 +1,569 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 827
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-5502, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE CREATION OF THE IDAHO DIGITAL LEARNING ACADEMY
+4 AND TO MAKE TECHNICAL CORRECTIONS; REPEALING SECTION 33-5503, IDAHO
+5 CODE, RELATING TO THE ACADEMY BOARD OF DIRECTORS; AMENDING CHAPTER 55,
+6 TITLE 33, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 33-5503, IDAHO
+7 CODE, TO ESTABLISH PROVISIONS REGARDING THE ACADEMY BOARD OF DIRECTORS;
+8 AMENDING SECTION 33-5504, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+9 THE DUTIES OF THE ACADEMY BOARD OF DIRECTORS AND TO MAKE TECHNICAL COR-
+10 RECTIONS; AMENDING SECTION 33-5504B, IDAHO CODE, TO REVISE PROVISIONS
+11 REGARDING ACADEMY EXPENDITURES AND BUDGET AND TO MAKE TECHNICAL COR-
+12 RECTIONS; AMENDING CHAPTER 55, TITLE 33, IDAHO CODE, BY THE ADDITION OF
+13 A NEW SECTION 33-5504C, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+14 FUNDING FOR DISTANCE STUDENTS; AMENDING SECTION 33-5505, IDAHO CODE,
+15 TO REVISE DEFINITIONS AND TO DEFINE A TERM; AMENDING SECTION 33-5508,
+16 IDAHO CODE, TO REVISE PROVISIONS REGARDING FUNDING FOR THE IDAHO DIGI-
+17 TAL LEARNING ACADEMY; REPEALING SECTION 33-1020, IDAHO CODE, RELATING
+18 TO IDAHO DIGITAL LEARNING ACADEMY FUNDING; AMENDING SECTION 33-1002,
+19 IDAHO CODE, TO REMOVE A PROVISION REGARDING DISTRIBUTIONS TO THE IDAHO
+20 DIGITAL LEARNING ACADEMY; AMENDING SECTION 33-1614, IDAHO CODE, TO PRO-
+21 VIDE A CORRECT CODE REFERENCE; AND DECLARING AN EMERGENCY AND PROVIDING
+22 AN EFFECTIVE DATE.
+23 Be It Enacted by the Legislature of the State of Idaho:
+24 SECTION 1. That Section 33-5502, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 33-5502. CREATION -- LEGISLATIVE FINDINGS -- GOAL. (1) There is hereby
+27 created the Idaho digital learning academy, a public school-choice learning
+28 environment which that joins the best technology with the best instructional
+29 practices. The Idaho digital learning academy as provided for in this chap-
+30 ter, is not a single department of state government unto itself, nor is it a
+31 part of any of the twenty (20) departments of state government authorized by
+32 section 20, article IV, of the constitution of the state of Idaho, or of the
+33 departments prescribed in section 67-2402, Idaho Code. It is legislative
+34 intent that the Idaho digital learning academy operate and be recognized not
+35 as a state agency or department, but as a governmental entity whose creation
+36 has been authorized by the state, much in the manner as other single purpose
+37 districts.
+38 (2) The legislature finds that it is in the best public interest to cre-
+39 ate the Idaho digital learning academy based on findings that indicate:
+40 (a) Technology continues to impact all facets of life, including the
+41 education of students of school age and adult learners the education of
+42 students in this state;
+
+2
+1 (b) Systems for delivery of education are as diverse as the learners;
+2 and
+3 (c) Public school systems Idahoans are seeking high quality educa-
+4 tional choices within the public system, and schools and other edu-
+5 cation providers are aligning curriculum and assessment with state
+6 achievement standards; and.
+7 (d) The development of a comprehensive digital learning environment is
+8 cost prohibitive for individual school districts.
+9 (3) The goal of the digital learning academy is to provide choice, ac-
+10 cessibility, flexibility, quality, and equity in curricular offerings for
+11 students in this state.
+12 SECTION 2. That Section 33-5503, Idaho Code, be, and the same is hereby
+13 repealed.
+14 SECTION 3. That Chapter 55, Title 33, Idaho Code, be, and the same is
+15 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+16 ignated as Section 33-5503, Idaho Code, and to read as follows:
+17 33-5503. ACADEMY BOARD OF DIRECTORS. On July 1, 2026, the academy
+18 board of directors shall be disbanded and reestablished as follows:
+19 (1) There is hereby created an academy board of directors that shall be
+20 responsible for the development and oversight of the Idaho digital learning
+21 academy.
+22 (2) The academy board of directors shall be comprised of nine (9) voting
+23 members as follows:
+24 (a) The state superintendent of public instruction or the superinten-
+25 dent's designee;
+26 (b) Two (2) members who are district superintendents, appointed by the
+27 governor;
+28 (c) One (1) member who is a principal, appointed by the governor;
+29 (d) Two (2) citizen members who are not professional educators. Cit-
+30 izen members shall be appointed by the governor and shall possess at
+31 least five (5) years' practical experience in finance or business;
+32 (e) One (1) legislative member who is a member of the senate, appointed
+33 by the president pro tempore of the senate;
+34 (f) One (1) legislative member who is a member of the house of represen-
+35 tatives, appointed by the speaker of the house of representatives; and
+36 (g) One (1) legislative member who is a member of the minority party,
+37 appointed by the minority leadership.
+38 (3) Except as provided in subsection (4) of this section, each member
+39 of the academy board of directors shall serve a three (3) year term except
+40 for the state superintendent of public instruction or the superintendent's
+41 designee, who shall serve concurrently with the term of office to which the
+42 state superintendent is elected.
+43 (4) For purposes of establishing staggered terms of office, the initial
+44 term of office for one (1) of the district superintendent positions shall be
+45 one (1) year and the other shall be three (3) years. The initial term of of-
+46 fice for the principal position shall be one (1) year. The initial term of
+47 office for the citizen positions shall be three (3) years. The initial terms
+48 of office for the legislative positions shall be two (2) years.
+
+3
+1 (5) No member shall serve for more than two (2) consecutive full terms.
+2 Members of the board who are appointed to fill vacancies that occur prior to
+3 the expiration of a former member's full term shall serve the unexpired por-
+4 tion of such term.
+5 (6) The board shall meet in person at least three (3) times annually;
+6 none of these three (3) meetings shall be conducted by telephone or video
+7 conferencing.
+8 SECTION 4. That Section 33-5504, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 33-5504. DUTIES OF THE ACADEMY BOARD OF DIRECTORS. The board shall be
+11 responsible for ensuring that academy procedures and courses are in compli-
+12 ance with the rules of the state board of education and applicable statutes
+13 of the state of Idaho. In addition, the board shall:
+14 (1) Recommend policies to be established by rule of the state board for
+15 effecting the purposes of this chapter.
+16 (2) Employ or contract with staff as necessary and purchase such sup-
+17 plies and equipment as are necessary to implement the provisions of this
+18 chapter, which purchases shall be exempt from the state procurement act in
+19 chapter 92, title 67, Idaho Code.
+20 (3) To enter Enter into contracts with any other governmental or public
+21 agency whereby the board agrees to render services to or for such agency in
+22 exchange for a charge reasonably calculated to cover the costs of rendering
+23 such service.
+24 (4) To accept Accept, receive, and utilize any gifts, grants, or funds
+25 and personal and real property that may be donated to it for the fulfillment
+26 of the purposes outlined in this chapter.
+27 (5) Employ or contract with necessary faculty and teaching staff who
+28 are fully certificated Idaho teachers or administrators, to design and de-
+29 liver planned curriculum content. The academy shall be exempt from the pro-
+30 visions of sections 33-513, 33-514, 33-514A, 33-515 and 33-515A, Idaho Code,
+31 and shall be exempt from chapter 53, title 67, Idaho Code. All teaching and
+32 educational staff of the academy shall be exempt, at will employees. The
+33 number of such staff shall largely be dictated by the number of courses under
+34 development, the number of courses offered, and the number of students par-
+35 ticipating in academy programs.
+36 (6) Obtain housing where actual operations of the academy are conducted
+37 by academy staff.
+38 (7) Contract with a service provider for delivery of academy courses
+39 online which shall be accessible twenty-four (24) hours a day, seven (7) days
+40 a week.
+41 (8) Ensure that the academy is accredited as established by rule of the
+42 state board of education.
+43 (9) Develop policy for earning credit in courses based on mastery of
+44 the subject, demonstrated competency, and meeting the standards set for each
+45 course.
+46 (10) Provide for articulating the content of certain high school
+47 courses with college and university courses in order to award both high
+48 school and undergraduate college credit.
+
+4
+1 (11) Develop policies and practices which that provide strict applica-
+2 tion of time limits for completion of courses.
+3 (12) Develop policies and practices on accountability, both by the
+4 student and the teacher, and in accordance with the provisions of section
+5 33-5507, Idaho Code.
+6 (13) Manage the moneys disbursed to the academy board from the superin-
+7 tendent received by the academy.
+8 (14) Set Subject to approval by the state board of education, set fees
+9 charged to school districts for student participation; fees charged for sum-
+10 mer school; and fees charged to students and adults for professional devel-
+11 opment offerings any user of academy courses, including but not limited to
+12 public school districts, public charter schools, private schools, individ-
+13 ual students, and other public or private entities and set fees charged for
+14 summer school.
+15 (15) Contract with a certified public accounting firm to conduct an an-
+16 nual audit of the Idaho digital learning academy and contract with the leg-
+17 islative services office to conduct a financial audit of the Idaho digital
+18 learning academy every three (3) years.
+19 SECTION 5. That Section 33-5504B, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 33-5504B. EXPENDITURES -- BUDGET. (1) There is hereby created in the
+22 state treasury the Idaho digital learning academy fund. The fund shall
+23 consist of appropriations, fees, grants, gifts, or moneys from any other
+24 source. The state treasurer shall invest all idle moneys in the fund and
+25 interest earned on such investments shall be retained by the fund.
+26 (2) On or before the first Monday in July, there will be held at the
+27 time and place determined by the Idaho digital learning academy board, a bud-
+28 get meeting and public hearing upon the proposed budget of the Idaho digi-
+29 tal learning academy. Notice of the budget meeting and public hearing shall
+30 be posted at least ten (10) full days prior to the date of the meeting in at
+31 least one (1) conspicuous place to be determined by the Idaho digital learn-
+32 ing academy board of directors. The place, hour, and day of the hearing shall
+33 be specified in the notice, as well as the place where such budget may be ex-
+34 amined prior to the hearing. On or before the first Monday in July a budget
+35 for the Idaho digital learning academy shall be agreed upon and approved by
+36 the majority of the Idaho digital learning academy board of directors.
+37 SECTION 6. That Chapter 55, Title 33, Idaho Code, be, and the same is
+38 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+39 ignated as Section 33-5504C, Idaho Code, and to read as follows:
+40 33-5504C. FUNDING -- DISTANCE STUDENTS. (1) An amount of four hun-
+41 dred dollars ($400) shall be distributed on a per-student basis to eligible
+42 schools that enroll distance students pursuant to the provisions of this
+43 section.
+44 (2)(a) For purposes of this section, "distance student" means a student
+45 in grades 9 through 12 who is:
+46 (i) Enrolled in a separate secondary school, as defined in sec-
+47 tion 33-1001, Idaho Code;
+
+5
+1 (ii) Participating in the Idaho youth challenge program provided
+2 in section 46-805, Idaho Code; or
+3 (iii) Enrolled in a school located in an Idaho city with a pop-
+4 ulation less than ten thousand (10,000) or enrolled in a school
+5 located fifteen (15) miles or more by an all-weather road from
+6 the center of a city with a population greater than ten thousand
+7 (10,000). In determining population to calculate each distribu-
+8 tion, the state department of education shall use the most recent
+9 population count available for each city as determined by the most
+10 recent official federal census or by the Idaho department of labor
+11 statistics.
+12 (b) "Distance student" does not include students enrolled in virtual
+13 education programs pursuant to section 33-1619, Idaho Code, virtual
+14 charter schools pursuant to section 33-5202A, Idaho Code, or private
+15 schools.
+16 (3) By no later than November 15 of each year, the funds shall be dis-
+17 tributed directly to all eligible schools pursuant to this section based on
+18 the previous year's enrollment counts. Such funds shall be used at the dis-
+19 cretion of the school and may include expenses for teachers, remote courses,
+20 or other similar expenses.
+21 (4) Distributions provided pursuant to this section shall not supplant
+22 any other distributions to eligible schools and shall instead supplement
+23 such distributions.
+24 (5) Beginning September 1, 2027, and each year thereafter, eligible
+25 schools receiving funds pursuant to this section shall report to the state
+26 department of education on how such funds were expended.
+27 (6) By December 31 of each year, the state department of education shall
+28 report to the legislature:
+29 (a) The total amount of funds distributed per school;
+30 (b) The total amount of distance students enrolled per school; and
+31 (c) Information on how the funds were expended by each school from the
+32 most recent school year available.
+33 SECTION 7. That Section 33-5505, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 33-5505. DEFINITIONS. As used in this chapter:
+36 (1) "Academy board," also referred to in this chapter as "the board"
+37 means the board of directors of the Idaho digital learning academy as such
+38 board is created in section 33-5503, Idaho Code.
+39 (2) "Host district" means an Idaho school district where the fiscal op-
+40 erations of the Idaho digital learning academy are housed until January 1,
+41 2009.
+42 (3) (2) "Idaho digital learning academy" means an online educational
+43 program organized as a fully accredited school with statewide capabilities
+44 for the exclusive purpose of delivering accredited courses to Idaho resident
+45 students at no cost to the student unless the student enrolls in additional
+46 courses beyond full-time enrollment. Participation in the academy by pub-
+47 lic school students shall be in compliance with academy and local school dis-
+48 trict policies. Adult learners and out-of-state students shall pay tuition
+49 commensurate with rates established by the state board with the advice of the
+
+6
+1 superintendent, and such funds shall be included in the budget and audit of
+2 the academy's fiscal records. in grades 6 through 12.
+3 (4) (3) "State board" means the Idaho state board of education. The
+4 board is authorized and directed, with the advice and recommendation of the
+5 academy board of directors, to promulgate rules to implement the provisions
+6 of this chapter.
+7 (5) (4) "Superintendent" means the Idaho state superintendent of pub-
+8 lic instruction.
+9 (5) "User" means any public school district, public charter school,
+10 private school, individual student, and other public or private entity that
+11 uses any academy courses provided for in this chapter.
+12 SECTION 8. That Section 33-5508, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 33-5508. FUNDING. (1) Funding for the infrastructure of the program
+15 shall be provided pursuant to section 33-1020, Idaho Code. The superinten-
+16 dent shall disburse the funds to the Idaho digital learning academy board
+17 of directors who shall use the moneys to develop courses and maintain oper-
+18 ations of the academy.
+19 (2) Additional funding for course offerings through the Idaho digital
+20 learning academy shall be added to the Idaho digital learning academy budget
+21 by charging fees to the school districts for student participation. These
+22 fees shall be established annually by the Idaho digital learning academy
+23 board of directors and shall reflect the various types of course offerings
+24 available. The infrastructure of the program shall be funded by charging
+25 fees to the users of the academy courses. The fees shall be used to develop
+26 courses and maintain the operations of the academy. The fees shall be estab-
+27 lished annually by the Idaho digital learning academy board of directors,
+28 subject to approval by the state board of education. Fees for summer school
+29 and professional development offerings to students and adults shall also be
+30 established by the Idaho digital learning academy board of directors.
+31 SECTION 9. That Section 33-1020, Idaho Code, be, and the same is hereby
+32 repealed.
+33 SECTION 10. That Section 33-1002, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 33-1002. EDUCATIONAL SUPPORT PROGRAM. The educational support pro-
+36 gram is calculated as follows:
+37 (1) State Educational Support Funds. Add the state appropriation, in-
+38 cluding the moneys available in the public school income fund, together with
+39 all miscellaneous revenues to determine the total state funds.
+40 (2) From the total state funds subtract the following amounts needed
+41 for state support of special programs provided by a school district:
+42 (a) Pupil tuition-equivalency allowances as provided in section
+43 33-1002B, Idaho Code;
+44 (b) Transportation support program as provided in section 33-1006,
+45 Idaho Code;
+
+7
+1 (c) Feasibility studies allowance as provided in section 33-1007A,
+2 Idaho Code;
+3 (d) The approved costs for border district allowance, provided in sec-
+4 tion 33-1403, Idaho Code, as determined by the state superintendent of
+5 public instruction;
+6 (e) The approved costs for exceptional child approved contract al-
+7 lowance, provided in subsection 2. of section 33-2004, Idaho Code, as
+8 determined by the state superintendent of public instruction;
+9 (f) Salary-based apportionment calculated as provided in sections
+10 33-1004 through 33-1004F, Idaho Code;
+11 (g) Unemployment insurance benefit payments according to the provi-
+12 sions of section 72-1349A, Idaho Code;
+13 (h) For expenditure as provided by the public school technology pro-
+14 gram;
+15 (i) For employee severance payments as provided in section 33-521,
+16 Idaho Code;
+17 (j) For distributions to the Idaho digital learning academy as provided
+18 in section 33-1020, Idaho Code;
+19 (k) (j) For charter school facilities funds and reimbursements paid
+20 pursuant to section 33-5207, Idaho Code;
+21 (l) (k) For an online course portal as provided for in section 33-1024,
+22 Idaho Code;
+23 (m) (l) For advanced opportunities as provided for in chapter 46, title
+24 33, Idaho Code;
+25 (n) (m) For additional math and science courses for high school stu-
+26 dents as provided in section 33-1021, Idaho Code;
+27 (o) (n) For master teacher premiums as provided in section 33-1004I,
+28 Idaho Code;
+29 (p) (o) For the support of provisions that provide a safe environment
+30 conducive to student learning and maintain classroom discipline, an al-
+31 location of three hundred dollars ($300) per support unit;
+32 (q) (p) An amount specified in the appropriation bill for the public
+33 schools educational support program for counseling support as provided
+34 for in section 33-1212A, Idaho Code, shall be distributed for grades 8
+35 through 12 as follows:
+36 (i) For school districts and public charter schools with one hun-
+37 dred (100) or more students enrolled in grades 8 through 12, a pro
+38 rata distribution based on students enrolled in grades 8 through
+39 12 or eighteen thousand dollars ($18,000), whichever is greater;
+40 (ii) For school districts and public charter schools with fewer
+41 than one hundred (100) students enrolled in grades 8 through 12,
+42 one hundred eighty dollars ($180) per student enrolled in grades
+43 8 through 12 or nine thousand dollars ($9,000), whichever is
+44 greater;
+45 (r) (q) An amount specified in the public schools educational support
+46 program appropriation bill for literacy intervention. The disburse-
+47 ments made to the school districts and public charter schools shall be
+48 calculated as follows:
+
+8
+1 (i) Fifty percent (50%) based on average full-time equivalent
+2 enrollment of students in kindergarten through grade 3 as of the
+3 first Friday in November;
+4 (ii) Fifty percent (50%) based on the number of kindergarten
+5 through grade 3 students who move a full level or who are profi-
+6 cient from the spring-to-spring administration of the statewide
+7 reading assessment in the prior fiscal year or, if there is not a
+8 prior spring assessment for the student, from fall to spring; and
+9 (iii) Funds will be distributed to the school district or pub-
+10 lic charter school where the student is enrolled and takes the
+11 statewide reading assessment. Any school district or public char-
+12 ter school that has greater than one (1) but fewer than five (5)
+13 students in kindergarten through grade 3 will receive a minimum of
+14 two thousand dollars ($2,000). Economically disadvantaged stu-
+15 dents shall count as one and three quarters (1.75) students for the
+16 purpose of calculating the distribution of the funds in subpara-
+17 graph (ii) of this paragraph.
+18 (s) (r) For mastery-based education as provided for in section 33-1632,
+19 Idaho Code;
+20 (t) (s) For pay for success contracting as provided in section 33-125B,
+21 Idaho Code; and
+22 (u) (t) Any additional amounts as required by statute to effect admin-
+23 istrative adjustments or as specifically required by the provisions of
+24 any bill of appropriation;
+25 to secure the total educational support distribution funds.
+26 (3) Average Daily Attendance. The total state average daily attendance
+27 shall be the sum of the average daily attendance of all of the school dis-
+28 tricts of the state. The state board of education shall establish rules set-
+29 ting forth the procedure to determine average daily attendance and the time
+30 for, and method of, submission of such report. Average daily attendance cal-
+31 culation shall be carried out to the nearest hundredth. Computation of av-
+32 erage daily attendance shall also be governed by the provisions of section
+33 33-1003A, Idaho Code.
+34 (4) Support Units. The total state support units shall be determined
+35 by using the tables set out hereafter called computation of kindergarten
+36 support units, computation of elementary support units, computation of sec-
+37 ondary support units, computation of exceptional education support units,
+38 and computation of alternative school support units. The sum of all of the
+39 total support units of all school districts of the state shall be the total
+40 state support units.
+41 COMPUTATION OF KINDERGARTEN SUPPORT UNITS
+42 Average Daily
+43 Attendance Attendance Divisor Units Allowed
+44 41 or more.... 40...................... 1 or more as computed
+45 31 - 40.99 ADA.... -....................... 1
+46 26 - 30.99 ADA.... -....................... .85
+47 21 - 25.99 ADA.... -....................... .75
+
+9
+1 16 - 20.99 ADA.... -....................... .6
+2 8 - 15.99 ADA.... -....................... .5
+3 1 - 7.99 ADA.... -....................... count as elementary
+4 COMPUTATION OF ELEMENTARY SUPPORT UNITS
+5 Average Daily Minimum Units
+6 Attendance Attendance Divisor Allowed
+7 300 or more ADA....... ............................... .. 15
+8 ..23...grades 4,5 & 6....
+9 ..22...grades 1,2 & 3....1994-95
+10 ..21...grades 1,2 & 3....1995-96
+11 ..20...grades 1,2 & 3....1996-97
+12 and each year thereafter.
+13 160 to 299.99 ADA... 20................................ 8.4
+14 110 to 159.99 ADA... 19................................ 6.8
+15 71.1 to 109.99 ADA... 16................................ 4.7
+16 51.7 to 71.0 ADA... 15................................ 4.0
+17 33.6 to 51.6 ADA... 13................................ 2.8
+18 16.6 to 33.5 ADA... 12................................ 1.4
+19 1.0 to 16.5 ADA... n/a............................... 1.0
+20 COMPUTATION OF SECONDARY SUPPORT UNITS
+21 Average Daily Minimum Units
+22 Attendance Attendance Divisor Allowed
+23 750 or more.... 18.5..............................47
+24 400 - 749.99 ADA.... 16................................28
+25 300 - 399.99 ADA.... 14.5..............................22
+26 200 - 299.99 ADA.... 13.5..............................17
+27 100 - 199.99 ADA.... 12................................9
+28 99.99 or fewer Units allowed as follows:
+29 Grades 7 - 12 ..................................8
+30 Grades 9 - 12 ..................................6
+31 Grades 7 - 9 ..................................1 per 14 ADA
+32 Grades 7 - 8 ..................................1 per 16 ADA
+33 COMPUTATION OF EXCEPTIONAL EDUCATION SUPPORT UNITS
+34 Average Daily Minimum Units
+35 Attendance Attendance Divisor Allowed
+36 14 or more.... 14.5..............................1 or more as
+37 computed
+
+10
+1 12 - 13.99.... -.................................1
+2 8 - 11.99.... -..................................75
+3 4 - 7.99.... -..................................5
+4 1 - 3.99.... -..................................25
+5 COMPUTATION OF ALTERNATIVE SCHOOL SUPPORT UNITS
+6 (Computation of alternative school support units shall include
+7 grades 6 through 12)
+8 Pupils in Attendance Attendance Divisor Minimum Units
+9 Allowed
+10 12 or more.......... 12................................ 1 or more as
+11 computed
+12 In applying these tables to any given separate attendance unit, no
+13 school district shall receive less total money than it would receive if it
+14 had a lesser average daily attendance in such separate attendance unit. In
+15 applying the kindergarten table to a kindergarten program of fewer days
+16 than a full school year, the support unit allowance shall be in ratio to the
+17 number of days of a full school year. The attendance of students attending
+18 an alternative school in a school district reporting fewer than one hundred
+19 (100) secondary students in average daily attendance shall not be assigned
+20 to the alternative table if the student is from a school district reporting
+21 fewer than one hundred (100) secondary students in average daily attendance,
+22 but shall instead be assigned to the secondary table of the school district
+23 in which they are attending the alternative school, unless the alternative
+24 school in question serves students from multiple districts reporting fewer
+25 than one hundred (100) secondary students in average daily attendance. The
+26 tables for exceptional education and alternative school support units shall
+27 be applicable only for programs approved by the state department of educa-
+28 tion following rules established by the state board of education. Moneys
+29 generated from computation of support units for alternative schools shall be
+30 utilized for alternative school programs. School district administrative
+31 and facility costs may be included as part of the alternative school expen-
+32 ditures.
+33 (5) State Distribution Factor per Support Unit. Divide educational
+34 support program distribution funds, after subtracting the amounts necessary
+35 to pay the obligations specified in subsection (2) of this section, by the
+36 total state support units to secure the state distribution factor per sup-
+37 port unit.
+38 (6) District Support Units. The number of support units for each school
+39 district in the state shall be determined as follows:
+40 (a)(i) Divide the actual average daily attendance, excluding stu-
+41 dents approved for inclusion in the exceptional child educational
+42 program for the administrative schools and each of the separate
+43 schools and attendance units, by the appropriate divisor from the
+44 tables of support units in this section, then add the quotients
+45 to obtain the district's support units allowance for regular stu-
+46 dents, kindergarten through grade 12 including alternative school
+
+11
+1 students. Calculations in application of this subsection shall be
+2 carried out to the nearest hundredth.
+3 (ii) Divide the combined totals of the average daily attendance
+4 of all preschool, kindergarten, elementary, secondary, juvenile
+5 detention center students and students with disabilities approved
+6 for inclusion in the exceptional child program of the district by
+7 the appropriate divisor from the table for computation of excep-
+8 tional education support units to obtain the number of support
+9 units allowed for the district's approved exceptional child pro-
+10 gram. Calculations for this subsection shall be carried out to the
+11 nearest hundredth when more than one (1) unit is allowed.
+12 (iii) The total number of support units of the district shall be
+13 the sum of the total support units for regular students, subpara-
+14 graph (i) of this paragraph, and the support units allowance for
+15 the approved exceptional child program, subparagraph (ii) of this
+16 paragraph.
+17 (b) Total District Allowance Educational Program. Multiply the dis-
+18 trict's total number of support units, carried out to the nearest hun-
+19 dredth, by the state distribution factor per support unit and to this
+20 product add the approved amount of programs of the district provided in
+21 subsection (2) of this section to secure the district's total allowance
+22 for the educational support program.
+23 (c) District Share. The district's share of state apportionment is the
+24 amount of the total district allowance, paragraph (b) of this subsec-
+25 tion.
+26 (d) Adjustment of District Share. The contract salary of every noncer-
+27 tificated teacher shall be subtracted from the district's share as cal-
+28 culated from the provisions of paragraph (c) of this subsection.
+29 (7) Property Tax Computation Ratio. In order to receive state funds
+30 pursuant to this section, a charter district shall utilize a school mainte-
+31 nance and operation property tax computation ratio for the purpose of calcu-
+32 lating its maintenance and operation levy that is no greater than that which
+33 it utilized in tax year 1994, less four-tenths of one percent (.4%). As used
+34 herein, the term "property tax computation ratio" shall mean a ratio deter-
+35 mined by dividing the district's certified property tax maintenance and op-
+36 eration budget by the actual or adjusted market value for assessment pur-
+37 poses as such values existed on December 31, 1993. Such maintenance and op-
+38 eration levy shall be based on the property tax computation ratio multiplied
+39 by the actual or adjusted market value for assessment purposes as such values
+40 existed on December 31 of the prior calendar year.
+41 SECTION 11. That Section 33-1614, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 33-1614. CAREER EXPLORATION. (1) Starting in fiscal year 2024, every
+44 student in grade 7 or grade 8 enrolled in an Idaho public school district,
+45 a specially chartered district, or a public charter school shall complete
+46 one (1) or more career exploration courses. A student may opt out by sub-
+47 mitting a form to the school showing the student's parent or legal guardian
+48 has consented to the student not participating in the career exploration
+49 courses pursuant to this section. Such courses should align to the "first
+
+12
+1 step" standards set by the state board of education for career technical edu-
+2 cation. Such courses may be offered face-to-face, through virtual education
+3 programs, as online courses, or as hybrid courses consisting of a combina-
+4 tion of online and in-person instruction.
+5 (2) All staff teaching a career exploration course must have partici-
+6 pated in a career exploration professional development course approved by
+7 the state board of education.
+8 (3) The state board of education will maintain resources that can be
+9 utilized or modified for the implementation of this section.
+10 (4) A career pathway plan shall be developed by students with the ap-
+11 proval of parents or guardians, with advice and recommendation from school
+12 personnel, which shall include career exploration courses or workforce dis-
+13 covery activities. The purpose of a parent-approved student career pathway
+14 plan is to outline a course of study and learning activities to help students
+15 become successful in life. Every student's career pathway plan shall be re-
+16 viewed annually and can be revised at any time. The student's school shall
+17 provide a personalized career pathway plan progress report to the student's
+18 parent or guardian. The progress report may be sent via electronic communi-
+19 cation.
+20 (5) Funding provided in section 33-1002(2)(r) (q), Idaho Code, in ac-
+21 cordance with section 33-1212A, Idaho Code, may be used to support career ex-
+22 ploration courses.
+23 (6) Professional development funding provided pursuant to section
+24 33-1002, Idaho Code, may be used to provide professional development to ca-
+25 reer exploration course instructors.
+26 SECTION 12. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1320
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE STATE CONTROLLER; PROVIDING LEGISLATIVE INTENT; REPEALING
+3 SECTION 67-1021C, IDAHO CODE, RELATING TO THE BUSINESS INFORMATION IN-
+4 FRASTRUCTURE FUND; AMENDING SECTION 67-1021A, IDAHO CODE, TO REMOVE OB-
+5 SOLETE PROVISIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+6 TIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+9 of the Legislature to ensure that the state laws provided in Idaho Code are
+10 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+11 serving the public health, safety, and welfare. In accordance with the Idaho
+12 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+13 tified the provisions of this act as obsolete, outdated, or unnecessary.
+14 SECTION 2. That Section 67-1021C, Idaho Code, be, and the same is hereby
+15 repealed.
+16 SECTION 3. That Section 67-1021A, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 67-1021A. BUSINESS INFORMATION INFRASTRUCTURE PROJECT. (1) Notwith-
+19 standing any laws to the contrary, the state controller shall engage in a
+20 project to modernize and replace the state's aging business information in-
+21 frastructure, including its financial, payroll, human capital management,
+22 budget and procurement systems. The purpose of the project shall be to mod-
+23 ernize the state's business information infrastructure and to consolidate
+24 duplicative business systems into a centralized enterprise resource plan-
+25 ning system in order to achieve standardized business practices and greater
+26 transparency in the state's data.
+27 (2) The cost of modernizing the state's business information infra-
+28 structure shall be equitably distributed among and between all state and
+29 public entities that use the services and functions outlined in subsection
+30 (1) of this section. On or before June 30 of each year from the effective
+31 date of this act until and including June 30, 2023, all moneys deposited to
+32 the indirect cost recovery fund resulting from the assessment of the amounts
+33 allocated in the annual statewide indirect cost allocation plan pursuant
+34 to section 67-3531, Idaho Code, shall be transferred to the business infor-
+35 mation infrastructure fund established in section 67-1021C, Idaho Code.
+36 Transfers under this section shall occur as requested by the state con-
+37 troller and no later than June 30 of each year.
+38 SECTION 4. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2026.

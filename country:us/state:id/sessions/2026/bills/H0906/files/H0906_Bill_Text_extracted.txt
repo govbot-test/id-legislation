@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 906
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE STATE BOARD OF EDUCATION FOR COMMUNITY
+3 COLLEGES; APPROPRIATING ADDITIONAL MONEYS TO THE STATE BOARD OF EDUCA-
+4 TION FOR COMMUNITY COLLEGES FOR FISCAL YEAR 2027; REDUCING THE APPRO-
+5 PRIATION TO THE STATE BOARD OF EDUCATION FOR COMMUNITY COLLEGES FOR FIS-
+6 CAL YEAR 2027; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+7 DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. In addition to any other appropriation provided by law,
+10 there is hereby appropriated to the State Board of Education for Community
+11 Colleges the following amounts to be expended according to the designated
+12 programs and expense classes from the General Fund for the period July 1,
+13 2026, through June 30, 2027:
+14 FOR FOR
+15 PERSONNEL OPERATING
+16 COSTS EXPENDITURES TOTAL
+17 College of Eastern Idaho $167,400 $167,400
+18 College of Southern Idaho 104,200 $319,600 423,800
+19 College of Western Idaho 453,800 453,800
+20 North Idaho College 233,700 90,000 323,700
+21 TOTAL $959,100 $409,600 $1,368,700
+22 SECTION 2. Notwithstanding any provision of law to the contrary, the
+23 appropriation to the State Board of Education for Community Colleges is
+24 hereby reduced by the following amounts from the General Fund from operating
+25 expenditures for the period July 1, 2026, through June 30, 2027:
+26 FROM:
+27 College of Eastern Idaho $26,700
+28 College of Southern Idaho 101,600
+29 College of Western Idaho 71,000
+30 North Idaho College 46,200
+31 TOTAL $245,500
+32 SECTION 3. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after
+34 July 1, 2026.

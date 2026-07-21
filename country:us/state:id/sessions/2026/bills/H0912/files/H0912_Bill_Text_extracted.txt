@@ -1,0 +1,313 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 912
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAID; AMENDING CHAPTER 2, TITLE 56, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 56-276, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING MEDICAID WORK REQUIREMENTS; AMENDING CHAPTER 2, TITLE 56,
+5 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 56-277, IDAHO CODE, TO
+6 ESTABLISH PROVISIONS REGARDING MEDICAID ELIGIBILITY VERIFICATION;
+7 AMENDING CHAPTER 2, TITLE 56, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+8 TION 56-278, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING INELIGIBLE
+9 ALIENS; AMENDING CHAPTER 2, TITLE 56, IDAHO CODE, BY THE ADDITION OF
+10 A NEW SECTION 56-279, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+11 MULTISTATE ENROLLMENT; AMENDING CHAPTER 2, TITLE 56, IDAHO CODE, BY THE
+12 ADDITION OF A NEW SECTION 56-280, IDAHO CODE, TO ESTABLISH PROVISIONS
+13 REGARDING DECEASED ENROLLEES; AMENDING CHAPTER 2, TITLE 56, IDAHO CODE,
+14 BY THE ADDITION OF A NEW SECTION 56-281, IDAHO CODE, TO ESTABLISH PROVI-
+15 SIONS REGARDING RETROACTIVE ELIGIBILITY; AND DECLARING AN EMERGENCY.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. That Chapter 2, Title 56, Idaho Code, be, and the same is
+18 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+19 ignated as Section 56-276, Idaho Code, and to read as follows:
+20 56-276. MEDICAID WORK REQUIREMENTS. (1) As used in this section:
+21 (a) "Applicable individual" means an individual who is eligible
+22 to enroll under the state medicaid program pursuant to 42 U.S.C.
+23 1396a(a)(10)(A)(i)(VIII) or who is otherwise eligible to enroll or
+24 is enrolled under a waiver of such plan that provides coverage that is
+25 equivalent to minimum essential coverage and has attained the age of
+26 nineteen (19) and is under sixty-five (65) years of age, is not preg-
+27 nant, is not entitled to or enrolled for benefits under part A of title
+28 XVIII of the social security act, or enrolled for benefits under part B
+29 of title XVIII of the social security act, and is not otherwise eligible
+30 to enroll under such plan, and is subject to work requirements.
+31 (b) "Department" means the Idaho department of health and welfare.
+32 (c) "Work requirements" means the requirements established by 42
+33 U.S.C. 1396a(xx).
+34 (2) No later than December 31, 2026, the department shall implement
+35 work requirements for applicable individuals.
+36 (a) No applicable individual shall be enrolled in medicaid unless, at
+37 the time of application, the individual demonstrates compliance with
+38 the work requirements for the three (3) consecutive months immediately
+39 preceding the month during which the individual applies. The depart-
+40 ment shall require documentary evidence and shall not accept self-at-
+41 testation at the time of application.
+
+2
+1 (b) The department shall verify an applicable individual's compliance
+2 with work requirements through state wage data, education or training
+3 program enrollment, or verified volunteer service documentation. The
+4 department shall verify an applicable individual's compliance with
+5 work requirements on an ongoing basis, at least quarterly between re-
+6 determination periods, and shall not accept self-attestation. Such
+7 verification shall occur between periods of formal redetermination for
+8 individuals.
+9 (c) No applicable individual shall remain enrolled in medicaid in any
+10 month unless the individual has demonstrated compliance with the work
+11 requirements.
+12 (3) An applicable individual seeking an exemption from work require-
+13 ments shall provide documentation for the exemption sought. The department
+14 shall verify all exemptions and shall not accept self-attestation from indi-
+15 viduals seeking exemptions.
+16 (a) The department shall not seek or implement any additional optional
+17 exemptions under 42 U.S.C. 1396a(xx)(3)(B) or any other optional exemp-
+18 tion without obtaining approval from the legislature. Such approval
+19 shall be provided in statute.
+20 (b) The department shall not accept exemption designations, approvals,
+21 or determinations by a managed care organization.
+22 (c) The department shall only approve an exemption for an individual
+23 who is medically frail or otherwise an individual with special needs
+24 if the individual has been medically certified by a statement from a
+25 physician, physician's assistant, nurse, nurse practitioner, desig-
+26 nated representative of a physician's office, a licensed or certified
+27 psychologist, or a social worker as having a disabling mental disorder,
+28 having a physical, intellectual, or mental disability that signif-
+29 icantly impairs the ability to perform activities of daily living,
+30 including eating, dressing, bathing, grooming, getting in and out of
+31 beds and chairs, walking, going outdoors, or using the toilet, or is
+32 in treatment for chronic substance use disorder. In no case may the
+33 department expand the definition of "medically frail or otherwise an
+34 individual with special needs" beyond the scope of the definition es-
+35 tablished under 42 CFR 440.315(f).
+36 (4) The department shall disenroll any applicable individual who fails
+37 to comply with the work requirements.
+38 (5) The department shall submit quarterly reports to the legislature
+39 and the governor on compliance rates, the number and type of exemptions
+40 granted, and the impact on medicaid enrollment, consistent with the report-
+41 ing requirements of section 71119, P.L. 119-21.
+42 (6) The requirements of this section shall be implemented no later than
+43 December 31, 2026, or such earlier date as permitted by federal law and ap-
+44 proved by the centers for medicare and medicaid services.
+45 SECTION 2. That Chapter 2, Title 56, Idaho Code, be, and the same is
+46 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+47 ignated as Section 56-277, Idaho Code, and to read as follows:
+48 56-277. MEDICAID ELIGIBILITY VERIFICATION. (1) Except as required un-
+49 der federal law, the department of health and welfare shall not accept self-
+
+3
+1 attestation of any of the following in the administration of the medicaid
+2 program without verification before enrollment:
+3 (a) Income;
+4 (b) Residency;
+5 (c) Identity;
+6 (d) Household composition; or
+7 (e) Citizenship or immigration status.
+8 (2) On at least a monthly basis, the department of health and welfare
+9 shall receive and review information concerning medicaid recipients that
+10 indicates a change in circumstances that may affect medicaid eligibility
+11 from:
+12 (a) The state tax commission;
+13 (b) The United States social security administration, including
+14 earned income information, death register information, incarcera-
+15 tion records, supplemental security income information, beneficiary
+16 records, earnings information, and pension information;
+17 (c) The United States department of health and human services, includ-
+18 ing income and employment information maintained in the national direc-
+19 tory of new hires database and child support enforcement data;
+20 (d) The United States department of housing and urban development, in-
+21 cluding payment and earnings information; and
+22 (e) The federal bureau of investigation, including national fleeing
+23 felon information.
+24 (3) On at least a quarterly basis, the department of health and welfare
+25 shall receive and review information from the department of labor concerning
+26 medicaid recipients that indicates a change in circumstances that may affect
+27 medicaid eligibility, including changes to employment or wages.
+28 (4) On at least an annual basis, the department of health and welfare
+29 shall receive and review information concerning medicaid recipients that
+30 indicates a change in circumstances that may affect medicaid eligibility
+31 from:
+32 (a) The state tax commission, including adjusted gross income and fam-
+33 ily composition; and
+34 (b) The internal revenue service, including tax filing data, adjusted
+35 gross income, and family composition.
+36 (5) The department of health and welfare shall enter into any
+37 data-sharing agreements with the agencies, departments, and bureaus de-
+38 scribed in this section as necessary to effectuate the requirements of this
+39 section.
+40 (6) The department of health and welfare may contract with an indepen-
+41 dent third party for database searches that may contain information that in-
+42 dicates a change in circumstances that may affect medicaid applicant or re-
+43 cipient eligibility.
+44 (7) Upon receiving information concerning a medicaid recipient that
+45 indicates a change in circumstances that may affect medicaid eligibility,
+46 the department of health and welfare shall promptly conduct an eligibility
+47 redetermination for the recipient.
+48 (8) Unless prohibited under federal law, the department of health and
+49 welfare shall conduct eligibility redeterminations for all nonelderly adult
+50 medicaid recipients whose eligibility is determined based on the appli-
+
+4
+1 cation of modified adjusted gross income standards under 42 CFR 435.603,
+2 including adults eligible under 42 U.S.C. 1396a(a)(10)(A)(i)(VIII) and 42
+3 U.S.C. 1396u-1 at least once every six (6) months.
+4 (9) The department of health and welfare shall conduct eligibility re-
+5 determinations for all medicaid recipients not described in subsection (8)
+6 of this section at least once every twelve (12) months.
+7 SECTION 3. That Chapter 2, Title 56, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 56-278, Idaho Code, and to read as follows:
+10 56-278. INELIGIBLE ALIENS. (1) The department of health and welfare
+11 shall not provide medical assistance to an individual in Idaho unless the in-
+12 dividual is:
+13 (a) A resident of the United States; and
+14 (b) At least one (1) of the following:
+15 (i) A citizen or national of the United States;
+16 (ii) An alien lawfully admitted for permanent residence as an im-
+17 migrant, as defined in 8 U.S.C. 1101(a)(15) and (20), excluding
+18 alien visitors, tourists, diplomats, students, or other individ-
+19 uals admitted temporarily without intent to abandon their resi-
+20 dence in a foreign country;
+21 (iii) An alien who has been granted the status of Cuban or Haitian
+22 entrant, as defined in section 501(e), P.L. 96-422; or
+23 (iv) An individual lawfully residing in the United States in ac-
+24 cordance with a compact of free association pursuant to 8 U.S.C.
+25 1612(b)(2)(G).
+26 (2) The department of health and welfare shall require that all income
+27 of ineligible household members be included when calculating financial eli-
+28 gibility for medicaid.
+29 (3) The department of health and welfare shall include an immigration
+30 status on all presumptive eligibility applications submitted to the depart-
+31 ment. The department shall require hospitals, clinics, and other qualified
+32 entities conducting presumptive eligibility determinations to collect and
+33 transmit such attestations to the department. No presumptive eligibility
+34 application shall be approved unless the applicant certifies that the appli-
+35 cant is a qualified citizen.
+36 (4) The department of health and welfare shall verify citizen-
+37 ship or immigration status prior to enrollment and shall conduct regular
+38 cross-checks of applicant and recipient information against federal
+39 databases, including the systematic alien verification for entitlements
+40 program. A match through any electronic or data verification system shall
+41 not, by itself, be accepted as proof of identity. Each applicant shall be
+42 required to provide documentary proof of United States citizenship, United
+43 States national status, or alien status eligible for medical assistance.
+44 The department shall promptly refer any applicant identified as an individ-
+45 ual who is not a citizen or national of the United States and does not have
+46 lawful immigration status as defined under federal law to the United States
+47 immigration and customs enforcement or other appropriate federal authori-
+48 ties for further investigation and enforcement.
+
+5
+1 (5) This section shall not affect coverage for emergency medical
+2 services provided to all individuals as required pursuant to 42 U.S.C.
+3 1396b(v).
+4 (6) The requirements set forth in this section shall be implemented no
+5 later than October 1, 2026.
+6 SECTION 4. That Chapter 2, Title 56, Idaho Code, be, and the same is
+7 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+8 ignated as Section 56-279, Idaho Code, and to read as follows:
+9 56-279. MULTISTATE ENROLLMENT. (1) The department of health and wel-
+10 fare shall receive and review address change information from returned mail
+11 by the United States postal service, the national change of address data-
+12 base, and medicaid managed care companies operating in Utah. The department
+13 shall conduct cross-checks of such address change information against state
+14 medicaid enrollment at least monthly to identify enrollees who have moved
+15 out of state. The requirements of this subsection shall be implemented no
+16 later than January 1, 2027.
+17 (2) The department of health and welfare shall receive and review in-
+18 formation regarding out-of-state electronic benefit transactions and con-
+19 duct cross-checks of such information against state medicaid enrollment at
+20 least monthly to identify enrollees who have moved out of state. The re-
+21 quirements of this subsection shall be implemented no later than January 1,
+22 2027.
+23 (3) Upon receiving information concerning a medicaid enrollee that in-
+24 dicates a change in circumstances that may affect medicaid eligibility, in-
+25 cluding a change in residency, the department of health and welfare shall
+26 promptly conduct an eligibility redetermination for the enrollee.
+27 (4) The department of health and welfare shall submit enrollment infor-
+28 mation to the centers for medicare and medicaid services national medicaid
+29 enrollment database every month to identify individuals enrolled in medic-
+30 aid in multiple states at the same time. The requirements of this subsection
+31 shall be implemented no later than October 1, 2029.
+32 (5) No later than August 31 of each year, the department of health and
+33 welfare shall submit an annual report to the legislature detailing the im-
+34 plementation of the requirements established in this section. The annual
+35 report shall be made publicly available on the department of health and wel-
+36 fare website and shall include:
+37 (a) The number of enrollees flagged through address change information
+38 and out-of-state electronic benefit transactions;
+39 (b) The number of enrollees removed from medicaid due to enrollment in
+40 multiple states; and
+41 (c) The estimated fiscal impact to the state due to implementing the re-
+42 quirements of this section.
+43 SECTION 5. That Chapter 2, Title 56, Idaho Code, be, and the same is
+44 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+45 ignated as Section 56-280, Idaho Code, and to read as follows:
+
+6
+1 56-280. DECEASED ENROLLEES. (1) As used in this section, "death master
+2 file" means the database maintained by the United States social security ad-
+3 ministration containing reported deaths.
+4 (2) The department of health and welfare shall receive and review in-
+5 formation from the death master file and shall conduct cross-checks of such
+6 information against state medicaid enrollment at least monthly to identify
+7 deceased medicaid enrollees.
+8 (3) The department of health and welfare shall receive and review data
+9 regarding birth and death records from the bureau of vital records and health
+10 statistics and shall conduct cross-checks of such data against state medic-
+11 aid enrollment at least monthly to identify deceased medicaid enrollees.
+12 (4) The department of health and welfare shall remove any deceased en-
+13 rollee from the medicaid program promptly upon confirmation of death.
+14 (5) The department of health and welfare shall ensure that no medicaid
+15 payments are made on behalf of a deceased enrollee for services rendered af-
+16 ter the date of death.
+17 (6) The department of health and welfare shall recoup any funds ex-
+18 pended on deceased enrollees for capitations or services occurring after the
+19 date of death.
+20 (7) The requirements of this section shall be implemented no later than
+21 January 1, 2027.
+22 SECTION 6. That Chapter 2, Title 56, Idaho Code, be, and the same is
+23 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+24 ignated as Section 56-281, Idaho Code, and to read as follows:
+25 56-281. RETROACTIVE ELIGIBILITY. (1) As used in this section:
+26 (a) "Expansion population" means individuals who are eligible for
+27 medical assistance under 42 U.S.C. 1396a(a)(10)(A)(i)(VIII), commonly
+28 known as the medicaid expansion population under the affordable care
+29 act.
+30 (b) "Medicaid" means the medical assistance program established under
+31 title XIX of the social security act and administered by the department
+32 of health and human services.
+33 (c) "Non-expansion population" means all individuals eligible for med-
+34 icaid who do not qualify under the expansion population definition, in-
+35 cluding but not limited to pregnant women, children, elderly individu-
+36 als, and persons with disabilities.
+37 (d) "Retroactive eligibility" means medicaid coverage for services
+38 provided prior to the month of application, as authorized by 42 U.S.C.
+39 1396a(a)(34).
+40 (2) The department of health and welfare shall limit retroactive eligi-
+41 bility for medicaid benefits as follows:
+42 (a) For individuals determined to be eligible as part of the expansion
+43 population, medicaid coverage may be made retroactive for no more than
+44 one (1) month prior to the month in which the individual submits a com-
+45 pleted medicaid application.
+46 (b) For individuals eligible as part of the non-expansion population,
+47 medicaid coverage may be made retroactive for no more than two (2)
+48 months prior to the month in which the individual submits a completed
+49 medicaid application.
+
+7
+1 (3) The limitations set forth in subsection (2) of this section apply
+2 only to initial applications for medicaid and do not affect eligibility for
+3 continuous or ongoing coverage.
+4 SECTION 7. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after its
+6 passage and approval.

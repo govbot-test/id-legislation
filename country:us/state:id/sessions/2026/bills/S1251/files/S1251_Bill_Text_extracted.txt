@@ -1,0 +1,136 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1251
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO THE ATTORNEY GENERAL; AMENDING SECTION 67-1401, IDAHO CODE, TO
+3 REVISE A PROVISION REGARDING A DUTY OF THE ATTORNEY GENERAL; AND DECLAR-
+4 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 67-1401, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 67-1401. DUTIES OF ATTORNEY GENERAL. Except as otherwise provided in
+9 this chapter, it is the duty of the attorney general:
+10 (1) To perform all legal services for the state and to represent the
+11 state and all departments, agencies, offices, officers, boards, commis-
+12 sions, institutions and other state entities in all courts and before all
+13 administrative tribunals or bodies of any nature. Representation shall be
+14 provided to those entities exempted pursuant to the provisions of section
+15 67-1406, Idaho Code. Whenever required to attend upon any court or adminis-
+16 trative tribunal, the attorney general shall be allowed necessary and actual
+17 expenses, all claims for which shall be audited by the state board of exam-
+18 iners.
+19 (2) To advise all departments, agencies, offices, officers, boards,
+20 commissions, institutions and other state entities in all matters involving
+21 questions of law.
+22 (3) After judgment in any of the causes referred to in this chapter, to
+23 direct the issuing of such process as may be necessary to carry the same into
+24 execution.
+25 (4) To account for and pay over to the proper officer all moneys re-
+26 ceived that belong to the state.
+27 (5) To enforce the Idaho charitable solicitation act, chapter 12, ti-
+28 tle 48, Idaho Code, and the Idaho nonprofit hospital sale or conversion act,
+29 chapter 15, title 48, Idaho Code; to supervise charitable organizations, as
+30 such term is defined in section 48-1903(4), Idaho Code; and to enforce when-
+31 ever necessary any noncompliance or departure from the charitable purpose of
+32 such charitable organizations as set forth and provided in chapter 19, title
+33 48, Idaho Code.
+34 (6) To give an opinion in writing, without fee, to the legislature or
+35 either house thereof or any senator or representative and to the governor,
+36 secretary of state, treasurer, state controller, and the superintendent of
+37 public instruction, when requested, on any question of law relating to their
+38 respective offices. The attorney general shall keep a record of all written
+39 opinions rendered by the office and such opinions shall be compiled annually
+40 and made available for public inspection. All costs incurred in the prepara-
+41 tion of said opinions shall be borne by the office of the attorney general. A
+
+2
+1 copy of the opinions shall be furnished to the supreme court and to the state
+2 librarian.
+3 (7) When required by the public service, to repair to any county in the
+4 state and assist the prosecuting attorney thereof in the discharge of du-
+5 ties.
+6 (8) To bid on and purchase, when necessary, in the name of the state and
+7 under the direction of the state controller, any property offered for sale
+8 under execution issued upon judgments in favor of or for the use of the state
+9 and to enter satisfaction in whole or in part of such judgments as the consid-
+10 eration for such purchases.
+11 (9) Whenever the property of a judgment debtor in any judgment men-
+12 tioned in subsection (8) of this section has been sold under a prior judg-
+13 ment, or is subject to any judgment, lien, or encumbrance, taking precedence
+14 of the judgment in favor of the state, under the direction of the state
+15 controller, to redeem such property from such prior judgment, lien, or en-
+16 cumbrance; and all sums of money necessary for such redemption must, upon the
+17 order of the board of examiners, be paid out of any money appropriated for
+18 such purposes.
+19 (10) When necessary for the collection or enforcement of any judgment
+20 hereinbefore mentioned, to institute and prosecute, on behalf of the state,
+21 such suits or other proceedings as may be necessary to set aside and annul all
+22 conveyances fraudulently made by such judgment debtors; the cost necessary
+23 to the prosecution must, when allowed by the board of examiners, be paid out
+24 of any appropriations for the prosecution of delinquents.
+25 (11) To exercise all the common law power and authority usually apper-
+26 taining to the office and to discharge the other duties prescribed by law.
+27 This duty shall be interpreted to include the power to seek declaratory and
+28 injunctive relief against any person, as defined in section 30-21-102, Idaho
+29 Code, who has violated or is violating an Idaho statute that creates a le-
+30 gal duty or prohibition but does not expressly create a civil cause of ac-
+31 tion through which the state or its officers may enforce the legal duty or
+32 prohibition. The attorney general shall have a cause of action to seek such
+33 declaratory and injunctive relief, and any injunction entered shall be suf-
+34 ficient to prevent further violations of the statute.
+35 (12) To report to the governor the condition of the affairs of the attor-
+36 ney general's office and of the reports received from prosecuting attorneys.
+37 (13) To appoint deputy attorneys general and special deputy attorneys
+38 general and other necessary staff to assist in the performance of the du-
+39 ties of the office. Such deputies and staff shall be nonclassified employees
+40 within the meaning of section 67-5302, Idaho Code.
+41 (14) To establish a medicaid fraud control unit pursuant to the provi-
+42 sions of section 56-226, Idaho Code, and to exercise concurrent investiga-
+43 tive and prosecutorial authority and responsibility with county prosecutors
+44 to prosecute persons for the violation of the criminal provisions of chap-
+45 ter 2, title 56, Idaho Code, and for criminal offenses that are not defined in
+46 chapter 2, title 56, Idaho Code, but that involve or are directly related to
+47 the use of medicaid program funds or services provided through the medicaid
+48 program.
+49 (15) To seek injunctive and any other appropriate relief as expedi-
+50 tiously as possible to preserve the rights and property of the residents
+
+3
+1 of the state of Idaho and to defend as necessary the state of Idaho, its
+2 officials, employees, and agents in the event that any law or regulation
+3 violating the public policy set forth in the Idaho health freedom act, chap-
+4 ter 90, title 39, Idaho Code, is enacted by any government, subdivision, or
+5 agency thereof.
+6 (16) To establish an internet crimes against children unit (ICAC) pur-
+7 suant to the provisions of section 67-1410, Idaho Code, and to exercise con-
+8 current investigative and prosecutorial authority and responsibility with
+9 county prosecutors to prosecute persons for the violation of the criminal
+10 provisions of sections 18-1507, 18-1507A, 18-1507C, 18-1509A, 18-1513 and
+11 18-1515, Idaho Code.
+12 (17) To respond to allegations of any violation of state criminal law by
+13 elected county or city officers acting in their official capacity, to inves-
+14 tigate such claims, to issue appropriate findings, and to retain such cases
+15 for further investigation and prosecution pursuant to sections 31-2002 and
+16 50-238, Idaho Code.
+17 (18) To establish a sobriety and drug monitoring program to reduce the
+18 number of people on Idaho's highways who drive under the influence of alco-
+19 hol or drugs, to reduce the number of repeat offenders for certain offenses
+20 in which the abuse of alcohol or drugs was a contributing factor, and to in-
+21 crease pretrial and posttrial options for prosecutors and judges in respond-
+22 ing to repeat DUI offenders and offenders for certain crimes in which the
+23 abuse of alcohol or drugs was a contributing factor in the commission of the
+24 crime; and to adopt such rules and establish such fees as are necessary for
+25 the operation of said program, as set forth by law.
+26 SECTION 2. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

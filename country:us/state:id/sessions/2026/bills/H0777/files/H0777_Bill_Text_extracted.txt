@@ -1,0 +1,1498 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 777
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO UNIFORM CONTROLLED SUBSTANCES; AMENDING SECTION 37-2705, IDAHO
+3 CODE, TO REVISE PROVISIONS REGARDING SCHEDULE I CONTROLLED SUBSTANCES
+4 AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 37-2707, IDAHO
+5 CODE, TO REVISE PROVISIONS REGARDING SCHEDULE II CONTROLLED SUBSTANCES
+6 AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 37-2709, IDAHO
+7 CODE, TO REVISE PROVISIONS REGARDING SCHEDULE III CONTROLLED SUB-
+8 STANCES AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 37-2711,
+9 IDAHO CODE, TO REVISE PROVISIONS REGARDING SCHEDULE IV CONTROLLED SUB-
+10 STANCES AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 37-2713,
+11 IDAHO CODE, TO REVISE PROVISIONS REGARDING SCHEDULE V CONTROLLED SUB-
+12 STANCES; AMENDING SECTION 37-2716, IDAHO CODE, TO REVISE PROVISIONS
+13 REGARDING REGISTRATION REQUIREMENTS; AMENDING SECTION 37-2717, IDAHO
+14 CODE, TO REVISE A PROVISION REGARDING REGISTRATION; AMENDING SEC-
+15 TION 37-2718, IDAHO CODE, TO REVISE PROVISIONS REGARDING DISCIPLINE;
+16 AMENDING SECTION 37-2719, IDAHO CODE, TO REVISE PROVISIONS REGARD-
+17 ING ORDERS TO SHOW CAUSE; AMENDING SECTION 37-2720, IDAHO CODE, TO
+18 REVISE A PROVISION REGARDING RECORDS, DRUG STORAGE, AND INVENTORY;
+19 AMENDING SECTION 37-2722, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+20 ISSUING, DISTRIBUTING, AND DISPENSING OF CONTROLLED SUBSTANCES AND TO
+21 MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 37-2726, IDAHO CODE, TO
+22 REVISE PROVISIONS REGARDING THE CONTROLLED SUBSTANCES PRESCRIPTIONS
+23 DATABASE; AMENDING SECTION 37-2731, IDAHO CODE, TO REVISE A PROVISION
+24 REGARDING INFORMATION REQUIRED ON LABELS; AND DECLARING AN EMERGENCY
+25 AND PROVIDING AN EFFECTIVE DATE.
+26 Be It Enacted by the Legislature of the State of Idaho:
+27 SECTION 1. That Section 37-2705, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 37-2705. SCHEDULE I. (a) The controlled substances listed in this sec-
+30 tion are included in schedule I.
+31 (b) Any of the following opiates, including their isomers, esters,
+32 ethers, salts, and salts of isomers, esters, and ethers, unless specifically
+33 excepted, whenever the existence of these isomers, esters, ethers and salts
+34 is possible within the specific chemical designation:
+35 (1) Acetyl-alpha-methylfentanyl (N-[1-(1-methyl-2-phenethyl)-4-pip-
+36 eridinyl]-N-phenylacetamide);
+37 (2) Acetylmethadol;
+38 (3) Acetyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylac-
+39 etamide);
+40 (4) Acryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylacry-
+41 lamide);
+42 (5) Allylprodine;
+
+2
+1 (6) Alphacetylmethadol (except levo-alphacetylmethadol also known as
+2 levo-alpha-acetylmethadol, levomethadyl acetate or LAAM);
+3 (7) Alphameprodine;
+4 (8) Alphamethadol;
+5 (9) Alpha'-methyl butyryl fentanyl (2-methyl-N-(1-phenethylpiperidi-
+6 n-4-yl)-N-phenylbutanamide);
+7 (10) Alpha-methylfentanyl;
+8 (11) Alpha-methylthiofentanyl (N-[1-methyl-2-(2-thienyl)ethyl-4-
+9 piperidinyl]-N-phenylpropanamide);
+10 (12) Benzethidine;
+11 (13) Betacetylmethadol;
+12 (14) Beta-hydroxyfentanyl (N-[1-(2-hydroxy-2-phenethyl)-4-piperid-
+13 inyl]-N-phenylpropanamide);
+14 (15) Beta-hydroxythiofentanyl;
+15 (16) Beta-hydroxy-3-methylfentanyl (N-(1-(2-hydroxy-2-phenethyl)-3-
+16 methyl-4-piperidinyl)-N-phenylpropanamide);
+17 (17) Betameprodine;
+18 (18) Betamethadol;
+19 (19) Beta-methyl fentanyl;
+20 (20) Beta-methylacetyl fentanyl;
+21 (20) (21) Beta'-phenyl fentanyl;
+22 (21) (22) Betaprodine;
+23 (22) (23) Brorphine (1-(1-(1-(4-Bromophenyl)ethyl)piperidin-4-yl)-
+24 1,3-dihydro-2H-benzo[D]imidazol-2-one);
+25 (23) (24) Butonitazene (2-(2-(4-butoxybenzyl)-5-nitro-1hbenzimida-
+26 zol-1-yl)-N,N-diethylethan-1-amine);
+27 (24) (25) Clonitazene;
+28 (25) (26) Crotonyl fentanyl ((E)-N-(1-phenethylpiperidin-4-yl)-N-
+29 phenylbut-2-enamide);
+30 (26) (27) Cyclopentyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-
+31 phenylcyclopentanecarboxamide);
+32 (27) (28) Cyclopropyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-
+33 phenylcyclopropanecarboxamide);
+34 (28) (29) Dextromoramide;
+35 (29) (30) Diampromide;
+36 (30) (31) Diethylthiambutene;
+37 (31) (32) Difenoxin;
+38 (32) (33) Dimenoxadol;
+39 (33) (34) Dimepheptanol;
+40 (34) (35) 2',5'-Dimethoxyfentanyl (N-(1-(2,5-dimethoxyphenethyl)pip-
+41 eridin-4-yl)-N-phenylpropionamide);
+42 (35) (36) Dimethylthiambutene;
+43 (36) (37) Dioxaphetyl butyrate;
+44 (37) (38) Dipipanone;
+45 (38) (39) Ethylmethylthiambutene;
+46 (39) (40) Etodesnitazene; (Etazene) (2-(2-(4-ethoxybenzyl)-1hbenzim-
+47 idazol-1-yl)-N,N-diethylethan-1-amine);
+48 (40) (41) Etonitazene;
+49 (41) (42) Etoxeridine;
+
+3
+1 (42) (43) Fentanyl-related substances. "Fentanyl-related substances"
+2 means any substance not otherwise listed and for which no exemption or
+3 approval is in effect under section 505 of the federal food, drug, and
+4 cosmetic act, 21 U.S.C. 355, and that is structurally related to fen-
+5 tanyl by one (1) or more of the following modifications:
+6 i. Replacement of the phenyl portion of the phenethyl group by any
+7 monocycle, whether or not further substituted in or on the monocy-
+8 cle;
+9 ii. Substitution in or on the phenethyl group with alkyl, alkenyl,
+10 alkoxyl, hydroxyl, halo, haloalkyl, amino, or nitro groups;
+11 iii. Substitution in or on the piperidine ring with alkyl,
+12 alkenyl, alkoxyl, ester, ether, hydroxyl, halo, haloalkyl, amino,
+13 or nitro groups;
+14 iv. Replacement Substitution in or on the aniline ring or replace-
+15 ment of the aniline ring with any aromatic monocycle, whether or
+16 not further substituted in or on the aromatic monocycle; and/or
+17 v. Replacement of the N-propionyl group by another acyl group;
+18 (43) (44) Fentanyl carabamate;
+19 (44) (45) Flunitazene (N,N-diethyl-2-(2-(4-fluorobenzyl)-5-nitro-1h-
+20 benzimidazol-1-yl)ethan-1-amine);
+21 (45) (46) 4-Fluoroisobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-
+22 phenethylpiperidin-4-yl)isobutyramide);
+23 (46) (47) 2'-fluoro ortho-fluorofentanyl;
+24 (47) (48) Furanyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenyl-
+25 furan-2-carboxamide);
+26 (48) (49) 3-Furanyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-
+27 phenylfuran-3-carboxamide);
+28 (49) (50) Furethidine;
+29 (50) (51) Hydroxypethidine;
+30 (51) (52) Isobutyryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-
+31 phenylisobutyramide);
+32 (52) (53) Isovalery fentanyl (3-methyl-N-(1-phenethylpiperidin-4-
+33 yl)-N-phenylbutanimide);
+34 (53) (54) Isotonitazene (N,N-diethyl-2-(2-(4isopropoxybenzyl)-5-ni-
+35 tro-1h-benzimidazol-1-yl)ethan-1-amine);
+36 (54) (55) Ketobemidone;
+37 (55) (56) Levomoramide;
+38 (56) (57) Levophenacylmorphan;
+39 (57) (58) Meta-fluorofentanyl (N-(3-fluorophenyl)-N-(1-
+40 phenethylpiperidin-4-yl)isobutyramide);
+41 (59) Meta-fluorofuranyl fentanyl;
+42 (58) (60) Meta-fluoroisobutyryl fentanyl (N-(3-fluorophenyl)-N-(1-
+43 phenethylpiperidin-4-yl)isobutyramide);
+44 (59) (61) Methoxyacetyl fentanyl (2-methoxy-N-(1-phenethylpiperidin-
+45 4-yl)-N-phenylacetamide);
+46 (60) (62) 2-Methyl AP-237 (1-(2-methyl-4-(3-phenylprop-2-en-1-
+47 yl)piperazin-1-yl)butan-1-one);
+48 (61) (63) 4'-methyl acetyl fentanyl;
+49 (62) (64) 3-Methylfentanyl;
+
+4
+1 (63) (65) 3-methylthiofentanyl (N-[(3-methyl-1-(2-thienyl)ethyl-4-
+2 piperidinyl]-N-phenylpropanamide) (and optical and geometric isomers
+3 of 3-methylthiofentanyl);
+4 (64) (66) Metodesnitazene (N,N-diethyl-2-(2-(4-methoxybenzyl)-1h-
+5 benzimidazol-1-yl)ethan-1-amine);
+6 (65) (67) Metonitazene (N,N-diethyl-2-(2-(4-methoxybenzyl)-5-ni-
+7 tro-1hbenzimidazol-1-yl)ethan-1-amine);
+8 (66) (68) Morpheridine;
+9 (67) (69) MPPP (1-methyl-4-phenyl-4-propionoxypiperidine);
+10 (68) (70) MT-45 (1-cyclohexyl-4- (1,2-diphenylethyl)piperazine);
+11 (69) (71) N-(4-chlorophenyl)-N-(1-phenethylpiperdin-4-yl)Isobutyra-
+12 mide (pPara-chloroisobutyrl fentanyl);
+13 (70) (72) Noracymethadol;
+14 (71) (73) Norlevorphanol;
+15 (72) (74) Normethadone;
+16 (73) (75) Norpipanone;
+17 (76) N-desethyl isotonitazene;
+18 (77) N-piperidinyl etonitazene;
+19 (74) (78) N-pyrrolidino etonitazene (2-(4-ethoxybenzyl)-5-ni-
+20 tro-1-(2-(pyrrolidin-1-yl)ethyl)1hbenzimidazole);
+21 (75) (79) Ocfentanil (N-(2-fluorophenyl)-2-methoxy-N-(1-phenethyl-
+22 piperidin-4-yl)acetamide);
+23 (80) Ortho-chlorofentanyl;
+24 (76) (81) Ortho-fluoroacryl fentanyl;
+25 (77) (82) Ortho-fluorobutyrl fentanyl;
+26 (78) (83) Ortho-fluorofentanyl;
+27 (79) (84) Ortho-fluorofuranyl fentanyl (N-(2-fluorophenyl)-N-(1-
+28 phenethylpiperidin-4-yl)furan-2-carboxamide);
+29 (80) (85) Ortho-fluoroisobutyryl fentanyl;
+30 (81) (86) Ortho-methyl acetylfentanyl;
+31 (87) Ortho-methylcyclopropylfentanyl;
+32 (82) (88) Ortho-methyl methoxyacetyl fentanyl;
+33 (89) Para-chlorofentanyl;
+34 (83) (90) Para-chloroisobutyryl fentanyl (N-(4-chlorophenyl)-N-(1-
+35 phenethylpiperidin-4-yl) isobutyramide);
+36 (84) (91) Para-fluorobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-
+37 phenethylpiperidin-4-yl) butyramide);
+38 (85) (92) Para-fluorofentanyl (N-(4-fluorophenyl)-N-[1-(2-phen-
+39 ethyl)-4-piperidinyl] propanamide);
+40 (86) (93) Para-fluoro furanyl fentanyl;
+41 (94) Para-fluoro valeryl fentanyl;
+42 (87) (95) Para-methoxybutyryl fentanyl (N-(4-methoxyphenyl)-N-(1-
+43 phenethylpiperidin-4-yl) butyramide);
+44 (88) (96) Para-methoxyfuranyl fentanyl (N-(4-methoxyphenyl)-N-(1-
+45 phenethylpiperidin-4-yl)furan-2-carboxamide);
+46 (89) (97) Para-methylcyclopropyl fentanyl (N-(4-methylphenyl)-N-(1-
+47 phenylpiperidin-4-yl)cyclopropanecarboxamide);
+48 (90) (98) Para-methylfentanyl;
+49 (91) (99) PEPAP (1-(-2-phenethyl)-4-phenyl-4-acetoxypiperidine);
+50 (92) (100) Phenadoxone;
+
+5
+1 (93) (101) Phenampromide;
+2 (94) (102) Phenomorphan;
+3 (95) (103) Phenoperidine;
+4 (96) (104) Phenyl fentanyl;
+5 (97) (105) Piritramide;
+6 (98) (106) Proheptazine;
+7 (99) (107) Properidine;
+8 (100) (108) Propiram;
+9 (101) (109) Protonitazene (N,N-diethyl-2-(5-nitro-2-(4-propoxyben-
+10 zyl)-1h-benzimidazol-1-yl)ethan-1-amine);
+11 (102) (110) Racemoramide;
+12 (103) (111) Tetrahydrofuranyl fentanyl (N-(1-phenethylpiperi-
+13 dine-4-yl)-N-phenyltetrahydrofuran-2-carboxamide);
+14 (112) Tetrahydrothiofuranyl fentanyl;
+15 (104) (113) Thiofentanyl (N-phenyl-N-[1-(2-thienyl)ethyl-4-piper-
+16 idinyl]-propanamide);
+17 (105) (114) Tilidine;
+18 (106) (115) Trimeperidine;
+19 (107) (116) u-47700 (3,4-Dichloro-N-[2-(dimethylamino)cyclohexyl]-N-
+20 methylbenzamide);
+21 (108) (117) Valeryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-
+22 phenylpentanamide);
+23 (109) (118) Zipeprol (1-methoxy-3-[4-(2-methoxy-2-phenylethyl)piper-
+24 azin-1-yl]-1-phenylpropan-2-ol).
+25 (c) Any of the following opium derivatives, their salts, isomers and
+26 salts of isomers, unless specifically excepted, whenever the existence of
+27 these salts, isomers and salts of isomers is possible within the specific
+28 chemical designation:
+29 (1) Acetorphine;
+30 (2) Acetyldihydrocodeine;
+31 (3) Benzylmorphine;
+32 (4) Codeine methylbromide;
+33 (5) Codeine-N-Oxide;
+34 (6) Cyprenorphine;
+35 (7) Desomorphine;
+36 (8) Dihydromorphine;
+37 (9) Drotebanol;
+38 (10) Etorphine (except hydrochloride salt);
+39 (11) Heroin;
+40 (12) Hydromorphinol;
+41 (13) Methyldesorphine;
+42 (14) Methyldihydromorphine;
+43 (15) Morphine methylbromide;
+44 (16) Morphine methylsulfonate;
+45 (17) Morphine-N-Oxide;
+46 (18) Myrophine;
+47 (19) Nicocodeine;
+48 (20) Nicomorphine;
+49 (21) Normorphine;
+50 (22) Pholcodine;
+
+6
+1 (23) Thebacon.
+2 (d) Hallucinogenic substances. Any material, compound, mixture or
+3 preparation that contains any quantity of the following hallucinogenic
+4 substances, their salts, isomers and salts of isomers, unless specifically
+5 excepted, whenever the existence of these salts, isomers, and salts of iso-
+6 mers is possible within the specific chemical designation (for purposes of
+7 this subsection only, the term "isomer" includes the optical, position and
+8 geometric isomers):
+9 (1) Dimethoxyphenethylamine, or any compound not specifically
+10 excepted or listed in another schedule that can be formed from
+11 dimethoxyphenethylamine by replacement of one (1) or more hydrogen
+12 atoms with another atom(s), functional group(s) or substructure(s)
+13 including, but not limited to, compounds such as DOB, DOC, 2C-B,
+14 25B-NBOMe;
+15 (2) Methoxyamphetamine or any compound not specifically excepted or
+16 listed in another schedule that can be formed from methoxyamphetamine
+17 by replacement of one (1) or more hydrogen atoms with another atom(s),
+18 functional group(s) or substructure(s) including, but not limited to,
+19 compounds such as PMA and DOM;
+20 (3) 5-methoxy-3,4-methylenedioxy-amphetamine;
+21 (4) 5-methoxy-N,N-diisopropyltryptamine (5-MeO-DIPT);
+22 (5) Amphetamine or methamphetamine with a halogen substitution on the
+23 benzyl ring, including compounds such as fluorinated amphetamine and
+24 fluorinated methamphetamine;
+25 (6) 3,4-methylenedioxy amphetamine (MDA);
+26 (7) 3,4-methylenedioxymethamphetamine (MDMA);
+27 (8) 3,4-methylenedioxy-N-ethylamphetamine (also known as N-et-
+28 hyl-alpha-methyl-3,4 (methylenedioxy) phenethylamine, and N-et-
+29 hyl MDA, MDE, MDEA);
+30 (9) N-hydroxy-3,4-methylenedioxyamphetamine (also known as N-hyd-
+31 roxy-alpha-methyl-3,4(methylenedioxy) phenethylamine, and N-hyd-
+32 roxy MDA);
+33 (10) 3,4,5-trimethoxy amphetamine;
+34 (11) 5-methoxy-N,N-dimethyltryptamine (also known as 5-methoxy-3-2[2-
+35 (dimethylamino)ethyl]indole and 5-MeO-DMT);
+36 (12) Alpha-ethyltryptamine (some other names: etryptamine, 3-(2-am-
+37 inobutyl) indole AET);
+38 (13) Alpha-methyltryptamine (AMT);
+39 (14) Bufotenine;
+40 (15) Diethyltryptamine (DET);
+41 (16) Dimethyltryptamine (DMT);
+42 (17) Ibogaine;
+43 (18) Lysergic acid diethylamide (LSD);
+44 (19) Marihuana (marijuana);
+45 (20) Mescaline;
+46 (21) Methoxetamine;
+47 (22) Parahexyl;
+48 (23) Peyote;
+49 (24) N-ethyl-3-piperidyl benzilate;
+50 (25) N-methyl-3-piperidyl benzilate;
+
+7
+1 (26) Para-methoxymethamphetamine (PMMA), 1-(4-methoxyphenyl)-N-
+2 methylpropan-2-amine;
+3 (27) Psilocybin;
+4 (28) Psilocyn;
+5 (29) Tetrahydrocannabinols or synthetic equivalents of the substances
+6 contained in the plant, or in the resinous extractives of Cannabis, sp.
+7 and/or synthetic substances, derivatives, and their isomers with simi-
+8 lar chemical structure such as the following:
+9 i. Tetrahydrocannabinols, except for the permitted amount of
+10 tetrahydrocannabinol found in industrial hemp, or nabiximols in a
+11 drug product approved by the United States food and drug adminis-
+12 tration:
+13 a. ∆ 1 cis or trans tetrahydrocannabinol, and their opti-
+14 cal isomers, excluding dronabinol in sesame oil and encapsu-
+15 lated in either a soft gelatin capsule or in an oral solution
+16 in a drug product approved by the U.S. Food and Drug Adminis-
+17 tration.
+18 b. ∆ 6 cis or trans tetrahydrocannabinol, and their optical
+19 isomers.
+20 c. ∆ 3,4 cis or trans tetrahydrocannabinol, and its optical
+21 isomers. (Since nomenclature of these substances is not in-
+22 ternationally standardized, compounds of these structures,
+23 regardless of numerical designation of atomic positions are
+24 covered.)
+25 d. [(6aR,10aR)-9-(hydroxymethyl)-6,6-dimethyl-3-(2methy-
+26 loctan-2-yl)-6a,7,10,10a-tetrahydrobenzo[c]chromen-
+27 1-o1)], also known as 6aR-trans-3-(1,1-dimethylhep-
+28 tyl)-6a,7,10,10a-tetrahydro-1-hydroxy-6,6-dimethyl-6H-
+29 dibenzo[b,d]pyran-9-methanol (HU-210) and its geometric
+30 isomers (HU211 or dexanabinol).
+31 ii. The following synthetic drugs:
+32 a. Any compound structurally derived from (1H-indole-3-
+33 yl)(cycloalkyl, cycloalkenyl, aryl)methanone, or (1H-in-
+34 dole-3-yl)(cycloalkyl, cycloalkenyl, aryl)methane, or
+35 (1H-indole-3-yl)(cycloalkyl, cycloalkenyl, aryl), methyl
+36 or dimethyl butanoate, amino-methyl (or dimethyl)-1-oxobu-
+37 tan-2-yl) carboxamide by substitution at the nitrogen atoms
+38 of the indole ring or carboxamide to any extent, whether or
+39 not further substituted in or on the indole ring to any ex-
+40 tent, whether or not substituted to any extent in or on the
+41 cycloalkyl, cycloalkenyl, aryl ring(s) (substitution in the
+42 ring may include, but is not limited to, heteroatoms such as
+43 nitrogen, sulfur and oxygen).
+44 b. N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluo-
+45 ropentyl)-1 H-indazole-3-carboxamide (5F-AB-PINACA).
+46 c. 1-(1.3-benzodioxol-5-yl)-2-(ethylamino)-pentan-1-one
+47 (N-ethylpentylone, (ephylone).
+48 d. 1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1 H-inda-
+49 zole-3-carboxamide (4-cn-cumyl-BUTINACA).
+
+8
+1 e. 5-pentyl-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-
+2 one (Cumyl PeGACLONE Pegaclone).
+3 f. Ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3carboxam-
+4 ido)-3,3-dimethylbutanoate * (5F-EDMB-PINACA).
+5 g. Ethyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxamido)-
+6 3,3-dimethylbutanoate (5F-EDMB-PICA).
+7 h. (1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3tetram-
+8 ethylcyclopropyl)methanone (FUB-144).
+9 i. 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-inda-
+10 zole-3-carboxamide (5f-cumyl-pinaca; SGT-25).
+11 j. (1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1
+12 H-pyrrolo[2.3-B]pyridine-3-carboxamide(5fcumyl-P7AICA).
+13 k. FUB-AMB, MMB- FUBINACA (Methyl 2-(1-(4-fluoroben-
+14 zyl)-1H-indazole-3-carboxamido)-3-methylbutanoate.
+15 l. MMB-FUBICA (Methyl 2-(1-(4-Fluorobenzyl)-1H-Indole-3-
+16 carboxamido)-3-methyl butanoate).
+17 m. Methyl 3,3-dimethyl-2-((1-(pent-4-en-1-yl)-1H-in-
+18 dazole-3-yl)formamidocarboxamido)butanoate (MDMB-4EN-
+19 PINACA).
+20 n. Methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxam-
+21 ido)-3-methylbutanoate (MMB-CHMICA, AMB-CHMICA).
+22 o. Methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxam-
+23 ido)-3,3-dimethylbutanoate (MDMB-CHMICA, MMB-CHMINACA).
+24 p. Methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxam-
+25 ido-3,3-dimethylbutanoate (MDMB-FUBINACA).
+26 q. Methyl 2-[[1-(4-Fluorobutyl)Indole-3-Carbonyl]Amino]-
+27 3,3-Dimethyl-Butanoate (4F-MDMB-BUTICA, 4F-MDMB-BICA).
+28 r. Methyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxam-
+29 ido)-3,3-dimethylbutanoate (5F-MDMB-PICA, 5F-MDMB-2201).
+30 s. Methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxam-
+31 ido)-3,3-dimethylbutanoate (5F-ADB, 5F-MDMB-PINACA).
+32 t. Methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxam-
+33 ido)-3-methylbutanoate (5F-AMB).
+34 u. N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1H-
+35 Indazole-3-carboxamide (ADB-BUTINACA).
+36 v. N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluo-
+37 robenzyl)-1H-indazole-3-carboxamide (ADB-FUBINACA).
+38 w. N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(pent-4-
+39 en-1-yl)-1H-indazole-3-carboxamide (ADB-4EN-PINACA).
+40 x. N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-
+41 carboxamide (FUB-AKB48; FUB-APINACA).
+42 y. N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-
+43 carboxamide (5F-APINACA, 5F-AKB48).
+44 z. N-(1-amino-3-methyl-1-oxobutan-2-yl)1-(Cyclohexyl-
+45 methyl)-1H-indazole-3-carboxamide (AB-CHMINACA).
+46 aa. Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-car-
+47 boxylate (NM2201; CBL2201).
+48 bb. Any compound structurally derived from 3-(1-naph-
+49 thoyl)pyrrole by substitution at the nitrogen atom of the
+50 pyrrole ring to any extent, whether or not further sub-
+
+9
+1 stituted in the pyrrole ring to any extent, whether or not
+2 substituted in the naphthyl ring to any extent.
+3 cc. Any compound structurally derived from 1-(1-naphthyl-
+4 methyl)indene by substitution at the 3-position of the in-
+5 dene ring to any extent, whether or not further substituted
+6 in the indene ring to any extent, whether or not substituted
+7 in the naphthyl ring to any extent.
+8 dd. Any compound structurally derived from 3-pheny-
+9 lacetylindole by substitution at the nitrogen atom of the
+10 indole ring to any extent, whether or not further substi-
+11 tuted in the indole ring to any extent, whether or not sub-
+12 stituted in the phenyl ring to any extent.
+13 ee. Any compound structurally derived from 2-(3-hydroxy-
+14 cyclohexyl)phenol by substitution at the 5-position of the
+15 phenolic ring to any extent, whether or not substituted in
+16 the cyclohexyl ring to any extent.
+17 ff. Any compound structurally derived from 3-(benzoyl)in-
+18 dole structure with substitution at the nitrogen atom of
+19 the indole ring to any extent, whether or not further sub-
+20 stituted in the indole ring to any extent and whether or not
+21 substituted in the phenyl ring to any extent.
+22 gg. [2,3-dihydro-5-methyl-3-(4-morpholinyl-
+23 methyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl]-1-
+24 napthalenylmethanone (WIN-55,212-2).
+25 hh. 3-dimethylheptyl-11-hydroxyhexahydrocannabinol (HU-
+26 243).
+27 ii. [(6S, 6aR, 9R, 10aR)-9-hydroxy-6-methyl-3-[(2R)-
+28 5-phenylpentan-2-yl]oxy-5,6,6a,7,8,9,10,10a-octahy-
+29 drophenanthridin-1-yl]acetate (CP 50,5561).
+30 (30) Ethylamine analog of phencyclidine: N-ethyl-1-phenylcy-
+31 clohexylamine (1-phenylcyclohexyl) ethylamine; N-(1-phenylcy-
+32 clohexyl) ethylamine, cyclohexamine, PCE;
+33 (31) Pyrrolidine analog of phencyclidine: 1-(phenylcyclohexyl) -
+34 pyrrolidine, PCPy, PHP;
+35 (32) Thiophene analog of phencyclidine 1-[1-(2-thienyl)-cyclohexyl]-
+36 piperidine, 2-thienylanalog of phencyclidine, TPCP, TCP;
+37 (33) Thiofuranyl fentanyl;
+38 (34) (33) 1-[1-(2-thienyl) cyclohexyl] pyrrolidine another name:
+39 TCPy;
+40 (35) (34) Spores or mycelium capable of producing mushrooms that con-
+41 tain psilocybin or psilocin.
+42 (e) Unless specifically excepted or unless listed in another schedule,
+43 any material, compound, mixture or preparation which contains any quantity
+44 of the following substances having a depressant effect on the central ner-
+45 vous system, including its salts, isomers, and salts of isomers whenever the
+46 existence of such salts, isomers, and salts of isomers is possible within the
+47 specific chemical designation:
+48 (1) Bromazolam;
+49 (1) (2) Clonazolam;
+50 (2) (3) Diclazepam;
+
+10
+1 (3) (4) Gamma hydroxybutyric acid (some other names include GHB; gam-
+2 ma-hydroxybutyrate, 4-hydroxybutyrate; 4-hyroxybutanoic acid; sod-
+3 ium oxybate; sodium oxybutyrate);
+4 (4) (5) Etizolam;
+5 (5) (6) Flualprazolam;
+6 (6) (7) Flubromazolam;
+7 (7) (8) Flunitrazepam (also known as R2, Rohypnol);
+8 (8) (9) Mecloqualone;
+9 (9) (10) Methaqualone.
+10 (f) Stimulants. Unless specifically excepted or unless listed in an-
+11 other schedule, any material, compound, mixture, or preparation which con-
+12 tains any quantity of the following substances having a stimulant effect on
+13 the central nervous system, including its salts, isomers, and salts of iso-
+14 mers:
+15 (1) Amineptine (7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-
+16 yl)amino]heptanoic acid);
+17 (2) Aminorex (some other names: (aminoxaphen), 2-amino-5-phenyl-2-
+18 oxazoline, or 4,5-dihydro-5-phenyl-2-oxazolamine), 4,4'-dimethylam-
+19 inorex (4,4'-DMAR; 4,5-dihydro-4-methyl-5-(4-methylphenyl)-2-oxazo-
+20 lamine) or (4,5-dihydro-5-phenyl-2-oxazolamine);
+21 (3) Cathinone (some other names: 2-amino-1-phenol-1-propanone, alp-
+22 ha-aminopropiophenone, 2-aminopropiophenone and norephedrone);
+23 (4) Substituted cathinones. Any compound, except bupropion or com-
+24 pounds listed under a different schedule, structurally derived from
+25 2-aminopropan-1-one by substitution at the 1-position with either
+26 phenyl, naphthyl or thiophene ring systems, whether or not the compound
+27 is further modified in any of the following ways:
+28 i. By substitution in the ring system to any extent with alkyl,
+29 alkylenedioxy, alkoxy, haloalkyl, hydroxyl or halide sub-
+30 stituents, whether or not further substituted in the ring system
+31 by one (1) or more other univalent substituents;
+32 ii. By substitution at the 3-position with an acyclic alkyl sub-
+33 stituent;
+34 iii. By substitution at the 2-amino nitrogen atom with alkyl,
+35 dialkyl, benzyl or methoxybenzyl groups, or by inclusion of the
+36 2-amino nitrogen atom in a cyclic structure.
+37 (5) Alpha-pyrrolidinoheptaphenone* (PV8);
+38 (6) Alpha-pyrrolidinohexanophenone* (A-PHP);
+39 (7) 4-chloro-alpha-pyrrolidinovalerophenone* (4-chloro-a-pvp);
+40 (8) Ethylphenidate;
+41 (8) (9) Eutylone (1-(1,3-benzodioxol-5-yl)-2-(ethylamino)bu-
+42 tan-1-one) (bk-EBDB);
+43 (9) (10) Fenethylline;
+44 (10) (11) Mesocarb (N-phenyl-N'-(3-(1-phenylpropan-2-yl)-1,2,3-oxa-
+45 diazol-3-ium-5-yl)carbamimidate);
+46 (11) (12) Methcathinone (some other names: 2-(methyl-amino)-pro-
+47 piophenone, alpha-(methylamino)-propiophenone, N-methylcathin-
+48 one, AL-464, AL-422, AL-463 and UR1423);
+49 (12) (13) Methiopropamine (N-methyl-1-(thiophen-2-yl)propan-2-
+50 amine);
+
+11
+1 (13) (14) (+/-)cis-4-methylaminorex [(+/-)cis-4,5-dihydro-4-meth-
+2 yl-5-phenyl-2-oxazolamine];
+3 (14) (15) 4-methyl-alpha-ethylaminopentiophenone* (4-MEAP);
+4 (15) (16) 4'-methyl-alpha-pyrrolidinohexiophenone* (MPHP);
+5 (16) (17) 2-(methylamino)-1-(3-methylphenyl)propan-1-one (3-MMC);
+6 (17) (18) 4-methyl-1-phenyl-2-(pyrrolidine-1-yl)pent-1-one) (ALPHA-
+7 PIHP);
+8 (18) (19) N-benzylpiperazine (also known as: BZP, 1-benzylpiper-
+9 azine);
+10 (19) (20) N-ethylamphetamine;
+11 (20) (21) N-ethylhexedrone*;
+12 (21) (22) N,N-dimethylamphetamine (also known as: N,N-alpha-
+13 trimethyl-benzeneethanamine).
+14 SECTION 2. That Section 37-2707, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 37-2707. SCHEDULE II. (a) Schedule II shall consist of the drugs and
+17 other substances, by whatever official name, common or usual name, chemical
+18 name, or brand name designated, listed in this section.
+19 (b) Substances, vegetable origin or chemical synthesis. Unless
+20 specifically excepted or unless listed in another schedule, any of the fol-
+21 lowing substances whether produced directly or indirectly by extraction
+22 from substances of vegetable origin, or independently by means of chemical
+23 synthesis, or by a combination of extraction and chemical synthesis:
+24 (1) Opium and opiate, and any salt, compound, derivative, or prepa-
+25 ration of opium or opiate, excluding apomorphine, dextrorphan, nal-
+26 buphine, naldemedine, nalmefene, naloxegol, 6β-naltexol, naloxone,
+27 naltrexone, samidorphan, and their respective salts, but including the
+28 following:
+29 1. i. Raw opium;
+30 2. ii. Opium extracts;
+31 3. iii. Opium fluid extracts;
+32 4. iv. Powdered opium;
+33 5. v. Granulated opium;
+34 6. vi. Tincture of opium;
+35 7. vii. Codeine;
+36 8. viii. Dihydroetorphine;
+37 9. ix. Diprenorphine;
+38 10. x. Ethylmorphine;
+39 11. xi. Etorphine hydrochloride;
+40 12. xii. Hydrocodone;
+41 13. xiii. Hydromorphone;
+42 14. xiv. Metopon;
+43 15. xv. Morphine;
+44 xvi. Noroxymorphone;
+45 16. xvii. Oripavine;
+46 17. xviii. Oxycodone;
+47 18. xix. Oxymorphone;
+48 19. Tapentadol;
+49 20. xx. Thebaine.
+
+12
+1 (2) Any salt, compound, derivative, or preparation thereof which is
+2 chemically equivalent or identical with any of the substances referred
+3 to in paragraph (1) of this subsection, except that these substances
+4 shall not include the isoquinoline alkaloids of opium.
+5 (3) Opium poppy and poppy straw.
+6 (4) Coca leaves and any salt, compound, derivative, or preparation
+7 of coca leaves, and any salt, compound, derivative, or preparation
+8 thereof which is chemically equivalent or identical with any of these
+9 substances, but shall not include the following:
+10 1. i. Decocainized coca leaves or extractions of coca leaves,
+11 which extractions do not contain cocaine; or ecgonine; or
+12 2. ii. [123I]ioflupane.
+13 (5) Benzoylecgonine.
+14 (6) Methylbenzoylecgonine (Cocaine, - its salts, optical and geometric
+15 isomers, and salts of optical and geometric isomers).
+16 (7) Concentrate of poppy straw (the crude extract of poppy straw in liq-
+17 uid, solid or powder form that contains the phenanthrine alkaloids of
+18 the opium poppy).
+19 (c) Any of the following opiates, including their isomers, esters,
+20 ethers, salts, and salts of isomers, whenever the existence of these iso-
+21 mers, esters, ethers and salts is possible within the specific chemical
+22 designation, unless specifically excepted or unless listed in another
+23 schedule:
+24 (1) Alfentanil;
+25 (2) Alphaprodine;
+26 (3) Anileridine;
+27 (4) Bezitramide;
+28 (5) Bulk Dextropropoxyphene (nondosage forms);
+29 (6) Carfentanil;
+30 (7) Dihydrocodeine;
+31 (8) Diphenoxylate;
+32 (9) Fentanyl;
+33 (10) Isomethadone;
+34 (11) Levo-alphacetylmethadol (also known as levo-alpha-acetylmet-
+35 hadol, levomethadyl acetate, LAAM);
+36 (12) Levomethorphan;
+37 (13) Levorphanol;
+38 (14) Metazocine;
+39 (15) Methadone;
+40 (16) Methadone -- Intermediate, 4-cyano-2-dimethylamino-4, 4-diphenyl
+41 butane;
+42 (17) Moramide -- Intermediate, 2-methyl-3-morpholino-1, 1-diphenyl
+43 propane-carboxylic acid;
+44 (18) Norfentanyl (N-phenyl-N-(piperidin-4-yl) propionamide);
+45 (19) (18) Oliceridine;
+46 (20) (19) Pethidine (meperidine);
+47 (21) (20) Pethidine -- Intermediate -- A, 4-cyano-1-methyl-4-phenyl-
+48 piperidine;
+49 (22) (21) Pethidine -- Intermediate -- B, ethyl-4-phenylpiperid-
+50 ine-4-carboxylate;
+
+13
+1 (23) (22) Pethidine -- Intermediate -- C, 1-methyl-4-phenylpiperid-
+2 ine-4-carboxylic acid;
+3 (24) (23) Phenazocine;
+4 (25) (24) Piminodine;
+5 (26) (25) Racemethorphan;
+6 (27) (26) Racemorphan;
+7 (28) (27) Remifentanil;
+8 (29) (28) Sufentanil.;
+9 (29) Tapentadol;
+10 (30) Thiafentanil.
+11 (d) Stimulants. Unless specifically excepted or unless listed in an-
+12 other schedule, any material, compound, mixture, or preparation which con-
+13 tains any quantity of the following substances having a stimulant effect on
+14 the central nervous system:
+15 (1) Amphetamine, its salts, optical isomers, and salts of its optical
+16 isomers;
+17 (2) Lisdexamfetamine, its salts, isomers, and salts of its isomers;
+18 (3) Methamphetamine, its salts, isomers, and salts of its isomers;
+19 (4) Phenmetrazine and its salts;
+20 (5) Methylphenidate.
+21 (e) Depressants. Unless specifically excepted or unless listed in an-
+22 other schedule, any material, compound, mixture, or preparation which con-
+23 tains any quantity of the following substances having a depressant effect on
+24 the central nervous system, including its salts, isomers, and salts of iso-
+25 mers, whenever the existence of such salts, isomers, and salts of isomers is
+26 possible within the specific chemical designation:
+27 (1) Amobarbital;
+28 (2) Glutethimide;
+29 (3) Pentobarbital;
+30 (4) Phencyclidine;
+31 (5) Secobarbital.
+32 (f) Hallucinogenic substances.
+33 (1) Nabilone ............................ (another name for nabilone:
+34 (+/-)-trans-3-(1,1-dimethylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hy-
+35 droxy-6,6-dimethyl-9H-dibenzo[b,d]pyran-9-one) (21 CFR 1308.12 (f)).
+36 (g) Immediate precursors. Unless specifically excepted or unless
+37 listed in another schedule, any material, compound, mixture, or preparation
+38 which contains any quantity of the following substances:
+39 (1) Immediate precursor to amphetamine and methamphetamine:
+40 (a) i. Anthranilic acid;
+41 (b) ii. Ephedrine;
+42 (c) iii. Lead acetate;
+43 (d) iv. Methylamine;
+44 (e) v. Methyl formamide;
+45 (f) vi. N-methylephedrine;
+46 (g) vii. Phenylacetic acid;
+47 (h) viii. Phenylacetone (phenyl-2-propanone, P2P);
+48 (i) ix. Phenylpropanolamine;
+49 (j) x. Pseudoephedrine.
+
+14
+1 Except that any combination or compound containing ephedrine, or any of
+2 its salts and isomers, or phenylpropanolamine or its salts and isomers,
+3 or pseudoephedrine, or any of its salts and isomers which is prepared
+4 for dispensing or over-the-counter distribution is not a controlled
+5 substance for the purpose of this section, unless such substance is pos-
+6 sessed, delivered, or possessed with intent to deliver to another with
+7 the intent to manufacture methamphetamine, amphetamine or any other
+8 controlled substance in violation of section 37-2732, Idaho Code. For
+9 purposes of this provision, the requirements of the uniform controlled
+10 substances act shall not apply to a manufacturer, wholesaler or re-
+11 tailer of over-the-counter products containing the listed substances
+12 unless such person possesses, delivers, or possesses with intent to
+13 deliver to another the over-the-counter product with intent to manufac-
+14 ture a controlled substance.
+15 (2) Immediate precursors to phencyclidine (PCP):
+16 (a) i. 1-phenylcyclohexylamine;
+17 (b) ii. 1-piperidinocyclohexanecarbonitrile (PCC).
+18 (3) Immediate precursors to fentanyl:
+19 i. 4-anilino-N-phenethyl-4-piperidine (ANPP).;
+20 ii. Norfentanyl.
+21 SECTION 3. That Section 37-2709, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 37-2709. SCHEDULE III. (a) Schedule III shall consist of the drugs and
+24 other substances, by whatever official name, common or usual name, chemical
+25 name, or brand name designated, listed in this section.
+26 (b) Stimulants. Unless specifically excepted or unless listed in an-
+27 other schedule, any material, compound, mixture, or preparation which con-
+28 tains any quantity of the following substances having a stimulant effect on
+29 the central nervous system, including its salts, isomers, (whether optical,
+30 positional, or geometric), and salts of such isomers whenever the existence
+31 of such salts, isomers, and salts of isomers is possible within the specific
+32 chemical designation:
+33 (1) Those compounds, mixtures, or preparations in dosage unit form con-
+34 taining any stimulant substances listed in schedule II which compounds,
+35 mixtures, or preparations were listed as excepted compounds under 21
+36 CFR 1308.32, and any other drug of the quantitative composition shown in
+37 that list for those drugs or which is the same except that it contains a
+38 lesser quantity of controlled substances.
+39 (2) Benzphetamine;
+40 (3) Chlorphentermine;
+41 (4) Clortermine;
+42 (5) Phendimetrazine.
+43 (c) Depressants. Unless listed in another schedule, any material, com-
+44 pound, mixture, or preparation which contains any quantity of the following
+45 substances having a potential for abuse associated with a depressant effect
+46 on the central nervous system:
+47 (1) Any compound, mixture or preparation containing the following sub-
+48 stances or any salt thereof and one (1) or more other active medicinal
+49 ingredients that are not listed in any schedule:
+
+15
+1 i. Amobarbital;
+2 ii. Secobarbital;
+3 iii. Pentobarbital or any salt thereof and one (1) or more other
+4 active medicinal ingredients which are not listed in any schedule.
+5 (2) Any suppository dosage form containing the following substances or
+6 any salt of any of these drugs and approved by the food and drug adminis-
+7 tration for marketing only as a suppository:
+8 i. Amobarbital;
+9 ii. Secobarbital;
+10 iii. Pentobarbital or any salt of any of these drugs and approved
+11 by the Food and Drug Administration for marketing only as a suppos-
+12 itory.
+13 (3) Any substance which contains any quantity of a derivative of barbi-
+14 turic acid or any salt thereof, including, but not limited to:
+15 i. Aprobarbital;
+16 ii. Butabarbital (secbutabarbital);
+17 iii. Butalbital, excluding drug products exempted by the federal
+18 drug enforcement administration (DEA);
+19 iv. Butobarbital (butethal);
+20 v. Talbutal;
+21 vi. Thiamylal;
+22 vii. Thiopental;
+23 viii. Vinbarbital.
+24 (4) Chlorhexadol;
+25 (5) Embutramide;
+26 (6) Any drug product containing gamma hydroxybutyric acid (GHB), in-
+27 cluding its salts, isomers, and salts of isomers, for which an applica-
+28 tion is approved under section 505 of the federal food, drug, and cos-
+29 metic act;
+30 (7) Ketamine, its salts, isomers, and salts of isomers-
+31 7285. (Some other names for ketamine: (+/-)-2-(2-chlorophenyl)-2-
+32 (methylamino)-cyclohexanone).
+33 (8) Lysergic acid;
+34 (9) Lysergic acid amide (LSA, LAA);
+35 (10) Methyprylon;
+36 (11) Perampanel, and its salts, isomers and salts of isomers;
+37 (12) Sulfondiethylmethane;
+38 (13) Sulfonethylmethane;
+39 (14) Sulfonmethane;
+40 (15) Tiletamine and zolazepam or any salt thereof.
+41 (d) Nalorphine.
+42 (e) Narcotic drugs. Unless specifically excepted or unless listed in
+43 another schedule:
+44 (1) Any material, compound, mixture, or preparation containing limited
+45 quantities of any of the following narcotic drugs, or any salts thereof:
+46 (i) i. Not more than 1.8 grams of codeine, or any of its salts,
+47 per 100 milliliters or not more than 90 milligrams per dosage unit,
+48 with an equal or greater quantity of an isoquinoline alkaloid of
+49 opium;
+
+16
+1 (ii) ii. Not more than 1.8 grams of codeine, or any of its salts,
+2 per 100 milliliters or not more than 90 milligrams per dosage unit,
+3 with one (1) or more active, nonnarcotic ingredients in recognized
+4 therapeutic amounts;
+5 (iii) iii. Not more than 1.8 grams of dihydrocodeine, or any of
+6 its salts, per 100 milliliters or not more than 90 milligrams per
+7 dosage unit, with one (1) or more active, nonnarcotic ingredients
+8 in recognized therapeutic amounts;
+9 (iv) iv. Not more than 300 milligrams of ethylmorphine, or any of
+10 its salts, per 100 milliliters or not more than 15 milligrams per
+11 dosage unit, with one (1) or more active, nonnarcotic ingredients
+12 in recognized therapeutic amounts;
+13 (v) v. Not more than 500 milligrams of opium per 100 milliliters
+14 or per 100 grams, or not more than 25 milligrams per dosage unit,
+15 with one (1) or more active, nonnarcotic ingredients in recognized
+16 therapeutic amounts;
+17 (vi) vi. Not more than 50 milligrams of morphine, or any of its
+18 salts, per 100 milliliters or per 100 grams with one (1) or more ac-
+19 tive, nonnarcotic ingredients in recognized therapeutic amounts.
+20 (2) Any material, compound, mixture, or preparation containing any of
+21 the following narcotic drugs or their salts, as set forth below:
+22 (i) i. Buprenorphine.
+23 (ii) ii. [Reserved].
+24 (f) Anabolic steroids and human growth hormones. Any drug or hormonal
+25 substance, chemically and pharmacologically related to testosterone (other
+26 than estrogens, progestins and corticosteroids) that promotes muscle growth
+27 including any salt, ester or isomer of a drug or substance listed in this sub-
+28 section, if that salt, ester or isomer promotes muscle growth.
+29 (1) 13beta-ethyl-17beta-hydroxygon-4-en-3-one;
+30 (2) 17alpha-methyl-3alpha, 17beta-dihydroxy-5alpha-androstane;
+31 (3) 17alpha-methyl-3beta, 17beta-dihydroxy-5alpha-androstane;
+32 (4) 17alpha-methyl-3beta, 17beta-dihydroxyandrost-4-ene;
+33 (5) 17alpha-methyl-4-hydroxynandrolone;
+34 (6) 17alpha-methyl-5alpha-androstan-17beta-ol;
+35 (7) 17alpha-methyl-androst-2-ene-3,17beta-diol;
+36 (8) 17alpha-methyl-androsta-1,4-diene-3,17beta-diol;
+37 (9) 17alpha-methyl-androstan-3-hydroxyimine-17beta-ol;
+38 (10) 17alpha-methyl-delta1-dihydrotestosterone;
+39 (11) 17beta-hydroxy-androstano[2,3 3,2-c]isoxazole;
+40 (12) 17beta-hydroxy-androstano[2,3-d]isoxazole;
+41 (13) 18alpha-homo-3-hydroxy-estra-2,5(10)-dien-17-one;
+42 (14) 19-nor-4-androstenediol;
+43 (15) 19-nor-4-androstenedione;
+44 (16) 19-nor-4,9(10)-androstadienedione;
+45 (17) 19-nor-5-androstenediol;
+46 (18) 19-nor-5-androstenedione;
+47 (19) 1-androstenediol;
+48 (20) 1-androstenedione;
+49 (21) 2alpha,17alpha-dimethyl-17beta-hydroxy-5beta-androstan-3-one;
+
+17
+1 (22) 2alpha,3alpha-epithio-17alpha-methyl-5alpha-androstan-17beta-
+2 ol;
+3 (23) [3,2-c]furazan-5alpha-androstan-17beta-ol;
+4 (24) [3,2-c]pyrazole-androst-4-en-17beta-ol;
+5 (25) 3alpha,17beta-dihydroxy-5alpha-androstane;
+6 (26) 3beta,17beta-dihydroxy-5alpha-androstane;
+7 (27) 3beta-hydroxy-estra-4,9,11-trien-17-one;
+8 (28) 4-androstenediol;
+9 (29) 4-androstenedione;
+10 (30) 4-chloro-17alpha-methyl-androsta-1,4-diene-3,17beta-diol;
+11 (31) 4-chloro-17alpha-methyl-androst-4-ene-3beta,17beta-diol;
+12 (32) 4-chloro-17alpha-methyl-17beta-hydroxy-androst-4-en-3-one;
+13 (33) 4-chloro-17alpha-methyl-17beta-hydroxy-androst-4-ene-3,11-
+14 dione;
+15 (34) 4-hydroxy-19-nortestosterone;
+16 (35) 4-hydroxy-androst-4-ene-3,17-dione;
+17 (36) 4-hydroxytestosterone;
+18 (37) 5alpha-androstan-3,17-dione;
+19 (38) 5alpha-androstan-3,6,17-trione;
+20 (39) 5-androstenediol;
+21 (40) 5-androstenedione;
+22 (41) 6alpha-methyl-androst-4-ene-3,17-dione;
+23 (42) 6-bromo-androsta-1,4-diene-3,17-dione;
+24 (43) 6-bromo-androstan-3,17-dione;
+25 (44) Androstenedione;
+26 (45) Bolasterone;
+27 (46) Boldenone;
+28 (47) Boldione;
+29 (48) Calusterone;
+30 (49) Chlorotestosterone (4-chlorotestosterone);
+31 (50) Clostebol;
+32 (51) Dehydrochlormethyltestosterone;
+33 (52) Delta1-dihydrotestosterone (1-testosterone);
+34 (53) Desoxymethyltestosterone (madol);
+35 (54) Dihydrotestosterone (4-dihydrotestosterone);
+36 (55) Drostanolone;
+37 (56) Estra-4,9,11-triene-3,17-dione;
+38 (57) Ethylestrenol;
+39 (58) Fluoxymesterone;
+40 (59) Formebulone Formebolone;
+41 (60) Furazabol;
+42 (61) Human growth hormones;
+43 (62) Mestanolone;
+44 (63) Mesterolone;
+45 (64) Methandienone;
+46 (65) Methandranone;
+47 (66) Methandriol;
+48 (67) Methandrostenolone;
+49 (68) Methasterone (2a, 17a-dimethyl-5a-androstan-17β-ol-3-one);
+50 (69) Methenolone;
+
+18
+1 (70) Methyldienolone;
+2 (71) Methyltestosterone;
+3 (72) Methyltrienolone;
+4 (73) Mibolerone;
+5 (74) Nandrolone;
+6 (75) Norbolethone;
+7 (76) Norclostebol;
+8 (77) Norethandrolone;
+9 (78) Normethandrolone;
+10 (79) Oxandrolone;
+11 (80) Oxymesterone;
+12 (81) Oxymetholone;
+13 (82) Prostanozol (17β-hydroxy-5a-androstano[3,2-c]pyrazole);
+14 (83) Stanolone;
+15 (84) Stanozolol;
+16 (85) Stenbolone;
+17 (86) Testolactone;
+18 (87) Testosterone;
+19 (88) Testosterone cypionate;
+20 (89) Testosterone enanthate;
+21 (90) Testosterone propionate;
+22 (91) Tetrahydrogestrinone;
+23 (92) Trenbolone.
+24 Anabolic steroids that are expressly intended for administration
+25 through implants or injection to cattle or other nonhuman species, and that
+26 are approved by the federal Food and Drug Administration for such use, shall
+27 not be classified as controlled substances under this act and shall not be
+28 governed by its provisions.
+29 In addition to the penalties prescribed in article IV of the uniform
+30 controlled substances act, any person shall be guilty of a felony who pre-
+31 scribes, dispenses, supplies, sells, delivers, manufactures or possesses
+32 with the intent to prescribe, dispense, supply, sell, deliver or manufac-
+33 ture anabolic steroids or any other human growth hormone for purposes of
+34 enhancing performance in an exercise, sport or game or hormonal manipulation
+35 intended to increase muscle mass, strength or weight without a medical ne-
+36 cessity as determined by a physician.
+37 (g) Hallucinogenic substances.
+38 (1) Dronabinol (synthetic) in sesame oil and encapsulated in a soft
+39 gelatin capsule in the federal Food and Drug Administration ap-
+40 proved product -- 7369. (Some other names for dronabinol: (6aR-
+41 trans) -6a,7,8,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo
+42 [b,d]pyran-1-ol or (-)-delta-9-(trans)-tetrahydrocannabinol).
+43 (h) The board may except by rule any compound, mixture, or preparation
+44 containing any stimulant or depressant substance listed in subsection (b)
+45 or (c) of this section from the application of all or any part of this act if
+46 the compound, mixture, or preparation contains one (1) or more active medic-
+47 inal ingredients not having a stimulant or depressant effect on the central
+48 nervous system, and if the admixtures are included therein in combinations,
+49 quantity, proportion, or concentration that vitiate the potential for abuse
+
+19
+1 of the substances which have a stimulant or depressant effect on the central
+2 nervous system.
+3 SECTION 4. That Section 37-2711, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 37-2711. SCHEDULE IV. (a) Schedule IV shall consist of the drugs and
+6 other substances, by whatever official name, common or usual name, chemical
+7 name, or brand name designated, listed in this section.
+8 (b) Narcotic drugs. Unless specifically excepted or unless listed in
+9 another schedule, any material, compound, mixture, or preparation contain-
+10 ing any of the following narcotic drugs, or their salts calculated as the
+11 free anhydrous base or alkaloid, in limited quantities as set forth below:
+12 (1) No more than 1 milligram of difenoxin and not less than 25 micro-
+13 grams of atropine sulfate per dosage unit;
+14 (2) Dextropropoxyphene (alpha-(+)-4-dimethylamino-1, 2-diphenyl-
+15 3-methyl-2-propionoxybutane);
+16 (3) 2- [(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol (in-
+17 cluding tramadol) Tramadol, including its salts, optical and geometric
+18 isomers, and salts of isomers.
+19 (c) Depressants. Unless specifically excepted or unless listed in an-
+20 other schedule, any material, compound, mixture, or preparation which con-
+21 tains any quantity of the following substances, including its salts, iso-
+22 mers, and salts of isomers whenever the existence of such salts, isomers, and
+23 salts of isomers is possible within the specific chemical designation:
+24 (1) Alfaxalone 5[alpha]-pregnan-3[alpha]-ol-11,20-dione;
+25 (2) Alprazolam;
+26 (3) Barbital;
+27 (4) Brexanolone (allopregnanolone);
+28 (4) (5) Bromazepam;
+29 (5) (6) Camazepam;
+30 (6) (7) Carisoprodol;
+31 (7) (8) Chloral betaine;
+32 (8) (9) Chloral hydrate;
+33 (9) (10) Chlordiazepoxide;
+34 (10) (11) Clobazam;
+35 (11) (12) Clonazepam;
+36 (12) (13) Clorazepate;
+37 (13) (14) Clotiazepam;
+38 (14) (15) Cloxazolam;
+39 (15) (16) Daridorexant;
+40 (16) (17) Delorazepam;
+41 (17) (18) Diazepam;
+42 (18) (19) Dichloralphenazone;
+43 (19) (20) Estazolam;
+44 (20) (21) Ethchlorvynol;
+45 (21) (22) Ethinamate;
+46 (22) (23) Ethyl loflazepate;
+47 (23) (24) Fludiazepam;
+48 (24) (25) Flurazepam;
+49 (25) (26) Fospropofol;
+
+20
+1 (26) (27) Halazepam;
+2 (27) (28) Haloxazolam;
+3 (28) (29) Ketazolam;
+4 (29) (30) Lemborexant;
+5 (30) (31) Loprazolam;
+6 (31) (32) Lorazepam;
+7 (32) (33) Lormetazepam;
+8 (33) (34) Mebutamate;
+9 (34) (35) Medazepam;
+10 (35) (36) Meprobamate;
+11 (36) (37) Methohexital;
+12 (37) (38) Methylphenobarbital (mephobarbital);
+13 (38) (39) Midazolam;
+14 (39) (40) Nimetazepam;
+15 (40) (41) Nitrazepam;
+16 (41) (42) Nordiazepam;
+17 (42) (43) Oxazepam;
+18 (43) (44) Oxazolam;
+19 (44) (45) Paraldehyde;
+20 (45) (46) Petrichloral;
+21 (46) (47) Phenobarbital;
+22 (47) (48) Pinazepam;
+23 (48) (49) Prazepam;
+24 (49) (50) Quazepam;
+25 (50) (51) Remimazolam;
+26 (51) Serdexmethylpheniate;
+27 (52) Suvorexant;
+28 (53) Temazepam;
+29 (54) Tetrazepam;
+30 (55) Triazolam;
+31 (56) Zaleplon;
+32 (57) Zolpidem;
+33 (58) Zopiclone;
+34 (59) Zuranolone.
+35 (d) Fenfluramine -- Any material, compound, mixture, or preparation
+36 which contains any quantity of the following substances, including its
+37 salts, isomers (whether optical, position, or geometric), and salts of such
+38 isomers, whenever the existence of such salts, isomers, and salts of isomers
+39 is possible:
+40 (1) Dexfenfluramine;
+41 (2) Fenfluramine.
+42 (e) Stimulants. Unless specifically excepted or unless listed in an-
+43 other schedule, any material, compound, mixture, or preparation which con-
+44 tains any quantity of the following substances having a stimulant effect on
+45 the central nervous system, including its salts, isomers (whether optical,
+46 position, or geometric), and salts of such isomers whenever the existence
+47 of such salts, isomers, and salts of isomers is possible within the specific
+48 chemical designation:
+49 (1) Cathine ((+)-norpseudoephedrine);
+50 (2) Diethylpropion;
+
+21
+1 (3) Fencamfamin;
+2 (4) Fenproporex;
+3 (5) Lorcaserin;
+4 (6) Mazindol;
+5 (7) Mefenorex;
+6 (8) Modafinil;
+7 (9) Pemoline (including organometallic complexes and chelates
+8 thereof);
+9 (10) Phentermine;
+10 (11) Pipradrol;
+11 (12) Serdexmethylpheniate;
+12 (12) (13) Sibutramine;
+13 (13) (14) SPA ((-)-1-dimethylamino-1,2-diphenylethane);
+14 (14) (15) Solriamfetol(2-amino-3-phenylpropyl carbamata; benzene-
+15 propanol, beta-amino-, carbamate(ester)).
+16 (f) Other substances. Unless specifically excepted, or unless listed
+17 in another schedule, any material, compound, mixture or preparation which
+18 contains any quantity of the following substances, including its salts:
+19 (1) Brexanolone (3A-hydroxy-5A-pregnan-20-one), allopregnanolone;
+20 (2) (1) Butorphanol (including its optical isomers);
+21 (3) (2) Eluxadoline (5-[[[(2S)-2-amino-3-[4-aminocarbonyl)-2,6-
+22 dimethylphenyl]-1-oxopropyl][(1S)-1-(4-phenyl-1H-imidazol-2-
+23 yl)ethyl]amino]methyl]-2-methoxybenzoic acid) (including its optical
+24 isomers) and its salts, isomers, and salts of isomers);
+25 (4) (3) Pentazocine.
+26 (g) The board may except, by rule, any compound, mixture, or prepara-
+27 tion containing any depressant substance listed in subsection (c) of this
+28 section from the application of all or any part of this act if the compound,
+29 mixture, or preparation contains one (1) or more active medicinal ingredi-
+30 ents not having a depressant effect on the central nervous system, and if the
+31 admixtures are included therein in combinations, quantity, proportion, or
+32 concentration that vitiate the potential for abuse of the substances which
+33 have a depressant effect on the central nervous system.
+34 SECTION 5. That Section 37-2713, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 37-2713. SCHEDULE V. (a) Schedule V shall consist of the drugs and
+37 other substances, by whatever official name, common or usual name, chemical
+38 name, or brand name designated, listed in this section.
+39 (b) Narcotic drugs. Unless specifically excepted or unless listed in
+40 another schedule, any material, compound, mixture, or preparation contain-
+41 ing any of the following narcotic drugs and their salts, as set forth below.
+42 (c) Narcotic drugs containing nonnarcotic active medicinal ingredi-
+43 ents. Any compound, mixture, or preparation containing any of the follow-
+44 ing limited quantities of narcotic drugs or salts thereof, which shall in-
+45 clude one (1) or more nonnarcotic active medicinal ingredients in sufficient
+46 proportion to confer upon the compound, mixture, or preparation, valuable
+47 medicinal qualities other than those possessed by the narcotic drug alone:
+48 (1) Not more than 200 milligrams of codeine per 100 milliliters or per
+49 100 grams;
+
+22
+1 (2) Not more than 100 milligrams of dihydrocodeine per 100 milliliters
+2 or per 100 grams;
+3 (3) Not more than 100 milligrams of ethylmorphine per 100 milliliters
+4 or per 100 grams;
+5 (4) Not more than 2.5 milligrams of diphenoxylate and not less than 25
+6 micrograms of atropine sulfate per dosage unit;
+7 (5) Not more than 100 milligrams of opium per 100 milliliters or per 100
+8 grams;
+9 (6) Not more than 0.5 milligrams difenoxin and not less than 25 micro-
+10 grams of atropine sulfate per dosage unit.
+11 (d) Other substances. Unless specifically excepted or unless listed
+12 in another schedule, any material, compound, mixture or preparation which
+13 contains any quantity of the following substances, including its salts:
+14 (1) Brivaracetam ((2S)-2-[(4R)-2-oxo-4-propylpyrrolidin-1-yl]bu-
+15 tanamide) (also referred to as BRV; UCB-34714; Briviact) (including its
+16 salts);
+17 (2) Cenobamate[(1R)-1-(2-chlorophenyl)-2-(tetrazol-2-yl)ethyl]car-
+18 bamate;
+19 (3) Ezogabine [N-[2-amino-4-(4-fluorobenzylamino)-phenyl]-carbamic
+20 acid ethyl ester]-2779;
+21 (4) Ganaxolone (3-alpha-hydroxy-3-beta-methyl-5-alpha-preg-
+22 nan-20-one);
+23 (5) Lacosamide;
+24 (6) Lasmiditan [2,4,6-trifluoro-N-(6-(1-methylpiperidine-4-car-
+25 bonyl)pyridine-2-yl)benzamide];
+26 (7) Pregabalin;
+27 (8) Pyrovalerone.
+28 SECTION 6. That Section 37-2716, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 37-2716. REGISTRATION REQUIREMENTS. (a) Every person who manufac-
+31 tures, distributes, prescribes, administers, or conducts research with any
+32 controlled substance within this state shall obtain annually biennially a
+33 registration issued by the board in accordance with Idaho law. All drug out-
+34 lets with a valid license or registration under chapter 17, title 54, Idaho
+35 Code, are exempt from obtaining a separate controlled substance registra-
+36 tion.
+37 (b) Every dispenser and prescriber, except veterinarians, shall also
+38 register with the division to obtain online access to the controlled sub-
+39 stances prescriptions database.
+40 (c) Persons registered by the board under this chapter may possess,
+41 manufacture, distribute, dispense, prescribe, administer, or conduct re-
+42 search with those substances to the extent authorized by their registration
+43 and licensing entity and in conformity with the other provisions of this
+44 chapter.
+45 (d) The following persons need not register and may lawfully possess
+46 controlled substances under this chapter:
+47 (1) An agent or employee of any person registered pursuant to this chap-
+48 ter, if he is acting in the usual course of his business or employment;
+
+23
+1 (2) A common or contract carrier or warehouseman, or an employee
+2 thereof, whose possession of any controlled substance is in the usual
+3 course of business or employment;
+4 (3) An ultimate user or a person in possession of any controlled sub-
+5 stance pursuant to a lawful order of a practitioner or in lawful posses-
+6 sion of a schedule V substance.
+7 (e) A separate registration is required at each principal place of
+8 business or professional practice where the applicant manufactures, dis-
+9 tributes, administers, dispenses, or conducts research with controlled
+10 substances, except a separate registration is not required under this chap-
+11 ter for practitioners engaging in research with nonnarcotic controlled
+12 substances in schedules II through IV where the practitioner is already reg-
+13 istered under this chapter in another capacity.
+14 (f) Practitioners registered under federal law to conduct research
+15 with schedule I substances may conduct research with schedule I substances
+16 within this state upon registering in Idaho and furnishing the board with
+17 evidence of the practitioner's federal registration.
+18 (g) The board may inspect the establishment of a registrant or appli-
+19 cant for registration in accordance with Idaho law.
+20 SECTION 7. That Section 37-2717, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 37-2717. REGISTRATION. The board shall register an applicant to man-
+23 ufacture, prescribe, administer, dispense, distribute or conduct research
+24 with controlled substances included in sections 37-2705, 37-2707, 37-2709,
+25 37-2711 and 37-2713, Idaho Code, unless it determines that the issuance of
+26 that registration would be inconsistent with the public interest. In deter-
+27 mining the public interest, the board shall consider the following factors:
+28 (a) Maintenance of effective controls against diversion of controlled
+29 substances into other than legitimate medical, scientific, or industrial
+30 channels;
+31 (b) Compliance with applicable state and local law;
+32 (c) Any convictions of the applicant under any federal and state laws
+33 relating to any controlled substance;
+34 (d) Past experience Experience in the manufacture, dispensing,
+35 prescribing, administering, research or distribution of controlled sub-
+36 stances, and the existence in the applicant's establishment of effective
+37 controls against diversions;
+38 (e) Furnishing by the applicant of false or fraudulent material in any
+39 application filed under this chapter;
+40 (f) Restriction, suspension or revocation of the applicant's federal
+41 registration; and
+42 (g) Any other factors relevant to and consistent with the public health
+43 and safety.
+44 SECTION 8. That Section 37-2718, Idaho Code, be, and the same is hereby
+45 amended to read as follows:
+
+24
+1 37-2718. DISCIPLINE. (a) A registration under section 37-2717, Idaho
+2 Code, may be restricted, suspended or revoked by the board upon a finding
+3 that the registrant:
+4 (1) Has furnished false or fraudulent material information in any ap-
+5 plication filed under this act;
+6 (2) Has been found guilty of a felony or misdemeanor under any state or
+7 federal law relating to any controlled substance;
+8 (3) Has had his federal registration restricted, suspended or revoked;
+9 or
+10 (4) Has violated this chapter, any rule of the board promulgated un-
+11 der this act, an order of the board or any federal regulation relating to
+12 controlled substances; provided, however, that no restriction, revoca-
+13 tion or suspension procedure be initiated under this paragraph without
+14 the board first giving notice of the procedure to the state licensing
+15 board with authority over the registrant's professional license.
+16 (b) The notice required in subsection (a)(4) of this section shall be
+17 given immediately in the event action is taken without an order to show cause
+18 as allowed under section 37-2719(b), Idaho Code. In all other cases, such
+19 notice shall be given as early as reasonably practicable without risking
+20 compromise of the board's investigation but no later than the earlier of:
+21 (1) Issuance of an order to show cause under section 37-2719(a), Idaho
+22 Code; or
+23 (2) Setting of a hearing for approval of a resolution of the matter
+24 through informal proceedings.
+25 (c) Restriction, revocation or suspension procedures arising solely
+26 from "practice-related issues" shall be referred by the board to such regis-
+27 trant's state licensing board.
+28 (1) Upon such referral, the registrant's state licensing board shall
+29 commence such investigation of the referred matter as it deems neces-
+30 sary and shall take action upon the registrant's license or shall inform
+31 the board of pharmacy, in writing, that it has investigated the referred
+32 matter and has concluded that no action is necessary.
+33 (2) For purposes of this section, the term "practice-related issues"
+34 refers to issues involving questions regarding the professional con-
+35 duct of the registrant within the scope of the registrant's profession.
+36 (d) The board may limit the revocation or suspension of a registration
+37 to the particular controlled substance with respect to which grounds for re-
+38 vocation or suspension exist.
+39 (e) If the board restricts, suspends or revokes a registration, all
+40 pertinent controlled substances owned or possessed by the registrant at the
+41 time of the restriction or suspension or the effective date of the revocation
+42 order may shall be placed under seal. No disposition may be made of sub-
+43 stances under seal until the time for taking an appeal has elapsed or until
+44 all appeals have been concluded unless a court, upon application therefor,
+45 orders the sale of perishable substances and the deposit of the proceeds of
+46 the sale with the court. Upon a revocation order becoming final, all con-
+47 trolled substances may be forfeited to the state for transfer to a reverse
+48 distributor.
+49 (f) The board shall promptly notify the bureau and the state licensing
+50 board with authority over the registrant's professional license of all or-
+
+25
+1 ders restricting, suspending or revoking registration and all forfeitures
+2 of controlled substances.
+3 (g) In the event the drug enforcement administration or a state li-
+4 censing board with authority over a registrant's professional license or
+5 registration takes an action against the registrant in any fashion which
+6 suspends, restricts, limits or affects the registrant's ability to manufac-
+7 ture, distribute, prescribe, administer, dispense, or conduct research with
+8 any controlled substance, the professional licensing board shall promptly
+9 notify the board of pharmacy of the action.
+10 (1) Upon such action, the board of pharmacy shall be authorized to issue
+11 its order suspending, restricting, limiting or otherwise affecting the
+12 registrant's controlled substance registration in the same fashion as
+13 the professional licensing board action.
+14 (2) The board of pharmacy order may be issued without further hearing or
+15 proceeding, but shall be subject to the effect of any reversal or modi-
+16 fication of the professional licensing board action by reason of any ap-
+17 peal or rehearing.
+18 SECTION 9. That Section 37-2719, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 37-2719. ORDER TO SHOW CAUSE. (a) Except as set forth in section
+21 37-2718(g), Idaho Code, before denying, restricting, suspending or revoking
+22 a registration, or refusing a renewal of registration, the board shall serve
+23 upon the applicant or registrant an order to show cause why the registration
+24 should not be restricted, denied, revoked, or suspended, or why the renewal
+25 should not be refused. The order to show cause shall contain a statement
+26 of the basis therefor for discipline and shall call upon the applicant or
+27 registrant to appear before the board at a time and place not less than thirty
+28 (30) days after the date of service of the order, but in the case of a an
+29 anticipated denial or of renewal of registration the show cause order shall
+30 be served not later than thirty (30) days before the expiration of the reg-
+31 istration. These proceedings shall be conducted in accordance with chapter
+32 52, title 67, Idaho Code, without regard to any criminal prosecution or other
+33 proceeding. Proceedings to refuse renewal of registration shall not abate
+34 the existing registration which shall remain in effect pending the outcome
+35 of the administrative hearing.
+36 (b) The board may suspend, without an order to show cause, any regis-
+37 tration simultaneously with the institution of proceedings under section
+38 37-2718, Idaho Code, or where renewal of registration is refused, if it finds
+39 that there is an imminent danger to the public health or safety which war-
+40 rants this action. The suspension shall continue in effect until the conclu-
+41 sion of the proceedings, including judicial review thereof, unless sooner
+42 withdrawn by the board or dissolved by a court of competent jurisdiction.
+43 (c) In conjunction with a proceeding for denying, restricting, sus-
+44 pending or revoking a registration, or refusing a renewal of registration,
+45 and upon a finding of grounds for such denial, restriction, suspension,
+46 revocation or refusal to renew, the board may also impose an a reasonable ad-
+47 ministrative fine not to exceed two thousand dollars ($2,000) per occurrence
+48 and additionally may include forfeiture of illicit profits and the costs of
+
+26
+1 prosecution and administrative costs of bringing the action including, but
+2 not limited to, attorney's fees and costs and costs of hearing transcripts.
+3 SECTION 10. That Section 37-2720, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 37-2720. RECORDS -- DRUG STORAGE -- INVENTORY. Persons registered un-
+6 der this chapter shall keep records, store controlled substances and main-
+7 tain inventories in conformance with the recordkeeping, storage and inven-
+8 tory requirements of state and federal law and with any additional rules the
+9 board issues.
+10 SECTION 11. That Section 37-2722, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 37-2722. ISSUING, DISTRIBUTING, AND DISPENSING OF CONTROLLED SUB-
+13 STANCES. No person shall issue or dispense a prescription drug order for a
+14 controlled substance unless it is in compliance with applicable state and
+15 federal law and rules of the board.
+16 (a) Controlled substances included in schedule I shall be distributed
+17 only by a registrant to another registrant pursuant to the federal drug en-
+18 forcement administration (DEA) order form 222.
+19 (b) Controlled substances included in schedule II shall:
+20 (1) Be distributed only by a registrant to another registrant pursuant
+21 to DEA order form 222.
+22 (2) Be dispensed only pursuant to a valid prescription drug order, ex-
+23 cept when dispensed directly by a prescriber.
+24 (3) Not be refilled.
+25 (4) Include a quantity that is both spelled out in English and written
+26 in numerical form, when a written prescription drug order is required.
+27 (c) Controlled substances included in schedule III or IV shall:
+28 (1) Be dispensed only pursuant to a valid prescription drug order, ex-
+29 cept when dispensed directly by a prescriber.
+30 (2) Not be filled or refilled more than six (6) months after the date
+31 thereof or be refilled more than five (5) times, unless renewed by the
+32 practitioner.
+33 (d) Controlled substances included in schedule V shall not be dis-
+34 tributed or dispensed other than for a medical purpose.
+35 (e) A pharmacist may dispense a controlled substance pursuant to a
+36 valid prescription drug order of an individual licensed in a jurisdiction
+37 other than the state of Idaho as long as the individual is acting within the
+38 jurisdiction, scope and authority of his license.
+39 (f) Prior to issuing to a patient a prescription for outpatient use
+40 for an opioid analgesic or benzodiazepine listed in schedule II, III, or
+41 IV, the prescriber or the prescriber's delegate shall review the patient's
+42 prescription drug history for the preceding twelve (12) months from the pre-
+43 scription drug monitoring program and evaluate the data for indicators of
+44 prescription drug diversion or misuse. This review is not required:
+45 (1) For patients:
+46 (i) i. Receiving treatment in an inpatient setting;
+47 (ii) ii. At the scene of an emergency or in an ambulance;
+
+27
+1 (iii) iii. In hospice care; or
+2 (iv) iv. In a skilled nursing home care facility; or
+3 (2) For a prescription in a quantity intended to last no more than three
+4 (3) days.
+5 (g) Subsection (f) of this section shall be effective on and after Octo-
+6 ber 1, 2020, and shall apply only to individuals required by this chapter to
+7 register for the prescription drug monitoring program.
+8 SECTION 12. That Section 37-2726, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 37-2726. FILING PRESCRIPTIONS -- DATABASE. (1) All controlled sub-
+11 stances and opioid antagonists as defined in section 54-1704, Idaho Code,
+12 dispensed for humans shall be filed with the division electronically in a
+13 format established by the division. The division may require the filing of
+14 other prescriptions by law or rule. The division shall establish the in-
+15 formation to be submitted pursuant to the purposes of this section and the
+16 purposes set forth in section 37-2730A, Idaho Code.
+17 (2) The division shall create, operate and maintain a controlled
+18 substances prescriptions database containing the information submitted
+19 pursuant to subsection (1) of this section to be used for the purposes
+20 and subject to the terms, conditions and immunities described in section
+21 37-2730A, Idaho Code. The division shall retain the information submitted
+22 pursuant to subsection (1) of this section for a period of five (5) years from
+23 the date the controlled substance was dispensed. The database information
+24 must may be made available only to the following:
+25 (a) Authorized individuals employed by the division, Idaho's boards,
+26 or other states' licensing entities charged with the licensing and dis-
+27 cipline of practitioners;
+28 (b) Peace officers and investigators employed by federal, state and lo-
+29 cal law enforcement agencies engaged as a specified duty of their em-
+30 ployment in enforcing law regulating controlled substances;
+31 (c) Authorized individuals under the direction of the department of
+32 health and welfare for the purpose of monitoring and enforcing that
+33 department's responsibilities under the public health, medicare and
+34 medicaid laws;
+35 (d) A practitioner, licensed in Idaho or another state, having author-
+36 ity to prescribe controlled substances, or a delegate under the prac-
+37 titioner's supervision, to the extent the information relates specifi-
+38 cally to a current patient of the practitioner to whom the practitioner
+39 is prescribing or considering prescribing any controlled substance;
+40 (e) A pharmacist, licensed in Idaho or another state, having author-
+41 ity to dispense controlled substances, or a delegate under the pharma-
+42 cist's supervision, to the extent the information relates specifically
+43 to a current patient to whom that pharmacist is dispensing or consid-
+44 ering dispensing any controlled substance, or providing pharmaceutical
+45 care as defined in the Idaho pharmacy act;
+46 (f) An individual who is the recipient of a dispensed controlled sub-
+47 stance entered into the database may access records that pertain to that
+48 individual, upon the production of positive identification, or that in-
+49 dividual's designee upon production of a notarized release of informa-
+
+28
+1 tion by that individual that is notarized or otherwise certified pur-
+2 suant to section 9-1406, Idaho Code;
+3 (g) Upon a lawful order issued by the presiding judge in a court of com-
+4 petent jurisdiction for the release of prescription monitoring program
+5 records of a named individual;
+6 (h) Prosecuting attorneys, deputy prosecuting attorneys, and special
+7 prosecutors of a county or city employed by federal, state, county, or
+8 local agencies and special assistant attorneys general from the office
+9 of the attorney general engaged in enforcing law regulating controlled
+10 substances; and
+11 (i) A medical examiner or coroner who is an officer of or employed by a
+12 state or local government, for determining a cause of death or for per-
+13 forming other duties authorized by law.
+14 (3) The division shall require pharmacists and prescribers, except
+15 veterinarians, to register with the division to obtain online access to the
+16 controlled substances prescriptions database.
+17 (4) (3) The division must maintain records on the information disclosed
+18 from the database, including:
+19 (a) The identification of each individual who requests or receives in-
+20 formation from the database and who that individual represents;
+21 (b) The information provided to each such individual; and
+22 (c) The date and time the information is requested or provided.
+23 (5) (4) The division shall ensure that only authorized individuals have
+24 access to the database.
+25 (6) (5)(a) Any person who knowingly misrepresents to the division that
+26 he is a person entitled under subsection (2) of this section to receive
+27 information from the controlled substances prescriptions database un-
+28 der the conditions therein provided, and who receives information from
+29 the controlled substances prescriptions database resulting from that
+30 misrepresentation, A person is guilty of a misdemeanor if such person:
+31 (i) Knowingly misrepresents to the division that he is a person
+32 entitled to receive information from the controlled substances
+33 prescriptions database pursuant to subsection (2) of this section
+34 and receives information from the controlled substances prescrip-
+35 tions database as a result of such misrepresentation;
+36 (ii) Knowingly discloses information obtained from the con-
+37 trolled substances prescriptions database that identifies an in-
+38 dividual patient to a person not authorized to receive or use such
+39 information under any state or federal law, rule, or regulation,
+40 without the lawful order of a court of competent jurisdiction, or
+41 without written authorization. The provisions of this subpara-
+42 graph shall not apply to disclosure of individual patient infor-
+43 mation by the patient himself or disclosure of individual patient
+44 information by a federal, state, or local prosecuting attorney,
+45 a deputy prosecuting attorney or special prosecutor, or a special
+46 assistant attorney general from the office of the attorney general
+47 in the course of a criminal proceeding, whether preconviction or
+48 post-conviction; or
+49 (iii) Intentionally shares or recklessly fails to safeguard a
+50 division-issued user account, login name, or password, result-
+
+29
+1 ing in another person obtaining information from the controlled
+2 substances prescriptions database when such other person is not
+3 authorized to receive or use such information under the provisions
+4 of any state or federal law, rule, or regulation.
+5 (b) Any person who violates the provisions of paragraph (a) of this sub-
+6 section shall be guilty of a misdemeanor, punishable by imprisonment in
+7 a county jail not to exceed six (6) months, or by a fine not to exceed
+8 two thousand dollars ($2,000), or both. The foregoing criminal penalty
+9 is in addition to, and not in lieu of, any other civil or administrative
+10 penalty or sanction authorized by law.
+11 (7) Any person in possession, whether lawfully or unlawfully, of infor-
+12 mation from the controlled substances prescriptions database that identi-
+13 fies an individual patient and who knowingly discloses such information to a
+14 person not authorized to receive or use such information under any state or
+15 federal law or rule or regulation, or the lawful order of a court of competent
+16 jurisdiction, or without written authorization of the individual patient
+17 shall be guilty of a misdemeanor, punishable by imprisonment in a county jail
+18 not to exceed six (6) months, or by a fine not to exceed two thousand dollars
+19 ($2,000), or both. The foregoing criminal penalty is in addition to, and not
+20 in lieu of, any other civil or administrative penalty or sanction authorized
+21 by law. The provisions of this subsection shall not apply to disclosure of
+22 individual patient information by the patient himself. The provisions of
+23 this subsection shall not apply to disclosure of information by a prosecut-
+24 ing attorney, deputy prosecuting attorney or special prosecutor of a county
+25 or city or by a special assistant attorney general from the office of the at-
+26 torney general in the course of a criminal proceeding, whether preconviction
+27 or postconviction.
+28 (8) Any person with access to the division's online prescription mon-
+29 itoring program pursuant to a division-issued user account, login name and
+30 password who intentionally shares or recklessly fails to safeguard his user
+31 account, login name and password, resulting in another person not authorized
+32 to receive or use such information under the provisions of any state or fed-
+33 eral law, rule or regulation obtaining information from the controlled sub-
+34 stances prescriptions database, shall be guilty of a misdemeanor, punish-
+35 able by imprisonment in a county jail not to exceed six (6) months or by a fine
+36 not to exceed two thousand dollars ($2,000), or both. The foregoing criminal
+37 penalty is in addition to, and not in lieu of, any other civil or administra-
+38 tive penalty or sanction authorized by law.
+39 (9) (6) The division may, at its discretion, block access to certain
+40 controlled substances prescriptions database data if the division has rea-
+41 son to believe that access to the data is or may be used illegally.
+42 (10) (7) All costs associated with recording and submitting data as re-
+43 quired in this section are assumed by the dispensing practitioner recording
+44 and submitting the data.
+45 (11) (8) For purposes of this section, "delegate" means a nurse, medi-
+46 cal or office assistant, current student of a health profession if the health
+47 care staff, current health profession student of a licensed practitioner or
+48 registered graduate of such profession who may access the database, or a reg-
+49 istered pharmacy technician who is designated by a supervising practitioner
+
+30
+1 or pharmacist to access the database according to the provisions of this sec-
+2 tion and who must register with the division for such access.
+3 SECTION 13. That Section 37-2731, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 37-2731. INFORMATION REQUIRED ON LABEL. A practitioner with statutory
+6 authority to dispense a controlled substance shall affix to the package a la-
+7 bel pursuant to board rule Idaho law.
+8 SECTION 14. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2026.

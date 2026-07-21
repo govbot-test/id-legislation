@@ -1,0 +1,300 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 826
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO THE HONEY INDUSTRY; AMENDING SECTION 22-2803, IDAHO CODE, TO
+3 DEFINE A TERM, TO REVISE A DEFINITION, AND TO MAKE A TECHNICAL CORREC-
+4 TION; AMENDING SECTION 22-2804, IDAHO CODE, TO REVISE TERMINOLOGY, TO
+5 REMOVE A PROVISION REGARDING COMMISSION TERMS, AND TO MAKE A TECHNICAL
+6 CORRECTION; AMENDING SECTION 22-2807, IDAHO CODE, TO REMOVE A PROVI-
+7 SION REGARDING RULES; REPEALING SECTION 22-2808, IDAHO CODE, RELATING
+8 TO RULES, STANDARDS, AND DEFINITIONS; AMENDING SECTION 22-2809, IDAHO
+9 CODE, TO REMOVE A DATE REFERENCE, TO REVISE TERMINOLOGY, AND TO REMOVE A
+10 REFERENCE; AMENDING SECTION 22-2810, IDAHO CODE, TO REMOVE PROVISIONS
+11 REGARDING RULES, TO PROVIDE FOR THE UNITED STATES STANDARDS FOR GRADES
+12 OF EXTRACTED HONEY, TO PROVIDE FOR AUTHORITY OF THE DIRECTOR, AND TO
+13 CORRECT A CODE REFERENCE; REPEALING SECTION 22-2811, IDAHO CODE, RELAT-
+14 ING TO PENALTIES FOR VIOLATIONS; AMENDING CHAPTER 28, TITLE 22, IDAHO
+15 CODE, BY THE ADDITION OF A NEW SECTION 22-2811, IDAHO CODE, TO ESTAB-
+16 LISH PROVISIONS REGARDING PENALTIES FOR VIOLATIONS; AMENDING SECTION
+17 22-2812, IDAHO CODE, TO REMOVE PROVISIONS REGARDING RULES; AMENDING
+18 SECTION 22-2813, IDAHO CODE, TO REVISE TERMINOLOGY AND TO MAKE A TECHNI-
+19 CAL CORRECTION; REPEALING SECTION 22-2815, IDAHO CODE, RELATING TO THE
+20 PUBLICATION OF REGISTERED BEEKEEPERS; PROVIDING THAT CERTAIN ADMINIS-
+21 TRATIVE RULES CONTAINED IN IDAPA 02.06.16 SHALL BE NULL, VOID, AND OF NO
+22 FORCE AND EFFECT; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+23 DATE.
+24 Be It Enacted by the Legislature of the State of Idaho:
+25 SECTION 1. That Section 22-2803, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 22-2803. DEFINITIONS. Whenever used or referred to in this chapter,
+28 unless a different meaning clearly appears from the context:
+29 (1) "Commission" means the Idaho honey commission.
+30 (2) "Department" means the Idaho state department of agriculture.
+31 (3) "Director" means the director of the department or the director's
+32 designated representative.
+33 (2) (4) "Honey producer" or "beekeeper" means a person, firm or corpo-
+34 ration engaged in the art of raising, harboring, keeping or breeding domes-
+35 ticated honey bees either for the purpose of gathering honey or the produc-
+36 tion of queens and/or packaged bees.
+37 (3) (5) "Honey by-products" means items using honey as a base such as
+38 creamed honey, whipped honey, or the like.
+39 (4) (6) "Packer" means any honey producer or beekeeper or person who
+40 processes and packs honey for commercial retail sales.
+41 (5) (7) "Person" includes an individual, partnership, corporation,
+42 firm, association and agent.
+
+2
+1 (6) "Director" means the director of the Idaho state department of
+2 agriculture or his designated representative.
+3 (7) (8) "Official sample" means a sample of honey taken by the director
+4 or an authorized agent in accordance with the provisions of section 22-2810,
+5 Idaho Code.
+6 SECTION 2. That Section 22-2804, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 22-2804. COMMISSION -- MEMBERS -- QUALIFICATIONS -- APPOINTMENT --
+9 COMPENSATION. (1) There is hereby created and established in the department
+10 of agriculture the Idaho honey commission to be known and designated as such,
+11 and shall be composed of the director of the department and three (3) members
+12 who shall be honey producers or beekeepers.
+13 (2) Each member shall be a resident citizen of the state of Idaho for a
+14 period of five (5) years prior to his appointment, shall be a commercial bee-
+15 keeper as defined in section 22-2502, Idaho Code, actively engaged in honey
+16 production, registered as a beekeeper with the Idaho department of agricul-
+17 ture, and deriving a substantial portion of his income from honey produc-
+18 tion, or be the directing or managing head of a corporation, firm, partner-
+19 ship or other business unit that derives a substantial portion of its income
+20 from honey production. To continue as a member of the commission each member
+21 must remain qualified pursuant to the provisions of this section.
+22 (3) The executive committee of the Idaho honey industry association may
+23 request the removal of a commissioner, with or without cause, by a majority
+24 vote. Upon receipt of such a request, the governor may immediately withdraw
+25 the commissioner's appointment.
+26 (4) The Idaho honey industry association shall meet for the purpose of
+27 nominating members of the commission. The board of directors shall review
+28 the names of active beekeepers in Idaho that meet the qualifications as pro-
+29 vided in this section. By June 1 of each year, the names of two (2) honey pro-
+30 ducers or beekeepers nominated by the association for each vacancy occurring
+31 on the commission shall be submitted to the governor for his consideration.
+32 From such list of nominees, the governor shall designate and appoint one (1)
+33 member for each vacancy on the commission.
+34 (5) Members shall serve for a term of three (3) years. Terms shall
+35 expire on the last day of June of the year in which the term for which the
+36 members member was appointed terminates. Provided however, each member
+37 shall serve until his respective successor is appointed and qualified. Ap-
+38 pointments to fill vacancies shall be for the balance of the unexpired term.
+39 On and after the effective date of this act, terms that are currently vacant
+40 or held by the commission members shall expire and be filled on the following
+41 schedule: one (1) member term shall expire on June 30, 2015; one (1) member
+42 term shall expire on June 30, 2016; and one (1) member term shall expire on
+43 June 30, 2017.
+44 (6) Commission members shall elect a chairman. The chairman may del-
+45 egate the function of the Idaho honey commission to an administrator whose
+46 function will be subject to the approval of the Idaho honey commission.
+47 (7) A majority of the members of the commission shall constitute a quo-
+48 rum for the transaction of all business and the carrying out of the duties of
+49 the commission. Before entering on the discharge of their duties as members
+
+3
+1 of the commission, each member shall take and subscribe to the oath of office
+2 prescribed by law.
+3 (8) Each member of the commission shall be compensated as provided by
+4 section 59-509(n), Idaho Code. The commission shall meet regularly once
+5 each fiscal year at a date established by said commission in its designated
+6 business office, and it shall fix the time and place of special meetings as
+7 may be deemed necessary by the chairman of the commission.
+8 SECTION 3. That Section 22-2807, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 22-2807. DUTIES. The commission shall set honey quality, identity and
+11 labeling standards by rule, plan and conduct a campaign for honey and honey
+12 by-product advertising, publicity, merchandising, sales promotion and re-
+13 search, including bee research, and public education of beekeeping and honey
+14 production, by contracting with a service of the hereinabove mentioned, or
+15 jointly with any university or other state agency or states of the United
+16 States and its territories, or individually.
+17 SECTION 4. That Section 22-2808, Idaho Code, be, and the same is hereby
+18 repealed.
+19 SECTION 5. That Section 22-2809, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 22-2809. LEVY AND COLLECTION OF TAXES -- CHANGE OF TAX BY REFERENDUM
+22 -- VIOLATIONS -- PENALTY. (1) There is hereby levied and imposed upon each
+23 colony or hive of bees within the state of Idaho on July 1 of each year a con-
+24 tinuing annual tax of five cents (5¢) per hive or colony of bees beginning in
+25 the year 1970 for the purpose of carrying out the provisions of this chapter.
+26 Hobbyist beekeepers, as defined in chapter 25, title 22, Idaho Code, are ex-
+27 empt from taxation under this section. Provided however, that any hobbyist
+28 beekeeper who desires to support the efforts of the commission, as set forth
+29 in section 22-2807, Idaho Code, and desires to be included in registration
+30 lists distributed as authorized under section 22-2815, Idaho Code, may reg-
+31 ister with the commission for that purpose by remitting an annual registra-
+32 tion fee of ten dollars ($10.00).
+33 (2) The tax may be decreased to not less than three cents (3¢) per hive
+34 or colony per year or it may be increased to not more than ten cents (10¢) per
+35 hive or colony per year, if approved by a majority of the beekeepers voting in
+36 a referendum held for the purpose of determining whether such levy of the tax
+37 shall or shall not be changed. If the levy of the tax is changed, the levy of
+38 the tax will continue annually at the changed rate until again changed by an-
+39 other referendum. Any resident of Idaho who is a registered Idaho beekeeper
+40 with the department of agriculture, and is not exempt from taxation as pro-
+41 vided in subsection (1) of this section, may vote at such referendum. Any
+42 referendum held for the purpose of changing the levy of such tax shall be held
+43 at the annual meeting of the Idaho honey industry association or any succes-
+44 sor organization to this group.
+45 (3) Notice of the tax provided for in this section shall be mailed no
+46 later than June 1 and the tax shall be due and payable on or before July 1 of
+
+4
+1 each year, and it shall be collected by the Idaho department of agriculture
+2 and shall forthwith be paid over by the Idaho department of agriculture to
+3 the Idaho honey fund.
+4 (4) Said tax shall be a lien upon all apicultural products, equipment,
+5 bees and property of the person owning or controlling such bees and shall
+6 be prior to all other liens or encumbrances except liens which are declared
+7 prior by operation of the statutes of this state.
+8 (5) Hives brought into the state for indoor winter storage prior to mov-
+9 ing to another state for pollination or honey production are exempt from pay-
+10 ing fees and taxes as provided for in this section. Provided however, reg-
+11 istration shall be required and a minimum of the following information shall
+12 be supplied: location of the storage, approximate dates the hive or hives
+13 will be brought into and leave the state, name, address and telephone num-
+14 ber of the owner of the bees, and name, address and telephone number of an
+15 in-state contact who will have knowledge of the hive or hives being stored in
+16 the state.
+17 SECTION 6. That Section 22-2810, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 22-2810. SAMPLING AND ANALYSIS. (1) For the purpose of enforcement of
+20 this chapter, and in order to determine whether its provisions have been com-
+21 plied with, including whether or not any operations may be subject to such
+22 provisions, officers or employees duly designated by the director or com-
+23 mission upon presenting appropriate credentials, to the owner, operator, or
+24 agent in charge, are authorized upon written complaint:
+25 (a) To enter, during normal business hours, any factory, warehouse, or
+26 establishment within the state in which honey is processed, packed, or
+27 held for distribution for retail sales, or to enter any vehicle being
+28 used to transport or hold such honey, and sample such honey that is pack-
+29 aged and labeled for retail sale.
+30 (b) To inspect at reasonable times and within reasonable limits and in
+31 a reasonable manner, such factory, warehouse, establishment or vehicle
+32 and all pertinent equipment, finished and unfinished materials, con-
+33 tainers, and labeling therein, related to retail sales. The inspection
+34 may include the verification of only such records, and production and
+35 control procedures as may be necessary to determine compliance with the
+36 good manufacturing practice rules established under the provisions of
+37 this chapter United States standards for grades of extracted honey.
+38 Each inspection shall be commenced and completed with reasonable
+39 promptness. Upon completion of the inspection, the person in charge of
+40 the facility or vehicle shall be so notified.
+41 (2) Sampling and analysis shall be conducted in accordance with methods
+42 prescribed in rules, or in accordance with other generally recognized meth-
+43 ods the United States standards for grades of extracted honey.
+44 (3) The director or commission, in determining for administrative pur-
+45 poses whether a honey is adulterated, shall be guided by the official sample
+46 as defined in subsection (7) of section 22-2803, Idaho Code, and obtained and
+47 analyzed as provided for in this section.
+48 (4) If the owner of any factory, warehouse, or establishment described
+49 in subsection (1) of this section, or authorized agent, refuses to admit the
+
+5
+1 director, commission or an authorized agent to inspect in accordance with
+2 subsections (1) and (5) of this section, the director or commission is autho-
+3 rized to obtain from any state court of competent jurisdiction a warrant di-
+4 recting such owner or agent to submit the premises described in such warrant
+5 to inspection.
+6 (5) For the enforcement of this chapter, the director, commission or
+7 a duly authorized agent is authorized to enter upon any public or private
+8 premises including any vehicle of transport during regular business hours
+9 to have access to, and to obtain samples, and to examine and make copies of
+10 records relating to distribution of honey packaged and labeled for retail
+11 sale to the public.
+12 (6) The results of all analyses of official samples shall be forwarded
+13 by the director or commission to the packer and to the purchaser or retailer.
+14 When the inspection and analysis of an official sample indicate the honey has
+15 been adulterated or mislabeled, and upon request by the packer or purchaser
+16 or retailer within thirty (30) days following the receipt of the analysis,
+17 the director or commission shall furnish to the packer or purchaser or re-
+18 tailer a portion of the sample concerned.
+19 SECTION 7. That Section 22-2811, Idaho Code, be, and the same is hereby
+20 repealed.
+21 SECTION 8. That Chapter 28, Title 22, Idaho Code, be, and the same is
+22 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+23 ignated as Section 22-2811, Idaho Code, and to read as follows:
+24 22-2811. PENALTIES FOR VIOLATIONS. (1) Any person that violates or
+25 fails to comply with any of the provisions of this chapter may be assessed
+26 a civil penalty by the department or its duly authorized agent of no more
+27 than ten thousand dollars ($10,000) for each offense and shall be liable for
+28 reasonable attorney's fees.
+29 (2) Assessment of a civil penalty may be made in conjunction with any
+30 other department administrative action.
+31 (3) No civil penalty may be assessed unless the person charged was given
+32 notice and opportunity for a hearing pursuant to the Idaho administrative
+33 procedure act.
+34 (4) If the department is unable to collect such penalty or if any person
+35 fails to pay all or a set portion of the civil penalty as determined by the
+36 department, it may recover such amount by action in the appropriate district
+37 court.
+38 (5) Any person against which the department has assessed a civil
+39 penalty under the provisions of this section may, within thirty (30) days of
+40 the final action by the agency making the assessment, appeal the assessment
+41 to the district court of the county in which the violation is alleged by the
+42 department to have occurred.
+43 (6) All civil penalties collected pursuant to this section shall be re-
+44 mitted to the department.
+45 SECTION 9. That Section 22-2812, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+
+6
+1 22-2812. "STOP SALE, USE, OR REMOVAL" ORDERS. (1) In the event the
+2 department finds that honey is being offered for sale in violation of this
+3 chapter or rules promulgated under this chapter, the department may issue
+4 and enforce a written or printed "stop sale, use, or removal" order to the
+5 distributor, owner or custodian of the honey and hold the honey, or order it
+6 held, at a designated place until the law has been complied with and the honey
+7 is released in writing by the department, or the violation has been otherwise
+8 legally disposed of by written authority. Unless the department grants a
+9 written extension, the owner or custodian of any honey that has been issued a
+10 "stop sale, use, or removal" order shall remedy the violation within thirty
+11 (30) days. The department shall release the honey so withdrawn when the re-
+12 quirements of this chapter have been complied with and all costs and expenses
+13 incurred in connection with the withdrawal have been paid.
+14 (2) Any lot of honey not in compliance with the provisions of this chap-
+15 ter, or rules promulgated under this chapter, shall be subject to seizure on
+16 complaint of the commission to a court of competent jurisdiction in the area
+17 in which said honey is located. In the event the court finds the said honey
+18 to be in violation of the provisions of this chapter and orders the condemna-
+19 tion of said honey, it shall be disposed of in any manner consistent with the
+20 quality of the honey and the laws of the state. Provided however, that in no
+21 instance shall the disposition of said honey be ordered by the court without
+22 first giving the claimant an opportunity to apply to the court for release of
+23 said honey or for permission to process or relabel said honey to bring it into
+24 compliance with the provisions of this chapter.
+25 SECTION 10. That Section 22-2813, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 22-2813. PAYMENT OF EXPENSES AND COSTS. All expenses and costs in-
+28 curred in the administration of this chapter shall be paid out of the Idaho
+29 honey fund. The commission shall keep an accurate record of all costs and
+30 expenditures and will report the same by publication on October 1st 1 of each
+31 year. All expenses and costs incurred and contracted for by the commission
+32 in performing its duties under this chapter shall be paid out of such Idaho
+33 honey fund in the following manner: vouchers shall be approved and submitted
+34 by the commission chairman to the director or his designated representative
+35 of the Idaho state department of agriculture for approval and subsequent
+36 issuance of a warrant by the state controller.
+37 SECTION 11. That Section 22-2815, Idaho Code, be, and the same is hereby
+38 repealed.
+39 SECTION 12. The rules contained in IDAPA 02.06.16, Department of
+40 Agriculture, relating to Idaho Honey Commission, Rules Governing Honey
+41 Standards, shall be null, void, and of no force and effect on and after July
+42 1, 2026.
+43 SECTION 13. An emergency existing therefor, which emergency is hereby
+44 declared to exist, this act shall be in full force and effect on and after
+45 July 1, 2026.

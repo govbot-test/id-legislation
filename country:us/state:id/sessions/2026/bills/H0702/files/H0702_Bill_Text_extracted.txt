@@ -1,0 +1,220 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 702
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO COMMERCIAL TRANSACTIONS; AMENDING SECTION 28-8-110, IDAHO
+3 CODE, TO REVISE A PROVISION REGARDING APPLICABILITY AND CHOICE OF LAW
+4 AND TO REMOVE PROVISIONS REGARDING APPLICABILITY AND CHOICE OF LAW;
+5 AMENDING SECTION 28-8-503, IDAHO CODE, TO REMOVE A CODE REFERENCE AND
+6 TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 28-8-511, IDAHO CODE,
+7 TO REMOVE PROVISIONS REGARDING PRIORITY AMONG SECURITY INTERESTS AND
+8 ENTITLEMENT HOLDERS; AMENDING SECTION 28-9-305, IDAHO CODE, TO REMOVE A
+9 PROVISION REGARDING SECURITY INTERESTS AND TO MAKE A TECHNICAL CORREC-
+10 TION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 28-8-110, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 28-8-110. APPLICABILITY AND CHOICE OF LAW. (1) The local law of the is-
+15 suer's jurisdiction, as specified in subsection (4) of this section, gov-
+16 erns:
+17 (a) The validity of a security;
+18 (b) The rights and duties of the issuer with respect to registration of
+19 transfer;
+20 (c) The effectiveness of registration of transfer by the issuer;
+21 (d) Whether the issuer owes any duties to an adverse claimant to a secu-
+22 rity; and
+23 (e) Whether an adverse claim can be asserted against a person to whom
+24 transfer of a certificated or uncertificated security is registered or
+25 a person who obtains control of an uncertificated security.
+26 (2) The local law of the securities intermediary's jurisdiction, as
+27 specified in subsection (5) of this section, Idaho governs:
+28 (a) Acquisition of a security entitlement from the securities interme-
+29 diary;
+30 (b) The rights and duties of the securities intermediary and entitle-
+31 ment holder arising out of a security entitlement;
+32 (c) Whether the securities intermediary owes any duties to an adverse
+33 claimant to a security entitlement; and
+34 (d) Whether an adverse claim can be asserted against a person who ac-
+35 quires a security entitlement from the securities intermediary or a
+36 person who purchases a security entitlement or interest therein from an
+37 entitlement holder.
+38 (3) The local law of the jurisdiction in which a security certificate
+39 is located at the time of delivery governs whether an adverse claim can be
+40 asserted against a person to whom the security certificate is delivered.
+41 (4) "Issuer's jurisdiction" means the jurisdiction under which the is-
+42 suer of the security is organized or, if permitted by the law of that juris-
+
+2
+1 diction, the law of another jurisdiction specified by the issuer. An is-
+2 suer organized under the law of this state may specify the law of another ju-
+3 risdiction as the law governing the matters specified in subsections (1)(b)
+4 through (1)(e) of this section.
+5 (5) The following rules determine a "securities intermediary's juris-
+6 diction" for purposes of this section:
+7 (a) If an agreement between the securities intermediary and its en-
+8 titlement holder governing the securities account expressly provides
+9 that a particular jurisdiction is the securities intermediary's ju-
+10 risdiction for purposes of this part, this chapter, or this act, that
+11 jurisdiction is the securities intermediary's jurisdiction.
+12 (b) If paragraph (a) of this subsection does not apply and an agreement
+13 between the securities intermediary and its entitlement holder gov-
+14 erning the securities account expressly provides that the agreement is
+15 governed by the law of a particular jurisdiction, that jurisdiction is
+16 the securities intermediary's jurisdiction.
+17 (c) If neither paragraph (a) nor paragraph (b) of this section applies
+18 and an agreement between the securities intermediary and its entitle-
+19 ment holder governing the securities account expressly provides that
+20 the securities account is maintained at an office in a particular juris-
+21 diction, that jurisdiction is the securities intermediary's jurisdic-
+22 tion.
+23 (d) If none of the preceding paragraphs apply, the securities interme-
+24 diary's jurisdiction is the jurisdiction in which the office identified
+25 in an account statement as the office serving the entitlement holder's
+26 account is located.
+27 (e) If none of the preceding paragraphs apply, the securities interme-
+28 diary's jurisdiction is the jurisdiction in which the chief executive
+29 office of the securities intermediary is located.
+30 (6) A securities intermediary's jurisdiction is not determined by the
+31 physical location of certificates representing financial assets, or by the
+32 jurisdiction in which is organized the issuer of the financial asset with re-
+33 spect to which an entitlement holder has a security entitlement, or by the
+34 location of facilities for data processing or other recordkeeping concern-
+35 ing the account.
+36 SECTION 2. That Section 28-8-503, Idaho Code, be, and the same is hereby
+37 amended to read as follows:
+38 28-8-503. PROPERTY INTEREST OF ENTITLEMENT HOLDER IN FINANCIAL ASSET
+39 HELD BY SECURITIES INTERMEDIARY. (1) To the extent necessary for a secu-
+40 rities intermediary to satisfy all security entitlements with respect to
+41 a particular financial asset, all interests in that financial asset held
+42 by the securities intermediary are held by the securities intermediary for
+43 the entitlement holders, are not property of the securities intermediary,
+44 and are not subject to claims of creditors of the securities intermediary,
+45 except as otherwise provided in section 28-8-511.
+46 (2) An entitlement holder's property interest with respect to a partic-
+47 ular financial asset under subsection (1) of this section is a pro rata prop-
+48 erty interest in all interests in that financial asset held by the securities
+49 intermediary, without regard to the time the entitlement holder acquired the
+
+3
+1 security entitlement or the time the securities intermediary acquired the
+2 interest in that financial asset.
+3 (3) An entitlement holder's property interest with respect to a par-
+4 ticular financial asset under subsection (1) of this section may be enforced
+5 against the securities intermediary only by exercise of the entitlement
+6 holder's rights under sections 28-8-505 through 28-8-508, Idaho Code.
+7 (4) An entitlement holder's property interest with respect to a par-
+8 ticular financial asset under subsection (1) of this section may be enforced
+9 against a purchaser of the financial asset or interest therein only if:
+10 (a) Insolvency proceedings have been initiated by or against the secu-
+11 rities intermediary;
+12 (b) The securities intermediary does not have sufficient interests in
+13 the financial asset to satisfy the security entitlements of all of its
+14 entitlement holders to that financial asset;
+15 (c) The securities intermediary violated its obligations under section
+16 28-8-504, Idaho Code, by transferring the financial asset or interest
+17 therein to the purchaser; and
+18 (d) The purchaser is not protected under subsection (5) of this sec-
+19 tion.
+20 The trustee or other liquidator, acting on behalf of all entitlement holders
+21 having security entitlements with respect to a particular financial asset,
+22 may recover the financial asset, or interest therein, from the purchaser. If
+23 the trustee or other liquidator elects not to pursue that right, an entitle-
+24 ment holder whose security entitlement remains unsatisfied has the right to
+25 recover its interest in the financial asset from the purchaser.
+26 (5) An action based on the entitlement holder's property interest with
+27 respect to a particular financial asset under subsection (1) of this sec-
+28 tion, whether framed in conversion, replevin, constructive trust, equitable
+29 lien or other theory, may not be asserted against any purchaser of a finan-
+30 cial asset or interest therein who gives value, obtains control, and does not
+31 act in collusion with the securities intermediary in violating the securi-
+32 ties intermediary's obligations under section 28-8-504, Idaho Code.
+33 SECTION 3. That Section 28-8-511, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 28-8-511. PRIORITY AMONG SECURITY INTERESTS AND ENTITLEMENT HOLD-
+36 ERS. (1) Except as otherwise provided in subsections (2) and (3) of this
+37 section, if If a securities intermediary does not have sufficient interests
+38 in a particular financial asset to satisfy both its obligations to entitle-
+39 ment holders who have security entitlements to that financial asset and its
+40 obligation to a creditor of the securities intermediary who has a security
+41 interest in that financial asset, the claims of entitlement holders, other
+42 than the creditor, have priority over the claim of the creditor.
+43 (2) A claim of a creditor of a securities intermediary who has a secu-
+44 rity interest in a financial asset held by a securities intermediary has pri-
+45 ority over claims of the securities intermediary's entitlement holders who
+46 have security entitlements with respect to that financial asset if the cred-
+47 itor has control over the financial asset.
+48 (3) If a clearing corporation does not have sufficient financial assets
+49 to satisfy both its obligations to entitlement holders who have security en-
+
+4
+1 titlements with respect to a financial asset and its obligation to a creditor
+2 of the clearing corporation who has a security interest in that financial as-
+3 set, the claim of the creditor has priority over the claims of entitlement
+4 holders.
+5 SECTION 4. That Section 28-9-305, Idaho Code, be, and the same is hereby
+6 amended to read as follows:
+7 28-9-305. LAW GOVERNING PERFECTION AND PRIORITY OF SECURITY INTERESTS
+8 IN INVESTMENT PROPERTY. (a) Except as otherwise provided in subsection (c)
+9 of this section, the following rules apply:
+10 (1) While a security certificate is located in a jurisdiction, the lo-
+11 cal law of that jurisdiction governs perfection, the effect of perfec-
+12 tion or nonperfection, and the priority of a security interest in the
+13 certificated security represented thereby.
+14 (2) The local law of the issuer's jurisdiction as specified in section
+15 28-8-110(4), Idaho Code, governs perfection, the effect of perfection
+16 or nonperfection, and the priority of a security interest in an uncer-
+17 tificated security.
+18 (3) The local law of the securities intermediary's jurisdiction as
+19 specified in section 28-8-110(5) governs perfection, the effect of per-
+20 fection or nonperfection, and the priority of a security interest in a
+21 security entitlement or securities account.
+22 (4) (3) The local law of the commodity intermediary's jurisdiction
+23 governs perfection, the effect of perfection or nonperfection, and the
+24 priority of a security interest in a commodity contract or commodity
+25 account.
+26 (b) The following rules determine a commodity intermediary's jurisdic-
+27 tion for purposes of this part:
+28 (1) If an agreement between the commodity intermediary and commodity
+29 customer governing the commodity account expressly provides that a par-
+30 ticular jurisdiction is the commodity intermediary's jurisdiction for
+31 purposes of this part, this chapter, or the uniform commercial code,
+32 that jurisdiction is the commodity intermediary's jurisdiction.
+33 (2) If paragraph (1) of this subsection does not apply and an agree-
+34 ment between the commodity intermediary and commodity customer govern-
+35 ing the commodity account expressly provides that the agreement is gov-
+36 erned by the law of a particular jurisdiction, that jurisdiction is the
+37 commodity intermediary's jurisdiction.
+38 (3) If neither paragraph (1) nor (2) of this subsection applies and an
+39 agreement between the commodity intermediary and commodity customer
+40 governing the commodity account expressly provides that the commodity
+41 account is maintained at an office in a particular jurisdiction, that
+42 jurisdiction is the commodity intermediary's jurisdiction.
+43 (4) If none of the preceding paragraphs apply, the commodity interme-
+44 diary's jurisdiction is the jurisdiction in which the office identified
+45 in an account statement as the office serving the commodity customer's
+46 account is located.
+47 (5) If none of the preceding paragraphs apply, the commodity intermedi-
+48 ary's jurisdiction is the jurisdiction in which the chief executive of-
+49 fice of the commodity intermediary is located.
+
+5
+1 (c) The local law of the jurisdiction in which the debtor is located
+2 governs:
+3 (1) Perfection of a security interest in investment property by filing;
+4 (2) Automatic perfection of a security interest in investment property
+5 created by a broker or securities intermediary; and
+6 (3) Automatic perfection of a security interest in a commodity contract
+7 or commodity account created by a commodity intermediary.
+8 SECTION 5. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2026.

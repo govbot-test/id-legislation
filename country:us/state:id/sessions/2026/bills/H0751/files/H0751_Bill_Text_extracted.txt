@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 751
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3641, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE REBATE OF SALES TAX COLLECTED; AND DECLARING AN
+4 EMERGENCY AND PROVIDING RETROACTIVE APPLICATION.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 63-3641, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 63-3641. REBATE OF SALES TAXES COLLECTED. (1) As provided in and sub-
+9 ject to the limitations of this section, a developer of a retail complex
+10 shall receive a rebate of sales taxes collected and remitted to the state
+11 tax commission under this chapter by qualified retailers within the retail
+12 complex to reimburse the developer for project expenses incurred for the
+13 installation of approved transportation improvements.
+14 (2) As used in this section:
+15 (a) "Approved transportation improvements" means a highway project the
+16 cost of which is in excess of six million dollars ($6,000,000) for the
+17 installation of an interchange from an interstate highway or expended
+18 on for the improvement of a highway as defined in section 40-109(5),
+19 Idaho Code, the cost of which is in excess of five million dollars
+20 ($5,000,000). To qualify as an approved highway improvement the de-
+21 veloper of a retail complex must enter into an agreement with the Idaho
+22 transportation board and/or or a political subdivision. An approved
+23 highway improvement shall include those costs directly associated with
+24 the highway project but shall not include any improvement not within the
+25 right-of-way of the proposed public highway improvement, improvements
+26 not specifically authorized in the agreement entered into, or developer
+27 financed improvements required by state or local agencies as part of
+28 the permitting and development process not within the public highway
+29 right-of-way. Such agreement shall not be amended in subsequent years
+30 to expand or redefine the scope of an approved transportation improve-
+31 ment.
+32 (b) "Political subdivision" means a city, county or highway district
+33 that receives highway funding pursuant to section 40-709, Idaho Code.
+34 (c) "Qualified retailer" means a specific location within a retail com-
+35 plex operated by a retailer in regard to which the retailer:
+36 (i) Has obtained a separate seller's permit pursuant to section
+37 63-3620, Idaho Code, applicable only to that location and has col-
+38 lected sales or use taxes in regard to retail sales made at that lo-
+39 cation and has remitted all such taxes to the state tax commission
+40 with returns related to that permit;
+
+2
+1 (ii) Has been identified in the manner required by rules of the
+2 state tax commission as associated with the specific retail com-
+3 plex; and
+4 (iii) Did not directly or by any related party, (as defined in sec-
+5 tion 63-3615A(2), Idaho Code), operate a retail business in the
+6 same location before construction of the retail complex.
+7 (d) "Retail complex" means:
+8 (i) One (1) or more buildings in a single location constructed by
+9 a developer applying for a rebate under this section specifically
+10 related to an approved transportation improvement;
+11 (ii) Facilities reasonably related to the buildings, such as
+12 parking lots, sidewalks, lighting, traffic signs and accessory
+13 equipment; and
+14 (iii) For which the developer has expended a minimum of four mil-
+15 lion dollars ($4,000,000).
+16 (e) "Retailer" has the same meaning as provided in section 63-3610,
+17 Idaho Code;
+18 (f) "Retail sales" has the same meaning as that term is defined in sec-
+19 tion 63-3609, Idaho Code.
+20 (3) To obtain the rebate provided by this section, the developer of a
+21 retail complex shall file a written claim with the state tax commission.
+22 (a) The claim shall:
+23 (i) Identify the location and boundaries of the retail complex;
+24 (ii) Identify the qualified retailers making retail sales within
+25 the complex;
+26 (iii) Include verification that the developer has met the expendi-
+27 ture requirements of paragraph (2)(d)(iii) of this section;
+28 (iv) Include certification from the Idaho transportation depart-
+29 ment or political subdivision of the amount expended on the ap-
+30 proved transportation improvements related to the retail complex;
+31 (v) Contain such additional information as the state tax commis-
+32 sion may require by rule.
+33 (b) The claim shall be subject to such reasonable documentation and
+34 verification as the state tax commission may require.
+35 (c) A developer of a retail complex must submit a claim under this sub-
+36 section within two (2) years of the developer's last expenditure on ap-
+37 proved transportation improvements.
+38 (4)(a) Upon approval by the state tax commission, the developer is en-
+39 titled to receive a rebate of sixty percent (60%) of all sales and use
+40 taxes imposed by this chapter and remitted to the state tax commission
+41 after the date of approval by qualified retailers in the retail complex
+42 but not to exceed the lesser of:
+43 (i) The amount certified pursuant to subsection (3)(a)(iv) of
+44 this section; or
+45 (ii) The limitation imposed by subsection (5)(c) of this section.
+46 (b) No interest shall be paid on the amounts rebated.
+47 (c) All sales and use tax information remitted by retailers shall be
+48 deemed a trade secret, shall be confidential and shall not be disclosed
+49 by the state tax commission.
+
+3
+1 (5)(a) When a retailer certifies to the state tax commission and the
+2 commission determines that the requirements of subsection (3)(a)(i),
+3 (ii) and (iii) of this section have been met, sixty percent (60%) of all
+4 sales and use taxes imposed by this chapter and remitted to the state tax
+5 commission after the date of approval by qualified retailers in the re-
+6 tail complex, shall be deposited into the demonstration pilot project
+7 fund, which is hereby created in the state treasury.
+8 (b) All moneys rebated shall be paid by the state tax commission from
+9 the demonstration pilot project fund in a timely manner not to exceed
+10 sixty (60) calendar days after receipt as funds are available in the
+11 demonstration pilot project fund. Payments shall be specific to and
+12 accounted for by each project.
+13 (c) Once a total of thirty-five million dollars ($35,000,000) one hun-
+14 dred million dollars ($100,000,000) has been paid in as a rebate on a
+15 particular approved transportation improvement, no additional rebates
+16 shall be paid in regard to that approved transportation improvement.
+17 SECTION 2. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after its
+19 passage and approval, and retroactively to January 1, 2026.

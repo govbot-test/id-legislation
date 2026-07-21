@@ -1,0 +1,690 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1373
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO APPROPRIATIONS TO ECONOMIC DEVELOPMENT; APPROPRIATING MONEYS
+3 TO THE DEPARTMENT OF AGRICULTURE, THE SOIL AND WATER CONSERVATION COM-
+4 MISSION, THE DEPARTMENT OF COMMERCE, THE DEPARTMENT OF FINANCE, THE
+5 INDUSTRIAL COMMISSION, THE DEPARTMENT OF INSURANCE, THE DEPARTMENT OF
+6 LABOR, THE PUBLIC UTILITIES COMMISSION, THE COMMISSION ON HISPANIC AF-
+7 FAIRS, THE IDAHO STATE HISTORICAL SOCIETY, THE IDAHO COMMISSION FOR LI-
+8 BRARIES, THE IDAHO STATE LOTTERY, THE STATE APPELLATE PUBLIC DEFENDER,
+9 THE DIVISION OF VETERANS SERVICES, THE OFFICE OF THE STATE PUBLIC DE-
+10 FENDER, THE DIVISION OF OCCUPATIONAL AND PROFESSIONAL LICENSES, THE
+11 OFFICE OF ADMINISTRATIVE HEARINGS, THE OFFICE OF HEALTH AND SOCIAL SER-
+12 VICES OMBUDSMAN, THE COMMISSION OF PARDONS AND PAROLE, AND THE IDAHO
+13 TRANSPORTATION DEPARTMENT FOR FISCAL YEAR 2027; LIMITING THE NUMBER
+14 OF AUTHORIZED FULL-TIME EQUIVALENT POSITIONS; PROVIDING REQUIREMENTS
+15 REGARDING THE WATERCRAFT INSPECTION PROGRAM FOR THE DEPARTMENT OF AGRI-
+16 CULTURE; PROVIDING A CASH TRANSFER TO THE DEPREDATION OF LIVESTOCK
+17 AND PREVENTION FUND; PROVIDING REQUIREMENTS FOR TRUSTEE AND BENEFIT
+18 PAYMENTS DISTRIBUTION FOR THE SOIL AND WATER CONSERVATION COMMISSION;
+19 PROVIDING REAPPROPRIATION AUTHORITY FOR THE IDAHO BROADBAND FUND; PRO-
+20 VIDING REAPPROPRIATION AUTHORITY FOR THE ARPA CAPITAL PROJECTS FUND;
+21 PROVIDING REAPPROPRIATION AUTHORITY FOR THE FEDERAL GRANT FUND; DI-
+22 RECTING THE USE OF BROADBAND GRANTS FOR THE DEPARTMENT OF COMMERCE;
+23 PROVIDING FOR CONTINUOUS APPROPRIATION AUTHORITY FOR THE DEPARTMENT
+24 OF FINANCE; DIRECTING THE USE OF PERSONNEL COSTS FOR THE DEPARTMENT OF
+25 INSURANCE; PROVIDING CONTINUOUS APPROPRIATION AUTHORITY FOR CERTAIN
+26 EXPENDITURES FOR THE IDAHO STATE LOTTERY; PROVIDING REAPPROPRIATION
+27 AUTHORITY FOR CAPITAL APPEALS; PROVIDING REAPPROPRIATION AUTHORITY
+28 FOR NONCAPITAL APPEALS; DIRECTING EXPENSES PAID FOR THE USE OF COUNTY
+29 FACILITIES FOR INDIGENT PUBLIC DEFENSE; PROVIDING AN EXEMPTION FROM
+30 PROGRAM TRANSFER LIMITATIONS FOR THE DIVISION OF OCCUPATIONAL AND PRO-
+31 FESSIONAL LICENSES; PROVIDING A CONTINUOUS APPROPRIATION FOR CERTAIN
+32 EXPENDITURES FOR THE IDAHO TRANSPORTATION DEPARTMENT; PROVIDING FOR
+33 ACCOUNTABILITY REPORTS; PROVIDING FOR CONDITIONS, LIMITATIONS, AND RE-
+34 STRICTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+35 Be It Enacted by the Legislature of the State of Idaho:
+36 SECTION 1. There is hereby appropriated to Economic Development the
+37 following amounts to be expended according to the designated programs and
+38 expense classes from the listed funds for the period July 1, 2026, through
+39 June 30, 2027:
+
+2
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 I. DEPARTMENT OF AGRICULTURE:
+6 A. ADMINISTRATION:
+7 FROM:
+8 General
+9 Fund $1,004,100 $846,700 $1,850,800
+10 Administration and Accounting Services
+11 Fund 914,400 133,600 1,048,000
+12 Facilities Maintenance
+13 Fund 203,000 173,100 376,100
+14 TOTAL $2,121,500 $1,153,400 $3,274,900
+15 B. ANIMAL INDUSTRIES:
+16 FROM:
+17 General
+18 Fund $2,508,900 $267,100 $2,776,000
+19 Agricultural Inspection
+20 Fund 38,500 9,700 48,200
+21 Agricultural Fees - Livestock Disease Control
+22 Fund 1,069,000 533,000 $20,600 1,622,600
+23 Agricultural Fees - Dairy Inspection
+24 Fund 2,356,800 492,000 20,300 2,869,100
+25 Agricultural Fees - Egg Inspection
+26 Fund 134,800 64,100 198,900
+27 Agricultural Fees - Commercial Fisheries
+28 Fund 5,700 4,200 9,900
+29 Agricultural Fees - Poultry Inspection
+30 Fund 36,000 17,500 53,500
+31 Depredation of Livestock and Prevention
+32 Fund 75,000 $150,000 225,000
+33 Seminars and Publications
+34 Fund 58,300 58,300
+35 Federal Grant
+36 Fund 436,300 117,300 0 48,200 601,800
+37 TOTAL $6,586,000 $1,638,200 $40,900 $198,200 $8,463,300
+
+3
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 C. AGRICULTURAL RESOURCES:
+6 FROM:
+7 Agricultural Fees - Pesticides
+8 Fund $2,775,700 $923,900 $23,500 $3,723,100
+9 Federal Grant
+10 Fund 486,500 43,400 0 529,900
+11 TOTAL $3,262,200 $967,300 $23,500 $4,253,000
+12 D. PLANT INDUSTRIES:
+13 FROM:
+14 General
+15 Fund $3,467,600 $2,025,700 $15,900 $2,341,500 $7,850,700
+16 Agricultural Inspection
+17 Fund 1,629,200 309,200 111,100 2,049,500
+18 Invasive Species
+19 Fund 1,385,300 865,000 100,000 2,350,300
+20 Agricultural Fees - Commercial Feed and Fertilizer
+21 Fund 1,699,600 535,800 2,235,400
+22 Agricultural Fees - Honey Advertising
+23 Fund 400 22,000 22,400
+24 Agricultural Fees - Hemp
+25 Fund 110,200 55,000 165,200
+26 Quality Assurance Laboratory Services
+27 Fund 452,500 137,700 590,200
+28 Federal Grant
+29 Fund 1,351,200 1,098,300 0 946,700 3,396,200
+30 TOTAL $10,096,000 $5,048,700 $15,900 $3,499,300 $18,659,900
+31 E. AGRICULTURAL INSPECTIONS:
+32 FROM:
+33 General
+34 Fund $999,800 $233,800 $1,233,600
+35 Weights and Measures Inspection
+36 Fund 577,400 205,700 $8,000 791,100
+37 Agricultural Fees - Organic Food Products
+38 Fund 697,600 110,000 1,700 809,300
+
+4
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 AgriculturalFees- FreshFruitandVegetableInspection
+6 Fund 8,878,600 2,763,300 65,000 11,706,900
+7 TOTAL $11,153,400 $3,312,800 $74,700 $14,540,900
+8 F. MARKET DEVELOPMENT:
+9 FROM:
+10 General
+11 Fund $567,100 $488,100 $1,055,200
+12 Agricultural Inspection
+13 Fund 88,200 74,100 162,300
+14 Seminars and Publications
+15 Fund 245,600 245,600
+16 RuralEconomicDevelopmentIntegratedFreightTransportation
+17 Fund 10,500 20,000 $140,000 170,500
+18 Revolving Loans
+19 Fund 12,300 15,300 27,600
+20 Federal Grant
+21 Fund 286,100 628,100 2,167,500 3,081,700
+22 TOTAL $964,200 $1,471,200 $2,307,500 $4,742,900
+23 G. ANIMAL DAMAGE CONTROL:
+24 FROM:
+25 General
+26 Fund $4,000 $153,600 $157,600
+27 Animal Damage Control
+28 Fund 100,000 100,000
+29 Agricultural Fees - Sheep and Goat Health
+30 Fund 7,200 160,200 167,400
+31 TOTAL $11,200 $413,800 $425,000
+32 H. SHEEP AND GOAT HEALTH BOARD:
+33 FROM:
+34 General
+35 Fund $90,700 $90,700
+
+5
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Agricultural Fees - Sheep and Goat Health
+6 Fund 72,500 $38,300 110,800
+7 TOTAL $163,200 $38,300 $201,500
+8 DIVISION
+9 TOTAL $34,346,500 $13,641,100 $155,000 $6,418,800 $54,561,400
+10 II. SOIL AND WATER CONSERVATION COMMISSION:
+11 FROM:
+12 General
+13 Fund $1,517,000 $212,800 $1,805,200 $3,535,000
+14 Administration and Accounting Services
+15 Fund 30,000 30,000
+16 Resource Conservation and Rangeland Development
+17 Fund 221,000 166,500 $200 387,700
+18 Clean Water Revolving Loan (SCC)
+19 Fund 0 30,000 0 0 30,000
+20 TOTAL $1,738,000 $439,300 $200 $1,805,200 $3,982,700
+21 III. DEPARTMENT OF COMMERCE:
+22 A. COMMERCE:
+23 FROM:
+24 General
+25 Fund $2,450,700 $1,502,400 $1,250,000 $5,203,100
+26 Idaho Opportunity
+27 Fund 3,000,000 3,000,000
+28 Tourism and Promotion
+29 Fund 1,388,500 14,208,200 12,288,600 27,885,300
+30 Miscellaneous Revenue
+31 Fund 157,500 157,500
+32 Seminars and Publications
+33 Fund 378,400 378,400
+34 Federal Grant
+35 Fund 478,700 248,300 15,595,800 16,322,800
+36 TOTAL $4,317,900 $16,494,800 $32,134,400 $52,947,100
+
+6
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 B. BROADBAND OFFICE:
+6 FROM:
+7 General
+8 Fund $372,900 $21,900 $394,800
+9 ARPA Capital Projects
+10 Fund 313,700 313,700
+11 Federal Grant
+12 Fund 313,700 1,675,000 $148,025,000 150,013,700
+13 TOTAL $1,000,300 $1,696,900 $148,025,000 $150,722,200
+14 DIVISION
+15 TOTAL $5,318,200 $18,191,700 $180,159,400 $203,669,300
+16 IV. DEPARTMENT OF FINANCE:
+17 FROM:
+18 State Regulatory
+19 Fund $9,567,500 $2,212,800 $11,780,300
+20 Mortgage Recovery
+21 Fund 50,000 50,000
+22 Securities Investor Training
+23 Fund 0 50,000 50,000
+24 TOTAL $9,567,500 $2,312,800 $11,880,300
+25 V. INDUSTRIAL COMMISSION:
+26 A. COMPENSATION:
+27 FROM:
+28 Industrial Administration
+29 Fund $6,889,400 $2,299,400 $1,355,600 $10,544,400
+30 PeaceOfficerandDetentionOfficerTemporaryDisability
+31 Fund 8,900 3,800 156,100 168,800
+32 Miscellaneous Revenue
+33 Fund 0 55,000 0 55,000
+34 TOTAL $6,898,300 $2,358,200 $1,511,700 $10,768,200
+
+7
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 B. REHABILITATION:
+6 FROM:
+7 Industrial Administration
+8 Fund $4,524,700 $1,178,000 $5,702,700
+9 C. CRIME VICTIMS COMPENSATION:
+10 FROM:
+11 General
+12 Fund $279,400 $279,400
+13 Crime Victims Compensation
+14 Fund $1,110,100 $325,100 2,000,000 3,435,200
+15 Federal Grant
+16 Fund 0 0 1,639,000 1,639,000
+17 TOTAL $1,110,100 $325,100 $3,918,400 $5,353,600
+18 DIVISION
+19 TOTAL $12,533,100 $3,861,300 $5,430,100 $21,824,500
+20 VI. DEPARTMENT OF INSURANCE:
+21 A. INSURANCE REGULATION:
+22 FROM:
+23 Insurance Administrative
+24 Fund $6,515,000 $3,205,500 $9,720,500
+25 Federal Grant
+26 Fund 362,200 356,100 $42,000 760,300
+27 TOTAL $6,877,200 $3,561,600 $42,000 $10,480,800
+28 B. STATE FIRE MARSHAL:
+29 FROM:
+30 Arson, Fire and Fraud Prevention
+31 Fund $1,341,900 $375,400 $28,000 $1,745,300
+32 DIVISION
+33 TOTAL $8,219,100 $3,937,000 $70,000 $12,226,100
+
+8
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 VII. DEPARTMENT OF LABOR:
+6 A. ADMINISTRATIVE SERVICES:
+7 FROM:
+8 General
+9 Fund $59,900 $38,400 $98,300
+10 Unemployment Penalty and Interest
+11 Fund 1,033,100 881,800 1,914,900
+12 Employment Security Special Administration
+13 Fund 1,367,100 1,836,000 3,203,100
+14 Miscellaneous Revenue
+15 Fund 498,800 130,200 629,000
+16 Federal Grant
+17 Fund 10,782,900 8,938,200 $75,100 19,796,200
+18 TOTAL $13,741,800 $11,824,600 $75,100 $25,641,500
+19 B. DETERMINATIONS:
+20 FROM:
+21 General
+22 Fund $517,700 $700 $518,400
+23 Unemployment Penalty and Interest
+24 Fund 2,818,200 1,184,400 4,002,600
+25 Employment Security Special Administration
+26 Fund 3,387,600 850,100 4,237,700
+27 Miscellaneous Revenue
+28 Fund 621,000 3,785,900 $15,000 4,421,900
+29 Federal Grant
+30 Fund 26,284,500 5,357,300 $794,200 2,409,500 34,845,500
+31 TOTAL $33,629,000 $11,178,400 $794,200 $2,424,500 $48,026,100
+32 C. WORKFORCE AND COMMISSIONS:
+33 FROM:
+34 Unemployment Penalty and Interest
+35 Fund $382,400 $502,000 $176,100 $1,060,500
+36 Employment Security Special Administration
+37 Fund 3,350,600 279,200 3,629,800
+
+9
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Miscellaneous Revenue
+6 Fund 280,500 204,700 485,200
+7 Federal Grant
+8 Fund 12,758,300 2,768,800 0 $11,550,000 27,077,100
+9 TOTAL $16,771,800 $3,754,700 $176,100 $11,550,000 $32,252,600
+10 DIVISION
+11 TOTAL $64,142,600 $26,757,700 $1,045,400 $13,974,500 $105,920,200
+12 VIII. PUBLIC UTILITIES COMMISSION:
+13 FROM:
+14 Indirect Cost Recovery
+15 Fund $219,300 $219,300
+16 Public Utilities Commission
+17 Fund $5,351,400 1,725,600 7,077,000
+18 Federal Grant
+19 Fund 316,600 69,200 385,800
+20 TOTAL $5,668,000 $2,014,100 $7,682,100
+21 IX. COMMISSION ON HISPANIC AFFAIRS:
+22 FROM:
+23 General
+24 Fund $198,900 $79,000 $277,900
+25 Miscellaneous Revenue
+26 Fund 80,000 177,500 257,500
+27 TOTAL $278,900 $256,500 $535,400
+28 X. IDAHO STATE HISTORICAL SOCIETY:
+29 FROM:
+30 General
+31 Fund $3,121,200 $1,536,600 $45,800 $31,600 $4,735,200
+32 Miscellaneous Revenue
+33 Fund 1,461,500 1,589,500 3,051,000
+34 Records Management Service
+35 Fund 224,800 36,800 147,400 409,000
+36 Capitol Commission Operating
+37 Fund 97,400 53,500 150,900
+
+10
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Federal Grant
+6 Fund 1,267,300 982,800 0 130,000 2,380,100
+7 TOTAL $6,172,200 $4,199,200 $193,200 $161,600 $10,726,200
+8 XI. IDAHO COMMISSION FOR LIBRARIES:
+9 FROM:
+10 General
+11 Fund $2,477,000 $1,671,500 $610,000 $4,758,500
+12 Miscellaneous Revenue
+13 Fund 55,000 $5,000 10,000 70,000
+14 Federal Grant
+15 Fund 928,100 908,600 25,000 90,000 1,951,700
+16 TOTAL $3,405,100 $2,635,100 $30,000 $710,000 $6,780,200
+17 XII. STATE LOTTERY:
+18 FROM:
+19 State Lottery
+20 Fund $5,042,600 $3,564,800 $53,400 $8,660,800
+21 XIII. STATE APPELLATE PUBLIC DEFENDER:
+22 A. OFFICE OF THE STATE APPELLATE PUBLIC DEFENDER:
+23 FROM:
+24 General
+25 Fund $3,713,300 $308,500 $4,021,800
+26 B. CAPITAL AND CONFLICT REPRESENTATION:
+27 FROM:
+28 General
+29 Fund $172,100 $172,100
+30 DIVISION
+31 TOTAL $3,713,300 $480,600 $4,193,900
+32 XIV. DIVISION OF VETERANS SERVICES:
+33 FROM:
+34 General
+35 Fund $1,494,400 $209,400 $32,400 $1,736,200
+
+11
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Veterans Recognition Income
+6 Fund 1,000,000 195,000 1,195,000
+7 Miscellaneous Revenue
+8 Fund 21,663,200 8,141,800 29,805,000
+9 Veterans Home Endowment Income
+10 Fund 251,700 663,000 1,500 916,200
+11 Federal Grant
+12 Fund 18,621,200 13,131,300 0 31,752,500
+13 TOTAL $42,030,500 $23,145,500 $228,900 $65,404,900
+14 XV. OFFICE OF THE STATE PUBLIC DEFENDER:
+15 FROM:
+16 General
+17 Fund $11,413,000 $31,582,700 $42,995,700
+18 Public Defense
+19 Fund 36,204,100 2,500,000 38,704,100
+20 TOTAL $47,617,100 $34,082,700 $81,699,800
+21 XVI.DIVISIONOFOCCUPATIONALANDPROFESSIONALLICENSES:
+22 A. ADMINISTRATION:
+23 FROM:
+24 State Regulatory
+25 Fund $50,000 $50,000
+26 B. BUILDING CONSTRUCTION & REAL ESTATE:
+27 FROM:
+28 State Regulatory
+29 Fund $15,908,200 $4,896,000 $26,000 $20,830,200
+30 Miscellaneous Revenue/ Industrial Safety
+31 Fund 875,300 100,600 975,900
+32 Miscellaneous Revenue/ Logging
+33 Fund 508,900 126,000 634,900
+34 Federal Grant
+35 Fund 165,200 50,900 0 216,100
+36 TOTAL $17,457,600 $5,173,500 $26,000 $22,657,100
+
+12
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 C. OCCUPATIONAL LICENSES:
+6 FROM:
+7 State Regulatory
+8 Fund $3,835,600 $1,336,900 $28,600 $5,201,100
+9 D. HEALTH PROFESSIONS:
+10 FROM:
+11 State Regulatory
+12 Fund $5,044,200 $3,846,200 $500 $8,890,900
+13 DIVISION
+14 TOTAL $26,337,400 $10,406,600 $55,100 $36,799,100
+15 XVII. OFFICE OF ADMINISTRATIVE HEARINGS:
+16 FROM:
+17 General
+18 Fund $1,278,000 $288,300 $1,566,300
+19 XVIII. OFFICE OF HEALTH AND SOCIAL SERVICES OMBUDSMAN:
+20 FROM:
+21 General
+22 Fund $339,200 $111,600 $450,800
+23 XIX. COMMISSION OF PARDONS & PAROLE:
+24 FROM:
+25 General
+26 Fund $3,492,400 $694,200 $4,186,600
+27 Miscellaneous Revenue
+28 Fund 0 70,700 70,700
+29 TOTAL $3,492,400 $764,900 $4,257,300
+30 XX. IDAHO TRANSPORTATION DEPARTMENT:
+31 A. TRANSPORTATION SERVICES:
+32 1. ADMINISTRATION:
+33 FROM:
+34 State Highway (Dedicated)
+35 Fund $16,820,600 $18,878,400 $35,699,000
+
+13
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 State Highway (Federal)
+6 Fund 0 611,100 $300,000 911,100
+7 TOTAL $16,820,600 $19,489,500 $300,000 $36,610,100
+8 2. CAPITAL FACILITIES:
+9 FROM:
+10 State Aeronautics (Dedicated)
+11 Fund $100,000 $100,000
+12 State Highway (Dedicated)
+13 Fund $300,000 6,765,000 7,065,000
+14 TOTAL $300,000 $6,865,000 $7,165,000
+15 3. AERONAUTICS:
+16 FROM:
+17 State Aeronautics (Dedicated)
+18 Fund $1,584,300 $874,700 $1,250,000 $3,709,000
+19 State Aeronautics (Federal)
+20 Fund 87,000 573,200 0 660,200
+21 TOTAL $1,671,300 $1,447,900 $1,250,000 $4,369,200
+22 DIVISION
+23 TOTAL $18,491,900 $21,237,400 $6,865,000 $1,550,000 $48,144,300
+24 B. MOTOR VEHICLES:
+25 FROM:
+26 State Highway (Dedicated)
+27 Fund $20,770,100 $14,700,700 $361,700 $35,832,500
+28 State Highway (Federal)
+29 Fund 0 3,600,000 0 3,600,000
+30 TOTAL $20,770,100 $18,300,700 $361,700 $39,432,500
+31 C. HIGHWAY OPERATIONS:
+32 FROM:
+33 State Highway (Dedicated)
+34 Fund $120,898,600 $69,603,100 $522,000 $191,023,700
+35 State Highway (Local)
+36 Fund 312,000 73,900 385,900
+
+14
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 State Highway (Federal)
+6 Fund 13,335,700 8,908,400 27,943,600 50,187,700
+7 TOTAL $134,546,300 $78,585,400 $28,465,600 $241,597,300
+8 D. CONTRACT CONSTRUCTION & RIGHT-OF-WAY ACQUISITION:
+9 FROM:
+10 State Highway (Dedicated)
+11 Fund $2,463,300 $115,447,700 $536,700 $118,447,700
+12 State Highway (Local)
+13 Fund 100,000 11,322,900 100,000 11,522,900
+14 Transportation Expansion and Congestion Mitigation
+15 Fund 42,273,800 42,273,800
+16 State Highway (Federal)
+17 Fund 7,536,700 427,247,600 1,963,300 436,747,600
+18 TOTAL $10,100,000 $596,292,000 $2,600,000 $608,992,000
+19 GRANDTOTAL $455,048,000 $279,314,300 $605,065,900 $241,559,200 $1,580,987,400
+20 SECTION 2. FTP AUTHORIZATION. In accordance with Section 67-3519,
+21 Idaho Code, each of the programs in Economic Development is authorized no
+22 more than the following number of full-time equivalent positions at any
+23 point during the period July 1, 2026, through June 30, 2027, unless specifi-
+24 cally authorized by the Governor. The Joint Finance-Appropriations Commit-
+25 tee will be notified promptly of any increased positions so authorized.
+26 Department of Agriculture ....................................230.00
+27 Soil and Water Conservation Commission .........................16.75
+28 Department of Commerce ........................................41.00
+29 Department of Finance .........................................74.00
+30 Industrial Commission .......................................129.00
+31 Department of Insurance .......................................77.50
+32 Department of Labor ..........................................644.00
+33 Public Utilities Commission ...................................49.00
+34 Commission on Hispanic Affairs .................................3.00
+35 Idaho State Historical Society ................................61.00
+36 Idaho Commission for Libraries ................................33.75
+37 Idaho State Lottery ...........................................51.00
+38 State Appellate Public Defender ...............................27.00
+39 Division of Veterans Services ................................429.10
+40 Office of the State Public Defender ...........................333.96
+41 Division of Occupational and Professional Licenses ............267.20
+
+15
+1 Office of Administrative Hearings ..............................9.00
+2 Office of Health and Social Services Ombudsman ...................3.00
+3 Commission of Pardons and Parole ...............................37.00
+4 Idaho Transportation Department ............................1,645.00
+5 SECTION 3. WATERCRAFT INSPECTION PROGRAM. The Department of Agricul-
+6 ture shall maximize the use of the appropriation provided for the watercraft
+7 inspection program to minimize the chances of spreading zebra mussels,
+8 quagga mussels, and other aquatic invasive species into Idaho waters. The
+9 department is encouraged to use roving inspection stations when appropri-
+10 ate and to expand hours of coverage during holidays when boat transport
+11 traffic is likely to increase. It is also encouraged to use extra staffing
+12 on busy holiday weekends. The department shall gather data regarding the
+13 number of watercraft that are bypassing the stations and nighttime trans-
+14 port of watercraft across Idaho's borders. The department shall also seek
+15 to secure federal funding to further enhance invasive species detection
+16 and prevention efforts. The department shall report back to the Joint Fi-
+17 nance-Appropriations Committee, the Senate Agricultural Affairs Committee,
+18 and the House Agricultural Affairs Committee during the 2027 legislative
+19 session regarding the results of the data gathering, attainment of federal
+20 funds, and an operational review of the boat stations.
+21 SECTION 4. CASH TRANSFER TO THE DEPREDATION OF LIVESTOCK AND PREVENTION
+22 FUND. There is hereby appropriated to the Department of Agriculture and the
+23 Office of the State Controller shall transfer $225,000 from the General Fund
+24 to the Depredation of Livestock and Prevention Fund on July 1, 2026, or as
+25 soon thereafter as practicable for the period July 1, 2026, through June 30,
+26 2027, to provide for the compensation for depredation of livestock by griz-
+27 zly bears and wolves.
+28 SECTION 5. TRUSTEE AND BENEFIT PAYMENTS DISTRIBUTION. Of the amount ap-
+29 propriated to the Soil and Water Conservation Commission in Section 1 of this
+30 act for trustee and benefit payments, $300,000 shall be distributed equally
+31 among the 50 soil and water conservation districts in addition to the amounts
+32 authorized pursuant to Section 22-2727, Idaho Code.
+33 SECTION 6. REAPPROPRIATION AUTHORITY FOR THE IDAHO BROADBAND FUND.
+34 There is hereby reappropriated to the Department of Commerce any unexpended
+35 and unencumbered balances appropriated or reappropriated to the Department
+36 of Commerce from the Idaho Broadband Fund for fiscal year 2026, not to exceed
+37 $33,066,900, to be used for nonrecurring expenditures for broadband infra-
+38 structure for the period July 1, 2026, through June 30, 2027. The Office
+39 of the State Controller shall confirm the reappropriation amount, by fund,
+40 expense class, and program, with the Legislative Services Office prior to
+41 processing the reappropriation authorized herein.
+42 SECTION 7. REAPPROPRIATION AUTHORITY FOR THE ARPA CAPITAL PROJECTS
+43 FUND. There is hereby reappropriated to the Department of Commerce any un-
+44 expended and unencumbered balances appropriated or reappropriated to the
+45 Department of Commerce from the ARPA Capital Projects Fund for fiscal year
+
+16
+1 2026, not to exceed $89,011,100, to be used for nonrecurring expenditures
+2 for broadband infrastructure for the period July 1, 2026, through June 30,
+3 2027. The Office of the State Controller shall confirm the reappropriation
+4 amount, by fund, expense class, and program, with the Legislative Services
+5 Office prior to processing the reappropriation authorized herein.
+6 SECTION 8. REAPPROPRIATION AUTHORITY FOR THE FEDERAL GRANT FUND. There
+7 is hereby reappropriated to the Department of Commerce any unexpended and
+8 unencumbered balances appropriated or reappropriated to the Department of
+9 Commerce from the Federal Grant Fund for fiscal year 2026, not to exceed
+10 $150,000,000, to be used for nonrecurring expenditures for broadband in-
+11 frastructure for the period July 1, 2026, through June 30, 2027. The Office
+12 of the State Controller shall confirm the reappropriation amount, by fund,
+13 expense class, and program, with the Legislative Services Office prior to
+14 processing the reappropriation authorized herein.
+15 SECTION 9. BROADBAND GRANTS. Notwithstanding any law to the contrary,
+16 all moneys appropriated from the ARPA Capital Projects Fund and Federal
+17 Grant Fund to the Department of Commerce for the purpose of broadband grants
+18 shall be allocated at the direction of the Idaho Broadband Advisory Board.
+19 SECTION 10. CONTINUOUS APPROPRIATION AUTHORITY. The Department of Fi-
+20 nance is hereby granted continuous appropriation authority for reimburse-
+21 ment of persons to whom the Idaho Judicial Branch has made a final deter-
+22 mination of actual damages resulting from acts constituting violations of
+23 the Idaho Residential Mortgage Practices Act by a mortgage broker, mortgage
+24 lender, or mortgage loan originator who was licensed or required to be li-
+25 censed pursuant to Chapter 31, Title 26, Idaho Code.
+26 SECTION 11. USE OF PERSONNEL COSTS. The Department of Insurance shall
+27 not use the moneys appropriated to it in Section 1 of this act to pay or reim-
+28 burse personnel costs at other state agencies.
+29 SECTION 12. CONTINUOUS APPROPRIATION AUTHORITY. Amounts necessary to
+30 pay prizes, retailer commissions, advertising and promotional costs, and
+31 gaming supplier vendor fees based on sales shall be continuously appropri-
+32 ated to the Idaho State Lottery in accordance with the provisions of Section
+33 67-7428, Idaho Code.
+34 SECTION 13. REAPPROPRIATION AUTHORITY FOR CAPITAL APPEALS. There is
+35 hereby reappropriated to the State Appellate Public Defender any unexpended
+36 and unencumbered balances appropriated or reappropriated to the State Ap-
+37 pellate Public Defender from the General Fund for fiscal year 2026, in an
+38 amount not to exceed $1,169,400, for costs directly related to the provision
+39 of representation in capital cases, to be used for nonrecurring expendi-
+40 tures for the period July 1, 2026, through June 30, 2027. The Office of the
+41 State Controller shall confirm the reappropriation amount, by fund, expense
+42 class, and program, with the Legislative Services Office prior to processing
+43 the reappropriation authorized herein.
+
+17
+1 SECTION 14. REAPPROPRIATION AUTHORITY FOR NONCAPITAL APPEALS. There is
+2 hereby reappropriated to the State Appellate Public Defender any unexpended
+3 and unencumbered balances appropriated or reappropriated to the State Ap-
+4 pellate Public Defender from the General Fund for fiscal year 2026, in an
+5 amount not to exceed $52,900, for costs directly related to outside counsel
+6 for noncapital appeals, to be used for nonrecurring expenditures for the pe-
+7 riod July 1, 2026, through June 30, 2027. The Office of the State Controller
+8 shall confirm the reappropriation amount, by fund, expense class, and pro-
+9 gram, with the Legislative Services Office prior to processing the reappro-
+10 priation authorized herein.
+11 SECTION 15. EXPENSES PAID FOR THE USE OF COUNTY FACILITIES FOR INDIGENT
+12 PUBLIC DEFENSE. Pursuant to Section 19-6008, Idaho Code, any county provid-
+13 ing office space to a county office of public defense or a joint county office
+14 of public defense as of January 1, 2023, shall continue to make available the
+15 same or substantially similar office space for the use of the Office of the
+16 State Public Defender until July 1, 2029. It is the intent of this section
+17 to include parking as part of the continued use of facilities until July 1,
+18 2029. The Office of the State Public Defender shall reimburse the board of
+19 county commissioners for parking expenses at a reasonable rate and not to ex-
+20 ceed what is charged to county employees.
+21 SECTION 16. EXEMPTION FROM PROGRAM TRANSFER LIMITATIONS. The Division
+22 of Occupational and Professional Licenses is hereby exempted from the pro-
+23 visions of Section 67-3511(2), Idaho Code, allowing unlimited transfers be-
+24 tween programs for all moneys appropriated to it for the period July 1, 2026,
+25 through June 30, 2027. Legislative appropriations shall not be transferred
+26 from one fund to another fund unless expressly approved by the Legislature.
+27 SECTION 17. CONTINUOUSLY APPROPRIATED MONEYS. All moneys transferred
+28 to the Local Bridge Inspection Account and to the Railroad Grade Crossing
+29 Protection Account, as provided in Section 63-2412, Idaho Code, are hereby
+30 continuously appropriated to the Idaho Transportation Department for the
+31 stated purpose of those funds.
+32 SECTION 18. ACCOUNTABILITY REPORTS. Funds specifically identified in
+33 statute or in an appropriation act as intended for a certain purpose may
+34 be used only for that purpose. Funds provided in this act are subject to
+35 accountability reports and management reviews in accordance with Section
+36 67-702, Idaho Code, provided the Legislative Services Office auditor has
+37 sufficient resources to conduct those reports. State agencies that are
+38 authorized to contract for outside audits shall submit those reports to the
+39 Joint Finance-Appropriations Committee when those reports become avail-
+40 able.
+41 SECTION 19. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+42 made pursuant to this act are subject to the conditions, limitations, and re-
+43 strictions specified in this act.
+
+18
+1 SECTION 20. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

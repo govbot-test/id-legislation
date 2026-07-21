@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 675
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO BROADBAND; AMENDING SECTION 40-517, IDAHO CODE, TO REVISE A DEF-
+3 INITION AND TO MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMERGENCY
+4 AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 40-517, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 40-517. DEFINITIONS. As used in sections 40-515 through 40-520, Idaho
+9 Code:
+10 (1) "Broadband" means wide bandwidth communication transmissions
+11 allowing capable of providing high-speed services, such as internet access
+12 with an ability to simultaneously transport multiple signals and traffic
+13 types at a minimum transmission speed of one hundred (100) megabits per sec-
+14 ond for downloads and twenty (20) megabits per second for uploads.
+15 (2) "Broadband infrastructure" means networks of deployed telecommu-
+16 nications equipment, conduit, and technologies necessary to provide broad-
+17 band and other advanced telecommunications services to wholesalers or end
+18 users, including but not limited to private homes, businesses, commercial
+19 establishments, schools, or and public institutions.
+20 (3) "Broadband provider" means any entity that:
+21 (a) Provides broadband services, including but not limited to a
+22 telecommunications provider, cable service provider, broadband
+23 provider, cellular provider, political subdivision that provides
+24 broadband services, electric cooperative that provides broadband
+25 services, electric utility that provides broadband services, state
+26 government entity that provides broadband services, tribal government
+27 that provides broadband services, or internet service provider; or
+28 (b) Builds broadband infrastructure, including but not limited to a
+29 port, nonprofit organization, or private-public partnership estab-
+30 lished for the purpose of expanding broadband in the state.
+31 (4) "Department" means the Idaho transportation department.
+32 (5) "Dig Once Policy once policy" means a policy or practice that mini-
+33 mizes the number and scale of excavations or construction and costs when in-
+34 stalling broadband infrastructure in highway rights-of-way.
+35 (6) "Highway" means a road that is part of the state highway system.
+36 (7) "Longitudinal access" means access to or use of any part of a right-
+37 of-way of a highway that extends generally parallel to the right-of-way for a
+38 total of one hundred (100) or more linear feet.
+39 SECTION 2. An emergency existing therefor, which emergency is hereby
+40 declared to exist, this act shall be in full force and effect on and after
+41 July 1, 2026.

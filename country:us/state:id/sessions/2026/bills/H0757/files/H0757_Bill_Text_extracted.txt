@@ -1,0 +1,478 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 757
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAL NEGLECT; AMENDING SECTION 16-1602, IDAHO CODE, TO RE-
+3 VISE A DEFINITION, TO DEFINE A TERM, AND TO MAKE TECHNICAL CORRECTIONS;
+4 AMENDING SECTION 39-5302, IDAHO CODE, TO DEFINE A TERM; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 16-1602, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 16-1602. DEFINITIONS. For purposes of this chapter:
+10 (1) "Abused" means any case in which a child has been the victim of:
+11 (a) Conduct or omission resulting in skin bruising, bleeding, mal-
+12 nutrition, burns, fracture of any bone, head injury, soft tissue
+13 swelling, failure to thrive or death, and such condition or death is not
+14 justifiably explained, or where the history given concerning such con-
+15 dition or death is at variance with the degree or type of such condition
+16 or death, or the circumstances indicate that such condition or death may
+17 not be the product of an accidental occurrence; or
+18 (b) Sexual conduct, including rape, molestation, incest, commercial
+19 sexual activity, obscene or pornographic photographing, filming or de-
+20 piction for commercial purposes, human trafficking as defined in chap-
+21 ter 86, title 18, Idaho Code, or other similar forms of sexual exploita-
+22 tion harming or threatening the child's health or welfare or mental in-
+23 jury to the child.
+24 (2) "Abandoned" means the failure of the parent to maintain a normal
+25 parental relationship with his child including, but not limited to, reason-
+26 able support or regular personal contact. Failure to maintain this rela-
+27 tionship without just cause for a period of one (1) year shall constitute
+28 prima facie evidence of abandonment.
+29 (3) "Adaptive equipment" means any piece of equipment or any item that
+30 is used to increase, maintain or improve the parenting capabilities of a par-
+31 ent with a disability.
+32 (4) "Adjudicatory hearing" means a hearing to determine:
+33 (a) Whether the child comes under the jurisdiction of the court pur-
+34 suant to the provisions of this chapter;
+35 (b) Whether continuation of the child in the home would be contrary to
+36 the child's welfare and whether the best interest of the child requires
+37 protective supervision or vesting legal custody of the child in an au-
+38 thorized agency.
+39 (5) "Age of developmentally appropriate" means:
+40 (a) Activities that are generally accepted as suitable for children of
+41 the same chronological age or level of maturity or that are determined
+42 to be developmentally appropriate for a child, based on the development
+
+2
+1 of cognitive, emotional, physical and behavioral capacities that are
+2 typical for an age or age group; and
+3 (b) In the case of a specific child, activities or items that are suit-
+4 able for the child based on the developmental stages attained by the
+5 child with respect to the cognitive, emotional, physical and behavioral
+6 capacities of the child.
+7 (6) "Aggravated circumstances" includes, but is not limited to:
+8 (a) Circumstances in which the parent has engaged in any of the follow-
+9 ing:
+10 (i) Abandonment, chronic abuse or chronic neglect of the child.
+11 Chronic neglect or chronic abuse of a child shall consist of abuse
+12 or neglect that is so extreme or repetitious as to indicate that
+13 return of the child to the home would result in unacceptable risk
+14 to the health and welfare of the child.
+15 (ii) Sexual abuse against a child of the parent. Sexual abuse, for
+16 the purposes of this section, includes any conduct described in
+17 section 18-1506, 18-1506A, 18-1507, 18-1508, 18-1508A, 18-6101,
+18 or 18-6604, or chapter 86, title 18, Idaho Code.
+19 (iii) Torture of a child. Any conduct listed in section
+20 18-8303(1), Idaho Code; battery or an injury to a child that re-
+21 sults in serious or great bodily injury to a child; voluntary
+22 manslaughter of a child, or aiding or abetting such voluntary
+23 manslaughter, soliciting such voluntary manslaughter or attempt-
+24 ing or conspiring to commit such voluntary manslaughter;
+25 (b) The parent has committed murder, aided or abetted a murder, so-
+26 licited a murder or attempted or conspired to commit murder; or
+27 (c) The parental rights of the parent to another child have been termi-
+28 nated involuntarily.
+29 (7) "Authorized agency" means the department, a local agency, a person,
+30 an organization, corporation, benevolent society or association licensed
+31 or approved by the department or the court to receive children for control,
+32 care, maintenance or placement.
+33 (8) "Caregiver" means a foster parent with whom a child in foster care
+34 has been placed or a designated official for a child care institution in
+35 which a child in foster care has been placed.
+36 (9) "Case plan hearing" means a hearing to approve, modify or reject the
+37 case plan as provided in section 16-1621, Idaho Code.
+38 (10) "Child" means an individual who is under the age of eighteen (18)
+39 years.
+40 (11) "Child advocacy center" or "CAC" means an organization that ad-
+41 heres to national best practice standards established by the national
+42 membership and accrediting body for children's advocacy centers and that
+43 promotes a comprehensive and coordinated multidisciplinary team response to
+44 allegations of child abuse by maintaining a child-friendly facility at which
+45 appropriate services are provided. These services may include forensic in-
+46 terviews, forensic medical examinations, mental health services and other
+47 related victim services.
+48 (12) "Circumstances of the child" includes, but is not limited to, the
+49 joint legal custody or joint physical custody of the child.
+50 (13) "Commit" means to transfer legal and physical custody.
+
+3
+1 (14) "Concurrent planning" means a planning model that prepares for and
+2 implements different outcomes at the same time.
+3 (15) "Court" means district court or magistrate division thereof or, if
+4 the context requires, a magistrate or judge thereof.
+5 (16) "Custodian" means a person, other than a parent or legal guardian,
+6 to whom legal or joint legal custody of the child has been given by court or-
+7 der.
+8 (17) "Department" means the department of health and welfare and its au-
+9 thorized representatives.
+10 (18) "Disability" means, with respect to an individual, any mental or
+11 physical impairment that substantially limits one (1) or more major life
+12 activities of the individual including, but not limited to, self-care, man-
+13 ual tasks, walking, seeing, hearing, speaking, learning or working, or a
+14 record of such an impairment, or being regarded as having such an impairment.
+15 Disability shall not include transvestism, transsexualism, pedophilia,
+16 exhibitionism, voyeurism, other sexual behavior disorders, or substance use
+17 disorders, compulsive gambling, kleptomania or pyromania. Sexual prefer-
+18 ence or orientation is not considered an impairment or disability. Whether
+19 an impairment substantially limits a major life activity shall be determined
+20 without consideration of the effect of corrective or mitigating measures
+21 used to reduce the effects of the impairment.
+22 (19) "Family or household member" shall have the same meaning as in sec-
+23 tion 39-6303(6), Idaho Code.
+24 (20) "Foster care" means twenty-four (24) hour substitute parental care
+25 for children placed away from their parents or guardians by persons who may
+26 or may not be related to the children and for whom the state agency has place-
+27 ment and care responsibility.
+28 (21) "Foster parent" means a person or persons licensed to provide fos-
+29 ter care.
+30 (22) "Grant administrator" means the supreme court or any organization
+31 or agency as may be designated by the supreme court in accordance with such
+32 procedures as may be adopted by the supreme court. The grant administrator
+33 shall administer funds from the guardian ad litem account in accordance with
+34 the provisions of this chapter.
+35 (23) "Guardian ad litem" means a person appointed by the court pursuant
+36 to a guardian ad litem volunteer program to act as special advocate for a
+37 child under this chapter.
+38 (24) "Guardian ad litem coordinator" means a person or entity receiving
+39 moneys from the grant administrator for the purpose of carrying out any of
+40 the duties set forth in section 16-1632, Idaho Code.
+41 (25) "Guardian ad litem program" means the program to recruit, train and
+42 coordinate volunteer persons to serve as guardians ad litem for abused, ne-
+43 glected or abandoned children.
+44 (26) "Homeless," as used in this chapter, shall mean that the child is
+45 without adequate shelter or other living facilities, and the lack of such
+46 shelter or other living facilities poses a threat to the health, safety or
+47 well-being of the child.
+48 (27) "Idaho network of children's advocacy centers" means an organiza-
+49 tion that provides education and technical assistance to child advocacy cen-
+
+4
+1 ters and to interagency multidisciplinary teams developed pursuant to sec-
+2 tion 16-1617, Idaho Code.
+3 (28) "Law enforcement agency" means a city police department, the pros-
+4 ecuting attorney of any county, state law enforcement officers, or the of-
+5 fice of a sheriff of any county.
+6 (29) "Legal custody" means a relationship created by court order, which
+7 vests in a custodian the following rights and responsibilities:
+8 (a) To have physical custody and control of the child, and to determine
+9 where and with whom the child shall live.
+10 (b) To supply the child with food, clothing, shelter and incidental ne-
+11 cessities.
+12 (c) To provide the child with care, education and discipline.
+13 (d) To authorize ordinary medical, dental, psychiatric, psychologi-
+14 cal, or other remedial care and treatment for the child, including care
+15 and treatment in a facility with a program of services for children, and
+16 to authorize surgery if the surgery is deemed by two (2) physicians li-
+17 censed to practice in this state to be necessary for the child.
+18 (e) Where the parents share legal custody, the custodian may be vested
+19 with the custody previously held by either or both parents.
+20 (30) "Mental injury" means a substantial impairment in the intellectual
+21 or psychological ability of a child to function within a normal range of per-
+22 formance and/or behavior, for short or long terms.
+23 (31)(a) "Neglected" means a child:
+24 (a) (i) Who is without proper parental care and control, or sub-
+25 sistence, medical, or other care or control necessary for his
+26 well-being because of the conduct or omission of his parents,
+27 guardian, or other custodian or their neglect or refusal to pro-
+28 vide them; however, no child whose parent or guardian chooses for
+29 such child treatment by prayers through spiritual means alone in
+30 lieu of medical treatment shall be deemed for that reason alone to
+31 be neglected or lack parental care necessary for his health and
+32 well-being, but this subsection subparagraph shall not prevent
+33 the court from acting pursuant to section 16-1627, Idaho Code; or
+34 (b) (ii) Whose parent, guardian, or other custodian is unable to
+35 discharge the responsibilities to and for the child and, as a re-
+36 sult of such inability, the child lacks the parental care neces-
+37 sary for his health, safety, or well-being; or
+38 (c) (iii) Who has been placed for care or adoption in violation of
+39 law; or
+40 (d) (iv) Who is without proper education because of the failure to
+41 comply with section 33-202, Idaho Code.
+42 (b) For purposes of paragraph (c) of this subsection, "medical neglect"
+43 means the failure to seek appropriate health care services for a life-
+44 threatening health condition that a reasonable person would recognize
+45 as requiring medical attention.
+46 (c) A parent, guardian, or other custodian of a child shall not be held
+47 to have committed medical neglect when:
+48 (i) The child has been screened for abuse, abandonment, and ne-
+49 glect, and there is no finding of such abuse, abandonment, or ne-
+50 glect;
+
+5
+1 (ii) The parent, guardian, or custodian is seeking health care
+2 services for the child or presents the child at a health care fa-
+3 cility for health care services;
+4 (iii) The parent, guardian, or custodian has made reasonable ef-
+5 forts to obtain health care services for the child; or
+6 (iv)1. The health condition giving rise to any allegation of
+7 neglect is a known and expected complication of the child's
+8 diagnosis or treatment; and
+9 2.(A) The recommended care offers limited benefit to
+10 the child;
+11 (B) The morbidity or other side effects of a treatment
+12 may be considered to be greater than the anticipated
+13 benefit;
+14 (C) The parent, guardian, or custodian of the child re-
+15 ceived conflicting medical recommendations for treat-
+16 ment from multiple practitioners and did not follow all
+17 recommendations; or
+18 (D) The parent, guardian, or custodian has sought al-
+19 ternative medical treatment for the child as an alter-
+20 native to treatment recommended by a physician, as de-
+21 fined by section 54-1803, Idaho Code, or another li-
+22 censed health care provider who has examined or treated
+23 the minor.
+24 (32) "Order to prevent removal," as described in section 16-1611(5),
+25 Idaho Code, means an order to allow a child to remain in the child's present
+26 surroundings when there is reasonable cause to believe the child is safe in
+27 the sole care of one (1) parent, legal guardian, or legal custodian and when
+28 there is alleged neglect or abuse by another parent, legal guardian, or legal
+29 custodian.
+30 (33) "Permanency hearing" means a hearing to review, approve, reject or
+31 modify the permanency plan of the department and to review reasonable ef-
+32 forts in accomplishing the permanency plan.
+33 (34) "Permanency plan" means a plan for a continuous residence and main-
+34 tenance of nurturing relationships during the child's minority.
+35 (35) "Protective supervision" is a legal status created by court order
+36 in a child protective case whereby the child is in the legal custody of his or
+37 her parent(s), guardian(s) or other legal custodian(s), subject to supervi-
+38 sion by the department.
+39 (36) "Psychotropic medication" means a drug prescribed to affect psy-
+40 chological functioning, perception, behavior or mood. Psychotropic medi-
+41 cations include, but are not limited to, antidepressants, mood stabilizers,
+42 antipsychotics, antianxiety medications, sedatives and stimulants.
+43 (37) "Qualified individual" means a trained professional or licensed
+44 clinician who is not connected to or affiliated with any placement setting
+45 in which children are placed by the department and who is not an employee of
+46 child and family services, unless a waiver has been approved by the autho-
+47 rized agency.
+48 (38) "Qualified residential treatment program" means a program that has
+49 a trauma-informed treatment model designed to address the needs of children
+50 with serious emotional or behavioral disorders or disturbances, is able to
+
+6
+1 implement the treatment identified for the child by the assessment of the
+2 child required under section 16-1619A(2), Idaho Code, and is licensed and
+3 accredited in accordance with state and federal law.
+4 (39) "Reasonable and prudent parent standard" means the standard of
+5 care characterized by careful and sensible parental decisions that main-
+6 tain the health, safety and best interests of a child while simultaneously
+7 encouraging the emotional and developmental growth of the child that a care-
+8 giver shall use when determining whether to allow a child in foster care
+9 under the responsibility of the state to participate in extracurricular,
+10 enrichment, cultural or social activities.
+11 (40) "Relative" means a child's grandparent, great grandparent, aunt,
+12 great aunt, uncle, great uncle, brother-in-law, sister-in-law, first
+13 cousin, sibling and half-sibling.
+14 (41) "Residual parental rights and responsibilities" means those
+15 rights and responsibilities remaining with the parents after the transfer of
+16 legal custody including, but not necessarily limited to, the right of visi-
+17 tation, the right to consent to adoption, the right to determine religious
+18 affiliation, the right to family counseling when beneficial, and the respon-
+19 sibility for support.
+20 (42) "Shelter care" means places designated by the department for tem-
+21 porary care of children pending court disposition or placement.
+22 (43) "Supportive services," as used in this chapter, shall mean ser-
+23 vices that assist parents with a disability to compensate for those aspects
+24 of their disability that affect their ability to care for their child and
+25 that will enable them to discharge their parental responsibilities. The
+26 term includes specialized or adapted training, evaluations or assistance
+27 with effectively using adaptive equipment and accommodations that allow
+28 parents with a disability to benefit from other services including, but not
+29 limited to, Braille texts or sign language interpreters.
+30 SECTION 2. That Section 39-5302, Idaho Code, be, and the same is hereby
+31 amended to read as follows:
+32 39-5302. DEFINITIONS. (1) For the purposes of this chapter:
+33 (a) "Administrator" means the administrator of the Idaho commission on
+34 aging appointed pursuant to section 67-5004, Idaho Code.
+35 (b) "Adult" means a person aged eighteen (18) years or older.
+36 (c) "Adult protective services" or "APS" means the legal and bureau-
+37 cratic systems and protections safeguarding vulnerable adults through
+38 investigation of APS reports alleging maltreatment and arrangements
+39 for the provision of emergency, supportive, or prevention services nec-
+40 essary to reduce or eliminate risk of harm.
+41 (d) "APS report" means an allegation of maltreatment of a vulnerable
+42 adult made to adult protective services.
+43 (e) "Caregiver" refers to a formal caregiver or an informal caregiver.
+44 (f) "Commission" means the Idaho commission on aging, established pur-
+45 suant to chapter 50, title 67, Idaho Code.
+46 (g) "Department" means the Idaho department of health and welfare.
+47 (h) "Emergency" means an exigent circumstance in which a vulnerable
+48 adult's health and safety is placed in imminent danger. Imminent danger
+
+7
+1 is when death or severe bodily injury could reasonably be expected to
+2 occur without intervention.
+3 (i) "Facility" means a health or treatment facility as defined in
+4 statute or by the department, including:
+5 (i) Certified family homes, as defined in section 39-3502, Idaho
+6 Code;
+7 (ii) Developmental disabilities facilities, as defined in sec-
+8 tion 39-4604, Idaho Code;
+9 (iii) Home health agencies, as defined in section 39-1301, Idaho
+10 Code;
+11 (iv) Hospitals, as defined in section 39-1301, Idaho Code;
+12 (v) Intermediate care facilities, as defined in section 39-1301,
+13 Idaho Code;
+14 (vi) Residential care or assisted living facilities, as defined
+15 in section 39-3302, Idaho Code; and
+16 (vii) Residential habilitation agencies.
+17 (j) "Financial exploitation" means the illegal or improper use, con-
+18 trol over, or withholding of the property, income, resources, or trust
+19 funds of a vulnerable adult by any person or entity for profit or ad-
+20 vantage other than for the vulnerable adult's profit or advantage. The
+21 term "financial exploitation" includes but is not limited to:
+22 (i) The use of deception, intimidation, or undue influence by a
+23 person or an entity in a position of trust and confidence with a
+24 vulnerable adult to obtain or use the property, income, resources,
+25 or trust funds of the vulnerable adult for the benefit of a person
+26 or an entity other than the vulnerable adult;
+27 (ii) The breach of a fiduciary duty, including but not limited
+28 to the misuse of a power of attorney, trust, or guardianship ap-
+29 pointment that results in the unauthorized appropriation, sale,
+30 or transfer of the property, income, resources, belongings, or
+31 trust funds of the vulnerable adult for the benefit of a person or
+32 an entity other than the vulnerable adult; or
+33 (iii) Obtaining or using a vulnerable adult's property, income,
+34 belongings, resources, or trust funds without lawful authority by
+35 a person or an entity who knows or clearly should know that the vul-
+36 nerable adult lacks the capacity to consent to the release or use
+37 of his property, income, belongings, resources, or trust funds.
+38 (k) "Formal caregiver" means a person or an entity that accepts compen-
+39 sation to perform a service or services for a vulnerable adult. Compen-
+40 sation may be provided by an employer, the vulnerable adult, or someone
+41 acting in the interests of the vulnerable adult.
+42 (l) "Human trafficking" means the recruitment, harboring, transporta-
+43 tion, provision, or obtaining of a person for labor or services through
+44 the use of force, fraud, or coercion, for the purpose of subjection to
+45 involuntary servitude, peonage, debt bondage, or slavery.
+46 (m) "Infirmities of aging" means physical or mental deterioration as-
+47 sociated with advanced age or organic brain damage, or other physical,
+48 mental, or emotional dysfunction, such that the ability of an older
+49 adult to provide adequately for the adult's own care or protection is
+50 impaired.
+
+8
+1 (n) "Informal caregiver" means a person who provides support for a vul-
+2 nerable adult without expectation of compensation, goods, or services.
+3 (o) "Investigation" means the evaluation of allegations conducted by a
+4 provider or the commission through interviews, observations, and exam-
+5 ination of information.
+6 (p) "Legal representative" means a guardian, a conservator, an attor-
+7 ney, or an individual with power of attorney who has the legal obliga-
+8 tion to act for the benefit of another.
+9 (q) "Licensed medical professional" means an individual practicing in
+10 a medical or medical-related field who is licensed, certified, or oth-
+11 erwise credentialed by the state of Idaho.
+12 (r)(i) "Neglect" means failure of a caregiver to provide food,
+13 clothing, shelter, or medical care, the absence of which impairs
+14 or threatens sustainable life or health of a vulnerable adult.
+15 (ii) For purposes of subparagraph (iii) of this subsection, "med-
+16 ical neglect" means the failure to seek appropriate health care
+17 services for a life-threatening health condition that a reason-
+18 able person would recognize as requiring medical attention.
+19 (iii) The guardian of a vulnerable adult shall not be held to have
+20 committed medical neglect when:
+21 1. The vulnerable adult has been screened for abuse, ne-
+22 glect, and exploitation, and there is no finding of such
+23 abuse, neglect, or exploitation;
+24 2. The guardian is seeking health care services for the vul-
+25 nerable adult or presents the vulnerable adult at a health
+26 care facility for health care services;
+27 3. The guardian has made reasonable efforts to obtain health
+28 care services for the vulnerable adult; or
+29 4.(A) The health condition giving rise to any allega-
+30 tion of neglect is a known and expected complication of
+31 the vulnerable adult's diagnosis or treatment; and
+32 (B)a. The recommended care offers limited bene-
+33 fit to the vulnerable adult;
+34 b. The morbidity or other side effects of a
+35 treatment may be considered to be greater than
+36 the anticipated benefit;
+37 c. The guardian of the vulnerable adult received
+38 conflicting medical recommendations for treat-
+39 ment from multiple practitioners and did not fol-
+40 low all recommendations; or
+41 d. The guardian has sought alternative treat-
+42 ment for the vulnerable adult as an alternative
+43 to treatment recommended by a physician, as de-
+44 fined by section 54-1803, Idaho Code, or another
+45 licensed health care provider who has examined or
+46 treated the vulnerable adult.
+47 (s) "Older adult" means a person aged sixty-five (65) years or older.
+48 (t) "Physical abuse" means the infliction of physical pain, injury, or
+49 unjust chemical or physical restraint on a vulnerable adult or death
+50 where:
+
+9
+1 (i) The vulnerable adult's condition or death is not justifiably
+2 explained;
+3 (ii) The history given concerning such condition or death is at
+4 variance with the degree or type of the condition or death; or
+5 (iii) Circumstances indicate that such condition or death may not
+6 be the product of an accidental occurrence.
+7 (u) "Prevention services" means interventions designed to reduce the
+8 risk of maltreatment, including but not limited to case management, the
+9 provision of goods or services, or caregiver support.
+10 (v) "Protective action plan" or "PAP" means a person-centered plan
+11 addressing the remedial, social, legal, medical, educational, mental
+12 health, or other services available to reduce or eliminate the risk of
+13 harm to a vulnerable adult.
+14 (w) "Provider" means an area agency on aging or a person or an entity
+15 capable of providing adult protective services, including duly autho-
+16 rized agents and employees.
+17 (x) "Psychological abuse" means the infliction of fear, anguish, agi-
+18 tation, or other emotional distress through verbal or nonverbal acts or
+19 through unjust confinement of a vulnerable adult.
+20 (y) "Self-neglect" means failure of a vulnerable adult to provide for
+21 himself or refusal to accept support needed to obtain food, clothing,
+22 shelter, or medical care reasonably necessary to sustain the life and
+23 health of the vulnerable adult.
+24 (z) "Sexual abuse" means touching, fondling, intercourse, or any other
+25 sexual activity with a vulnerable adult when the vulnerable adult is
+26 unable to understand, unwilling to consent, threatened, or physically
+27 forced.
+28 (aa) "Skilled nursing facility" shall have the same meaning as "nursing
+29 facility" provided in section 39-1301, Idaho Code.
+30 (bb) "Supportive services" means social, legal, health, educational,
+31 mental health, and referral services.
+32 (cc) "Undue influence" means influence exercised over a vulnerable
+33 adult with the intent to:
+34 (i) Inhibit the vulnerable adult's freedom of choice;
+35 (ii) Deprive the vulnerable adult of freedom of choice; or
+36 (iii) Substitute the influencer's choice or desire over that of
+37 the vulnerable adult.
+38 (dd) "Vulnerable adult" means an adult who is unable to protect himself
+39 from maltreatment because of:
+40 (i) A mental, physical, or developmental disability;
+41 (ii) A degenerative brain disease;
+42 (iii) An inability to communicate or implement decisions regard-
+43 ing his person; or
+44 (iv) Other infirmities of aging in an older adult.
+45 (ee) "Vulnerable adult maltreatment" or "maltreatment" means the in-
+46 tentional or negligent infliction of pain or injury on a vulnerable
+47 adult, including financial exploitation, human trafficking, neglect,
+48 physical abuse, psychological abuse, or sexual abuse.
+49 (2) Nothing in this chapter shall be construed to mean a person is
+50 abused, neglected, or exploited for the sole reason he is relying upon treat-
+
+10
+1 ment by spiritual means through prayer alone in accordance with the tenets
+2 and practices of a recognized church or religious denomination; nor shall
+3 the provisions of this chapter be construed to require any medical care or
+4 treatment in contravention of the stated or implied objection of such a per-
+5 son.
+6 SECTION 3. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2026.

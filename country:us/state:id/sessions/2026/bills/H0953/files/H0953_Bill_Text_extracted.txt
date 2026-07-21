@@ -1,0 +1,650 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 953
+BY CAYLER
+1 AN ACT
+2 RELATING TO CHILD PROTECTION; AMENDING SECTION 16-1602, IDAHO CODE, TO RE-
+3 VISE A DEFINITION; AMENDING SECTION 16-1605, IDAHO CODE, TO REVISE PRO-
+4 VISIONS REGARDING REPORTING ABUSE, ABANDONMENT, OR NEGLECT; AMENDING
+5 SECTION 16-1606, IDAHO CODE, TO REVISE PROVISIONS REGARDING IMMUNITY;
+6 AMENDING SECTION 16-1610, IDAHO CODE, TO REVISE PROVISIONS REGARDING A
+7 PETITION; AMENDING SECTION 16-1611, IDAHO CODE, TO REVISE PROVISIONS
+8 REGARDING SUMMONS; AMENDING SECTION 16-1615, IDAHO CODE, TO REVISE
+9 PROVISIONS REGARDING SHELTER CARE HEARINGS; AMENDING SECTION 16-1619,
+10 IDAHO CODE, TO REVISE PROVISIONS REGARDING AN ADJUDICATORY HEARING; AND
+11 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. That Section 16-1602, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 16-1602. DEFINITIONS. For purposes of this chapter:
+16 (1) "Abused" means any case in which a child has been the victim of:
+17 (a) Conduct or omission resulting in skin bruising, bleeding, mal-
+18 nutrition, burns, fracture of any bone, head injury, soft tissue
+19 swelling, failure to thrive or death, and such condition or death is not
+20 justifiably explained, or where the history given concerning such con-
+21 dition or death is at variance with the degree or type of such condition
+22 or death, or the circumstances indicate that such condition or death may
+23 not be the product of an accidental occurrence; or
+24 (b) Sexual conduct, including rape, molestation, incest, commercial
+25 sexual activity, obscene or pornographic photographing, filming or de-
+26 piction for commercial purposes, human trafficking as defined in chap-
+27 ter 86, title 18, Idaho Code, or other similar forms of sexual exploita-
+28 tion harming or threatening the child's health or welfare or mental in-
+29 jury to the child.
+30 (2) "Abandoned" means the failure of the parent to maintain a normal
+31 parental relationship with his child including, but not limited to, reason-
+32 able support or regular personal contact. Failure to maintain this rela-
+33 tionship without just cause for a period of one (1) year shall constitute
+34 prima facie evidence of abandonment.
+35 (3) "Adaptive equipment" means any piece of equipment or any item that
+36 is used to increase, maintain or improve the parenting capabilities of a par-
+37 ent with a disability.
+38 (4) "Adjudicatory hearing" means a hearing to determine:
+39 (a) Whether the child comes under the jurisdiction of the court pur-
+40 suant to the provisions of this chapter;
+41 (b) Whether continuation of the child in the home would be contrary to
+42 the child's welfare and whether the best interest of the child requires
+
+2
+1 protective supervision or vesting legal custody of the child in an au-
+2 thorized agency.
+3 (5) "Age of developmentally appropriate" means:
+4 (a) Activities that are generally accepted as suitable for children of
+5 the same chronological age or level of maturity or that are determined
+6 to be developmentally appropriate for a child, based on the development
+7 of cognitive, emotional, physical and behavioral capacities that are
+8 typical for an age or age group; and
+9 (b) In the case of a specific child, activities or items that are suit-
+10 able for the child based on the developmental stages attained by the
+11 child with respect to the cognitive, emotional, physical and behavioral
+12 capacities of the child.
+13 (6) "Aggravated circumstances" includes, but is not limited to:
+14 (a) Circumstances in which the parent has engaged in any of the follow-
+15 ing:
+16 (i) Abandonment, chronic abuse or chronic neglect of the child.
+17 Chronic neglect or chronic abuse of a child shall consist of abuse
+18 or neglect that is so extreme or repetitious as to indicate that
+19 return of the child to the home would result in unacceptable risk
+20 to the health and welfare of the child.
+21 (ii) Sexual abuse against a child of the parent. Sexual abuse, for
+22 the purposes of this section, includes any conduct described in
+23 section 18-1506, 18-1506A, 18-1507, 18-1508, 18-1508A, 18-6101,
+24 or 18-6604, or chapter 86, title 18, Idaho Code.
+25 (iii) Torture of a child. Any conduct listed in section
+26 18-8303(1), Idaho Code; battery or an injury to a child that re-
+27 sults in serious or great bodily injury to a child; voluntary
+28 manslaughter of a child, or aiding or abetting such voluntary
+29 manslaughter, soliciting such voluntary manslaughter or attempt-
+30 ing or conspiring to commit such voluntary manslaughter;
+31 (b) The parent has committed murder, aided or abetted a murder, so-
+32 licited a murder or attempted or conspired to commit murder; or
+33 (c) The parental rights of the parent to another child have been termi-
+34 nated involuntarily.
+35 (7) "Authorized agency" means the department, a local agency, a person,
+36 an organization, corporation, benevolent society or association licensed
+37 or approved by the department or the court to receive children for control,
+38 care, maintenance or placement.
+39 (8) "Caregiver" means a foster parent with whom a child in foster care
+40 has been placed or a designated official for a child care institution in
+41 which a child in foster care has been placed.
+42 (9) "Case plan hearing" means a hearing to approve, modify or reject the
+43 case plan as provided in section 16-1621, Idaho Code.
+44 (10) "Child" means an individual who is under the age of eighteen (18)
+45 years.
+46 (11) "Child advocacy center" or "CAC" means an organization that ad-
+47 heres to national best practice standards established by the national
+48 membership and accrediting body for children's advocacy centers and that
+49 promotes a comprehensive and coordinated multidisciplinary team response to
+50 allegations of child abuse by maintaining a child-friendly facility at which
+
+3
+1 appropriate services are provided. These services may include forensic in-
+2 terviews, forensic medical examinations, mental health services and other
+3 related victim services.
+4 (12) "Circumstances of the child" includes, but is not limited to, the
+5 joint legal custody or joint physical custody of the child.
+6 (13) "Commit" means to transfer legal and physical custody.
+7 (14) "Concurrent planning" means a planning model that prepares for and
+8 implements different outcomes at the same time.
+9 (15) "Court" means district court or magistrate division thereof or, if
+10 the context requires, a magistrate or judge thereof.
+11 (16) "Custodian" means a person, other than a parent or legal guardian,
+12 to whom legal or joint legal custody of the child has been given by court or-
+13 der.
+14 (17) "Department" means the department of health and welfare and its au-
+15 thorized representatives.
+16 (18) "Disability" means, with respect to an individual, any mental or
+17 physical impairment that substantially limits one (1) or more major life
+18 activities of the individual including, but not limited to, self-care, man-
+19 ual tasks, walking, seeing, hearing, speaking, learning or working, or a
+20 record of such an impairment, or being regarded as having such an impairment.
+21 Disability shall not include transvestism, transsexualism, pedophilia,
+22 exhibitionism, voyeurism, other sexual behavior disorders, or substance use
+23 disorders, compulsive gambling, kleptomania or pyromania. Sexual prefer-
+24 ence or orientation is not considered an impairment or disability. Whether
+25 an impairment substantially limits a major life activity shall be determined
+26 without consideration of the effect of corrective or mitigating measures
+27 used to reduce the effects of the impairment.
+28 (19) "Family or household member" shall have the same meaning as in sec-
+29 tion 39-6303(6), Idaho Code.
+30 (20) "Foster care" means twenty-four (24) hour substitute parental care
+31 for children placed away from their parents or guardians by persons who may
+32 or may not be related to the children and for whom the state agency has place-
+33 ment and care responsibility.
+34 (21) "Foster parent" means a person or persons licensed to provide fos-
+35 ter care.
+36 (22) "Grant administrator" means the supreme court or any organization
+37 or agency as may be designated by the supreme court in accordance with such
+38 procedures as may be adopted by the supreme court. The grant administrator
+39 shall administer funds from the guardian ad litem account in accordance with
+40 the provisions of this chapter.
+41 (23) "Guardian ad litem" means a person appointed by the court pursuant
+42 to a guardian ad litem volunteer program to act as special advocate for a
+43 child under this chapter.
+44 (24) "Guardian ad litem coordinator" means a person or entity receiving
+45 moneys from the grant administrator for the purpose of carrying out any of
+46 the duties set forth in section 16-1632, Idaho Code.
+47 (25) "Guardian ad litem program" means the program to recruit, train and
+48 coordinate volunteer persons to serve as guardians ad litem for abused, ne-
+49 glected or abandoned children.
+
+4
+1 (26) "Homeless," as used in this chapter, shall mean that the child is
+2 without adequate shelter or other living facilities, and the lack of such
+3 shelter or other living facilities poses a threat to the health, safety or
+4 well-being of the child.
+5 (27) "Idaho network of children's advocacy centers" means an organiza-
+6 tion that provides education and technical assistance to child advocacy cen-
+7 ters and to interagency multidisciplinary teams developed pursuant to sec-
+8 tion 16-1617, Idaho Code.
+9 (28) "Law enforcement agency" means a city police department, the pros-
+10 ecuting attorney of any county, state law enforcement officers, or the of-
+11 fice of a sheriff of any county.
+12 (29) "Legal custody" means a relationship created by court order, which
+13 vests in a custodian the following rights and responsibilities:
+14 (a) To have physical custody and control of the child, and to determine
+15 where and with whom the child shall live.
+16 (b) To supply the child with food, clothing, shelter and incidental ne-
+17 cessities.
+18 (c) To provide the child with care, education and discipline.
+19 (d) To authorize ordinary medical, dental, psychiatric, psychologi-
+20 cal, or other remedial care and treatment for the child, including care
+21 and treatment in a facility with a program of services for children, and
+22 to authorize surgery if the surgery is deemed by two (2) physicians li-
+23 censed to practice in this state to be necessary for the child.
+24 (e) Where the parents share legal custody, the custodian may be vested
+25 with the custody previously held by either or both parents.
+26 (30) "Mental injury" means a substantial impairment in the intellectual
+27 or psychological ability of a child to function within a normal range of per-
+28 formance and/or behavior, for short or long terms.
+29 (31) "Neglected" means a child:
+30 (a) Who is without proper parental care and control, or subsistence,
+31 medical or other care or control necessary for his well-being because of
+32 the conduct or omission of his parents, guardian or other custodian or
+33 their neglect or refusal to provide them; however, no child whose parent
+34 or guardian chooses for such child treatment by prayers through spiri-
+35 tual means alone in lieu of medical treatment shall be deemed for that
+36 reason alone to be neglected or lack parental care necessary for his
+37 health and well-being, but this subsection shall not prevent the court
+38 from acting pursuant to section 16-1627, Idaho Code; or
+39 (b) Whose parent, guardian or other custodian is unable to discharge
+40 the responsibilities to and for the child and, as a result of such in-
+41 ability, the child lacks the parental care necessary for his health,
+42 safety or well-being; or
+43 (c) Who has been placed for care or adoption in violation of law; or
+44 (d) Who is without proper education because of the failure to comply
+45 with section 33-202, Idaho Code.
+46 (32) "Order to prevent removal," as described in section 16-1611(5),
+47 Idaho Code, means an order to allow a child to remain in the child's present
+48 surroundings when there is reasonable cause to believe reliable evidence
+49 that the child is safe in the sole care of one (1) parent, legal guardian, or
+
+5
+1 legal custodian and when there is alleged neglect or abuse by another parent,
+2 legal guardian, or legal custodian.
+3 (33) "Permanency hearing" means a hearing to review, approve, reject or
+4 modify the permanency plan of the department and to review reasonable ef-
+5 forts in accomplishing the permanency plan.
+6 (34) "Permanency plan" means a plan for a continuous residence and main-
+7 tenance of nurturing relationships during the child's minority.
+8 (35) "Protective supervision" is a legal status created by court order
+9 in a child protective case whereby the child is in the legal custody of his or
+10 her parent(s), guardian(s) or other legal custodian(s), subject to supervi-
+11 sion by the department.
+12 (36) "Psychotropic medication" means a drug prescribed to affect psy-
+13 chological functioning, perception, behavior or mood. Psychotropic medi-
+14 cations include, but are not limited to, antidepressants, mood stabilizers,
+15 antipsychotics, antianxiety medications, sedatives and stimulants.
+16 (37) "Qualified individual" means a trained professional or licensed
+17 clinician who is not connected to or affiliated with any placement setting
+18 in which children are placed by the department and who is not an employee of
+19 child and family services, unless a waiver has been approved by the autho-
+20 rized agency.
+21 (38) "Qualified residential treatment program" means a program that has
+22 a trauma-informed treatment model designed to address the needs of children
+23 with serious emotional or behavioral disorders or disturbances, is able to
+24 implement the treatment identified for the child by the assessment of the
+25 child required under section 16-1619A(2), Idaho Code, and is licensed and
+26 accredited in accordance with state and federal law.
+27 (39) "Reasonable and prudent parent standard" means the standard of
+28 care characterized by careful and sensible parental decisions that main-
+29 tain the health, safety and best interests of a child while simultaneously
+30 encouraging the emotional and developmental growth of the child that a care-
+31 giver shall use when determining whether to allow a child in foster care
+32 under the responsibility of the state to participate in extracurricular,
+33 enrichment, cultural or social activities.
+34 (40) "Relative" means a child's grandparent, great grandparent, aunt,
+35 great aunt, uncle, great uncle, brother-in-law, sister-in-law, first
+36 cousin, sibling and half-sibling.
+37 (41) "Residual parental rights and responsibilities" means those
+38 rights and responsibilities remaining with the parents after the transfer of
+39 legal custody including, but not necessarily limited to, the right of visi-
+40 tation, the right to consent to adoption, the right to determine religious
+41 affiliation, the right to family counseling when beneficial, and the respon-
+42 sibility for support.
+43 (42) "Shelter care" means places designated by the department for tem-
+44 porary care of children pending court disposition or placement.
+45 (43) "Supportive services," as used in this chapter, shall mean ser-
+46 vices that assist parents with a disability to compensate for those aspects
+47 of their disability that affect their ability to care for their child and
+48 that will enable them to discharge their parental responsibilities. The
+49 term includes specialized or adapted training, evaluations or assistance
+50 with effectively using adaptive equipment and accommodations that allow
+
+6
+1 parents with a disability to benefit from other services including, but not
+2 limited to, Braille texts or sign language interpreters.
+3 SECTION 2. That Section 16-1605, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 16-1605. REPORTING OF ABUSE, ABANDONMENT OR NEGLECT. (1) Any physi-
+6 cian, resident on a hospital staff, intern, nurse, coroner, school teacher,
+7 day care personnel, social worker, or other person having reason to believe
+8 reliable evidence that a child under the age of eighteen (18) years has been
+9 abused, abandoned or neglected or who observes the child being subjected to
+10 conditions or circumstances that would reasonably result in abuse, abandon-
+11 ment or neglect shall report or cause to be reported within twenty-four (24)
+12 hours such conditions or circumstances to the proper law enforcement agency
+13 or the department. The department shall be informed by law enforcement of
+14 any report made directly to it. If the department knows or has reason to know
+15 that an adult in the home has been convicted of lewd and lascivious conduct or
+16 felony injury to a child in the past or that the child has been removed from
+17 the home for circumstances that resulted in a conviction for lewd and lasciv-
+18 ious conduct or felony injury to a child, then the department shall investi-
+19 gate. When the attendance of a physician, resident, intern, nurse, day care
+20 worker, or social worker is pursuant to the performance of services as a mem-
+21 ber of the staff of a hospital or similar institution, he shall notify the
+22 person in charge of the institution or his designated delegate who shall make
+23 the necessary reports.
+24 (2) For purposes of subsection (3) of this section, the term "duly
+25 ordained minister of religion" means a person who has been ordained or set
+26 apart, in accordance with the ceremonial, ritual or discipline of a church
+27 or religious organization which has been established on the basis of a
+28 community of religious faith, belief, doctrines and practices, to hear con-
+29 fessions and confidential communications in accordance with the bona fide
+30 doctrines or discipline of that church or religious organization.
+31 (3) The notification requirements of subsection (1) of this section do
+32 not apply to a duly ordained minister of religion, with regard to any confes-
+33 sion or confidential communication made to him in his ecclesiastical capac-
+34 ity in the course of discipline enjoined by the church to which he belongs if:
+35 (a) The church qualifies as tax-exempt under 26 U.S.C. 501(c)(3);
+36 (b) The confession or confidential communication was made directly to
+37 the duly ordained minister of religion; and
+38 (c) The confession or confidential communication was made in the manner
+39 and context that places the duly ordained minister of religion specif-
+40 ically and strictly under a level of confidentiality that is considered
+41 inviolate by canon law or church doctrine. A confession or confiden-
+42 tial communication made under any other circumstances does not fall un-
+43 der this exemption.
+44 (4) Failure to report as required in this section shall be a misde-
+45 meanor.
+46 SECTION 3. That Section 16-1606, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+
+7
+1 16-1606. IMMUNITY. Any person who has reason to believe reliable evi-
+2 dence that a child has been abused, abandoned or neglected and, acting upon
+3 that belief, makes a report of abuse, abandonment or neglect as required in
+4 section 16-1605, Idaho Code, shall have immunity from any liability, civil
+5 or criminal, that might otherwise be incurred or imposed. Any such partic-
+6 ipant shall have the same immunity with respect to participation in any such
+7 judicial proceeding resulting from such report. Any person who reports in
+8 bad faith or with malice shall not be protected by this section. Any priv-
+9 ilege between husband and wife, or between any professional person except
+10 the lawyer-client privilege, including but not limited to physicians, coun-
+11 selors, hospitals, clinics, day care centers and schools and their clients
+12 shall not be grounds for excluding evidence at any proceeding regarding the
+13 abuse, abandonment or neglect of the child or the cause thereof.
+14 SECTION 4. That Section 16-1610, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 16-1610. PETITION. (1) A petition invoking the jurisdiction of the
+17 court under this chapter shall be filed in the manner provided in this sec-
+18 tion:
+19 (a) A petition must be signed by the prosecutor or deputy attorney gen-
+20 eral before being filed with the court.
+21 (b) Any person or governmental body of this state having reliable evi-
+22 dence of abuse, abandonment, neglect or homelessness of a child may re-
+23 quest the attorney general or prosecuting attorney to file a petition.
+24 The prosecuting attorney or the attorney general may file a petition on
+25 behalf of any child whose parent, guardian, or custodian has been ac-
+26 cused in a criminal complaint of the crime of cruel treatment or neglect
+27 as defined in section 18-1501, Idaho Code.
+28 (2) Petitions shall be entitled "In the Matter of.............., a
+29 child under the age of eighteen (18) years" and shall be verified and set
+30 forth with specificity:
+31 (a) The facts which bring the child within the jurisdiction of the court
+32 upon the grounds set forth in section 16-1603, Idaho Code, with the ac-
+33 tions of each parent described therein;
+34 (b) The name, birth date, sex, and residence address of the child;
+35 (c) The name, birth date, sex, and residence address of all other chil-
+36 dren living at or having custodial visitation at the home where the in-
+37 jury to the subject child occurred;
+38 (d) The names and residence addresses of both the mother and father,
+39 guardian or other custodian. If neither of his parents, guardian or
+40 other custodian resides or can be found within the state, or if their
+41 residence addresses are unknown, the name of any known adult relative
+42 residing within the state;
+43 (e) The names and residence addresses of each person having sole or
+44 joint legal custody of the children described in this section;
+45 (f) Whether or not there exists a legal document including, but not lim-
+46 ited to, a divorce decree, stipulation or parenting agreement control-
+47 ling the custodial status of the children described in this section;
+
+8
+1 (g) Whether the child is in shelter care, and, if so, the type and nature
+2 of the shelter care, the circumstances necessitating such care and the
+3 date and time he was placed in such care;
+4 (h) When any of the facts required by this section cannot be determined,
+5 the petition shall so state. The petition may be based on information
+6 and belief but in such case the petition shall state the basis of such
+7 information and belief;
+8 (i) If the child has been or will be removed from the home, the petition
+9 shall state that:
+10 (i) Remaining in the home was contrary to the welfare of the
+11 child;
+12 (ii) Vesting legal custody of the child in the department or other
+13 authorized agency is in the best interests of the child; and
+14 (iii) Reasonable efforts have been made prior to the placement of
+15 the child in care to prevent the removal of the child from his home
+16 or, if such efforts were not provided, that reasonable efforts to
+17 prevent placement were not required because aggravated circum-
+18 stances were found;
+19 (j) The petition shall state with specificity whether a parent with
+20 joint legal custody or a noncustodial parent has been notified of place-
+21 ment;
+22 (k) The petition shall state whether a court has adjudicated the cus-
+23 todial rights of the parents and shall set forth the custodial status of
+24 the child;
+25 (l) The court may combine petitions and hearings where multiple peti-
+26 tions have been filed involving related children, parents or guardians.
+27 SECTION 5. That Section 16-1611, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 16-1611. SUMMONS. (1) After a petition has been filed, the clerk of the
+30 court may issue a summons requiring the person or persons who have custody
+31 of the child to bring the child before the court at the adjudicatory hearing
+32 held in accordance with section 16-1619, Idaho Code. Each parent or guardian
+33 shall also be notified in the manner hereinafter provided of the pendency of
+34 the case and the time and place set for the hearing. A summons shall be is-
+35 sued and served requiring the appearance of each parent and legal guardian,
+36 and a summons may be issued and served for any other person whose presence is
+37 required by the child, either of his parents or guardian or any other person
+38 whose presence, in the opinion of the court, is necessary.
+39 (2) A copy of the petition shall be attached to each summons.
+40 (3) The summons shall notify each of the parents, guardian or legal cus-
+41 todian of their right to retain and be represented by counsel. Each parent
+42 or legal guardian of each child named in the petition shall be notified by the
+43 court of the case and of the time and place set for the hearing.
+44 (4) If based on facts presented to the court, it appears that the court
+45 has jurisdiction upon the grounds set forth in section 16-1603, Idaho Code,
+46 and the court finds that the child should be removed from his present condi-
+47 tion or surroundings because continuation in such condition or surroundings
+48 would be contrary to the welfare of the child and vesting legal custody with
+49 the department or other authorized agency would be in the child's best in-
+
+9
+1 terests, the court shall include on the summons an order to remove the child.
+2 The order to remove the child shall specifically state that continuation in
+3 the present condition or surroundings is contrary to the welfare of the child
+4 and shall require a peace officer or other suitable person to take the child
+5 at once to a place of shelter care designated by the authorized agency which
+6 shall provide shelter care for the child.
+7 (5)(a) If there is reasonable cause to believe reliable evidence that
+8 a child would be safe in the child's present surroundings in the sole
+9 care of one (1) parent, legal guardian, or legal custodian and neglect
+10 or abuse by another parent, legal guardian, or legal custodian is al-
+11 leged, then a prosecutor or the attorney general may file a motion with
+12 the court for an order to prevent removal of the child that excludes the
+13 alleged offending parent, legal guardian, or legal custodian from the
+14 residence where the child resides. If the court finds reasonable cause
+15 to believe reliable evidence that such elements have been demonstrated,
+16 the court shall issue an order that shall exclude the alleged offending
+17 parent, legal guardian, or legal custodian from the dwelling where the
+18 child resides, restrain any contact or communication with the child,
+19 and restrain the alleged offending parent, legal guardian, or legal
+20 custodian from coming within one thousand five hundred (1,500) feet,
+21 or other appropriate distance, of the child until further order of the
+22 court.
+23 (b) A motion filed pursuant to paragraph (a) of this subsection shall be
+24 accompanied by a sworn affidavit from a law enforcement officer or the
+25 department.
+26 (c) A copy of an order to prevent removal along with a copy of the peti-
+27 tion and summons shall be served on the alleged offending parent, legal
+28 guardian, or legal custodian, and all parents, legal guardians, or le-
+29 gal custodians shall receive notice of a hearing on whether to continue
+30 an order within forty-eight (48) hours, excluding Saturdays, Sundays,
+31 and holidays.
+32 (d) The court shall continue an order to prevent removal until further
+33 order of the court if, at a hearing on whether to continue the order, the
+34 prosecutor or attorney general shows:
+35 (i) A petition and summons have been issued pursuant to subsec-
+36 tion (1) of this section;
+37 (ii) There is reasonable cause to believe reliable evidence the
+38 child is safe in the child's current surroundings in the sole care
+39 of one (1) parent, legal guardian, or legal custodian but has been
+40 neglected or abused by the other parent, legal guardian, or legal
+41 custodian; and
+42 (iii) Continuation of the order is in the child's best interest.
+43 (e) Any person who fails to abide by an order to prevent removal shall
+44 be guilty of misdemeanor criminal contempt, as described in section
+45 18-1801, Idaho Code.
+46 SECTION 6. That Section 16-1615, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+48 16-1615. SHELTER CARE HEARING. (1) Notwithstanding any other provi-
+49 sion of this chapter, when a child is taken into shelter care pursuant to sec-
+
+10
+1 tion 16-1608 or 16-1611, Idaho Code, a hearing to determine whether the child
+2 should be released shall be held according to the provisions of this section.
+3 (2) Each of the parents or custodian from whom the child was removed
+4 shall be given notice of the shelter care hearing. Such notice shall include
+5 the time, place, and purpose of the hearing; and, that such person is enti-
+6 tled to be represented by legal counsel. Notice as required by this subsec-
+7 tion shall be given at least twenty-four (24) hours before the shelter care
+8 hearing.
+9 (3) Notice of the shelter care hearing shall be given to the parents or
+10 custodian from whom the child was removed by personal service and the return
+11 of service shall be filed with the court and to any person having joint legal
+12 or physical custody of the subject child. Provided, however, that such ser-
+13 vice need not be made where the undelivered notice is returned to the court
+14 along with an affidavit stating that such parents or custodian could not be
+15 located or were out of the state.
+16 (4) The shelter care hearing may be continued for a reasonable time upon
+17 request by the parent, custodian or counsel for the child.
+18 (5) If, upon the completion of the shelter care hearing, it is shown
+19 that:
+20 (a) A petition has been filed; and
+21 (b) There is reasonable cause to believe reliable evidence the child
+22 comes within the jurisdiction of the court under this chapter and ei-
+23 ther:
+24 (i) The department made reasonable efforts to eliminate the need
+25 for shelter care but the efforts were unsuccessful; or
+26 (ii) The department made reasonable efforts to eliminate the need
+27 for shelter care but was not able to safely provide preventive ser-
+28 vices; and
+29 (c) The child could not be placed in the temporary sole custody of a par-
+30 ent having joint legal or physical custody; and
+31 (d) It is contrary to the welfare of the child to remain in the home; and
+32 (e) It is in the best interests of the child to remain in temporary shel-
+33 ter care pending the conclusion of the adjudicatory hearing.
+34 The court shall issue, within twenty-four (24) hours of such hearing, a shel-
+35 ter care order placing the child in the temporary legal custody of the de-
+36 partment or other authorized agency. Any reliable evidence may be consid-
+37 ered by the court which is of the type which reasonable people may rely upon.
+38 (6) Upon finding reasonable cause reliable evidence pursuant to sub-
+39 section (5)(b) of this section, the court shall order an adjudicatory hear-
+40 ing to be held as soon as possible, but in no event later than thirty (30) days
+41 from the date the petition was filed. In addition, the court shall inquire
+42 whether there is reason to believe that the child is an Indian child.
+43 (7) Upon entry of an order of shelter care, the court shall inquire:
+44 (a) If the child is of school age, about the department's efforts to
+45 keep the child in the school at which the child is currently enrolled;
+46 and
+47 (b) If a sibling group was removed from their home, about the depart-
+48 ment's efforts to place the siblings together, or if the department has
+49 not placed or will not be placing the siblings together, about a plan
+50 to ensure frequent visitation or ongoing interaction among the sib-
+
+11
+1 lings, unless visitation or ongoing interaction would be contrary to
+2 the safety or well-being of one (1) or more of the siblings.
+3 (8) If the court does not find that the child should be placed in or re-
+4 main in shelter care under subsection (5) of this section, the child shall be
+5 released.
+6 (9) If the court does not find reasonable cause reliable evidence pur-
+7 suant to subsection (5)(b) of this section, the court shall dismiss the peti-
+8 tion.
+9 SECTION 7. That Section 16-1619, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 16-1619. ADJUDICATORY HEARING -- CONDUCT OF HEARING -- CONSOLIDA-
+12 TION. (1) When a petition has been filed, the court shall set an adjudicatory
+13 hearing to be held no later than thirty (30) days after the filing of the
+14 petition.
+15 (2) A pretrial conference shall be held outside the presence of the
+16 court within three (3) to five (5) days before the adjudicatory hearing.
+17 Investigative reports required under section 16-1616, Idaho Code, shall be
+18 delivered to the court with copies to each of the parents and other legal cus-
+19 todians, guardian ad litem and attorney for the child prior to the pretrial
+20 conference.
+21 (3) At the adjudicatory hearing, parents or guardians with disabil-
+22 ities shall have the right to introduce admissible evidence regarding how
+23 use of adaptive equipment or supportive services may enable the parent or
+24 guardian to carry out the responsibilities of parenting the child by ad-
+25 dressing the reason for the removal of the child.
+26 (4) If a preponderance of the clear and convincing evidence at the adju-
+27 dicatory hearing shows that the child comes within the court's jurisdiction
+28 under this chapter upon the grounds set forth in section 16-1603, Idaho Code,
+29 the court shall so decree and in its decree shall make a finding on the record
+30 of the facts and conclusions of law upon which it exercises jurisdiction over
+31 the child. A child shall not come within the court's jurisdiction under this
+32 chapter on the basis of hearsay alone, but shall be supported by relevant and
+33 probative evidence on the record.
+34 (5) Upon entering its decree, the court shall consider any information
+35 relevant to the disposition of the child but in any event shall:
+36 (a) Place the child under the protective supervision of the department
+37 for an indeterminate period not to exceed the child's eighteenth birth-
+38 day; or
+39 (b) Vest legal custody in the department or other authorized agency
+40 subject to residual parental rights and subject to full judicial re-
+41 view by the court and, when contested by any party, judicial approval
+42 of all matters relating to the custody of the child by the department
+43 or other authorized agency. If the department has placed the child in
+44 a qualified residential treatment program, the court shall approve or
+45 disapprove the placement within sixty (60) days of placement in accor-
+46 dance with section 16-1619A, Idaho Code.
+47 (6) If the court vests legal custody in the department or other autho-
+48 rized agency, the court shall make detailed written findings based on facts
+49 in the record that, in addition to the findings required in subsection (4) of
+
+12
+1 this section, continuation of residence in the home would be contrary to the
+2 welfare of the child and that vesting legal custody with the department or
+3 other authorized agency would be in the best interests of the child. In ad-
+4 dition, the court shall make detailed written findings based on facts in the
+5 record as to whether the department made reasonable efforts to prevent the
+6 placement of the child in foster care, including findings, when appropriate,
+7 that:
+8 (a) Reasonable efforts were made but were not successful in eliminating
+9 the need for foster care placement of the child;
+10 (b) The department made reasonable efforts to prevent removal but was
+11 not able to safely provide preventive services;
+12 (c) Reasonable efforts to temporarily place the child with related per-
+13 sons were made but were not successful; or
+14 (d) Reasonable efforts to reunify the child with one (1) or both parents
+15 were not required because aggravated circumstances were present. If
+16 aggravated circumstances are found, a permanency hearing for the child
+17 shall be held within thirty (30) days of the determination of aggravated
+18 circumstances.
+19 (7)(a) The court shall also inquire regarding:
+20 (i) Whether there is reason to believe that the child is an Indian
+21 child;
+22 (ii) The efforts that have been made since the last hearing to de-
+23 termine whether the child is an Indian child; and
+24 (iii) The department's efforts to work with all tribes of which the
+25 child may be a member to verify whether the child is a member or el-
+26 igible for membership.
+27 (b) In addition, if the court vests legal custody of the child in the
+28 department or other authorized agency, the court shall inquire as to:
+29 (i) If the child is of school age, the department's efforts to
+30 keep the child in the school at which the child is currently en-
+31 rolled; and
+32 (ii) If a sibling group was removed from the home, the depart-
+33 ment's efforts to place the siblings together, or if the depart-
+34 ment has not placed or will not be placing the siblings together,
+35 about a plan to ensure frequent visitation or ongoing interac-
+36 tion among the siblings, unless visitation or ongoing interaction
+37 would be contrary to the safety or well-being of one (1) or more of
+38 the siblings.
+39 (c) If the court vests legal custody of the child in the department
+40 or other authorized agency and the child is being treated with psy-
+41 chotropic medication, these additional requirements shall apply:
+42 (i) The department shall report to the court the medications and
+43 dosages prescribed for the child and the medical professional who
+44 prescribed the medication; and
+45 (ii) The court shall inquire about and may make any additional in-
+46 quiry relevant to the use of psychotropic medications.
+47 (8) A decree vesting legal custody in the department shall be binding
+48 upon the department and may continue until the child's eighteenth birthday.
+49 (9) A decree vesting legal custody in an authorized agency other than
+50 the department shall be for a period of time not to exceed the child's eigh-
+
+13
+1 teenth birthday and on such other terms as the court shall state in its decree
+2 to be in the best interests of the child and which the court finds to be ac-
+3 ceptable to such authorized agency.
+4 (10) If the court does not find that the child comes within the juris-
+5 diction of this chapter pursuant to subsection (4) of this section, it shall
+6 dismiss the petition.
+7 (11) Where legal custody of a child is vested in the department, any
+8 party or counsel for a child may, at or after the disposition phase of an
+9 adjudicatory hearing, file and serve a written motion to contest matters
+10 relating to the placement of the child by the department. The hearing must
+11 be held no later than thirty (30) days from the date the motion was filed. If
+12 the court approves the placement, the court shall enter an order denying the
+13 motion. If the court does not approve the placement, the court shall enter
+14 an order directing the department to identify and implement an alternative
+15 placement in accordance with applicable law. The court shall consider ev-
+16 erything necessary or proper in the best interests of the children. The
+17 court shall consider all relevant factors, which may include:
+18 (a) The wishes of the child regarding the child's custodian;
+19 (b) The wishes of the child's parent or parents regarding the child's
+20 custody, if appropriate;
+21 (c) The interaction and interrelationship of the child with his parent
+22 or parents or foster parent or foster parents, and the child's siblings;
+23 (d) The child's adjustment to his home, school and community;
+24 (e) The character and circumstances of all individuals involved;
+25 (f) The need to promote continuity and stability in the life of the
+26 child; and
+27 (g) A history of domestic violence as defined in section 39-6303, Idaho
+28 Code, whether or not in the presence of the child, or a conviction for
+29 lewd and lascivious conduct or felony injury to a child.
+30 SECTION 8. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after
+32 July 1, 2026.

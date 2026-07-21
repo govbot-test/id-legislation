@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 687
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO PURCHASING; AMENDING CHAPTER 92, TITLE 67, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 67-9236, IDAHO CODE, TO ESTABLISH PROVI-
+4 SIONS REGARDING THE PURCHASE OF UNBIASED ARTIFICIAL INTELLIGENCE IN
+5 STATE GOVERNMENT, TO DEFINE TERMS, TO ESTABLISH REQUIREMENTS FOR THE
+6 PURCHASE, DEPLOYMENT, OR USE OF A LARGE LANGUAGE MODEL, TO ESTABLISH
+7 CONTRACT REQUIREMENTS, TO PROVIDE FOR COMPLIANCE REVIEW AND PROCE-
+8 DURES, AND TO PROVIDE FOR CONSTRUCTION; AND DECLARING AN EMERGENCY.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 92, Title 67, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 67-9236, Idaho Code, and to read as follows:
+13 67-9236. UNBIASED ARTIFICIAL INTELLIGENCE IN STATE GOVERNMENT. (1) As
+14 used in this section:
+15 (a) "Agency" means any department, office, division, board, commis-
+16 sion, institution, or other entity of the executive branch of state gov-
+17 ernment, including institutions of higher education.
+18 (b) "Agency head" means the chief executive officer or governing au-
+19 thority of an agency.
+20 (c) "Diversity, equity, and inclusion" or "DEI" means any trainings,
+21 programs, activities, or instruction that is derived from or that pro-
+22 motes the tenets or concepts of critical theory, including but not lim-
+23 ited to the concepts of unconscious or implicit bias, microaggressions,
+24 internalized racism, cultural appropriation, structural equity, set-
+25 tler colonialism, group marginalization, systemic oppression, social
+26 justice, institutional or systemic racism, white fragility, racial
+27 privilege, disparate impact, intersectionality, sexual privilege,
+28 patriarchy, gender theory, queer theory, neopronouns, transgender
+29 ideology, misgendering, othering, deadnaming, heteronormativity,
+30 allyship, or any other related formulation of these tenets or concepts.
+31 (d) "Ideological agenda" means the intentional alteration, suppres-
+32 sion, prioritization, or framing of information or representation in
+33 an artificial intelligence system's outputs to promote a political, so-
+34 cial, or policy outcome, including DEI concepts, when such alteration
+35 is not expressly requested by the user.
+36 (e) "Large language model" means a generative artificial intelligence
+37 system trained on large datasets that is capable of producing natural
+38 language text, images, or other content in response to user prompts.
+39 (2) An agency shall procure, deploy, or use a large language model only
+40 if the model is developed and implemented in accordance with the following
+41 principles:
+
+2
+1 (a) Truth-seeking: A large language model shall prioritize factual ac-
+2 curacy, historical fidelity, scientific inquiry, and objectivity when
+3 responding to prompts seeking information or analysis. Where reliable
+4 information is incomplete, disputed, or unavailable, the model shall
+5 acknowledge such uncertainty; and
+6 (b) Ideological neutrality: A large language model shall function as
+7 a neutral, nonpartisan tool and shall not intentionally manipulate out-
+8 puts to advance or suppress an ideological agenda, including DEI con-
+9 cepts. Ideological, normative, or policy-based responses may be gener-
+10 ated only when expressly requested by the user or when clearly disclosed
+11 and readily accessible to the user.
+12 (3)(a) No agency shall procure, deploy, or use a large language model
+13 that is designed, trained, fine-tuned, or configured to:
+14 (i) Alter factual information or historical representation for
+15 the purpose of achieving outcomes associated with DEI;
+16 (ii) Suppress, refuse, or condition the generation of lawful con-
+17 tent based on the race or sex of individuals or groups;
+18 (iii) Embed DEI-based constraints, guardrails, or response poli-
+19 cies that override accuracy or objectivity; or
+20 (iv) Require users to adopt, affirm, or comply with DEI concepts
+21 as a condition of receiving information.
+22 (b) Nothing in this subsection shall prohibit a large language model
+23 from accurately describing DEI concepts, history, or critiques in an
+24 informational, academic, or analytical context when such information
+25 is requested by the user.
+26 (4)(a) Any contract entered into by an agency for the procurement or use
+27 of a large language model shall require compliance with this paragraph.
+28 (i) A contract shall require the vendor to provide the agency with
+29 reasonable access, subject to confidentiality and nondisclosure
+30 protections, to materials necessary to verify compliance with
+31 this section, including but not limited to:
+32 1. System prompts and content policies;
+33 2. Model specifications and training directives;
+34 3. Evaluation methodologies and testing results; and
+35 4. Source code, configuration files, or other backend tech-
+36 nical materials, if necessary to assess intentional ideo-
+37 logical manipulation.
+38 (ii) A contract shall provide that, upon a finding of material
+39 noncompliance following notice and a reasonable opportunity to
+40 cure, the agency may terminate the contract and require the vendor
+41 to bear reasonable decommissioning or transition costs.
+42 (b) Agencies may utilize state personnel or independent technical ex-
+43 perts to conduct compliance reviews.
+44 (5) Each agency shall adopt procedures to ensure compliance with this
+45 section, including periodic review of large language model performance. In
+46 evaluating compliance, agencies shall consider:
+47 (a) Whether distortions or biases are systemic or intentional rather
+48 than incidental errors;
+49 (b) The intended use and operational context of the model; and
+50 (c) The technical feasibility of corrective action.
+
+3
+1 (6) Nothing in this section shall be construed to:
+2 (a) Regulate private speech or restrict the development or sale of ar-
+3 tificial intelligence systems outside state government;
+4 (b) Mandate ideological viewpoints or prohibit lawful academic in-
+5 quiry; or
+6 (c) Create a private right of action.
+7 SECTION 2. An emergency existing therefor, which emergency is hereby
+8 declared to exist, this act shall be in full force and effect on and after its
+9 passage and approval.

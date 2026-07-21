@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 895
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO DATA CENTERS; PROVIDING LEGISLATIVE FINDINGS AND INTENT; AMEND-
+3 ING CHAPTER 2, TITLE 42, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+4 42-252, IDAHO CODE, TO ESTABLISH LIMITATIONS FOR CONSUMPTIVE USE OF WA-
+5 TER FOR DATA CENTERS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+6 TIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. (1) The Legislature finds
+9 that data centers, as defined in section 63-3622VV, Idaho Code, require sig-
+10 nificant amounts of water, and, therefore, finds, for purposes of sections
+11 42-202A and 42-222, Idaho Code, that the water required by data centers:
+12 (a) Conflicts with the local public interest as defined in section
+13 42-202B, Idaho Code;
+14 (b) Is contrary to the conservation of water resources within the state
+15 of Idaho; and
+16 (c) Will adversely affect the local economy of the watershed or local
+17 area within which the source of water for the proposed use originates,
+18 in the case where the place of use is outside of the watershed or local
+19 area where the source of water originates.
+20 (2) The Legislature further finds that the director of the Department
+21 of Water Resources is required to make findings related to these criteria
+22 when evaluating a new appropriation or transfer of existing water rights for
+23 data centers, and it is the intent of the Legislature for the director to
+24 consider these legislative findings regarding the data center's consumptive
+25 use and its impacts to Idaho's water supply.
+26 SECTION 2. That Chapter 2, Title 42, Idaho Code, be, and the same is
+27 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+28 ignated as Section 42-252, Idaho Code, and to read as follows:
+29 42-252. LIMITATIONS ON CONSUMPTIVE USE -- DATA CENTERS. Data centers,
+30 as that term is defined in section 63-3622VV, Idaho Code, that begin con-
+31 struction on or after July 1, 2026, may not use water for cooling purposes
+32 as a consumptive use, unless the water is supplied by a municipal, water dis-
+33 trict, or water and sewer district water system.
+34 SECTION 3. An emergency existing therefor, which emergency is hereby
+35 declared to exist, this act shall be in full force and effect on and after
+36 July 1, 2026.

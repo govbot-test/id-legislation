@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 583
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO SHORT-TERM RENTALS; AMENDING SECTION 67-6539, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING LIMITATIONS ON REGULATION OF SHORT-TERM
+4 RENTALS; AMENDING SECTION 63-1804, IDAHO CODE, TO REVISE PROVISIONS
+5 REGARDING LIMITING TAX DUTIES OF SHORT-TERM RENTAL MARKETPLACES; AND
+6 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 67-6539, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 67-6539. LIMITATIONS ON REGULATION OF SHORT-TERM RENTALS AND VACATION
+11 RENTALS. (1) Neither a county nor a city may shall enact or enforce any or-
+12 dinance that has the express or practical effect of prohibiting any type of
+13 short-term rentals or vacation rentals in the county or city. A county or
+14 city may implement enact or enforce such reasonable regulations as it deems
+15 are necessary to safeguard the public health, safety and general welfare in
+16 order to protect the integrity of residential neighborhoods in which short-
+17 term rentals or vacation rentals operate and safety as long as the reasonable
+18 regulations do not impose different restrictions or obligations on short-
+19 term rentals than are imposed on single-family dwellings or similar struc-
+20 tures not used as short-term rentals, or unless the regulations are permit-
+21 ted by this section. A short-term rental or vacation rental shall be clas-
+22 sified as a non-transient residential land use for zoning and building code
+23 purposes and be subject to all zoning requirements applicable thereto and
+24 only to building codes adopted by the Idaho building code board.
+25 (2)(a) For purposes of this section, "different restrictions or obli-
+26 gations" means any requirement or regulation that would not be imposed
+27 but for a property's use as a short-term rental and specifically in-
+28 cludes but is not limited to the following:
+29 (i) Requiring owner occupation for any amount of time;
+30 (ii) Requiring professional property management;
+31 (iii) Requiring additional insurance;
+32 (iv) Requiring reporting of use or other statistics;
+33 (v) Requiring additional fire protection or fire sprinklers;
+34 (vi) Requiring additional or improved means of ingress and
+35 egress;
+36 (vii) Requiring additional parking;
+37 (viii) Requiring modification to the physical structure of the
+38 property;
+39 (ix) Requiring inspections;
+40 (x) Requiring internal or external signage, notices, or dia-
+41 grams;
+42 (xi) Imposing a limit on the days a property can be rented;
+
+2
+1 (xii) Requiring notices to neighboring properties;
+2 (xiii) Requiring increased sewer or other utility capacity;
+3 (xiv) Requiring a conditional use permit in a residential zone;
+4 (xv) Limiting proximity to other short-term rentals;
+5 (xvi) Restricting the number of short-term rentals in a county or
+6 city; or
+7 (xvii) Requiring the property to be improved to meet current
+8 building codes unless the same would be required without regard to
+9 the short-term rental use.
+10 (b) The terms defined in section 63-1803, Idaho Code, shall apply to
+11 this section.
+12 (3) A county or city may, by ordinance, require an owner of a short-term
+13 rental to implement the following requirements only:
+14 (a) That all sleeping areas in a short-term rental, including when ap-
+15 plicable, basements, living rooms, and family rooms, be equipped with
+16 functioning smoke alarms;
+17 (b) That the short-term rental be equipped with a functioning fire ex-
+18 tinguisher and a functioning carbon monoxide detector on each floor;
+19 (c) That removable escape ladders be available in all sleeping areas
+20 with a window that are located above the ground floor;
+21 (d) That maximum occupancy limits for short-term rentals do not exceed
+22 those non-transient residential limits as contained in the interna-
+23 tional building codes as adopted by the Idaho building code board; and
+24 (e) That an easily accessible informational handout be available to
+25 tenants describing the location of exits, the location of fire ex-
+26 tinguishers, the location of any supplied first aid kits, and a phone
+27 number to contact the owner or manager of the short-term rental in the
+28 case of an emergency.
+29 (4) No county or city shall enact or enforce any covenant, condition,
+30 restriction, or contract that regulates a short-term rental except as al-
+31 lowed in this section.
+32 (5) No county or city shall require a license, fee, permit, certifica-
+33 tion, or registration to operate a short-term rental.
+34 (6) All short-term rental properties along with their owners and ten-
+35 ants shall be subject to all other county and city ordinances and penalties
+36 that apply to other non-short-term rental residential uses, including but
+37 not limited to noise, parking, nuisance, curfew, and traffic regulations.
+38 (2) (7) Neither a county nor a city can shall regulate the operation of
+39 a short-term rental marketplace in accordance with the provisions of chapter
+40 18, title 63, Idaho Code.
+41 SECTION 2. That Section 63-1804, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 63-1804. LIMITING TAX DUTIES OF SHORT-TERM RENTAL MARKETPLACES AND
+44 OWNERS -- COLLECTION OF TAX. (1) A local government may not levy a sales,
+45 use, franchise, receipts, or other similar tax or fee on the business of
+46 operating a short-term rental marketplace.
+47 (2) A short-term rental marketplace shall register with the state
+48 tax commission for collection, reporting, and payment of sales and use and
+49 travel and convention taxes levied by this state and any applicable local
+
+3
+1 government taxes administered by the state tax commission on short-term
+2 rentals and vacation rentals due from a lodging operator on any lodging
+3 transaction facilitated by the short-term rental marketplace.
+4 (3) A short-term rental marketplace shall collect, report, and pay
+5 taxes imposed on the lodging operator or occupant of a short-term rental or
+6 vacation rental by any local government.
+7 (4) Any local government that has levied a tax pursuant to statutory au-
+8 thorization, may contract with the state tax commission for the collection
+9 and administration of such taxes in like manner and under definitions and
+10 rules of the state tax commission for the collection and administration of
+11 the state sales or use tax under chapter 36, title 63, Idaho Code. Alterna-
+12 tively, such local government shall have authority to administer and collect
+13 such tax. All revenues collected on behalf of the local governments by the
+14 state tax commission pursuant to this chapter shall be distributed as fol-
+15 lows: An amount of money shall be distributed to the state refund fund suffi-
+16 cient to pay current refund claims. All refunds authorized by the commission
+17 to be paid shall be paid through the state refund fund and those moneys are
+18 continuously appropriated. The state tax commission may retain an amount
+19 of money equal to such fee as may be agreed upon between the state tax com-
+20 mission and such local government for the actual cost of the collection and
+21 administration of the tax. The amount retained by the commission shall not
+22 exceed the amount authorized to be expended by appropriation by the legis-
+23 lature. Any unencumbered balance in excess of the actual cost at the end of
+24 each fiscal year shall be distributed as provided in this section. All re-
+25 maining moneys received pursuant to this chapter shall be placed in a fund
+26 designated by the state controller and remitted monthly to the local govern-
+27 ment levying such tax.
+28 (5) If an owner of a short-term rental offers a short-term rental or va-
+29 cation rental directly to an occupant without the use of a short-term rental
+30 marketplace, such owner shall comply with all the requirements provided in
+31 this section applicable to a short-term rental marketplace.
+32 (5) (6) A short-term rental marketplace that has not facilitated a
+33 lodging transaction in Idaho shall have forty-five (45) days to comply with
+34 this section upon completion of their first lodging transaction in Idaho.
+35 SECTION 3. An emergency existing therefor, which emergency is hereby
+36 declared to exist, this act shall be in full force and effect on and after
+37 July 1, 2026.

@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 734
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3503B, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING THE ALLOTMENT AND APPORTIONMENT OF TAX DUE FROM
+4 PRODUCERS OF ELECTRICITY BY MEANS OF WIND ENERGY, SOLAR ENERGY, OR
+5 GEOTHERMAL ENERGY BY THE STATE TAX COMMISSION AND TO MAKE TECHNICAL
+6 CORRECTIONS; DECLARING AN EMERGENCY AND PROVIDING RETROACTIVE APPLICA-
+7 TION.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 63-3503B, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 63-3503B. FILING OPERATORS' STATEMENTS -- ALLOTMENT AND APPORTION-
+12 MENT OF TAX DUE FROM PRODUCERS OF ELECTRICITY BY MEANS OF WIND ENERGY, SOLAR
+13 ENERGY, OR GEOTHERMAL ENERGY BY STATE TAX COMMISSION. (1) Every producer of
+14 electricity by means of wind energy, by means of solar energy, or by means
+15 of geothermal energy in this state shall file with the state tax commission
+16 of the state of Idaho an operator's statement in the manner as provided for
+17 in section 63-404, Idaho Code, and shall include thereon a statement of the
+18 prior calendar year's gross wind energy earnings, gross solar energy earn-
+19 ings, or gross geothermal energy earnings.
+20 (2) Upon examining and verifying said statement, the state tax commis-
+21 sion shall compute the amount of the wind energy tax, solar energy tax, or the
+22 geothermal energy tax based on the gross wind energy earnings, gross solar
+23 energy earnings, or the gross geothermal energy earnings and shall allot to
+24 each county in which the property of such producer is situated, and otherwise
+25 exempted from taxation by section 63-602JJ, Idaho Code, either: that pro-
+26 portion of the total wind energy tax, that proportion of the total solar en-
+27 ergy tax, or that proportion of the total geothermal energy tax of such pro-
+28 ducer shown to be due as the same proportion that the total original cost of
+29 property situated in such county, and otherwise exempted from taxation by
+30 section 63-602JJ, Idaho Code, bears to the total original cost of such prop-
+31 erty of such producer for the wind energy project, of such producer for the
+32 solar energy project, or of such producer for the geothermal energy project.
+33 (3) The state tax commission shall then, for each county, apportion the
+34 wind energy tax, solar energy tax, or geothermal energy tax so allotted to
+35 such county among the several taxing units thereof within which any property
+36 of such producer is situated, and otherwise exempted from taxation by sec-
+37 tion 63-602JJ, Idaho Code, by apportioning to each such taxing unit that pro-
+38 portion of the wind energy tax, solar energy tax, or geothermal energy tax so
+39 allotted to such county. For such apportionment, the state tax commission
+40 shall calculate:
+41 (a) Calculate the weighted original cost which shall be the product of
+42 the original cost of such property within such taxing unit times such
+
+2
+1 taxing unit's property tax levy rate for the prior year and; provided
+2 that if a taxing unit that is a school district did not impose a supple-
+3 mental levy pursuant to section 33-802, Idaho Code, in the prior year,
+4 the state tax commission shall calculate the weighted original cost for
+5 such school district using the greater of such school district's prop-
+6 erty tax levy rate for the prior year or the property tax levy rate of the
+7 county in which such property is situated for the prior year;
+8 (b) Calculate the weighted apportionment rate which shall be the ratio
+9 of the wind energy tax, of the solar energy tax, or of the geothermal en-
+10 ergy tax, as the case may be, allotted to such county, to the aggregate
+11 weighted original cost for all such taxing units within which the prop-
+12 erty is located and then shall calculate; and
+13 (c) Calculate the apportionment of the wind energy tax, solar energy
+14 tax, or geothermal energy tax for each such taxing unit to be equal to
+15 the product of the weighted original cost times the weighted apportion-
+16 ment rate.
+17 (4) The state tax commission shall, on or before the third Monday in
+18 May, notify the state superintendent of public instruction, the county au-
+19 ditor, and the county treasurer of such allotment and apportionment and the
+20 amounts thereof.
+21 (5) On or before the first Monday in August, the county auditor shall
+22 notify the appropriate taxing units of the amount of wind energy tax, the
+23 amount of solar energy tax, or the amount of the geothermal energy tax be-
+24 ing apportioned and the amount of the solar energy tax distributed to each of
+25 these taxing units during the twelve (12) months immediately preceding July
+26 1 of the current tax year.
+27 SECTION 2. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after its
+29 passage and approval, and retroactively to January 1, 2026.

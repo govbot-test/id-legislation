@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 974
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE IDAHO STATE POLICE; APPROPRIATING
+3 ADDITIONAL MONEYS TO THE IDAHO STATE POLICE FOR FISCAL YEAR 2027; AND
+4 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. In addition to any other appropriation provided by law,
+7 there is hereby appropriated to the Idaho State Police the following amounts
+8 to be expended according to the designated programs for personnel costs from
+9 the listed funds for the period July 1, 2026, through June 30, 2027:
+10 I. DIRECTOR'S OFFICE:
+11 FROM:
+12 Idaho Law Enforcement (Project Choice) Fund $130,000
+13 II. CAPITOL PROTECTIVE SERVICES:
+14 FROM:
+15 Idaho Law Enforcement (Project Choice) Fund $260,000
+16 III. INVESTIGATIONS:
+17 FROM:
+18 Idaho Law Enforcement (Project Choice) Fund $2,210,000
+19 IV. PATROL:
+20 FROM:
+21 Idaho Law Enforcement (Project Choice) Fund $3,640,000
+22 Federal Grant Fund 195,000
+23 TOTAL $3,835,000
+24 V. LAW ENFORCEMENT PROGRAMS:
+25 FROM:
+26 Idaho Law Enforcement (Project Choice) Fund $260,000
+27 GRAND TOTAL $6,695,000
+28 SECTION 2. An emergency existing therefor, which emergency is hereby
+29 declared to exist, this act shall be in full force and effect on and after
+30 July 1, 2026.

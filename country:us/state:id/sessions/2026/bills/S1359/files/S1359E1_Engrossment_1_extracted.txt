@@ -1,0 +1,345 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1359, As Amended
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE VIRTUAL CURRENCY KIOSK FRAUD PREVENTION ACT; AMENDING TITLE
+3 28, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 54, TITLE 28, IDAHO
+4 CODE, TO PROVIDE A SHORT TITLE, TO DEFINE TERMS, TO ESTABLISH A LICENS-
+5 ING REQUIREMENT, TO ESTABLISH REPORTING REQUIREMENTS, TO PROVIDE FOR
+6 MANDATORY DISCLOSURES, TO ESTABLISH CUSTOMER SERVICE REQUIREMENTS,
+7 TO PROVIDE FOR TRANSACTION RECEIPTS, TO PROVIDE FOR THE PREVENTION OF
+8 FRAUDULENT ACTIVITY AND MONEY LAUNDERING, TO PROVIDE FOR REFUNDS, TO
+9 PROVIDE FOR PENALTIES, TO PROVIDE FOR INFORMATION-SHARING RELATED TO
+10 VIRTUAL CURRENCY KIOSK FRAUD, AND TO PROVIDE FOR CHAPTER APPLICABILITY;
+11 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. That Title 28, Idaho Code, be, and the same is hereby amended
+14 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+15 ter 54, Title 28, Idaho Code, and to read as follows:
+16 CHAPTER 54
+17 VIRTUAL CURRENCY KIOSK FRAUD PREVENTION ACT
+18 28-5401. SHORT TITLE. This act shall be known and may be cited as the
+19 "Virtual Currency Kiosk Fraud Prevention Act."
+20 28-5402. DEFINITIONS. For the purposes of this chapter:
+21 (1) "Blockchain analytics" means the analysis of data from blockchains
+22 or public distributed ledgers, including associated transaction informa-
+23 tion.
+24 (2) "Blockchain analytics and tracing software" means a software ser-
+25 vice that uses blockchain analytics data to provide risk-specific informa-
+26 tion and tracing of virtual currency wallet addresses.
+27 (3) "Department" means the Idaho department of finance.
+28 (4) "Fraud" or "fraudulent" means an intentional deception or misrep-
+29 resentation made by a person with the knowledge that the deception could re-
+30 sult in some unauthorized benefit to himself or some other person.
+31 (5) "New customer" means a user who is transacting with an operator:
+32 (a) For the first time; or
+33 (b) Within seventy-two (72) hours after such user's first transaction
+34 with the operator.
+35 (6)(a) "Operator" means a person who owns, operates, or manages a vir-
+36 tual currency kiosk located in the United States or in any United States
+37 territory.
+38 (b) "Operator" does not include a bank or credit union that solely pro-
+39 vides services to supply a virtual currency kiosk with legal tender or
+
+2
+1 that provides deposit services for legal tender deposited in a virtual
+2 currency kiosk.
+3 (7) "Potentially vulnerable older adult" means a person sixty-five
+4 (65) years of age or older who is unable to protect himself from maltreatment
+5 because of:
+6 (a) A mental, physical, or developmental disability;
+7 (b) A degenerative brain disease;
+8 (c) An inability to communicate or implement decisions regarding his
+9 person; or
+10 (d) Other infirmities of aging in an older adult.
+11 (8) "Transaction fees" means fees or expenses paid by a user in order
+12 to conduct a virtual currency kiosk transaction. Transaction fees equal the
+13 difference between the market price of the virtual currency and the price of
+14 the virtual currency charged to the user.
+15 (9) "Transaction hash" means the unique alphanumeric identifier as-
+16 signed to a virtual currency kiosk transaction.
+17 (10) "User" means any individual or entity that initiates, authorizes,
+18 or completes a transaction involving virtual currency through a virtual cur-
+19 rency kiosk, whether for the purpose of purchasing, selling, transferring,
+20 or otherwise exchanging virtual currency.
+21 (11) "Virtual currency" means a type of digital asset, as defined in
+22 section 28-5303, Idaho Code, that confers economic, proprietary, or access
+23 rights or powers and is recorded using cryptographically secured dis-
+24 tributed ledger technology or any similar analogue.
+25 (12) "Virtual currency address" means an alphanumeric identifier asso-
+26 ciated with a virtual currency wallet identifying the location to which a
+27 virtual currency transaction can be sent.
+28 (13) "Virtual currency kiosk" means a stand-alone machine that is ca-
+29 pable of accepting or dispensing legal tender in exchange for virtual cur-
+30 rency.
+31 (14) "Virtual currency kiosk transaction" means a transaction con-
+32 ducted or performed, in whole or in part, by electronic means via a virtual
+33 currency kiosk. Virtual currency kiosk transaction also means a transaction
+34 made at a virtual currency kiosk to purchase virtual currency with or to sell
+35 virtual currency for United States dollars.
+36 (15) "Virtual currency wallet" means a software application or other
+37 mechanism providing a means to hold the keys necessary to access and transfer
+38 virtual currency.
+39 28-5403. OPERATOR LICENSING REQUIREMENT. In order for an operator to
+40 engage in or hold itself out as being able to engage in a virtual currency
+41 kiosk transaction, such operator must be a licensed money transmitter pur-
+42 suant to the provisions of chapter 29, title 26, Idaho Code.
+43 28-5404. OPERATOR REPORTING REQUIREMENTS. (1) An operator shall com-
+44 plete, collect, and maintain quarterly reports and any supporting records
+45 for each virtual currency kiosk that it operates in Idaho. Such reports and
+46 records shall be made available to the department, upon request, in a format
+47 specified by the department, within three (3) business days of such request.
+
+3
+1 Reports pursuant to this subsection shall include, at a minimum, the follow-
+2 ing information:
+3 (a) The operator's legal name;
+4 (b) Any fictitious or trade name used by the operator, if applicable;
+5 (c) The operator's physical address;
+6 (d) The date the operator commenced operation of the virtual currency
+7 kiosk at the location;
+8 (e) The date the operator ceased operation of the virtual currency
+9 kiosk at the location, if applicable;
+10 (f) Each address used by the operator to provide customer service in
+11 Idaho; and
+12 (g) The number of transactions that the operator declined due to suspi-
+13 cion of fraud or other illegal activity.
+14 (2) An operator shall complete, collect, and maintain annual reports
+15 and any supporting records for each virtual currency kiosk it operates in
+16 Idaho, to be completed on or before March 31, relating to the operator's
+17 business conducted in the prior year. Such reports and records shall be made
+18 available to the department, upon request, in a format specified by the de-
+19 partment, within three (3) business days of such request. A report pursuant
+20 to this subsection shall be on a form prescribed by the department and shall
+21 include, at a minimum:
+22 (a) Gross revenue attributable to virtual currency transactions con-
+23 ducted via virtual currency kiosks in the state;
+24 (b) A copy of any complaint filed against the operator with the bet-
+25 ter business bureau, with any state agency other than the department, or
+26 with any federal agency, and a description of the resolution, if any, of
+27 each such complaint;
+28 (c) The total number and value of virtual currency transactions con-
+29 ducted via the operator's virtual currency kiosks in the state;
+30 (d) The total number of refunds requested by users, the number of refund
+31 requests granted and the number of refund requests denied by the opera-
+32 tor, and the total dollar amount of such refunds;
+33 (e) Contact details of the operator's compliance officer;
+34 (f) A dedicated United States phone number and email address for commu-
+35 nications with government fraud investigators and law enforcement; and
+36 (g) The total number of virtual currency corresponding locations.
+37 (3) The phone number and email address required pursuant to subsection
+38 (2)(f) of this section shall be frequently monitored. Upon request from law
+39 enforcement or the department, a virtual currency kiosk operator shall pro-
+40 vide trace findings and grant assistance with blockchain analytics for in-
+41 vestigative purposes.
+42 (4) Within ten (10) business days after receipt of a request from the
+43 department, the virtual currency kiosk operator shall provide any transac-
+44 tion and user information requested by the department, including with re-
+45 spect to any transactions attempted but denied.
+46 (5) Transaction data collected by the department pursuant to this sec-
+47 tion shall be confidential and may be released only in composite form, unless
+48 otherwise required by law.
+
+4
+1 (6) Failure to complete, collect, or maintain a report or record as re-
+2 quired pursuant to this section, or to timely provide such reports or records
+3 to the department, shall constitute a violation of this chapter.
+4 28-5405. MANDATORY DISCLOSURES. (1) An operator shall disclose all
+5 relevant terms and conditions generally associated with the products, ser-
+6 vices, and activities of the operator and virtual currency, including but
+7 not limited to transaction fees collected and exchange rates used. Such dis-
+8 closures shall be made in a clear, conspicuous, and easily readable manner in
+9 the language chosen by the user.
+10 (2) A user who engages with a virtual currency kiosk shall receive ac-
+11 knowledgment of receipt of all disclosures required under this section via
+12 confirmation of consent at such virtual currency kiosk.
+13 (3) The disclosures required by this section shall address the follow-
+14 ing in substantially the following form:
+15 WARNING: this technology can be used to defraud you.
+16 If someone asked you to deposit money in this machine and/or is on the
+17 phone with you and claims to be a:
+18 Friend or family member,
+19 Government agent,
+20 Computer software representative,
+21 Bill collector,
+22 Law enforcement officer, or
+23 A person whom you do not know...
+24 STOP THIS TRANSACTION IMMEDIATELY, contact law enforcement, and notify
+25 the kiosk operator.
+26 This may be a scam. NEVER SEND MONEY TO SOMEONE YOU DO NOT KNOW.
+27 (4) The material risks associated with virtual currency and virtual
+28 currency transactions shall be disclosed to each user of a virtual currency
+29 kiosk in Idaho. Such disclosures shall be accompanied by information that
+30 may be used by a user to seek assistance, including:
+31 (a) The name, address, and telephone number of the operator;
+32 (b) The days and times the operator is available and the methods that a
+33 user may use to contact the operator for assistance; and
+34 (c) The contact information for state and local law enforcement, which
+35 shall be displayed on or at the location of the virtual currency kiosk or
+36 on the first screen of such kiosk.
+37 28-5406. CUSTOMER SERVICE REQUIREMENTS. (1) An operator shall provide
+38 live customer service at a toll-free number seven (7) days a week. Daily
+39 business hours shall be from, at a minimum, 8:00 a.m. to 8:00 p.m. local time
+40 for all Idaho locations where the operator's virtual currency kiosks are lo-
+41 cated.
+
+5
+1 (2) Trained representatives of an operator shall be available to re-
+2 spond to customer telephone inquiries during the business hours required
+3 pursuant to this section.
+4 (3) Inquiries received after normal business hours shall be responded
+5 to by a trained representative on the next business day.
+6 28-5407. TRANSACTION RECEIPTS. (1) An operator shall provide each
+7 user with paper or electronic receipts at the conclusion of each virtual
+8 currency kiosk transaction.
+9 (2) A receipt required pursuant to this section shall include the fol-
+10 lowing information:
+11 (a) The operator's name and toll-free customer service phone number
+12 with operating hours;
+13 (b) Relevant contact information for the operator, state and local law
+14 enforcement, and the department;
+15 (c) Type, value, date, and precise time of the transaction and each ap-
+16 plicable virtual currency address and transaction hash;
+17 (d) All transaction fees;
+18 (e) The exchange rate of the virtual currency to U.S. dollars; and
+19 (f) The virtual currency kiosk operator's refund policy.
+20 28-5408. PREVENTION OF FRAUDULENT ACTIVITY AND MONEY LAUNDERING. (1)
+21 An operator shall take reasonable steps to detect and prevent fraud and money
+22 laundering. This shall include:
+23 (a) Establishing and maintaining a written anti-fraud policy;
+24 (b) Using blockchain analytics and tracing software to assist in the
+25 prevention of sending virtual currency to a virtual currency wallet
+26 known or likely to be affiliated with fraudulent activity at the time of
+27 a transaction and to detect transaction patterns indicative of fraud or
+28 other illicit activities;
+29 (c) Blocking transactions to virtual currency wallets associated
+30 with overseas exchanges non-accessible for users located in the United
+31 States;
+32 (d) Not accepting from or dispensing to a new customer an amount that
+33 is more than two thousand dollars ($2,000) in United States currency,
+34 or its equivalent in virtual currency, during any twenty-four (24) hour
+35 period;
+36 (e) Ensuring that during the thirty (30) calendar days following a new
+37 customer's first transaction, the cumulative total of all transactions
+38 with an operator shall not exceed ten thousand dollars ($10,000) in U.S.
+39 currency or its equivalent in virtual currency; and
+40 (f) Implementing the following protections for new customers:
+41 (i) Delaying settlement of a new customer's first virtual cur-
+42 rency kiosk transaction for seventy-two (72) hours; and
+43 (ii) Allowing, upon request, for the full refund of any fraudulent
+44 virtual currency kiosk transaction experienced by a new customer
+45 within seventy-two (72) hours after such transaction, if such
+46 user:
+
+6
+1 1. Contacts the operator in writing to provide notice of the
+2 fraudulent nature of the virtual currency kiosk transac-
+3 tion; and
+4 2. Files a report with a government or law enforcement
+5 agency memorializing the fraudulent nature of the virtual
+6 currency kiosk transaction.
+7 (2) A refund pursuant to subsection (1)(f) this section shall include
+8 all transaction fees paid by a new customer at the time of the transaction and
+9 shall occur within ten (10) business days after such new customer provides
+10 notice of a fraudulent virtual currency transaction. A refund pursuant to
+11 this section shall be paid to a user in the user's originating currency.
+12 (3) The transaction limits and protections provided for in this sec-
+13 tion shall apply to all virtual currency transactions offered by an operator
+14 through a virtual currency kiosk and any affiliated kiosks.
+15 (4) The department may request evidence from any virtual currency kiosk
+16 operator of its current use of blockchain analytics as part of the operator's
+17 registration and maintenance of a money transmitter license.
+18 (5) An operator shall provide notice to users regarding the delayed
+19 settlement or refund provisions of this section, including contact informa-
+20 tion to report a fraudulent transaction in writing.
+21 28-5409. TRANSACTION FEE REFUNDS. (1) Subject to the requirements of
+22 this section, an operator shall issue a refund of all transaction fees paid
+23 by a user at the time of a transaction if such user experiences fraud with re-
+24 spect to such transaction. Such refund shall be issued notwithstanding any
+25 acknowledgment that a user may have made prior to finalizing such transac-
+26 tion.
+27 (2) A user who seeks a refund pursuant to the provisions of this section
+28 shall:
+29 (a) Have engaged in a transaction or transactions involving the virtual
+30 currency kiosk that were affected by fraud, whether authorized or unau-
+31 thorized;
+32 (b) Contact the virtual currency kiosk operator to inform the opera-
+33 tor of the fraudulent nature of the transaction or transactions at issue
+34 within thirty (30) days after the last transaction to occur or becoming
+35 aware of the theft; and
+36 (c) Within thirty (30) days after contacting the virtual kiosk opera-
+37 tor, submit a police report, government agency report, or a sworn state-
+38 ment detailing the fraudulent nature of the transaction or transactions
+39 and provide a copy to the virtual currency kiosk operator.
+40 (3) If conditions for refund issuance pursuant to this section are met,
+41 an operator shall issue a full refund of transaction fees within ten (10)
+42 business days after receiving notice from a user and receiving a copy of the
+43 police report, government agency report, or sworn statement.
+44 (4) A refund pursuant to this section shall be paid to a user in the
+45 user's originating currency.
+46 (5) The refund available pursuant to this section is distinct from the
+47 refund available to protect new customers pursuant to section 28-5408, Idaho
+48 Code, and such refunds shall be exclusive of each other.
+
+7
+1 28-5410. PENALTIES. (1) A violation of this chapter shall be deemed an
+2 unfair and deceptive practice in violation of the Idaho consumer protection
+3 act, chapter 6, title 48, Idaho Code.
+4 (2) The attorney general may undertake any and all actions authorized
+5 by the Idaho consumer protection act to investigate and enforce a violation
+6 of this chapter.
+7 (3) A person harmed by a violation of this chapter may initiate a civil
+8 action and may seek remedies pursuant to section 48-608, Idaho Code.
+9 (4) In addition to any other penalties:
+10 (a) An operator who violates this chapter shall be subject to revoca-
+11 tion of such operator's money transmitter licensure pursuant to the
+12 provisions of chapter 29, title 26, Idaho Code; and
+13 (b) An operator who willfully and knowingly violates this chapter shall
+14 be guilty of a misdemeanor and, upon conviction, may be sentenced to pay
+15 a fine not exceeding one thousand dollars ($1,000).
+16 28-5411. INFORMATION-SHARING RELATED TO VIRTUAL CURRENCY KIOSK
+17 FRAUD. (1) Notwithstanding any provision of law to the contrary, upon rea-
+18 sonable suspicion of fraud or financial exploitation involving a virtual
+19 currency kiosk transaction, the department, the attorney general, any state
+20 or local law enforcement agency, the Idaho commission on aging, or an adult
+21 protective services provider may share relevant information relating to
+22 such suspicion for the purposes of investigation, enforcement, or consumer
+23 protection.
+24 (2) If the department is conducting an investigation or becomes aware
+25 of an ongoing investigation involving suspected fraud or financial ex-
+26 ploitation related to a virtual currency kiosk transaction, the department
+27 shall share relevant information with the attorney general and any state or
+28 local law enforcement agency with jurisdiction and with the Idaho commission
+29 on aging or an adult protective services provider when the affected individ-
+30 ual is a potentially vulnerable older adult.
+31 (3) Information shared pursuant to this section that is confidential or
+32 exempt from disclosure under chapter 1, title 74, Idaho Code, shall retain
+33 its confidential status and shall not be subject to public disclosure except
+34 as otherwise authorized by law.
+35 (4) Any agency, political subdivision, or employee thereof who acts in
+36 good faith when sharing information pursuant to this section shall be immune
+37 from any civil or criminal liability arising from the sharing of such infor-
+38 mation.
+39 28-5412. APPLICABILITY. (1) This chapter shall only be construed to
+40 regulate transactions conducted through a virtual currency kiosk.
+41 (2) Nothing in this chapter shall apply to online transactions or over-
+42 the-counter transactions conducted by a virtual currency kiosk owner.
+43 (3) Nothing in this chapter shall be construed to modify or limit the
+44 applicability of any other provision of Idaho law, including the Idaho money
+45 transmitters act, to online or over-the-counter transactions conducted by a
+46 virtual currency kiosk owner outside of a virtual currency kiosk.
+
+8
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

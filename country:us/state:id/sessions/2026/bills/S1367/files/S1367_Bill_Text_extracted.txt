@@ -1,0 +1,566 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1367
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PHARMACY BENEFIT MANAGERS; AMENDING CHAPTER 3, TITLE 41, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 41-349A, IDAHO CODE, TO ESTABLISH
+4 PROVISIONS REGARDING DISPENSING FEES; AMENDING SECTION 41-349, IDAHO
+5 CODE, TO DEFINE TERMS, TO REVISE PROVISIONS REGARDING DISPENSING FEES,
+6 AND TO ESTABLISH PROVISIONS REGARDING DUTIES AND RESTRICTIONS PERTAIN-
+7 ING TO PHARMACY BENEFIT MANAGERS AND THIRD-PARTY PAYERS; AND DECLARING
+8 AN EMERGENCY.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 3, Title 41, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 41-349A, Idaho Code, and to read as follows:
+13 41-349A. DISPENSING FEES. (1) A plan sponsor, pharmacy benefit man-
+14 ager (PBM), or third-party payer shall ensure that reimbursement to indepen-
+15 dent pharmacies for each drug dispensed is an amount that is not less than the
+16 sum of the national average drug acquisition cost (NADAC) as provided for in
+17 subsection (2) of this section and the professional dispensing fee as pro-
+18 vided for in subsection (3) of the section.
+19 (2) The NADAC shall be the published price in effect for the day that a
+20 drug claim is billed by a pharmacy. However, if a particular drug does not
+21 have a published NADAC, the reimbursement to an independent pharmacy shall
+22 be:
+23 (a) For generic drugs, one hundred percent (100%) of published whole-
+24 sale acquisition costs; and
+25 (b) For brand name drugs, one hundred percent (100%) of wholesale ac-
+26 quisition costs.
+27 (3) The minimum professional dispensing fee for independent pharmacies
+28 shall be twelve dollars and thirty-five cents ($12.35), subject to an an-
+29 nual increase as provided for in this subsection. On January 1 of each year,
+30 every plan sponsor, PBM, and third-party payer shall increase the amount of
+31 the minimum professional dispensing fee for independent pharmacies to ad-
+32 just for inflation. Inflation shall be measured by the annual percentage in-
+33 crease, if any, in the consumer price index for all urban consumers (CPI-U)
+34 as published by the United States department of labor, bureau of labor sta-
+35 tistics, for all items.
+36 (4) The Idaho department of insurance shall issue a letter and guidance
+37 to every plan sponsor, PBM, and third-party payer registered with the state
+38 of Idaho no later than thirty (30) days after the effective date of this sec-
+39 tion. All reimbursement rates shall be in full force and effect as of that
+40 date, and plan sponsors, PBMs, and third-party payers shall issue additional
+41 payments as needed to independent pharmacies to cover any deficiencies in
+42 payment made after the effective date of this section.
+
+2
+1 (5) The Idaho department of insurance shall issue a letter and guidance
+2 to every plan sponsor, PBM, and third-party payer registered with the state
+3 of Idaho no later than January 15 of each year. Such letter shall include the
+4 updated dispensing fee that will become effective on March 1 of the same cal-
+5 endar year.
+6 (6) Annually, on March 1, plan sponsors, PBMs, and third-party payers
+7 shall begin paying the updated dispensing fee as provided for in subsection
+8 (5) of this section.
+9 (7) In the event that an issuance date provided for pursuant to this
+10 section falls on a weekend or a national holiday, the next business day shall
+11 become the required date of issuance.
+12 SECTION 2. That Section 41-349, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 41-349. PHARMACY BENEFIT MANAGERS. (1) As used in this section:
+15 (a) "Brand name or generic effective rate" means the contractual rate
+16 set forth by a pharmacy benefit manager for the reimbursement of covered
+17 brand name or generic drugs, calculated using the total payments in the
+18 aggregate, by drug type, during the performance period. The effective
+19 rates are typically calculated as a discount from industry benchmarks,
+20 such as average wholesale price or wholesale acquisition cost.
+21 (b) "Dispensing fee" means a fee intended to cover reasonable costs as-
+22 sociated with providing a drug to a covered person. This cost includes
+23 but is not limited to the pharmacist's services and the overhead asso-
+24 ciated with maintaining the facility and equipment necessary to operate
+25 the pharmacy. The dispensing fee shall be set pursuant to the provi-
+26 sions of section 41-349A, Idaho Code.
+27 (c) "Effective rate guarantee" means the minimum ingredient cost reim-
+28 bursement a pharmacy benefit manager guarantees it will pay for pharma-
+29 cist services during the applicable measurement period.
+30 (d) "Independent pharmacy" means any pharmacy not owned or affiliated
+31 with a pharmacy benefit manager.
+32 (d) (e) "Maximum allowable cost" means the maximum amount that a phar-
+33 macy benefit manager will reimburse a pharmacy for the cost of a generic
+34 drug.
+35 (e) (f) "Maximum allowable cost appeal pricing adjustment" means a ret-
+36 rospective positive payment adjustment made to a pharmacy by the phar-
+37 macy benefits plan or program or by the pharmacy benefit manager pur-
+38 suant to an approved maximum allowable cost appeal request submitted by
+39 the same pharmacy to dispute the amount reimbursed for a drug based on
+40 the pharmacy benefit manager's listed maximum allowable cost price.
+41 (g) "National average drug acquisition cost" or "NADAC" means a medic-
+42 aid benchmark that represents the average retail price pharmacies pay
+43 to acquire prescription and over-the-counter drugs.
+44 (f) (h) "Participation contract" means any agreement between a phar-
+45 macy benefit manager and pharmacy for the provision and reimbursement
+46 of pharmacist services and any exhibits, attachments, amendments, or
+47 addendums to such agreement.
+48 (g) (i) "Pass-through pricing model" means a payment model used by a
+49 pharmacy benefit manager in which the payments made by the pharmacy ben-
+
+3
+1 efits plan or program to the pharmacy benefit manager for the covered
+2 outpatient drugs are:
+3 (i) Equivalent to the payments the pharmacy benefit manager makes
+4 to a dispensing pharmacy or provider for such drugs, including any
+5 contracted professional dispensing fee between the pharmacy ben-
+6 efit manager and its network of pharmacies. Such dispensing fee
+7 would be paid if the pharmacy benefits plan or program was making
+8 the payments directly; and
+9 (ii) Passed through in their entirety by the pharmacy benefits
+10 plan or program or by the pharmacy benefit manager to the pharmacy
+11 or provider that dispenses the drugs, and the payments are made in
+12 a manner that is not offset by any reconciliation.
+13 (h) (j) "Pharmacy benefit manager" means a person or entity doing busi-
+14 ness in this state that contracts with pharmacies on behalf of an in-
+15 surer, third-party administrator, or managed care organization to ad-
+16 minister prescription drug benefits to residents of this state.
+17 (i) (k) "Spread pricing" means the practice in which a pharmacy benefit
+18 manager charges a pharmacy benefits plan or program a different amount
+19 for pharmacist services than the amount the pharmacy benefit manager
+20 reimburses a pharmacy for such pharmacist services.
+21 (j) (l) "Usual and customary price" means the amount charged to cash
+22 customers for a pharmacist service exclusive of sales tax or other
+23 amounts claimed.
+24 (2) A person may not perform, offer to perform, or advertise any phar-
+25 macy benefit management service in this state unless the person is regis-
+26 tered as a pharmacy benefit manager with the department of insurance. A per-
+27 son may not utilize the services of another person as a pharmacy benefit man-
+28 ager if the person knows or has reason to know that the other person does not
+29 have a registration with the department. Such registration must occur annu-
+30 ally no later than April 1 of each year and shall be on a form prescribed by
+31 the director. The department may utilize applicable sections of this title
+32 to administer registration as provided in this subsection.
+33 (3) A pharmacy benefit manager shall not prohibit a pharmacist or re-
+34 tail pharmacy from providing a covered person information on the amount of
+35 the cost share for a prescription drug and the clinical efficacy of a more
+36 affordable alternative drug if one is available, and a pharmacy benefit man-
+37 ager may not penalize a pharmacist or retail pharmacy for disclosing such in-
+38 formation to a covered person or for selling to a covered person a more af-
+39 fordable alternative if one is available.
+40 (4) A pharmacy benefit manager shall not directly or indirectly charge
+41 a pharmacy benefits plan or program a different amount for a prescription
+42 drug's ingredient cost or dispensing fee than the amount the pharmacy ben-
+43 efit manager reimburses a pharmacy for the prescription drug's ingredient
+44 cost or dispensing fee where the pharmacy benefit manager retains the amount
+45 of any such difference.
+46 (5) A pharmacy benefit manager shall apply the same utilization review,
+47 fees, copayments or cost-sharing, days allowance, and other conditions of
+48 a covered person when the covered person obtains a prescription drug from a
+49 pharmacy that is included in the pharmacy benefit manager's pharmacy net-
+
+4
+1 work, including mail-order pharmacies and the pharmacy benefit manager's
+2 owned, affiliated, or preferred pharmacies.
+3 (6) A pharmacy benefit manager shall not:
+4 (a) Reimburse a network pharmacy an amount less than the contract
+5 price between the pharmacy benefit manager and the insurer, third-party
+6 payer, or pharmacy services management organization; or
+7 (b) Require or coerce a patient to use a pharmacy that is owned by or
+8 affiliated with the pharmacy benefit manager.
+9 (7) A pharmacy benefit manager, a third-party payer, or a discount card
+10 processor shall not, directly or indirectly, charge or hold a pharmacy re-
+11 sponsible for any fee, including but not limited to the following:
+12 (a) A fee for submission of a claim;
+13 (b) Any other claim-related fee;
+14 (c) A fee for enrollment or participation in a retail pharmacy network;
+15 (d) A credentialing or recredentialing fee;
+16 (e) A fee for the development or management of claims processing ser-
+17 vices or claims payment services; or
+18 (f) A fee on remittance advice or a fee that is retroactive.
+19 (8) All reimbursements to pharmacies shall be made through direct bank
+20 transfers, checks, or another payment method that does not incur any pro-
+21 cessing fees for the pharmacy. A check shall have a one-hundred-eighty (180)
+22 day expiration to deposit.
+23 (9) A pharmacy benefit manager or third-party payer shall not prohibit
+24 a pharmacist or pharmacy from:
+25 (a) Participating in a class action lawsuit;
+26 (b) Disclosing to the plan sponsor or to the patient information re-
+27 garding the adjudicated reimbursement paid to the pharmacy if the phar-
+28 macist or pharmacy complies with the requirements of the federal health
+29 insurance portability and accountability act of 1996, 29 U.S.C. 1181,
+30 et seq.;
+31 (c) Providing relevant information to a patient about the patient's
+32 prescription drug order, including but not limited to the cost and clin-
+33 ical efficacy of a more affordable alternative drug if one is available;
+34 (d) Mailing or delivering a prescription drug to a patient as an ancil-
+35 lary service of a pharmacy if the practice is not prohibited by law; or
+36 (e) Charging a shipping and handling fee to a patient who has asked that
+37 a prescription drug be mailed or delivered if the practice is not pro-
+38 hibited by law.
+39 (10) A pharmacy benefit manager or third-party payer shall not:
+40 (a) Require pharmacy accreditation standards or recertification re-
+41 quirements inconsistent with, more stringent than, or in addition to
+42 federal and state requirements for licensure as a pharmacy in this
+43 state; or
+44 (b) Exclude a pharmacy from the pharmacy benefit manager's or third-
+45 party payer's network based solely on the pharmacy being newly opened or
+46 open for less than a defined period of time or because a license or loca-
+47 tion transfer occurs, unless there is pending investigation for fraud,
+48 waste, or abuse.
+49 (11) A pharmacist or pharmacy that belongs to a pharmacy services admin-
+50 istrative organization shall be entitled to receive a copy of a contract be-
+
+5
+1 tween the pharmacy services administrative organization and a pharmacy ben-
+2 efit manager or third-party payer on the pharmacy's or pharmacist's behalf.
+3 (12) A pharmacy benefit manager or third-party payer shall provide a
+4 pharmacy or pharmacist with the processor control number, bank identifi-
+5 cation number, and group number for each pharmacy network established or
+6 administered by a pharmacy benefit manager or third-party payer to enable
+7 the pharmacy to make an informed contracting decision.
+8 (5) (13) The pharmacy benefit manager shall pass along or return one
+9 hundred percent (100%) of any manufacturer rebate to a pharmacy benefits
+10 plan or program, including any payment, discount, incentive, fee, price
+11 concession, or other remuneration.
+12 (6) (14) The pharmacy benefit manager shall provide full and complete
+13 disclosure of:
+14 (a) The cost, price, and reimbursement of the prescription drug to each
+15 health plan, payer, and pharmacy with which the pharmacy benefit man-
+16 ager has a contract or agreement to provide pharmacy benefit management
+17 services;
+18 (b) Each fee, markup, and discount charged or imposed by the pharmacy
+19 benefit manager to each health plan, payer, and pharmacy with which the
+20 pharmacy benefit manager has a contract or agreement for pharmacy bene-
+21 fit management services; or
+22 (c) The aggregate amount of all remuneration the pharmacy benefit man-
+23 ager receives from a prescription drug manufacturer for a prescription
+24 drug, including any rebate, discount, administration fee, and any other
+25 payment or credit obtained or agreement for pharmacy benefit management
+26 services to a health plan or payer.
+27 (7) (15) A pharmacy benefit manager using maximum allowable cost pric-
+28 ing may place a drug on a maximum allowable cost list if the pharmacy benefit
+29 manager does the following:
+30 (a) Ensures that the drug:
+31 (i)1. Is listed as A-rated or B-rated in the most recent ver-
+32 sion of the United States food and drug administration's ap-
+33 proved drug products with therapeutic equivalence evalua-
+34 tions, also known as the "orange book"; or
+35 2. Has an NR or NA rating or a similar rating by a nationally
+36 recognized reference; and
+37 (ii) Is available for purchase by pharmacies in the state from na-
+38 tional or regional wholesalers and is not obsolete;
+39 (b) Provides to a network pharmacy, at the time a contract is entered
+40 into or renewed with the network pharmacy, the sources used to determine
+41 the maximum allowable cost pricing for the maximum allowable cost list
+42 specific to that provider;
+43 (c) Reviews and updates maximum allowable cost price information at
+44 least once every seven (7) business days to reflect any modification of
+45 maximum allowable cost pricing;
+46 (d) Establishes a process for eliminating products from the maximum al-
+47 lowable cost list or modifying maximum allowable cost prices in a timely
+48 manner to remain consistent with pricing changes and product availabil-
+49 ity in the marketplace;
+
+6
+1 (e) Establishes a process by which a network pharmacy, or a network
+2 pharmacy's contracting agent, may appeal the reimbursement for a
+3 generic drug no later than thirty (30) days after such reimbursement is
+4 made; and
+5 (f) Provides a process for each of its network pharmacies to readily ac-
+6 cess the maximum allowable cost list specific to that provider.
+7 (16) A pharmacy benefit manager or third-party payer shall not make or
+8 allow any reduction in payment for pharmacy services by a pharmacy benefit
+9 manager or third-party payer or directly or indirectly reduce a payment for
+10 pharmacy services under a reconciliation process to an effective rate of re-
+11 imbursement, including generic effective rates, brand effective rates, di-
+12 rect and indirect remuneration fees, or any other reduction or aggregate re-
+13 duction of payments.
+14 (8) (17) No pharmacy benefit manager may retroactively deny or reduce
+15 a claim for reimbursement of the cost of services after the claim has been
+16 adjudicated by the pharmacy benefit manager unless:
+17 (a) The adjudicated claim was submitted fraudulently or improperly; or
+18 (b) The pharmacy benefit manager's payment on the adjudicated claim was
+19 incorrect because the pharmacy or pharmacist had already been paid for
+20 the services.
+21 (9) (18) If the director finds a pharmacy benefit manager has violated
+22 this section or any provision of title 41, Idaho Code, then the director may
+23 subject the pharmacy benefit manager to any or all of the actions, penalties,
+24 and remedies referenced in sections 41-117, 41-1016, and 41-1026, Idaho
+25 Code.
+26 (10) (19)(a) No later than January 1, 2025, and each year thereafter,
+27 each licensed pharmacy benefit manager shall report to the director of
+28 the department of insurance the following information:
+29 (i) The aggregate amount of the difference between the amount
+30 the pharmacy benefit manager paid each pharmacy on behalf of the
+31 health plan for prescription drugs; and
+32 (ii) If at any time during the reporting year the pharmacy bene-
+33 fit manager moved or reassigned a prescription drug to a formulary
+34 tier that has a higher cost, higher copayment, higher coinsurance,
+35 higher deductible to a consumer, or lower reimbursement to a phar-
+36 macy, an explanation of the reason why the drug was moved or reas-
+37 signed, including whether the move or reassignment was determined
+38 or requested by a prescription drug manufacturer or other entity.
+39 (b) Any pharmacy benefit manager that owns, controls, or is affiliated
+40 with a pharmacy shall also report any difference in reimbursement rates
+41 or practices, direct and indirect remuneration fees or other price con-
+42 cessions, and clawbacks between a pharmacy that is owned, controlled,
+43 or affiliated with the pharmacy benefit manager and any other pharmacy.
+44 (11) (20) In addition to any other requirements in this title, all con-
+45 tractual arrangements executed, amended, adjusted, or renewed between a
+46 pharmacy benefit manager and a pharmacy benefits plan or program must in-
+47 clude, in substantial form, requirements, to the extent allowable by law,
+48 to:
+49 (a) Use a pass-through pricing model;
+
+7
+1 (b) Exclude terms that allow for the direct or indirect engagement in
+2 the practice of spread pricing;
+3 (c) Ensure that funds received in relation to providing services for a
+4 pharmacy benefits plan or program or a pharmacy are used or distributed
+5 only pursuant to the pharmacy benefit manager's contract with the phar-
+6 macy benefits plan or program or with the pharmacy or as otherwise re-
+7 quired by applicable law;
+8 (d) Require the pharmacy benefit manager to pass one hundred percent
+9 (100%) of all prescription drug manufacturer rebates, including non-
+10 resident prescription drug manufacturer rebates, received to the phar-
+11 macy benefits plan or program, if the contractual arrangement delegates
+12 the negotiation of rebates to the pharmacy benefit manager, for the
+13 sole purpose of offsetting defined cost-sharing and reducing premiums
+14 of covered persons. Rebates include any payment, discount, incentive,
+15 fee, price concession, or other remuneration. Any excess rebate rev-
+16 enue after the pharmacy benefit manager and the pharmacy benefits plan
+17 or program have taken all actions required pursuant to this section must
+18 be used for the sole purpose of offsetting copayments and deductibles of
+19 covered persons;
+20 (e) Include network adequacy requirements that meet or exceed medicare
+21 part D program standards for convenient access to the network pharma-
+22 cies and that:
+23 (i) Do not limit a network to solely include affiliated pharma-
+24 cies;
+25 (ii) Do not require a covered person to receive a prescrip-
+26 tion drug by United States mail, common carrier, local courier,
+27 third-party company or delivery service, or pharmacy direct de-
+28 livery unless the prescription drug cannot be acquired at any
+29 retail pharmacy in the pharmacy benefit manager's network for
+30 the covered person's pharmacy benefits plan or program. The
+31 provisions of this subparagraph do not prohibit a pharmacy bene-
+32 fit manager from operating mail order or delivery programs on an
+33 opt-in basis at the sole discretion of a covered person, provided
+34 that the covered person is not penalized through the imposition
+35 of any additional retail cost-sharing obligations or a lower al-
+36 lowed-quantity limit for choosing not to select the mail order or
+37 delivery programs;
+38 (iii) For the in-person administration of covered prescription
+39 drugs, prohibit requiring a covered person to receive pharmacist
+40 services from an affiliated pharmacy or an affiliated health care
+41 provider; and
+42 (iv) Prohibit offering or implementing pharmacy networks that re-
+43 quire or provide a promotional item or an incentive to a covered
+44 person to use an affiliated pharmacy or an affiliated health care
+45 provider for the in-person administration of covered prescription
+46 drugs or advertising, marketing, or promoting an affiliated phar-
+47 macy to covered persons. Provided, however, a pharmacy benefit
+48 manager may include an affiliated pharmacy in communications to
+49 covered persons regarding network pharmacies and prices as long as
+50 the pharmacy benefit manager includes information, such as links
+
+8
+1 to all nonaffiliated network pharmacies, in such communications
+2 and that the information provided is accurate and of equal promi-
+3 nence. The provisions of this subparagraph may not be construed to
+4 prohibit a pharmacy benefit manager from entering into an agree-
+5 ment with an affiliated pharmacy to provide pharmacist services to
+6 covered persons;
+7 (f) Prohibit a pharmacy benefit manager from conditioning participa-
+8 tion in one (1) pharmacy network based on participation in any other
+9 pharmacy network or from penalizing a pharmacy for exercising its pre-
+10 rogative not to participate in a specific pharmacy network;
+11 (g) Prohibit a pharmacy benefit manager from instituting a network
+12 that requires a pharmacy to meet accreditation standards inconsistent
+13 with or more stringent than applicable federal and state requirements
+14 for licensure and operation as a pharmacy in this state. However, a
+15 pharmacy benefit manager may specify additional specialty networks
+16 that require enhanced standards related to safety and competency
+17 necessary to meet the United States food and drug administration's
+18 limited distribution requirements for dispensing any drug that, on a
+19 drug-by-drug basis, requires extraordinary special handling, provider
+20 coordination, or clinical care or monitoring when such extraordinary
+21 requirements cannot be met by a retail pharmacy. For purposes of this
+22 paragraph, drugs requiring extraordinary special handling are limited
+23 to drugs that are subject to a risk evaluation and mitigation strategy
+24 approved by the United States food and drug administration and that:
+25 (i) Require special certification of a health care provider to
+26 prescribe, receive, dispense, or administer; or
+27 (ii) Require special handling due to the molecular complexity
+28 or cytotoxic properties of the biologic or biosimilar product or
+29 drug. For participation in a specialty network, a pharmacy ben-
+30 efit manager may not require a pharmacy to meet requirements for
+31 participation beyond those necessary to demonstrate the phar-
+32 macy's ability to dispense the drug in accordance with the United
+33 States food and drug administration's approved manufacturer la-
+34 beling;
+35 (h) At a minimum, require the pharmacy benefit manager or pharmacy ben-
+36 efits plan or program to, upon revising its formulary of covered pre-
+37 scription drugs during a plan year, provide a ninety (90) day continu-
+38 ity-of-care period in which the covered prescription drug that is being
+39 revised from the formulary continues to be provided at the same cost for
+40 the patient for a period of ninety (90) days. The ninety (90) day conti-
+41 nuity-of-care period commences upon notification to the patient. This
+42 requirement does not apply if the covered prescription drug:
+43 (i) Has been approved and made available over the counter by the
+44 United States food and drug administration and has entered the
+45 commercial market as such;
+46 (ii) Has been removed or withdrawn from the commercial market by
+47 the manufacturer;
+48 (iii) Is subject to an involuntary recall by state or federal au-
+49 thorities and is no longer available on the commercial market; or
+
+9
+1 (iv) Has a generic, biosimilar, or interchangeable biologic ap-
+2 proved by the United States food and drug administration;
+3 (i) Require that in-network pharmacies receive dispensing fees that
+4 reasonably cover the costs of dispensing medications pursuant to sec-
+5 tion 41-349A, Idaho Code; and
+6 (j) Prohibit a pharmacy benefit manager from directly or indirectly
+7 charging or holding a pharmacist or pharmacy responsible for a fee for
+8 any step of or component or mechanism related to the claim adjudication
+9 process, including:
+10 (i) The adjudication of a pharmacy benefit claim;
+11 (ii) The processing or transmission of a pharmacy benefit claim;
+12 (iii) The development or management of a claim processing or adju-
+13 dication network; or
+14 (iv) Participation in a claim processing or adjudication network.
+15 (12) (21) The requirements of subsection (11) (20) of this section shall
+16 not apply to specialty drugs. For the purposes of this section, "specialty
+17 drug" means:
+18 (a) A drug that is subject to restricted distribution by the United
+19 States food and drug administration; or
+20 (b) A drug that requires special handling, provider coordination, or
+21 patient education that a retail pharmacy cannot provide.
+22 (13) (22) In addition to other requirements in this title, a partici-
+23 pation contract executed, amended, adjusted, or renewed between a pharmacy
+24 benefit manager and one (1) or more pharmacies or pharmacists must include,
+25 in substantial form, to the extent allowable by law, terms that ensure com-
+26 pliance with the provisions of this subsection.
+27 (a) The pharmacy benefit manager shall provide a reasonable adminis-
+28 trative appeal procedure to allow a pharmacy or pharmacist to challenge
+29 the maximum allowable cost pricing information and the reimbursement
+30 made under the maximum allowable cost as defined in subsection (1)(d)
+31 of this section for a specific drug as being below the acquisition cost
+32 available to the challenging pharmacy or pharmacist.
+33 (b) The administrative appeal procedure must include a telephone num-
+34 ber and email address, or a website, for the purpose of submitting the
+35 administrative appeal. The appeal may be submitted by the pharmacy or
+36 an agent of the pharmacy directly to the pharmacy benefit manager or
+37 through a pharmacy service administration organization. The pharmacy
+38 or pharmacist must be given at least thirty (30) business days after
+39 a maximum allowable cost update or after an adjudication for an elec-
+40 tronic claim or reimbursement for a nonelectronic claim to file the
+41 administrative appeal.
+42 (c) The pharmacy benefit manager must respond to the administrative ap-
+43 peal within thirty (30) business days after receipt of the appeal.
+44 (i) If the appeal is upheld, the pharmacy benefit manager must:
+45 1. Update the maximum allowable cost pricing information to
+46 at least the acquisition cost available to the pharmacy;
+47 2. Permit the pharmacy or pharmacist to reverse and rebill
+48 the claim in question;
+49 3. Provide to the pharmacy or pharmacist the national drug
+50 code on which the increase or change is based; and
+
+10
+1 4. Make the increase or change effective for each similarly
+2 situated pharmacy or pharmacist who is subject to the appli-
+3 cable maximum allowable cost pricing information; or
+4 (ii) If the appeal is denied, the pharmacy benefit manager must
+5 provide to the pharmacy or pharmacist the national drug code and
+6 the name of the national or regional pharmaceutical wholesalers
+7 operating in this state that have the drug currently in stock at a
+8 price below the maximum allowable cost pricing information.
+9 (d) Every ninety (90) days, a pharmacy benefit manager shall report to
+10 the department the total number of appeals received and denied in the
+11 preceding ninety (90) day period, with an explanation or reason for each
+12 denial, for each specific drug for which an appeal was submitted pur-
+13 suant to this subsection.
+14 (14) (23) In addition to other prohibitions in this section, a pharmacy
+15 benefit manager may not do any of the following:
+16 (a) Prohibit, restrict, or penalize in any way a pharmacy or pharmacist
+17 from disclosing to any person any information that the pharmacy or phar-
+18 macist deems appropriate, including but not limited to information re-
+19 garding any of the following:
+20 (i) The nature of treatment, risks, or alternatives thereto;
+21 (ii) The availability of alternate treatment, consultations, or
+22 tests;
+23 (iii) The decision of utilization reviewers or similar persons to
+24 authorize or deny pharmacist services;
+25 (iv) The process used to authorize or deny pharmacist services or
+26 benefits;
+27 (v) Information on financial incentives and structures used by
+28 the pharmacy benefits plan or program;
+29 (vi) Information that may reduce the costs of pharmacist ser-
+30 vices;
+31 (vii) Whether the cost-sharing obligation exceeds the retail
+32 price for a covered prescription drug and the availability of a
+33 more affordable alternative drug;
+34 (viii) A decision by the pharmacy to refuse to accept pharmacy ben-
+35 efit manager payment for the dispensing of an individual prescrip-
+36 tion on the basis of an aggregate pharmacy benefit manager payment
+37 of less than the pharmacy's costs to provide the service; or
+38 (ix) The financial details of a prescription claim;
+39 (b) Prohibit, restrict, or penalize in any way a pharmacy or pharma-
+40 cist from disclosing information to the department, law enforcement, or
+41 state and federal governmental officials, provided that the recipient
+42 of the information represents that it has the authority, to the extent
+43 provided by state or federal law, to maintain proprietary information
+44 as confidential and before disclosure of information designated as con-
+45 fidential, the pharmacist or pharmacy marks as confidential any docu-
+46 ment in which the information appears or requests confidential treat-
+47 ment for any oral communication of the information;
+48 (c) Communicate at the point-of-sale, or otherwise require, a cost-
+49 sharing obligation for the covered person in an amount that exceeds the
+50 lesser of:
+
+11
+1 (i) The applicable cost-sharing amount under the applicable
+2 pharmacy benefits plan or program; or
+3 (ii) The amount that will be retained by the pharmacy;
+4 (d) Transfer or share records relative to prescription information
+5 containing patient-identifiable or prescriber-identifiable data
+6 to an affiliated pharmacy for any commercial purpose other than the
+7 limited purposes of facilitating pharmacy reimbursement, formulary
+8 compliance, or utilization review on behalf of the applicable pharmacy
+9 benefits plan or program;
+10 (e) Fail to make any payment due to a pharmacy for an adjudicated claim
+11 with a date of service before the effective date of a pharmacy's ter-
+12 mination from a pharmacy benefit network, unless payments are withheld
+13 because of fraud, waste, or abuse on the part of the pharmacy or except
+14 as otherwise required by law; or
+15 (f) Terminate the contract of, penalize, or disadvantage a pharmacist
+16 or pharmacy solely due to a pharmacist or pharmacy:
+17 (i) Disclosing information about pharmacy benefit manager prac-
+18 tices in accordance with this section;
+19 (ii) Exercising any of its prerogatives pursuant to this section;
+20 or
+21 (iii) Sharing any portion, or all, of the pharmacy benefit manager
+22 contract with the department of insurance pursuant to a complaint
+23 or a query regarding whether the contract is in compliance with the
+24 provisions of this section.
+25 (15) (24) In complying with the requirements of this section, a pharmacy
+26 benefit manager or its agents, and the director or the director's agents,
+27 shall not directly or indirectly publish or otherwise disclose any infor-
+28 mation reported to the director under this section that would reveal: the
+29 identity of a specific pharmacy benefits plan, program, or pharmaceutical
+30 manufacturer; the prices charged for a specific drug or class of drugs; the
+31 amount of any rebates provided for a specific drug or class of drugs or the
+32 pharmaceutical manufacturer; or information that would otherwise have the
+33 potential to compromise the financial, competitive, or proprietary nature
+34 of such information. Any such information shall be protected from disclo-
+35 sure as confidential and proprietary and shall not be regarded as a public
+36 record pursuant to section 74-101, Idaho Code. A pharmacy benefit manager
+37 shall impose the confidentiality protections and requirements of this sec-
+38 tion on any agent or downstream third party that performs health care or ad-
+39 ministrative services on behalf of the pharmacy benefit manager that may re-
+40 ceive or have access to such information, and the director shall impose the
+41 confidentiality protections and requirements of this section on any agent
+42 or downstream third party directly or indirectly involved in the administra-
+43 tion of this section that may receive or have access to such information.
+44 SECTION 3. An emergency existing therefor, which emergency is hereby
+45 declared to exist, this act shall be in full force and effect on and after its
+46 passage and approval.

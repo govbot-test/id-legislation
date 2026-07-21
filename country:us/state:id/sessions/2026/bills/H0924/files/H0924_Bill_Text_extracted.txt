@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 924
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE STATE LIQUOR DIVISION; APPROPRIATING
+3 ADDITIONAL MONEYS TO THE STATE LIQUOR DIVISION FOR FISCAL YEAR 2027; AND
+4 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. In addition to any other appropriation provided by law,
+7 there is hereby appropriated to the State Liquor Division the following
+8 amounts to be expended according to the designated expense classes from the
+9 Liquor Control Fund for the period July 1, 2026, through June 30, 2027:
+10 FOR:
+11 Operating Expenditures $498,300
+12 Capital Outlay 1,174,700
+13 TOTAL $1,673,000
+14 SECTION 2. An emergency existing therefor, which emergency is hereby
+15 declared to exist, this act shall be in full force and effect on and after
+16 July 1, 2026.

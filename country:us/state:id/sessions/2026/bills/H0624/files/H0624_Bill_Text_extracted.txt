@@ -1,0 +1,418 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 624
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1619, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING VIRTUAL EDUCATION PROGRAMS; AMENDING SECTION
+4 33-5202A, IDAHO CODE, TO REVISE DEFINITIONS; AMENDING SECTION 33-5206,
+5 IDAHO CODE, TO REVISE PROVISIONS REGARDING REQUIREMENTS FOR OPERATING
+6 A PUBLIC CHARTER SCHOOL; AND DECLARING AN EMERGENCY AND PROVIDING AN
+7 EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 33-1619, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 33-1619. VIRTUAL EDUCATION PROGRAMS. (1) School districts may offer
+12 instruction via the internet in a distributed environment. For programs
+13 meeting such definition, the school district may count and report the aver-
+14 age daily attendance of the program's students in the manner prescribed in
+15 section 33-5207, Idaho Code. School districts may also offer instruction
+16 that is a blend of virtual and traditional instruction. For such blended
+17 programs, the school district may count and report the average daily atten-
+18 dance of the program's students in the manner prescribed in section 33-5207,
+19 Idaho Code. Alternatively, the school district may count and report the av-
+20 erage daily attendance of the blended program's students in the same manner
+21 as provided for traditional programs of instruction, for the days or por-
+22 tions of days in which such students attend a physical public school. For the
+23 balance of days or portions of days, average daily attendance may be counted
+24 in the manner prescribed in section 33-5207, Idaho Code.
+25 (2) School districts offering virtual education programs pursuant to
+26 this section shall:
+27 (a) Make available to the state board of education the information re-
+28 quired under section 33-5205(3), Idaho Code;
+29 (b) Require that all contracts and any subsequent amendments thereto
+30 between a school district and an educational services provider as de-
+31 fined in section 33-5202A, Idaho Code, relating to the provision of vir-
+32 tual learning to students be approved by the school district board of
+33 trustees prior to execution;
+34 (c) Maintain records that verify proof of Idaho residency for all stu-
+35 dents enrolled in a virtual education program; and
+36 (d) Ensure that all curricular materials, as defined in section
+37 33-118A, Idaho Code, including alternative or supplemental curriculum,
+38 meet content standards as set forth in rule promulgated by the state
+39 board of education and establish a system to document such curriculum.
+40 (3) Any educational services provider contracting with and receiving
+41 public funds from a school district for a virtual education program shall
+
+2
+1 provide a written disclosure of services and costs in its contract that
+2 shall:
+3 (a) Identify the specific services provided to the school district;
+4 (b) Identify the cost of each service or category of service and the
+5 method used to calculate such cost; and
+6 (c) Demonstrate a clear relationship between the public funds received
+7 and the services provided.
+8 (4) Any virtual education program and educational services provider
+9 with which a school district contracts shall establish policies regarding
+10 conflicts of interest for individuals who are employed by both the school
+11 district and the educational services provider with which the district
+12 contracts. Such policies shall include mechanisms for accountability and
+13 oversight.
+14 (5) No school district, virtual education program, or educational ser-
+15 vices provider with which they contract shall furnish any payment of state
+16 funds directly to parents or legal guardians of enrolled students. Any state
+17 funds determined by the school district to be used as supplemental learning
+18 funds shall be used only for eligible education expenses as provided in sec-
+19 tion 33-5206(8)(m), Idaho Code. "Supplemental learning funds" has the same
+20 meaning as in section 33-5206(8)(m), Idaho Code. Eligible education ex-
+21 penses shall be available for all courses, including elective courses. Such
+22 funds shall be expended through direct order by the school district only,
+23 except as otherwise provided in section 33-5206(8)(m), Idaho Code.
+24 (6) Every person who is employed in the capacity of teacher in a vir-
+25 tual education program provided for in this section shall hold a certificate
+26 as required under section 33-1201, Idaho Code. A school district shall re-
+27 tain the authority to hire, oversee, and evaluate all teachers delivering
+28 instruction in a virtual education program.
+29 SECTION 2. That Section 33-5202A, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 33-5202A. DEFINITIONS. As used in this chapter, unless the context re-
+32 quires otherwise:
+33 (1) "Application" means the document submitted to the authorizer to re-
+34 quest the creation of a public charter school.
+35 (2) "Authorizer" means any of the following:
+36 (a) A local board of trustees of a school district;
+37 (b) The public charter school commission;
+38 (c) An Idaho public college, university, or community college; or
+39 (d) A private, nonprofit, Idaho-based, nonsectarian college or univer-
+40 sity that is accredited by the same organization that accredits Idaho
+41 public colleges and universities.
+42 (3) "Charter" means the grant of authority approved by the authorizer
+43 to the charter holder.
+44 (4) "Charter holder" means the public charter school's board of direc-
+45 tors to which a charter is granted.
+46 (5) "Educational services provider" means a nonprofit or for-profit
+47 entity that contracts with a public charter school or a school district for a
+48 fee to provide educational services and resources, including administrative
+49 support and educational design, implementation, or management.
+
+3
+1 (6) "Founder" means a person who makes a material contribution toward
+2 the establishment of a public charter school and who is designated as such by
+3 the charter holder.
+4 (7) "Performance certificate" means a fixed-term, renewable certifi-
+5 cate between a public charter school and an authorizer that outlines the ne-
+6 gotiated roles, powers, responsibilities, and performance expectations for
+7 each party to the certificate.
+8 (8) "Public charter school" means a school that is authorized pursuant
+9 to this chapter to deliver public education in Idaho.
+10 (9) "Public charter school commission" or "commission" means the pub-
+11 lic charter school commission established pursuant to section 33-5213,
+12 Idaho Code.
+13 (10) "Traditional public school" means any school that is operated and
+14 controlled by a school district in this state.
+15 (11) "Virtual school" means a public charter school that delivers
+16 a full-time, sequential program of synchronous and/or asynchronous in-
+17 struction primarily through the use of technology via the internet in a
+18 distributed environment. Schools classified as virtual must have an online
+19 component to their school with online lessons and tools for student and data
+20 management. Students enrolled in a virtual school may meet at the same loca-
+21 tion and time while receiving virtual instruction.
+22 SECTION 3. That Section 33-5206, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 33-5206. REQUIREMENTS FOR OPERATING A PUBLIC CHARTER SCHOOL. (1) A
+25 public charter school shall be nonsectarian in its programs, affiliations,
+26 admission policies, employment practices, and all other operations, shall
+27 not charge tuition, levy taxes, or issue bonds, and shall not discriminate
+28 against any student on any basis prohibited by the federal or state consti-
+29 tution or any federal, state, or local law. Public charter schools shall
+30 comply with the federal individuals with disabilities education act. Ad-
+31 mission to a public charter school shall not be determined according to the
+32 place of residence of the student or of the student's parent or guardian
+33 within the district.
+34 (2) No board of trustees of a public school district may require:
+35 (a) Any employee of the school district to be involuntarily assigned to
+36 work in a public charter school; or
+37 (b) Any student enrolled in the school district to attend a public char-
+38 ter school.
+39 (3) Employment of charter school teachers and administrators shall be
+40 on written contract.
+41 (4) Administrators may be certified pursuant to the requirements set
+42 forth in chapter 12, title 33, Idaho Code, pertaining to traditional public
+43 schools or may hold a charter school administrator certificate, which re-
+44 quires that the administrator:
+45 (a) Holds a bachelor's degree from an accredited four (4) year institu-
+46 tion;
+47 (b) Submits to a criminal history check as described in section 33-130,
+48 Idaho Code;
+
+4
+1 (c) Completes a course consisting of a minimum of three (3) semester
+2 credits in the statewide framework for teacher evaluations, which shall
+3 include a laboratory component;
+4 (d) Submits a letter of support from a charter holder; and
+5 (e) Has one (1) or more of the following:
+6 (i) Four (4) or more years of experience administering a public
+7 charter school;
+8 (ii) A postbaccalaureate degree and a minimum of five (5) years
+9 of experience in school administration, public administration,
+10 business administration, or military administration;
+11 (iii) Successful completion of a nationally recognized charter
+12 school leaders fellowship; or
+13 (iv) Four (4) or more years of teaching experience and a commit-
+14 ment from an administrator at a charter school in academic, op-
+15 erational, and financial good standing, according to its autho-
+16 rizer's most recent review, to mentor the applicant for a minimum
+17 of one (1) year.
+18 (5) A charter school administrator certificate is valid for five (5)
+19 years and renewable thereafter. Administrators shall be subject to over-
+20 sight by the professional standards commission. Certificates may be revoked
+21 pursuant to the provisions of section 33-1208, Idaho Code. Issuance of a
+22 certificate to any applicant may be refused for such reason as would have
+23 constituted grounds for revocation.
+24 (6) Certified teachers in a public charter school shall be considered
+25 public school teachers. Educational experience shall accrue for service in
+26 a public charter school and be counted by any school district for any teacher
+27 who has been employed in a public charter school. The staff of the public
+28 charter school shall be considered a separate unit for the purposes of col-
+29 lective bargaining.
+30 (7) Charter school teachers, including teachers in virtual schools,
+31 may be certified pursuant to the requirements set forth in chapter 12, title
+32 33, Idaho Code, pertaining to traditional public school districts or may
+33 hold a charter school-specific teaching certificate.
+34 (a) Criteria for a charter school-specific teaching certificate shall
+35 be in writing and require that teachers satisfy the provisions set forth
+36 in section 33-1202 1., 3., and 4., Idaho Code, and meet the following
+37 minimum educational or professional qualifications:
+38 (i) Hold a bachelor's degree from an accredited institution; or
+39 (ii) If instructing students in the fields of career technical
+40 education, satisfy the provisions of section 33-2205(6)(a), Idaho
+41 Code. Career technical education programs taught by teachers
+42 with a charter school-specific teaching certificate shall receive
+43 added-cost funding set forth in section 33-2215, Idaho Code, in an
+44 amount equal to programs taught by teachers with an occupational
+45 specialist teaching certificate.
+46 (b) Teachers with a charter school-specific teaching certificate shall
+47 receive mentoring and professional development as approved by the char-
+48 ter holder.
+49 (c) The state board of education shall issue charter school-specific
+50 teaching certificates to teachers upon recommendation of the individ-
+
+5
+1 ual charter school, unless denied on the grounds set forth in section
+2 33-1208, Idaho Code.
+3 (d) For teachers holding a charter school-specific teaching certifi-
+4 cate, a charter school may substitute its own ongoing education and pro-
+5 fessional development requirements in place of those set forth in rule
+6 by the state board of education if the same number of credit hours is
+7 required as that of teachers holding a standard instructional certifi-
+8 cate.
+9 (8) Public charter schools may contract with educational services
+10 providers subject to the following provisions:
+11 (a) Educational services providers shall be third-party entities sepa-
+12 rate from the public charter schools with which they contract and shall
+13 not be considered governmental entities, provided that such contracts
+14 may be evaluated by the authorizer;
+15 (b) No more than one-third (1/3) of the public charter school's board
+16 membership may be comprised of nonprofit educational services provider
+17 representatives. Nonprofit educational services provider repre-
+18 sentatives may not be employees of the public charter school or the
+19 educational services provider and may not hold office as president or
+20 treasurer on the public charter school's board. For-profit educational
+21 services providers may not have representatives on the public charter
+22 school's board of directors. The board of directors of public char-
+23 ter schools, including virtual schools, and the educational services
+24 providers with which a school contracts shall establish policies for
+25 individuals who are employed by both the public charter school and the
+26 educational services provider with which the school contracts. Such
+27 policies shall include protocol regarding conflicts of interest, mech-
+28 anisms for accountability and oversight, and guidelines for employees;
+29 (c) Charter holders shall annually disclose any existing and potential
+30 conflicts of interest, pecuniary or otherwise, with affiliated educa-
+31 tional services providers;
+32 (d) Charter holders shall retain accountability for academic, fiscal,
+33 and organizational operations and outcomes of the school and may not re-
+34 linquish this responsibility to any other entity;
+35 (e) Contracts must ensure that school boards retain the right to termi-
+36 nate the contract for failure to meet defined performance standards af-
+37 ter notice and a reasonable cure period has expired and if material de-
+38 ficiencies have not been cured prior to that time period expiring;
+39 (f) Contracts must ensure that assets purchased by educational ser-
+40 vices providers on behalf of the school, using public funds, shall
+41 remain assets of the school. The provisions of this paragraph shall
+42 not prevent educational services providers from acquiring assets using
+43 revenue acquired through management fees;
+44 (g) Charter holders shall consult legal counsel independent of the
+45 party with whom they are contracting for purposes of reviewing the
+46 school's management contract and facility lease or purchase agreements
+47 to ensure compliance with applicable state and federal law, including
+48 requirements that state entities not enter into contracts that obligate
+49 them beyond the terms of any appropriation of funds by the state legis-
+50 lature;
+
+6
+1 (h) Charter holders must ensure that their facility contracts are sepa-
+2 rate from management contracts; and
+3 (i) A virtual school shall be deemed financially sufficient if there is
+4 an agreement that requires an educational services provider to assume
+5 the virtual school's financial risk when it does not have sufficient
+6 residual funds to pay the educational services provider. Where this
+7 paragraph is applicable, the educational services provider shall make
+8 its audited financial statements available, unless the educational
+9 services provider already makes such audited financial statements pub-
+10 licly available for compliance with other federal or state laws.;
+11 (j) All contracts and any subsequent amendments thereto between a vir-
+12 tual school and an educational services provider relating to the provi-
+13 sion of virtual learning to students shall be approved by the school's
+14 board of directors prior to execution. Such virtual schools shall pro-
+15 vide proof of Idaho residency for all enrolled students to the autho-
+16 rizer, upon request;
+17 (k) Curricular materials, as defined in section 33-118A, Idaho Code,
+18 including any alternative or supplemental curriculum, shall meet con-
+19 tent standards as set forth in rule promulgated by the state board of ed-
+20 ucation, and a system shall be established to document such curriculum;
+21 (l) Any educational services provider contracting with and receiving
+22 public funds from a virtual school shall provide a written disclosure of
+23 services and costs in its contract that shall:
+24 (i) Identify the specific services provided to the virtual
+25 school;
+26 (ii) Identify the cost of each service or category of service and
+27 the method used to calculate such cost; and
+28 (iii) Demonstrate a clear relationship between the public funds
+29 received and the services provided; and
+30 (m)(i) No public charter school, virtual school, or educational
+31 services provider with which they contract shall furnish any pay-
+32 ment of state funds directly to parents or legal guardians of en-
+33 rolled students. Any state funds determined by the virtual school
+34 to be used as supplemental learning funds shall be used only for
+35 eligible education expenses as provided in this paragraph. "Sup-
+36 plemental learning funds" means state funds that are determined by
+37 a public charter school, or a public school district, to enhance
+38 educational services or resources and to cover educational costs
+39 for students learning outside traditional classrooms and learning
+40 at home. Eligible education expenses shall be available for all
+41 courses, including elective courses. Such funds shall be expended
+42 through direct order by the virtual school only, except as other-
+43 wise provided in this paragraph.
+44 (ii) Eligible educational expenses, for the purposes of this sec-
+45 tion, includes:
+46 1. Computer hardware, internet access, or other technolog-
+47 ical devices or services that are primarily used to meet a
+48 student's educational needs, provided that expenses for in-
+49 ternet access shall be eligible for reimbursement;
+
+7
+1 2. Textbooks, curricula, or other instructional materials,
+2 including educational software and applications;
+3 3. Fees for national standardized assessments, advanced
+4 placement examinations, examinations related to college or
+5 university admissions, or industry-recognized certifica-
+6 tion examinations;
+7 4. Therapies, including but not limited to occupational,
+8 behavioral, physical, speech-language, and audiology ther-
+9 apies, or other services or therapies specifically approved
+10 by the state board of education; and
+11 5. Other educational expenses and services as approved by
+12 the state board of education.
+13 (iii) The state board of education shall promulgate rules, subject
+14 to legislative approval, to implement the provisions of this para-
+15 graph. Such rules shall include a list of allowable items for eli-
+16 gible educational expenses.
+17 (9) Except as otherwise provided in this chapter, authorizers shall not
+18 contract with any public charter schools, including virtual schools, that
+19 such authorizers approved.
+20 (10) A virtual school shall retain the authority to hire, oversee, and
+21 evaluate all teachers delivering instruction in the virtual school.
+22 (9) (11) Admission procedures, including provision for over-enroll-
+23 ment, shall provide that the initial admission procedures for a public char-
+24 ter school will be determined by lottery or other random method, except as
+25 otherwise provided in this section. A charter holder shall strive to ensure
+26 that citizens in the primary attendance area are made aware of the enroll-
+27 ment opportunities and deadline. The public notice must include the enroll-
+28 ment deadline, the public charter school's total enrollment capacity for the
+29 next school year, and an advisory that all prospective students will be given
+30 the opportunity to enroll in the public charter school regardless of race,
+31 color, national origin, ethnicity, religion, gender, socioeconomic status,
+32 or special needs.
+33 (a) If initial capacity is insufficient to enroll all pupils who submit
+34 a timely application, then the admission procedures may provide that
+35 preference shall be given in the following order: first, to children
+36 of founders, provided that this admission preference shall be limited
+37 to not more than ten percent (10%) of the capacity of the public charter
+38 school; second, to siblings of pupils already selected by the lottery
+39 or other random method; third, to pupils seeking to transfer from an-
+40 other Idaho public charter school or authorizer at which they have been
+41 enrolled for at least one (1) year, provided that this admission prefer-
+42 ence shall be subject to an existing written agreement for such prefer-
+43 ence between the subject charter schools or authorizer; fourth, to stu-
+44 dents residing within the primary attendance area of the public charter
+45 school; and fifth, by an equitable selection process such as a lottery
+46 or other random method. A public charter school may weight the school's
+47 lottery to preference admission for the following educationally dis-
+48 advantaged students: students living at or below one hundred eighty-
+49 five percent (185%) of the federal poverty level, students who are home-
+50 less or in foster care, children with disabilities as defined in sec-
+
+8
+1 tion 33-2001, Idaho Code, students with limited English proficiency,
+2 and students who are at-risk as defined in section 33-1001, Idaho Code.
+3 A public charter school may include the children of full-time employees
+4 of the public charter school within the first priority group, subject to
+5 the limitations therein.
+6 (b) If capacity is insufficient to enroll all pupils who submit a timely
+7 application for subsequent school terms, then the admission procedures
+8 may provide that preference shall be given in the following order:
+9 first, to pupils returning to the public charter school in the second
+10 or any subsequent year of its operation; and then as provided in para-
+11 graph (a) of this subsection. The sibling preference in subsequent
+12 school years applies to siblings of a returning pupil and of a pupil
+13 selected by the lottery or other random method. A new lottery shall be
+14 conducted each year to fill vacancies that become available. A public
+15 charter school may weight the school's lottery to preference admission
+16 as provided in this paragraph and paragraph (a) of this subsection and
+17 for children who attended the public charter school within the previous
+18 three (3) school years but withdrew as a result of the relocation of a
+19 parent or guardian due to an academic sabbatical or an employer or mili-
+20 tary transfer or reassignment.
+21 (c) Each public charter school shall establish a process under which a
+22 child may apply for enrollment or register for courses, regardless of
+23 where such child resides at the time of application or registration, if
+24 the child is a dependent of a member of the United States armed forces
+25 who has received transfer orders to a location in Idaho and will, upon
+26 such transfer, reside in an area served by the public charter school.
+27 If capacity is insufficient as described in paragraph (a) or (b) of this
+28 subsection, a child described in this paragraph shall be treated as a
+29 student residing within the primary attendance area of the public char-
+30 ter school for purposes of preference. Otherwise, such children shall
+31 be included in the highest priority group for which they would otherwise
+32 be eligible.
+33 (d) Admission to a public charter school shall be determined by a selec-
+34 tion process held within seven (7) days of the enrollment deadlines es-
+35 tablished by the charter holder. The selection process must take place
+36 in a public setting, the date and time of which must be noticed to the
+37 public at least forty-eight (48) hours in advance.
+38 (e) Within seven (7) days after conducting the selection process, the
+39 charter holder shall send an offer to the legal guardian who submitted a
+40 written request for admission on behalf of a student notifying such per-
+41 son that the student has been selected for admission to the public char-
+42 ter school. An offer must be signed by such student's parent or guardian
+43 and returned to the public charter school by the date designated in such
+44 offer letter. Remaining students shall be notified that they may be el-
+45 igible for admission at a later date if a seat becomes available.
+46 (f) If a school exceeds its projected student count in a lottery and
+47 a sufficient wait list exists, the school may increase enrollment by
+48 adding additional students per grade, not to exceed the total amount of
+49 students authorized by the charter.
+
+9
+1 SECTION 4. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

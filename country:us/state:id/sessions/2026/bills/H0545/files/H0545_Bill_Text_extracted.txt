@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 545
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO COUNSELORS AND THERAPISTS; AMENDING SECTION 54-3405, IDAHO
+3 CODE, TO PROVIDE FOR THE GRANTING OF LICENSURE AS A LICENSED PROFES-
+4 SIONAL COUNSELOR TO CERTAIN INDIVIDUALS WHO HAVE SERVED AS A CHAPLAIN IN
+5 THE UNITED STATES MILITARY AND TO MAKE A TECHNICAL CORRECTION; AMENDING
+6 SECTION 54-3405A, IDAHO CODE, TO PROVIDE FOR THE GRANTING OF LICENSURE
+7 AS A LICENSED CLINICAL PROFESSIONAL COUNSELOR TO CERTAIN INDIVIDUALS
+8 WHO HAVE SERVED AS A CHAPLAIN IN THE UNITED STATES MILITARY; AND DECLAR-
+9 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 54-3405, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 54-3405. QUALIFICATIONS FOR LICENSURE. (1) Licensure as a "licensed
+14 professional counselor" shall be restricted to persons who:
+15 (a) Have not been convicted, found guilty, or received a withheld judg-
+16 ment or a suspended sentence in this state or in any other state of a
+17 crime that is deemed relevant in accordance with section 67-9411(1),
+18 Idaho Code;
+19 (b) Have submitted to a fingerprint-based criminal history background
+20 check in accordance with section 67-9411A, Idaho Code; and
+21 (c) Have successfully completed each of the following requirements:
+22 (i) A master's degree or higher in counseling or a related field
+23 of study, as approved by the board, that includes completion of a
+24 practicum of supervised clinical contact as defined by rule;
+25 (ii) An examination, if required by the board's rules; and
+26 (iii) One thousand (1,000) hours of supervised experience in coun-
+27 seling acceptable to the board.
+28 (2) In accordance with the provisions of section 67-9406, Idaho Code,
+29 the provisions of subsection (1)(c) of this section shall also be deemed sat-
+30 isfied with respect to a person who:
+31 (a) Is a resident of the state of Idaho;
+32 (b) Has served as a chaplain in any branch of the United States military
+33 as evidenced by a DD form 214 certificate of release or discharge;
+34 (c) Possesses a DD form 214 certificate of release or discharge for each
+35 period of active duty indicating time served in the United States mili-
+36 tary with honorable discharge for all periods of active duty;
+37 (d) Has completed four (4) units of clinical pastoral education; and
+38 (e) Has completed and possesses documentation of one thousand (1,000)
+39 hours of direct client contact under the direction of a supervisory
+40 chaplain or a supervisory counselor in any branch of the United States
+41 military.
+
+2
+1 (2) (3) A license will not be issued to an individual whose license,
+2 certification, or registration has been revoked or suspended in this or any
+3 other state and in this or any other related field. Such an individual may
+4 not be licensed under this chapter unless the period of revocation or sus-
+5 pension has been completed and the board has conducted a competency review
+6 and determined that an acceptable degree of rehabilitation has been accom-
+7 plished.
+8 (4) In accordance with the provisions of section 67-9406(4), Idaho
+9 Code, a person who qualifies for licensure pursuant to subsection (2) of this
+10 section shall not be required by the board to take an examination or pay an
+11 application fee.
+12 SECTION 2. That Section 54-3405A, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 54-3405A. QUALIFICATIONS FOR LICENSURE. (1) Licensure as a "licensed
+15 clinical professional counselor" shall be restricted to persons who:
+16 (1) (a) Hold a valid licensed professional counselor license in good
+17 standing;
+18 (2) (b) Document two thousand (2,000) hours of direct client contact
+19 experience under supervision in no less than a two (2) year period as set
+20 forth in this chapter and the rules of the board;
+21 (3) (c) Successfully complete a written examination as approved by the
+22 board and defined in rules of the board; and
+23 (4) (d) Submit to a fingerprint-based criminal history background
+24 check in accordance with section 67-9411A, Idaho Code.
+25 (2)(a) In accordance with the provisions of section 67-9406, Idaho
+26 Code, the provisions of subsection (1)(a), (b), and (c) of this section
+27 shall be deemed satisfied with respect to a person who:
+28 (i) Is a resident of the state of Idaho;
+29 (ii) Has served as a chaplain in any branch of the United States
+30 military as evidenced by a DD form 214 certificate of release or
+31 discharge;
+32 (iii) Possesses a DD form 214 certificate of release or discharge
+33 for each period of active duty indicating time served in the United
+34 States military with honorable discharge for all periods of active
+35 duty;
+36 (iv) Has completed four (4) units of clinical pastoral education;
+37 and
+38 (v) Has completed and possesses documentation of two thousand
+39 (2,000) hours of direct client contact under the direction of a
+40 supervisory chaplain or a supervisory counselor in any branch of
+41 the United States military.
+42 (b) In accordance with the provisions of section 67-9406(4), Idaho
+43 Code, a person who qualifies for licensure pursuant to this subsection
+44 shall not be required by the board to take an examination or pay an ap-
+45 plication fee.
+46 SECTION 3. An emergency existing therefor, which emergency is hereby
+47 declared to exist, this act shall be in full force and effect on and after
+48 July 1, 2026.

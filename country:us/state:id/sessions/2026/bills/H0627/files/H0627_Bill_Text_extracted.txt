@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 627
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO OPEN MEETINGS; AMENDING SECTION 74-203, IDAHO CODE, TO RE-
+3 VISE PROVISIONS REGARDING REQUIREMENTS FOR OPEN PUBLIC MEETINGS; AND
+4 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 74-203, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 74-203. GOVERNING BODIES -- REQUIREMENT FOR OPEN PUBLIC MEETINGS. (1)
+9 Except as provided below, all meetings of a governing body of a public agency
+10 shall be open to the public and all persons shall be permitted to attend any
+11 meeting except as otherwise provided by this act. No decision at a meeting of
+12 a governing body of a public agency shall be made by secret ballot.
+13 (2) Deliberations of the board of tax appeals created in chapter 38, ti-
+14 tle 63, Idaho Code, the public utilities commission and the industrial com-
+15 mission in a fully submitted adjudicatory proceeding in which hearings, if
+16 any are required, have been completed, and in which the legal rights, duties
+17 or privileges of a party are to be determined are not required by this act to
+18 take place in a meeting open to the public. Such deliberations may, however,
+19 be made and/or conducted in a public meeting at the discretion of the agency.
+20 (3) Meetings of the Idaho life and health insurance guaranty associa-
+21 tion established under chapter 43, title 41, Idaho Code, the Idaho insurance
+22 guaranty association established under chapter 36, title 41, Idaho Code, the
+23 surplus line association approved by the director of the Idaho department of
+24 insurance as authorized under chapter 12, title 41, Idaho Code, and the Idaho
+25 depredating wildlife appeals board established under chapter 55, title 22,
+26 Idaho Code, are not required by this act to take place in a meeting open to the
+27 public.
+28 (4) A governing body shall not hold a meeting at any place where dis-
+29 crimination on the basis of race, creed, color, sex, age or national origin
+30 is practiced.
+31 (5) All meetings may be conducted using telecommunications devices
+32 which enable all members of a governing body participating in the meeting
+33 to communicate with each other. Such devices may include, but are not lim-
+34 ited to, telephone or video conferencing devices and similar communications
+35 equipment. Participation by a member of the governing body through telecom-
+36 munications devices shall constitute presence in person by such member at
+37 the meeting; provided however, that at least one (1) member of the govern-
+38 ing body, or the director of the public agency, or the chief administrative
+39 officer of the public agency shall be physically present at the location
+40 designated in the meeting notice, as required under section 74-204, Idaho
+41 Code, to ensure that the public may attend such meeting in person. The com-
+
+2
+1 munications among members of a governing body must be audible to the public
+2 attending the meeting in person and the members of the governing body.
+3 (6) No person attending meetings shall be prevented or prohibited from
+4 recording such meetings. For purposes of this subsection, "recording"
+5 means the capturing of audio, video, or photographs by electronic or digital
+6 means. A governing body may take measures to ensure the orderly conduct of
+7 its meetings but shall not prohibit or unreasonably restrict recording as
+8 provided under this subsection. No person shall be removed or excluded from
+9 meetings for recording pursuant to the provisions of this subsection.
+10 SECTION 2. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2026.

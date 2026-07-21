@@ -1,0 +1,314 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 610
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-602G, IDAHO CODE, TO REVISE A PRO-
+3 VISION REGARDING THE HOMESTEAD TAX EXEMPTION; DECLARING AN EMERGENCY
+4 AND PROVIDING RETROACTIVE APPLICATION.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 63-602G, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 63-602G. PROPERTY EXEMPT FROM TAXATION -- HOMESTEAD. (1) For each tax
+9 year, the first one hundred twenty-five thousand dollars ($125,000) of the
+10 market value for assessment purposes of the homestead as that term is defined
+11 in section 63-701, Idaho Code, or fifty percent (50%) of the market value
+12 for assessment purposes of the homestead as that term is defined in section
+13 63-701, Idaho Code, whichever is the lesser, shall be exempt from property
+14 taxation.
+15 (2) The exemption allowed by this section may be granted only if:
+16 (a) The homestead is owner-occupied and used as the primary dwelling
+17 place of the owner. The homestead may consist of part of a multidwelling
+18 or multipurpose building and shall include all of such dwelling or
+19 building except any portion used exclusively for anything other than
+20 the primary dwelling of the owner. The presence of an office in a home-
+21 stead, which office is used for multiple purposes, including business
+22 and personal use, shall not prevent the owner from claiming the exemp-
+23 tion provided in this section; and
+24 (b) The state tax commission has certified to the board of county com-
+25 missioners that all properties in the county subject to appraisal by the
+26 county assessor have, in fact, been appraised uniformly so as to secure
+27 a just valuation for all property within the county; and
+28 (c) The owner has certified to the county assessor that:
+29 (i) He is making application for the exemption allowed by this
+30 section;
+31 (ii) The homestead is his primary dwelling place; and
+32 (iii) He has not made application in any other county for the ex-
+33 emption and has not made application for the exemption on any other
+34 homestead in the county.
+35 (d) For the purpose of this section, the definition of "owner" shall be
+36 the same definition set forth in section 63-701(7), Idaho Code. When an
+37 owner, pursuant to the provisions of section 63-701(7), Idaho Code, is
+38 any person who is the beneficiary of a revocable or irrevocable trust,
+39 or who is a partner of a limited partnership, a member of a limited lia-
+40 bility company, or a shareholder of a corporation, he or she may provide
+41 proof of the trust, limited partnership, limited liability company, or
+42 corporation in the manner set forth in section 63-703(4), Idaho Code.
+
+2
+1 (e) Any owner may request in writing the return of all copies of any
+2 documents submitted with the affidavit set forth in section 63-703(4),
+3 Idaho Code, that are held by a county assessor, and the copies shall
+4 be returned by the county assessor upon submission of the affidavit in
+5 proper form.
+6 (f) For the purpose of this section, the definition of "primary
+7 dwelling place" shall be the same definition set forth in section
+8 63-701(8), Idaho Code.
+9 (g) For the purpose of this section, the definition of "occupied" shall
+10 be the same definition set forth in section 63-701(6), Idaho Code.
+11 (3) The county assessor of each county shall prescribe and make avail-
+12 able forms to be used by a homeowner to apply for the homestead exemption pro-
+13 vided in this section. The homeowner shall provide on such forms the home-
+14 owner's full name, date of birth, complete address, and most recent previ-
+15 ous complete address. The homeowner shall also provide, as applicable, such
+16 homeowner's Idaho state-issued driver's license number or Idaho state-is-
+17 sued identification card number, except that such requirement shall not ap-
+18 ply to a homeowner in active military service for the initial application for
+19 the exemption and during such time as the homeowner meets the qualifications
+20 provided in subsection (8) of this section. If the homeowner applying for
+21 the exemption provided in this section has not been domiciled in Idaho for
+22 at least ninety (90) days and does not have an Idaho state-issued driver's
+23 license or Idaho state-issued identification card, the homeowner shall pro-
+24 vide an Idaho state-issued driver's license number or an Idaho state-issued
+25 identification card number to the county assessor within ninety (90) days of
+26 submitting such homeowner's initial application for the exemption.
+27 (4) An owner need make application for the exemption described in sub-
+28 section (1) of this section only once, as long as all of the following condi-
+29 tions are met:
+30 (a) The owner has received the exemption during the previous year as a
+31 result of making a valid application as set forth in subsection (2)(c)
+32 of this section.
+33 (b) The owner or beneficiary, partner, member or shareholder, as appro-
+34 priate, still occupies the same homestead for which the owner made ap-
+35 plication.
+36 (c) The homestead described in paragraph (b) of this subsection is
+37 owner-occupied or occupied by a beneficiary, partner, member or share-
+38 holder, as appropriate, and used as the primary dwelling place of the
+39 owner or beneficiary, partner, member or shareholder, as appropriate.
+40 (5)(a) The exemption allowed by this section shall be effective on the
+41 date of eligibility status change provided on the approved application
+42 for the current tax year and must be taken before the reduction in taxes
+43 provided by sections 63-701 through 63-710, Idaho Code, is applied.
+44 (b) If the eligibility status of the property eligible for the exemp-
+45 tion changes during the tax year, the property taxes shall be prorated
+46 based on the property's eligibility status during the year. The levy
+47 rate shall be multiplied against the market value for assessment pur-
+48 poses of the property, and the resulting tax due shall be divided by
+49 three hundred sixty-five (365) days, or by three hundred sixty-six
+50 (366) days if the tax year is a leap year, for the daily tax amount and
+
+3
+1 then multiplied by the number of days of the year such property has a
+2 given exemption eligibility status. For an owner who qualifies for the
+3 homeowner exemption, the property taxes shall be calculated using the
+4 market value for assessment purposes, reduced by the exemption amount
+5 provided in subsection (1) of this section. The levy rate shall be
+6 multiplied against such value and divided by three hundred sixty-five
+7 (365) days, or by three hundred sixty-six (366) days if the tax year is
+8 a leap year, and then multiplied by the number of days such person is
+9 eligible for the exemption.
+10 (c) If the eligibility status of the property changes during the tax
+11 year, the taxable value of the homestead or the tax amount shall be ad-
+12 justed in one (1) of the following ways:
+13 (i) If the property becomes eligible before the second Monday of
+14 July, the reduced taxable value shall be entered on the property
+15 roll pursuant to section 63-301, Idaho Code, and the homeowner
+16 property tax relief roll pursuant to section 63-724(4), Idaho
+17 Code;
+18 (ii) If the property becomes eligible on or after the second Mon-
+19 day of July, property taxes due shall be calculated as provided
+20 in paragraph (b) of this subsection and any reduction in property
+21 tax will result in a cancellation or refund as provided in section
+22 63-1202, Idaho Code;
+23 (iii) If the property becomes ineligible for the exemption before
+24 the second Monday of July, any additional taxable value shall be
+25 entered on the property roll pursuant to section 63-301, Idaho
+26 Code, and the homeowner property tax relief roll pursuant to sec-
+27 tion 63-724(4), Idaho Code;
+28 (iv) If the property becomes ineligible for the exemption on or
+29 after the second Monday of July but no later than the fourth Monday
+30 of November, the additional value shall be assessed and entered on
+31 the subsequent or missed property roll pursuant to the provisions
+32 of section 63-301, Idaho Code; or
+33 (v) If the property becomes ineligible for the exemption on or af-
+34 ter the fourth Monday of November, the tax on the additional value
+35 may be calculated as provided in paragraph (b) of this subsection
+36 and billed as provided for the recovery of the property tax exemp-
+37 tion pursuant to this subsection.
+38 (6) Recovery of property tax exemptions allowed by this section but im-
+39 properly claimed or approved:
+40 (a)(i) Prior to granting an exemption, the county assessor shall
+41 investigate whether an applicant for the exemption has claimed the
+42 exemption for another homestead and shall not grant the exemption
+43 where it appears the exemption has been improperly claimed. The
+44 applicant shall be notified of the county assessor's refusal to
+45 grant the exemption.
+46 (ii) Upon discovery of evidence, facts or circumstances indicat-
+47 ing any exemption allowed by this section was improperly claimed
+48 or approved, the county assessor shall decide whether the exemp-
+49 tion claimed should have been allowed and, if not, notify the tax-
+50 payer in writing, assess a recovery of property tax and notify the
+
+4
+1 county treasurer of this assessment. If the county assessor de-
+2 termined that an exemption was improperly approved as a result of
+3 county error, the county assessor shall present the discovered ev-
+4 idence, facts or circumstances from the improperly approved ex-
+5 emption to the board of county commissioners, at which time the
+6 board may waive a recovery of the property tax and notify such tax-
+7 payer in writing.
+8 (iii) Upon the first instance of a taxpayer being discovered to
+9 have claimed more than one (1) homestead exemption, the taxpayer
+10 shall be subject to a penalty, payable to the county treasurer, in
+11 an amount equal to the amount of property tax recovered pursuant
+12 to subparagraph (ii) of this paragraph, which shall be paid in ad-
+13 dition to such recovery amount. The taxpayer shall be notified of
+14 the assessment of such penalty at the same time as the notice of the
+15 assessor's refusal to grant the exemption in subparagraph (i) of
+16 this paragraph.
+17 (iv) Any subsequent violation within seven (7) years of an in-
+18 stance pursuant to subparagraph (iii) of this paragraph shall be a
+19 misdemeanor, subject to the penalties provided in section 18-113,
+20 Idaho Code. The county assessor shall notify the county prosecut-
+21 ing attorney of any conduct that would constitute a misdemeanor
+22 pursuant to this subparagraph.
+23 (v) Nothing in this paragraph shall prohibit a taxpayer from
+24 claiming a homestead exemption after January 1 for a property that
+25 is not already subject to the homestead exemption, provided any
+26 claim for an exemption is consistent with the requirements of sub-
+27 section (2)(c)(iii) of this section.
+28 (b) Upon request by a county assessor conducting an investigation under
+29 paragraph (a) of this subsection, or when information indicating that
+30 an improper claim for the exemption allowed by this section is discov-
+31 ered by the state tax commission, the state tax commission shall dis-
+32 close relevant information to the appropriate county assessor, board
+33 of county commissioners, county clerk, and county treasurer and to the
+34 secretary of state. Information disclosed to county officials and the
+35 secretary of state by the state tax commission under this subsection:
+36 (i) May be used to decide the validity of any entitlement to the
+37 exemption provided in this section;
+38 (ii) Shall, as necessary, be used to determine a person's resi-
+39 dence for voting purposes under title 34, Idaho Code; and
+40 (iii) Is not otherwise subject to public disclosure pursuant to
+41 chapter 1, title 74, Idaho Code.
+42 (c) The assessment and collection of the recovery of property tax must
+43 begin within the seven (7) year period beginning the date the assessment
+44 notice reflecting the improperly claimed or approved exemption was re-
+45 quired to be mailed to the taxpayer.
+46 (d)(i) An applicant for an exemption under this section may appeal
+47 to the county board of equalization the county assessor's refusal
+48 to grant an exemption pursuant to paragraph (a) of this subsection
+49 within thirty (30) days of the date the county assessor sent notice
+50 of the refusal.
+
+5
+1 (ii) The taxpayer may appeal to the county board of equalization
+2 the decision by the county assessor to assess the recovery of prop-
+3 erty tax within thirty (30) days of the date the county assessor
+4 sent the notice to the taxpayer pursuant to this section. The
+5 board may waive the collection of all or part of any costs, late
+6 charges, and interest in order to facilitate the collection of the
+7 recovery of the property tax.
+8 (iii) The taxpayer may appeal the imposition of the penalty pro-
+9 vided in paragraph (a)(iii) of this subsection within thirty (30)
+10 days of the date the county assessor sent the notice to the tax-
+11 payer pursuant to this section.
+12 (e) For purposes of calculating the tax, the amount of the recovered
+13 property tax shall be for each year the exemption allowed by this sec-
+14 tion was improperly claimed or approved, up to a maximum of seven (7)
+15 years. The amount of the recovery of property tax shall be calculated
+16 using the product of the amount of exempted value for each year multi-
+17 plied by the levy for that year plus costs, late charges, and interest
+18 for each year at the rates equal to those provided for delinquent prop-
+19 erty taxes during that year.
+20 (f) Any recovery of property tax shall be due and payable no later than
+21 the date provided for property taxes in section 63-903, Idaho Code, and
+22 if not timely paid, late charges and interest, beginning the first day
+23 of January in the year following the year the county assessor sent the
+24 notice to the taxpayer pursuant to this section, shall be calculated at
+25 the current rate provided for property taxes.
+26 (g) Recovered property taxes shall be billed, collected and dis-
+27 tributed in the same manner as property taxes, except each taxing dis-
+28 trict or unit shall be notified of the amount of any recovered property
+29 taxes included in any distribution.
+30 (h) Thirty (30) days after the taxpayer is notified, as provided in
+31 paragraph (a) of this subsection, the assessor shall record a notice
+32 of intent to attach a lien. Upon the payment in full of such recov-
+33 ered property taxes prior to the attachment of the lien as provided in
+34 paragraph (i) of this subsection, or upon the successful appeal by the
+35 taxpayer, the county assessor shall record a rescission of the intent to
+36 attach a lien within seven (7) business days of receiving such payment
+37 or within seven (7) business days of the county board of equalization
+38 decision granting the appeal. If the real property is sold to a bona
+39 fide purchaser for value prior to the recording of the notice of the in-
+40 tent to attach a lien, the county assessor and treasurer shall cease the
+41 recovery of such unpaid recovered property tax.
+42 (i) Any unpaid recovered property taxes shall become a lien on the real
+43 property in the same manner as provided for property taxes in section
+44 63-206, Idaho Code, except such lien shall attach as of the first day of
+45 January in the year following the year the county assessor sent the no-
+46 tice to the taxpayer pursuant to this section.
+47 (j) For purposes of the limitation provided by section 63-802, Idaho
+48 Code, moneys received pursuant to this subsection as recovery of prop-
+49 erty tax shall be treated as property tax revenue.
+50 (7) The legislature declares that this exemption is necessary and just.
+
+6
+1 (8) A homestead that previously qualified for exemption under this sec-
+2 tion in the preceding year shall not lose such qualification due to: the
+3 owner's, beneficiary's, partner's, member's or shareholder's absence in the
+4 current year by reason of active military service or religious mission or be-
+5 cause the homestead has been leased because the owner, beneficiary, partner,
+6 member or shareholder is absent in the current year by reason of active mil-
+7 itary service or religious mission. For purposes of this subsection, "reli-
+8 gious mission" means service performed for a religious organization, where
+9 the owner, beneficiary, partner, member, or shareholder is required to relo-
+10 cate from the homestead for the duration of the mission but intends to return
+11 to the homestead upon the completion of the mission. An owner subject to the
+12 provisions of this subsection must apply for the exemption with the county
+13 assessor every year on or before a deadline date as specified by the county
+14 assessor for the county in which the homestead is claimed. If an owner fails
+15 to apply on or before the established deadline, the county may, at its dis-
+16 cretion, discontinue the exemption for that year.
+17 (9) A homestead that previously qualified for exemption under this
+18 section in the preceding year shall not lose such qualification due to the
+19 owner's, beneficiary's, partner's, member's or shareholder's death during
+20 the year of the owner's, beneficiary's, partner's, member's or share-
+21 holder's death and the tax year immediately following such death, provided
+22 that the homestead continues to be a part of the owner's, beneficiary's,
+23 partner's, member's or shareholder's estate. After such time, the new owner
+24 shall reapply to receive the exemption pursuant to this section and shall
+25 meet the qualification criteria contained in this section.
+26 (10) The amount by which each exemption approved under this section ex-
+27 ceeds one hundred thousand dollars ($100,000) may, in the discretion of the
+28 governing board of a taxing district, be deducted from the new construction
+29 roll for the following year prepared by the county assessor in accordance
+30 with section 63-301A, Idaho Code, but only to the extent that the amount ex-
+31 ceeds the same deduction made in the previous year.
+32 (11) By July 1, 2023, the state tax commission shall establish a data-
+33 base of all active exemptions claimed under this section, which database
+34 shall be searchable by a person's name and by the address of the homestead
+35 for which the exemption is claimed. The database shall be made accessible
+36 to officials listed in subsection (6)(b) of this section for the purpose of
+37 verifying that:
+38 (a) Multiple active exemptions have not been claimed by the same per-
+39 son; and
+40 (b) A person's residence for voting purposes is the same as the home-
+41 stead for which such person has an active exemption pursuant to this
+42 section, if an exemption is so claimed.
+43 (12) Increases in taxable value resulting from any change in status of
+44 a property formerly or newly receiving the homeowner exemption shall be in-
+45 cluded by the county assessor on the property roll or subsequent property
+46 roll required pursuant to section 63-301, Idaho Code.
+47 SECTION 2. An emergency existing therefor, which emergency is hereby
+48 declared to exist, this act shall be in full force and effect on and after its
+49 passage and approval, and retroactively to January 1, 2026.

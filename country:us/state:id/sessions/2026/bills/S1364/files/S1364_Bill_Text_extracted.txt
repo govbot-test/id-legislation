@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1364
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ADMINISTRATIVE RULES; AMENDING SECTION 67-5226, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING THE EXPIRATION OF TEMPORARY RULES; AMEND-
+4 ING SECTION 67-5291, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE EX-
+5 PIRATION OF TEMPORARY RULES; AND DECLARING AN EMERGENCY AND PROVIDING
+6 AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 67-5226, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 67-5226. TEMPORARY RULES. (1) If the governor finds that:
+11 (a) Protection of the public health, safety, or welfare; or
+12 (b) Compliance with deadlines in amendments to governing law or federal
+13 programs; or
+14 (c) Reducing a regulatory burden that would otherwise impact individu-
+15 als or businesses;
+16 requires a rule to become effective before it has been submitted for review,
+17 the agency may proceed with such notice as is practicable and adopt a tem-
+18 porary rule, except as otherwise provided in section 67-5229(1)(d), Idaho
+19 Code. The agency may make the temporary rule immediately effective. The
+20 agency shall incorporate the required finding and a concise statement of its
+21 supporting reasons in each rule adopted in reliance upon the provisions of
+22 this subsection.
+23 (2) A pending fee rule adopted pursuant to subsection (1) of this sec-
+24 tion may become effective under this section before it has been approved by
+25 concurrent resolution only if the governor finds that the fee or charge is
+26 necessary to avoid immediate danger.
+27 (3) Temporary rules shall be published in the first available issue of
+28 the bulletin.
+29 (4) Temporary rules are not subject to the requirements of section
+30 67-5223, Idaho Code, provided that the coordinator sends a copy of the tempo-
+31 rary rules to the director of the legislative services office.
+32 (5) Concurrently with the promulgation of a rule under this section, or
+33 as soon as reasonably possible thereafter, an agency shall commence the pro-
+34 mulgation of a proposed rule in accordance with the rulemaking requirements
+35 of this chapter, unless the temporary rule adopted by the agency will expire
+36 by its own terms or by operation of law pursuant to section 67-5291, Idaho
+37 Code, before the proposed rule could become final.
+38 SECTION 2. That Section 67-5291, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+
+2
+1 67-5291. LEGISLATIVE REVIEW OF RULES. (1) A standing committee of the
+2 legislature shall review any temporary, pending, or final rule that is ger-
+3 mane to its committee and has been published in the bulletin or in the admin-
+4 istrative code to determine if the rule is consistent with the legislative
+5 intent of the statute that the rule was written to interpret, prescribe, im-
+6 plement, or enforce. If a reviewed rule is approved, the standing committee
+7 that approves the rule shall report its findings and recommendations to the
+8 body. If ordered by the presiding officer, the committee's report shall be
+9 printed in the journal.
+10 (2)(a) All temporary, pending, and final rules of any nature may be ap-
+11 proved or rejected by a concurrent resolution of the legislature. The
+12 concurrent resolution shall state the effective date of the approval or
+13 rejection.
+14 (b) The legislature may reject a rule, in whole or in part, where the
+15 legislature determines that the rule, or part of the rule, is not con-
+16 sistent with the legislative intent of the statute that the rule was
+17 written to interpret, prescribe, implement, or enforce. When rejecting
+18 a rule, the legislature shall make a finding of facts as to why the rule
+19 does not meet the legislative intent of the enabling statute by identi-
+20 fying how the rule is inconsistent with the authority granted by or the
+21 requirements of the corresponding section of Idaho Code. For purposes
+22 of this section, "part of the rule" means a provision in a rule that is
+23 designated either numerically or alphabetically or the entirety of any
+24 new or amended language contained therein. The rejection of a rule in
+25 whole or in part shall terminate the rule, in whole or in part, as of the
+26 effective date of the rejection. An agency shall not, subsequent to the
+27 rejection, issue a proposed rule that is substantially similar to the
+28 rejected rule unless it is consistent with the legislative intent of the
+29 statute as expressed in the concurrent resolution.
+30 (c) The secretary of state shall immediately notify the affected agency
+31 of the filing and effective date of any concurrent resolution enacted to
+32 approve or reject, in whole or in part, an agency rule. When an agency
+33 rule has been partially rejected, the secretary of state shall trans-
+34 mit a copy of the concurrent resolution to the director of the agency for
+35 promulgation of the rule as amended.
+36 (d) The agency shall be responsible for implementing legislative in-
+37 tent as expressed in the concurrent resolution, including, as appropri-
+38 ate, the reinstatement of the prior rule in whole or in part, if any, in
+39 the case of a resolution rejecting a rule in whole or in part. The agency
+40 shall publish notice of rejection of a rule in whole or in part in the
+41 bulletin.
+42 (3) A temporary rule that is not approved by a concurrent resolution
+43 shall expire by its own terms or at adjournment sine die of the next succeed-
+44 ing regular session of the legislature on June 30 of the year following the
+45 temporary rule's adoption, whichever date is earlier.
+46 (4) Except as set forth in sections 67-5226 and 67-5228, Idaho Code, a
+47 pending fee rule that is not approved by a concurrent resolution shall expire
+48 upon adjournment sine die of the legislative session during which the agency
+49 submits the pending fee rule to the legislature for review.
+
+3
+1 (5) Except as set forth in sections 67-5226 and 67-5228, Idaho Code, a
+2 pending non-fee rule that is not approved by a concurrent resolution shall
+3 expire upon adjournment sine die of the legislative session during which the
+4 agency submits the pending rule to the legislature for review.
+5 (6) On and after January 1, 2024, pending fee and non-fee rules shall
+6 become effective on July 1 in the year of the legislative session in which the
+7 rule was approved by concurrent resolution unless otherwise specified in the
+8 concurrent resolution.
+9 SECTION 3. An emergency existing therefor, which emergency is hereby
+10 declared to exist, this act shall be in full force and effect on and after
+11 July 1, 2026.

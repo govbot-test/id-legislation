@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 501
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO BALLOT MEASURES; AMENDING SECTION 34-1807, IDAHO CODE, TO RE-
+3 VISE PROVISIONS REGARDING THE CIRCULATION OF PETITIONS, TO PROVIDE CER-
+4 TAIN REQUIREMENTS FOR SIGNATURE GATHERERS, AND TO MAKE TECHNICAL COR-
+5 RECTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 34-1807, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 34-1807. CIRCULATION OF PETITIONS -- PAID SIGNATURE GATHERERS --
+10 VERIFICATION OF PETITION AND SIGNATURE SHEETS -- CERTIFICATION OF PETITION
+11 SIGNERS -- CERTAIN PETITIONS AND SIGNATURES VOID. (1) Any person who cir-
+12 culates any petition for an initiative or referendum shall be a resident
+13 qualified elector of the state of Idaho and at least eighteen (18) years of
+14 age.
+15 (2)(a) Any person who accepts payment to circulate a petition for an
+16 initiative or referendum shall, prior to accepting a signature:
+17 (i) Verbally notify any potential signatory that such person is
+18 accepting payment to gather signatures and provide the name of the
+19 person or entity providing payment to such person; and
+20 (ii) Cause to be printed on each page of any petition for an ini-
+21 tiative or referendum a prominent and legible declaration that
+22 such person is receiving payment in exchange for circulating the
+23 petition and the name of the person persons or entities providing
+24 payment to such person.
+25 (b) At all times a person is circulating a petition pursuant to para-
+26 graph (a) of this subsection, such person shall wear a badge that is
+27 clearly visible to any potential signatory and that contains the words
+28 "paid petition circulator" on it as well as the name of the persons or
+29 entities providing payment to such person.
+30 (c) The Idaho secretary of state shall promulgate rules to implement
+31 the provisions of this subsection, which shall provide details re-
+32 garding the font specifications that shall be required for the printed
+33 declaration required under paragraph (a)(ii) of this subsection and the
+34 specifications regarding font, shape, color, and size requirements for
+35 the badge required under paragraph (b) of this subsection.
+36 (3) Each and every sheet of every such petition containing signatures
+37 shall be verified on the face thereof in substantially the following form,
+38 by the person who circulated said sheet of said petition, by his or her affi-
+39 davit thereon, and as a part thereof:
+40 (a) For persons not accepting payment for circulating a petition:
+
+2
+1 State of Idaho )
+2 )ss.
+3 County of.... )
+4 I,...., being first duly sworn, say that I am a resident qualified elec-
+5 tor of the State of Idaho and at least eighteen (18) years of age; that I have
+6 not and will not accept remuneration in any way related to the petition; that
+7 every person who signed this sheet of the foregoing petition signed his or
+8 her name thereto in my presence; that I believe that each has stated his or
+9 her name, address and residence correctly; and that each signer is a quali-
+10 fied elector of the State of Idaho and a resident of the county of.....
+11 Signed.................................
+12 Post office address.....................
+13 Subscribed and sworn to before me this.... day of.....
+14 (Notary Seal) Notary Public ..........................
+15 Residing at ............................
+16 (b) For persons accepting payment for circulating a petition:
+17 State of Idaho )
+18 )ss.
+19 County of.... )
+20 I,...., being first duly sworn, say that I am a resident qualified elec-
+21 tor of the state State of Idaho and at least eighteen (18) years of age; that
+22 every person who signed this sheet of the foregoing petition signed his or
+23 her name thereto in my presence, after I verbally notified each individual
+24 signer that I will receive payment in exchange for gathering the signatures
+25 on this sheet; that I believe that each has stated his or her name, address
+26 and residence correctly; and that each signer is a qualified elector of the
+27 State of Idaho and a resident of the county of.....
+28 I am accepting payment for the circulation of the foregoing petition
+29 by.... and the address of such payor is.....
+30 Signed.................................
+31 Post office address.....................
+32 Subscribed and sworn to before me this.... day of.....
+33 (Notary Seal) Notary Public ..........................
+34 Residing at ............................
+35 (4) In addition to said affidavit, the county clerk shall carefully ex-
+36 amine said petitions and strike from the petition any names for which he has
+37 determined that the name, address, or signature do not match and confirm that
+38 each name, address, and signature matches those of a qualified elector of the
+39 proper jurisdiction and that the petitions conform to all other provisions
+40 of this section. The county clerk shall attach to the signature sheets a cer-
+41 tificate to the secretary of state substantially as follows:
+42 State of Idaho )
+43 )ss.
+44 County of.... )
+45 To the Honorable...., Secretary of State for the State of Idaho:
+46 I,...., County Clerk of.... County, hereby certify that.... signatures on
+
+3
+1 this petition are those of qualified electors in Legislative District Num-
+2 ber.....
+3 Signed.................................
+4 County Clerk or Deputy.
+5 (Seal of office)
+6 (5) The county clerk shall deliver the petition or any part thereof to
+7 the person from whom he received it with his certificate attached thereto
+8 as above provided. The forms herein given are not mandatory and if substan-
+9 tially followed in any petition, it shall be sufficient, disregarding cleri-
+10 cal and merely technical error.
+11 (6) Any petition on which signatures are obtained by a person not a
+12 resident qualified elector of the state of Idaho and at least eighteen (18)
+13 years of age shall be void. The definition of resident qualified elector in
+14 section 34-107 34-104, Idaho Code, shall apply to the circulators of initia-
+15 tive and referendum petitions.
+16 (7) Any signature that is not a physical signature, including an elec-
+17 tronic signature, is void.
+18 (8) Any petition for an initiative or referendum on which signatures
+19 are obtained that is circulated in violation of the disclosure provisions
+20 provided in subsection (2) of this section is void.
+21 SECTION 2. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2026.

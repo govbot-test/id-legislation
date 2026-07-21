@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 834
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO STATE BUDGETS; AMENDING SECTION 67-3521, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING CERTAIN CARRY FORWARDS; AND DECLARING AN EMER-
+4 GENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 67-3521, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 67-3521. ENCUMBERING APPROPRIATIONS OR EXCESSIVE EXPENDITURES FOR-
+9 BIDDEN -- ENCUMBRANCES TO REVERT -- EXECUTIVE CARRY FORWARD APPROVAL. (1) No
+10 officer, department, bureau, or institution shall encumber any appropria-
+11 tions or be allowed to make any expenditures from appropriations in excess of
+12 the spending authority provided by this chapter.
+13 (2) Encumbrances shall be reported as reductions against appropria-
+14 tions in anticipation of an expenditure, shall be made only for a legally
+15 contracted obligation or for the accrued cost of a specific product or ser-
+16 vice due and payable prior to or as of the end of the current fiscal year or
+17 for the term of the contract obligation, and shall not be used as a means of
+18 reserving a portion of the appropriation of one (1) fiscal year to be used
+19 in combination with the appropriation of the following year. Requests for
+20 executive carry forward shall be accompanied by proper identification of the
+21 accrued cost, which must be adequately covered by appropriated moneys from
+22 the current fiscal year.
+23 (3) Notwithstanding any provisions of this section to the contrary, all
+24 purchase orders issued by the administrator of the division of purchasing,
+25 or purchase orders issued pursuant to a delegation of purchasing authority
+26 to specified state officers and employees, shall be encumbered and, if not
+27 liquidated by payment of the accrued cost during the current fiscal year,
+28 shall be included as executive carry forward. Such encumbrance and execu-
+29 tive carry forward shall not require the approval of the administrator of the
+30 division of financial management for executive carry forward.
+31 (4) When purchase requisitions are submitted by agencies prior to the
+32 administrator of the division of purchasing's fiscal year-end cutoff date,
+33 but not processed either due to workload or bid requirements, agencies may
+34 submit a request for executive carry forward to the administrator of the di-
+35 vision of financial management.
+36 (5) Executive carry forward not liquidated by payment of the accrued
+37 cost during the on or before October 1 of the succeeding fiscal year shall re-
+38 vert to the fund from which it originated and shall be recorded as a reversion
+39 in that fiscal year, unless approved for extension by the administrator of
+40 the division of financial management. Liquidation of executive carry for-
+41 ward shall be recorded as an expenditure only in the fiscal year in which it
+42 is liquidated.
+
+2
+1 (6) The provisions of this section shall not apply to encumbrances in-
+2 volving vocational educational or career technical reimbursements to edu-
+3 cational institutions or to encumbrances involving contracts for the con-
+4 struction of highways, bridges, buildings, or other primary structures or
+5 capital improvements and, if not liquidated by payment of the accrued cost
+6 during the current fiscal year, shall be included as executive carry for-
+7 ward.
+8 SECTION 2. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2026.

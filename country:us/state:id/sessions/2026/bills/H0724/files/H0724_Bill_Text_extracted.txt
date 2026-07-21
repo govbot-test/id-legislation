@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 724
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO FOSTER CARE; PROVIDING LEGISLATIVE INTENT; AMENDING CHAPTER
+3 12, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-1212,
+4 IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING FOSTER CHILD SAFETY; AND
+5 DECLARING AN EMERGENCY.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. The Legislature finds that
+8 children in foster care are among the most vulnerable individuals under the
+9 care and supervision of the Idaho Department of Health and Welfare. It is
+10 the intent of the Legislature to ensure their safety, health, and welfare by
+11 articulating certain protections guaranteed to such children. It is further
+12 the intent of the Legislature that this act govern the treatment and safety
+13 of children while in the care or custody of the state and not be construed to
+14 expand general government authority or diminish parental rights beyond what
+15 is necessary to ensure the safety, health, and welfare of the child.
+16 SECTION 2. That Chapter 12, Title 39, Idaho Code, be, and the same is
+17 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+18 ignated as Section 39-1212, Idaho Code, and to read as follows:
+19 39-1212. FOSTER CHILD SAFETY. (1) All children placed in foster care
+20 shall have the following safety-related rights:
+21 (a) The right to reside in a safe and healthy environment;
+22 (b) The freedom from physical, sexual, emotional, or other abuse. This
+23 includes the freedom to be placed away from other children, siblings, or
+24 individuals known to pose a credible threat of physical or sexual abuse
+25 to the foster child, either because of the foster child's own risk fac-
+26 tors or those of the other children, siblings, or individuals;
+27 (c) The right to timely and appropriate medical assessments and foren-
+28 sic testing when a child discloses sexual abuse to a mandatory reporter,
+29 consistent with applicable Idaho law and mandatory reporting require-
+30 ments;
+31 (d) The right to adequate and appropriate basic essentials, including
+32 food, shelter, clothing, and personal necessities;
+33 (e) The right to limit, restrict, suspend, or deny visitation by court
+34 order because visitation would be contrary to the safety and well-being
+35 of the child. Substantiated safety concerns shall be considered by the
+36 court to limit, restrict, suspend, or deny visitation. The court may
+37 consider any relevant factors, including:
+38 (i) Safety and risk assessments;
+39 (ii) Placement and supervision decisions;
+40 (iii) Protective plans;
+
+2
+1 (iv) Medical, behavioral health, and developmental evaluations;
+2 and
+3 (v) Reunification plans and case plans; and
+4 (f) The right to reasonable consideration of the child's safety during
+5 transitions between foster care placements when practicable and con-
+6 sistent with the safety of the child. Nothing in this paragraph shall
+7 be construed to delay an emergency placement or supersede a court order
+8 or immediate safety determination. In evaluating safety, the court may
+9 consider factors relevant to the child's circumstances, including age,
+10 developmental needs, emotional or behavioral health, prior trauma, and
+11 the reasons for the placement change.
+12 (2) The department shall develop a written notice of, at a minimum, the
+13 rights enumerated in this section. The department shall provide each child
+14 with such written notice at the time of initial placement in foster care,
+15 at each placement change, and at least annually. Foster homes licensed by
+16 the department shall post the notice in a place where children have access.
+17 Failure to provide or post such notice shall not, by itself, create a cause of
+18 action or constitute a violation of law.
+19 (3) The rights in this section are a broad expression of the rights of
+20 children in foster care, are not exhaustive, and shall be interpreted and ap-
+21 plied consistent with the best interests of the child.
+22 (4) Nothing in this section shall be construed to expand the author-
+23 ity of the state or the department beyond that which is otherwise provided by
+24 law or be construed to create a private cause of action or a cause of action
+25 against the state, the judiciary, the department, or any employee, agent, or
+26 contractor thereof. Implementation of this section shall occur through ex-
+27 isting court proceedings and department processes and shall not require new
+28 enforcement mechanisms, agencies, reporting structures, or appropriations.
+29 (5) Alleged violations of the rights enumerated in this section may be
+30 raised within the child's ongoing juvenile proceeding pursuant to chapter
+31 16, title 16, Idaho Code, by the child's attorney, guardian ad litem, court-
+32 appointed special advocate, the department, or another party to the proceed-
+33 ing already granted standing under existing Idaho law or by a foster par-
+34 ent through any of the aforementioned. Reports or information submitted by
+35 a mandatory reporter pursuant to Idaho law may be brought to the attention
+36 of the court through any such party and considered by the court in determin-
+37 ing whether a violation of these rights has occurred. Upon such notice, the
+38 court shall consider the allegation and may, within its discretion, order
+39 appropriate remedies within the juvenile proceeding to promote the safety
+40 and welfare of the child. Nothing in this subsection shall be construed to
+41 require the initiation of a separate action or to expand the jurisdiction of
+42 the court beyond existing law. Relief under this subsection shall be limited
+43 to corrective orders within the juvenile proceeding pursuant to chapter 16,
+44 title 16, Idaho Code.
+45 (6) The department shall make reasonable efforts to ensure that all
+46 reports received pursuant to mandatory reporting laws related to a child
+47 subject to a juvenile proceeding pursuant to chapter 16, title 16, Idaho
+48 Code, are documented and made available for consideration by the court
+49 within that proceeding in a manner consistent with existing confidential-
+50 ity, evidentiary, and due process requirements.
+
+3
+1 (7) Nothing in this section shall be construed to limit the ability of a
+2 child, the child's representative, a foster parent, or a party to the juve-
+3 nile proceeding pursuant to chapter 16, title 16, Idaho Code, to contact the
+4 health and social services ombudsman regarding concerns related to the im-
+5 plementation of this section. Any review or recommendation by the health and
+6 social services ombudsman shall be advisory in nature and shall not create a
+7 cause of action or alter the authority of the court or the department.
+8 SECTION 3. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after its
+10 passage and approval.

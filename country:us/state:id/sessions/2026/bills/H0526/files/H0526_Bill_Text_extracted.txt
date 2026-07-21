@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 526
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO COTTAGE FOOD OPERATIONS; AMENDING CHAPTER 16, TITLE 39, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 39-1608, IDAHO CODE, TO ESTABLISH
+4 PROVISIONS REGARDING COTTAGE FOOD OPERATIONS; AND DECLARING AN EMER-
+5 GENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 16, Title 39, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 39-1608, Idaho Code, and to read as follows:
+10 39-1608. COTTAGE FOOD OPERATIONS. Notwithstanding any provision of
+11 law to the contrary, a cottage food operation making sales that do not exceed
+12 five thousand dollars ($5,000) in cumulative gross receipts in the current
+13 or previous calendar year may sell time/temperature control for safety foods
+14 directly to a consumer.
+15 SECTION 2. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

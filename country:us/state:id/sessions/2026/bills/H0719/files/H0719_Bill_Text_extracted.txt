@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 719
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO CAMPAIGN FINANCE; AMENDING SECTION 67-6610D, IDAHO CODE, TO
+3 PROHIBIT OUT-OF-STATE CONTRIBUTIONS AND EXPENDITURES; AND DECLARING AN
+4 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 67-6610D, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 67-6610D. FOREIGN CONTRIBUTIONS, FOREIGN INDEPENDENT EXPENDITURES,
+9 AND FOREIGN ELECTIONEERING COMMUNICATIONS PROHIBITED -- OUT-OF-STATE CON-
+10 TRIBUTIONS AND INDEPENDENT EXPENDITURES PROHIBITED. (1) A foreign national
+11 shall not make a contribution, directly or indirectly, to any candidate,
+12 political committee, or measure or make electioneering communications or
+13 independent expenditures. An out-of-state person shall not make a contri-
+14 bution, directly or indirectly, to any candidate, political committee, or
+15 measure or make independent expenditures.
+16 (2) As used in this section, "foreign national":
+17 (a) "Foreign national" means:
+18 (a) (i) An individual who is not a citizen of the United States and
+19 is not lawfully admitted for permanent residence;
+20 (b) (ii) A government or subdivision of a foreign country;
+21 (c) (iii) A foreign political party; or
+22 (d) (iv) Any entity, such as a partnership, association, corpora-
+23 tion, organization, union, or other combination of persons, that
+24 is organized under the laws of or has its principal place of busi-
+25 ness in a foreign country.
+26 (b) "Legal resident of Idaho" means an individual who is a citizen of
+27 the United States and who has resided in Idaho for at least thirty (30)
+28 days.
+29 (c) "Out-of-state person" means:
+30 (i) An individual who is not a legal resident of Idaho; or
+31 (ii) Any entity, such as a partnership, association, corporation,
+32 organization, union, or other combination of persons, that is or-
+33 ganized under the laws of or has its principal place of business in
+34 another state and does not maintain a physical office in the state
+35 of Idaho.
+36 (3) A violation of the provisions of this section shall be prosecuted
+37 and punished as provided in section 67-6625(2) through (5), Idaho Code. Pro-
+38 vided, however, any person who knowingly and willfully violates the provi-
+39 sions of this section is guilty of a felony when:
+40 (a) The aggregate amount of contributions, independent expenditures,
+41 or cost of electioneering communications made in violation of this sec-
+
+2
+1 tion exceeds one thousand dollars ($1,000) in a consecutive twelve (12)
+2 month period; or
+3 (b) The person pleads guilty to or is found guilty of a knowing and will-
+4 ful violation of the provisions of this section for a second time within
+5 ten (10) years, notwithstanding the form of the judgment or withheld
+6 judgment.
+7 (4) If any provision of this section or its application to any person or
+8 circumstance is held invalid, the remainder of the section or the applica-
+9 tion of the provision to other persons or circumstances is not affected.
+10 SECTION 2. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2026.

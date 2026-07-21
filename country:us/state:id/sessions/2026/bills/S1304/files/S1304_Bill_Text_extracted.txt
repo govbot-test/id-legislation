@@ -1,0 +1,377 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1304
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO IRRIGATION CONDUIT RIGHTS-OF-WAY; AMENDING SECTION 42-1102,
+3 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE RIGHTS ASSOCIATED WITH
+4 AN IRRIGATION EASEMENT OR RIGHT-OF-WAY; AMENDING CHAPTER 12, TITLE 42,
+5 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 42-1201, IDAHO CODE, TO
+6 DEFINE A TERM; AMENDING SECTION 42-1201, IDAHO CODE, TO REVISE PROVI-
+7 SIONS REGARDING THE OPERATION AND MAINTENANCE OF IRRIGATION CONVEYANCE
+8 FACILITIES AND TO REDESIGNATE THE SECTION; AMENDING SECTION 42-1207,
+9 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE PLACEMENT OF IRRIGATION
+10 CONDUITS, TO PROVIDE FOR A RIGHT OF AN OWNER OR OPERATOR OF AN IRRIGA-
+11 TION EASEMENT OR RIGHT-OF-WAY, TO REDESIGNATE THE SECTION, AND TO MAKE
+12 TECHNICAL CORRECTIONS; AMENDING SECTION 42-1208, IDAHO CODE, TO REVISE
+13 PROVISIONS REGARDING EASEMENTS, RIGHTS-OF-WAY, AND OTHER REAL PROPERTY
+14 NOT SUBJECT TO ADVERSE PROPERTY AND TO REDESIGNATE THE SECTION; AMEND-
+15 ING SECTION 42-1209, IDAHO CODE, TO REVISE PROVISIONS REGARDING EN-
+16 CROACHMENTS ON EASEMENTS AND RIGHTS-OF-WAY AND TO REDESIGNATE THE SEC-
+17 TION; AMENDING SECTION 18-4308, IDAHO CODE, TO PROVIDE A CORRECT CODE
+18 REFERENCE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+19 Be It Enacted by the Legislature of the State of Idaho:
+20 SECTION 1. That Section 42-1102, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 42-1102. OWNERS OF LAND -- RIGHT TO RIGHT-OF-WAY. (1) Owners or
+23 claimants to land that do not have sufficient length of frontage on a stream
+24 to afford the requisite fall for a ditch, canal, lateral, drain, or other
+25 conduit on their own premises for the proper irrigation or drainage thereof,
+26 or where the land proposed to be irrigated is back from the banks of such
+27 stream, and convenient facilities otherwise for the watering of said lands
+28 cannot be had, such owners or claimants are entitled to a right-of-way
+29 through the lands of others for a ditch, canal, lateral, drain, or conduit to
+30 convey water to the place of use for the purposes of irrigation or to provide
+31 drainage of irrigated land.
+32 (2) The right-of-way for a ditch, canal, lateral, drain, or other con-
+33 duit shall include but is not limited to the reasonable exercise of the fol-
+34 lowing rights:
+35 (a) The right to enter the land across which the right-of-way extends
+36 for the purposes of accessing, inspecting, operating, cleaning, main-
+37 taining, and repairing the ditch, canal, lateral, drain, conduit,
+38 embankments, and irrigation structures and to occupy such width of the
+39 land along the ditch, canal, lateral, drain, conduit, and embankments
+40 as is necessary to properly perform such work with personnel and with
+41 such equipment as is commonly used or is reasonably adapted to that
+42 work.
+
+2
+1 (b) The right to remove from the ditch, canal, lateral, drain, conduit,
+2 embankments, and irrigation structures the debris, soil, vegetation,
+3 and other material the ditch, canal, lateral, drain, or conduit owner
+4 or operator reasonably deems necessary to properly access, inspect, op-
+5 erate, clean, maintain, and repair them. The owner or operator has the
+6 right and discretion to transport the material from the right-of-way,
+7 to utilize the material for reconstruction, repair, or maintenance of
+8 the ditch, canal, lateral, drain, conduit, embankments, irrigation
+9 structures, and related roads and access areas, and to deposit and leave
+10 the material within the right-of-way, provided that the deposits occupy
+11 no greater width of land along the ditch, canal, lateral, drain, con-
+12 duit, and embankments than is reasonably necessary.
+13 (c) The right to occupy the right-of-way during any season of the year
+14 to perform the work of operating, cleaning, maintaining, and repair-
+15 ing the ditch, canal, lateral, drain, conduit, embankments, and irri-
+16 gation structures without prior notice to the owner or occupant of the
+17 land across which the right-of-way extends.
+18 (d) The right to construct, install, modify, maintain, or relocate any
+19 structure, headgate, siphon, measuring device, road, fence, gate, or
+20 other appurtenance within the right-of-way that facilitates the deliv-
+21 ery or drainage of water or is used to access, protect, inspect, oper-
+22 ate, clean, maintain, or repair the ditch, canal, lateral, drain, or
+23 other conduit.
+24 (d) (e) The owner or operator of the ditch, canal, lateral, drain, or
+25 conduit is not obligated to maintain or control the right-of-way or veg-
+26 etation for the benefit of the owners or claimants of lands of others.
+27 (f) A servient estate owner's permission shall not be required to exer-
+28 cise the rights described in this section.
+29 (3) Any servient estate owner shall be deemed to have notice that the
+30 owner of the ditch, canal, lateral, drain, or conduit has the right-of-way
+31 and all incidental rights confirmed or granted by this section if:
+32 (a) The servient estate owner has actual or constructive knowledge of
+33 the ditch, canal, lateral, drain, or conduit; or
+34 (b) The ditch, canal, lateral, drain, or conduit or any feature thereof
+35 is visible or reasonably discoverable.
+36 (4) Rights-of-way provided by this section are essential for the op-
+37 erations of the ditches, canals, laterals, drains, and conduits. No person
+38 or entity shall cause or permit any encroachments onto the right-of-way,
+39 including public or private roads, utilities, fences, gates, pipelines,
+40 structures, landscaping, trees, vegetation, or other construction or place-
+41 ment of objects, without the written permission of the owner or operator
+42 of the right-of-way in order to ensure that any such encroachments will
+43 not unreasonably or materially interfere with the use and enjoyment of the
+44 right-of-way. Such written permission shall not be unreasonably withheld.
+45 (5) Encroachments of any kind placed in such right-of-way without ex-
+46 press written permission of the owner or operator of the right-of-way shall
+47 be removed at the expense of the person or entity causing or permitting such
+48 encroachment, upon the request of the owner or operator of the right-of-way,
+49 in the event that any such encroachments unreasonably or materially inter-
+50 fere with the use and enjoyment of the right-of-way.
+
+3
+1 (a) The person or entity that caused or permitted the encroachment
+2 shall perform such removal, modification, repair, or restoration
+3 within a reasonable time after request from the owner or operator of the
+4 easement or right-of-way or immediately upon such request in the event
+5 of reduced delivery or drainage of water, property damage, safety risk,
+6 or other emergency. What constitutes a reasonable time to respond to
+7 the request depends on the circumstances affecting the use, operation,
+8 maintenance, and repair of the ditch, canal, lateral, drain, or conduit
+9 and associated easement or right-of-way.
+10 (b) If the person or entity that caused or permitted the encroachment
+11 fails to timely perform the requested actions, or in the event of re-
+12 duced delivery or drainage of water, property damage, safety risk, or
+13 other emergency, the owner or operator of the easement or right-of-way
+14 may proceed to perform such actions at the expense of the person or en-
+15 tity causing or permitting the encroachment, as long as no work is per-
+16 formed on any municipal or public utility line.
+17 (6) Any person or entity that causes or permits an encroachment shall
+18 be responsible for its use, operation, maintenance, repair, and replace-
+19 ment to prevent unreasonable or material interference with the ditch, canal,
+20 lateral, drain, or conduit and the associated easement or right-of-way and
+21 shall be liable for all damages that may accrue therefrom.
+22 (7) Nothing in this section shall in any way affect the exercise of the
+23 right of eminent domain for the public purposes set forth in section 7-701,
+24 Idaho Code.
+25 (8) This section shall apply to ditches, canals, laterals, drains,
+26 conduits, and embankments existing on the effective date of this act, as
+27 well as to ditches, canals, laterals, drains, conduits, and embankments
+28 constructed or existing after such effective date.
+29 SECTION 2. That Chapter 12, Title 42, Idaho Code, be, and the same is
+30 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+31 ignated as Section 42-1201, Idaho Code, and to read as follows:
+32 42-1201. DEFINITIONS. As used in this chapter, "irrigation conduit"
+33 means a ditch, canal, lateral, drain, pipeline, or other surface channel or
+34 buried conduit that is used to convey water to the place of use for the pur-
+35 poses of irrigation or to provide drainage of irrigated land.
+36 SECTION 3. That Section 42-1201, Idaho Code, be, and the same is hereby
+37 amended to read as follows:
+38 42-1201 42-1202. OPERATION AND MAINTENANCE OF IRRIGATION CONVEYANCE
+39 FACILITIES. (1) Every person or entity owning or controlling any ditch,
+40 canal, lateral, or irrigation conduit for the purpose of irrigation shall:
+41 (a) During the time the ditch, canal, lateral, or irrigation conduit is
+42 operated to deliver water for irrigation, keep a flow of water therein
+43 sufficient to meet the needs of the persons or entities entitled to the
+44 use of water therefrom. Such duty may be adjusted when there is insuffi-
+45 cient water in the public streams or other natural water sources or when
+46 the board of directors or governing body of an entity furnishing water
+
+4
+1 deems it in the best interests of that entity to reduce the water supply
+2 or dates of availability;
+3 (b) Construct the necessary outlets in the ditch, canal, lateral, or
+4 irrigation conduit for proper delivery of water to persons and entities
+5 having rights to the use of the water;
+6 (c) Not permit a greater quantity of water to be turned into the ditch,
+7 canal, lateral, or irrigation conduit than it will contain or than can
+8 be used for beneficial or useful purposes to prevent the wasting and
+9 useless discharge and running away of water; and
+10 (d) Carefully keep and maintain the ditch, canal, lateral, or
+11 irrigation conduit in good repair and condition so as not to damage or
+12 in any way injure the property or premises of others and to prevent the
+13 water conveyed therein from wasting during the irrigation season.
+14 (2) The duties to operate and maintain an irrigation ditch, canal, lat-
+15 eral, or conduit, whether statutory or common law, require reasonable care
+16 only and shall not be construed to impose strict liability or to otherwise
+17 enlarge the liability of the owners or operators thereof. The owners, con-
+18 structors, or operators of irrigation ditches, canals, laterals, or con-
+19 duits, while responsible for their own acts or omissions, shall not be liable
+20 for damage or injury caused by:
+21 (a) The diversion or discharge of water into a ditch, canal, lateral, or
+22 irrigation conduit by a third party without the permission of the owner
+23 or operator thereof;
+24 (b) Any other act or omission of a third party, other than an employee
+25 or agent of the owner or operator of the ditch, canal, lateral, or
+26 irrigation conduit; or
+27 (c) An act of God, including but not limited to fire, earthquake, storm,
+28 or similar natural phenomenon.
+29 (3) The provisions of this section shall not be construed to impair any
+30 defense that an owner, constructor, or operator of a ditch, canal, lateral,
+31 or irrigation conduit may assert in a civil action.
+32 SECTION 4. That Section 42-1207, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 42-1207 42-1203. RELOCATION AND PIPING OF IRRIGATION CONVEYANCE
+35 FACILITIES AND DRAINAGE FACILITIES. (1) Where any ditch, canal, lateral,
+36 drain, or buried irrigation conduit has heretofore been, or may hereafter
+37 be, constructed across or beneath the lands of another:
+38 (a) The servient estate owner may, at his own expense, relocate or pipe
+39 the ditch, canal, lateral, drain, or buried irrigation conduit to any
+40 other part of his land, but such change must be made in such a manner
+41 as not to impede the flow of the water therein, or to otherwise injure
+42 any person or entity using or interested in such ditch, canal, lateral,
+43 drain, or buried irrigation conduit.; or
+44 (b) The servient estate owner may, at his own expense, place the ditch,
+45 canal, lateral, or drain irrigation conduit in a pipe, culvert, or other
+46 conduit on his land, provided that the pipe, culvert, or other conduit
+47 installation and backfill reasonably meet standard specifications for
+48 such materials and construction, as set forth in the Idaho standards for
+
+5
+1 public works construction or other standards recognized by the city or
+2 county in which the burying is to be done.
+3 (2) The right and responsibility for operation and maintenance of a
+4 ditch, canal, lateral, drain, or buried an irrigation conduit that is re-
+5 located or placed in conduit by the servient estate owner shall remain with
+6 the owner of the ditch, canal, lateral irrigation conduit, or drain, but the
+7 servient estate owner, his heirs, executors, administrators, successors,
+8 and assigns shall be responsible for any increased operation and maintenance
+9 costs, including rehabilitation and replacement, unless otherwise agreed
+10 in writing with the owner of the ditch, canal, lateral, drain, or buried
+11 irrigation conduit.
+12 (3)(a) The written permission of the owner or operator of a ditch,
+13 canal, lateral, drain, or buried an irrigation conduit must first be
+14 obtained before it is relocated or placed in a pipe, culvert, or other
+15 conduit by the owner of the servient estate, in order to ensure that:
+16 (i) Such change will not impede the flow of water therein, un-
+17 reasonably or materially interfere with access, use, operation,
+18 maintenance, cleaning, or repair, or otherwise injure any person
+19 or entity using such ditch, canal, lateral, drain, or buried irri-
+20 gation conduit;
+21 (ii) Adequate provision is made for the payment of any increased
+22 operation and maintenance costs, including rehabilitation and re-
+23 placement, unless otherwise agreed in writing with the owner or
+24 operator of the ditch, canal, lateral, drain, or buried irrigation
+25 conduit; and
+26 (iii) Adequate provision is made documenting, protecting, and
+27 perpetuating the ditch, canal, lateral, drain, or buried irri-
+28 gation conduit right-of-way pursuant to section 42-1102, Idaho
+29 Code.
+30 (b) Such written permission shall not be unreasonably withheld.
+31 (4) A ditch, canal, lateral, drain, or buried An irrigation conduit
+32 that is relocated or placed in a pipe, culvert, or other conduit without
+33 such express written permission shall be removed, modified, repaired,
+34 or restored to its prior location or condition, as directed by the owner
+35 thereof, at the expense of the person or entity that caused or permitted such
+36 relocation or placement in pipe, culvert, or other conduit, in the event
+37 it unreasonably or materially interferes with the use and enjoyment of the
+38 easement or right-of-way.
+39 (a) The person or entity that caused or permitted the relocation or
+40 the placement in pipe, culvert, or other conduit shall perform such re-
+41 moval, modification, repair, or restoration within a reasonable time
+42 after request from the owner or operator of the easement or right-of-
+43 way, or immediately upon such request in the event of reduced delivery
+44 or drainage of water, property damage, safety risk, or other emergency.
+45 What constitutes a reasonable time to respond to the request depends on
+46 circumstances affecting the use, operation, maintenance, and repair of
+47 the ditch, canal, lateral drain, or buried irrigation conduit and asso-
+48 ciated easement or right-of-way.
+49 (b) If the person or entity that caused or permitted the relocation or
+50 the placement in pipe, culvert, or other conduit fails to timely perform
+
+6
+1 the requested actions, or in the event of reduced delivery or drainage
+2 of water, property damage, safety risk, or other emergency, the owner
+3 or operator of the easement or right-of-way may proceed to perform such
+4 actions at the expense of the person or entity that caused or permitted
+5 the relocation or piping.
+6 (5) The owner or operator of a ditch, canal, lateral, drain, or buried
+7 An irrigation conduit that has been constructed across or beneath the lands
+8 of another may relocate or pipe the facility. be relocated or piped by its
+9 owner or operator as follows:
+10 (a) Prior to relocating a ditch, canal, lateral, drain, or buried irri-
+11 gation conduit, the written permission of the owner of the servient es-
+12 tate shall be obtained The irrigation conduit's owner or operator shall
+13 obtain the servient estate owner's written permission prior to relocat-
+14 ing or piping the conduit outside of the easement or right-of-way.
+15 (b) The irrigation conduit's owner or operator shall have the right to
+16 relocate or pipe an irrigation conduit within the easement or right-of-
+17 way without obtaining the servient estate owner's permission.
+18 (b) (c) The owner or operator of the ditch, canal, lateral, drain, or
+19 buried irrigation conduit an open surface channel used for irrigation
+20 or drainage shall have the right to place it in a buried conduit within
+21 the easement or right-of-way, without the permission of the servient
+22 estate owner, in accordance with standard specifications for pipe,
+23 materials, installation, and backfill, as set forth in the Idaho stan-
+24 dards for public works construction or other standards recognized by
+25 the city or county in which the burying is to be done, and as long as
+26 the construction is accomplished in a manner that the surface of the
+27 servient estate outside the easement or right-of-way and the owner's
+28 use thereof is not disrupted and is restored to its prior condition as
+29 expeditiously as possible, but no longer than thirty (30) days after the
+30 completion of construction.
+31 (c) (d) The owner of the servient estate may request that the conduit be
+32 installed along a different route than the existing route of the ditch,
+33 canal, lateral, or drain irrigation conduit, provided that:
+34 (i) The conditions of subsection (3) of this section are satis-
+35 fied; and
+36 (ii) The servient estate owner, his heirs, executors, adminis-
+37 trators, successors, and assigns shall be responsible for any in-
+38 creased construction or future maintenance costs necessitated by
+39 said relocation. Maintenance of the buried conduit shall be the
+40 responsibility of the conduit owner or operator.
+41 (6) This section shall apply to ditches, canals, laterals, drains, and
+42 buried irrigation conduits existing on or established after July 1, 2024.
+43 SECTION 5. That Section 42-1208, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 42-1208 42-1204. EASEMENTS, RIGHTS-OF-WAY, AND OTHER REAL PROPERTY
+46 NOT SUBJECT TO ADVERSE POSSESSION. (1) The easements, rights-of-way, or
+47 real property owned by irrigation districts, Carey act operating companies,
+48 nonprofit irrigation entities, lateral ditch associations, and drainage
+49 districts are not subject to adverse possession.
+
+7
+1 (2) No person shall prevent free access of authorized personnel on such
+2 easements, rights-of-way, or other real property, or construct any obstruc-
+3 tion on such easements, rights-of-way, or other real property in an effort to
+4 adversely possess said easement, right-of-way, or other real property.
+5 SECTION 6. That Section 42-1209, Idaho Code, be, and the same is hereby
+6 amended to read as follows:
+7 42-1209 42-1205. ENCROACHMENTS ON EASEMENTS AND RIGHTS-OF-WAY. (1)
+8 Easements or rights-of-way operated, maintained, controlled, or owned by
+9 irrigation districts, Carey act operating companies, nonprofit irrigation
+10 entities, lateral ditch associations, and drainage districts are essential
+11 for the operations of such irrigation and drainage entities. Accordingly,
+12 no person or entity shall cause or permit any encroachments onto the ease-
+13 ments or rights-of-way, including any public or private roads, utilities,
+14 fences, gates, pipelines, structures, landscaping, trees, vegetation, or
+15 other construction or placement of objects, without the written permis-
+16 sion of the irrigation district, Carey act operating company, nonprofit
+17 irrigation entity, lateral ditch association, or drainage district owning,
+18 operating, maintaining, or controlling the easement or right-of-way, in
+19 order to ensure that any such encroachments will not unreasonably or mate-
+20 rially interfere with the use and enjoyment of the easement or right-of-way
+21 and the incidental rights and protections described in sections 42-1102 and
+22 42-1207 42-1203, Idaho Code. Such written permission shall not be unreason-
+23 ably withheld.
+24 (2) Encroachments of any kind placed in such easement or right-of-way,
+25 without such express written permission, shall be removed or modified, and
+26 the ditch, canal, lateral, drain, irrigation conduit, easement, or right-
+27 of-way shall be repaired or restored at the expense of the person or entity
+28 causing or permitting such encroachments, upon the request of the persons
+29 operating, maintaining, or controlling the easement or right-of-way or the
+30 owner of the easement or right-of-way, in the event that any such encroach-
+31 ments unreasonably or materially interfere with the use and enjoyment of the
+32 easement or right-of-way.
+33 (a) The person or entity that caused or permitted the encroachment
+34 shall perform such removal, modification, repair, or restoration
+35 within a reasonable time after request from the owner or operator of
+36 the easement or right-of-way, or immediately upon such request in the
+37 event of reduced delivery or drainage of water, property damage, safety
+38 risk, or other emergency. What constitutes a reasonable time to respond
+39 to the request depends on circumstances affecting the use, operation,
+40 maintenance, and repair of the ditch, canal, lateral, drain, or buried
+41 irrigation conduit and associated easement or right-of-way.
+42 (b) If the person or entity that caused or permitted the encroachment
+43 fails to timely perform the requested actions, or in the event of re-
+44 duced delivery or drainage of water, property damage, safety risk, or
+45 other emergency, the owner or operator of the easement or right-of-way
+46 may proceed to perform such actions at the expense of the person or en-
+47 tity that caused or permitted the encroachment, as long as no work is
+48 performed on any municipal or public utility line.
+
+8
+1 (3) Any person or entity that causes or permits an encroachment shall be
+2 responsible for its use, operation, maintenance, repair, and replacement to
+3 prevent unreasonable or material interference with a ditch, canal, lateral,
+4 drain, or an irrigation conduit and the associated easement or right-of-way
+5 and shall be liable for all damages that may accrue therefrom.
+6 (4) Nothing in this section shall in any way affect the exercise of the
+7 right of eminent domain for the public purposes set forth in section 7-701,
+8 Idaho Code.
+9 SECTION 7. That Section 18-4308, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 18-4308. CHANGE OF DITCH, CANAL, LATERAL, DRAIN, OR BURIED IRRIGATION
+12 CONDUIT. Any person who relocates or places in pipe, culvert, or other con-
+13 duit or buries a ditch, canal, lateral, or drain contrary to the provisions
+14 of section 42-1207 42-1203, Idaho Code, shall be guilty of a misdemeanor.
+15 SECTION 8. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

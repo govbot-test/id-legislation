@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1270, As Amended
+BY AGRICULTURAL AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE LABELING OF CELL-CULTIVATED ANIMAL PROTEIN PRODUCTS; AMEND-
+3 ING TITLE 37, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 16, TITLE 37,
+4 IDAHO CODE, TO DEFINE TERMS, TO PROVIDE FOR LABELING REQUIREMENTS FOR
+5 CELL-CULTIVATED ANIMAL PROTEINS, TO PROVIDE FOR REGULATORY OVERSIGHT,
+6 AND TO PROVIDE FOR PENALTIES; AND DECLARING AN EMERGENCY AND PROVIDING
+7 AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Title 37, Idaho Code, be, and the same is hereby amended
+10 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+11 ter 16, Title 37, Idaho Code, and to read as follows:
+12 CHAPTER 16
+13 CELL-CULTIVATED ANIMAL PROTEIN LABELING REQUIREMENTS
+14 37-1601. DEFINITIONS. As used in this chapter, "cell-cultivated ani-
+15 mal protein" means any animal cell-based food product produced or derived
+16 from culturing animal cells outside of the animal's body, which may be re-
+17 ferred to as "lab-grown meat," "cultivated meat," "cell-cultured meat," or
+18 "fake meat."
+19 37-1602. LABELING REQUIREMENTS FOR CELL-CULTIVATED ANIMAL PRO-
+20 TEINS. (1) Any cell-cultivated animal protein product sold, distributed, or
+21 offered for sale within the state of Idaho shall include labeling with the
+22 phrase "lab-grown," "cell-cultivated," or "cell-cultured."
+23 (2) The labeling shall:
+24 (a) Appear on the principal display panel of the packaging; and
+25 (b) Use a font size and style that ensures legibility to an average con-
+26 sumer and is at least equal in prominence to the product name.
+27 (3) Restaurants or other vendors that offer for sale cell-cultivated
+28 animal proteins shall provide labeling on menus or equivalent notifications
+29 consistent with this section.
+30 (4) A cell-cultivated animal protein product that is not derived from
+31 traditional livestock production or wild game harvest shall not be labeled,
+32 advertised, or marketed using terms commonly associated with specific meat
+33 cuts, including but not limited to "steak," "roast," "tri-tip," "loin," or
+34 "brisket," unless otherwise authorized by the United States department of
+35 agriculture.
+36 37-1603. REGULATORY OVERSIGHT. The Idaho department of agriculture
+37 shall have the authority to:
+
+2
+1 (1) Promulgate rules, subject to legislative approval, to enforce the
+2 provisions of this chapter, including additional labeling standards if nec-
+3 essary; and
+4 (2) Conduct inspections and investigations to ensure compliance.
+5 37-1604. PENALTIES. (1) Any person found in violation of this chapter
+6 may be subject to a civil penalty by the Idaho department of agriculture of
+7 not more than five hundred dollars ($500) per violation.
+8 (2) No civil penalty shall be assessed for a violation that is the re-
+9 sult of a good-faith error, provided the violation is promptly corrected
+10 upon notice by the department.
+11 (3) Enforcement under this section shall be directed to the manufac-
+12 turer, producer, or person who labels or markets the cell-cultivated animal
+13 protein product, and not to a retailer or food establishment that does not
+14 alter the product labeling.
+15 (4) Additional penalties for repeat offenses may be established by the
+16 Idaho department of agriculture through rulemaking, subject to legislative
+17 approval.
+18 SECTION 2. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after
+20 July 1, 2026.

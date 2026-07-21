@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1394
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD CUSTODY; AMENDING SECTION 32-717E, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING SUPERVISED VISITATION; AND DECLARING AN EMERGENCY
+4 AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 32-717E, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 32-717E. SUPERVISED VISITATION -- SUPERVISED ACCESS PROVIDERS --
+9 RECORD CHECKS. (1) If the court orders supervised visitation in proceedings
+10 between parents in which custody and parenting time of a minor child is at
+11 issue, the court shall state in its decision the reasons for supervised visi-
+12 tation. The supervised visitation order shall be reviewed within forty-nine
+13 (49) calendar days of the initial order. Absent good cause shown by clear and
+14 convincing evidence, supervised visitation shall not be ordered or contin-
+15 ued.
+16 (2) All supervised visitation orders shall include clear, objective
+17 conditions for transition to unsupervised parenting time and periodic re-
+18 views at intervals not to exceed ninety (90) days, unless otherwise ordered
+19 by the court for good cause.
+20 (3) Preference shall be given to unpaid supervised access providers
+21 agreed on by the parties.
+22 (4) In cases in which a court has ordered that contact between a per-
+23 son and one (1) or more children shall take place only in the presence of an
+24 approved provider, or where the court has ordered supervised exchanges or
+25 transfers of one (1) or more children, the court may appoint an individual
+26 or entity as a supervised access provider to provide such supervised access
+27 or to facilitate such exchanges or transfers. The qualifications and duties
+28 of supervised access providers shall be as specified in rules adopted by the
+29 supreme court. A supervised access provider who is paid for providing super-
+30 vised access services shall, prior to acting in such capacity and at his or
+31 her own cost, submit to a fingerprint-based criminal history check through
+32 any law enforcement office in the state providing such service. The crimi-
+33 nal history check shall include a statewide criminal identification bureau
+34 check, federal bureau of investigation criminal history check, child abuse
+35 registry check, adult protection registry check and statewide sex offender
+36 registry check. A record of all background checks shall be maintained in the
+37 office of the supreme court of the state of Idaho.
+38 (5) A parent's legitimate inability to attend supervised visitation
+39 shall not be deemed a voluntary relinquishment of time.
+40 (6) Nothing in this section shall be construed to permit the use of
+41 supervised visitation as a punitive measure, leverage, or a substitute for
+42 proof of unfitness.
+
+2
+1 (7) The provisions of this section apply only to custody and parenting
+2 time determinations between parents and shall not modify, limit, or super-
+3 sede proceedings under chapter 16, title 16, Idaho Code.
+4 SECTION 2. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after
+6 July 1, 2026.

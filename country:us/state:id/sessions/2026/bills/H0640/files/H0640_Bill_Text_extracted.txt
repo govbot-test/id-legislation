@@ -1,0 +1,113 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 640
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO FOREIGN ADVERSARIES; PROVIDING LEGISLATIVE INTENT; AMENDING TI-
+3 TLE 57, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 21, TITLE 57, IDAHO
+4 CODE, TO DEFINE TERMS, TO ESTABLISH PROVISIONS PROHIBITING INVESTMENTS
+5 IN FOREIGN ADVERSARIES, TO ESTABLISH PROVISIONS TO REQUIRE CERTAIN
+6 DIVESTMENTS, AND TO PROVIDE FOR CERTAIN LIMITATIONS; PROVIDING SEVER-
+7 ABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. LEGISLATIVE INTENT. The Foreign Adversary Divestment Act
+10 will ensure that the State of Idaho's public investment dollars are not
+11 put at risk in countries of concern and do not fund the development of the
+12 military technologies and surveillance tools of foreign adversaries that
+13 impede the furthering of the State of Idaho's interests and the interests of
+14 the United States of America, by requiring the divestment of public pension
+15 dollars and university endowment funds from countries of concern.
+16 SECTION 2. That Title 57, Idaho Code, be, and the same is hereby amended
+17 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+18 ter 21, Title 57, Idaho Code, and to read as follows:
+19 CHAPTER 21
+20 THE FOREIGN ADVERSARY DIVESTMENT ACT
+21 57-2101. DEFINITIONS. As used in this chapter:
+22 (1) "Company" means any sole proprietorship, organization, associa-
+23 tion, corporation, partnership, joint venture, limited partnership, lim-
+24 ited liability partnership, limited liability company, or other entity or
+25 business association, including wholly owned subsidiaries, majority-owned
+26 subsidiaries, parent companies, or affiliates of those entities or business
+27 associations, that exist for the purpose of making profit.
+28 (2) "Divestment" means the sale or otherwise contractual end of any
+29 current or planned investments.
+30 (3) "Domicile" means either the country in which a company is regis-
+31 tered, where the company's affairs are primarily completed, or where the ma-
+32 jority of ownership share is held.
+33 (4) "Foreign adversary" means any foreign country, foreign government,
+34 or foreign government person engaged in a long-term pattern of serious in-
+35 stances of conduct significantly adverse to the national security of the
+36 United States or security and safety of United States persons as determined
+37 in 15 CFR 791.4. The list of foreign adversaries provided in 15 CFR 791.4,
+38 as it existed on February 1, 2026, includes the People's Republic of China,
+39 including the Hong Kong special administrative region and the Macau special
+40 administrative region, the Republic of Cuba, the Islamic Republic of Iran,
+
+2
+1 the Democratic People's Republic of Korea, the Russian Federation, and the
+2 Venezuelan regime of Nicolás Maduro.
+3 (5) "Governmental entity" means the state of Idaho, any state agency,
+4 any political subdivision within the state of Idaho, any public institution
+5 of higher education within the state of Idaho, any local government within
+6 the state of Idaho, any taxing district within the state of Idaho, or any
+7 agency or organization controlled by such entities.
+8 (6) "Investment" means any transfer of funds in any active or passive
+9 structure, whether direct or indirect, that seeks to generate revenue or ac-
+10 complish any other gain, including any non-monetary gain.
+11 (7) "Official government capacity" means any role in a government or
+12 its subsidiaries, whether elected or appointed.
+13 (8) "State-managed fund" means any short-term or long-term investment
+14 structure that is managed, run, controlled, or otherwise overseen by any
+15 governmental entity that such governmental entity has primary discretion
+16 over or vested interest in. This definition shall apply to any fund that
+17 is managed by a third-party entity, such as a fiduciary, but subject to the
+18 purview or direction of a governmental entity and populated with any funds
+19 from such governmental entity. This shall include but is not limited to:
+20 (a) Public pension funds, public retirement funds, or other funds that
+21 are sponsored, maintained, or contributed to or required to be con-
+22 tributed to by any governmental entity;
+23 (b) Investment funds, rainy day funds, savings accounts, or other in-
+24 vestment structures of any governmental entity; and
+25 (c) University or college endowments, trusts, or other investment
+26 structures that constitute, wholly or in part, a public institution of
+27 higher education's investable assets.
+28 (9) "State-owned enterprise" means any company owned or controlled,
+29 wholly or in part, by a government or by individuals acting in official gov-
+30 ernment capacities in any form.
+31 57-2102. INVESTMENTS IN FOREIGN ADVERSARIES PROHIBITED. (1) All
+32 state-managed funds are prohibited from holding investments in any foreign
+33 adversary, state-owned enterprise of a foreign adversary, company domiciled
+34 within a foreign adversary, or company owned or controlled by a foreign ad-
+35 versary, state-owned enterprise of a foreign adversary, company domiciled
+36 within a foreign adversary, or any other entity within a foreign adversary.
+37 (2) All state-managed funds are prohibited from investing or deposit-
+38 ing public funds in any bank that is domiciled or has its principal place of
+39 business in a foreign adversary.
+40 57-2103. REQUIRED DIVESTMENT. All state-managed funds shall immedi-
+41 ately in good faith begin divestment of any holdings prohibited by the provi-
+42 sions of this chapter.
+43 57-2104. LIMITATIONS. Nothing in this chapter shall be construed to
+44 limit, inhibit, conflict, impede, or otherwise interfere with required fi-
+45 nancial safeguards, fiduciary requirements, or other sound investment cri-
+46 teria that any state-managed fund is subject to that are unrelated to divest-
+
+3
+1 ment from foreign adversaries or required to comply with any applicable fed-
+2 eral law.
+3 SECTION 3. SEVERABILITY. The provisions of this act are hereby declared
+4 to be severable and if any provision of this act or the application of such
+5 provision to any person or circumstance is declared invalid for any reason,
+6 such declaration shall not affect the validity of the remaining portions of
+7 this act.
+8 SECTION 4. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2026.

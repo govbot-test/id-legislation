@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1357
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 37, TITLE 33, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 33-3717D, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING CERTAIN LIMITATIONS ON SCHOLARSHIPS; AND DECLARING AN EMER-
+5 GENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 37, Title 33, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 33-3717D, Idaho Code, and to read as follows:
+10 33-3717D. LIMITATIONS ON SCHOLARSHIPS. (1) For purposes of this sec-
+11 tion:
+12 (a) "Idaho resident" means a person who qualifies for Idaho residency
+13 pursuant to section 33-3717B, Idaho Code.
+14 (b) "Intercollegiate athletics" means organized athletic competition
+15 between persons or teams representing institutions of higher educa-
+16 tion.
+17 (c) "Scholarship" means any form of financial aid awarded by a public
+18 institution of higher education to a student.
+19 (d) "Student athlete" means a student who is enrolled in a public insti-
+20 tution of higher education who participates in intercollegiate athlet-
+21 ics.
+22 (e) "United States resident" means a person who:
+23 (i) Is lawfully present in the United States; and
+24 (ii) Has maintained, or whose parent or legal guardian has main-
+25 tained, a domicile in the United States for at least twelve (12)
+26 months preceding the opening day of the term for which the student
+27 matriculates. For purposes of this subparagraph, "domicile" has
+28 the same meaning as provided in section 33-3717B, Idaho Code.
+29 (2) The state board of education shall promulgate rules, subject to
+30 legislative approval, establishing a preference for Idaho residents for
+31 scholarships awarded to student athletes by public institutions of higher
+32 education in Idaho.
+33 (3) No public institution of higher education in Idaho shall, in a given
+34 academic year, award scholarships to more than ten percent (10%) of the total
+35 number of all sports roster positions to student athletes who are not United
+36 States residents.
+37 (4) No more than fifty percent (50%) of the members of an intercolle-
+38 giate athletic team representing a public institution of higher education in
+39 Idaho shall be student athletes who are not United States residents who are
+40 recipients of scholarships.
+41 (5) Scholarships awarded prior to July 1, 2026, to student athletes who
+42 are not United States residents shall not be invalidated by the provisions
+
+2
+1 of this section. Such student athletes shall not count toward the ten per-
+2 cent (10%) cap provided in subsection (3) of this section or the fifty per-
+3 cent (50%) cap provided in subsection (4) of this section for a period not
+4 to exceed four (4) full-time consecutive academic years, including those al-
+5 ready completed or in progress.
+6 (6) The state board of education shall promulgate rules, subject to
+7 legislative approval, to implement the provisions of this section. Such
+8 rules shall include rules to monitor compliance with this section.
+9 (7) By December 1 of each year, the state board of education shall re-
+10 port to the legislature on compliance with this section and shall include in
+11 such report:
+12 (a) The total number of scholarships awarded by each public institution
+13 of higher education to student athletes who are Idaho residents;
+14 (b) The total number of scholarships awarded by each public institution
+15 of higher education to student athletes who are United States residents
+16 but who are not Idaho residents; and
+17 (c) The total number of scholarships awarded by each public institution
+18 of higher education to student athletes who are not United States resi-
+19 dents.
+20 SECTION 2. An emergency existing therefor, which emergency is hereby
+21 declared to exist, this act shall be in full force and effect on and after
+22 July 1, 2026.

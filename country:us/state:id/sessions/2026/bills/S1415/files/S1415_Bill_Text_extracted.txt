@@ -1,0 +1,1045 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1415
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTRICAL, PLUMBING, AND HVAC INSPECTIONS; PROVIDING LEGISLA-
+3 TIVE INTENT; AMENDING CHAPTER 26, TITLE 67, IDAHO CODE, BY THE ADDITION
+4 OF A NEW SECTION 67-2616, IDAHO CODE, TO ESTABLISH PROVISIONS REGARD-
+5 ING STATE-CERTIFIED PRIVATE INSPECTORS; AMENDING SECTION 54-1001B,
+6 IDAHO CODE, TO PROVIDE FOR STATE-CERTIFIED PRIVATE INSPECTORS ON AND
+7 AFTER A CERTAIN DATE; REPEALING SECTION 54-1001C, IDAHO CODE, RELAT-
+8 ING TO INSPECTIONS WITHIN MUNICIPALITIES WHEN AUTHORIZED; REPEALING
+9 SECTION 54-1001D, IDAHO CODE, RELATING TO INSPECTIONS OF MODULAR BUILD-
+10 INGS; AMENDING CHAPTER 10, TITLE 54, IDAHO CODE, BY THE ADDITION OF A
+11 NEW SECTION 54-1001E, IDAHO CODE, TO PROVIDE FOR STATE-CERTIFIED PRI-
+12 VATE INSPECTORS; AMENDING SECTION 54-1003, IDAHO CODE, TO PROVIDE FOR
+13 STATE-CERTIFIED PRIVATE INSPECTORS; AMENDING SECTION 54-1003A, IDAHO
+14 CODE, TO DEFINE A TERM; REPEALING SECTION 54-1004, IDAHO CODE, RELAT-
+15 ING TO INSPECTION OF ELECTRICAL INSTALLATIONS, NOTICE OF CORRECTIONS,
+16 AND DISCONNECTING ELECTRICAL SERVICE; REPEALING SECTION 54-1005,
+17 IDAHO CODE, RELATING TO RULES, INSPECTIONS, AND ELECTRICAL PERMITS
+18 AND FEES; AMENDING CHAPTER 10, TITLE 54, IDAHO CODE, BY THE ADDITION
+19 OF A NEW SECTION 54-1005, IDAHO CODE, TO ESTABLISH PROVISIONS REGARD-
+20 ING RULES AND ELECTRICAL PERMITS AND FEES; AMENDING SECTION 54-1006,
+21 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE IDAHO ELECTRICAL BOARD;
+22 AMENDING SECTION 54-1007, IDAHO CODE, TO PROVIDE FOR THE QUALIFICA-
+23 TIONS OF STATE-CERTIFIED PRIVATE INSPECTORS; AMENDING SECTION 54-1008,
+24 IDAHO CODE, TO PROVIDE FOR STATE-CERTIFIED PRIVATE INSPECTORS; AMEND-
+25 ING SECTION 54-1009, IDAHO CODE, TO PROVIDE FOR THE DISCIPLINE OF
+26 CERTIFICATIONS; AMENDING SECTION 54-1017, IDAHO CODE, TO PROVIDE FOR
+27 STATE-CERTIFIED PRIVATE INSPECTORS; REPEALING SECTION 54-1019, IDAHO
+28 CODE, RELATING TO QUALIFICATIONS OF INSPECTORS; AMENDING CHAPTER 10,
+29 TITLE 54, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 54-1019, IDAHO
+30 CODE, TO PROVIDE FOR QUALIFICATIONS OF INSPECTORS; REPEALING SECTION
+31 54-2601, IDAHO CODE, RELATING TO THE DECLARATION OF POLICY AND PURPOSE
+32 OF THE IDAHO STATE PLUMBING CODE; AMENDING CHAPTER 26, TITLE 54, IDAHO
+33 CODE, BY THE ADDITION OF A NEW SECTION 54-2601, IDAHO CODE, TO ESTAB-
+34 LISH A DECLARATION OF POLICY AND PURPOSE OF THE IDAHO STATE PLUMBING
+35 CODE; AMENDING SECTION 54-2606, IDAHO CODE, TO PROVIDE FOR STATE-CERTI-
+36 FIED PRIVATE INSPECTORS AND TO PROVIDE A SUNSET DATE; AMENDING SECTION
+37 54-2607, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE POWERS AND
+38 DUTIES OF THE ADMINISTRATOR OF THE DIVISION OF OCCUPATIONAL AND PRO-
+39 FESSIONAL LICENSES; AMENDING SECTION 54-2608, IDAHO CODE, TO PROVIDE
+40 FOR STATE-CERTIFIED PRIVATE INSPECTORS; REPEALING SECTION 54-2620,
+41 IDAHO CODE, RELATING TO PERMITS REQUIRED AND EXCEPTIONS; REPEALING
+42 SECTION 54-2622, IDAHO CODE, RELATING TO PERMITS, APPLICATIONS, AND
+43 REQUIREMENTS; REPEALING SECTION 54-2623, IDAHO CODE, RELATING TO FEES,
+44 PERMITS, AND INSPECTIONS; AMENDING SECTION 54-2624, IDAHO CODE, TO
+45 REVISE PROVISIONS REGARDING INSPECTIONS; REPEALING SECTION 54-2626,
+
+2
+1 IDAHO CODE, RELATING TO NOTIFICATIONS AND FEES FOR REINSPECTION; AMEND-
+2 ING SECTION 54-2627, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE
+3 QUALIFICATIONS OF INSPECTORS; REPEALING SECTION 54-5005, IDAHO CODE,
+4 RELATING TO THE POWERS AND DUTIES OF THE HEATING, VENTILATION AND AIR
+5 CONDITIONING BOARD; AMENDING CHAPTER 50, TITLE 54, IDAHO CODE, BY THE
+6 ADDITION OF A NEW SECTION 54-5005, IDAHO CODE, TO ESTABLISH POWERS AND
+7 DUTIES OF THE HEATING, VENTILATION AND AIR CONDITIONING BOARD; REPEAL-
+8 ING SECTION 54-5006, IDAHO CODE, RELATING TO THE ADMINISTRATOR OF THE
+9 DIVISION OF OCCUPATIONAL AND PROFESSIONAL LICENSES; AMENDING CHAPTER
+10 50, TITLE 54, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 54-5006, IDAHO
+11 CODE, TO PROVIDE FOR THE ADMINISTRATOR OF THE DIVISION OF OCCUPATIONAL
+12 AND PROFESSIONAL LICENSES; REPEALING SECTION 54-5016, IDAHO CODE,
+13 RELATING TO PERMITS, EXCEPTIONS, AND LOCAL GOVERNMENT FEES; AMEND-
+14 ING CHAPTER 50, TITLE 54, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+15 54-5016, IDAHO CODE, TO PROVIDE FOR PERMITS AND LOCAL GOVERNMENT FEES;
+16 REPEALING SECTION 54-5017, IDAHO CODE, RELATING TO PERMITS, APPLICA-
+17 TIONS, AND FEES; AMENDING SECTION 54-5018, IDAHO CODE, TO PROVIDE FOR
+18 STATE-CERTIFIED PRIVATE INSPECTORS; REPEALING SECTION 54-5020, IDAHO
+19 CODE, RELATING TO REQUESTS FOR INSPECTION AND FEES FOR REINSPECTION;
+20 AMENDING CHAPTER 50, TITLE 54, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+21 TION 54-5020, IDAHO CODE, TO PROVIDE FOR LOCAL GOVERNMENT INSPECTIONS;
+22 REPEALING SECTION 54-5021, IDAHO CODE, RELATING TO THE APPOINTMENT AND
+23 QUALIFICATION OF INSPECTORS; PROVIDING SEVERABILITY; AND DECLARING AN
+24 EMERGENCY AND PROVIDING EFFECTIVE DATES.
+25 Be It Enacted by the Legislature of the State of Idaho:
+26 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature that
+27 on and after July 1, 2030, electrical, plumbing, and HVAC inspections no
+28 longer be performed by the Division of Occupational and Professional Li-
+29 censes. Instead, the Legislature finds that it would be advantageous and
+30 more efficient for such inspections, if not being otherwise provided for by
+31 local jurisdictions, to be performed by private inspectors who are certified
+32 by the Division of Occupational and Professional Licenses.
+33 This legislation provides for a transition period between October 1,
+34 2026, and July 1, 2030. During the transition period, electrical, plumb-
+35 ing, and HVAC inspections may be performed either by state inspectors or by
+36 state-certified private inspectors.
+37 It is further the intent of the Legislature that nothing in this act
+38 shall be construed to alter or repeal any building, electrical, plumbing, or
+39 HVAC code adopted by the state or any political subdivision. Any inspection
+40 conducted pursuant to this act shall comply with the applicable code in ef-
+41 fect at the time of inspection.
+42 SECTION 2. That Chapter 26, Title 67, Idaho Code, be, and the same is
+43 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+44 ignated as Section 67-2616, Idaho Code, and to read as follows:
+45 67-2616. STATE-CERTIFIED PRIVATE INSPECTORS. (1) On and after October
+46 1, 2026, the division shall implement a program to provide for the certifica-
+47 tion of private electrical, plumbing, and heating, ventilation, and air con-
+
+3
+1 ditioning (HVAC) inspectors that allows for private inspectors to apply to
+2 the division to become certified to conduct electrical, plumbing, and HVAC
+3 inspections. A person desiring a certification to perform inspections as a
+4 state-certified private inspector shall make an application for such certi-
+5 fication to the division in the form to be prescribed by the division. An
+6 original application for a private inspector certification or a reinstate-
+7 ment shall be accompanied by a fee not to exceed one hundred twenty-five dol-
+8 lars ($125).
+9 (2) Electrical inspectors who apply for certification as state-certi-
+10 fied private inspectors shall be certified if they are qualified pursuant
+11 to section 54-1019, Idaho Code. Before applying for a certification to per-
+12 form electrical inspections, the applicant shall provide the division with
+13 a passing score on the applicable international code council electrical in-
+14 spector exam or any other inspector exam determined by the electrical board
+15 to be substantially equivalent.
+16 (3) Plumbing inspectors who apply for certification as state-certified
+17 private inspectors shall be certified by the division if they are qualified
+18 pursuant to section 54-2627, Idaho Code. Before applying for a certifica-
+19 tion to perform plumbing inspections, the applicant shall provide the divi-
+20 sion with a passing score on the international association of plumbing and
+21 mechanical officials plumbing inspector exam or any other inspector exam de-
+22 termined by the plumbing board to be substantially equivalent.
+23 (4) HVAC inspectors who apply for certification as state-certified
+24 private inspectors shall be certified by the division if they are qualified
+25 pursuant to section 54-5021(2) and (3), Idaho Code. Before applying for a
+26 certification to perform HVAC inspections, the applicant shall provide the
+27 division with a passing score on the international code council mechanical
+28 inspector exam or any other inspector exam determined by the HVAC board to be
+29 substantially equivalent.
+30 (5) Certifications issued by the division pursuant to this section
+31 shall be valid for three (3) years. The renewal fee for a certification is-
+32 sued pursuant to this section shall not exceed one hundred dollars ($100).
+33 (6) The division shall maintain and make available to the public a reg-
+34 istry of state-certified private inspectors and the types of inspections
+35 that such inspectors are certified to perform.
+36 (7) A local jurisdiction shall not be required to provide for state-
+37 certified private inspectors. However, a local jurisdiction that provides
+38 for state-certified private inspectors to perform inspections shall not re-
+39 quire a state-certified private inspector to obtain any additional certifi-
+40 cation or registration or require payment of any fees in order for any state-
+41 certified private inspector to conduct inspections within the local juris-
+42 diction. A local jurisdiction that authorizes the use of state-certified
+43 private inspectors shall be held harmless from any and all liability relat-
+44 ing to delays or lack of availability of state-certified private inspectors.
+45 (8) A state-certified private inspector shall carry proof of state cer-
+46 tification whenever such inspector is conducting an inspection. It shall be
+47 unlawful for any person to act as a state-certified private inspector if such
+48 person is not certified by the division of occupational and professional li-
+49 censes. Notwithstanding any other provision of law, a state-certified pri-
+50 vate inspector shall not be required to maintain any underlying trade li-
+
+4
+1 cense solely to perform the work of providing state-certified private in-
+2 spections.
+3 (9) The division shall be authorized to take any appropriate action
+4 against a state certification, subject to the provisions of chapter 52, ti-
+5 tle 67, Idaho Code, in any of the following circumstances:
+6 (a) An inspector employed fraud or deception, made a misrepresentation
+7 or misstatement, or employed any unlawful means in applying for or se-
+8 curing certification as an inspector;
+9 (b) An inspector has been convicted of or has engaged in conduct consti-
+10 tuting a violation of public laws, ordinances, or rules of this state,
+11 or any subdivision thereof, relevant to inspections;
+12 (c) An inspector has engaged in any other conduct whether of the same
+13 or a different character than described in this subsection that consti-
+14 tutes dishonest or dishonorable dealings;
+15 (d) An inspector has been adjudged mentally incompetent by a court of
+16 competent jurisdiction; or
+17 (e) An inspector interfered with an investigation or disciplinary pro-
+18 ceeding by a willful misrepresentation of facts or by the use of threats
+19 or harassment against any person to prevent such person from providing
+20 evidence in a disciplinary proceeding, investigation, or other legal
+21 action instituted in accordance with this chapter.
+22 (10) A state-certified private inspector shall conduct an inspection
+23 pursuant to the applicable code in effect at the time of any such inspection.
+24 (11) A state-certified private inspector shall not conduct an inspec-
+25 tion relating to electrical, plumbing, or HVAC work occurring on property
+26 that the inspector or a related person has a direct or indirect ownership in-
+27 terest in or for work that was performed by or under the supervision of:
+28 (a) Such inspector;
+29 (b) A related person; or
+30 (c) A person employed or contracted by a business in which the inspec-
+31 tor or a related person has a direct or indirect economic interest. As
+32 used in this section, "related person" means an inspector's employee,
+33 employer, business, business partner, business associate, or any per-
+34 son related to the inspector by affinity within the first degree.
+35 (12) Between October 1, 2026, and June 30, 2030, the division shall em-
+36 ploy state inspectors and shall provide for the certification of private in-
+37 spectors. On and after July 1, 2030, the division shall no longer conduct
+38 electrical, plumbing, or HVAC inspections or employ inspectors for such pur-
+39 poses.
+40 (13) The division may promulgate rules, subject to legislative ap-
+41 proval, to effectuate the provisions of this section.
+42 SECTION 3. That Section 54-1001B, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 54-1001B. STATE INSPECTION PROVISIONS INAPPLICABLE WHEN INSTALLATION
+45 COVERED BY MUNICIPAL ORDINANCE. (1) The provisions of this chapter relat-
+46 ing to state inspection, except as provided in section 54-1001C, Idaho Code,
+47 shall not apply:
+48 (a) Within cities or counties that, by ordinance or building code, pre-
+49 scribe the manner in which wires or equipment to convey current and ap-
+
+5
+1 paratus to be operated by such current shall be installed, provided that
+2 the provisions of the Idaho electrical code are used as the standard in
+3 the preparation of such ordinances or building codes and provided that
+4 actual inspections are made; or
+5 (b) Within cities or counties that receive inspections from another
+6 city or county that conducts inspections pursuant to paragraph (a) of
+7 this subsection, provided that the provisions of the Idaho electrical
+8 code shall be used as the standard for such inspections.
+9 (2) A city or county that conducts electrical code enforcement inspec-
+10 tions shall do so only in compliance with the provisions of this section.
+11 (3) A city or county that has not previously instituted and implemented
+12 an electrical code enforcement program prior to the effective date of this
+13 act may elect to implement such a program by passing an ordinance evidencing
+14 the intent to do so. A city or county may contract with a public or private
+15 entity to administer its electrical code enforcement program pursuant to the
+16 provisions of this section.
+17 (4) A city or county that chooses to conduct its own electrical code en-
+18 forcement inspections or to receive such inspections from another city or
+19 county shall provide the division of occupational and professional licenses
+20 notice of such decision in writing at least thirty (30) days prior to imple-
+21 mentation.
+22 (5) A city or county that terminates a permitting and inspection pro-
+23 gram established pursuant to this section shall notify the division of oc-
+24 cupational and professional licenses in writing of its intent to terminate
+25 such program. Upon termination of a city or county permitting and inspection
+26 program, the division of occupational and professional licenses shall pro-
+27 vide electrical code enforcement services in the jurisdiction for a minimum
+28 of one (1) year.
+29 (6) Notwithstanding any provision of law to the contrary, on and af-
+30 ter July 1, 2030, inspections under the state electrical code shall be con-
+31 ducted by state-certified private inspectors if not otherwise provided for
+32 by a city or county pursuant to the provisions of this section.
+33 SECTION 4. That Section 54-1001C, Idaho Code, be, and the same is hereby
+34 repealed.
+35 SECTION 5. That Section 54-1001D, Idaho Code, be, and the same is hereby
+36 repealed.
+37 SECTION 6. That Chapter 10, Title 54, Idaho Code, be, and the same is
+38 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+39 ignated as Section 54-1001E, Idaho Code, and to read as follows:
+40 54-1001E. CERTIFIED PRIVATE INSPECTORS. (1) Notwithstanding any
+41 other provision of law to the contrary, as provided for in section 67-2616,
+42 Idaho Code, between October 1, 2026, and June 30, 2030, the division shall
+43 provide for both state inspections and state-certified private inspectors.
+44 (2) On and after July 1, 2030, the division shall no longer conduct
+45 electrical inspections or employ inspectors for such purposes.
+46 (3) On and after July 1, 2030, all inspections under the Idaho state
+47 electrical code shall be conducted by state-certified private inspectors as
+
+6
+1 provided for in this section unless such inspections are conducted by a city
+2 or county pursuant to a municipal ordinance in accordance with the provi-
+3 sions of section 54-1001B, Idaho Code.
+4 (4) State-certified private inspectors shall be qualified pursuant to
+5 section 54-1019, Idaho Code.
+6 SECTION 7. That Section 54-1003, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 54-1003. ADMINISTRATOR AUTHORITY. (1) Only the administrator of the
+9 division of occupational and professional licenses of the state of Idaho is
+10 authorized and empowered to conduct examinations and to pass upon the qual-
+11 ifications of applicants and to grant and issue licenses, or registrations,
+12 or certifications to such applicants as are found to be qualified to engage
+13 in the trade, business, or calling of a residential electrician, journeyman
+14 electrician, electrical contractor, master electrician, provisional jour-
+15 neyman electrician, limited electrical installer, limited electrical con-
+16 tractor, limited electrical installer trainee, or apprentice electrician,
+17 or state-certified private inspector in the manner and upon the terms and
+18 conditions hereinafter provided.
+19 (2) No licenses, or registrations, or certifications granted hereunder
+20 shall be transferable. Licenses and registrations shall be issued upon the
+21 condition that the holder thereof shall comply with all provisions of this
+22 chapter.
+23 (3) The administrator of the division of occupational and professional
+24 licenses is authorized to impose civil penalties as provided in this chap-
+25 ter.
+26 SECTION 8. That Section 54-1003A, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 54-1003A. DEFINITIONS. (1) Electrical Contractor. Except as pro-
+29 vided in section 54-1016, Idaho Code, any person, partnership, company,
+30 firm, association or corporation engaging in, conducting, or carrying on
+31 the business of installing wires or equipment to carry electric current
+32 or installing apparatus to be operated by such current, or entering into
+33 agreements to install such wires, equipment or apparatus, shall for the
+34 purpose of this chapter be known as an electrical contractor. An electrical
+35 contractor, prior to being issued a license, shall be required to provide
+36 proof of liability insurance in the amount of three hundred thousand dollars
+37 ($300,000) and proof of worker's compensation insurance if applicable.
+38 (2) Journeyman Electrician. Except as provided in section 54-1016,
+39 Idaho Code, and subsections (4), (5), (6), and (7) of this section, any
+40 person who personally performs or supervises the actual physical work of
+41 installing electrical wiring or equipment to convey electric current, or
+42 apparatus to be operated by such current, or engages in planning, lay out, or
+43 design of such wiring, equipment, or apparatus, or the supervision thereof,
+44 shall for the purpose of this chapter be known as a journeyman electrician.
+45 (3) Residential Electrician. Any person who personally performs or su-
+46 pervises the actual physical work of installing electrical wiring or equip-
+47 ment to convey electric current, or apparatus to be operated by such current
+
+7
+1 in a residential setting, shall for the purposes of this chapter be known as
+2 a residential electrician. A residential electrician may work in a non-res-
+3 idential setting only as a registered apprentice electrician under the con-
+4 stant on-the-job supervision of a journeyman electrician.
+5 (4) Apprentice Electrician. Any person who, for the purpose of learn-
+6 ing the trade of residential electrician or journeyman electrician, engages
+7 in the installation of electrical wiring, equipment, or apparatus while un-
+8 der the constant on-the-job supervision of a qualified residential electri-
+9 cian, journeyman electrician, or master electrician shall for the purpose of
+10 this chapter be known as an apprentice electrician.
+11 (5) Maintenance Electrician. Any person who is regularly employed to
+12 service, maintain or repair electrical apparatus, or to make minor repairs
+13 or alterations to existing electrical wires or equipment located on his em-
+14 ployer's premises shall for the purpose of this chapter be known as a mainte-
+15 nance electrician.
+16 (6) Master Electrician. A person who has the necessary qualifications,
+17 training, experience and technical knowledge to plan, lay out or design the
+18 installation of electrical wiring or equipment, or to supervise such plan-
+19 ning, layout, or design, and who performs or supervises such planning, lay-
+20 out or design, shall for the purpose of this chapter be known as a master
+21 electrician.
+22 (7) Limited Electrical Installer. A person having the necessary quali-
+23 fications, training, experience and technical knowledge to install, alter,
+24 repair and supervise the installation, alteration or repair of special
+25 classes of electrical wiring, apparatus or equipment within categories
+26 adopted by the board. Limited electrical installers shall perform work only
+27 within the scope of the restricted category for which the person is licensed.
+28 (8) Limited Electrical Contractor. Except as provided in section
+29 54-1016, Idaho Code, any person, partnership, company, firm, association
+30 or corporation engaging in, conducting or carrying on the business of in-
+31 stalling, altering or repairing restricted categories of electrical wiring,
+32 apparatus or equipment within categories adopted by the board, or entering
+33 into agreements to perform such restricted work, shall for the purpose of
+34 this chapter be known as a limited electrical contractor. Limited electri-
+35 cal contractors shall perform work only within the scope of the restricted
+36 category for which the contractor is licensed. A limited electrical con-
+37 tractor, prior to being issued a license, shall be required to provide proof
+38 of liability insurance in the amount of three hundred thousand dollars
+39 ($300,000) and proof of worker's compensation insurance if applicable.
+40 (9) Limited Electrical Installer Trainee. Any person who engages in
+41 the installation of restricted categories of electrical wiring, equipment
+42 or apparatus under the constant on-the-job supervision of a qualified lim-
+43 ited electrical installer shall for the purpose of this chapter be known as a
+44 limited electrical installer trainee.
+45 (10) Electrical Facility Employer Account or Facility Account. An em-
+46 ployer licensed with the division of occupational and professional licenses
+47 who employs individuals holding valid journeyman or master electrician li-
+48 censes to perform alterations, extensions and new installations of electri-
+49 cal systems or components thereof on premises owned by the employer. The em-
+
+8
+1 ployer may also employ maintenance electricians in accordance with section
+2 54-1016, Idaho Code.
+3 (11) Provisional Journeyman Electrician. Any person who has met the re-
+4 quirements of section 54-1007(4), Idaho Code, and who wishes to perform the
+5 actual physical work of installing electrical wiring or equipment to convey
+6 electric current, or apparatus to be operated by such current, while under
+7 the constant on-the-job supervision of a qualified residential electrician,
+8 journeyman electrician, or master electrician may upon application, for the
+9 purposes of this chapter, be known as a provisional journeyman electrician.
+10 (12) Residential Setting. For the purposes of this chapter, residen-
+11 tial setting means one (1) and two (2) family dwellings, townhouses, and
+12 multi-family structures up to three (3) stories.
+13 (13) State-certified private inspector. A person who has been certi-
+14 fied by the division of occupational and professional licenses pursuant to
+15 the provisions of this chapter and section 67-2616, Idaho Code, to conduct
+16 electrical inspections.
+17 SECTION 9. That Section 54-1004, Idaho Code, be, and the same is hereby
+18 repealed.
+19 SECTION 10. That Section 54-1005, Idaho Code, be, and the same is hereby
+20 repealed.
+21 SECTION 11. That Chapter 10, Title 54, Idaho Code, be, and the same is
+22 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+23 ignated as Section 54-1005, Idaho Code, and to read as follows:
+24 54-1005. RULES -- ELECTRICAL PERMITS AND FEES. (1) The administrator
+25 of the division of occupational and professional licenses is hereby autho-
+26 rized and directed to promulgate rules, subject to legislative approval,
+27 consistent with this chapter for the administration of this chapter and
+28 to effectuate the purposes thereof, and for the examination and licensing
+29 of electrical contractors, residential electricians, journeyman electri-
+30 cians, master electricians, provisional journeyman electricians, limited
+31 electrical installers, limited electrical contractors, limited electrical
+32 installer trainees, apprentice electricians, and state-certified private
+33 inspectors.
+34 (2) Individuals, firms, cooperatives, corporations, or municipali-
+35 ties selling electricity, hereinafter known as the power supplier, shall
+36 not connect with or energize any electrical installation coming under the
+37 provisions of this chapter unless an inspection has been conducted covering
+38 the installation to be energized. Electrical installations approved by the
+39 board and addressed through administrative rules may be connected and ener-
+40 gized by the power supplier after the purchase of an electrical permit by a
+41 licensed electrical contractor.
+42 (3) It shall be unlawful for any person, partnership, company, firm,
+43 association, or corporation other than a power supplier to energize any
+44 electrical installation coming under the provisions of this chapter prior to
+45 the purchase of an electrical permit covering such installation.
+
+9
+1 SECTION 12. That Section 54-1006, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 54-1006. IDAHO ELECTRICAL BOARD. (1) The Idaho electrical board,
+4 hereinafter known as the board, is hereby created and made a part of the
+5 division of occupational and professional licenses. It shall be the re-
+6 sponsibility and duty of the administrator of the division of occupational
+7 and professional licenses to administer and enforce the provisions of this
+8 chapter, and to serve as secretary to the Idaho electrical board.
+9 (2) The board shall consist of nine (9) members to be appointed by the
+10 governor and who shall serve at the pleasure of the governor. Two (2) members
+11 shall be licensed journeymen or master electricians; two (2) members shall
+12 be employees or officers of licensed electrical contractors; one (1) mem-
+13 ber shall be a licensed limited electrical installer or limited electrical
+14 contractor; one (1) member shall be an employee or officer of an electrical
+15 power provider; one (1) member shall be an employee or officer of a manufac-
+16 turing plant or other large power user; one (1) member shall be an employee or
+17 director of a manufacturer or distributor of electrical supplies or materi-
+18 als; and one (1) member shall be from the public at large not directly asso-
+19 ciated with the electrical industry. Board members shall be appointed for a
+20 term of four (4) years. Members of the board shall hold office until expira-
+21 tion of the term to which the member was appointed and until his successor has
+22 been duly appointed and qualified. Whenever a vacancy occurs, the governor
+23 shall appoint a qualified person to fill the vacancy for the unexpired por-
+24 tion of the term.
+25 (3) All members of the board shall be citizens of the United States,
+26 residents of this state for not less than two (2) years and shall be quali-
+27 fied by experience, knowledge and integrity in formulating rules for exami-
+28 nations, in passing on the fitness and qualifications of applicants for li-
+29 censure and in establishing standards for electrical products to be used in
+30 electrical installations coming under the provisions of this chapter.
+31 (4) The members of the board shall, every two (2) years, elect by major-
+32 ity vote of the members of the board a chairman who shall preside at meetings
+33 of the board and a vice chairman who shall preside at any board meeting in
+34 the event the chairman is not present. A majority of the members of the board
+35 shall constitute a quorum.
+36 (5) The board is authorized and directed to prescribe and amend rules,
+37 subject to legislative approval, consistent with this chapter for the ad-
+38 ministration of this chapter, and to effectuate the purpose thereof, and
+39 for the examination and licensing of electrical contractors, residential
+40 electricians, journeyman electricians, master electricians, provisional
+41 journeyman electricians, limited electrical installers, limited electri-
+42 cal contractors, limited electrical installer trainees, and apprentice
+43 electricians, and state-certified private inspectors. The board shall
+44 also establish the categories for limited electrical installers and limited
+45 electrical contractor licensing and. Prior to June 30, 2030, the board is
+46 authorized to establish the fees to be charged for permits and inspections
+47 of electrical systems. The board shall establish by administrative rule the
+48 fines to be paid for citations issued and shall hear appeals regarding the
+49 imposition of civil penalties for violations of this chapter and the rules
+
+10
+1 of the Idaho electrical board. The board is authorized to affirm, reject,
+2 decrease or increase the penalty imposed by the administrator. However,
+3 in no case shall the penalty exceed one thousand dollars ($1,000) for each
+4 offense.
+5 (6) Each member of the board not otherwise compensated by public moneys
+6 shall be compensated as provided by section 59-509(n), Idaho Code.
+7 SECTION 13. That Section 54-1007, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 54-1007. ISSUANCE OF LICENSES -- RECIPROCITY. (1) The administrator
+10 shall issue licenses to such persons as have by examination shown themselves
+11 to be fit, competent and qualified to engage in the trade of residential
+12 electrician, journeyman electrician, limited electrical installer or mas-
+13 ter electrician as defined in section 54-1003A, Idaho Code, and to such
+14 persons, firms, partnerships, associations or corporations as have shown
+15 themselves to be fit, competent and qualified to engage in the business of
+16 electrical contracting or limited electrical contracting as defined in sec-
+17 tion 54-1003A, Idaho Code.
+18 (2) An apprentice electrician, as defined in section 54-1003A, Idaho
+19 Code, may take the journeyman's examination if he has completed the required
+20 related instruction for electrical apprentices as approved by the Idaho
+21 state board for career technical education, completion of which shall be
+22 evidenced by a certificate from an approved provider, and has worked the
+23 number of hours as prescribed by the Idaho electrical board, provided that
+24 for all the time he is claiming to have worked as an apprentice electrician,
+25 the apprentice shall have been registered with the division of occupational
+26 and professional licenses as an apprentice. The electrical board may by rule
+27 fix the apprentice registration fee, in an amount not to exceed the costs of
+28 issuing apprentice registration certificates and enforcing the apprentice
+29 registration provisions of this chapter, and may also by rule establish re-
+30 quirements relative to the manner of registration renewal, verification of
+31 employment, the number of instructional hours completed, and the number of
+32 hours worked.
+33 (3) Any person who has worked as a licensed journeyman for a period of
+34 not less than four (4) years and who has worked the number of hours as pre-
+35 scribed by rule of the board as a licensed journeyman electrician shall be
+36 considered as qualified to apply for a master electrician's license in this
+37 state. The Idaho electrical board, in establishing by rule the requirements
+38 for a master electrician's license, shall also take into account the appli-
+39 cant's performance as a journeyman electrician. When issuing a master elec-
+40 trician's license to a person, the administrator shall also issue a journey-
+41 man electrician's license to such person at no additional cost and without
+42 any additional requirements beyond those required to receive a master elec-
+43 trician's license.
+44 (4) Notwithstanding subsection (2) of this section, any person who can
+45 demonstrate eight (8) years of work experience, defined as a minimum of six-
+46 teen thousand (16,000) hours, making electrical installations on the job,
+47 shall be considered as qualified to apply for a journeyman electrician's li-
+48 cense in this state.
+
+11
+1 (5) A person qualifies for a residential electrician license if he
+2 passes the residential electrician examination approved by the board, has
+3 completed a two (2) year course of related instruction for residential
+4 electrical apprentices as approved by the Idaho electrical board and the
+5 Idaho state board for career technical education, and submits proof of four
+6 thousand (4,000) hours of electrical experience as an Idaho-registered ap-
+7 prentice or in accordance with the requirements of the jurisdiction where
+8 the applicant obtained such experience. Completion of an approved course
+9 as required pursuant to this subsection shall be evidenced by a certificate
+10 from an approved provider. An applicant for a journeyman electrician li-
+11 cense may utilize the experience hours identified in this section toward the
+12 work experience requirement for a journeyman electrician license.
+13 (6) To the extent that other states that provide for the licensing
+14 of electricians require qualifications at least equal to those contained
+15 in this chapter, the administrator may enter reciprocal agreements with
+16 such other states to grant licenses to electricians licensed by such other
+17 states. The administrator, on the recommendation of the Idaho electrical
+18 board, may grant licenses to electricians licensed by such other states upon
+19 payment by the applicant of the required fee and upon furnishing proof to the
+20 board that the applicant has qualifications at least equal to those provided
+21 herein for applicants for written examinations. Applicants who qualify for
+22 a license under this subsection are not required to take a written examina-
+23 tion.
+24 (7) A provisional journeyman electrician, as defined in section
+25 54-1003A, Idaho Code, may take the residential electrician or journeyman
+26 electrician examination. Upon passing the examination, the administrator
+27 of the division of occupational and professional licenses shall issue the
+28 provisional journeyman electrician a residential or journeyman electri-
+29 cian's license.
+30 (8) Private inspectors shall be qualified to become state-certified
+31 private inspectors pursuant to this chapter if they are qualified pursuant
+32 to section 54-1019, Idaho Code.
+33 SECTION 14. That Section 54-1008, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 54-1008. DURATION OF LICENSE. (1) All licenses, including license
+36 renewals, for master electricians, residential electricians, journeyman
+37 electricians, and limited electrical installers, and state-certified pri-
+38 vate inspectors shall be issued for a period of three (3) years and shall
+39 expire three (3) years from the birthday of the licensee unless renewed,
+40 revoked, or suspended.
+41 (2) Electrical contractor and limited electrical contractor licenses
+42 shall be issued for a period of two (2) years and shall expire two (2) years
+43 from the birthday of the licensee unless renewed, revoked, or suspended.
+44 (3) Electrical apprentice registrations issued or renewed shall be is-
+45 sued for a period of two (2) years. No person shall be issued an apprentice
+46 license for more than five (5) two (2) year periods.
+47 (4) Limited electrical installer trainee registrations shall be issued
+48 for a period of three (3) years.
+
+12
+1 (5) Facility account licenses shall be issued and renewed for a period
+2 of two (2) years.
+3 (6)(a) Provisional journeyman electrician's licenses shall be issued
+4 for a period of six (6) months and shall expire six (6) months from the
+5 date issued, during which time a provisional journeyman electrician
+6 shall apply for and take the journeyman electrician examination. A six
+7 (6) month renewal shall be issued upon application if:
+8 (i) The applicant has taken, but failed to pass, the journeyman
+9 electrician examination within the six (6) month period; or
+10 (ii) The applicant has failed to take the journeyman electrician
+11 examination within the six (6) month period and has shown that ex-
+12 ceptional circumstances prevented the applicant from taking the
+13 journeyman electrician examination.
+14 (b) A provisional journeyman electrician's license shall be issued and
+15 renewed only once. If the applicant fails to pass the journeyman elec-
+16 trician examination, or fails to take the journeyman electrician ex-
+17 amination, within one (1) year from the date of issue of a provisional
+18 journeyman electrician's license, the applicant is no longer eligible
+19 to apply for a provisional journeyman electrician's license.
+20 (7) Each licensing period and each registration period shall end at
+21 midnight on the last day of the month of the licensing or registration
+22 period. Licenses and registrations not renewed by this date shall have ex-
+23 pired.
+24 (8) The board shall promulgate rules to provide for a staggered system
+25 of issuing and renewing licenses.
+26 SECTION 15. That Section 54-1009, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 54-1009. REVOCATION OR SUSPENSION OF LICENSES OR CERTIFICATIONS --
+29 HEARINGS -- TAKING TESTIMONY. (1) The administrator shall have power to re-
+30 voke or suspend any license, or registration, or certification if the same
+31 was obtained through error or fraud, or if the holder thereof is shown to be
+32 grossly incompetent, or has willfully violated any of the rules prescribed
+33 by the board, or as prescribed in this chapter; or has, after due notice,
+34 failed or refused to correct, within the specified time, any electrical
+35 installation not in compliance with the provisions of this chapter, or has
+36 failed to pay within the time provided, civil penalties which have become
+37 final by operation of law.
+38 (2) The administrator shall have the power to suspend any electrical
+39 contractor or limited electrical contractor license if, at any time during
+40 the term of active contractor or limited contractor licensure, the licensee
+41 failed to maintain required liability insurance or applicable worker's com-
+42 pensation insurance.
+43 (3) Before any license or certification shall be revoked or suspended,
+44 the holder thereof shall have written notice enumerating the charges against
+45 him and shall be given a hearing by said administrator, and have an oppor-
+46 tunity to produce testimony in his behalf, at a time and place specified in
+47 said notice, which time shall not be less than five (5) days after the service
+48 thereof.
+
+13
+1 (a) The proceedings shall be governed by the provisions of chapter 52,
+2 title 67, Idaho Code.
+3 (b) Any party aggrieved by the action of the administrator shall be en-
+4 titled to judicial review thereof in accordance with the provisions of
+5 chapter 52, title 67, Idaho Code.
+6 (4) The administrator shall have the power to appoint, by an order in
+7 writing, a hearing officer to take testimony, who shall have power to admin-
+8 ister oaths, issue subpoenas and compel the attendance of witnesses, and the
+9 decision of the administrator shall be based on his examination of the testi-
+10 mony taken and the records produced. Any person whose license or certifica-
+11 tion has been revoked may, after the expiration of one (1) year from the date
+12 of such revocation, but not before, apply for a new license or certification.
+13 SECTION 16. That Section 54-1017, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 54-1017. VIOLATIONS OF ACT A MISDEMEANOR. Any person, partnership,
+16 company, firm, association, or corporation who shall engage in the trade,
+17 business or calling of an electrical contractor, residential electrician,
+18 journeyman electrician, master electrician, limited electrical installer,
+19 limited electrical contractor, limited electrical installer trainee, or
+20 apprentice electrician, or state-certified private inspector without a
+21 license or required registration as provided for by this act, or who shall
+22 violate any of the provisions of this act or the rules of the Idaho elec-
+23 trical board or of the administrator of the division of occupational and
+24 professional licenses provided for in this chapter, or who shall refuse to
+25 perform any duty lawfully enjoined upon him by the administrator within the
+26 prescribed time, or who shall fail, neglect, or refuse to obey any lawful
+27 order given or made by the administrator shall be guilty of a misdemeanor.
+28 In addition, any such person, partnership, company, firm, association,
+29 or corporation shall be subject to the civil penalties established by ad-
+30 ministrative rule, but not to exceed three thousand dollars ($3,000) per
+31 violation. Each day of such violation shall constitute a separate offense.
+32 A violation will be considered a second or additional offense only if it oc-
+33 curs within one (1) year from the first violation.
+34 SECTION 17. That Section 54-1019, Idaho Code, be, and the same is hereby
+35 repealed.
+36 SECTION 18. That Chapter 10, Title 54, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 54-1019, Idaho Code, and to read as follows:
+39 54-1019. QUALIFICATIONS OF INSPECTORS. All inspectors shall be
+40 skilled in electrical installations with not less than four (4) years of
+41 actual experience as a journeyman or master electrician, shall possess
+42 journeyman or master electrician licenses in the state of Idaho prior to
+43 appointment, and shall be fully familiar with the provisions of this chapter
+44 and rules made both by the administrator and the Idaho electrical board.
+
+14
+1 SECTION 19. That Section 54-2601, Idaho Code, be, and the same is hereby
+2 repealed.
+3 SECTION 20. That Chapter 26, Title 54, Idaho Code, be, and the same is
+4 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+5 ignated as Section 54-2601, Idaho Code, and to read as follows:
+6 54-2601. DECLARATION OF POLICY AND PURPOSE OF CHAPTER -- IDAHO STATE
+7 PLUMBING CODE. (1) The purpose of this chapter is to provide certain
+8 standards and requirements for the use of and the design, construction, in-
+9 stallation, improvement, extension, and alteration of materials, piping,
+10 venting, fixtures, appliances, and appurtenances in relation to plumbing
+11 and plumbing systems and to provide that all plumbing and plumbing systems
+12 in the state shall be designed, constructed, installed, improved, extended,
+13 and altered in substantial accord with the uniform plumbing code published
+14 by the international association of plumbing and mechanical officials and as
+15 it shall be amended, revised, compiled, and published from time to time and
+16 as subsequent editions, amendments, or revisions thereto shall be adopted
+17 by the Idaho plumbing board through the negotiated rulemaking process. Any
+18 amendments, revisions, or modifications made to the uniform plumbing code
+19 by the board shall be made by administrative rules promulgated by the board,
+20 subject to legislative approval. The uniform plumbing code together with
+21 any amendments, revisions, or modifications made by the board shall col-
+22 lectively constitute and be named the Idaho state plumbing code. The board
+23 shall conduct a minimum of two (2) public hearings with notice of such public
+24 hearings provided in accordance with the provisions of section 74-204, Idaho
+25 Code.
+26 (2) Cities or counties electing to implement a plumbing code enforce-
+27 ment program shall do so only in compliance with the provisions of this
+28 section. Cities or counties may elect to implement a plumbing enforcement
+29 program by passing an ordinance evidencing the intent to do so. Cities or
+30 counties that perform plumbing code enforcement activities shall, except as
+31 provided in subsection (3) of this section, by ordinance adopt the uniform
+32 plumbing code together with any amendments thereto made by the board, which
+33 shall collectively constitute and be named the Idaho state plumbing code.
+34 The effective date of any edition of the code adopted by the board shall be
+35 January 1 of the year following its adoption.
+36 (3) Cities or counties may further amend the Idaho state plumbing code
+37 adopted by the board in conformance with this section to address local con-
+38 cerns as long as such amendments prescribe at least an equivalent level of
+39 protection to that contained in the uniform plumbing code. Provided how-
+40 ever, that no code other than the uniform plumbing code together with any
+41 amendments, revisions, or modifications made by the board that collectively
+42 constitute the Idaho state plumbing code may serve as the standard for plumb-
+43 ing installations in such city or county. A city or county electing to amend
+44 the Idaho state plumbing code as adopted by the board may do so only after a
+45 finding by the city or county that good cause exists for such an amendment
+46 and that such amendment is reasonably necessary. Prior to making a finding
+47 of good cause for such an amendment, the city or county shall conduct a pub-
+48 lic hearing. Notice of the time and place of the public hearing shall be pub-
+49 lished in the official newspaper or paper of general circulation within the
+
+15
+1 city or county. Written notice of such public hearing and the text of the
+2 proposed amendment shall be given by the city or county to the board not less
+3 than thirty (30) days prior to such hearing.
+4 (4) The remaining provisions of this chapter shall not apply, except as
+5 hereinafter provided, to cities or counties if such cities or counties enact
+6 ordinances or codes prescribing the Idaho state plumbing code and amendments
+7 it may make thereto in accordance with this section for all plumbing instal-
+8 lations which shall be considered the equal standards and requirements in-
+9 cluding the enforcement thereof as provided by this chapter.
+10 (5) A city or county that enforces plumbing codes shall do so only in
+11 compliance with the provisions of this section and the Idaho state plumbing
+12 code. A city or county that performs plumbing code enforcement activities
+13 pursuant to this section may perform plumbing code enforcement activities
+14 for other cities or counties. The provisions of the Idaho state plumbing
+15 code shall be used as the standard for plumbing code enforcement activities
+16 pursuant to this section.
+17 (6) A city or county that has not previously instituted and implemented
+18 a plumbing code enforcement program prior to the effective date of this sec-
+19 tion may elect to implement such a program by passing an ordinance evidencing
+20 the intent to do so. A city or county may contract with a public or private
+21 entity to administer its plumbing code enforcement program pursuant to the
+22 provisions of this section.
+23 SECTION 21. That Section 54-2606, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 54-2606. POWERS AND DUTIES OF THE IDAHO PLUMBING BOARD. (1) The board
+26 shall have the general administration and supervision of the design, con-
+27 struction, installation, improvement, extension and alteration of plumbing
+28 and plumbing systems, except that which has been heretofore and here-
+29 inafter exempted from the jurisdiction of this board, in connection with
+30 all buildings, residences and structures in this state including buildings,
+31 residences and structures owned by the state or any political subdivision
+32 thereof.
+33 (2) The division of occupational and professional licenses shall en-
+34 force the minimum standards and requirements therefor as provided by this
+35 chapter.
+36 (3) The board may exercise such powers and duties as are reasonably nec-
+37 essary to carry out the provisions of this chapter, and it may among other
+38 things:
+39 (a) Establish Prior to July 1, 2030, establish the fees to be charged
+40 for permits and inspections of plumbing systems.
+41 (b) Hold public meetings and attend or be represented at such meetings,
+42 within or without the state, prepare and publish rules pertaining to
+43 this chapter, and such other information as may be necessary, and fur-
+44 nish copies thereof to those engaged in the business, trade, practice or
+45 work of plumbing and pipefitting and to the public upon request.
+46 (c) Furnish standards and procedures and prescribe reasonable rules
+47 for examinations, qualification and certification of plumbing con-
+48 tractors and journeymen and apprentice plumbers not herein prescribed,
+
+16
+1 including the establishment of continuing education requirements for
+2 journeymen and plumbing contractors.
+3 (d) Require the furnishing of a compliance bond by plumbing contractors
+4 in an amount not to exceed two thousand dollars ($2,000) for the con-
+5 tractor classification or evidence of such coverage by a corporate in-
+6 dustry group bond acceptable to the board.
+7 (e) Furnish standards and procedures and prescribe reasonable rules
+8 to provide for the certification of specialty contractors, specialty
+9 journeymen, and specialty apprentices, including the furnishing of a
+10 compliance bond in an amount not to exceed two thousand dollars ($2,000)
+11 for the specialty contractor classification or evidence of coverage by
+12 a corporate industry group bond acceptable to the board.
+13 (f) Establish by administrative rule civil penalties not to exceed one
+14 thousand dollars ($1,000) for each count or separate offense, to be paid
+15 for violations of this chapter and rules of the Idaho plumbing board;
+16 and to establish by administrative rule the process by which appeals
+17 from the imposition of civil penalties may be heard. The board is au-
+18 thorized to affirm, reject, decrease or increase the penalty imposed;
+19 however, the board shall not increase any penalty imposed to an amount
+20 exceeding one thousand dollars ($1,000) for each individual count or
+21 separate offense.
+22 (g) Provide for the certification of private inspectors who are quali-
+23 fied pursuant to section 54-2627, Idaho Code.
+24 SECTION 22. That Section 54-2607, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 54-2607. ADMINISTRATOR OF THE DIVISION OF OCCUPATIONAL AND PROFES-
+27 SIONAL LICENSES -- POWERS AND DUTIES. (1) The administrator shall exercise
+28 such powers and duties as are reasonably necessary to enforce the minimum
+29 standards provided in this chapter, and he may among other things:
+30 (a) Prescribe and establish procedures to effectuate the efficient en-
+31 forcement of this chapter not herein prescribed.
+32 (b) Serve as secretary to the Idaho plumbing board.
+33 (c) Appoint Prior to July 1, 2030, appoint licensed staff inspectors
+34 who shall be authorized to enter and inspect by and through a properly
+35 identified person, at reasonable hours, plumbing and plumbing systems.
+36 (d) Make Prior to July 1, 2030, make plumbing inspections for another
+37 state or local jurisdiction upon request by an appropriate building of-
+38 ficial. Such inspections shall be made in accordance with the appli-
+39 cable plumbing codes of the requesting jurisdiction. Fees charged for
+40 such inspection services shall be as provided in the rules promulgated
+41 by the board.
+42 (e) Summon witnesses to appear and testify before him on any matter
+43 within the provisions of this chapter. No person shall be required to
+44 testify outside the county wherein he resides or where his principal
+45 place of business is located. Such summons to testify shall be issued
+46 and served in like manner as a subpoena to witness issued from the dis-
+47 trict court or in other manner consistent with the procedure of the
+48 division of occupational and professional licenses. In case any wit-
+49 ness shall fail or refuse to appear and testify upon being summoned as
+
+17
+1 herein provided, the clerk of the district court of the county shall,
+2 upon demand by the administrator or his designated agent, issue a sub-
+3 poena reciting the demand therefor and summoning the witness to appear
+4 and testify at a time and place fixed. Violation of such subpoena or
+5 disobedience thereto shall be deemed and punished as a violation of any
+6 other subpoena issued from the district court.
+7 (f) Administer oaths and take affirmations of witnesses appearing be-
+8 fore him and have the power to appoint competent persons to issue sub-
+9 poenas, administer oaths and take testimony.
+10 (g) Impose civil penalties as provided in this chapter and the rules of
+11 the Idaho plumbing board.
+12 (h) In addition to any other penalties specified in this chapter, when-
+13 ever any person violates the provisions of this chapter and the rules of
+14 the Idaho plumbing board, the administrator may maintain an action in
+15 the name of the state of Idaho to enjoin that person from any further vi-
+16 olations. Such action may be brought either in the county in which the
+17 acts are claimed to have been or are being committed, or in the county
+18 where the defendant resides, or in Ada county.
+19 (i) Upon the filing of a certified complaint in the district
+20 court, the court, if satisfied that the acts complained of have
+21 been, probably are being, or may be committed, may issue a tem-
+22 porary restraining order, or a preliminary injunction, or both,
+23 without bond, enjoining the defendant from the commission of any
+24 such act or acts constituting the violation.
+25 (ii) A copy of the complaint shall be served upon the defendant and
+26 the proceedings shall thereafter be conducted as in other similar
+27 civil actions.
+28 (iii) If the commission of the act or acts is established, the
+29 court shall enter a decree permanently enjoining the defendant
+30 from committing such act or acts. If an injunction issued under
+31 the provisions of this section is violated, the court, or the judge
+32 thereof at chambers, may summarily try and punish the offender for
+33 contempt of court.
+34 (2) It shall be the duty of the administrator to give notice to cities
+35 that supply sewer service to areas outside their city limits and who have
+36 requested in writing such notice from the administrator of all permits is-
+37 sued relative to sewer installations. The notice shall be given within ten
+38 (10) days from the date the permit was requested for such installation. The
+39 notice shall contain a map of the physical location of the installation and
+40 reference to the date of inspection if the city so requests.
+41 SECTION 23. That Section 54-2608, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 54-2608. REVOCATION OF CERTIFICATES OF COMPETENCY -- SUSPENSION --
+44 REFUSAL TO RENEW. The administrator of the division of occupational and pro-
+45 fessional licenses shall have on the recommendation of the board the power to
+46 revoke, suspend or refuse to issue a renewal of any certificate of competency
+47 if the same was obtained through error or fraud, or if the holder thereof is
+48 shown to be grossly incompetent or has a second time violated any of the rules
+49 prescribed by the board, or as prescribed by this act. Before the adminis-
+
+18
+1 trator shall refuse to grant a renewal of said certificate to any applicant
+2 or shall revoke or suspend any certificate previously granted, he shall hold
+3 a hearing giving such applicant or holder of said certificate fifteen (15)
+4 days written notice of his intended action by registered mail directed to the
+5 applicant or holder at the address given on said certificate or in the appli-
+6 cation for said certificate, stating generally the basis for his intended
+7 action; and the applicant or holder of said certificate shall have the oppor-
+8 tunity to produce testimony in his own behalf at a time and place specified in
+9 said notice. The proceedings shall be governed by the provisions of chapter
+10 52, title 67, Idaho Code. If the administrator, after the hearing, shall
+11 refuse to grant a renewal of said certificate or shall suspend or revoke any
+12 certificate previously granted, said applicant or holder of a certificate
+13 may seek judicial review of the administrator's final order in accordance
+14 with the provisions of chapter 52, title 67, Idaho Code. Any person whose
+15 certificate has been revoked may, after the expiration of one (1) year from
+16 the date of revocation, but not before, apply for a new certificate of com-
+17 petency. The provisions of this section shall apply to a state-certified
+18 private inspector in addition to any other person provided by law.
+19 SECTION 24. That Section 54-2620, Idaho Code, be, and the same is hereby
+20 repealed.
+21 SECTION 25. That Section 54-2622, Idaho Code, be, and the same is hereby
+22 repealed.
+23 SECTION 26. That Section 54-2623, Idaho Code, be, and the same is hereby
+24 repealed.
+25 SECTION 27. That Section 54-2624, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 54-2624. INSPECTIONS BY AGENT -- TESTS. All pipes, fittings, valves,
+28 vents, fixtures, appliances and appurtenances shall be inspected by a des-
+29 ignated, qualified and properly identified agent of the division of occupa-
+30 tional and professional licenses inspector to ensure compliance with provi-
+31 sions of this act. In order to make inspections uniform and complete, the
+32 board shall make, promulgate and publish such rules as are necessary to en-
+33 sure that any plumbing system has been designed, constructed, installed, im-
+34 proved, extended or altered in accordance with the provisions of this act
+35 and in accordance with the rules made, promulgated and published by the Idaho
+36 plumbing board.
+37 SECTION 28. That Section 54-2626, Idaho Code, be, and the same is hereby
+38 repealed.
+39 SECTION 29. That Section 54-2627, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 54-2627. APPOINTMENT OF INSPECTORS -- QUALIFICATIONS -- UNLAWFUL
+42 PRACTICES. (1) The administrator of the division of occupational and profes-
+
+19
+1 sional licenses shall appoint such number of inspectors as may be required
+2 for the effective enforcement of this act.
+3 (2) All inspectors shall be skilled in plumbing installations with not
+4 less than five (5) years actual experience, shall possess certificates of
+5 competency prior to appointment, and shall be fully familiar with the pro-
+6 visions of this act and rules made by both the administrator and the Idaho
+7 plumbing board.
+8 (3) No inspector employed by the division of occupational and profes-
+9 sional licenses and assigned to the enforcement of this act shall be engaged
+10 or financially interested in a plumbing business, trade, practice or work,
+11 or the sale of any supplies connected therewith, nor shall he act as an agent,
+12 directly or indirectly, for any person, firm, copartnership, association or
+13 corporation so engaged.
+14 (4) Inspectors employed by municipalities electing to claim exemption
+15 under this act must possess the qualifications set forth in this section.
+16 (5) State-certified private inspectors shall be qualified pursuant to
+17 subsections (2) and (3) of this section.
+18 SECTION 30. That Section 54-5005, Idaho Code, be, and the same is hereby
+19 repealed.
+20 SECTION 31. That Chapter 50, Title 54, Idaho Code, be, and the same is
+21 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+22 ignated as Section 54-5005, Idaho Code, and to read as follows:
+23 54-5005. POWERS AND DUTIES OF THE BOARD -- LIMITATION. (1) The board
+24 shall have the general administration and supervision of the design, con-
+25 struction, installation, improvement, extension, and alteration of heat-
+26 ing, ventilation, and air conditioning systems, except that which has been
+27 heretofore and hereinafter exempted from the jurisdiction of this board, in
+28 connection with all buildings, residences, and structures in this state, in-
+29 cluding buildings, residences, and structures owned by the state or any po-
+30 litical subdivision thereof. The division of occupational and professional
+31 licenses shall enforce the minimum standards and requirements therefor as
+32 provided by this chapter. The board may exercise such powers and duties as
+33 are reasonably necessary to carry out the provisions of this chapter, and it
+34 may, among other things:
+35 (a) Hold public meetings and attend or be represented at such meetings,
+36 within or without the state, promulgate rules, subject to legislative
+37 approval, pertaining to this chapter and such other information as may
+38 be necessary, and furnish copies thereof to those engaged in the busi-
+39 ness, trade, practice, or work of heating, ventilation, and air condi-
+40 tioning and to the public upon request; and
+41 (b) Establish by administrative rule, subject to legislative approval,
+42 the fines to be paid for citations issued and hear appeals regarding the
+43 imposition of civil penalties for violations of this chapter and rules
+44 of the board. The board is authorized to affirm, reject, decrease,
+45 or increase the penalty imposed by the administrator. However, in no
+46 case shall the penalty exceed one thousand dollars ($1,000) for each
+47 offense.
+
+20
+1 (2) The powers and duties of the board within the jurisdictional bound-
+2 aries of local governments that have chosen to adopt and enforce mechani-
+3 cal codes shall be limited to those powers and duties needed to enforce the
+4 requirements governing a certificate of competency. Each local government
+5 that has chosen to adopt and enforce mechanical codes shall establish fees to
+6 be charged for permits and inspections within its jurisdiction.
+7 SECTION 32. That Section 54-5006, Idaho Code, be, and the same is hereby
+8 repealed.
+9 SECTION 33. That Chapter 50, Title 54, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 54-5006, Idaho Code, and to read as follows:
+12 54-5006. ADMINISTRATOR OF THE DIVISION OF OCCUPATIONAL AND PROFES-
+13 SIONAL LICENSES. The administrator shall exercise such powers and duties as
+14 are reasonably necessary to enforce standards provided in this chapter, and
+15 he may, among other things:
+16 (1) Serve as secretary to the Idaho heating, ventilation and air condi-
+17 tioning board;
+18 (2) Provide for HVAC inspections for another state or local jurisdic-
+19 tion upon request by an appropriate building official. Such inspections
+20 shall be made in accordance with the applicable HVAC codes of the requesting
+21 jurisdiction. Fees charged for such inspection services shall be as pro-
+22 vided in the rules promulgated by the board;
+23 (3) Summon witnesses to appear and testify before him on any matter
+24 within the provisions of this chapter. No person shall be required to tes-
+25 tify outside the county wherein he resides or where his principal place of
+26 business is located. Such summons to testify shall be issued and served in
+27 like manner as a subpoena to witness issued from the district court, or in
+28 other manner consistent with procedure of the division of occupational and
+29 professional licenses. In case any witness shall fail or refuse to appear
+30 and testify upon being summoned as herein provided, the clerk of the district
+31 court of the county shall, upon demand by said administrator or his desig-
+32 nated agent, issue a subpoena reciting the demand therefor and summoning the
+33 witness to appear and testify at a time and place fixed. Violation of such
+34 subpoena or disobedience thereto shall be deemed and punished as a violation
+35 of any other subpoena issued from the district court;
+36 (4) Administer oaths and take affirmations of witnesses appearing be-
+37 fore him or a duly appointed hearing officer and appoint competent persons to
+38 issue subpoenas, administer oaths, and take testimony; and
+39 (5) Impose civil penalties as provided in this chapter and rules of the
+40 board.
+41 SECTION 34. That Section 54-5016, Idaho Code, be, and the same is hereby
+42 repealed.
+43 SECTION 35. That Chapter 50, Title 54, Idaho Code, be, and the same is
+44 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+45 ignated as Section 54-5016, Idaho Code, and to read as follows:
+
+21
+1 54-5016. PERMITS REQUIRED -- EXCEPTION -- LOCAL GOVERNMENT FEES AL-
+2 LOWED. (1) It shall be unlawful for any person, firm, partnership, company,
+3 association, or corporation to do or cause to be done, whether acting as
+4 principal, agent, or employee, any construction, installation, improve-
+5 ment, extension, or alteration of any heating, ventilation, or air condi-
+6 tioning system in any building, residence, or structure in the state of Idaho
+7 without first obtaining a permit from the authority having jurisdiction
+8 authorizing such work to be done, except that no permit shall be required to
+9 perform work related to repair or maintenance of an existing HVAC system.
+10 (2) No provision of this chapter shall preclude local governments from
+11 collecting fees for permits and inspections where such work is regulated and
+12 enforced by city or county code or ordinance. Municipalities may also re-
+13 quire fees for permits and inspections in areas designated by local code or
+14 ordinance as areas of city impact.
+15 SECTION 36. That Section 54-5017, Idaho Code, be, and the same is hereby
+16 repealed.
+17 SECTION 37. That Section 54-5018, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 54-5018. INSPECTION BY AGENT. A designated, qualified, properly iden-
+20 tified agent of the authority having jurisdiction or a state-certified pri-
+21 vate inspector shall inspect work performed under each permit to ensure com-
+22 pliance with the provisions of this chapter and rules as promulgated by the
+23 board, and applicable codes and ordinances as adopted.
+24 SECTION 38. That Section 54-5020, Idaho Code, be, and the same is hereby
+25 repealed.
+26 SECTION 39. That Chapter 50, Title 54, Idaho Code, be, and the same is
+27 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+28 ignated as Section 54-5020, Idaho Code, and to read as follows:
+29 54-5020. REQUESTS FOR INSPECTION -- LOCAL GOVERNMENTS. Local govern-
+30 ments that have adopted mechanical codes shall by ordinance establish times
+31 within which permit holders shall notify the authority of the desire for an
+32 inspection.
+33 SECTION 40. That Section 54-5021, Idaho Code, be, and the same is hereby
+34 repealed.
+35 SECTION 41. SEVERABILITY. The provisions of this act are hereby de-
+36 clared to be severable and if any provision of this act or the application
+37 of such provision to any person or circumstance is declared invalid for any
+38 reason, such declaration shall not affect the validity of the remaining por-
+39 tions of this act.
+40 SECTION 42. An emergency existing therefor, which emergency is hereby
+41 declared to exist, sections 1, 2, 6, 7, 8, 12, 13, 14, 15, 16, 21, 22, 23, 27,
+42 29, and 37 of this act shall be in full force and effect on and after July 1,
+43 2026. Sections 3, 4, 5, 9, 10, 11, 17, 18, 19, 20, 24, 25, 26, 28, 30, 31,
+
+22
+1 32, 33, 34, 35, 36, 38, 39, 40, and 41 shall be in full force and effect on and
+2 after July 1, 2030.

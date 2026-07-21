@@ -1,0 +1,185 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 899
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE MEDICAL ADVANCED HEALING ACT; AMENDING TITLE 39, IDAHO CODE,
+3 BY THE ADDITION OF A NEW CHAPTER 69, TITLE 39, IDAHO CODE, TO PROVIDE A
+4 SHORT TITLE, TO PROVIDE LEGISLATIVE FINDINGS, TO ESTABLISH A PILOT PRO-
+5 GRAM, TO DEFINE TERMS, TO PROVIDE FOR AUTHORIZED ACTIVITIES, SAFETY RE-
+6 QUIREMENTS, AND LIMITATIONS, TO ESTABLISH LICENSING AND RULEMAKING AU-
+7 THORITY, TO ESTABLISH A FUND, TO PROVIDE FOR DATA COLLECTION AND REPORT-
+8 ING, AND TO PROVIDE FOR LEGISLATIVE APPROVAL OF RULES; PROVIDING SEVER-
+9 ABILITY; AND DECLARING AN EMERGENCY.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Title 39, Idaho Code, be, and the same is hereby amended
+12 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+13 ter 69, Title 39, Idaho Code, and to read as follows:
+14 CHAPTER 69
+15 MEDICAL ADVANCED HEALING ACT
+16 39-6901. SHORT TITLE. This chapter shall be known and may be cited as
+17 the "Medical Advanced Healing Act" or "MAHA."
+18 39-6902. LEGISLATIVE FINDINGS. The legislature finds and determines
+19 that:
+20 (1) Many Idahoans, especially veterans and first responders who have
+21 experienced job-related trauma, suffer from post-traumatic stress dis-
+22 order, depression, substance abuse disorder, traumatic brain injury, and
+23 other serious conditions that may not be adequately relieved with existing
+24 treatments;
+25 (2) Individuals who suffer from addiction to drugs or alcohol and for
+26 whom existing treatments are not providing relief may benefit from alterna-
+27 tive treatments;
+28 (3) Emerging research indicates that certain neuroplastogens may offer
+29 meaningful benefits to individuals who suffer from certain health con-
+30 ditions when delivered in a controlled clinical setting with appropriate
+31 screening, supervision, and follow-up care;
+32 (4) The national defense authorization act of 2024 allows states to
+33 partner with the secretary of war to study medicines such as psilocybin,
+34 MDMA, and ibogaine for treatment of serious behavioral health conditions;
+35 and
+36 (5) The department of war recently provided ten million dollars
+37 ($10,000,000) to study these emerging modalities.
+
+2
+1 39-6903. ESTABLISHMENT OF PILOT PROGRAM. (1) The purpose of this chap-
+2 ter is to establish a carefully regulated pilot program housed in the depart-
+3 ment of health and welfare.
+4 (2) The pilot program shall be designed to provide initial access lim-
+5 ited to veterans, first responders, and those suffering from addiction.
+6 (3) The pilot program shall be designed to:
+7 (a) Protect public health and safety through strong screening, profes-
+8 sional standards, and diversion control;
+9 (b) Improve access to emerging therapeutic options for Idaho veterans;
+10 and
+11 (c) Generate Idaho-specific safety outcomes data to inform future leg-
+12 islative action.
+13 (4) The pilot program shall be administered in a revenue-neutral man-
+14 ner. The program shall be funded primarily through program fees and volun-
+15 tary grants or donations and not by ongoing general fund appropriations un-
+16 less authorized by future legislation.
+17 (5) Participation in the pilot program shall be voluntary. Nothing in
+18 this chapter shall be construed to require any person to participate in the
+19 pilot program.
+20 (6) The legislature shall retain full authority to modify, expand,
+21 limit, or discontinue the pilot program established pursuant to this chap-
+22 ter.
+23 39-6904. DEFINITIONS. As used in this chapter:
+24 (1) "Approved medicine" means a neuroplastogen or entheogenic sub-
+25 stance authorized for use in the program. Approved medicines shall be
+26 limited to:
+27 (a) Psilocybin;
+28 (b) 3,4-methylenedioxymethamphetamine (MDMA);
+29 (c) Ibogaine; and
+30 (d) Such additional medicines, if any, as may be subsequently autho-
+31 rized by the legislature.
+32 (2) "Department" means the Idaho department of health and welfare.
+33 (3) "Eligible participant" means a person who:
+34 (a) Is twenty-one (21) years of age or older;
+35 (b) Is a resident of Idaho;
+36 (c) Has a qualifying condition; and
+37 (d) Has been screened and approved for participation in the program
+38 pursuant to department rule.
+39 (4) "Program" means the medical advanced healing act (MAHA) pilot pro-
+40 gram established pursuant to this chapter.
+41 (5) "Qualifying condition" means post-traumatic stress disorder, ma-
+42 jor depressive disorder, substance use disorder, or another serious behav-
+43 ioral health condition identified by department rule based on clinical evi-
+44 dence and the purposes of this chapter.
+45 39-6905. AUTHORIZED ACTIVITIES -- SAFETY REQUIREMENTS -- LIMITA-
+46 TIONS. (1) To the extent consistent with the provisions of this chapter and
+47 federal law, it shall be lawful:
+48 (a) To obtain, possess, store, and administer approved medicines; and
+
+3
+1 (b) For an eligible participant to possess and consume approved
+2 medicine during a supervised administration session pursuant to de-
+3 partment rule.
+4 (2) The department shall adopt rules to establish minimum safety stan-
+5 dards, including rules regarding:
+6 (a) Screening for medical and psychiatric contraindications;
+7 (b) Informed consent, including disclosure of material risks and al-
+8 ternatives;
+9 (c) Requirements for preparation and post-administration support ser-
+10 vices;
+11 (d) Minimum supervision requirements during administration sessions,
+12 including emergency procedures and referral pathways for higher-level
+13 care; and
+14 (e) Ethical standards and professional conduct requirements to prevent
+15 exploitation and abuse.
+16 (3) Approved medicines shall not be dispensed to a participant unless
+17 such participant is supervised. Unsupervised use shall be prohibited.
+18 (4) The department shall require secure storage, inventory controls,
+19 and recordkeeping sufficient to prevent diversion and to ensure account-
+20 ability.
+21 39-6906. LICENSING AND RULEMAKING. (1) The department shall promul-
+22 gate rules to implement and administer this chapter, including rules govern-
+23 ing:
+24 (a) Certification and training requirements;
+25 (b) Licensing standards, inspections, and security requirements;
+26 (c) Sourcing, testing, packaging, labeling, tracking, and disposal of
+27 approved medicines;
+28 (d) Participant eligibility, screening standards, and clinical proto-
+29 cols; and
+30 (e) Enforcement, including grounds for denial, suspension, and revoca-
+31 tion of licensure or certification.
+32 (2) In developing rules, the department shall consult with stakehold-
+33 ers. The department may coordinate with federal agencies.
+34 (3) The department may implement the program in phases and shall pri-
+35 oritize readiness and safety and adjust timelines by rule if necessary to
+36 safely operate the pilot program.
+37 39-6907. MAHA FUND. (1) There is hereby created in the state treasury
+38 the medical advanced healing act (MAHA) fund, which shall be administered by
+39 the department.
+40 (2) The department may establish reasonable fees by rule to support ad-
+41 ministration and oversight of the program, including licensing and renewal
+42 fees and a modest per-session program fee. All funds collected shall be de-
+43 posited into the MAHA fund for use by the program.
+44 (3) The department may accept payments, grants, gifts, or donations to
+45 support the program, including to subsidize participation by veterans, pro-
+46 vided that acceptance of such payments, grants, gifts, or donations does not
+47 create a conflict of interest or compromise program integrity. All funds
+48 collected shall be deposited into the MAHA fund for use by the MAHA program.
+
+4
+1 (4) Moneys in the fund shall be used only for purposes of implementing,
+2 administering, and enforcing this chapter, subject to appropriation by the
+3 legislature.
+4 (5) The state treasurer shall invest the idle moneys of the MAHA fund,
+5 and the interest earned on such investments shall be retained by the MAHA
+6 fund.
+7 39-6908. DATA COLLECTION AND REPORTING. (1) The department shall col-
+8 lect de-identified program data sufficient to evaluate safety, outcomes,
+9 and program integrity.
+10 (2) Beginning one (1) year after the program commences services, and
+11 annually thereafter, the department shall report to the governor and germane
+12 committees of the legislature regarding:
+13 (a) The number of individuals served and general characteristics of
+14 participants;
+15 (b) The number and types of sessions conducted;
+16 (c) Aggregate safety outcomes;
+17 (d) Observed changes in clinical outcomes as available and appropri-
+18 ate; and
+19 (e) Program finances and fees.
+20 (3) The department's report may include recommendations for improving
+21 or expanding the program, including any proposed statutory changes.
+22 (4) The department's report to the legislature shall be provided pur-
+23 suant to the provisions of sections 67-466 and 67-705, Idaho Code.
+24 39-6909. LEGISLATIVE APPROVAL OF RULES. All rules established pur-
+25 suant to this chapter shall be subject to legislative approval.
+26 SECTION 2. SEVERABILITY. The provisions of this act are hereby declared
+27 to be severable and if any provision of this act or the application of such
+28 provision to any person or circumstance is declared invalid for any reason,
+29 such declaration shall not affect the validity of the remaining portions of
+30 this act.
+31 SECTION 3. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after its
+33 passage and approval.

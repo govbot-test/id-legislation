@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 520
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO ADMINISTRATIVE PROCEDURE ACT; AMENDING SECTION
+3 67-5242, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING HEARING NOTICES
+4 AND TO REVISE A PROVISION REGARDING PROCEDURE AT A HEARING; PROVIDING
+5 SEVERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 67-5242, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 67-5242. HEARING NOTICES AND PROCEDURE AT HEARING. (1) When an agency
+11 gives a person notice of an opportunity for a contested case hearing for
+12 which the person is entitled to notice by law, the notice shall:
+13 (a) Be in writing;
+14 (b) Set forth the agency action being taken;
+15 (c) Identify the agency statute or rule authorizing the action;
+16 (d) Inform the person of the right, procedure, and time limit to file a
+17 request for hearing; and
+18 (e) Provide citation to any agency rules and procedures governing the
+19 contested case hearing.
+20 (1) (2) In a contested case other than an emergency proceeding Other
+21 than emergency proceedings held pursuant to section 62-5247, Idaho Code, all
+22 parties to a contested case hearing shall receive notice that shall include:
+23 (a) A statement of the time, place, and nature of the hearing;
+24 (b) A statement of the legal authority under which the hearing is to be
+25 held; and
+26 (c) A short and plain statement of the matters asserted or the issues
+27 involved.
+28 (2) (3) At the hearing, the presiding officer:
+29 (a) Shall regulate the course of the proceedings to assure that there
+30 is a full disclosure of all relevant facts and issues, including such
+31 cross-examination as may be necessary.
+32 (b) Shall afford all parties the opportunity to respond and present ev-
+33 idence and argument on all issues involved, except as restricted by a
+34 limited grant of intervention or by a prehearing order.
+35 (c) May give nonparties an opportunity to present oral or written
+36 statements. If the presiding officer proposes to consider a statement
+37 by a nonparty, the presiding officer shall give all parties an opportu-
+38 nity to challenge or rebut it and, on motion of any party, the presiding
+39 officer shall require the statement to be given under oath or affirma-
+40 tion.
+41 (d) Shall cause the hearing to be recorded at the agency's expense. Any
+42 party, at that party's expense, may have a transcript prepared or may
+
+2
+1 cause additional recordings to be made during the hearing if the making
+2 of the additional recording does not cause distraction or disruption.
+3 (e) May conduct all or part of the hearing by telephone, video confer-
+4 ence, or other electronic means, if each participant in the hearing has
+5 an opportunity to participate in the entire proceeding while it is tak-
+6 ing place.
+7 SECTION 2. SEVERABILITY. The provisions of this act are hereby declared
+8 to be severable and if any provision of this act or the application of such
+9 provision to any person or circumstance is declared invalid for any reason,
+10 such declaration shall not affect the validity of the remaining portions of
+11 this act.
+12 SECTION 3. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2026.

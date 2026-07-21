@@ -1,0 +1,431 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1398
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 33-2715, IDAHO CODE, TO REVISE AN
+3 ELECTION DATE; AMENDING SECTION 34-102, IDAHO CODE, TO REVISE A DEFI-
+4 NITION AND TO REVISE PROVISIONS REGARDING PURPOSES; AMENDING SECTION
+5 34-106, IDAHO CODE, TO REVISE A PROVISION REGARDING LIMITATION ON ELEC-
+6 TIONS; AMENDING SECTION 34-601, IDAHO CODE, TO REVISE AN ELECTION DATE;
+7 AMENDING SECTION 34-606, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE
+8 ELECTION OF PRESIDENTIAL ELECTORS AND NOMINATION FOR PRESIDENT; AMEND-
+9 ING SECTION 34-703, IDAHO CODE, TO ESTABLISH A PROVISION REGARDING NOM-
+10 INATION AT PRIMARY; AMENDING CHAPTER 7, TITLE 34, IDAHO CODE, BY THE AD-
+11 DITION OF A NEW SECTION 34-718, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+12 GARDING PRESIDENTIAL PRIMARIES; AMENDING SECTION 34-1214, IDAHO CODE,
+13 TO ESTABLISH A PROVISION REGARDING CERTIFICATES OF NOMINATION OR ELEC-
+14 TION TO A CERTAIN FEDERAL OFFICE; AMENDING SECTION 39-1330, IDAHO CODE,
+15 TO REVISE AN ELECTION DATE AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+16 SECTION 40-1305, IDAHO CODE, TO REVISE AN ELECTION DATE; AMENDING SEC-
+17 TION 42-3211, IDAHO CODE, TO REVISE AN ELECTION DATE; AMENDING SECTION
+18 50-405, IDAHO CODE, TO REVISE ELECTION DATES; AMENDING SECTION 67-4911,
+19 IDAHO CODE, TO REVISE AN ELECTION DATE; AND DECLARING AN EMERGENCY AND
+20 PROVIDING AN EFFECTIVE DATE.
+21 Be It Enacted by the Legislature of the State of Idaho:
+22 SECTION 1. That Section 33-2715, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 33-2715. BOARD OF TRUSTEES -- SELECTION -- NUMBER -- QUALIFICATIONS --
+25 TERM -- OATH -- APPOINTMENT OF FIRST BOARD. (1) Each library district shall
+26 be governed by a board of trustees of five (5) members elected or appointed as
+27 provided by law, who at the time of their selection and during their terms of
+28 office shall be qualified electors of the district and if trustee zones have
+29 been established under section 33-2718, Idaho Code, shall be a resident of
+30 the trustee zone. Trustees shall be elected at each trustee election, held
+31 on the uniform election date in May date provided in section 34-106(1)(a),
+32 Idaho Code. The regular term of a trustee shall be for four (4) years, or un-
+33 til his successor has been elected and qualified. Within ten (10) days af-
+34 ter his appointment an appointed trustee shall qualify and assume the duties
+35 of his office. An elected trustee shall qualify and assume the duties of his
+36 office at the annual meeting. All trustees qualify by taking the oath of of-
+37 fice required of state officers, to be administered by one (1) of the present
+38 trustees or by a trustee retiring.
+39 (2) Following the initial establishment of a library district, the
+40 board of county commissioners of the home county within five (5) days shall
+41 appoint the members of the first board of trustees, who shall serve until the
+42 next election of trustees held in an odd-numbered year or until their succes-
+
+2
+1 sors are elected and qualified in an odd-numbered year. The initial election
+2 of three (3) trustees shall be for terms of two (2) years, and subsequent reg-
+3 ular terms shall be for four (4) years. The initial and subsequent election
+4 of two (2) trustees shall be for terms of four (4) years. Addition of new
+5 territory to an existing library district shall not be considered an initial
+6 establishment. The first board of trustees shall be sworn by a member of the
+7 board of county commissioners of the home county of the district.
+8 (3) At its first meeting, and after each trustee election, the board
+9 shall organize and elect from its membership a chairman and other officers
+10 necessary to conduct the affairs of the district.
+11 (4) Members of the board shall serve without salary but shall receive
+12 their actual and necessary expenses while engaged in business of the dis-
+13 trict.
+14 (5) For the purpose of achieving an orderly transition from terms of six
+15 (6) years to terms of four (4) years, the following schedule shall be fol-
+16 lowed:
+17 (a) Trustees elected in 2023 or earlier shall serve the remainder of the
+18 regular six (6) year term for which they were most recently elected; and
+19 (b) Trustees elected in 2025 or later shall serve regular terms of four
+20 (4) years.
+21 SECTION 2. That Section 34-102, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 34-102. "PRIMARY ELECTION" DEFINED -- PURPOSES. "Primary election"
+24 means an election held for the purpose of nominating persons as candidates of
+25 political parties for election to offices, and for the purpose of electing
+26 persons as members of the controlling committees of political parties, and
+27 for the purpose of allowing voters to express their preference of candidate
+28 for nomination by a political party for president of the United States.
+29 Primary elections shall be held on the third Tuesday of May date provided in
+30 section 34-106(1)(a), Idaho Code, in each even-numbered year.
+31 SECTION 3. That Section 34-106, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 34-106. LIMITATION ON ELECTIONS. On and after January 1, 2011,
+34 notwithstanding any other provisions of the law to the contrary, there shall
+35 be no more than two (2) elections conducted in any county in any calendar
+36 year, except as provided in this section or section 34-220, Idaho Code, and
+37 except that elections to fill vacancies in the United States house of repre-
+38 sentatives shall be held as provided in the governor's proclamation.
+39 (1) The dates on which elections may be conducted are:
+40 (a) The third Tuesday following the first Monday in May of each year;
+41 and
+42 (b) The Tuesday following the first Monday in November of each year.
+43 (c) In addition to the elections specified in paragraphs (a) and (b) of
+44 this subsection and subsection (7) of this section, an emergency elec-
+45 tion may be called upon motion of the governing board of a political sub-
+46 division. An emergency exists when there is a great public calamity,
+47 such as an extraordinary fire, flood, storm, epidemic, or other disas-
+
+3
+1 ter, or when it is necessary to do emergency work to prepare for national
+2 or local defense or to safeguard life, health or property.
+3 (2) Candidates for office elected in May shall take office on the date
+4 specified in the certificate of election but not more than sixty (60) days
+5 following the election.
+6 (3) Candidates for office elected in November shall take office as pro-
+7 vided in the constitution or on January 1 next succeeding the November elec-
+8 tion.
+9 (4) The governing board of each political subdivision subject to the
+10 provisions of this section that, prior to January 1, 2011, conducted an elec-
+11 tion for members of that governing board on a date other than a date permit-
+12 ted in subsection (1) of this section shall establish as the election date
+13 for that political subdivision the date authorized in subsection (1) of this
+14 section that falls nearest the date on which elections were previously con-
+15 ducted, unless another date is established by law.
+16 (5) The secretary of state is authorized to provide such assistance as
+17 necessary and to prescribe any needed rules or interpretations for the con-
+18 duct of an election authorized under the provisions of this section.
+19 (6) Water districts governed by chapter 6, title 42, Idaho Code, are ex-
+20 empt from the provisions of this section.
+21 (7) Community colleges governed by chapter 21, title 33, Idaho Code,
+22 and school districts are subject to the limitations specified in subsection
+23 (1) of this section.
+24 (8) A city initiative or referendum election shall be held on the Tues-
+25 day following the first Monday in November of odd-numbered years. A county
+26 initiative or referendum election or a bond, levy or other ballot question
+27 election conducted by any political subdivision shall be held on the nearest
+28 date authorized in subsection (1) of this section as long as the ballot lan-
+29 guage for any question to be placed on the ballot is submitted to the county
+30 clerk no later than 5:00 p.m. on the tenth Friday before the election.
+31 (9) Recall elections may be held on any of the dates authorized in sub-
+32 section (1) of this section as long as the recall petition is certified no
+33 later than the tenth Friday before the next scheduled election.
+34 (10) Irrigation districts governed by title 43, Idaho Code, are subject
+35 to the limitations specified in subsection (1) of this section, except that
+36 irrigation districts may also hold an election on the first Tuesday in Febru-
+37 ary of each year and on the first Tuesday in August of each year on questions
+38 required to be voted on by title 43, Idaho Code.
+39 SECTION 4. That Section 34-601, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 34-601. DATES ON WHICH ELECTIONS SHALL BE HELD. Elections shall be
+42 held in this state on the following dates or times:
+43 (1) A primary election shall be held on the third Tuesday in May, 2012
+44 following the first Monday in May, and every two (2) years thereafter on the
+45 above-mentioned Tuesday.
+46 (2) A general election shall be held on the first Tuesday after the
+47 first Monday of November, 2012, and every two (2) years thereafter on the
+48 above-mentioned Tuesday.
+
+4
+1 (3) Special state elections shall be held on the dates ordered by the
+2 governor's proclamation, or as otherwise provided by law.
+3 SECTION 5. That Section 34-606, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 34-606. ELECTION OF PRESIDENTIAL ELECTORS -- NOMINATION FOR PRESI-
+6 DENT. (1) At the general election, 1972, and every four (4) years thereafter,
+7 there shall be elected such a number of electors of president and vice pres-
+8 ident of the United States as the state may be entitled to in the electoral
+9 college.
+10 (2) No person shall be elected to this position unless he has attained
+11 the age of twenty-one (21) years at the time of the election, is a citizen of
+12 the United States and shall have resided within the state two (2) years next
+13 preceding his election.
+14 (3) Such electors shall be certified to the secretary of state as pro-
+15 vided for by law.
+16 (4) Any candidate for a political party participating in the nomination
+17 for president of the United States at the primary election shall file a dec-
+18 laration of candidacy with the secretary of state and pay a filing fee of one
+19 thousand dollars ($1,000) within the time period provided in section 34-704,
+20 Idaho Code. Such filing fee shall be deposited in the general fund.
+21 SECTION 6. That Section 34-703, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 34-703. NOMINATION AT PRIMARY. (1) All political party candidates for
+24 president of the United States, for United States senator and representative
+25 in congress, and for all political party candidates for elective state, dis-
+26 trict and county offices, except candidates for judicial office, at general
+27 elections shall be nominated at the primary elections, or shall have their
+28 names placed on the general election ballot as provided by law, and shall
+29 comply with the provisions of this act.
+30 (2) All candidates for judicial office shall be nominated or elected at
+31 the primary election, as provided by section 34-1217, Idaho Code.
+32 (3) Independent candidates shall not be voted on at primary elections.
+33 SECTION 7. That Chapter 7, Title 34, Idaho Code, be, and the same is
+34 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+35 ignated as Section 34-718, Idaho Code, and to read as follows:
+36 34-718. PRESIDENTIAL PRIMARY. (1) In years in which a president of the
+37 United States is to be nominated and elected, a presidential primary shall be
+38 held at which voters may express their choice of candidate for nomination by
+39 a political party for president. The presidential primary shall be held on
+40 the date provided in section 34-106(1)(a), Idaho Code, in each presidential
+41 election year.
+42 (2) Participation in a presidential primary by a political party shall
+43 be optional, and nothing in this chapter shall be construed as mandating a
+44 party's participation in a presidential primary. Any party that intends to
+45 participate in a presidential primary shall notify the secretary of state's
+
+5
+1 office no later than the last Tuesday in November prior to the presidential
+2 primary.
+3 SECTION 8. That Section 34-1214, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 34-1214. CERTIFICATES OF NOMINATION OR ELECTION TO FEDERAL, STATE,
+6 DISTRICT OR NONPARTISAN OFFICES AFTER PRIMARY. (1) Immediately after the
+7 primary election canvass, the secretary of state shall issue certificates
+8 of nomination to the political party candidates of each party who receive
+9 the highest number of votes for their particular federal, state or district
+10 office. The candidates so certified shall have their names placed on the
+11 general election ballot.
+12 (2) Immediately after the primary election canvass in a presidential
+13 election year, the secretary of state shall certify to the state chair of
+14 each political party the number of votes received by that party's candidates
+15 for president of the United States. A winner shall be declared as prescribed
+16 by rule of the state and national party.
+17 (2) (3) Immediately after the primary election canvass, the secretary
+18 of state shall issue certificates of nomination to the nonpartisan candi-
+19 date or candidates who receive the highest number of votes for the number
+20 of vacancies which are to be filled for a particular office and also to the
+21 same number of candidates who receive the second highest number of votes for
+22 the particular office. The candidates so certified shall have their names
+23 placed on the general election ballot. If it appears from the canvass that a
+24 particular candidate has received a majority of the total vote cast for the
+25 particular office, he shall be issued a certificate of election instead of a
+26 certificate of nomination and no candidates shall run for the particular of-
+27 fice in the general election.
+28 SECTION 9. That Section 39-1330, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 39-1330. BIENNIAL ELECTION OF BOARD MEMBERS -- TERMS OF OFFICE. On the
+31 third Tuesday of May date provided in section 34-106(1)(a), Idaho Code, in
+32 the next odd-numbered calendar year after the organization of any district,
+33 and on the third Tuesday of May the date provided in section 34-106(1)(a),
+34 Idaho Code, every second year thereafter, an election shall be held, which
+35 shall be known as the biennial election of the district.
+36 At the first biennial election in any district hereafter organized and
+37 each sixth year thereafter, there shall be elected by the qualified electors
+38 of the district three (3) members of the board to serve for a term of six (6)
+39 years; at the second biennial election and each sixth year thereafter, there
+40 shall be elected two (2) members of the board to serve for a term of six (6)
+41 years; at the third biennial election and each sixth year thereafter, there
+42 shall be elected two (2) members of the board to serve for terms a term of six
+43 (6) years.
+44 The county clerk shall provide for holding such elections and shall ap-
+45 point judges to conduct them; the county clerk shall give notice of election
+46 by publication and shall arrange such other details in connection therewith
+47 as the board may direct. The returns of the election shall be certified
+
+6
+1 to and shall be canvassed and declared by the board of county commission-
+2 ers. The candidate or candidates, according to the number of trustees to be
+3 elected, receiving the most votes shall be elected. Any new member of the
+4 board shall qualify in the same manner as members of the first board qualify.
+5 In any election for trustee, if after the deadline for filing a declara-
+6 tion of intent as a write-in candidate it appears that only one (1) qualified
+7 candidate has been nominated for a trustee's position, it shall not be neces-
+8 sary for the candidate to stand for election, and the board of trustees of the
+9 district shall declare such candidate elected as a trustee, and the secre-
+10 tary of the board of the district shall immediately make and deliver to such
+11 person a certificate of election.
+12 For the purpose of achieving an orderly transition to a term of six (6)
+13 years and to hold trustee elections in odd-numbered years, the following
+14 schedule shall be followed:
+15 (a) For trustees elected in 2005, their terms shall expire in 2011 and
+16 the terms for each of those elected in 2011 shall be six (6) years and
+17 thereafter those terms shall be for six (6) years;
+18 (b) For trustees elected in 2006, their terms shall expire in 2013 and
+19 the terms for each of those elected in 2013 shall be six (6) years and
+20 thereafter those terms shall be for six (6) years;
+21 (c) For trustees elected in 2007, their terms shall expire in 2013 and
+22 the terms for each of those elected in 2013 shall be six (6) years and
+23 thereafter those terms shall be for six (6) years;
+24 (d) For trustees elected in 2008, their terms shall expire in 2015 and
+25 the terms for each of those elected in 2015 shall be six (6) years and
+26 thereafter those terms shall be for six (6) years;
+27 (e) For trustees elected in 2009, their terms shall expire in 2015 and
+28 the terms for each of those elected in 2015 shall be six (6) years and
+29 thereafter those terms shall be for six (6) years;
+30 (f) For trustees elected in 2010, their terms shall expire in 2017 and
+31 the terms for each of those elected in 2017 shall be six (6) years and
+32 thereafter those terms shall be for six (6) years.
+33 SECTION 10. That Section 40-1305, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 40-1305. ELECTION OF HIGHWAY COMMISSIONERS -- TERM OF OFFICE. (1) On
+36 the third Tuesday of May date provided in section 34-106(1)(a), Idaho Code,
+37 of the next odd-numbered year following the appointment of the first highway
+38 district commissioners, commissioners from subdistricts one and two shall
+39 be elected for a term of two (2) years and the commissioner from subdistrict
+40 three shall be elected for a term of four (4) years. Thereafter the term of
+41 office of all commissioners shall be four (4) years.
+42 (2) A highway district whose terms and election were established by
+43 prior law shall convert to the election of commissioners as provided in sub-
+44 section (1) of this section.
+45 Each highway commissioner shall be elected on a districtwide basis.
+46 SECTION 11. That Section 42-3211, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+
+7
+1 42-3211. ELECTIONS -- TERMS OF OFFICE. (1) On the third Tuesday in May
+2 date provided in section 34-106(1)(a), Idaho Code, in the first odd-numbered
+3 year after the organization of any district, and on the third Tuesday in May
+4 date provided in section 34-106(1)(a), Idaho Code, every second year there-
+5 after, an election shall be held, which shall be known as the biennial elec-
+6 tion of the district. Such election shall be held and conducted consistent
+7 with the provisions of chapter 14, title 34, Idaho Code.
+8 (2) In districts created under section 42-3202B, Idaho Code, biennial
+9 elections shall be held on the third Tuesday in May date provided in section
+10 34-106(1)(a), Idaho Code.
+11 (3) At the first biennial election in any district hereafter organized,
+12 and each sixth year thereafter, there shall be elected by the qualified elec-
+13 tors of the district, one (1) member of the board to serve for a term of six
+14 (6) years; at the second biennial election and each sixth year thereafter,
+15 there shall be elected two (2) members of the board to serve for terms of six
+16 (6) years, and at the third biennial election, and each sixth year there-
+17 after, there shall be elected two (2) members of the board to serve for terms
+18 of six (6) years.
+19 In any election for director, if after the deadline for filing a decla-
+20 ration of intent as a write-in candidate, it appears that the number of qual-
+21 ified candidates who have been nominated is equal to the number of directors
+22 to be elected, it shall not be necessary for the candidates to stand for elec-
+23 tion, and the board of directors shall declare such candidates elected as
+24 directors, and the secretary of the district shall immediately make and de-
+25 liver to such persons certificates of election signed by him and bearing the
+26 seal of the district.
+27 SECTION 12. That Section 50-405, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 50-405. GENERAL AND SPECIAL CITY ELECTIONS. (1) A general election
+30 shall be held in each city governed by this title, for officials as in this
+31 title provided, on the Tuesday following the first Monday of November date
+32 provided in section 34-106(1)(b), Idaho Code, in each odd-numbered year.
+33 All such officials shall be elected and hold their respective offices for the
+34 term specified and until their successors are elected and qualified. All
+35 other city elections that may be held under authority of general law shall be
+36 known as special city elections.
+37 (2)(a) No city with a population of less than one hundred thousand
+38 (100,000) shall hold a city election for an office if, after the dead-
+39 line for filing a declaration of intent to be a write-in candidate for
+40 the office, it appears:
+41 (i) For the office of mayor, only one (1) person has filed a dec-
+42 laration of candidacy or a declaration of intent to be a write-in
+43 candidate;
+44 (ii) For the office of city council member in cities that have es-
+45 tablished designated seats, as provided in section 50-707, Idaho
+46 Code, only one (1) person has filed a declaration of candidacy or a
+47 declaration of intent to be a write-in candidate for a particular
+48 seat up for election for a two (2) year term or a four (4) year term;
+49 or
+
+8
+1 (iii) For the office of city council member in cities that do not
+2 have designated council seats as provided in section 50-707, Idaho
+3 Code, the number of people who have filed a declaration of candi-
+4 dacy or a declaration of intent to be a write-in candidate is equal
+5 to or fewer than the number of council positions up for election
+6 for a two (2) year term or a four (4) year term.
+7 (b) If the provisions of paragraph (a) of this subsection have been
+8 met, the city clerk shall declare such candidate elected. The candidate
+9 shall receive a certificate of election and be installed at the first
+10 city council meeting in January following the election.
+11 (3) On and after January 1, 2011, notwithstanding any other provisions
+12 of law to the contrary, there shall be no more than two (2) elections con-
+13 ducted in any city in any calendar year, except as provided in this section.
+14 (4) The dates on which elections may be conducted are:
+15 (a) The third Tuesday in May date provided in section 34-106(1)(a),
+16 Idaho Code, of each year; and
+17 (b) The Tuesday following the first Monday in November date provided in
+18 section 34-106(1)(b), Idaho Code, of each year.
+19 (c) In addition to the elections specified in paragraphs (a) and (b) of
+20 this subsection, an emergency election may be called upon motion of the
+21 city council of a city. An emergency exists when there is a great pub-
+22 lic calamity, such as an extraordinary fire, flood, storm, epidemic or
+23 other disaster, or if it is necessary to do emergency work to prepare for
+24 a national or local defense, or if it is necessary to do emergency work
+25 to safeguard life, health or property.
+26 (5) Pursuant to section 34-1401, Idaho Code, all city elections shall
+27 be conducted by the county clerk of the county wherein the city lies, and
+28 elections shall be administered in accordance with the provisions of title
+29 34, Idaho Code, except as those provisions are specifically modified by the
+30 provisions of this chapter. After an election has been ordered, all expenses
+31 associated with conducting city general and special elections shall be paid
+32 from the county election fund as provided by section 34-1411, Idaho Code.
+33 Expenses associated with conducting runoff elections shall be paid by the
+34 city adopting runoff elections pursuant to the provisions of section 50-612
+35 or 50-707B, Idaho Code, or both.
+36 (6) The secretary of state is authorized to provide such assistance as
+37 necessary and to prescribe any needed rules or interpretations for the con-
+38 duct of elections authorized under the provisions of this section.
+39 SECTION 13. That Section 67-4911, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 67-4911. ELECTIONS -- TERMS OF OFFICE. (1) On an the election date as
+42 provided for in section 34-106(1)(a), Idaho Code, in May of the first odd-
+43 numbered year after the organization of any district, and every second year
+44 thereafter, an election shall be held, which shall be known as the biennial
+45 election of the district.
+46 (2) At the first biennial election in any district hereafter organized,
+47 and each sixth year thereafter, there shall be elected by the qualified elec-
+48 tors of the district, one (1) member of the board to serve for a term of six
+49 (6) years; at the second biennial election and each sixth year thereafter,
+
+9
+1 there shall be elected two (2) members of the board to serve for terms of six
+2 (6) years, and at the third biennial election, and each sixth year there-
+3 after, there shall be elected two (2) members of the board to serve for terms
+4 of six (6) years. Provided, a member of the board once in office shall serve
+5 until his successor is elected, qualified and takes office.
+6 (3) Nominations may be filed during the time period provided in section
+7 34-1404, Idaho Code. The county clerk shall provide for holding such elec-
+8 tion and shall appoint judges to conduct it. The county clerk shall give no-
+9 tice of election by publication, and shall arrange such other details in con-
+10 nection therewith. Adequate polling places shall be provided throughout the
+11 district boundaries for all elections.
+12 (4) The returns of the election shall be certified to and shall be
+13 canvassed and declared by the board of county commissioners which shall
+14 report the results to the district. The candidate or candidates, according
+15 to the number of directors to be elected, receiving the most votes, shall
+16 be elected. Any new member of the board shall qualify in the same manner as
+17 members of the first board qualify.
+18 (5) In any election for director, if after the deadline for filing a
+19 declaration of intent as a write-in candidate it appears that the number of
+20 qualified candidates who have been nominated is equal to the number of di-
+21 rectors to be elected, it shall not be necessary for the candidates to stand
+22 for election and the board shall declare such candidates elected as direc-
+23 tors and the secretary of the board shall immediately make and deliver to
+24 such persons certificates of election signed by him and bearing the seal of
+25 the district.
+26 SECTION 14. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

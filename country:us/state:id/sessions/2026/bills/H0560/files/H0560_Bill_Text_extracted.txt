@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 560
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO JURIES; AMENDING SECTION 2-211, IDAHO CODE, TO PROVIDE AN EXEMP-
+3 TION TO JURY SERVICE; AMENDING SECTION 2-212, IDAHO CODE, TO PROVIDE FOR
+4 VOLUNTEER ELECTION SERVICE IN LIEU OF JURY SERVICE AND TO MAKE A TECHNI-
+5 CAL CORRECTION; AMENDING SECTION 34-303, IDAHO CODE, TO PROVIDE AN EX-
+6 CEPTION TO CERTAIN COMPENSATION REQUIREMENTS FOR ELECTION PERSONNEL;
+7 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 2-211, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 2-211. NO EXEMPTIONS. No exemptions for any qualified prospective ju-
+12 ror may be granted, except as provided in section 2-212(4), Idaho Code.
+13 SECTION 2. That Section 2-212, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 2-212. EXCUSING OR POSTPONING JURY SERVICE -- INQUIRY BY COURT --
+16 GROUNDS FOR EXCUSING OR POSTPONING -- VOLUNTEER ELECTION SERVICE IN LIEU OF
+17 JURY SERVICE. (1) The court, or a member of the jury commission designated
+18 by the court, upon request of a prospective juror or on its own initiative,
+19 shall determine on the basis of information provided on the qualification
+20 questionnaire form or interview with the prospective juror or other com-
+21 petent evidence whether the prospective juror should be excused from jury
+22 service or have their jury service postponed. The clerk or the jury commis-
+23 sioner shall keep a record of this determination.
+24 (2) A person who is seventy (70) years of age or older shall be perma-
+25 nently excused if the person indicates on the qualification questionnaire
+26 form that he or she wishes to be excused. A person who requests to be ex-
+27 cused on this basis shall be reinstated to the county jury list by submitting
+28 a written request asking to be reinstated for jury service.
+29 (3) A person who is not disqualified for jury service under section
+30 2-209, Idaho Code, may have jury service postponed by the court or the jury
+31 commissioner only upon a showing of undue hardship, extreme inconvenience,
+32 or public necessity, or upon a showing that the juror is a mother breastfeed-
+33 ing her child.
+34 (a) Any person requesting a postponement shall provide a written state-
+35 ment setting forth the reason for the request and the anticipated date
+36 that the reason will no longer exist.
+37 (b) The court or the jury commissioner may require a person requesting a
+38 postponement for any medical reason to provide a statement from a medi-
+39 cal provider supporting the request.
+
+2
+1 (c) The postponement, if granted, shall be for a period of time as the
+2 court or the jury commissioner deems necessary, at the conclusion of
+3 which the person shall reappear for jury service in accordance with the
+4 direction of the court or the jury commissioner.
+5 (4)(a) If the county clerk determines that there is a shortage of elec-
+6 tion personnel necessary to facilitate the operations of an upcoming
+7 county-run election, the county clerk may submit a request to the jury
+8 commission and the court to offer prospective jurors who request to be
+9 excused from jury service, or for a postponement of jury service, pur-
+10 suant to subsections (2) and (3) of this section, the opportunity to
+11 volunteer for election service as poll workers in the next county-run
+12 election in lieu of jury service. The county clerk's request shall
+13 specify the number of volunteer positions required, as well as the dates
+14 and times when such volunteers will need to be available.
+15 (b) If a request is made by a county clerk pursuant to paragraph (a)
+16 of this subsection, the court may offer to prospective jurors who
+17 have grounds to be excused from jury service or to have jury service
+18 postponed the opportunity to serve as volunteer poll workers in accor-
+19 dance with the county clerk's specified needs. The volunteer election
+20 service in lieu of jury service provided in this subsection shall be
+21 granted only for the number of positions requested by the county clerk
+22 and at the discretion of the court.
+23 (c) If a prospective juror accepts the volunteer election service op-
+24 portunity pursuant to this subsection and completes such service in a
+25 manner acceptable to the county clerk, the prospective juror shall be
+26 excused from jury service for the next two (2) years. The county clerk
+27 shall furnish to the jury commission the names of each prospective ju-
+28 ror who accepted the election service in lieu of jury service provided
+29 in this subsection and shall indicate whether such prospective juror
+30 completed the election service. A prospective juror who accepts the
+31 election service pursuant to this subsection, but fails to complete the
+32 election service shall be reinstated to the county jury list.
+33 SECTION 3. That Section 34-303, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 34-303. APPOINTMENT OF ELECTION JUDGES BY COUNTY CLERK. (1) The
+36 county clerk shall appoint two (2) or more election judges, one (1) of whom
+37 shall be designated chief judge, and the number of clerks deemed necessary by
+38 him for each polling place. In the event a single polling place is designated
+39 for two (2) or more precincts, an individual may serve simultaneously on the
+40 election board for two (2) or more precincts thus served by a single polling
+41 place. The precinct committeemen shall recommend persons for the position
+42 in their respective precincts to the county clerk in writing by the fifth
+43 Friday prior to the primary election and the county clerk shall appoint the
+44 judges from such lists if the persons recommended are qualified.
+45 (2) The chief election judge shall be responsible for the conduct of the
+46 proceedings in the polling place. Compensation for all election personnel
+47 shall be determined by the board of county commissioners at no less than the
+48 minimum wage as prescribed by the laws of the state of Idaho, except for per-
+
+3
+1 sonnel volunteering for election service pursuant to section 2-212, Idaho
+2 Code.
+3 (3) Each election board shall contain personnel representing all ex-
+4 isting political parties if a list of applicants has been provided to the
+5 county clerk by the precinct committeemen of the precincts by the prescribed
+6 deadline.
+7 (4) In order to provide for a greater awareness of the election process,
+8 the rights and responsibilities of voters and the importance of participat-
+9 ing in the electoral process, as well as to provide additional members of
+10 precinct boards, a county clerk may appoint not more than two (2) students
+11 per precinct to serve under the direct supervision of election board members
+12 designated by the county clerk. A student may be appointed, notwithstanding
+13 lack of eligibility to vote, if the student possesses the following qualifi-
+14 cations:
+15 (a) Is at least sixteen (16) years of age at the time of the election for
+16 which he or she is serving as a member of an election board; and
+17 (b) Is a citizen of the United States.
+18 SECTION 4. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after
+20 July 1, 2026.

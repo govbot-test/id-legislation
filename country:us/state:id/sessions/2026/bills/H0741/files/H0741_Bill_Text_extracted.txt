@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 741
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 52, TITLE 33, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 33-5207A, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING EARNED AUTONOMY FOR PUBLIC CHARTER SCHOOLS; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 52, Title 33, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 33-5207A, Idaho Code, and to read as follows:
+10 33-5207A. PUBLIC CHARTER SCHOOL EARNED AUTONOMY. (1) Notwithstanding
+11 any provision of law to the contrary, a public charter school that is not a
+12 virtual school, as defined in section 33-5202A, Idaho Code, and that sat-
+13 isfies the requirements set forth in section 33-5218(2)(b), (e), and (g),
+14 Idaho Code, may spend its allocated state funding, including but not limited
+15 to discretionary funds, categorical funds, and salary apportionment, in the
+16 manner it deems best serves students and the public charter school. Partici-
+17 pation shall not require a revision to the public charter school's charter or
+18 performance certificate.
+19 (2) State funding for participating public charter schools shall be
+20 based on each school's per-pupil funding in the prior fiscal year, adjusted
+21 to account for changes in statewide education funding and changes in the
+22 school's population in the subsequent year, by multiplying the total state
+23 funding allocated to the public charter school per-pupil in the prior fiscal
+24 year by the year-over-year change. To determine the year-over-year change:
+25 (a) Divide the prior fiscal year's total state funds by the prior fiscal
+26 year's support units;
+27 (b) Divide the subsequent fiscal year's total state funds by the subse-
+28 quent fiscal year's support units; and
+29 (c) Calculate the difference between the results of paragraphs (a) and
+30 (b) of this subsection.
+31 (3) Participating public charter schools shall be exempt from the re-
+32 porting requirements, including reporting requirements established through
+33 rulemaking authority, pursuant to sections 33-119, 33-1002, 33-1002B,
+34 33-1004E, 33-1007, 33-1405, 33-1805, 33-1811, and 33-2004, Idaho Code,
+35 without incurring a penalty or a reduction in funding.
+36 (4) Participating public charter schools shall automatically maintain
+37 spending flexibility from year to year, except that the state department of
+38 education may revoke eligibility if:
+39 (a) The school fails to receive an annual unmodified audit opinion or if
+40 the auditor's report on internal controls reports one (1) or more mate-
+41 rial weaknesses or significant deficiencies;
+
+2
+1 (b) The school fails to satisfy the academic requirements set forth in
+2 section 33-5218(2)(g), Idaho Code, for two (2) or more years; or
+3 (c) The school's charter is subsequently revoked, not renewed, or re-
+4 newed with conditions.
+5 (5) Teachers who transition from a participating public charter school
+6 to another public school shall be considered to have advanced along the ca-
+7 reer ladder for each year of work at the participating school.
+8 (6) In 2029, the state board of education shall report to the legis-
+9 lature the number of participating schools and changes, if any, in student
+10 growth or proficiency on the Idaho standards achievement test.
+11 (7) Nothing in this section shall impact the appropriation of federal
+12 and dedicated funds. State funding for public charter schools that are not
+13 participants in the spending flexibility provided in this section shall
+14 continue to be calculated and allocated pursuant to section 33-5207, Idaho
+15 Code.
+16 SECTION 2. An emergency existing therefor, which emergency is hereby
+17 declared to exist, this act shall be in full force and effect on and after
+18 July 1, 2026.

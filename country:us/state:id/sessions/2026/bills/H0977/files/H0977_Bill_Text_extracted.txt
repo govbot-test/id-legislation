@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 977
+BY HOSTETLER
+1 AN ACT
+2 RELATING TO CLOUD SEEDING; AMENDING SECTION 42-4301, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING CLOUD SEEDING; AND DECLARING AN EMERGENCY AND PRO-
+4 VIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 42-4301, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 42-4301. CLOUD SEEDING. (1) The legislature finds that:
+9 (a) Idaho's economy and the welfare of its citizens depend upon a re-
+10 liable and sustainable water supply. It is essential, therefore, that
+11 the state continues to identify, develop, and implement projects that
+12 augment and sustain the state's water resources are hereby declared to
+13 be a public use subject to the regulation and control of the state in the
+14 manner prescribed by law.
+15 (b) The cloud seeding program developed and implemented by the Idaho
+16 water resource board, in cooperation with interested stakeholders,
+17 presents a unique and innovative opportunity to augment and sustain the
+18 water resources of the state has insufficiently proven to be a sound
+19 investment of state resources.
+20 (c) Augmenting water supplies through cloud seeding is in the public
+21 interest. Public benefits of cloud seeding include drought mitigation,
+22 protection of water rights, protection of municipal and business ac-
+23 tivities dependent on water, water quality, recreation, and fish and
+24 wildlife. While augmenting water supplies is in the public interest,
+25 insufficient data exists to establish the effectiveness or safety of
+26 cloud seeding to augment water supplies.
+27 (d) Data accumulated and analysis undertaken since the initiation of
+28 the cloud seeding program demonstrates that cloud seeding has not reli-
+29 ably resulted in an annual increase in the water supplies in the basins
+30 in which cloud seeding has been performed. However, additional re-
+31 search and analysis is necessary to determine the precise nature and ex-
+32 tent of those increases. The legislature recommends that such research
+33 be continued as the cloud seeding program progresses and that annual re-
+34 ports on such research be provided to the legislature. According to the
+35 2024 government accountability office report on cloud seeding technol-
+36 ogy that assessed its effectiveness, "when uncertainty was considered
+37 in estimates of cloud seeding effectiveness, the estimated effect was
+38 not distinguishable from zero with a high degree of statistical confi-
+39 dence (e.g., with 95 percent confidence)."
+40 (e) The legislature shall reevaluate the cloud seeding program and may
+41 suspend or authorize future cloud seeding projects or programs after
+42 receiving an independent, third-party report, which includes an en-
+
+2
+1 vironmental impact assessment, that indicates the project or program
+2 should not continue or be allowed to commence.
+3 (e) (f) The legislature recognizes that expansion of the cloud seeding
+4 program may benefit basins throughout the state that experience de-
+5 pleted or insufficient water supplies, and the legislature recommends
+6 requires that the water resource board complete an assessment of basins
+7 and work with affected stakeholders to implement the propose a cloud
+8 seeding program in basins that would benefit from the program, for ap-
+9 proval by the legislature.
+10 (2) As used in this chapter, "cloud seeding" means all acts undertaken
+11 to artificially distribute or create nuclei in cloud masses for the purposes
+12 of inducing precipitation, cloud forms, or other meteorological parameters.
+13 Cloud seeding for the suppression of fog and frost prevention measures for
+14 the protection of orchards and crops are excluded from the coverage of this
+15 chapter, including for suppression measures and frost prevention measures.
+16 (3) The water resource board shall authorize, and may sponsor or de-
+17 velop, local or statewide cloud seeding programs and A cloud seeding pro-
+18 gram or project shall not be implemented without first receiving legislative
+19 approval. The legislature may contract any individual or organization for
+20 consultation and assistance in developing cloud seeding programs or in fur-
+21 thering research related to cloud seeding experimentation.
+22 (4) State funds may shall not be used or expended on cloud seeding pro-
+23 grams only in basins where the water resource board finds that existing water
+24 supplies are not sufficient to support existing water rights, water quality,
+25 recreation, or fish and wildlife uses dependent on those water supplies.
+26 (5) Water generated through cloud seeding shall be distributed in ac-
+27 cordance with the prior appropriation doctrine.
+28 (5) (6) The act of cloud seeding pursuant to a project funded in whole or
+29 in part by the state of Idaho or authorized by the state water resource board
+30 shall not legislature may be the basis of any claim of liability, including
+31 but not limited to trespass or public or private nuisance, and shall not re-
+32 quire any state or local permits.
+33 (7) An individual who authorizes or engages in cloud seeding without
+34 legislative approval is guilty of a felony and shall be subject to imprison-
+35 ment for up to one (1) year or a fine of not more than fifty thousand dollars
+36 ($50,000), or both.
+37 SECTION 2. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1403
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE DEPARTMENT OF ENVIRONMENTAL QUALITY;
+3 APPROPRIATING ADDITIONAL MONEYS TO THE DEPARTMENT OF ENVIRONMENTAL
+4 QUALITY FOR FISCAL YEAR 2027; REDUCING THE APPROPRIATION TO THE DE-
+5 PARTMENT OF ENVIRONMENTAL QUALITY FOR FISCAL YEAR 2027; AUTHORIZING
+6 ADDITIONAL FULL-TIME EQUIVALENT POSITIONS; APPROPRIATING AND TRANS-
+7 FERRING MONEYS FROM THE DEQ AIR PERMITTING FEES ACCOUNT TO THE IDAHO AIR
+8 QUALITY PERMITTING FUND; APPROPRIATING AND TRANSFERRING MONEYS FROM
+9 THE DEQ DRINKING WATER FEES ACCOUNT TO THE PUBLIC WATER SYSTEM SUPER-
+10 VISION FUND; APPROPRIATING AND TRANSFERRING MONEYS FROM THE HAZARDOUS
+11 WASTE EMERGENCY FUND TO THE SOLID WASTE REGULATORY FUND; AND DECLARING
+12 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. In addition to any other appropriation provided by law,
+15 there is hereby appropriated to the Department of Environmental Quality the
+16 following amounts to be expended according to the designated programs and
+17 expense classes from the listed funds for the period July 1, 2026, through
+18 June 30, 2027:
+19 FOR
+20 FOR FOR FOR TRUSTEE AND
+21 PERSONNEL OPERATING CAPITAL BENEFIT
+22 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+23 I. WATER QUALITY:
+24 FROM:
+25 IPDES Program
+26 Fund $181,700 $200,000 $381,700
+27 II. WASTE MANAGEMENT AND REMEDIATION:
+28 FROM:
+29 Environmental Remediation (Triumph Mine)
+30 Fund $200,000 $1,000,000 $30,000 $1,230,000
+31 Solid Waste Regulatory
+32 Fund 350,000 35,000 $15,000 0 400,000
+33 TOTAL $550,000 $1,035,000 $15,000 $30,000 $1,630,000
+34 GRAND TOTAL $731,700 $1,235,000 $15,000 $30,000 $2,011,700
+
+2
+1 SECTION 2. Notwithstanding any other provision of law to the contrary,
+2 the appropriation made to the Department of Environmental Quality for the
+3 Water Quality Program is hereby reduced by $181,700 from the Department of
+4 Environmental Quality (Federal) Fund from personnel costs for the period
+5 July 1, 2026, through June 30, 2027.
+6 SECTION 3. FTP AUTHORIZATION. In addition to any other authorization
+7 provided by law, the full-time equivalent position authorization provided
+8 to the Department of Environmental Quality is hereby increased by four
+9 (4.00) for the period July 1, 2026, through June 30, 2027.
+10 SECTION 4. CASH TRANSFER FOR AIR PERMITTING FEES. There is hereby ap-
+11 propriated and the Office of the State Controller shall transfer the balance
+12 of the DEQ Air Permitting Fees Account to the Idaho Air Quality Permitting
+13 Fund on July 1, 2026, or as soon thereafter as practicable for the period July
+14 1, 2026, through June 30, 2027, to consolidate the two funds and cease to use
+15 the DEQ Air Permitting Fees Account.
+16 SECTION 5. CASH TRANSFER FOR DRINKING WATER FEES. There is hereby ap-
+17 propriated and the Office of the State Controller shall transfer the balance
+18 of the DEQ Drinking Water Fees Account to the Public Water System Supervision
+19 Fund on July 1, 2026, or as soon thereafter as practicable for the period July
+20 1, 2026, through June 30, 2027, to consolidate the two funds and cease to use
+21 the DEQ Drinking Water Fees Account.
+22 SECTION 6. CASH TRANSFER FOR SOLID WASTE. There is hereby appropriated
+23 and the Office of the State Controller shall transfer $400,000 from the
+24 Hazardous Waste Emergency Fund to the Solid Waste Regulatory Fund on July
+25 1, 2026, or as soon thereafter as practicable for the period July 1, 2026,
+26 through June 30, 2027.
+27 SECTION 7. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2026.

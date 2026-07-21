@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 512
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO ENGINEERS AND SURVEYORS; AMENDING SECTION 54-1208, IDAHO CODE,
+3 TO PROVIDE FOR THE BOARD TO DETERMINE AND ADMINISTER AN APPROPRIATE OPEN
+4 BOOK JURISPRUDENCE EXAM FOR THE LICENSING OF SURVEYORS; AND DECLARING
+5 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 54-1208, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 54-1208. BOARD -- POWERS. (1) The board shall have the power to adopt
+10 and amend administrative rules including, but not limited to, rules of pro-
+11 fessional responsibility, rules of continuing professional development
+12 not to exceed sixteen (16) hours annually for each profession for which the
+13 professional is licensed, and rules of procedure, not inconsistent with the
+14 constitution and laws of this state, which may be reasonably necessary for
+15 the proper performance of its duties and the administration of the chapter
+16 and the regulation of proceedings before the board. These actions by the
+17 board shall be binding upon persons licensed under this chapter and shall be
+18 applicable to business entities holding a certificate of authorization as
+19 provided in section 54-1235, Idaho Code. It shall adopt and have an official
+20 seal which shall be affixed to each license and certificate issued. It shall
+21 have power to provide an office, office equipment and facilities and such
+22 books and records as may be reasonably necessary for the proper performance
+23 of its duties.
+24 (2) In carrying into effect the provisions of this chapter, the board
+25 may subpoena witnesses and compel their attendance, and also may require the
+26 submission of books, papers, documents, or other pertinent data in any dis-
+27 ciplinary matters or in any case wherever a violation of this chapter is al-
+28 leged. Upon failure or refusal to comply with any such order of the board, or
+29 upon failure to honor its subpoena as herein provided, the board may apply to
+30 any court of any jurisdiction to enforce compliance with same.
+31 (3) The board is hereby authorized in the name of the state to apply for
+32 relief by injunction in the established manner provided in cases of civil
+33 procedure, without bond, to enforce the provisions of this chapter or to re-
+34 strain any violation thereof. Venue for all such actions shall be in the dis-
+35 trict court of the fourth judicial district, Ada county, Idaho.
+36 (4) The board may subject an applicant for licensure or certification
+37 to such examination as it deems necessary to determine qualifications.
+38 Notwithstanding the provisions of section 67-9409, Idaho Code, the board
+39 shall determine and administer an appropriate open book jurisprudence exam
+40 for the licensing of surveyors pursuant to this chapter.
+41 (5) Any action, claim or demand to recover money damages from the board
+42 or its employees which any person is legally entitled to recover as compensa-
+
+2
+1 tion for the negligent or otherwise wrongful act or omission of the board or
+2 its employees, when acting within the course and scope of their employment,
+3 shall be governed by the Idaho tort claims act, chapter 9, title 6, Idaho
+4 Code. For purposes of this section, the term "employees" shall include, in
+5 addition to those persons listed in section 6-902(4), Idaho Code, special
+6 assignment members, emeritus members and any independent contractors while
+7 acting within the course and scope of their board related work.
+8 (6) The board may recommend arbitration of disputes between profes-
+9 sional engineers or disputes between professional land surveyors.
+10 SECTION 2. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2026.

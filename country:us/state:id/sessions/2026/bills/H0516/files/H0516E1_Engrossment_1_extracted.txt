@@ -1,0 +1,489 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 516, As Amended in the Senate
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1271, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING SCHOOL DISTRICTS, PROFESSIONAL EMPLOYEES, AND
+4 NEGOTIATION AGREEMENTS; AMENDING SECTION 33-1272, IDAHO CODE, TO DE-
+5 FINE TERMS; AMENDING SECTION 33-1275, IDAHO CODE, TO PROHIBIT TAXPAYER
+6 FUNDING OF TEACHERS UNIONS; AMENDING CHAPTER 12, TITLE 33, IDAHO CODE,
+7 BY THE ADDITION OF A NEW SECTION 33-1277, IDAHO CODE, TO PROHIBIT TAX-
+8 PAYER FUNDING OF TEACHERS UNIONS; AMENDING SECTION 33-513, IDAHO CODE,
+9 TO REMOVE A PROVISION REGARDING ATTENDANCE AT CERTAIN MEETINGS OF THE
+10 STATE TEACHERS ASSOCIATION AND TO MAKE TECHNICAL CORRECTIONS; PROVID-
+11 ING SEVERABILITY; PROVIDING APPLICABILITY; AND DECLARING AN EMERGENCY
+12 AND PROVIDING AN EFFECTIVE DATE.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. That Section 33-1271, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 33-1271. SCHOOL DISTRICTS -- PROFESSIONAL EMPLOYEES -- NEGOTIATION
+17 AGREEMENTS. (1) The board of trustees of each school district, includ-
+18 ing specially chartered districts, or the designated representative(s)
+19 representatives of such district, is hereby empowered to and shall, upon
+20 its own initiative or upon the request of a local education organization
+21 representing a majority of the professional employees, enter into a nego-
+22 tiation agreement with the local education organization or the designated
+23 representative(s) representatives of such organization.
+24 (1) (2) The parties to such negotiations shall negotiate in good faith
+25 on those matters specified in any such negotiation agreement between the lo-
+26 cal board of trustees and the local education organization, unless otherwise
+27 prohibited by section 33-1275, Idaho Code, or any other applicable law.
+28 (2) (3) A request for negotiations may be initiated by either party to
+29 such negotiation agreement.
+30 (3) (4) Upon either party making a request for negotiations, the lo-
+31 cal education organization, upon board request, shall provide to the dis-
+32 trict written evidence establishing that the local education organization
+33 represents fifty percent (50%) plus one (1) of the professional employees
+34 for negotiations. If requested by the board, the local education organiza-
+35 tion shall establish this representative status on an annual basis, prior to
+36 the commencement of negotiations. In order to establish a local education
+37 organization's representative status, a local education organization must
+38 show that within the last two (2) years, fifty percent (50%) plus one (1) of
+39 the professional employees, as defined in section 33-1272, Idaho Code, in-
+40 dicated agreement to be represented by the local education organization for
+41 negotiation purposes. Evidence of fifty percent (50%) plus one (1) incon-
+
+2
+1 sistent with this provision shall not be counted in the establishment of rep-
+2 resentative status.
+3 (4) (5) Accurate records or minutes of the proceedings shall be kept and
+4 shall be available for public inspection at the office of the affected school
+5 district during normal business hours.
+6 (5) (6) Joint ratification of all final offers of settlement shall be
+7 made in open meetings. Each party must provide written evidence confirming
+8 to the other that majority ratification has occurred.
+9 SECTION 2. That Section 33-1272, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 33-1272. DEFINITIONS. As used in this act:
+12 (1) "Affiliate" means:
+13 (a) Any organization subject to the constitution, bylaws, or similar
+14 governing documents of a teachers union;
+15 (b) Any organization with a constitution, bylaws, or similar governing
+16 documents that a teachers union is subject to;
+17 (c) Any organization that receives a regular portion of the dues or fees
+18 collected by a teachers union from its members pursuant to the consti-
+19 tution, bylaws, or similar governing documents of such organization or
+20 the teachers union; or
+21 (d) A political committee or political organization controlled by a
+22 teachers union.
+23 (1) "Professional employee" means any certificated employee of a
+24 school district, including charter districts; provided however, that admin-
+25 istrative personnel including superintendents, supervisors or principals
+26 are excluded from the professional employee group for the purposes of nego-
+27 tiations.
+28 (2) "Local education organization" or "teachers union" means any local
+29 district organization duly chosen and selected by fifty percent (50%) plus
+30 one (1) of the professional employees, excluding administrative personnel
+31 as addressed in this section, as their representative organization for nego-
+32 tiations under this act, as well as any organization seeking such status.
+33 (3) "Negotiations" means publicly meeting and conferring in good faith
+34 by a local board of trustees and the authorized local education organiza-
+35 tion, or the respective designated representatives of both parties for the
+36 purpose of reaching an agreement, upon matters and conditions subject to ne-
+37 gotiations as specified in a negotiation agreement between said parties and
+38 not otherwise prohibited by section 33-1275, Idaho Code, or any other appli-
+39 cable law.
+40 (4) "Professional employee" means any certificated employee of a
+41 school district, including charter districts; provided however, that admin-
+42 istrative personnel including superintendents, supervisors or principals
+43 are excluded from the professional employee group for the purposes of nego-
+44 tiations.
+45 (5) "Representational activities" means the activities specified in
+46 paragraphs (i) through (m) of subsection (6) of this section.
+47 (6) "Teachers union activities" means any of the following activities
+48 undertaken at the direction of, on behalf of, or to advance the purposes of a
+49 teachers union or its affiliate:
+
+3
+1 (a) Supporting or opposing any candidate for federal, state, or local
+2 public office;
+3 (b) Influencing the passage or defeat of any federal or state legisla-
+4 tion, federal or state regulation, local ordinance, or any ballot mea-
+5 sure;
+6 (c) Promoting or soliciting membership or participation in, or finan-
+7 cial support of, a teachers union or its affiliate;
+8 (d) Seeking to become the exclusive representative of all professional
+9 employees in a school district;
+10 (e) Participating in the administration, business, or internal gover-
+11 nance of a teachers union or its affiliate;
+12 (f) Preparing, conducting, or attending teachers union or affiliate
+13 events, conferences, conventions, meetings, or trainings, unless such
+14 training is directly related to the performance of professional employ-
+15 ees' job duties;
+16 (g) Distributing teachers union or affiliate communications;
+17 (h) Representing or speaking on behalf of a teachers union or its affil-
+18 iate in any setting, venue, or procedure in which the school district is
+19 not a participant;
+20 (i) Preparing, filing, or pursuing grievances;
+21 (j) Representing professional employees in investigatory interviews,
+22 disciplinary proceedings or appeals up to and including termination, or
+23 other administrative or legal proceedings;
+24 (k) Engaging in negotiations and any related mediation;
+25 (l) Administering a negotiation agreement; or
+26 (m) Participating in labor-management committees.
+27 For the purposes of this section, "good faith" means honesty, fairness and
+28 lawfulness of purpose with the absence of any intent to defraud, act mali-
+29 ciously or take unfair advantage or the observance of reasonable standards
+30 of fair dealing.
+31 SECTION 3. That Section 33-1275, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 33-1275. TERMS OF AGREEMENTS. (1) All agreements, by any name or ti-
+34 tle, entered into pursuant to the provisions of this act, shall have a one
+35 (1) year duration of July 1 through June 30 of the ensuing fiscal year. The
+36 parties shall not have the authority to enter into any agreement negotiated
+37 under the provisions of this act that has any term that allows for such agree-
+38 ment or any provision of such agreement to be in any force or effect for mul-
+39 tiple years or indefinitely, or otherwise does not expire on its own terms on
+40 or before June 30 of the ensuing fiscal year.
+41 (2) Notwithstanding the provisions of subsection (1) of this section,
+42 upon mutual ratification, any item other than compensation and benefits as
+43 defined in subsection (3) of this section of any agreement entered into pur-
+44 suant to this act may have a nonrolling two (2) year duration with a desig-
+45 nated start date and end date. A second year term for any item not defined in
+46 subsection (3) of this section cannot be added, automatically or by mutual
+47 consent, back into the agreement after the expiration of the first year but
+48 rather may be addressed by the parties at the expiration of the end date of
+49 the two (2) year term.
+
+4
+1 (3) For purposes of this section, "compensation" means salary and ben-
+2 efits for professional employees. "Benefits" means employee insurance,
+3 leave time and sick leave benefits.
+4 (4) No agreement by any name or title that is entered into pursuant to
+5 the provisions of this section or otherwise may require or permit a school
+6 district, including specially chartered districts, to use taxpayer funds to
+7 promote a teachers union or its affiliate in a manner prohibited by section
+8 33-1277, Idaho Code. Any provision of an agreement in violation of this sub-
+9 section shall be null and void, contrary to public policy, and of no legal
+10 force or effect.
+11 SECTION 4. That Chapter 12, Title 33, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 33-1277, Idaho Code, and to read as follows:
+14 33-1277. TAXPAYER FUNDING OF TEACHERS UNIONS PROHIBITED. (1) No
+15 school district, including a specially chartered district, or its agents or
+16 representatives, may use or authorize the use of taxpayer funds to support
+17 teachers unions by:
+18 (a) Deducting dues, fees, assessments, fines, or contributions from
+19 the pay of a professional employee on behalf of a teachers union or its
+20 affiliate;
+21 (b) Increasing a professional employee's compensation with the in-
+22 tent that the additional compensation, or a part of it, be used to pay
+23 teachers union or affiliate dues, fees, assessments, fines, or contri-
+24 butions;
+25 (c) Providing more personal or contact information of a professional
+26 employee to a teachers union or its affiliate than the school district
+27 is required to disclose pursuant to chapter 1, title 74, Idaho Code, un-
+28 less the school district receives written authorization from the pro-
+29 fessional employee to disclose additional information;
+30 (d) Requiring or coercing a professional employee to meet, communi-
+31 cate, listen to, or otherwise interact with a teachers union or its
+32 affiliate;
+33 (e) Distributing communications or membership solicitations on behalf
+34 of a teachers union or its affiliate;
+35 (f) Contributing funds to, or expending funds on behalf of, a teachers
+36 union or its affiliate; or
+37 (g) Except as provided by sections 33-1216 and 33-1279, Idaho Code, and
+38 except as otherwise provided by this section, providing any form of com-
+39 pensation or paid leave to a public employee, directly or indirectly,
+40 for the purpose of engaging in teachers union activities.
+41 (2) If provided by a negotiated agreement between a school district,
+42 including a specially chartered district, and a teachers union:
+43 (a) A professional employee may be granted time off without pay or ben-
+44 efits to engage in teachers union activities, and a teachers union may
+45 compensate a professional employee for engaging in teachers union ac-
+46 tivities.
+47 (b) A professional employee may use compensated personal leave,
+48 whether the professional employee's own leave or leave voluntarily
+
+5
+1 donated by other professional employees, to engage in teachers union
+2 activities if:
+3 (i) The leave is accrued at the same rate by similarly situated
+4 professional employees of the school district without regard to
+5 membership or participation in a teachers union; and
+6 (ii) The professional employee may freely choose how to use the
+7 leave.
+8 (c) A professional employee may engage in representational activities
+9 while in a duty status without loss of pay or benefits if:
+10 (i) The teachers union reports to the school district no less
+11 than twice per year the amount of time, in increments rounded to
+12 the nearest quarter of an hour, spent on representational activi-
+13 ties each day by each professional employee engaged in representa-
+14 tional activities;
+15 (ii) The school district calculates the pro rata value of compen-
+16 sation, including wages and benefits, paid or accruing to a pro-
+17 fessional employee for time spent engaged in representational ac-
+18 tivities and provides an invoice to the teachers union no less than
+19 twice per year for the amounts so calculated; and
+20 (iii) Upon receipt of the invoice from the school district, the
+21 teachers union remits full payment to the school district within
+22 thirty (30) days.
+23 (3)(a) A person who violates the provisions of this section shall
+24 be subject to a civil penalty not to exceed two hundred fifty dollars
+25 ($250).
+26 (b) A person who knowingly violates the provisions of this section
+27 shall be subject to a civil penalty not to exceed one thousand five hun-
+28 dred dollars ($1,500).
+29 (c) A person who knowingly violates the provisions of this section and
+30 who has previously admitted to committing or has been previously deter-
+31 mined to have committed a violation pursuant to this subsection shall be
+32 subject to a civil penalty not to exceed two thousand five hundred dol-
+33 lars ($2,500).
+34 (4) The attorney general or appropriate county prosecutor may inves-
+35 tigate complaints regarding violations of this section and shall ensure the
+36 effective enforcement of this section.
+37 SECTION 5. That Section 33-513, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 33-513. PROFESSIONAL PERSONNEL. The board of trustees of each school
+40 district, including any specially chartered district, shall have the fol-
+41 lowing powers and duties:
+42 1. (1) To employ professional personnel, on written contract in a form
+43 approved by the state superintendent of public instruction, conditioned
+44 upon on a valid certificate being held by such professional personnel at the
+45 time of entering upon the duties thereunder. Should the board of trustees
+46 fail to enter into written contract for the employment of any such person,
+47 the state superintendent of public instruction shall withhold ensuing ap-
+48 portionments until such written contract be is entered into. When the board
+49 of trustees has delivered a proposed contract for the next ensuing year to
+
+6
+1 any such person, such person shall have a period of time to be determined by
+2 the board of trustees in its discretion, but in no event less than ten (10)
+3 calendar days from the date the contract is delivered, in which to sign the
+4 contract and return it to the board. If the board of trustees does not make a
+5 determination as to how long the person has to sign and return the contract,
+6 the default time limit shall be twenty-one (21) calendar days after the con-
+7 tract is delivered to the person. Delivery of a contract may be made only
+8 in person or by certified mail, return receipt requested or electronically,
+9 return receipt requested. When delivery is made in person, delivery of the
+10 contract must be acknowledged by a signed receipt. When delivery is made
+11 by certified mail or electronically, delivery must be acknowledged by the
+12 return of the certified mail receipt or return electronic receipt from the
+13 person to whom the contract was sent. If the delivery is made electroni-
+14 cally, with return electronic receipt, and the district has not received a
+15 return of a signed contract and has not received an electronic read receipt
+16 from the employee, the district shall then resend the original electroni-
+17 cally delivered contract to the employee via certified mail, return receipt
+18 requested, and provide such individual with a new date for contract return.
+19 Should the person willfully refuse to acknowledge receipt of the contract or
+20 the contract is not signed and returned to the board in the designated period
+21 of time or if no designated period of time is set by the board, the default
+22 time, the board or its designee may declare the position vacant.
+23 (a) The board of trustees shall withhold the salary of any teacher who
+24 does not hold a teaching certificate valid in this state. It shall not
+25 contract to require any teacher to make up time spent in attending any
+26 meeting called by the state board of education or by the state superin-
+27 tendent of public instruction; nor while attending regularly scheduled
+28 official meetings of the state teachers association.
+29 (b) No contract shall be issued for the next ensuing year until such
+30 time as the employee's formal written performance evaluation has been
+31 completed.
+32 (c) If applicable student data relating to Idaho's standards achieve-
+33 ment test has not been received by the district within thirty (30) days
+34 of the deadline to complete the formal written performance evaluation
+35 for district employees, the school district or charter school shall
+36 utilize one (1) of the other objective measures of growth in student
+37 achievement as determined by the board of trustees or governing board,
+38 not including Idaho's standards achievement test, in order to complete
+39 the required student achievement component of performance evaluations.
+40 2. (2) In the case of school districts other than elementary school
+41 districts, to employ a superintendent of schools for a term not to exceed
+42 three (3) years, who shall be the executive officer of the board of trustees
+43 with such powers and duties as the board may prescribe. The superintendent
+44 shall also act as the authorized representative of the district whenever
+45 such is required, unless some other person shall be named by the board of
+46 trustees to act as its authorized representative. The board of trustees
+47 shall conduct an annual, written formal evaluation of the work of the su-
+48 perintendent of the district to be completed no later than June 1. The
+49 evaluation shall indicate the strengths and weaknesses of the superinten-
+50 dent's job performance in the year immediately preceding the evaluation and
+
+7
+1 areas where improvement in the superintendent's job performance, in the view
+2 of the board of trustees, is called for.
+3 3. (3) To employ through written contract principals who shall hold a
+4 valid certificate appropriate to the position for which they are employed,
+5 who shall supervise the operation and management of the school in accordance
+6 with the policies established by the board of trustees and who shall be under
+7 the supervision of the superintendent.
+8 4. (4) To employ assistant superintendents and principals for a term
+9 not to exceed two (2) years. Service performed under such contract shall
+10 be included in meeting the provisions of section 33-515, Idaho Code, as a
+11 teacher and persons eligible for a renewable contract as a teacher shall re-
+12 tain such eligibility. The superintendent, the superintendent's designee,
+13 or in a school district that does not employ a superintendent, the board
+14 of trustees, shall conduct an annual, written evaluation of each such em-
+15 ployee's performance to be completed no later than June 1.
+16 5. (5) To suspend, grant leave of absence, place on probation or dis-
+17 charge certificated professional personnel for a material violation of any
+18 lawful rules or regulations of the board of trustees or of the state board of
+19 education, or for any conduct which that could constitute grounds for revo-
+20 cation of a teaching certificate. Any certificated professional employee,
+21 except the superintendent, may be discharged during a contract term under
+22 the following procedures:
+23 (a) The superintendent or any other duly authorized administrative of-
+24 ficer of the school district may recommend the discharge of any certifi-
+25 cated employee by filing with the board of trustees written notice spec-
+26 ifying the alleged reasons for discharge.
+27 (b) Upon receipt of such notice, the board, acting through its duly
+28 authorized administrative official, shall give the affected employee
+29 written notice of the allegations and the recommendation of discharge,
+30 along with written notice of a hearing before the board prior to any de-
+31 termination by the board of the truth of the allegations.
+32 (c) The hearing shall be scheduled to take place not less than six (6)
+33 days nor more than twenty-one (21) days after receipt of the notice by
+34 the employee. The date provided for the hearing may be changed by mutual
+35 consent.
+36 (d) The hearing shall be public unless the employee requests in writing
+37 that it be in executive session.
+38 (e) All testimony at the hearing shall be given under oath or affirma-
+39 tion. Any member of the board, or the clerk of the board, may administer
+40 oaths to witnesses or affirmations by witnesses.
+41 (f) The employee may be represented by legal counsel and/or by a repre-
+42 sentative of a local or state teachers association.
+43 (g) The chairman of the board or the designee of the chairman shall con-
+44 duct the hearing.
+45 (h) The board shall cause an electronic record of the hearing to be made
+46 or shall employ a competent reporter to take stenographic or stenotype
+47 notes of all the testimony at the hearing. A transcript of the hearing
+48 shall be provided at cost by the board upon request of the employee.
+
+8
+1 (i) At the hearing, the superintendent or other duly authorized admin-
+2 istrative officer shall present evidence to substantiate the allega-
+3 tions contained in such notice.
+4 (j) The employee may produce evidence to refute the allegations. Any
+5 witness presented by the superintendent or by the employee shall be sub-
+6 ject to cross-examination. The board may also examine witnesses and be
+7 represented by counsel.
+8 (k) The affected employee may file written briefs and arguments with
+9 the board within three (3) days after the close of the hearing or such
+10 other time as may be agreed upon on by the affected employee and the
+11 board.
+12 (l) Within fifteen (15) days following the close of the hearing, the
+13 board shall determine and, acting through its duly authorized adminis-
+14 trative official, shall notify the employee in writing whether the evi-
+15 dence presented at the hearing established the truth of the allegations
+16 and whether the employee is to be retained, immediately discharged, or
+17 discharged upon termination of the current contract.
+18 (m) If the employee appeals the decision of the board of trustees to
+19 the district court, the district court may affirm the board's decision
+20 or set it aside and remand the matter to the board of trustees upon on
+21 the following grounds and shall not set the same aside for any other
+22 grounds:
+23 (i) That the findings of fact are not based upon on any substan-
+24 tial, competent evidence;
+25 (ii) That the board of trustees has acted without jurisdiction or
+26 in excess of its authority; or
+27 (iii) That the findings by the board of trustees as a matter of law
+28 do not support the decision.
+29 (n) The determination of the board of trustees shall be affirmed unless
+30 the court finds that the action of the board of trustees was:
+31 (i) In violation of constitutional or statutory provisions;
+32 (ii) In excess of the statutory authority of the board;
+33 (iii) Made upon on unlawful procedure; or
+34 (iv) Arbitrary, capricious or an abuse of discretion.
+35 (o) Record augmentation on appeal:
+36 (i) If, before the date set for any hearing at the district court,
+37 application is made to the court for leave to present additional
+38 evidence and it is shown to the satisfaction of the court that the
+39 additional evidence is material, relates to the validity of the
+40 board action and that there was good cause for failure to present
+41 it in the proceeding before the board, then the court may remand
+42 the matter to the board with direction that the board receive addi-
+43 tional evidence and conduct additional fact-finding;
+44 (ii) Any party desiring to augment the transcript or record may
+45 file a motion in the same manner and pursuant to the same procedure
+46 for augmentation of the record in appeals to the supreme court; and
+47 (iii) The board may modify its action by reason of the additional
+48 evidence and shall file any modifications, new findings or deci-
+49 sions with the reviewing court.
+
+9
+1 6. (6) To grant an employee's request for voluntary leave of absence.
+2 The board of trustees may delegate ongoing authority to grant an employee's
+3 request for voluntary leave of absence to the district's superintendent or
+4 other designee. Upon the superintendent or designee's granting of an em-
+5 ployee's request for voluntary leave of absence, the board shall ratify or
+6 nullify the action at the next regularly scheduled board meeting.
+7 7. (7) To delegate to the superintendent or other designee the ongo-
+8 ing authority to place any employee on a period of involuntary leave of ab-
+9 sence should the superintendent or designee believe that such action is in
+10 the best interest of the district. Upon the superintendent or designee's ac-
+11 tion to place a certificated employee on a period of involuntary leave of ab-
+12 sence, the board shall ratify or nullify the action of the superintendent or
+13 designee at the next regularly scheduled meeting of the board or at a special
+14 meeting of the board should the next regularly scheduled meeting of the board
+15 not be within a period of twenty-one (21) days from the date of the action.
+16 (a) Where there is a criminal court order preventing the certificated
+17 employee from being in the presence of minors or students, preventing
+18 the employee from being in the presence of any other adult individual
+19 employed at the school or detaining the employee in prison or jail, the
+20 certificated employee's involuntary leave of absence shall be without
+21 pay due to the certificated employee's inability to perform the essen-
+22 tial functions of the employee's position. Without such a condition or
+23 situation, the involuntary leave of absence shall be with pay.
+24 (i) During the period of involuntary leave of absence without
+25 pay, the salary of the certificated employee will be maintained
+26 in a district-managed account. Should the certificated employee
+27 return to the district for active employment subsequent to the
+28 removal or dismissal of the court order, acquittal or adjudication
+29 of innocence, the district shall remit the salary funds, less the
+30 cost incurred by the district for the substitute hired to replace
+31 the certificated employee. Further, should the certificated em-
+32 ployee return to the district under the provisions established
+33 in this subsection, the district shall arrange to have the cer-
+34 tificated employee credited with the public employee retirement
+35 system of Idaho (PERSI) for the certificated employee's time away
+36 from work during the period of leave of absence.
+37 (ii) During the period of involuntary leave of absence, the dis-
+38 trict shall continue to pay the district's portion of monthly
+39 costs associated with the certificated employee's health insur-
+40 ance benefits. The assumption of this payment by the district
+41 shall not alter the certificated employee's financial obliga-
+42 tions, if any, under the policy.
+43 (b) Should there be dual court orders preventing more than one (1) em-
+44 ployee from being in the presence of one (1) or more other employees, all
+45 employees subject to the court order shall be excluded from the school
+46 pursuant to subsection 7.(a) of this section paragraph (a) of this sub-
+47 section.
+48 (c) If the period of involuntary leave of absence is due to the dis-
+49 trict's need to conduct an investigation into the conduct of the cer-
+50 tificated employee, and there are no related criminal investigation(s)
+
+10
+1 and/or investigations or criminal charges of any nature pending, the
+2 administration shall complete its investigation within a period of
+3 sixty (60) working days. On or before the sixtieth working day, the
+4 administrative leave shall either cease and the certificated employee
+5 shall be returned to his position of employment or the administration
+6 shall advance a personnel recommendation to the board of trustees. If
+7 a recommendation is advanced, the involuntary leave of absence shall
+8 continue until such time as the district board has made its decision in
+9 regard to the personnel recommendation with such decision effectively
+10 concluding the involuntary leave of absence. If a related criminal
+11 investigation is occurring and/or or criminal charges are pending, the
+12 district shall not be bound to any limitation as to the duration of in-
+13 voluntary leave of absence. The timelines established in this section
+14 may be waived or modified by mutual agreement.
+15 SECTION 6. SEVERABILITY. The provisions of this act are hereby declared
+16 to be severable and if any provision of this act or the application of such
+17 provision to any person or circumstance is declared invalid for any reason,
+18 such declaration shall not affect the validity of the remaining portions of
+19 this act.
+20 SECTION 7. APPLICABILITY. The provisions of this act shall apply to all
+21 contracts entered into or amended on or after July 1, 2026, and shall apply to
+22 any renewal or extension of any existing contract on or after that date.
+23 SECTION 8. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after
+25 July 1, 2026.

@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 755
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING CHAPTER 36, TITLE 63, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW SECTION 63-3643, IDAHO CODE, TO PROVIDE FOR THE ANNUAL RE-
+4 VIEW OF SALES TAX EXEMPTIONS AND FOR THE EXPIRATION OF SALES TAX EXEMP-
+5 TIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 36, Title 63, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 63-3643, Idaho Code, and to read as follows:
+10 63-3643. ANNUAL REVIEW OF SALES TAX EXEMPTIONS -- EXPIRATION OF EXEMP-
+11 TIONS. (1) The legislative services office shall conduct an annual review
+12 of the exemptions provided in this chapter from the taxes imposed pursuant
+13 to this chapter and prepare a report making recommendations to the legisla-
+14 ture concerning whether to eliminate or revise such exemptions. The annual
+15 review may be conducted in such a manner that fewer than all exemptions pro-
+16 vided in this chapter are reviewed in any single year, provided that all ex-
+17 emptions pursuant to this chapter shall be reviewed during any five (5) year
+18 period. In conducting the annual review, the legislative services office
+19 shall first review those exemptions scheduled to expire pursuant to subsec-
+20 tion (4) of this section, proceeding in order from the earliest expiration
+21 date to the latest. Such annual review and report shall include a detailed
+22 analysis of the following criteria:
+23 (a) The public purpose gained by the original enactment of the tax ex-
+24 emption;
+25 (b) The amount of revenue that the state would collect each year if the
+26 tax exemption were repealed;
+27 (c) The affected taxpayers who would pay additional taxes if the exemp-
+28 tion were repealed;
+29 (d) The nature of any public benefits or detriments that would occur if
+30 the exemption were repealed;
+31 (e) Whether the exemption has out-of-state beneficiaries;
+32 (f) How long the exemption is effective;
+33 (g) Any adverse impacts of the exemption or its elimination and whether
+34 the benefits of continuance or elimination outweigh adverse impacts;
+35 and
+36 (h) Any other criteria that the legislative services office deems rele-
+37 vant.
+38 (2) The legislative services office shall file the report with the sen-
+39 ate local government and taxation committee, the house revenue and taxation
+40 committee, and the joint finance-appropriations committee no later than
+41 February 1 of each year.
+
+2
+1 (3) The state tax commission and the Idaho department of commerce shall
+2 provide all necessary non-privileged information requested by the legisla-
+3 tive services office that relates to any sales tax exemption managed by each
+4 agency.
+5 (4)(a) Except as otherwise expressly provided in this chapter, and ex-
+6 cept for the exemption provided in section 63-3622C, Idaho Code, each
+7 exemption from the taxes imposed pursuant to this chapter that is en-
+8 acted on or after January 1, 2026, shall expire on the later of ten (10)
+9 years after its effective date or July 1, 2027, unless the legislature
+10 acts by law to extend or reenact the exemption prior to its expiration.
+11 (b) Except as otherwise expressly provided in this chapter, and except
+12 for the exemption provided in section 63-3622C, Idaho Code, each exemp-
+13 tion from the taxes imposed pursuant to this chapter that was enacted
+14 before January 1, 2026, shall expire on the later of ten (10) years after
+15 its effective date or July 1, 2031, unless the legislature acts by law to
+16 extend or reenact the exemption prior to its expiration.
+17 SECTION 2. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after
+19 July 1, 2026.

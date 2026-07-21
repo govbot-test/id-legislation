@@ -1,0 +1,132 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1354
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ACCESSORY DWELLING UNITS; AMENDING SECTION 55-3212, IDAHO CODE,
+3 TO REVISE PROVISIONS REGARDING ACCESSORY DWELLING UNITS AND TO REMOVE A
+4 DEFINITION; AMENDING CHAPTER 65, TITLE 67, IDAHO CODE, BY THE ADDITION
+5 OF A NEW SECTION 67-6541, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+6 ACCESSORY DWELLING UNITS AND TO PROVIDE A DEFINITION; PROVIDING SEVER-
+7 ABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 55-3212, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 55-3212. INTERNAL PROHIBITED CONDUCT -- RESTRICTIONS ON ACCESSORY
+12 DWELLING UNITS. (1) No covenant, condition, or restriction may be added,
+13 amended, or enforced by a homeowner's association or any other parties in
+14 such a way that strictly prohibits internal accessory dwelling units, as
+15 defined in subsection (3) of this section. The provisions of this section
+16 shall not be construed to protect more than one (1) internal accessory
+17 dwelling unit per homestead. No homeowner's association shall add, amend,
+18 or enforce any covenant, condition, or restriction in such a way that limits
+19 or prohibits accessory dwelling units, as defined in section 67-6541, Idaho
+20 Code, on any property, land, or structure thereon within the jurisdiction
+21 of a homeowner's association, unless the owner of the affected property
+22 expressly agrees in writing to such addition or amendment of a covenant,
+23 condition, or restriction. Nothing in this section shall be construed to
+24 prevent the enforcement of valid covenants, conditions, or restrictions
+25 limiting or prohibiting a property owner's right to transfer an interest
+26 in land or the structures thereon where such covenant, condition, or re-
+27 striction existed and applied to the property at the time the property owner
+28 acquired an interest in the property.
+29 (2) Notwithstanding the prohibitions provided in subsection (1) of
+30 this section, a homeowner's association may adopt reasonable rules govern-
+31 ing the use of internal accessory dwelling units otherwise allowed by law,
+32 including but not limited to size limits, height limits, setback require-
+33 ments, open space requirements, parking controls, and bedroom requirements.
+34 (3)(a) An "internal accessory dwelling unit" means a self-contained
+35 living unit that:
+36 (i) Includes its own cooking, sleeping, and sanitation facili-
+37 ties;
+38 (ii) Is located within a detached, owner-occupied homestead, as
+39 defined in section 63-701, Idaho Code, or such homestead's at-
+40 tached or detached garage; and
+
+2
+1 (iii) Is used for the purpose of housing relatives of the owner of
+2 the homestead or for the purpose of renting to a residential tenant
+3 for a period exceeding thirty (30) days.
+4 (b) An internal accessory dwelling unit does not include an alternative
+5 detached structure, motor home, camper, recreational vehicle, tiny
+6 home on wheels, or other such similar dwellings on wheels.
+7 (4) (3) Nothing in this section shall be construed to restrict a home-
+8 owner's association from adopting a less restrictive definition of acces-
+9 sory dwelling units.
+10 (5) (4) The provisions of this section do not apply to any rentals de-
+11 fined in section 63-1803(4), Idaho Code.
+12 SECTION 2. That Chapter 65, Title 67, Idaho Code, be, and the same is
+13 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+14 ignated as Section 67-6541, Idaho Code, and to read as follows:
+15 67-6541. ACCESSORY DWELLING UNITS. (1) No city shall enact or enforce
+16 any ordinance, rule, regulation, or policy that bans accessory dwelling
+17 units in any residential zoning area within its jurisdiction. An accessory
+18 dwelling unit shall be classified as a residential land use for zoning pur-
+19 poses subject to all applicable zoning requirements. "Accessory dwelling
+20 unit" means a self-contained living unit that includes its own cooking,
+21 sleeping, and sanitation facilities and that is located on the same lot as a
+22 single-family primary dwelling. An accessory dwelling unit may be internal,
+23 attached, or detached but does not include a motorhome, camper, recreational
+24 vehicle, tiny home on wheels, or other such similar dwellings on wheels.
+25 (2) By October 1, 2026, by resolution or ordinance adopted, amended, or
+26 repealed in accordance with the notice and hearing procedures provided under
+27 section 67-6509, Idaho Code, each city governing board shall amend its com-
+28 prehensive plan and land use regulations for all land zoned for single-fam-
+29 ily residential uses, except for lands falling within an area defined as a
+30 historic district under section 67-4607, Idaho Code, to:
+31 (a) Allow for one (1) internal accessory dwelling unit within the sin-
+32 gle-family dwelling and one (1) detached accessory dwelling unit per
+33 lot;
+34 (b) Prohibit requiring any off-street parking or guest parking for any
+35 accessory dwelling unit;
+36 (c) Prohibit imposing impact fees or utility connection fees on acces-
+37 sory dwelling units that are greater than those imposed on other sin-
+38 gle-family dwellings;
+39 (d) Prohibit limiting the size of an accessory dwelling unit to less
+40 than one thousand (1000) square feet or seventy-five percent (75%) of
+41 the size of the primary dwelling;
+42 (e) Prohibit imposing a setback requirement greater than four (4) feet
+43 from the side and rear lot lines for an accessory dwelling unit that is
+44 not converted from an existing structure or for a new structure con-
+45 structed in the same location and to the same dimensions as an existing
+46 structure, except where a greater setback requirement is necessary for
+47 rights-of-way and easements;
+48 (f) Prohibit an owner-occupancy requirement for the primary dwelling
+49 or for the accessory dwelling unit;
+
+3
+1 (g) Prohibit imposing a limit on building height that is less than the
+2 height of an existing single-family primary dwelling on a lot; and
+3 (h) Prohibit restrictions for accessory dwelling units that are more
+4 restrictive than restrictions for single-family dwellings within the
+5 same zoning area with regard to height, setbacks, lot size, or coverage
+6 or building frontage.
+7 (3) Accessory dwelling unit projects that meet the jurisdiction's es-
+8 tablished land use requirements shall be approved administratively and as a
+9 matter of right, without the need for discretionary approval.
+10 (4) Any approval standards, special conditions, and procedures for ap-
+11 proval adopted by a local government shall be clear and objective and shall
+12 not have the effect, either singularly or cumulatively, of discouraging the
+13 development of accessory dwelling units through unreasonable cost or delay.
+14 (5) Nothing in this section shall prohibit a city from enacting a reg-
+15 ulation, standard, or condition that is less restrictive than the require-
+16 ments of this section.
+17 (6) The provisions of this section shall apply only to cities with a
+18 population greater than five thousand (5,000).
+19 SECTION 3. SEVERABILITY. The provisions of this act are hereby declared
+20 to be severable and if any provision of this act or the application of such
+21 provision to any person or circumstance is declared invalid for any reason,
+22 such declaration shall not affect the validity of the remaining portions of
+23 this act.
+24 SECTION 4. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

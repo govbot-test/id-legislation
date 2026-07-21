@@ -1,0 +1,208 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1449
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 34-1807, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE CIRCULATION OF PETITIONS, TO REVISE PROVISIONS
+4 REGARDING SIGNATURE GATHERERS, AND TO MAKE TECHNICAL CORRECTIONS;
+5 AMENDING CHAPTER 66, TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW
+6 SECTION 67-6628B, IDAHO CODE, TO PROVIDE CERTAIN REQUIREMENTS FOR PER-
+7 SONS ENGAGED IN PAID IN-PERSON CANVASSING ACTIVITIES; AMENDING SECTION
+8 67-6625, IDAHO CODE, TO PROVIDE A CODE REFERENCE; PROVIDING SEVERABIL-
+9 ITY; AND DECLARING AN EMERGENCY.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 34-1807, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 34-1807. CIRCULATION OF PETITIONS -- PAID SIGNATURE GATHERERS --
+14 VERIFICATION OF PETITION AND SIGNATURE SHEETS -- CERTIFICATION OF PETITION
+15 SIGNERS -- CERTAIN PETITIONS AND SIGNATURES VOID. (1) Any person who circu-
+16 lates any petition for an initiative or referendum shall be a resident of the
+17 state of Idaho and at least eighteen (18) years of age and shall comply with
+18 all provisions of section 67-6628B, Idaho Code, in the course of circulating
+19 any such petition.
+20 (2)(a) Any person who accepts payment to circulate a petition for an
+21 initiative or referendum shall, prior to accepting a signature:
+22 (i) Verbally notify any potential signatory that such person is
+23 accepting payment to gather signatures and provide the name of the
+24 person or entity providing payment to such person; and
+25 (ii) Cause to be printed on each page of any petition for an ini-
+26 tiative or referendum a prominent and legible declaration that
+27 such person is receiving payment in exchange for circulating the
+28 petition and the name of the person providing payment to such per-
+29 son.
+30 (b) At all times a person is circulating a petition pursuant to para-
+31 graph (a) of this subsection, such person shall wear a badge that is
+32 clearly visible to any potential signatory and that contains the words
+33 "paid petition circulator" on it .
+34 (c) The Idaho secretary of state shall promulgate rules to implement
+35 the provisions of this subsection, which shall provide details re-
+36 garding the font specifications that shall be required for the printed
+37 declaration required under paragraph (a)(ii) of this subsection and the
+38 specifications regarding font, shape, color, and size requirements for
+39 the badge required under paragraph (b) of this subsection.
+40 (3) (2) Each and every sheet of every such petition for an initiative
+41 or referendum containing signatures shall be verified on the face thereof in
+
+2
+1 substantially the following form, by the person who circulated said sheet of
+2 said petition, by his or her affidavit thereon, and as a part thereof:
+3 (a) For persons not accepting payment for circulating a petition:
+4 State of Idaho )
+5 )ss.
+6 County of.... )
+7 I,...., being first duly sworn, say that I am a resident of the State of
+8 Idaho and at least eighteen (18) years of age; that I have not and will not
+9 accept remuneration in any way related to the petition; that every person who
+10 signed this sheet of the foregoing petition signed his or her name thereto in
+11 my presence; that I believe that each has stated his or her name, address and
+12 residence correctly; and that each signer is a qualified elector of the State
+13 of Idaho and a resident of the county of.....
+14 Signed.................................
+15 Post office address.....................
+16 Subscribed and sworn to before me this.... day of.....
+17 (Notary Seal) Notary Public ..........................
+18 Residing at ............................
+19 (b) For persons accepting payment for circulating a petition:
+20 State of Idaho )
+21 )ss.
+22 County of.... )
+23 I,...., being first duly sworn, say that I am a resident of the state
+24 State of Idaho and at least eighteen (18) years of age; that every person who
+25 signed this sheet of the foregoing petition signed his or her name thereto in
+26 my presence, after I verbally notified each individual signer that I will re-
+27 ceive payment in exchange for gathering the signatures on this sheet; that
+28 I believe that each has stated his or her name, address and residence cor-
+29 rectly; and that each signer is a qualified elector of the State of Idaho and
+30 a resident of the county of.....
+31 I am accepting payment for the circulation of the foregoing petition
+32 by.... and the address of such payor is.....
+33 Signed.................................
+34 Post office address.....................
+35 Subscribed and sworn to before me this.... day of.....
+36 (Notary Seal) Notary Public ..........................
+37 Residing at ............................
+38 (4) (3) In addition to said affidavit, the county clerk shall carefully
+39 examine said petitions and strike from the petition any names for which he
+40 has determined that the name, address, or signature do not match and confirm
+41 that each name, address, and signature matches those of a qualified elector
+42 of the proper jurisdiction and that the petitions conform to all other provi-
+43 sions of this section. The county clerk shall attach to the signature sheets
+44 a certificate to the secretary of state substantially as follows:
+
+3
+1 State of Idaho )
+2 )ss.
+3 County of.... )
+4 To the Honorable...., Secretary of State for the State of Idaho:
+5 I,...., County Clerk of.... County, hereby certify that.... signatures on
+6 this petition are those of qualified electors in Legislative District Num-
+7 ber.....
+8 Signed.................................
+9 County Clerk or Deputy.
+10 (Seal of office)
+11 (5) (4) The county clerk shall deliver the petition or any part thereof
+12 to the person from whom he received it with his certificate attached thereto
+13 as above provided. The forms herein given are not mandatory and if substan-
+14 tially followed in any petition, it shall be sufficient, disregarding cleri-
+15 cal and merely technical error.
+16 (6) (5) Any petition on which signatures are obtained by a person not a
+17 resident of the state of Idaho and at least eighteen (18) years of age shall
+18 be void. The definition of resident in section 34-107, Idaho Code, shall ap-
+19 ply to the circulators of initiative and referendum petitions.
+20 (7) (6) Any signature that is not a physical signature, including an
+21 electronic signature, is void.
+22 (8) (7) Any petition for an initiative or referendum on which signa-
+23 tures are obtained that is circulated in violation of the disclosure provi-
+24 sions provided in subsection (2) of this section 67-6628B, Idaho Code, is
+25 void.
+26 SECTION 2. That Chapter 66, Title 67, Idaho Code, be, and the same is
+27 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+28 ignated as Section 67-6628B, Idaho Code, and to read as follows:
+29 67-6628B. PAID IN-PERSON CANVASSING ACTIVITIES -- DISCLOSURES. (1)
+30 For the purposes of this section:
+31 (a) "Paid in-person canvassing activities" means canvassing activi-
+32 ties performed by an individual who accepts financial compensation for
+33 the purpose of influencing how a person votes, including but not limited
+34 to circulating any petition for an initiative or referendum; soliciting
+35 personal residences or public locations to communicate with or distrib-
+36 ute materials to possible voters about political candidates or ballot
+37 measures; conducting in-person get-out-the-vote efforts in relation to
+38 any candidate or ballot measure; and any other direct, in-person con-
+39 tact or interaction intended to affect an individual's electoral par-
+40 ticipation or preferences.
+41 (b) "Phone banking activities" means any organized outreach activity
+42 in which telephone calls are made to Idaho qualified electors for the
+43 purpose of persuading such electors to vote or to vote in a particular
+44 manner, providing information to such electors regarding an election or
+45 voting, or mobilizing such electors to vote.
+46 (2) Persons who engage in any paid in-person canvassing activities
+47 shall:
+48 (a) Be a resident of the state of Idaho;
+
+4
+1 (b) Verbally notify any person with whom they communicate that they are
+2 being compensated to perform paid in-person canvassing activities and
+3 provide the name of the persons or entities providing payment to such
+4 person; and
+5 (c) At all times, while engaging in paid in-person canvassing activi-
+6 ties, wear a badge that is clearly visible to any person with whom they
+7 intend to communicate with that contains the words "paid political ad-
+8 vocate" as well as the name of the persons or entities providing payment
+9 to such person.
+10 (3) The Idaho secretary of state may promulgate rules to implement the
+11 provisions of this section, including specifications regarding font, shape,
+12 color, and size requirements for the badge required pursuant to subsection
+13 (2)(c) of this section.
+14 (4) The provisions of this section shall not apply to:
+15 (a) Volunteers acting without compensation or reimbursement beyond in-
+16 cidental expenses;
+17 (b) Individuals whose paid in-person canvassing activities are inci-
+18 dental to broader campaign employment responsibilities;
+19 (c) Phone banking activities; or
+20 (d) Candidates engaged in in-person canvassing activities for their
+21 own election campaign.
+22 SECTION 3. That Section 67-6625, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 67-6625. VIOLATIONS -- CIVIL FINE -- MISDEMEANOR PENALTY -- PROSECU-
+25 TION -- LIMITATION -- VENUE. (1) Any person who violates the provisions of
+26 sections 67-6603, 67-6604, 67-6606 through 67-6614A, 67-6624, 67-6627 or,
+27 67-6628, or 67-6628B, Idaho Code, shall be liable for a civil fine not to ex-
+28 ceed two hundred fifty dollars ($250) if an individual, and not more than two
+29 thousand five hundred dollars ($2,500) if a person other than an individual.
+30 The burden of proof for such civil liability shall be met by showing a prepon-
+31 derance of the evidence.
+32 (2) Any person who violates section 67-6605, Idaho Code, and any per-
+33 son who knowingly and willfully violates sections 67-6603 through 67-6614A,
+34 67-6624, 67-6627 or, 67-6628, or 67-6628B, Idaho Code, is guilty of a misde-
+35 meanor and, upon conviction, in addition to the fines set forth in subsection
+36 (1) of this section, may be imprisoned for not more than six (6) months or be
+37 both fined and imprisoned.
+38 (3) The attorney general or the appropriate prosecuting attorney may
+39 prosecute any violations of this chapter.
+40 (4) Prosecution for a civil or misdemeanor violation of this chapter
+41 must be commenced within two (2) years after the date on which the violation
+42 occurred. Prosecution for a felony violation of this chapter must be com-
+43 menced pursuant to the provisions of section 19-402, Idaho Code.
+44 (5) Venue for prosecution under the provisions of this chapter shall be
+45 in the county of residence of the defendant if the defendant is a resident of
+46 the state of Idaho, otherwise venue shall be in Ada county.
+47 SECTION 4. SEVERABILITY. The provisions of this act are hereby declared
+48 to be severable and if any provision of this act or the application of such
+
+5
+1 provision to any person or circumstance is declared invalid for any reason,
+2 such declaration shall not affect the validity of the remaining portions of
+3 this act.
+4 SECTION 5. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after its
+6 passage and approval.

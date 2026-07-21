@@ -1,0 +1,215 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 609
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3622VV, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE IDAHO INFORMATION TECHNOLOGY EQUIPMENT SALES TAX
+4 EXEMPTION; AMENDING SECTION 63-4502, IDAHO CODE, TO LIMIT ELIGIBILITY
+5 FOR THE TAX EXEMPTION FOR NEW CAPITAL INVESTMENTS AND TO MAKE TECHNICAL
+6 CORRECTIONS; AND DECLARING AN EMERGENCY.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 63-3622VV, Idaho Code, be, and the same is
+9 hereby amended to read as follows:
+10 63-3622VV. IDAHO INFORMATION TECHNOLOGY EQUIPMENT. (1) On and after
+11 July 1, 2020, and before July 1, 2036, there is exempted from the taxes
+12 imposed by this chapter the purchase or use of eligible server equipment
+13 and new data center facilities, as defined in this section. The exemption
+14 provided in this section shall be available only to qualifying business
+15 entities and contractors installing eligible server equipment or building
+16 new data center facilities for qualifying business entities. The exemption
+17 provided in this section shall not be available for property that has been
+18 the subject of business incentives granted to a taxpayer or its affiliates,
+19 pursuant to the Idaho reimbursement incentive act, sections 67-4737 through
+20 67-4744, Idaho Code.
+21 (2) As used in this section:
+22 (a) "Business entity" means a separate legal entity or separately oper-
+23 ated segment of business that exists for the primary purpose of engaging
+24 in a commercial activity for profit and whose sole purpose is the oper-
+25 ation of a data center. For the purposes of this section, a separately
+26 operated segment of business is a segment of a business for which sep-
+27 arate records are maintained and that is operated by an employee or em-
+28 ployees whose primary employment responsibility is to operate the busi-
+29 ness segment.
+30 (b) "Cabling" means a fiber or copper cable used in data centers to con-
+31 nect information sources to a server or storage device.
+32 (c) "Capital investment" means real or tangible personal property that
+33 is purchased for use in Idaho and is used by a business entity for the
+34 purpose of operating a data center.
+35 (d) "Chiller" means a cooling system used in data centers to remove heat
+36 from an element and deposit it into another element.
+37 (e) "Commencement of operations" means the date on which a certificate
+38 of occupancy is issued for a data center.
+39 (f) "Data center" means a facility comprised of one (1) or more build-
+40 ings in Idaho that is used to house eligible server equipment for the
+41 transmission and storage of data where the facility has the following
+42 characteristics:
+
+2
+1 (i) Uninterruptible power supplies, generator power, or both;
+2 (ii) Sophisticated fire suppression and prevention systems; and
+3 (iii) Enhanced physical security and restricted access.
+4 (g) "Eligible server equipment" means new server equipment acquired
+5 by a qualifying business entity as described in this subsection that is
+6 maintained and operated in a data center located in Idaho for the sole
+7 purpose of data transmission and storage services, providing data and
+8 transaction processing services, information technology services, or
+9 computer collocation services. "Eligible server equipment" includes
+10 servers, rack servers, chillers, storage devices, generators, cabling,
+11 and enabling software integral to or installed on such equipment.
+12 (h) "Generator" means an engine used in data centers to convert mechan-
+13 ical energy into electricity.
+14 (i) "New data center facilities" means buildings or structural com-
+15 ponents of buildings, including equipment, materials, and fixtures
+16 thereof, that are used in or intended for use primarily as a data center
+17 in Idaho.
+18 (j) (i) "New jobs" means new jobs created in Idaho that are nonseasonal,
+19 full-time jobs that collectively pay an average weekly wage that equals
+20 or exceeds the average weekly wage for the county where the data center
+21 is located, as determined by the most recent report of the United States
+22 bureau of labor statistics. A job that merely changes locations within
+23 the state of Idaho shall not be considered a new job under this section.
+24 New jobs must exceed the business entity's highest number of full-time
+25 employees in Idaho during the twenty-four (24) months immediately pre-
+26 ceding the commencement of operations of the data center.
+27 (k) (j)(i) "Qualifying business entity" means a business entity
+28 that certifies to the state tax commission that it will make:
+29 1. Make capital investments in one (1) or more data centers
+30 after July 1, 2020, in amounts of at least two hundred fifty
+31 million dollars ($250,000,000) in the aggregate within the
+32 first five (5) years after commencement of construction and
+33 that it will create;
+34 2. Create and maintain at least thirty (30) new jobs at the
+35 data center within two (2) calendar years after the com-
+36 mencement of operations.;
+37 3. For a qualifying business entity that receives an exemp-
+38 tion provided in this section after March 1, 2026, receive
+39 electricity service under an electricity rate schedule or
+40 energy service agreement that fully recovers from the qual-
+41 ifying business entity all costs incurred by the utility in
+42 providing electricity to the property for which the exemp-
+43 tion is claimed; and
+44 4. For a qualifying business entity that receives an exemp-
+45 tion provided in this section after March 1, 2026, prior to
+46 commencing construction of a data center, provide written
+47 notice to the local water provider serving such proposed
+48 data center's location detailing the anticipated water con-
+49 sumption needs of the data center to ensure that the water
+50 consumption is compatible with the location in which the
+
+3
+1 data center is being constructed. A qualifying business
+2 entity is encouraged to take action to conserve, reuse, and
+3 replace water. This includes but is not limited to:
+4 (A) Using water-efficient fixtures and practices;
+5 (B) Treating, infiltrating, or harvesting rainwater;
+6 (C) Recirculating or recycling water within the cool-
+7 ing system before discharging;
+8 (D) Partnering with state and local governmental en-
+9 tities and private individuals and entities to use data
+10 center discharge water for irrigation, water conserva-
+11 tion, or other beneficial purposes, if available;
+12 (E) Using reclaimed water where possible for data cen-
+13 ter operations; and
+14 (F) Supporting water restoration efforts in local wa-
+15 tersheds.
+16 (ii) Such business entities shall be entitled to a provisional
+17 exemption pursuant to this section during the period in which they
+18 make capital investments in data center property. If a business
+19 entity fails to meet the investment and job creation requirements
+20 provided within the time periods required in this section, it
+21 shall pay sales or use taxes that would have been due if not for the
+22 granting of the provisional exemption. If a business entity meets
+23 the investment and job creation requirements provided within the
+24 time periods required in this section, its provisional exemption
+25 shall become final without further action, and thereafter the ex-
+26 emption shall also apply to all additional purchases of eligible
+27 server equipment and purchases associated with constructing new
+28 data center facilities.
+29 (l) (k) "Rack server" means a computer in a data center dedicated to use
+30 as a server and designed to be installed in a framework called a rack.
+31 (m) (l) "Server" means a computer or computer program used in data cen-
+32 ters that manages access to a centralized resource or service in a net-
+33 work.
+34 (n) (m) "Storage device" means a piece of computer equipment on which
+35 information can be stored and that is used in data centers.
+36 (3) If any taxpayer receives the exemption provided in section 63-4502,
+37 Idaho Code, on any property owned by the taxpayer in the state of Idaho, such
+38 taxpayer shall not be eligible for the exemption provided in this section.
+39 (3) (4) The state tax commission may promulgate rules to administer
+40 and enforce the provisions of this section, including the promulgation of
+41 rules relating to the provision of information necessary to certify that the
+42 taxpayer satisfies the criteria for a qualifying business entity. For the
+43 purpose of carrying out its duties to administer and enforce the provisions
+44 of this section, the state tax commission shall have the powers and duties
+45 provided by sections 63-217, 63-3038, 63-3039, 63-3042 through 63-3067,
+46 63-3068, 63-3071, and 63-3074 through 63-3078, Idaho Code.
+47 SECTION 2. That Section 63-4502, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+4
+1 63-4502. TAX EXEMPTION FOR NEW CAPITAL INVESTMENTS. (1) For calendar
+2 years beginning on or after January 1, 2008, the net taxable value of all
+3 property of a taxpayer, whether acquired before, during or after the qual-
+4 ifying period, in excess of four hundred million dollars ($400,000,000) lo-
+5 cated within a single county in Idaho shall be exempt from property taxation
+6 and any special assessment, but only if the taxpayer makes a qualifying new
+7 capital investment as defined in subsection (2) of this section.
+8 (2) For purposes of this section, the following definitions shall ap-
+9 ply:
+10 (a) "Qualifying new capital investment" means an investment of at least
+11 one billion dollars ($1,000,000,000) made during the qualifying period
+12 by the acquisition, construction, improvement or installation of real,
+13 operating or personal property related to new plant and building facil-
+14 ities at a project site located within the county referred to in subsec-
+15 tion (1) of this section.
+16 (b) "New plant and building facilities" means:
+17 (i) Qualified investments as defined in section 63-3029B, Idaho
+18 Code; or
+19 (ii) Buildings or structural components of buildings, includ-
+20 ing equipment, materials and fixtures thereof, whether used at a
+21 project site or temporarily stored off-site in the county referred
+22 to in subsection (1) of this section and intended for use at a
+23 project site.
+24 (c) "Qualifying period" means an eighty-four (84) month period of time
+25 beginning with the issuance of a building permit for a permanent build-
+26 ing structure at a project site and ending no later than eighty-four
+27 (84) months a thereafter.
+28 (d) "Project site" means an area or areas at which the new plant and
+29 building facilities described in subsection (2) paragraph (b) of this
+30 subsection are built, installed or constructed.
+31 (3) The property included in the calculation for purposes of determin-
+32 ing a qualifying new capital investment value shall include all real or op-
+33 erating property owned, and all personal property owned, leased or rented.
+34 With respect to leased or rented personal property, only that portion of the
+35 property for which a taxpayer is contractually liable for payment of prop-
+36 erty taxes thereon shall be included in the calculation of the investment.
+37 (4) Notwithstanding the exemption provided in subsection (4) of sec-
+38 tion 63-3029B, Idaho Code, no other exemption from property tax or any spe-
+39 cial assessment provided by the statutes of this state shall be applicable
+40 to any property described in subsection (2) of this section with respect to a
+41 year in which the incentives set forth in subsection (1) of this section ap-
+42 ply to any of the same property.
+43 (5) Property subject to the provisions of this section shall not be
+44 included on any property roll or any new construction roll prepared by the
+45 county assessor in accordance with section 63-301 or 63-301A, Idaho Code,
+46 respectively.
+47 (6) If a taxpayer receives the exemption provided in section 63-3622VV,
+48 Idaho Code, such taxpayer shall not be eligible for the exemption provided in
+49 this section on any property owned by the taxpayer in the state of Idaho.
+
+5
+1 (6) (7) The state tax commission shall adopt all rules that may be nec-
+2 essary to implement the provisions of this section.
+3 SECTION 3. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after its
+5 passage and approval.

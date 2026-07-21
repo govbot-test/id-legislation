@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 913
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAID; AMENDING SECTION 56-267, IDAHO CODE, TO REVISE PROVI-
+3 SIONS REGARDING MEDICAID ELIGIBILITY EXPANSION; AND DECLARING AN EMER-
+4 GENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 56-267, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 56-267. MEDICAID ELIGIBILITY EXPANSION. (1) Notwithstanding any pro-
+9 vision of law or federal waiver to the contrary Except as provided by sub-
+10 section (6) of this section, the state shall amend its state plan to expand
+11 medicaid eligibility to include those persons under sixty-five (65) years of
+12 age whose modified adjusted gross income is one hundred thirty-three percent
+13 (133%) of the federal poverty level or below and who are not otherwise eligi-
+14 ble for any other coverage under the state plan, in accordance with sections
+15 1902(a)(10)(A)(i)(VIII) and 1902(e)(14) of the social security act.
+16 (2) No later than ninety (90) days after approval of this act, the
+17 department shall submit any necessary state plan amendments to the United
+18 States department of health and human services, centers for medicare and
+19 medicaid services to implement the provisions of this section. The depart-
+20 ment is required and authorized to take all actions necessary to implement
+21 the provisions of this section as soon as practicable.
+22 (3) Eligibility for medicaid as described in this section shall not be
+23 delayed if the centers for medicare and medicaid services fail to approve any
+24 waivers of the state plan for which the department applies, nor shall such
+25 eligibility be delayed while the department is considering or negotiating
+26 any waivers to the state plan. The department shall not implement any waiver
+27 that would result in a reduction in federal financial participation for per-
+28 sons identified in subsection (1) of this section below the ninety percent
+29 (90%) commitment described in section 1905(y) of the social security act.
+30 (4) If section 1905(y) of the social security act is held unlawful or
+31 unconstitutional by the United States supreme court, then the legislature
+32 shall declare this section to be null, void, and of no force and effect.
+33 (5) If federal financial participation for persons identified in sub-
+34 section (1) of this section is reduced below the ninety percent (90%) commit-
+35 ment described in section 1905(y) of the social security act, then the senate
+36 and house of representatives health and welfare committees shall, as soon
+37 as practicable, review the effects of such reduction and make a recommenda-
+38 tion to the legislature as to whether medicaid eligibility expansion should
+39 remain in effect. The review and recommendation described in this subsec-
+40 tion shall be conducted by the date of adjournment of the regular legisla-
+41 tive session following the date of reduction in federal financial partici-
+42 pation. Notwithstanding any other provision of law to the contrary, if the
+
+2
+1 reduction in federal financial participation occurs outside of a state leg-
+2 islative session, the department shall take any action necessary to offset
+3 the increase in state funding, including but not limited to reductions in
+4 provider payment rates or elimination of optional benefits. Such actions
+5 shall be taken until such time as the state legislature may convene and de-
+6 termine a proper course of action.
+7 (6) No later than December 31, 2026, the department shall implement
+8 the community engagement requirements established pursuant to 42 U.S.C.
+9 1396a(xx). After the community engagement requirements have been imple-
+10 mented:
+11 (a) No person shall be enrolled in medicaid pursuant to this section un-
+12 less such person demonstrates compliance with the community engagement
+13 requirements for the three (3) consecutive months immediately preced-
+14 ing the month during which the person applies; and
+15 (b) The department shall disenroll from medicaid any person who is cur-
+16 rently enrolled pursuant to this section who is unable to demonstrate
+17 compliance with the community engagement requirements.
+18 SECTION 2. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after its
+20 passage and approval.

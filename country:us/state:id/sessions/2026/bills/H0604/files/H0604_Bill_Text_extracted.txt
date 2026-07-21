@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 604
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO SEXUAL OFFENDER REGISTRATION; AMENDING SECTION 18-8316, IDAHO
+3 CODE, TO REVISE A PROVISION REGARDING A PSYCHOSEXUAL EVALUATION AND TO
+4 PROVIDE THAT FAILURE TO PROVIDE AN EVALUATION MAY BE AN AGGRAVATING CIR-
+5 CUMSTANCE; AMENDING SECTION 18-8318, IDAHO CODE, TO REVISE A PROVISION
+6 REGARDING PAYMENT FOR A PSYCHOSEXUAL EVALUATION BY A DEFENDANT AND TO
+7 ESTABLISH PROVISIONS REGARDING USE OF CERTAIN FUNDING AND RESTITUTION;
+8 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 18-8316, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 18-8316. REQUIREMENT FOR PSYCHOSEXUAL EVALUATIONS UPON CONVIC-
+13 TION. If ordered by the court, an offender convicted of any offense Any
+14 person who pleads guilty to or is found guilty of a violation listed in sec-
+15 tion 18-8304, Idaho Code, may submit to an evaluation to be completed and
+16 submitted to the court in the form of a written report shall undergo, at the
+17 person's own expense, a psychosexual evaluation from a certified evaluator
+18 as defined in section 18-8303, Idaho Code, for the court's consideration
+19 prior to sentencing and incarceration or release on probation. The court
+20 shall select the certified evaluator from a central roster of evaluators
+21 compiled by the sexual offender management board. A certified evaluator
+22 performing such an evaluation shall be disqualified from providing any
+23 treatment ordered as a condition of any sentence, unless waived by the court.
+24 An evaluation conducted pursuant to this section shall be done in accordance
+25 with the standards established by the board pursuant to section 18-8314,
+26 Idaho Code. If the defendant has not made a good faith effort to provide the
+27 completed copy of the evaluation to the court, the court may consider the
+28 failure of the defendant to provide the evaluation as an aggravating circum-
+29 stance in determining an appropriate sentence.
+30 SECTION 2. That Section 18-8318, Idaho Code, be, and the same is hereby
+31 amended to read as follows:
+32 18-8318. OFFENDER REQUIRED TO PAY FOR PSYCHOSEXUAL EVALUATION. The
+33 offender shall be required to pay for the cost of the psychosexual eval-
+34 uations performed under this chapter, unless the offender demonstrates
+35 indigency. In such case, the psychosexual evaluation performed pursuant to
+36 section 18-8316, Idaho Code, shall be paid for by the county. As a condi-
+37 tion of sentence, indigent offenders for whom the county has paid the cost
+38 of evaluation performed pursuant to section 18-8316, Idaho Code, shall be
+39 required to repay the county for the cost. Nothing in this section shall
+40 preclude the use of funds authorized for court-ordered counseling or treat-
+
+2
+1 ment pursuant to the provisions of this section for indigent defendants, as
+2 provided by law. In the event that funding is provided for or on behalf of the
+3 defendant by a governmental entity, the defendant shall be ordered to make
+4 restitution to such governmental entity in accordance with the restitution
+5 procedure for crime victims, as provided in chapter 53, title 19, Idaho Code.
+6 SECTION 3. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2026.

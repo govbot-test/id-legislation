@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 845
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAID; AMENDING CHAPTER 2, TITLE 56, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 56-276, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING MEDICAID PRESUMPTIVE ELIGIBILITY DETERMINATIONS BY QUALIFIED
+5 HOSPITALS, TO PROVIDE PERFORMANCE STANDARDS, AND TO PROVIDE FOR VIOLA-
+6 TIONS, NOTICE, AND RIGHTS OF APPEAL; AND DECLARING AN EMERGENCY AND PRO-
+7 VIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 2, Title 56, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 56-276, Idaho Code, and to read as follows:
+12 56-276. MEDICAID PRESUMPTIVE ELIGIBILITY -- QUALIFIED HOSPITAL PER-
+13 FORMANCE STANDARDS -- VIOLATIONS. (1) The director shall limit presumptive
+14 eligibility determination to qualified hospitals.
+15 (2) A hospital making a presumptive eligibility determination shall:
+16 (a) Notify the department of each presumptive eligibility determina-
+17 tion no later than five (5) business days after the date of the determi-
+18 nation;
+19 (b) Assist individuals who the hospital determines are presumptively
+20 eligible with completing and submitting a full medicaid application;
+21 (c) Notify the applicant in writing, on all relevant forms, with plain
+22 language and in large print, that:
+23 (i) The applicant's presumptive eligibility will end on the last
+24 day of the following month if the applicant does not file a full
+25 medicaid application with the department before the last day of
+26 the following month; and
+27 (ii) The applicant's presumptive eligibility will continue until
+28 an eligibility determination is made by the department concerning
+29 the application if the applicant files a full medicaid application
+30 with the department before the last day of the following month; and
+31 (d) Comply with all other regulations and standards required pursuant
+32 to subsection (3) of this section.
+33 (3) The department shall:
+34 (a) Establish performance standards for hospitals to use in making
+35 presumptive eligibility determinations in compliance with the require-
+36 ments of subsection (2) of this section;
+37 (b) Establish an appeals process for a hospital that disputes a deter-
+38 mination that a presumptive eligibility standard was violated; and
+39 (c) Use the following performance standards to establish and ensure ac-
+40 curate presumptive eligibility determinations by a qualified hospital:
+
+2
+1 (i) Determine whether each presumptive eligibility determina-
+2 tion received from the hospital complied with the time requirement
+3 set forth in subsection (2) of this section;
+4 (ii) Determine whether the department received the full applica-
+5 tion from the individual determined by the hospital to be presump-
+6 tively eligible before the expiration of each presumptive eligi-
+7 bility period; and
+8 (iii) Determine whether each applicant who was determined by the
+9 hospital to be presumptively eligible was determined to be eligi-
+10 ble for medicaid after the full application was received.
+11 (4) Each violation by a hospital of any of the performance standards set
+12 forth in subsection (3) of this section counts as one (1) violation for the
+13 presumptive eligibility determination. Each subsequent violation of a per-
+14 formance standard is an additional violation for purposes of this section.
+15 (5) For the first violation of a presumptive eligibility standard un-
+16 der this section that a hospital receives in a calendar year, the depart-
+17 ment shall notify the hospital of the violation in writing no later than five
+18 (5) days after the determination of a violation is made. The notice must in-
+19 clude:
+20 (a) A description of the standard that was not met and an explanation of
+21 why the hospital did not meet the standard;
+22 (b) Notice that a second violation by the hospital of a presumptive el-
+23 igibility standard will result in a requirement that the hospital's ap-
+24 plicable staff participate in mandatory training on hospital presump-
+25 tive eligibility rules and standards that is performed by the depart-
+26 ment; and
+27 (c) A description of the appeal procedures available to the hospital
+28 to dispute the finding of a violation of presumptive eligibility stan-
+29 dards.
+30 (6) If the department determines that a hospital has failed to meet any
+31 of the presumptive eligibility standards under this section in any presump-
+32 tive eligibility determination by the hospital for a second time within a
+33 twelve (12) month period of a first violation, the department shall notify
+34 the hospital of the violation in writing no later than five (5) days after
+35 the determination that a second violation has occurred. The notice must in-
+36 clude:
+37 (a) A description of the standard that was not met and an explanation of
+38 why the hospital did not meet the standard;
+39 (b) Notice that the hospital's applicable staff must participate in
+40 mandatory training on hospital presumptive eligibility rules and stan-
+41 dards that is performed by the department, and information concerning
+42 the date, time, and location of the training;
+43 (c) A description of the appeal procedures available to the hospital
+44 to dispute the finding of a violation of presumptive eligibility stan-
+45 dards; and
+46 (d) Notice that a third violation by the hospital of a presumptive eli-
+47 gibility standard within a twelve (12) month period from the second vi-
+48 olation will result in the hospital no longer being qualified to make
+49 presumptive eligibility determinations.
+
+3
+1 (7) If the department determines that a hospital has failed to meet any
+2 of the presumptive eligibility standards under this section in any presump-
+3 tive eligibility determination by the hospital for a third time within a
+4 twelve (12) month period of the second violation by the hospital, the depart-
+5 ment shall notify the hospital of the violation in writing no later than five
+6 (5) days from a determination that a presumptive eligibility standard was
+7 violated by the hospital for the third time. The notice shall include:
+8 (a) A description of the standard that was not met and an explanation of
+9 why the hospital did not meet the standard;
+10 (b) A description of the appeal procedures available to the hospital
+11 to dispute the finding of a violation of presumptive eligibility stan-
+12 dards; and
+13 (c) Notice that, effective immediately upon receipt of the notice, the
+14 hospital is no longer qualified to make presumptive eligibility deter-
+15 minations for the medicaid program.
+16 (8) If a hospital appeals a finding of a violation of presumptive eli-
+17 gibility standards set forth in subsection (3) of this section, the hospital
+18 must provide clear and convincing evidence during the appeals process that
+19 the standard was met by the hospital.
+20 SECTION 2. An emergency existing therefor, which emergency is hereby
+21 declared to exist, this act shall be in full force and effect on and after
+22 July 1, 2026.

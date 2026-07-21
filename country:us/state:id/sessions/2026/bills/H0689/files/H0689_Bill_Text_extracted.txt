@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 689
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO ADMINISTRATIVE SUBPOENAS; AMENDING SECTION 19-3004A, IDAHO
+3 CODE, TO REVISE A PROVISION REGARDING AN ADMINISTRATIVE SUBPOENA; AND
+4 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 19-3004A, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 19-3004A. ADMINISTRATIVE SUBPOENA -- ELECTRONIC COMMUNICATION AND
+9 REMOTE COMPUTING SERVICES. (1) A provider of an electronic communication
+10 service or remote computing service that is transacting or has transacted
+11 any business in the state shall disclose the following to a prosecuting at-
+12 torney or the attorney general pursuant to an administrative subpoena issued
+13 by the prosecuting attorney or attorney general:
+14 (a) Records and information in its possession containing the name, ad-
+15 dress, local and long distance telephone connection records, or records
+16 of session times and durations, length of service, including the start
+17 date; and
+18 (b) Records and information in its possession containing the types of
+19 service utilized, telephone or instrument number or other subscriber
+20 number or identity, including any temporarily assigned network ad-
+21 dress; and
+22 (c) Records and information in its possession relating to the means and
+23 source of payment for such service pertaining to a subscriber to or cus-
+24 tomer of such service.
+25 The provider of an electronic communication service or remote computing
+26 service shall deliver the records to the prosecuting attorney or attorney
+27 general within fourteen (14) days of receipt of the subpoena.
+28 (2) For the purpose of this section, the following definitions shall
+29 apply:
+30 (a) "Electronic communication service" has the same meaning as pro-
+31 vided in section 18-6701(13), Idaho Code.
+32 (b) "Remote computing service" means the provision to the public of
+33 computer storage or processing service by means of an electronic commu-
+34 nications system as defined in section 18-6701(12), Idaho Code.
+35 (3) In order to obtain the records or information, the prosecuting
+36 attorney or attorney general shall certify on the face of the subpoena that
+37 there is reason to believe that the records or information being sought are
+38 relevant to a legitimate law enforcement investigation concerning a viola-
+39 tion of section 18-1505B, 18-1506, 18-1506A, 18-1507, 18-1507C, 18-1508,
+40 18-1508A, 18-1509, 18-1509A, 18-1515, 18-2202, or 18-6605, Idaho Code.
+41 (4) No subpoena issued pursuant to this section shall demand records
+42 that disclose the content of electronic communications or subscriber
+
+2
+1 account records disclosing internet locations which have been accessed in-
+2 cluding, but not limited to, websites, chat channels and news groups, but
+3 excluding servers used to initially access the internet. No recipient of a
+4 subpoena issued pursuant to this section shall provide any such content or
+5 records accessed, in response to the subpoena.
+6 (5) On a motion made by the electronic communication service or remote
+7 computing service provider prior to the time for appearance or the produc-
+8 tion of documents under the subpoena issued pursuant to this section, a court
+9 of competent jurisdiction may quash or modify the administrative subpoena if
+10 the provider establishes that the records or other information requested are
+11 unusually voluminous in nature or if compliance with the subpoena would oth-
+12 erwise cause an undue burden on the service provider.
+13 (6) No cause of action shall lie in any court against an electronic
+14 communication service or remote computing service provider, its officers,
+15 employees, agents or other specified persons for providing information,
+16 facilities or assistance in accordance with the terms of an administrative
+17 subpoena issued under this section.
+18 (7) A person who is subpoenaed under this section and who fails to ap-
+19 pear or produce materials as required by the subpoena, or who refuses to be
+20 sworn or give testimony, may be found to be in contempt of court. Proceed-
+21 ings to hold a person in contempt under this subsection may be brought in the
+22 county where the subpoena was issued.
+23 (8) Nothing in this section shall limit the right of a prosecuting at-
+24 torney or the attorney general to otherwise obtain records or information
+25 from a provider of electronic communication service or remote computing ser-
+26 vice pursuant to a search warrant, a court order or a grand jury or trial sub-
+27 poena.
+28 SECTION 2. An emergency existing therefor, which emergency is hereby
+29 declared to exist, this act shall be in full force and effect on and after
+30 July 1, 2026.

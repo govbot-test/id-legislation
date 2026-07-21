@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 558
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO FEDERAL BENEFITS; AMENDING TITLE 16, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW CHAPTER 25, TITLE 16, IDAHO CODE, TO PROVIDE A SHORT TI-
+4 TLE, TO DEFINE TERMS, TO ESTABLISH PROVISIONS REGARDING FEDERAL BENEFIT
+5 ELIGIBILITY DETERMINATIONS FOR CHILDREN IN THE LEGAL CUSTODY OF THE DE-
+6 PARTMENT OF HEALTH AND WELFARE, TO ESTABLISH PROVISIONS REGARDING OBLI-
+7 GATIONS OF THE DEPARTMENT WHEN ACTING AS REPRESENTATIVE PAYEE, TO ES-
+8 TABLISH PROVISIONS REGARDING THE PROHIBITED USE OF FEDERAL BENEFITS BY
+9 THE DEPARTMENT, TO ESTABLISH PROVISIONS REGARDING NOTICE AND APPEAL, TO
+10 ESTABLISH PROVISIONS REGARDING MILESTONE DISBURSEMENT OF FEDERAL BEN-
+11 EFITS, AND TO ESTABLISH PROVISIONS REGARDING RELEASE OF REMAINING FED-
+12 ERAL BENEFIT FUNDS UPON TERMINATION OF LEGAL CUSTODY; AND DECLARING AN
+13 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That Title 16, Idaho Code, be, and the same is hereby amended
+16 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+17 ter 25, Title 16, Idaho Code, and to read as follows:
+18 CHAPTER 25
+19 FEDERAL BENEFITS FOR CHILDREN IN CUSTODY OF THE DEPARTMENT OF HEALTH AND
+20 WELFARE
+21 16-2501. DEFINITIONS. As used in this chapter:
+22 (1) "Department" means the department of health and welfare and its au-
+23 thorized agents.
+24 (2) "Representative payee" means a person or organization appointed by
+25 a federal agency to receive federal benefits on behalf of a child.
+26 16-2502. FEDERAL BENEFITS PROVIDED TO CHILDREN IN THE LEGAL CUSTODY OF
+27 THE DEPARTMENT -- ELIGIBILITY DETERMINATIONS. (1) Within sixty (60) days af-
+28 ter a child enters the department's legal custody, and annually thereafter,
+29 the department shall determine whether the child is currently receiving or
+30 eligible to receive federal benefits administered by the social security ad-
+31 ministration or the department of veterans affairs, including survivor ben-
+32 efits or dependent benefits.
+33 (2) If it is determined that a child in the legal custody of the depart-
+34 ment is already receiving federal benefits, the department shall:
+35 (a) In consultation with the child and the child's attorney, identify
+36 the child's representative payee consistent with federal law; or
+37 (b) Apply to become the child's representative payee if no other suit-
+38 able candidate is available.
+39 (3) If the department determines that the child is eligible for federal
+40 benefits, the department shall:
+
+2
+1 (a) Apply for those benefits on behalf of the child; and
+2 (b) If no other candidate is available, apply to become the child's rep-
+3 resentative payee.
+4 16-2503. OBLIGATIONS OF THE DEPARTMENT WHEN ACTING AS REPRESENTATIVE
+5 PAYEE. If the department is appointed to serve as the representative payee of
+6 a child in the legal custody of the department, the department shall:
+7 (1) Establish and maintain an appropriate account to use and conserve
+8 the child's federal benefits for current unmet needs and future needs pur-
+9 suant to the requirements of the funding source and any applicable asset and
+10 resource limits;
+11 (2) Annually review whether another qualified person, other than the
+12 department, could assume the role of representative payee and could better
+13 serve that role. If another qualified person is identified, the department
+14 shall assist in transferring the role of representative payee to such per-
+15 son; and
+16 (3) Provide an annual accounting of the use, application, or conserva-
+17 tion of the child's federal benefits to the child, the child's attorney, the
+18 child's guardian, and the child's parents if parental rights have not been
+19 terminated.
+20 16-2504. PROHIBITED USE OF FEDERAL BENEFITS. (1) If the department is
+21 the child's representative payee, the department shall not use a child's
+22 federal benefits to pay for or reimburse the department or the state of Idaho
+23 for any costs of the child's care, maintenance, supervision, or services.
+24 (2) The department may use such benefits to pay for the child's unmet
+25 needs beyond what the department is obligated, is required, or has agreed to
+26 pay.
+27 16-2505. NOTICE AND APPEAL. (1) The department shall notify the child,
+28 the child's attorney, the child's guardian, and the child's parents, if
+29 parental rights have not been terminated, in writing of any application,
+30 decision, or appeal related to the child's federal benefits.
+31 (2) In providing notice of the denial of benefits, the department shall
+32 consult with the child and the child's attorney and appeal the denial if it is
+33 in the child's best interest.
+34 16-2506. MILESTONE DISBURSEMENT OF FEDERAL BENEFITS. If the depart-
+35 ment is appointed to serve as the representative payee of a child in the legal
+36 custody of the department, the department shall:
+37 (1) Develop and implement a success sequence savings and disbursement
+38 plan for each child with conserved earned benefits. Under the plan the child
+39 may access a portion of the child's benefits upon completion of specific
+40 milestones that promote independence and financial readiness. Such mile-
+41 stones may include:
+42 (a) Obtaining a driver's license or state identification card;
+43 (b) Receiving a high school diploma or a recognized equivalent;
+44 (c) Enrolling in a postsecondary education, vocational training, or
+45 apprenticeship program;
+
+3
+1 (d) Maintaining verified employment for at least six (6) consecutive
+2 months; and
+3 (e) Completing a department-approved financial literacy or saving
+4 readiness program;
+5 (2) Determine reasonable disbursement thresholds and amounts for each
+6 milestone; and
+7 (3) Before the child leaves the custody of the department, ensure that
+8 the child has access to financial literacy and planning tools.
+9 16-2507. RELEASE OF REMAINING FEDERAL BENEFIT FUNDS UPON TERMINATION
+10 OF LEGAL CUSTODY. If the department is the child's representative payee,
+11 upon termination of the department's legal custody of a child, the depart-
+12 ment shall release any remaining funds to:
+13 (1) The child, if the child is at least eighteen (18) years of age or
+14 emancipated; or
+15 (2) The child's parent or guardian, if the child is younger than eigh-
+16 teen (18) years of age and is not emancipated.
+17 SECTION 2. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after
+19 July 1, 2026.

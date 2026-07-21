@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1255
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HOSPITALIZATION OF MENTALLY ILL; AMENDING SECTION 66-326, IDAHO
+3 CODE, TO REVISE PROVISIONS REGARDING DETENTION WITHOUT HEARING; AND
+4 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 66-326, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 66-326. DETENTION WITHOUT HEARING. (1) No person shall be taken into
+9 custody or detained as an alleged emergency patient for observation, diag-
+10 nosis, evaluation, care or treatment of mental illness unless and until the
+11 court has ordered such apprehension and custody under the provisions out-
+12 lined in section 66-329, Idaho Code; provided, however, that a person may be
+13 taken into custody by a peace officer and placed in a facility, or the per-
+14 son may be detained at a hospital or tribal health facility at which the per-
+15 son presented or was brought to receive medical or mental health care, if the
+16 peace officer or a physician medical staff member of such hospital or tribal
+17 health facility or a physician's assistant or advanced practice registered
+18 nurse practicing in such hospital or tribal health facility has reason to be-
+19 lieve that the person is gravely disabled due to mental illness or the per-
+20 son's continued liberty poses an imminent danger to that person or others,
+21 as evidenced by a threat of substantial physical harm; provided, under no
+22 circumstances shall the proposed patient be detained in a nonmedical unit
+23 used for the detention of individuals charged with or convicted of penal of-
+24 fenses. For purposes of this section, the term "peace officer" shall in-
+25 clude tribal police officers and state probation and parole officers exer-
+26 cising their authority to supervise probationers and parolees. Whenever a
+27 person is taken into custody or detained under this section without court or-
+28 der, the evidence supporting the claim of grave disability due to mental ill-
+29 ness or imminent danger must be presented to a duly authorized court within
+30 twenty-four (24) hours from the time the individual was placed in custody or
+31 detained.
+32 (2) If the court finds the individual to be gravely disabled due to men-
+33 tal illness or imminently dangerous under subsection (1) of this section,
+34 the court shall issue a temporary custody order requiring the person to be
+35 held in a facility, and requiring an examination of the person by a desig-
+36 nated examiner within twenty-four (24) hours of the entry of the order of the
+37 court. Under no circumstances shall the proposed patient be detained in a
+38 nonmedical unit used for the detention of individuals charged with or con-
+39 victed of penal offenses.
+40 (3) Where an examination is required under subsection (2) of this sec-
+41 tion, the designated examiner shall make his findings and report to the court
+42 within twenty-four (24) hours of the examination.
+
+2
+1 (4) If the designated examiner finds, in his examination under this
+2 section, that the person is mentally ill, and either is likely to injure him-
+3 self or others or is gravely disabled due to mental illness, the prosecuting
+4 attorney shall file, within twenty-four (24) hours of the examination of the
+5 person, a petition with the court requesting the patient's detention pend-
+6 ing commitment proceedings pursuant to the provisions of section 66-329,
+7 Idaho Code. Upon the receipt of such a petition, the court shall order his
+8 detention to await hearing which shall be within five (5) days (including
+9 Saturdays, Sundays and legal holidays) of the detention order. If no pe-
+10 tition is filed within twenty-four (24) hours of the designated examiner's
+11 examination of the person, the person shall be released from the facility.
+12 (5) Any person held in custody under the provisions of this section
+13 shall have the same protection and rights that are guaranteed to a person
+14 already committed to the department director. Upon taking a person into
+15 custody, a good faith effort shall be made to provide notice to the person's
+16 legal guardian, parent, spouse, or adult next-of-kin of the person's physi-
+17 cal whereabouts and the reasons for taking the person into custody.
+18 (6) Nothing in this section shall preclude a hospital or tribal health
+19 facility from transferring a person who has been detained under this section
+20 to another facility that is willing to accept the transferred individual for
+21 purposes of observation, diagnosis, evaluation, care or treatment.
+22 SECTION 2. An emergency existing therefor, which emergency is hereby
+23 declared to exist, this act shall be in full force and effect on and after
+24 July 1, 2026.

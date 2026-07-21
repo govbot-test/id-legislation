@@ -1,0 +1,220 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 559
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3004, IDAHO CODE, TO REVISE A PRO-
+3 VISION REGARDING THE APPLICATION OF THE INTERNAL REVENUE CODE; AMENDING
+4 SECTION 63-3022O, IDAHO CODE, TO REVISE PROVISIONS REGARDING CERTAIN
+5 ADJUSTMENTS; AMENDING SECTION 63-3029G, IDAHO CODE, TO REVISE PROVI-
+6 SIONS REGARDING CREDITS FOR RESEARCH ACTIVITIES CONDUCTED IN THIS STATE
+7 AND CERTAIN CARRYFORWARD PROVISIONS; AND DECLARING AN EMERGENCY AND
+8 PROVIDING RETROACTIVE APPLICATION.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 63-3004, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 63-3004. INTERNAL REVENUE CODE. The term "Internal Revenue Code"
+13 means the Internal Revenue Code as amended and in effect on the first day of
+14 January 2025 2026, except that:
+15 (1) Internal Revenue Code section 85 is applied as in effect on January
+16 1, 2020; and
+17 (2) Specified research or experimental expenditures, as defined in
+18 section 174 of the Internal Revenue Code as in effect on December 31, 2024,
+19 incurred in taxable years beginning on or after January 1, 2022, and before
+20 January 1, 2025, shall continue to be expensed under the Internal Revenue
+21 Code provisions as in effect immediately before the enactment of section
+22 70302 of P.L. 119-21, rather than under the provisions of section 70302 of
+23 P.L. 119-21.
+24 SECTION 2. That Section 63-3022O, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 63-3022O. ADJUSTMENT -- PROPERTY ACQUIRED AFTER SEPTEMBER 10, 2001 --
+27 SMALL BUSINESS EXPENSES -- LIMITATIONS ON ASSESSMENTS AND REFUNDS. For tax-
+28 able years commencing on and after January 1, 2001, in computing Idaho tax-
+29 able income:
+30 (1)(a) The adjusted basis of depreciable property, depreciation, and
+31 gains and losses from sale, exchange, or other disposition of deprecia-
+32 ble property acquired after September 10, 2001, and before December 31,
+33 2007, shall be computed without regard to the bonus depreciation avail-
+34 able under subsection subsections (k) and (n) of section 168 of the In-
+35 ternal Revenue Code and the adjusted basis of depreciable property, de-
+36 preciation, and gains and losses from sale, exchange, or other dispo-
+37 sition of depreciable property acquired after December 31, 2009, shall
+38 be computed without regard to subsection subsections (k) and (n) of sec-
+39 tion 168 of the Internal Revenue Code, provided that to the extent a tax-
+40 payer cannot use the additional depreciation claimed under subsection
+
+2
+1 subsections (k) and (n) of section 168 of the Internal Revenue Code in
+2 the current year for federal income tax purposes because of loss limita-
+3 tions imposed by sections 465, 469, 704(d), and 1366(d) of the Internal
+4 Revenue Code, then such additional depreciation shall not be added back
+5 to federal taxable income in order to determine Idaho taxable income in
+6 the current year, and the current and subsequent year bonus deprecia-
+7 tion adjustments shall be suspended and the add-back and subtractions
+8 shall be applied as provided in this subsection.
+9 (b) In subsequent taxable years, the additional depreciation that was
+10 not added back to federal taxable income in the year it originated as
+11 provided in this subsection shall be added back when a prior loss that
+12 has been suspended under section 465, 469, 704(d), or 1366(d) of the In-
+13 ternal Revenue Code is deducted for federal income tax purposes in the
+14 following manner:
+15 (i) Bonus depreciation deducted for federal income tax purposes
+16 shall be added back to Idaho taxable income as the losses suspended
+17 under sections 465, 469, 704(d), and 1366(d) of the Internal Rev-
+18 enue Code are utilized, after the utilization of all losses other
+19 than those attributable to bonus depreciation;
+20 (ii) The amount of the bonus depreciation add-back shall be the
+21 full amount of the add-back less the cumulative allowable depreci-
+22 ation amounts for Idaho purposes. If, because of the limitations
+23 of sections 465, 469, 704(d), and 1366(d) of the Internal Revenue
+24 Code, there is a partial net add-back, then the net add-back amount
+25 for future periods will be adjusted to reflect the amount that was
+26 actually added back;
+27 (iii) After the add-back or net add-back has been fully added back
+28 to Idaho taxable income, the taxpayer may take the remaining de-
+29 ductions over the life of the asset regardless of the limitations
+30 under sections 465, 469, 704(d), and 1366(d) of the Internal Rev-
+31 enue Code;
+32 (iv) In the event of a disposition of a pass-through entity's own-
+33 ership interest, adjustments shall be made to the tax basis of the
+34 owner's interest of the pass-through entity to ensure there is no
+35 double deduction of expense or double inclusion of income. The ba-
+36 sis referred to in this subparagraph is the basis to the new owner
+37 in his ownership interest or the basis to the owner who disposed of
+38 this ownership interest, as applicable; and
+39 (v) In the event of a disposition of a pass-through entity's as-
+40 sets for which bonus depreciation was elected before the add-back
+41 was fully realized, adjustments shall be made to ensure there is no
+42 double deduction of expense or double inclusion of income.
+43 (c) For determining the Idaho adjusted income for part-year residents
+44 or nonresidents:
+45 (i) When a loss under section 465, 469, 704(d), or 1366(d) of
+46 the Internal Revenue Code is deducted for federal purposes and is
+47 sourced to Idaho, the additional depreciation that was not added
+48 back in the year it originated as provided in paragraph (a) of this
+49 subsection shall be added back in subsequent years based on the ap-
+
+3
+1 portionment factor in the year the bonus depreciation originated;
+2 and
+3 (ii) When a loss under section 465, 469, 704(d), or 1366(d) of the
+4 Internal Revenue Code is not sourced to Idaho, the add-back of ad-
+5 ditional depreciation shall be made in the current taxable year,
+6 notwithstanding the provisions of paragraph (a) of this subsec-
+7 tion.
+8 (2) The loss limitations imposed by sections 465, 469, 704(d), and
+9 1366(d) of the Internal Revenue Code shall be calculated without regard
+10 to depreciation claimed for federal tax purposes pursuant to subsection
+11 subsections (k) and (n) of section 168 of the Internal Revenue Code.
+12 (3) Each partner, shareholder, member, or beneficiary shall include in
+13 Idaho taxable income his share of the adjustments required by this section in
+14 computing Idaho taxable income of any pass-through entity.
+15 (4) In recognition of the fact that a taxpayer affected by this section
+16 may have a different tax basis in his pass-through entity interest and a
+17 different carryover of loss limitations and amount at risk for Idaho tax pur-
+18 poses than for federal tax purposes, each partner, shareholder, member, or
+19 beneficiary of any pass-through entity that claims the additional deprecia-
+20 tion pursuant to subsection subsections (k) and (n) of section 168 of the In-
+21 ternal Revenue Code shall keep records of the Idaho tax basis of his interest
+22 in the pass-through entity, the amount at risk, and the balance of his carry-
+23 over of Idaho loss limitations in order to confirm that the partner, share-
+24 holder, member, or beneficiary, or any successor of his interest by purchase
+25 or other means, does not receive directly or indirectly any Idaho income
+26 tax benefit from the additional depreciation available under subsection
+27 subsections (k) and (n) of section 168 of the Internal Revenue Code.
+28 (5) Notwithstanding the provisions of sections 63-3068 and 63-3072,
+29 Idaho Code, the period of limitations for issuing a notice of deficiency de-
+30 termination or filing a claim for refund for any year for which an adjustment
+31 is required by this section shall not expire before three (3) years from the
+32 later of: (a) the due date of the return for the last taxable year an adjust-
+33 ment was required by this section; or (b) the date the return was filed for
+34 the last taxable year an adjustment was required by this section. Upon the
+35 expiration of the period of limitations as provided in subsections (a) and
+36 (m) of section 63-3068, Idaho Code, and subsections (b) and (h) of section
+37 63-3072, Idaho Code, only those specific items of basis, deductions, gains,
+38 or losses that are computed without regard to subsection subsections (k) and
+39 (n) of section 168 of the Internal Revenue Code, as required by this section,
+40 shall be subject to adjustment, as well as the effect of such adjustments on
+41 Idaho credits, net operating loss deductions, and capital loss carryovers.
+42 SECTION 3. That Section 63-3029G, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 63-3029G. CREDITS FOR RESEARCH ACTIVITIES CONDUCTED IN THIS STATE --
+45 CARRYFORWARD.
+46 (1)(a) Subject to the limitations of this section, there shall be al-
+47 lowed to a taxpayer a nonrefundable credit against taxes imposed by sec-
+48 tions 63-3024, 63-3025, and 63-3025A, Idaho Code, for increasing re-
+49 search activities in Idaho.
+
+4
+1 (b) The credit allowed by paragraph (a) of this subsection shall be the
+2 sum of:
+3 (i) Five percent (5%) of the excess of qualified research ex-
+4 penses for research conducted in Idaho over the base amount; and
+5 (ii) Five percent (5%) basic research payments allowable under
+6 section 41(e) of the Internal Revenue Code for basic research con-
+7 ducted in Idaho.
+8 (c) The credit allowed by paragraph (a) of this subsection shall be com-
+9 puted without regard to the calculation of the alternative incremental
+10 credit provided for in section 41(c)(4) of the Internal Revenue Code or
+11 the alternative simplified credit provided for in section 41(c)(5) of
+12 the Internal Revenue Code.
+13 (2) As used in this section:
+14 (a) The terms "qualified research expenses," "qualified research,"
+15 "basic research payments" and "basic research" shall be as defined in
+16 section 41 of the Internal Revenue Code, except that the research must
+17 be conducted in Idaho.
+18 (b) The term "base amount" shall mean an amount calculated as provided
+19 in section 41(c) and (h) of the Internal Revenue Code, except that:
+20 (i) A taxpayer's gross receipts include only those gross receipts
+21 attributable to sources within this state as provided in subsec-
+22 tions (12) and (13) of section 63-3027, Idaho Code; and
+23 (ii) Notwithstanding section 41(c) of the Internal Revenue Code,
+24 for purposes of calculating the base amount, a taxpayer:
+25 (A) May elect to be treated as a start-up company as provided
+26 in section 41(c)(3)(B) of the Internal Revenue Code, regard-
+27 less of whether the taxpayer meets the requirements of sec-
+28 tion 41(c)(3)(B)(i)(I) or (II) of the Internal Revenue Code;
+29 and
+30 (B) May not revoke an election to be treated as a start-up
+31 company.
+32 (3) The credit allowed by subsection (1)(a) of this section together
+33 with any credits carried forward under subsection (5) of this section
+34 shall not exceed the amount of tax due under sections 63-3024, 63-3025, and
+35 63-3025A, Idaho Code, after allowance for all other credits permitted by
+36 this chapter. When credits earned in more than one (1) taxable year are
+37 available, the oldest credits shall be applied first.
+38 (4) In the case of a group of corporations filing a combined report
+39 under section 63-3027(22), Idaho Code, credit earned by one (1) member of
+40 the group but not used by that member may be used by another member of the
+41 group. For a combined group of corporations, any member of the group may
+42 claim credit carried forward unless the member who earned the credit is no
+43 longer included in the combined group.
+44 (5) The credit allowed by subsection (1)(a) of this section shall be
+45 claimed for the taxable year during which the taxpayer qualifies for the
+46 credit. If the credit exceeds the limitation under subsection (3) of this
+47 section, the excess amount may be carried forward for a period that does not
+48 exceed the next fourteen (14) taxable years. Any amounts deducted or amor-
+49 tized by a taxpayer pursuant to section 174 or 174A of the Internal Revenue
+50 Code that constitute qualified research expenses, qualified research, basic
+
+5
+1 research payments, or basic research, as those terms are defined in subsec-
+2 tion (2) of this section, shall not be eligible for the credit provided in
+3 this section.
+4 (6) In addition to other needed rules, the state tax commission may
+5 promulgate rules prescribing, in the case of S corporations, partnerships,
+6 trusts, or estates, a method of attributing the credit under this section to
+7 the shareholders, partners, or beneficiaries in proportion to their share of
+8 the income from the S corporation, partnership, trust, or estate.
+9 SECTION 4. An emergency existing therefor, which emergency is hereby
+10 declared to exist, this act shall be in full force and effect on and after its
+11 passage and approval, and retroactively to January 1, 2025.

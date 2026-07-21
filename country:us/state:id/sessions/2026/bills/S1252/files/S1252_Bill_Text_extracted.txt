@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1252
+BY LOCAL GOVERNMENT AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO STATE AFFAIRS; AMENDING CHAPTER 35, TITLE 67, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 67-3537, IDAHO CODE, TO PROVIDE A SHORT TI-
+4 TLE AND TO PROVIDE FOR A LIMITATION ON INCREASES IN STATE BUDGETS; AND
+5 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 35, Title 67, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 67-3537, Idaho Code, and to read as follows:
+10 67-3537. LIMITATION ON INCREASES IN STATE BUDGETS. (1) This section
+11 shall be known and may be cited as the "Restraint of Government Uncontrolled
+12 Expansion (ROGUE) Act."
+13 (2) Notwithstanding any other provision of law to the contrary, the an-
+14 nual maintenance budget of an entity of the state government of the state of
+15 Idaho, including but not limited to any department, agency, office, officer,
+16 board, commission, institution, or state college or university, shall not
+17 increase by more than the average percentage increase in the consumer price
+18 index for all urban consumers for the west region as determined by the United
+19 States bureau of labor statistics for the twelve (12) calendar months pre-
+20 ceding the month and year in which state entities submit maintenance budget
+21 requests to the legislature and the governor. If such percentage reflects a
+22 zero percent (0%) increase or a decrease, the state entity maintenance bud-
+23 get request shall not exceed the dollar amount of the previous fiscal year
+24 maintenance budget as approved by the legislature.
+25 (3) Any annual increase of a maintenance budget of any entity of the
+26 state government of the state of Idaho may be higher than the budget increase
+27 restriction provided in subsection (2) of this section in the case of exigent
+28 situations, federally mandated expenditures, or sustained difficulties in
+29 keeping with such restriction as it relates to meeting operational objec-
+30 tives.
+31 SECTION 2. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after
+33 July 1, 2026.

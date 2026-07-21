@@ -1,0 +1,230 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 954
+BY CAYLER
+1 AN ACT
+2 RELATING TO THE IDAHO CHILD PROTECTION CENTRAL REGISTRY; PROVIDING LEGISLA-
+3 TIVE INTENT; AMENDING CHAPTER 16, TITLE 16, IDAHO CODE, BY THE ADDITION
+4 OF A NEW SECTION 16-1650, IDAHO CODE, TO PROVIDE CERTAIN PROCEDURES AND
+5 PROTECTIONS FOR PERSONS LISTED ON THE IDAHO CHILD PROTECTION CENTRAL
+6 REGISTRY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature to
+9 ensure that Idaho's procedures for listing individuals on the Idaho Child
+10 Protection Central Registry comport with constitutional due process re-
+11 quirements, and the Legislature does so for the following reasons:
+12 (1) The Fifth and Fourteenth Amendments of the Constitution of the
+13 United States prohibit governments from depriving individuals of their lib-
+14 erty or property interests without due process of law;
+15 (2) Idaho has established procedures for collecting child abuse and
+16 child neglect investigation records in the Idaho Child Protection Central
+17 Registry, IDAPA 16.06.01, Sections 561. through 566., that include the
+18 identities of individuals alleged to have abused or neglected a child;
+19 (3) The names in the Idaho Child Protection Central Registry may be dis-
+20 closed to certain third parties in the course of background checks related to
+21 an individual's employment, licensure, and volunteer activities;
+22 (4) Such disclosures may have a significant negative impact on an indi-
+23 vidual's liberty and property interests, including the loss or denial of em-
+24 ployment and reputation in the community; and
+25 (5) Such disclosures can cause long-term harm to an individual's abil-
+26 ity to earn a living and may disproportionately impact individuals strug-
+27 gling with conditions of poverty.
+28 SECTION 2. That Chapter 16, Title 16, Idaho Code, be, and the same is
+29 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+30 ignated as Section 16-1650, Idaho Code, and to read as follows:
+31 16-1650. IDAHO CHILD PROTECTION CENTRAL REGISTRY -- HEARING, NOTICE,
+32 AND EXPUNGEMENT. (1) Information about an alleged perpetrator of child abuse
+33 or child neglect shall not be included in the Idaho child protection central
+34 registry absent a criminal charge. A hearing must be held, with notice pro-
+35 vided to the alleged perpetrator, where inclusion in the registry shall re-
+36 quire clear and convincing evidence.
+37 (2) Before the department may add an alleged perpetrator to the Idaho
+38 child protection central registry, the department shall provide notice to
+39 the alleged perpetrator of its intent to list the alleged perpetrator's name
+40 in the registry within forty-five (45) days of a court's ruling finding the
+41 allegations have been substantiated via written notice by signature-cer-
+
+2
+1 tified mail. If the department does not provide such written notice within
+2 forty-five (45) days, the department shall not list the alleged perpetra-
+3 tor's name in the registry or in any other program, bureau, registry, or
+4 listing utilized by the department for such purpose, and the assigned social
+5 worker shall be subject to the provisions of section 56-1008, Idaho Code, to
+6 disciplinary action, including but not limited to review, retraining, and
+7 relicensing for social work, and to claims of civil rights violations and
+8 parental rights violations. Written notice required in this subsection must
+9 include the following:
+10 (a) A clear statement of the specific allegations that will be added to
+11 the registry, including the name of the alleged perpetrator and the al-
+12 leged victim, the injuries or harm alleged to have resulted from child
+13 abuse or neglect, and the date on which the report was made;
+14 (b) The consequences of being listed in the registry, including pos-
+15 sible negative impacts on the alleged perpetrator's employment, licen-
+16 sure, and ability to have future contact with children, which includes
+17 contact at volunteer and school activities;
+18 (c) The maximum amount of time the individual's name will be included in
+19 the registry, provided that such amount of time, excluding those placed
+20 with a level one designation, shall not exceed ten (10) years;
+21 (d) A complete copy of the record that is to be added to the registry;
+22 and
+23 (e) Confirmation that the department has scheduled a hearing to review
+24 its findings and the contact information for the fair hearings unit.
+25 (3) The department shall submit a request for a hearing to the office of
+26 administrative hearings within thirty (30) days of a court finding substan-
+27 tiating allegations of child abuse or neglect against an alleged perpetra-
+28 tor.
+29 (4) Each child welfare case shall be reviewed by the child protection
+30 legislative oversight committee and the citizen review panel of the respec-
+31 tive health district in which the case is presented prior to the department
+32 listing the alleged perpetrator in the Idaho child protection central reg-
+33 istry. The department shall provide a copy of the child welfare case in its
+34 entirety to the oversight committee and the citizen review panel. The over-
+35 sight committee and the citizen review panel shall provide a written report
+36 of their findings to the judge presiding over the child welfare case and the
+37 department-assigned case worker. The written report shall be provided to
+38 the alleged perpetrator within forty-five (45) days of a court ruling of sub-
+39 stantiated allegations.
+40 (5) The department shall not add an alleged perpetrator to the Idaho
+41 child protection central registry or release information to any third party
+42 until all appeals are either exhausted or waived by the alleged perpetrator
+43 and written notice via signature-certified mail has been received by the al-
+44 leged perpetrator.
+45 (6) Upon receipt of a request for a hearing from the department regard-
+46 ing its intention to list an alleged perpetrator in the Idaho child protec-
+47 tion central registry, the office of administrative hearings shall contact
+48 the parties to schedule a date for the hearing, which shall be held no later
+49 than forty-five (45) days from the date of request for a hearing.
+
+3
+1 (7) A hearing held pursuant to this section shall be considered a con-
+2 tested case and be eligible for appeal to a court of competent jurisdiction.
+3 (8) Prior to a hearing, the department shall provide the alleged perpe-
+4 trator with a copy of the full investigative file including any exculpatory
+5 evidence within its possession or control at no cost to the alleged perpetra-
+6 tor, and a hearing officer shall allow discovery between the department and
+7 the alleged perpetrator and shall not issue a decision without consideration
+8 of all factual evidence.
+9 (9) For a finding of child abuse or child neglect to be substantiated,
+10 the department must show at a hearing that such child abuse or child neglect
+11 occurred and that the specific alleged perpetrator named caused the alleged
+12 child abuse or child neglect.
+13 (10) At a hearing held pursuant to this section, the alleged perpetrator
+14 shall have the right to:
+15 (a) Be represented by counsel;
+16 (b) Present sworn evidence, law, or rules related to the allegation,
+17 and the hearing officer shall not refuse to hear such evidence, law, or
+18 rules; and
+19 (c) Subpoena witnesses, cross-examine any department witnesses, in-
+20 troduce evidence, object to evidence introduced by the department, and
+21 make a closing argument.
+22 (11) Within forty-five (45) days after the conclusion of a hearing con-
+23 ducted pursuant to this section, the hearing officer shall issue a written
+24 decision containing findings of fact and conclusions of law. The findings
+25 of fact shall be based on competent evidence and substantial evidence in the
+26 record. Documentary evidence, including medical records when relevant,
+27 shall be considered. A finding against an alleged perpetrator shall not be
+28 based solely on hearsay evidence or uncorroborated testimony.
+29 (12) If the hearing officer finds, by clear and convincing evidence,
+30 that there is sufficient evidence to support the department's allegations,
+31 the substantiated allegations against the perpetrator shall, within thirty
+32 (30) days, be entered in the Idaho child protection central registry for a
+33 period of time not to exceed ten (10) years or until the alleged victim turns
+34 eighteen (18) years of age, whichever occurs first, except for those perpe-
+35 trators with a level one designation. A written letter of confirmation of
+36 substantiated allegations shall be provided to the perpetrator via signa-
+37 ture-certified mail from the department along with a copy of the decision,
+38 both at no cost to the perpetrator. A copy of the confirmation shall also be
+39 submitted to any other child registries, including any national child reg-
+40 istries utilized by the department. If the department does not provide such
+41 written confirmation within thirty (30) days of the decision, the department
+42 shall not be allowed to list the perpetrator in the registry or any other pro-
+43 gram, registry, or listing utilized by the department for such purpose, and
+44 the assigned department social worker shall be subject to the provisions of
+45 section 56-1008, Idaho Code, to disciplinary action, including but not lim-
+46 ited to review, retraining, and relicensing for social work, and to claims of
+47 civil rights violations and parental rights violations.
+48 (13) If the hearing officer finds a lack of clear and convincing evi-
+49 dence to support the allegations of child abuse or child neglect, the offi-
+50 cer shall order the department to amend its finding accordingly, and the al-
+
+4
+1 leged perpetrator shall not be entered in to the Idaho child protection cen-
+2 tral registry or in any other program, registry, or listing utilized by the
+3 department for such purpose, and the assigned department social worker shall
+4 be subject to the provisions of sections 16-1607 and 56-1008, Idaho Code.
+5 If the hearing officer finds that there is insufficient evidence to support
+6 the allegations of child abuse or child neglect, the individual is not to be
+7 named in the registry, and a charge of child abuse or child neglect shall not
+8 be attached to such individual in an Idaho child protective act case, a crim-
+9 inal or civil case, or a family law case.
+10 (14) Except for those perpetrators with a level one designation, once
+11 a perpetrator has been on the Idaho child protection central registry for
+12 ten (10) years or once the alleged victim turns eighteen (18) years of age,
+13 whichever occurs first, the department shall remove the perpetrator from the
+14 registry and, within thirty (30) days of such removal, provide to the perpe-
+15 trator a written letter via signature-certified mail stating that the perpe-
+16 trator has been removed from the registry.
+17 (15) If the department maintains an unsubstantiated record on the Idaho
+18 child protection central registry or retains a substantiated record for more
+19 than ten (10) years or once the alleged victim turns eighteen (18) years of
+20 age, the assigned social worker shall be subject to the provisions of sec-
+21 tion 56-1008, Idaho Code, and the alleged perpetrator shall be entitled to
+22 two thousand eighty-three dollars ($2,083) for each month that the record
+23 remained on the registry.
+24 (16) An individual listed in the Idaho child protection central reg-
+25 istry may request to have his or her name expunged from the registry at no
+26 cost to the individual by submitting a written request to the office of ad-
+27 ministrative hearings accompanied by an affidavit sworn to by the individual
+28 or his or her legal counsel. The affidavit shall state facts sufficient to
+29 show that there is good cause for expungement and a hearing. The office of
+30 administrative hearings shall respond to the individual's request via sig-
+31 nature-certified mail within thirty (30) days of the date of the request. If
+32 a hearing is deemed necessary, the hearing date shall not exceed forty-five
+33 (45) days from the date of the office of administrative hearings' response.
+34 Good cause under this subsection shall include:
+35 (a) Evidence that a substantiated report of child abuse or child ne-
+36 glect is inaccurate;
+37 (b) Evidence that the individual in a substantiated report no longer
+38 poses a risk and that no significant public purpose would be served by
+39 continued listing of the individual as a perpetrator in the Idaho child
+40 protection central registry; or
+41 (c) The individual has been on the Idaho child protection central reg-
+42 istry for more than ten (10) years or the alleged victim has reached
+43 eighteen (18) years of age and the individual remains on the registry.
+44 (17) Except for the affidavit required in subsection (16) of this sec-
+45 tion, a written request for expungement submitted pursuant to this section
+46 does not need to be in a specific form or format.
+47 (18) At any time prior to a hearing for expungement requested under this
+48 section, the department may administratively expunge an individual's name
+49 from the Idaho child protection central registry. Upon such expungement,
+50 the department shall provide a written letter via signature-certified mail
+
+5
+1 confirming that the expungement has been completed to the individual, the
+2 office of administrative hearings, and assigned judges presiding over any
+3 civil, family law, or criminal cases involving the individual, including any
+4 child protective cases.
+5 (19) A hearing of expungement from the Idaho child protection central
+6 registry shall be conducted in accordance with the provisions of this sec-
+7 tion. If a request for expungement is denied, the alleged perpetrator shall
+8 have the right to appeal to a court of competent jurisdiction.
+9 (20) No waiting period shall be required before an alleged perpetrator
+10 may request expungement from the Idaho child protection central registry.
+11 (21) An individual listed in the Idaho child protection central reg-
+12 istry prior to the effective date of this act may request to have his or her
+13 name expunged from the registry pursuant to the provisions of this section.
+14 (22) The failure to provide procedural due process to an alleged per-
+15 petrator pursuant to this section shall be a substantial failure of rights,
+16 sufficient to support judicial review.
+17 SECTION 3. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after
+19 July 1, 2026.

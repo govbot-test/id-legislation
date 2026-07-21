@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Hill
+Seconded by Barbieri(3)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO H.B. NO. 561
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 30, following "occasions," insert:
+3 "including the Basque autonomous community flag as recognized as an offi-
+4 cial flag by the Spanish government,"; in line 31, delete "and" and insert:
+5 "and"; in line 35, delete "." and insert: "; and"; and following line 35, in-
+6 sert:
+7 "(h) Flags, banners, or pennants displayed on government-owned flag-
+8 poles or streetlights or on any government property along streets or
+9 boulevards that are not political, religious, or ideological in na-
+10 ture.".

@@ -1,0 +1,327 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 904
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PROPERTY SALES; AMENDING CHAPTER 1, TITLE 55, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 55-116, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 PROHIBITING THE PURCHASE OF SINGLE-FAMILY HOMES BY FOREIGN PERSONS, TO
+5 DEFINE A TERM, TO PROVIDE PROCEDURES, TO PROVIDE FOR ENFORCEMENT, AND
+6 TO PROVIDE FOR IMMUNITY FROM LIABILITY; AMENDING SECTION 55-103, IDAHO
+7 CODE, TO REVISE A PROVISION REGARDING EXCEPTIONS TO WHO MAY OWN PROPERTY
+8 AND TO MAKE A TECHNICAL CORRECTION; AND DECLARING AN EMERGENCY AND PRO-
+9 VIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Chapter 1, Title 55, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 55-116, Idaho Code, and to read as follows:
+14 55-116. PROHIBITION ON PURCHASE OF SINGLE-FAMILY HOMES BY FOREIGN
+15 PERSONS. (1) On and after July 1, 2026, a foreign person, as defined in this
+16 section, shall not be permitted to purchase or acquire a controlling inter-
+17 est in the ownership of a single-family home property in Idaho.
+18 (2) For the purpose of this section, "foreign person" means:
+19 (a) An individual who is not a citizen or legal resident of the United
+20 States, or an agent, trustee, or fiduciary thereof;
+21 (b) A foreign corporation incorporated under the laws of a jurisdiction
+22 outside of the United States that would be a business corporation if in-
+23 corporated under the laws of this state, or an agent, trustee, or fidu-
+24 ciary thereof;
+25 (c) A foreign government, meaning a government other than the federal
+26 government of the United States, the government of any territory or pos-
+27 session of the United States, or the government of any state, political
+28 subdivision of a state, or Indian tribe;
+29 (d) A real estate investment trust, whether publicly traded or not, the
+30 majority of whose shareholders are restricted persons described in this
+31 subsection;
+32 (e) A company that is registered with the United States securities and
+33 exchange commission as an investment adviser under the investment ad-
+34 visers act of 1940, as amended, when acting on behalf of clients who are
+35 restricted persons described in this subsection; or
+36 (f) Any other corporation, business trust, estate, trust, partnership,
+37 limited liability company, association, joint venture, agency, or in-
+38 strumentality, or any other legal or commercial entity, acting on be-
+39 half of a nonresident alien, foreign corporation, or foreign govern-
+40 ment, or an agent, trustee, or fiduciary thereof.
+41 (3) A foreign person that acquires, directly or indirectly, control of
+42 a single-family home property on or after July 1, 2026, by devise, by de-
+
+2
+1 scent, through the enforcement of security interests, or through the collec-
+2 tion of debts, must sell, transfer, or otherwise divest itself of the prop-
+3 erty within one hundred eighty (180) days of acquiring control of the prop-
+4 erty.
+5 (4) If a foreign person does not divest the single-family home property
+6 as required by this section, the attorney general shall commence an action in
+7 the district court within the jurisdiction of the property.
+8 (5) If the property is held in violation of this section, the district
+9 court shall order that the property be sold through judicial foreclosure.
+10 Proceeds of the sale shall be disbursed to lienholders, in the order of pri-
+11 ority, except for liens that, under the terms of the sale, are to remain on
+12 the property.
+13 (6) On or after January 1, 2027, any individual may act as a whistle-
+14 blower and provide a referral to the office of the attorney general for vio-
+15 lations of this section.
+16 (7) If a whistleblower referral results in a divestiture of land or
+17 other assets held in violation of this section, the whistleblower shall be
+18 entitled to a reward equal to thirty percent (30%) of the proceeds of the
+19 property sale resulting from a violation of this section after disbursements
+20 have been made pursuant to paragraphs (a) through (c) of this subsection.
+21 Proceeds of the sale shall be disbursed in the following order:
+22 (a) The payment of authorized costs of the sale, including all approved
+23 fees and expenses of the referee and any taxes and assessments due;
+24 (b) The payment, in an amount approved by the court, to the attorney
+25 general for reimbursement of investigation and litigation costs and ex-
+26 penses;
+27 (c) To bona fide lienholders, in the order of priority, except for liens
+28 that, under the terms of the sale, are to remain on the property;
+29 (d) To whistleblowers; and
+30 (e) To the restricted foreign person.
+31 (8) The responsibility for determining whether a foreign person is sub-
+32 ject to the provisions of this section rests solely with the foreign person,
+33 the attorney general, or any qualifying whistleblower. An individual or en-
+34 tity who is not a foreign person shall not be required to determine or inquire
+35 whether another person or entity is or may be subject to the provisions of
+36 this section and shall bear no civil or criminal liability under this sec-
+37 tion.
+38 SECTION 2. That Section 55-103, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 55-103. WHO MAY OWN PROPERTY. (1) Except as provided in subsection (2)
+41 or (3) of this section or as otherwise provided in this chapter, any person,
+42 whether citizen or alien, may take, hold, and dispose of property, real or
+43 personal.
+44 (2) Notwithstanding any provision of law to the contrary, on and af-
+45 ter the effective date of this subsection, a foreign government or a foreign
+46 state-controlled enterprise shall not purchase, acquire, or hold any con-
+47 trolling interest in agricultural land, forest land, water rights, mining
+48 claims, or mineral rights in the state of Idaho. This subsection does not
+49 apply to any interest in agricultural land, forest land, water rights, min-
+
+3
+1 ing claims, or mineral rights acquired by a foreign government or foreign
+2 state-controlled enterprise prior to the effective date of this subsection
+3 or to any foreign pension fund.
+4 (3) Notwithstanding any other provision of law to the contrary, a for-
+5 eign principal from a foreign adversary shall not purchase, acquire, or hold
+6 any controlling interest, except a de minimis indirect interest, in agricul-
+7 tural land, water rights, mining claims, or mineral rights in the state of
+8 Idaho. A foreign principal has a de minimis indirect interest if any owner-
+9 ship is the result of the foreign principal's ownership of registered equi-
+10 ties in a publicly traded company owning the land and if the foreign princi-
+11 pal's ownership in the company is either:
+12 (a) Less than five percent (5%) of any class of registered equities or
+13 less than five percent (5%) in the aggregate in multiple classes of reg-
+14 istered equities; or
+15 (b) A noncontrolling interest in an entity controlled by a company that
+16 is both registered with the United States securities and exchange com-
+17 mission as an investment advisor under the investment advisers act of
+18 1940, as amended, and is not a foreign entity.
+19 (4) A foreign principal that directly or indirectly owns or otherwise
+20 controls agricultural land, water rights, mining claims, or mineral rights
+21 in the state of Idaho must sell, transfer, or otherwise divest itself of
+22 the agricultural land, mining claims, or mineral rights within one hundred
+23 eighty (180) days of the effective date of this act.
+24 (5) A foreign principal that directly or indirectly owns or acquires
+25 agricultural land, water rights, or any interest in such land in this state
+26 must register with the Idaho state department of agriculture within sixty
+27 (60) days of the effective date of this act or the date of acquisition,
+28 whichever is latest. The department must establish a form for such registra-
+29 tion, which, at a minimum, must include all of the following:
+30 (a) The name of the owner of the agricultural land, water rights, or the
+31 owner of the interest in such land;
+32 (b) The address of the agricultural land, the property appraiser's par-
+33 cel identification number, and the property's legal description; and
+34 (c) The number of acres of agricultural land.
+35 (6) A foreign principal that directly owns or acquires mining claims
+36 or mineral rights or any interest in such claims in this state must register
+37 with the Idaho department of lands and the Idaho secretary of state within
+38 sixty (60) days of the effective date of this act or the date of acquisition,
+39 whichever is latest. The foreign principal shall be registered to do busi-
+40 ness with the Idaho secretary of state's office. The Idaho department of
+41 lands shall provide the form for such registration, which at a minimum must
+42 include the following:
+43 (a) The mineral lease number with lease length and premises by parcel
+44 and acres; and
+45 (b) The application for use of state land by the individual or legal en-
+46 tity.
+47 (7) Notwithstanding the provisions of subsection (3) of this section, a
+48 foreign principal from a foreign adversary country may acquire agricultural
+49 land, mining claims, or mineral rights on or after July 1, 2025, by devise
+50 or descent, through the enforcement of security interests, or through the
+
+4
+1 collection of debts, provided that the foreign principal sells, transfers,
+2 or otherwise divests itself of the agricultural land, water rights, mining
+3 claims, or mineral rights within one hundred eighty (180) days of acquiring
+4 the agricultural land, mining claims, or mineral rights.
+5 (8) The provisions of subsections (3) through (7) of this section shall
+6 not apply to an entity that has a national security agreement with the com-
+7 mittee on foreign investment in the United States as of July 1, 2025, and
+8 maintains such national security agreement.
+9 (9) The Idaho state department of agriculture and department of lands
+10 shall adopt rules, subject to legislative approval, to implement the provi-
+11 sions of this section.
+12 (10) The responsibility for determining whether an entity is subject to
+13 this section rests solely with the foreign entity, the attorney general, or
+14 any qualifying whistleblower, and no other individual or entity. An indi-
+15 vidual or entity who is not a foreign entity shall not be required to deter-
+16 mine or inquire whether another person or entity is or may be subject to the
+17 provisions of this section and shall bear no civil or criminal liability un-
+18 der this section.
+19 (11) If a foreign principal from a foreign adversary country does not
+20 divest the public or private lands, mining claims, or mineral rights as re-
+21 quired by this section, the attorney general shall commence an action in the
+22 district court within the jurisdiction of the public or private land, mining
+23 claims, or mineral rights.
+24 (12) If the public or private land is held in violation of this sec-
+25 tion, the district court shall order that the public or private land be sold
+26 through judicial foreclosure.
+27 (13) Proceeds of the sale shall be disbursed to lienholders, in the or-
+28 der of priority, except for liens that, under the terms of the sale, are to
+29 remain on the public or private land.
+30 (14) Any individual may act as a whistleblower and provide a referral to
+31 the office of the attorney general for violations of this section.
+32 (15) If a whistleblower referral results in a divestiture of land, min-
+33 ing claims, or mineral rights or other assets held in violation of this sec-
+34 tion, the whistleblower shall be entitled to a reward equal to thirty percent
+35 (30%) of the proceeds of the land, mining claims, mineral rights, or asset
+36 sale resulting from a violation of this section after payment of lienhold-
+37 ers. Proceeds of the sale shall be disbursed in the following order:
+38 (a) To bona fide lienholders, in order of priority, except for liens
+39 that, under the terms of the sale, are to remain on the property;
+40 (b) The payment of authorized costs of the sale, including all approved
+41 fees and expenses of the referee and any taxes and assessments due;
+42 (c) The payment, in an amount approved by the court, to the attorney
+43 general for reimbursement of investigation and litigation costs and ex-
+44 penses;
+45 (d) To whistleblowers; and
+46 (e) To the restricted foreign entity.
+47 (16) The whistleblower enforcement provision takes effect one hundred
+48 eighty (180) days after the enforcement date of this section.
+49 (17) As used in this section:
+
+5
+1 (a) "Agricultural land" shall have the same meaning as "land actively
+2 devoted to agricultural purposes" as provided in section 63-604, Idaho
+3 Code.
+4 (b) "Controlling interest" means:
+5 (i) Possession of more than fifty percent (50%) of the ownership
+6 interest in an entity; or
+7 (ii) A percentage of ownership interest in an entity that is fifty
+8 percent (50%) or less if a foreign government actually directs the
+9 business and affairs of the entity without the requirement or con-
+10 sent of any other party.
+11 (c) "Foreign adversary" means any foreign government or foreign non-
+12 government person engaged in a long-term pattern or serious instances
+13 of conduct significantly adverse to the national security of the United
+14 States or security and safety of United States persons as determined un-
+15 der 15 CFR 791.4, as it existed on January 1, 2025.
+16 (d) "Foreign government" means a government other than the federal gov-
+17 ernment of the United States or the government of any state, political
+18 subdivision of a state, territory, federally recognized Indian tribe,
+19 or possession of the United States.
+20 (e) "Forest land" means privately owned or state-owned land being held
+21 and used primarily for the continuous purpose of growing and harvesting
+22 trees of a marketable species. Having met the above criteria, forest
+23 land includes:
+24 (i) Forest land is land evidenced by present use and silvicul-
+25 tural treatment.
+26 (ii) Forest land is land that has a dedicated use that is further
+27 evidenced by a forest land management plan that includes eventual
+28 harvest of the forest crop.
+29 (iii) Forest land is land bearing forest growth or land that has
+30 not been converted to another use.
+31 (iv) Forest land is land that has had the trees removed by man
+32 through harvest, including clear-cuts or by natural disaster,
+33 such as but not limited to fire, and which within five (5) years af-
+34 ter harvest or initial assessment will be reforested as specified
+35 in the forest practices act, chapter 13, title 38, Idaho Code.
+36 (f) "Foreign pension fund" means a trust, corporation, or other entity
+37 created or organized under the law of a country other than the United
+38 States to provide retirement or pension fund benefits. However, the
+39 term "foreign pension fund" shall not include any trust, corporation,
+40 or other entity that is owned by or subject to a controlling interest of
+41 a sovereign wealth fund.
+42 (g) "Foreign principal" means:
+43 (i) The government or any official of the government of a foreign
+44 adversary;
+45 (ii) A political party or member of a political party or any subdi-
+46 vision of a political party of a foreign adversary;
+47 (iii) A partnership, association, corporation, organization, or
+48 other combination of persons organized under the laws of or having
+49 its principal place of business in a foreign adversary, or a sub-
+50 sidiary of such entity, owned or controlled wholly or in part by
+
+6
+1 any person, entity, or collection of persons or entities of a for-
+2 eign adversary;
+3 (iv) Any person who is domiciled in a foreign adversary and is not
+4 a citizen or lawful permanent resident of the United States; and
+5 (v) Any person, entity, or collection of persons or entities de-
+6 scribed in this paragraph having a controlling interest in a part-
+7 nership, association, corporation, organization, trust, or any
+8 other legal entity or subsidiary formed for the purpose of owning
+9 real property.
+10 (h) "Mineral right" shall have the same meaning as provided in section
+11 47-701, Idaho Code.
+12 (i) "Mining claim" means a portion of land containing minerals that a
+13 miner has a right to occupy and possess for the purpose of extracting
+14 minerals.
+15 (j) "State-controlled enterprise" means a business enterprise, how-
+16 ever denominated, sovereign wealth fund, or state-backed investment
+17 fund in which a foreign government has a controlling interest.
+18 (k) "Water right" shall have the same meaning as provided in section
+19 42-230, Idaho Code.
+20 (4)(a) (18)(a) The attorney general shall investigate acquisitions of
+21 interests in real property reasonably suspected of violating the prohi-
+22 bitions provided for in subsection (2) of this section upon receipt of a
+23 complaint alleging such violation.
+24 (b) The attorney general shall enforce the prohibitions provided for
+25 in subsection (2) of this section for any interest in land, rights, or
+26 claims held in violation of the provisions of subsection (2) of this
+27 section by petitioning the district court for an order and judgment
+28 that: finds such violation; appoints a receiver; and authorizes the
+29 receiver to sell such land, rights, or claims. For a receivership pro-
+30 ceeding under this section:
+31 (i) Proceeds of the sale shall be disbursed to lienholders, in
+32 order of priority, except for liens that, under the terms of the
+33 sale, are to remain on the land, rights, or claims;
+34 (ii) At the receivership sale, lienholders shall be permitted to
+35 have a credit bid; and
+36 (iii) Any excess proceeds shall be disbursed to the owner of record
+37 of the real property.
+38 (c) Upon the commencement of an action provided for in this section, the
+39 attorney general shall promptly file a notice of lis pendens with the
+40 court.
+41 (d) Upon the entry of a court order appointing a receiver and authoriz-
+42 ing the receiver's powers to sell the property pursuant to the provi-
+43 sions of this section, the attorney general shall promptly record a copy
+44 of the court order in the office of the county where the property is lo-
+45 cated that is responsible for the maintenance of property records.
+46 (e) No title to land, rights, or claims shall be invalid or subject to
+47 divestiture due to a violation of the provisions of this section by any
+48 former owner or other individual or entity having formerly held or owned
+49 an interest in the real property.
+
+7
+1 (f) Divestiture of a foreign government's or foreign state-controlled
+2 enterprise's title under this section shall not be a basis to void,
+3 invalidate, or otherwise extinguish any bona fide mortgage, lien, or
+4 other interest granted by, through, or under the foreign government or
+5 foreign state-controlled enterprise.
+6 (g) No person or entity that is not a foreign government or a foreign
+7 state-controlled enterprise shall bear any civil or criminal liability
+8 for failing to determine or to make an inquiry about whether an indi-
+9 vidual or other entity is a foreign government or a foreign state-con-
+10 trolled enterprise.
+11 SECTION 3. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after
+13 July 1, 2026.

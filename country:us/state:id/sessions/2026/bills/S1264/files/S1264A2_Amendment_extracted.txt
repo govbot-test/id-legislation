@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Cook
+Seconded by Den Hartog
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1264
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 25, delete "seven (7)" and insert:
+3 "nine (9)"; in line 26, delete "three (3)" and insert: "four (4)"; in line
+4 28, delete "three (3)" and insert: "four (4)"; and in line 31, following
+5 "members" insert: "from both the senate and the house of representatives".
+6 On page 2, in line 2, delete "no later than March"; in line 3, delete "15,
+7 2026,"; and following line 22, insert:
+8 "(4) The committee shall have access to all data regarding rural health
+9 transformation program awards received or created by the department of
+10 health and welfare, including but not limited to scoring data, rubrics, and
+11 reporting information. Such data shall be readily accessible through a se-
+12 cure portal, website, shared drive, or other method providing instantaneous
+13 or real-time access.".

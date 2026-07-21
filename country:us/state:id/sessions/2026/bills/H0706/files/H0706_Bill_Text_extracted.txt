@@ -1,0 +1,237 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 706
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO BUILDING CODE ACT; AMENDING CHAPTER 41, TITLE 39,
+3 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-4109C, IDAHO CODE, TO
+4 ESTABLISH PROVISIONS AUTHORIZING LOCAL GOVERNMENTS TO ALLOW FOR SINGLE
+5 STAIRWAYS IN CERTAIN APARTMENT BUILDINGS; AMENDING SECTION 39-4116,
+6 IDAHO CODE, TO REVISE A PROVISION REGARDING LOCAL GOVERNMENT ADOPTION
+7 AND ENFORCEMENT OF BUILDING CODES; AND DECLARING AN EMERGENCY AND PRO-
+8 VIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 41, Title 39, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 39-4109C, Idaho Code, and to read as follows:
+13 39-4109C. SINGLE STAIRWAY BUILDING EXCEPTIONS. (1) Notwithstanding a
+14 local government's adoption of the International Building Code or any other
+15 provision of law to the contrary, local governments may allow residential
+16 group R-2 apartment buildings to be served by one (1) single stairway under
+17 the following conditions:
+18 (a) The building has no more than six (6) stories above grade plane
+19 without an occupiable roof, or has no more than five (5) stories above
+20 grade plane with an occupiable roof and no more than one (1) basement
+21 level;
+22 (b) The building has no more than four (4) dwelling units on any floor
+23 with a maximum gross floor area not exceeding six thousand (6,000)
+24 square feet for each story;
+25 (c) The building is of type I, II, III, IV, or V construction;
+26 (d) An automatic sprinkler system shall be provided throughout the
+27 building in accordance with section 903.3.1.1 of the national fire pro-
+28 tection association's standard, NFPA 13;
+29 (e) An interior stairway is provided and doors in the stairway swing
+30 into the interior stairway regardless of the occupant load served, pro-
+31 vided that doors from the interior exit stairway to the building exte-
+32 rior are permitted to swing in the direction of exit travel;
+33 (f) Openings into the interior exit stairway shall be ninety (90)
+34 minute fire protection rated with self-closers and no hold-open de-
+35 vices, unless they are interconnected with the fire alarm system to
+36 release upon activation of the occupant notification system and open-
+37 ings are limited to those required for exit access into the enclosure
+38 from normally occupied spaces, openings required for egress from the
+39 stairway, and openings to the exterior. Elevators shall not open into
+40 the interior exit stairway;
+
+2
+1 (g) The interior exit stairway and elevator shaft shall have a fire re-
+2 sistance rating of not less than two (2) hours regardless of the number
+3 of stories connected;
+4 (h) The width of the exit stairway shall not be less than forty-eight
+5 (48) inches;
+6 (i) A minimum one (1) hour fire resistance rated corridor separates
+7 each dwelling unit entry and exit door from the door to an interior exit
+8 stairway, including any related exit passageway, on each floor;
+9 (j) Dwelling unit doors shall not open directly into an interior exit
+10 stairway;
+11 (k) No more than twenty (20) feet of travel distance shall exist between
+12 the exit stairway and the entry and exit door of any dwelling unit;
+13 (l) Exit access travel distance shall not exceed one hundred twenty-
+14 five (125) feet;
+15 (m) An exit serving the group R-2 occupancy as defined in the Interna-
+16 tional Building Code shall not discharge through any other occupancy,
+17 including an accessory parking garage;
+18 (n) An exit shall not terminate in an egress court where the court depth
+19 exceeds the court width unless it is possible to exit in either direc-
+20 tion to the public way;
+21 (o) Exterior wall openings shall be three-fourths (3/4) hour fire pro-
+22 tection rated when located within ten (10) feet of the exit discharge
+23 door or other unprotected exterior wall openings into the interior exit
+24 stairway;
+25 (p) Emergency escape and rescue openings shall comply with the require-
+26 ments of the International Building Code on all floors served by the
+27 single exit;
+28 (q) No electrical receptacles shall be installed in an interior exit
+29 stairway. Any electrical receptacles in a common corridor or lobby
+30 shall have lockable outlet covers, accessible by maintenance person-
+31 nel;
+32 (r) An automatic smoke and fire detection system that activates the oc-
+33 cupant notification system in accordance with the requirements of the
+34 International Building Code shall be installed in the building;
+35 (s) An approved sign mounted adjacent to the fire alarm control panel
+36 shall be provided stating "THIS BUILDING CONTAINS ONLY ONE STAIR";
+37 (t) There shall be no more than two (2) buildings, or two (2) areas in a
+38 single building, each provided with a single exit, per lot. Where there
+39 are two (2) buildings on the same lot, exception 1 of section 705.3 of
+40 the International Building Code shall not be allowed; and
+41 (u) The building shall meet all other applicable provisions of the
+42 adopted local building codes.
+43 (2) A manual fire alarm system and automatic smoke detection system
+44 that activates the occupant notification system in accordance with the re-
+45 quirements of the International Building Code shall be installed in single
+46 stairway apartment buildings provided for in this section in the following
+47 locations:
+48 (a) Common spaces outside of dwelling units;
+49 (b) Laundry rooms, mechanical equipment rooms, and storage rooms;
+50 (c) Interior corridors serving dwelling units; and
+
+3
+1 (d) Interior corridors, interior exit stairways, and exit passageways.
+2 SECTION 2. That Section 39-4116, Idaho Code, be, and the same is hereby
+3 amended to read as follows:
+4 39-4116. LOCAL GOVERNMENT ADOPTION AND ENFORCEMENT OF BUILDING
+5 CODES. (1) Local governments enforcing building codes shall do so only in
+6 compliance with the provisions of this section. Local governments that have
+7 not previously instituted and implemented a code enforcement program prior
+8 to the effective date of this act may elect to implement a building code
+9 enforcement program by passing an ordinance evidencing the intent to do so.
+10 Local governments may contract with a public or private entity to administer
+11 their building code enforcement program.
+12 (2) Local Except as otherwise provided in this chapter, local govern-
+13 ments that issue building permits and perform building code enforcement ac-
+14 tivities shall, by ordinance effective January 1 of the year following the
+15 adoption by the Idaho building code board, adopt the following codes as pub-
+16 lished by the International Code Council together with any amendments or re-
+17 visions set forth in section 39-4109, Idaho Code, including subsequent ver-
+18 sions of the International Building Code as adopted and amended by the Idaho
+19 building code board through the negotiated rulemaking process provided in
+20 this chapter:
+21 (a) International Building Code, including all rules promulgated by
+22 the board to provide equivalency with the provisions of the Americans
+23 with disabilities act accessibility guidelines and the federal fair
+24 housing act accessibility guidelines;
+25 (b) Idaho residential code, parts I-III and IX; and
+26 (c) 2018 Idaho energy conservation code, pursuant to chapter 97, title
+27 39, Idaho Code.
+28 Local governments are not required by this chapter to adopt the other refer-
+29 enced codes in the International Building Code. Local jurisdictions shall
+30 not adopt provisions, chapters, sections or parts of subsequent versions
+31 of the International Residential Code or residential provisions of the
+32 International Energy Conservation Code, or subsequent versions in their
+33 entirety, that have not been adopted by the Idaho building code board except
+34 as provided in subsection (4) of this section.
+35 (3) All single family homes and multiple family dwellings up to two
+36 (2) units are hereby exempted from the provisions of the International Fire
+37 Code, the International Building Code and the Idaho residential code that
+38 require such dwellings to have automatic fire sprinkler systems installed.
+39 Nothing in this section shall prevent any person from voluntarily installing
+40 an automatic fire sprinkler system in any residential dwelling.
+41 (4) Except as provided in this subsection, local governments may amend
+42 by ordinance the adopted codes or provisions of referenced codes to reflect
+43 local concerns, provided such amendments establish at least an equivalent
+44 level of protection to that of the adopted building code. A local jurisdic-
+45 tion shall not have the authority to amend any accessibility provision pur-
+46 suant to section 39-4109, Idaho Code, except as provided in this subsection.
+47 (a) A local jurisdiction shall not have the authority to amend any ac-
+48 cessibility provision pursuant to section 39-4109, Idaho Code.
+
+4
+1 (b) A local jurisdiction shall not adopt any provision, chapter, sec-
+2 tion or part of the International Residential Code or residential pro-
+3 visions of the International Energy Conservation Code, or subsequent
+4 versions in their entirety, that have not been adopted or that have been
+5 expressly rejected or exempted from the adopted version of those codes
+6 by the Idaho building code board through the negotiated rulemaking
+7 process as provided in section 39-4109, Idaho Code.
+8 (c) Local jurisdictions may amend by ordinance the following provi-
+9 sions of the Idaho residential code to reflect local concerns:
+10 (i) Part I, Administrative;
+11 (ii) Part II, Definitions;
+12 (iii) Part III, Building Planning and Construction, Section R 301,
+13 Design Criteria; and
+14 (iv) Part IX, Appendices.
+15 (d) Local jurisdictions may amend the remainder of Part III of the
+16 Idaho residential code if they find that good cause for building or life
+17 safety exists for such an amendment to such codes and that such amend-
+18 ment is reasonably necessary. Amendments shall be adopted by ordinance
+19 in accordance with the provisions of chapter 9, title 50, Idaho Code, or
+20 chapter 7, title 31, Idaho Code, and provided further that such local
+21 jurisdiction shall conduct a public hearing and, provided further, that
+22 notice of the time and place of the public hearing shall be published
+23 in the official newspaper or paper of general circulation within the
+24 jurisdiction and written notice of each of such public hearing and the
+25 proposed language shall be given by the local jurisdiction to the lo-
+26 cal chapters of the entities identified in section 39-4109(5), Idaho
+27 Code, not less than thirty (30) days prior to such hearing. In the event
+28 that there are no local chapters of such entities identified in sec-
+29 tion 39-4109(5), Idaho Code, within the local jurisdiction holding the
+30 hearings, the notice shall be provided to the state associations of the
+31 respective entities.
+32 (5) Local governments shall exempt agricultural buildings from the re-
+33 quirements of the codes enumerated in this chapter and the rules promulgated
+34 by the board. A county may issue permits for agricultural buildings to as-
+35 sure compliance with road setbacks and utility easements, provided that the
+36 cost for such permits shall not exceed the actual cost to the county of issu-
+37 ing the permits.
+38 (a) For the purposes of this subsection, "agricultural buildings"
+39 means:
+40 (i) Livestock shelters or buildings, including shade structures
+41 and milking barns;
+42 (ii) Poultry buildings or shelters;
+43 (iii) Barns;
+44 (iv) Storage and maintenance structures for equipment and machin-
+45 ery used exclusively in agricultural operations;
+46 (v) Horticultural structures, including detached production
+47 greenhouses and crop protection shelters;
+48 (vi) Sheds used as part of an agricultural operation;
+49 (vii) Grain silos;
+50 (viii) Stables; and
+
+5
+1 (ix) Any other structure designed, constructed, and intended to
+2 house, accommodate, or store farm implements, hay, grain, poul-
+3 try, livestock, or other horticultural products.
+4 (b) For the purposes of this subsection, "agricultural buildings" does
+5 not include:
+6 (i) A place of human habitation, which means a space in a build-
+7 ing for living, sleeping, or cooking. Structures with bathrooms,
+8 shower rooms, break rooms, locker rooms, storage or utility space,
+9 or other similar areas are not considered places of human habita-
+10 tion;
+11 (ii) A place of employment where agricultural products are pro-
+12 cessed, treated, or packaged; or
+13 (iii) A place used by the public.
+14 (c) Counties shall not alter, amend, deny, limit, or narrow the exemp-
+15 tion provided pursuant to this subsection by, including but not limited
+16 to, requiring size limitations of agricultural buildings, requiring
+17 maximum travel distances to exits within agricultural buildings, or
+18 requiring installation of automatic sprinkler systems in agricultural
+19 buildings.
+20 (6) Permits shall be governed by the laws in effect at the time the per-
+21 mit application is received.
+22 (7) The division shall retain jurisdiction for in-plant inspections
+23 and installation standards for manufactured or mobile homes and for in-plant
+24 inspections and enforcement of construction standards for modular buildings
+25 and commercial coaches.
+26 SECTION 3. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

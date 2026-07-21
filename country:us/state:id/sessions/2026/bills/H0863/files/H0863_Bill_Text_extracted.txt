@@ -1,0 +1,135 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 863
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC ASSISTANCE; PROVIDING LEGISLATIVE FINDINGS AND INTENT;
+3 AMENDING SECTION 56-265, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+4 PROVIDER PAYMENT; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CON-
+5 TAINED IN IDAPA 16.03.26 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT;
+6 AND DECLARING AN EMERGENCY.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. The Legislature finds
+9 that providing oversight of Medicaid rates paid to residential habilitation
+10 providers and increasing transparency for taxpayers is one of the most im-
+11 portant functions the Legislature provides. Currently, the state pays more
+12 than $176.5 million from the general fund through Medicaid to help people
+13 with disabilities live independently with residential habilitation and
+14 other home and community-based services. In 2022, the Legislature approved
+15 a line item for $70,393,100 to increase provider rates for adult develop-
+16 mental disabilities in residential habilitation settings in Chapter 252,
+17 Laws of 2022. Those provider rate increases were related to a line item of
+18 $66,663,200 providing service enhancements and a new budget tool stemming
+19 from the KW v. Armstrong lawsuit. A new court order halted the implemen-
+20 tation of that budget tool, and as a result, the service enhancements have
+21 not gone into effect. The state general fund match for the rate increases
+22 related to the service enhancement is approximately $21,800,000 and can be
+23 reduced from the current budget. To support accountability and transparency
+24 for taxpayers and improve legislative oversight of provider payments, this
+25 statute change is necessary.
+26 SECTION 2. That Section 56-265, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 56-265. PROVIDER PAYMENT. (1) Where there is an equivalent, the pay-
+29 ment to medicaid providers:
+30 (a) May be up to but shall not exceed one hundred percent (100%) of the
+31 current medicare rate for primary care procedure codes as defined by the
+32 centers for medicare and medicaid services; and
+33 (b) Shall be ninety percent (90%) of the current medicare rate for all
+34 other procedure codes.
+35 (2) Where there is no medicare equivalent, the payment rate to medicaid
+36 providers shall be prescribed by rule. Where there is no medicare equiva-
+37 lent, the department may promulgate rules, subject to legislative approval,
+38 for payment rates. Residential habilitation, personal care services, de-
+39 velopmental disability agency services, community-supported employment,
+40 and targeted service coordination shall be cost-surveyed annually with fif-
+41 teen percent (15%) or more of responses being audited. The department shall
+
+2
+1 use information from the cost surveys and other sources to develop payment
+2 rates, subject to legislative appropriation. Payment rates shall be devel-
+3 oped to include allocations to direct care worker wages, employee-related
+4 expenses, program-related expenses, and general and administrative costs.
+5 (a) Providers are required on an annual basis to expend at least the
+6 appropriated amount allocated to direct care workers and employee-re-
+7 lated expenses to these categories.
+8 (b) Failure of the provider to meet the requirement in paragraph (a) of
+9 this subsection may result in a department-approved corrective action
+10 plan, closure of intake, or termination of the provider agreement.
+11 (c) The department shall summarize the required cost survey audits in
+12 a publicly available report no later than December 31 of each calendar
+13 year, with the first report being delivered by December 31, 2027.
+14 (3) Notwithstanding any other provision of this chapter, if the
+15 services are provided by a private, freestanding mental health hospital
+16 facility that is an institution for mental disease as defined in 42 U.S.C.
+17 1396d(i), the department shall reimburse for inpatient services at a rate
+18 not to exceed ninety-one percent (91%) of the current medicare rate within
+19 federally allowed reimbursement under the medicaid program. The reimburse-
+20 ment provided for in this subsection shall be effective until July 1, 2021.
+21 (4) The department shall, through the annual budget process, include
+22 a line-item request for adjustments to provider rates. All changes to
+23 provider payment rates shall be subject to approval of the legislature by
+24 appropriation.
+25 (5) Notwithstanding any other provision of this chapter, the depart-
+26 ment may enter into agreements with providers to pay for services based on
+27 their value in terms of measurable health care quality and positive impacts
+28 to participant health.
+29 (a) Any such agreement shall be designed to be cost-neutral or cost-
+30 saving compared to other payment methodologies.
+31 (b) The department is authorized to pursue waiver agreements with the
+32 federal government as needed to support value-based payment arrange-
+33 ments, up to and including fully capitated provider-based managed care.
+34 (c) Beginning with the 2024 performance period and for all future per-
+35 formance periods thereafter, federally qualified health centers and
+36 any organization owned and controlled by a federally qualified health
+37 center shall be exempt from any financial risk in value-based payment
+38 agreements created pursuant to this section.
+39 (6) Medicaid reimbursement for critical access, out-of-state, and
+40 state-owned hospitals shall be as follows:
+41 (a) In-state, critical access hospitals as designated according to 42
+42 U.S.C. 1395i-4(c)(2)(B) shall be reimbursed at one hundred one percent
+43 (101%) of cost;
+44 (b) Out-of-state hospitals shall be reimbursed at eighty-seven percent
+45 (87%) of cost;
+46 (c) State-owned hospitals shall be reimbursed at one hundred percent
+47 (100%) of cost; and
+48 (d) Out-of-state hospital institutions for mental disease as defined
+49 in 42 U.S.C. 1396d(i) shall be reimbursed at a per diem equivalent to
+50 ninety-five percent (95%) of cost.
+
+3
+1 (7) The department shall equitably reduce net reimbursements for all
+2 hospital services, including in-state institutions for mental disease but
+3 excluding all hospitals and institutions described in subsection (6) of
+4 this section, by amounts targeted to reduce general fund needs for hospital
+5 payments by three million one hundred thousand dollars ($3,100,000) in state
+6 fiscal year 2020 and eight million seven hundred twenty thousand dollars
+7 ($8,720,000) in state fiscal year 2021.
+8 (8) The department shall work with all Idaho hospitals, including in-
+9 stitutions for mental disease as defined in 42 U.S.C. 1396d(i), to establish
+10 value-based payment methods for inpatient and outpatient hospital services
+11 to replace existing cost-based reimbursement methods for in-state hospi-
+12 tals, other than those hospitals and institutions described in subsection
+13 (6) of this section, effective July 1, 2021. Budgets for hospital payments
+14 shall be subject to prospective legislative approval.
+15 (9) The department shall work with Idaho hospitals to establish a
+16 quality payment program for inpatient and outpatient adjustment payments
+17 described in section 56-1406, Idaho Code. Inpatient and outpatient adjust-
+18 ment payments shall be subject to increase or reduction based on hospital
+19 service quality measures established by the department in consultation with
+20 Idaho hospitals.
+21 SECTION 3. The rules contained in IDAPA 16.03.26, Department of Health
+22 and Welfare, relating to Medicaid Plan Benefits, Section 051.; and Section
+23 052., shall be null, void, and of no force and effect on and after July 1,
+24 2026.
+25 SECTION 4. An emergency existing therefor, which emergency is hereby
+26 declared to exist, this act shall be in full force and effect on and after its
+27 passage and approval.

@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 636
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-911, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE SCHOOL DISTRICT FACILITIES FUND; AND DECLARING AN
+4 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-911, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-911. SCHOOL DISTRICT FACILITIES FUND. (1) There is hereby cre-
+9 ated in the state treasury the school district facilities fund. The fund
+10 shall consist of moneys provided pursuant to sections 57-811, 63-3638, and
+11 67-7434, Idaho Code, and any legislative transfers or appropriations. In-
+12 terest earned from the investment of moneys in the fund shall be returned to
+13 the fund. Moneys in the fund are hereby continuously appropriated for the
+14 purposes stated in this section.
+15 (2) The moneys in the fund shall be distributed by the state controller
+16 to the state department of education by August 1 each year for the purpose of
+17 construction or renovation of school facilities. The moneys shall be dis-
+18 tributed by the state department of education to each school district, as
+19 defined in section 33-1001(21), Idaho Code, first as provided in subsection
+20 (7) of this section and then on a per-pupil basis using the average daily at-
+21 tendance calculation provided in section 33-1003A, Idaho Code, for each stu-
+22 dent in kindergarten through grade 12 at physical facilities that are part
+23 of and on school grounds of the school district in which the student is en-
+24 rolled with verification, as needed, by the office of the state board of edu-
+25 cation. Upon formal approval by the state board of education, a school dis-
+26 trict may receive an exemption to the physical facility requirement pursuant
+27 to this subsection if the student would have attended a physical facility in
+28 the school district if not for a stated emergency. The state department of
+29 education shall transfer the moneys by no later than August 31 each year to
+30 each school district. Such moneys shall be used in place of property tax levy
+31 moneys and shall be expended by a school district for one (1) or more of the
+32 purposes set forth in paragraphs (a) through (f) of this subsection. Moneys
+33 in the fund must be used by a school district in the following order of prior-
+34 ity:
+35 (a) Payment of existing school bonds authorized pursuant to chapter 11,
+36 title 33, Idaho Code, and issued prior to July 1, 2025;
+37 (b) Payments required pursuant to section 33-909, Idaho Code;
+38 (c) Payment of existing school bonds authorized pursuant to chapter 11,
+39 title 33, Idaho Code, and issued on or after July 1, 2025;
+40 (d) Payment of supplemental school levies authorized pursuant to sec-
+41 tion 33-802, Idaho Code, excluding indefinite term supplemental levies
+42 described in section 33-802(5), Idaho Code;
+
+2
+1 (e) Payment of school plant facility levies authorized pursuant to sec-
+2 tions 33-804 and 33-804A, Idaho Code; and
+3 (f) Any moneys that remain following the payments provided in para-
+4 graphs (a) through (e) of this subsection may be: used for construction
+5 of a new school facility, renovation, or maintenance needs; used to
+6 secure and make payments on a new school facilities bond; used to make
+7 additional payments on existing school facilities bonds; used to make
+8 payments on lease-purchase agreements for school facilities; or saved
+9 in a reserve account by the school district for future school facil-
+10 ity needs. Uses of funds shall include regular and routine facilities
+11 maintenance, including preventive maintenance, building repairs, and
+12 building security, and periodic major facilities projects that involve
+13 planning, design, construction, renovation, retrofitting, and replac-
+14 ing of buildings and building systems, components, and features, as
+15 well as site acquisition, site improvements, and new construction.
+16 (3) The amount of moneys received by a school district pursuant to this
+17 section subsection (2)(a), (c), (d), and (e) of this section must be deducted
+18 from a school levy that would otherwise have been paid by property taxpayers.
+19 Such moneys may not be duplicated by the collection of property tax, and no
+20 property taxes may be collected in order to make extra payments on expenses
+21 described in subsection (2) of this section in excess of required amounts.
+22 (4) Each school district shall identify the amount received in the cur-
+23 rent year pursuant to this section in the certification of its budget in ac-
+24 cordance with section 63-803, Idaho Code. Said amount must be subtracted
+25 from the amount to be levied. The amount of moneys thereby saved from being
+26 collected by a property tax levy shall be reported on each property tax no-
+27 tice pursuant to section 63-902, Idaho Code.
+28 (5) Each school district shall report annually to the state department
+29 of education, in a manner prescribed by it, on the expenditure of moneys it
+30 has received pursuant to this section. The state department of education
+31 shall present the reports to the legislature each January.
+32 (6) For the purposes of this section, the Idaho school for the deaf and
+33 the blind shall be considered a school district and shall receive a distribu-
+34 tion based on the average daily attendance of the school.
+35 (7)(a) For state fiscal year 2025 only, any school district that would
+36 have received support from the bond levy equalization support program
+37 for a qualified bond passed prior to January 1, 2024, and for which prop-
+38 erty taxes were levied in property tax year 2023 pursuant to the amount
+39 intended by the bond shall receive a distribution of funds from the dis-
+40 tribution provided under subsection (2) of this section of at least as
+41 much as would have been provided through bond levy equalization support
+42 on July 1, 2024.
+43 (b) For state fiscal year 2026 only, any school district that would have
+44 received support from the bond levy equalization support program for a
+45 qualified bond passed prior to January 1, 2024, and for which property
+46 taxes were levied in property tax year 2024 pursuant to the amount in-
+47 tended by the bond shall receive a distribution of funds from the dis-
+48 tribution provided under subsection (2) of this section of at least as
+49 much as would have been provided through bond levy equalization support
+50 on July 1, 2025.
+
+3
+1 (c) The state department of education may adjust distributions for re-
+2 maining districts proportionally as necessary pursuant to this para-
+3 graph. On and after July 1, 2024, school districts may use funds pro-
+4 vided in this section and section 33-913, Idaho Code, to offset the bond
+5 levy equalization support.
+6 SECTION 2. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2026.

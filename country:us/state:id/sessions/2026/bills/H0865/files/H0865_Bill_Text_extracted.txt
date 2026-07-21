@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 865
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE PUBLIC UTILITIES COMMISSION; AMENDING SECTION 61-207, IDAHO
+3 CODE, TO ESTABLISH PROVISIONS REGARDING CERTAIN EX PARTE COMMUNICA-
+4 TIONS; AMENDING SECTION 18-1356, IDAHO CODE, TO REVISE A PROVISION
+5 REGARDING GIFTS TO PUBLIC SERVANTS BY PERSONS SUBJECT TO THEIR JURIS-
+6 DICTION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 61-207, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 61-207. COMMISSIONERS AND EMPLOYEES -- OATH -- QUALIFICATIONS -- RE-
+11 STRICTIONS ON POLITICAL ACTIVITY -- EX PARTE COMMUNICATIONS. (1) Each com-
+12 missioner shall devote his entire time to the duties of his office and shall,
+13 together with each person appointed to a civil executive office by the com-
+14 mission, before entering upon the duties of his office, take and subscribe
+15 to an oath to the effect that he will support the Constitution of the United
+16 States and the state of Idaho, and faithfully and impartially discharge the
+17 duties of his office as required by law and that he is not interested directly
+18 or indirectly in any public utility embraced within the provisions of this
+19 act; or any of its stocks, bonds, mortgages, securities or earnings.
+20 (2) Each commissioner shall be a qualified elector of this state, and no
+21 person while in the employ of or holding any official relation to any corpo-
+22 ration or person, which said corporation or person is subject in whole or in
+23 part to regulation by the commission, and no person owning stocks or bonds of
+24 any such corporation or who is in any manner pecuniarily interested therein
+25 shall be appointed to or hold the office of commissioner or be appointed or
+26 employed by the commission: provided, that if such person shall become the
+27 owner of such stocks or bonds or become pecuniarily interested in such corpo-
+28 ration otherwise than voluntarily, he shall within a reasonable time divest
+29 himself of such ownership or interest; failing to do so, his office or em-
+30 ployment shall become vacant.
+31 (3) No commissioner shall, directly or indirectly, while he is a member
+32 of said commission, take any part in politics by advocating or opposing the
+33 election, appointment or nomination of any person or persons to any office in
+34 the state of Idaho, excepting under officers in the commission, nor shall any
+35 commissioner seek appointment or election or nomination for any civil of-
+36 fice in the state of Idaho, other than commissioner, while he is a member of
+37 said commission, nor shall any commissioner seek appointment, nomination or
+38 election to any civil office in the state of Idaho, other than that of commis-
+39 sioner, for a period of two (2) years from the date of the expiration of his
+40 term or after his resignation or removal from said office.
+
+2
+1 (4) The following provisions shall apply to any ex parte communications
+2 directed to or originating from the commission, or any person employed by the
+3 commission:
+4 (a) No commissioner, or any person employed by the commission, shall,
+5 directly or indirectly, solicit, invite, encourage, or consider any
+6 communication from any person concerning the merits of any matter pend-
+7 ing before the commission or reasonably expected to come before the
+8 commission, unless such communication is made in the course of an offi-
+9 cial proceeding or is reduced to writing and made a part of the records
+10 of the commission.
+11 (b) No public utility or agent thereof, party appearing before the
+12 commission, lobbyist registered pursuant to chapter 7, title 74, Idaho
+13 Code, representing a public utility, or attorney representing a public
+14 utility shall, directly or indirectly, make any communication to any
+15 commissioner, or any person employed by the commission, concerning the
+16 merits of any matter pending before the commission or reasonably ex-
+17 pected to come before the commission, unless such communication is made
+18 in the course of an official proceeding or is reduced to writing and made
+19 a part of the records of the commission.
+20 (c) The provisions of this subsection shall not apply to communications
+21 limited solely to ministerial or scheduling matters or statements made
+22 in a public hearing or other proceeding duly noticed by the commission.
+23 (d) If any communication in violation of this subsection is received by
+24 a commissioner, or any person employed by the commission, such commis-
+25 sioner or employee receiving the communication shall create a written
+26 summary of the communication and within seven (7) business days place
+27 such summary in the records of the commission and transmit a copy of such
+28 summary to any party before the commission who is adverse to the person
+29 making such ex parte communication.
+30 (e) Any person who violates any provision of this subsection shall
+31 be subject to a civil penalty not to exceed two hundred fifty dollars
+32 ($250) if an individual and not to exceed two thousand five hundred dol-
+33 lars ($2,500) if a person other than an individual. The burden of proof
+34 for such civil liability shall be met by showing a preponderance of the
+35 evidence. The attorney general or the appropriate prosecuting attor-
+36 ney may prosecute any violations of this subsection. Prosecution for
+37 a violation of this subsection shall be commenced within two (2) years
+38 after the date on which the violation occurred. Venue for prosecution
+39 pursuant to the provisions of this chapter shall be in the county of
+40 residence of the defendant if the defendant is a resident of the state of
+41 Idaho, otherwise venue shall be in Ada county.
+42 SECTION 2. That Section 18-1356, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 18-1356. GIFTS TO PUBLIC SERVANTS BY PERSONS SUBJECT TO THEIR JURIS-
+45 DICTION. (1) Regulatory and law enforcement officials. No public servant in
+46 any department or agency exercising regulatory functions, or conducting in-
+47 spections or investigations, or carrying on civil or criminal litigation on
+48 behalf of the government, or having custody of prisoners, shall solicit, ac-
+49 cept or agree to accept any pecuniary benefit from a person known to be sub-
+
+3
+1 ject to such regulation, inspection, investigation or custody, or against
+2 whom such litigation is known to be pending or contemplated.
+3 (2) Officials concerned with government contracts and pecuniary trans-
+4 actions. No public servant having any discretionary function to perform in
+5 connection with contracts, purchases, payments, claims or other pecuniary
+6 transactions of the government shall solicit, accept or agree to accept any
+7 pecuniary benefit from any person known to be interested in or likely to be-
+8 come interested in any such contract, purchase, payment, claim or transac-
+9 tion.
+10 (3) Judicial and administrative officials. No public servant having
+11 judicial or administrative authority and no public servant employed by or in
+12 a court or other tribunal having such authority, or participating in the en-
+13 forcement of its decisions, shall solicit, accept or agree to accept any pe-
+14 cuniary benefit from a person known to be interested in or likely to become
+15 interested in any matter before such public servant or a tribunal with which
+16 he is associated.
+17 (4) Legislative and executive officials. No legislator or public ser-
+18 vant shall solicit, accept or agree to accept any pecuniary benefit in return
+19 for action on a bill, legislation, proceeding or official transaction from
+20 any person known to be interested in a bill, legislation, official transac-
+21 tion or proceeding.
+22 (5) Exceptions. This section shall not apply to:
+23 (a) fees prescribed by law to be received by a public servant, or any
+24 other benefit for which the recipient gives legitimate consideration or
+25 to which he is otherwise legally entitled; or
+26 (b) gifts or other benefits conferred on account of kinship or other
+27 personal, professional or business relationship independent of the of-
+28 ficial status of the receiver; or
+29 (c) trivial benefits not to exceed a value of fifty dollars ($50.00) in-
+30 cidental to personal, professional or business contacts and involving
+31 no substantial risk of undermining official impartiality; provided,
+32 however, that for any commissioner or employee of the Idaho public util-
+33 ities commission, such trivial benefits shall not exceed a value of
+34 twenty dollars ($20.00); or
+35 (d) benefits received as a result of lobbying activities that are dis-
+36 closed in reports required by chapter 7, title 74, Idaho Code. This ex-
+37 ception shall not apply to any activities prohibited by subsections (1)
+38 through (4) of this section.
+39 (6) Offering benefits prohibited. No person shall knowingly confer,
+40 or offer or agree to confer, any benefit prohibited by the foregoing subsec-
+41 tions.
+42 (7) Grade of offense. An offense under this section is a misdemeanor
+43 and shall be punished as provided in this chapter.
+44 SECTION 3. An emergency existing therefor, which emergency is hereby
+45 declared to exist, this act shall be in full force and effect on and after
+46 July 1, 2026.

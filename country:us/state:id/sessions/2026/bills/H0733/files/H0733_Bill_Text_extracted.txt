@@ -1,0 +1,848 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 733
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3026B, IDAHO CODE, TO REVISE A
+3 PROVISION REGARDING THE TIME FOR THE FILING OF AN ELECTION AS AN AF-
+4 FECTED BUSINESS ENTITY AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+5 SECTION 63-3068, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE PERIOD
+6 OF LIMITATIONS FOR ISSUING A NOTICE OF DEFICIENCY AND COLLECTION OF TAX;
+7 AMENDING SECTION 63-3069, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+8 NOTICE OF ADJUSTMENT OF FEDERAL OR STATE TAX LIABILITY; AMENDING CHAP-
+9 TER 30, TITLE 63, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 63-3070,
+10 IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING PARTNERSHIP INCOME AND
+11 FEDERAL ADJUSTMENTS; AMENDING SECTION 63-3072, IDAHO CODE, TO REVISE
+12 PROVISIONS REGARDING CERTAIN TIME PERIODS FOR DETERMINATION OF CREDITS
+13 OR REFUNDS OF IDAHO INCOME TAXES; AND DECLARING AN EMERGENCY AND PROVID-
+14 ING AN EFFECTIVE DATE.
+15 Be It Enacted by the Legislature of the State of Idaho:
+16 SECTION 1. That Section 63-3026B, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 63-3026B. AFFECTED BUSINESS ENTITIES -- STATE AND LOCAL TAXATION
+19 TREATMENT. (1) As used in this section:
+20 (a) "Affected business entity" means any partnership or S corporation
+21 that elects to be subject to tax pursuant to this section.
+22 (b) "Affected business entity income" means, in the case of an electing
+23 affected business entity, all items of income, gain, loss, or deduction
+24 derived from or connected with Idaho sources, except for that portion of
+25 such income, gain, loss, or deduction apportioned to an exempt entity
+26 that is a member of the affected business entity.
+27 (c) "Exempt entity" means an entity that is exempt from taxation under
+28 this chapter.
+29 (d) "Individual" means an individual, a trust, or an estate.
+30 (e) "Member" means:
+31 (i) A shareholder of an S corporation, except for exempt enti-
+32 ties;
+33 (ii) A partner in a general partnership, a limited partnership, or
+34 a limited liability partnership, except for exempt entities; or
+35 (iii) A member of a limited liability company that is treated as a
+36 partnership or an S corporation for federal income tax purposes,
+37 except for exempt entities.
+38 (f) "Partnership" has the meaning provided in section 63-3006B, Idaho
+39 Code. "Partnership" includes a limited liability company that is
+40 treated as a partnership for federal income tax purposes as described in
+41 section 63-3006A, Idaho Code.
+
+2
+1 (g) "S corporation" means a corporation or limited liability company
+2 that is treated as an S corporation for federal income tax purposes.
+3 (h) "Taxable year" means the taxable year of a partnership or an S cor-
+4 poration for federal income tax purposes.
+5 (2)(a) A partnership or an S corporation may elect in the manner set
+6 forth in this section to become an affected business entity required to
+7 pay the tax under this section in any taxable year. A separate election
+8 must be made for each taxable year.
+9 (b) An election under this section must be made on a form and in the man-
+10 ner as the state tax commission prescribes by rule or instruction.
+11 (c) An election under this section may be made for any taxable year by
+12 filing the election with a timely filed original return for such taxable
+13 year. An election will also be valid if made by an amended return for the
+14 taxable year filed before the original due date of the fifteenth day of
+15 the fourth month following the taxable year.
+16 (d) An election made under this section must be signed by:
+17 (i) Each member of the electing entity who is a member at the time
+18 the election is filed; or
+19 (ii) Any officer, manager, or member of the electing entity who is
+20 authorized under local law or by the entity's organizational docu-
+21 ments to make the election and who represents under penalty of per-
+22 jury that he has such authorization.
+23 (e) An affected business entity is required to pay the tax imposed by
+24 section 63-3082, Idaho Code, for each member that is not an Idaho resi-
+25 dent.
+26 (3) Each affected business entity that is a partnership or an S corpora-
+27 tion transacting business in this state shall, on or before the fifteenth day
+28 of the fourth month following the close of each taxable year, pay a tax in an
+29 amount determined as follows:
+30 (a) Add all of the affected business entity income derived from or con-
+31 nected with sources within this state, as determined under the provi-
+32 sions of this chapter;
+33 (b) Increase or decrease the sum from paragraph (a) of this subsection
+34 according to the modifications permitted or required under this chapter
+35 for computing Idaho taxable income, to the extent they are attributable
+36 to members subject to tax under this chapter;
+37 (c) Multiply the result from paragraph (b) of this subsection by the
+38 tax rate applicable to corporations provided in section 63-3025, Idaho
+39 Code; and
+40 (d) Apply any allowable credits earned by the affected business entity,
+41 adjusted by the recapture provisions of section 63-3029B, Idaho Code.
+42 All credits, including the allowable credits under this section from
+43 another affected business entity as adjusted for the recapture provi-
+44 sions of section 63-3029B, Idaho Code, shall flow through to the members
+45 as otherwise permitted under this chapter. Any unused credits that are
+46 allowed by law to be carried forward to succeeding taxable years may be
+47 claimed in succeeding taxable years for which the affected business en-
+48 tity elects to be subject to tax pursuant to this section. If the af-
+49 fected business entity does not make the election under this section in
+
+3
+1 any succeeding taxable year, the unused credits will flow through to the
+2 members as otherwise permitted under this chapter.
+3 (4) If the amount calculated under subsection (3)(b) of this section
+4 results in a net operating loss, such net operating loss may not be passed
+5 through to the members of the affected business entity that makes the elec-
+6 tion under this section but may be carried forward to succeeding taxable
+7 years for which the affected business entity elects to be subject to tax
+8 pursuant to this section until fully used. If the affected business entity
+9 does not make the election under this section in any succeeding taxable year,
+10 the unused net operating loss will flow through to the members as otherwise
+11 permitted under this chapter.
+12 (5) A nonresident individual who is a member is not required to file an
+13 income tax return under section 63-3030, Idaho Code, for any taxable year in
+14 which the only source of income derived from or connected with sources within
+15 this state for such member, or the member and the member's spouse if a joint
+16 federal income tax return is or shall be filed, is from one (1) or more af-
+17 fected business entities and such affected business entity or entities file
+18 and pay the tax due under this section.
+19 (6) Each partnership and S corporation shall report to each of its mem-
+20 bers, for each taxable year, such member's pro rata share of the tax imposed
+21 under this section on such partnership or S corporation if it is an affected
+22 business entity. Such pro rata share of the tax shall be calculated by ex-
+23 cluding the share of any member that is an exempt entity.
+24 (7)(a) Each individual who is a member and is not an exempt entity is
+25 entitled to a credit against such tax. The credit will be in an amount
+26 equal to the individual's pro rata share of the tax paid under this
+27 section by any affected business entity of which the individual is a
+28 member. If the amount of the credit allowed pursuant to this paragraph
+29 exceeds the individual's tax liability for the tax imposed under this
+30 chapter, the individual will be paid a refund equal to the balance of the
+31 unused credit. Such pro rata share of the tax credit shall be calculated
+32 by excluding the share of any member that is an exempt entity.
+33 (b) Each individual who is a member and is not an exempt entity, as a
+34 resident or a part-year resident of this state, is entitled to a credit
+35 against such tax for the individual's pro rata share of taxes paid to an-
+36 other state of the United States or the District of Columbia on income
+37 of any partnership or S corporation of which the individual is a mem-
+38 ber that is derived therefrom. Any such credit will be calculated in the
+39 manner prescribed by the state tax commission and shall be consistent
+40 with the provisions of section 63-3029, Idaho Code. Such pro rata share
+41 of the tax credit shall be calculated by excluding the share of any mem-
+42 ber that is an exempt entity.
+43 (8) Each corporation that is a member and is subject to the tax im-
+44 posed under section 63-3025 or 63-3025A, Idaho Code, is entitled to a credit
+45 against such tax. The credit will be in an amount equal to the corporation's
+46 pro rata share of the tax paid under this section by any affected business
+47 entity of which the corporation is a member. Such credit will be applied
+48 after all other applicable credits have been applied. Any balance of the
+49 credit not used in the taxable year during which the corporation reports the
+50 net income from such affected business entities will be paid as a refund to
+
+4
+1 the corporation. Such pro rata share of the tax credit shall be calculated by
+2 excluding the share of any member that is an exempt entity.
+3 (9) Each affected business entity that is a member of another affected
+4 business entity and elects to be subject to the tax imposed under this sec-
+5 tion is entitled to a credit against such tax. The credit will be in an amount
+6 equal to the affected business entity's pro rata share of the tax paid under
+7 this section by any affected business entity of which the affected business
+8 entity is a member. Such credit will be applied after all other applicable
+9 credits have been applied. Any balance of the credit not used in the tax-
+10 able year during which the affected business entity reports net income will
+11 be paid as a refund to the affected business entity. Such pro rata share of
+12 the tax credit shall be calculated by excluding the share of any member that
+13 is an exempt entity.
+14 (10) Each pass-through entity, as defined in section 63-3006C, Idaho
+15 Code, that is a member of an affected business entity and does not elect to
+16 be subject to the tax imposed under this section is entitled to a credit.
+17 The credit will be in an amount equal to the pass-through entity's pro rata
+18 share of the tax paid under this section by any affected business entity of
+19 which the pass-through entity is a member. Such credit will be applied af-
+20 ter all other applicable taxes and credits have been applied. Any balance
+21 of the credit not used in the taxable year will be paid as a refund to the
+22 pass-through entity.
+23 (11) For trusts and estates that distribute their income to their bene-
+24 ficiaries to be reported by and taxed to said beneficiaries, the credit pro-
+25 vided in subsection (7)(a) of this section shall be apportioned between the
+26 trust or estate and the beneficiaries in the same proportion as the income is
+27 allocated to and reported by the trust or estate and the beneficiaries.
+28 (12) The penalty and interest and penalty provisions and the collection
+29 and enforcement procedures provided by sections 63-3038 through 63-3040,
+30 63-3042 through 63-3065A, 63-3071, 63-3075, and 63-3078, Idaho Code, shall
+31 apply and be available to the state tax commission for enforcement of the
+32 provisions of this section and collection of any amounts due under this
+33 section. Said sections shall, for this purpose, be considered part of this
+34 section, and wherever liens or any other proceedings are defined as income
+35 tax liens or proceedings, they shall, when applied in enforcement or collec-
+36 tion under this section, be described as affected business entity tax liens
+37 and proceedings.
+38 SECTION 2. That Section 63-3068, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 63-3068. PERIOD OF LIMITATIONS FOR ISSUING A NOTICE OF DEFICIENCY AND
+41 COLLECTION OF TAX. (a) Except as otherwise provided in this section, a notice
+42 of deficiency, as provided in section 63-3045, Idaho Code, for the tax im-
+43 posed in this chapter shall be issued within three (3) years from either the
+44 due date of the return, without regard to extensions, or from the date the re-
+45 turn was filed, whichever is later.
+46 (b) If an assessment has been made as provided in this chapter, then
+47 such tax shall be collected either by levy, or by a proceeding brought in
+48 court, within a period of twelve (12) years from the date of entry of the
+49 record of assessment required by section 63-3045A, Idaho Code, of the tax and
+
+5
+1 provided, further, that this shall not be in derogation of any of the reme-
+2 dies elsewhere provided in this chapter.
+3 (c) In the case of a fraudulent return or a false return with the intent
+4 to evade the tax imposed in this chapter, or a willful attempt in any manner
+5 to defeat or evade the tax imposed in this chapter, a notice of deficiency may
+6 be issued, the tax may be assessed, or a proceeding in court for collection of
+7 such tax may be begun without assessment, at any time.
+8 (d) In the case of a failure to file a return, for any reason, a notice
+9 of deficiency may be issued, the tax imposed in this chapter may be assessed,
+10 or a proceeding in court for collection of such tax may be begun without as-
+11 sessment, at any time, unless the taxpayer had a reasonable belief that no
+12 return was required to be filed under this chapter, in which case any defi-
+13 ciency, assessment, or proceeding for collection of such tax shall be com-
+14 menced within three (3) years of the time the return was due.
+15 (e) In the case of income received during the lifetime of a decedent,
+16 or by his estate during the period of administration, a notice of deficiency
+17 shall be issued, a claim shall be made, the tax shall be assessed or any pro-
+18 ceeding in court without assessment for the collection of such tax shall be
+19 begun, within twelve (12) months after written request for prompt action is
+20 filed with the state tax commission by the executor, administrator, or other
+21 fiduciary representing the estate of such decedent. This subsection shall
+22 not apply if the return for which the request for prompt action relates has
+23 not been filed with the state tax commission.
+24 (f) When Idaho taxable income or tax credits for any taxable year have
+25 been adjusted as a result of a final federal determination adjustment, the
+26 period of limitation for issuing a notice of deficiency shall be reopened and
+27 shall not expire until the later of one (1) year from the date of delivery
+28 of the final federal determination to the state tax commission by the tax-
+29 payer, date, three (3) years from the due date of the return, without regard
+30 to extensions, or three (3) years from the date the return was filed. For
+31 purposes of this subsection section the term "final federal determination
+32 adjustment" shall mean the final resolution of all issues which were ad-
+33 justed by the internal revenue service shall have the same meaning as that
+34 term is defined in section 63-3070(2)(i), Idaho Code, and "final determi-
+35 nation date" shall have the same meaning as that term is defined in section
+36 63-3070(2)(h), Idaho Code. When the final federal determination adjustment
+37 is submitted, the taxpayer shall also submit copies of all schedules and
+38 written explanations provided by the internal revenue service. Upon the
+39 expiration of the period of limitations as provided in subsections (a) and
+40 (m) of this section, only those specific items of income, deductions, gains,
+41 losses, or credits which were adjusted in the final federal determination
+42 adjustment shall be subject to adjustment for purposes of recomputing Idaho
+43 income, deductions, gains, losses, credits, and the effect of such adjust-
+44 ments on Idaho allocations and apportionments.
+45 (g) If an adjustment, which was made within the period of limitations
+46 as provided in this section, affects the amount of tax credit, net operating
+47 loss, or capital loss, claimed in a taxable year other than the tax year in
+48 which the adjustment is made, then adjustments to the credit, net operating
+49 loss, or capital loss claimed in such other tax year may be made and a result-
+
+6
+1 ing notice of deficiency may be issued even though such notice of deficiency
+2 would otherwise be barred under the provisions of this section.
+3 (h) Notwithstanding any other provisions of this section, when an
+4 amended Idaho return is filed within the period of limitations as provided in
+5 subsections (a) and (m) of this section, the period of limitations for issu-
+6 ing a notice of deficiency shall be three (3) years from the date the amended
+7 return was filed. However, upon the expiration of the period of limitations
+8 as provided in subsections (a) and (m) of this section, only those specific
+9 items of income, deductions, gains, losses, or credits, which were adjusted
+10 in the amended Idaho return shall be subject to adjustment for purposes of
+11 recomputing Idaho income, deductions, gains, losses, credits, and the ef-
+12 fect of such adjustments on Idaho allocations and apportionments.
+13 (i) If a taxpayer has filed an amended federal return, and no corre-
+14 sponding Idaho amended return has been filed with the state tax commission,
+15 then the period of limitations for issuing a notice of deficiency shall be
+16 reopened and shall not expire until three (3) years from the date of deliv-
+17 ery to the tax commission by the taxpayer of the amended federal return. How-
+18 ever, upon the expiration of the period of limitations as provided in subsec-
+19 tions (a) and (m) of this section, then only those specific items of income,
+20 deductions, gains, losses, or credits, which were adjusted in the amended
+21 federal return shall be subject to adjustment for purposes of recomputing
+22 Idaho income, deductions, gains, losses, credits, and the effect of such ad-
+23 justments on Idaho allocations and apportionments.
+24 (j) Notwithstanding any other provisions of this section, a notice of
+25 deficiency, related to items on the return of any pass-through entity, as de-
+26 fined in this section, which other taxpayers are required by law to report,
+27 shall be issued to such other taxpayers within the later of three (3) years
+28 from the due date of the other taxpayers' return, without regard to exten-
+29 sions, three (3) years from the date the other taxpayers' returns were filed,
+30 or three (3) years from the date of filing of the pass-through entity's re-
+31 turn. If the pass-through entity files an amended return, notices of defi-
+32 ciency may be issued to the other taxpayers within three (3) years from the
+33 date the amended return for the pass-through entity was filed with the state
+34 tax commission. If the pass-through entity files an amended return with the
+35 internal revenue service, or the internal revenue service issues a final de-
+36 termination to the pass-through entity, then the period of limitations for
+37 issuing a notice of deficiency to the other taxpayers shall be reopened and
+38 shall not expire until three (3) years from the date of delivery to the tax
+39 commission by the pass-through entity of the amended federal return or the
+40 later of one (1) year from the date of delivery to the state tax commission
+41 by the pass-through entity of the final federal determination adjustment,
+42 three (3) years from the due date of the pass-through entity's return, with-
+43 out regard to extensions, or three (3) years from the date the pass-through
+44 entity's return was filed.
+45 (k) For purposes of this section, "pass-through entity" means a part-
+46 nership, S corporation, trust, limited liability company or any other en-
+47 tity whose items of income, deductions, gains, losses and credits must be re-
+48 ported by other taxpayer(s). For further purposes of this section, the term
+49 "other taxpayer" shall include, by way of unlimiting example, such taxpayers
+50 as partners, shareholders, beneficiaries, joint venturers or investors.
+
+7
+1 (l) In the case of a duplicate return filed under section 63-217(1)(b),
+2 Idaho Code, the limitation under this section shall be the later of one (1)
+3 year from the filing of the duplicate return or the date otherwise applicable
+4 under this section.
+5 (m) Prior to the expiration of the time prescribed in this section for
+6 the issuance of a notice of deficiency for the tax imposed in this chapter,
+7 both the state tax commission, its delegate or deputy, and the taxpayer may
+8 consent in writing to extend the period of time within which a notice of defi-
+9 ciency may be issued. The period so agreed upon may be extended by subsequent
+10 agreements in writing made before the expiration of the period previously
+11 agreed upon. When a pass-through entity extends the period of limitations
+12 in accordance with this subsection, the period of limitations for the other
+13 taxpayers is automatically extended for the same period for the purpose of
+14 issuing a notice of deficiency to the other taxpayers reflecting the adjust-
+15 ments to the pass-through entity's return.
+16 (n) The expiration of the period of limitations as provided in this sec-
+17 tion shall be suspended for the time period during which the state tax com-
+18 mission is prohibited from issuing a notice of deficiency, making the as-
+19 sessment, or from collecting by levy or a proceeding in court, and for thirty
+20 (30) days thereafter.
+21 (o) For the purposes of this section, "return" includes a notice of de-
+22 ficiency determination issued by the state tax commission when no return was
+23 filed by the taxpayer. Such a return is deemed filed on the date the taxes de-
+24 termined by the state tax commission are assessed.
+25 SECTION 3. That Section 63-3069, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 63-3069. NOTICE OF ADJUSTMENT OF FEDERAL OR STATE TAX LIABILITY. (1)
+28 Upon final determination of any deficiency or refund of federal taxes, the
+29 taxpayer is required to send written notice to the state tax commission
+30 within one hundred twenty (120) one hundred eighty (180) days of the final
+31 determination date.
+32 (2) Upon final determination of any deficiency or refund of income tax
+33 due to another state or territory to which the credit for taxes paid another
+34 state or territory applies, as provided in section 63-3029, Idaho Code,
+35 the taxpayer is required to send written notice to the state tax commission
+36 within one hundred twenty (120) one hundred eighty (180) days of the final
+37 determination date.
+38 (3) If the notice required by this section is not sent by the taxpayer to
+39 the state tax commission within one hundred twenty (120) one hundred eighty
+40 (180) days of the final determination date, the taxpayer will be subject to
+41 the negligence penalty provided by section 63-3046, Idaho Code.
+42 (4) As used in this section, "final determination date" has the same
+43 meaning as that term is defined in section 63-3070(2)(h), Idaho Code.
+44 (5) A taxpayer subject to a federal audit is eligible to make estimated
+45 payments to the state tax commission in the same manner as provided in sec-
+46 tion 63-3070(6), Idaho Code.
+
+8
+1 SECTION 4. That Chapter 30, Title 63, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 63-3070, Idaho Code, and to read as follows:
+4 63-3070. PARTNERSHIP INCOME -- FEDERAL ADJUSTMENTS. (1) The defini-
+5 tions set forth in this chapter shall apply to this section unless modified
+6 in this section or unless the context clearly requires another definition.
+7 (2) As used in this section:
+8 (a) "Administrative adjustment request" means a request for an admin-
+9 istrative adjustment filed by a partnership under section 6227 of the
+10 Internal Revenue Code.
+11 (b) "Audited partnership" means a partnership subject to a partner-
+12 ship-level audit resulting in a federal adjustment.
+13 (c) "Corporate partner" means a partner subject to tax under section
+14 63-3025 or 63-3025A, Idaho Code.
+15 (d) "Direct partner" means a partner that holds an interest directly in
+16 a partnership or pass-through entity.
+17 (e) "Exempt partner" means a partner that is exempt from taxation under
+18 this chapter except on unrelated business taxable income.
+19 (f) "Federal adjustment" means a change to an item or amount determined
+20 by the Internal Revenue Code that is used by a taxpayer to compute Idaho
+21 state income tax owed, whether that change results from action by the
+22 internal revenue service, including a partnership-level audit, or from
+23 the filing of an amended federal return, a federal refund claim, or an
+24 administrative adjustment request by the taxpayer.
+25 (g) "Federal partnership representative" means the person the partner-
+26 ship designates for the taxable year as the partnership's representa-
+27 tive or the person the internal revenue service has appointed to act as
+28 the federal partnership representative pursuant to section 6223(a) of
+29 the Internal Revenue Code.
+30 (h) "Final determination date" means the following:
+31 (i) Except as provided in subparagraphs (ii) and (iii) of this
+32 paragraph, if the federal adjustment arises from an internal rev-
+33 enue service audit or other action by the internal revenue ser-
+34 vice, the final determination date is the first day on which no
+35 federal adjustments arising from that audit or other action remain
+36 to be finally determined, whether by internal revenue service de-
+37 cision with respect to which all rights of appeal have been waived
+38 or exhausted, by agreement, or, if appealed or contested, by a fi-
+39 nal decision with respect to which all rights of appeal have been
+40 waived or exhausted. For agreements required to be signed by a
+41 representative of the internal revenue service and the taxpayer,
+42 the final determination date is the date on which the last party
+43 signed the agreement.
+44 (ii) For federal adjustments arising from an internal revenue
+45 service audit or other action by the internal revenue service, if
+46 the taxpayer filed as a member of a combined report or consolidated
+47 return under Idaho law, the final determination date is the first
+48 day on which no related federal adjustments arising from such au-
+
+9
+1 dit remain to be finally determined, as described in subparagraph
+2 (i) of this paragraph for the entire group.
+3 (iii) If the federal adjustment results from filing an amended
+4 federal return, a federal refund claim, or an administrative ad-
+5 justment request, or if it is a federal adjustment reported on an
+6 amended federal return or other similar report filed pursuant to
+7 section 6225 (c) of the Internal Revenue Code, the final determi-
+8 nation date is the day on which the amended return, refund claim,
+9 administrative adjustment request, or other similar report was
+10 filed.
+11 (i) "Final federal adjustment" means a federal adjustment that can no
+12 longer be modified because the final determination date for that fed-
+13 eral adjustment has passed.
+14 (j) "Indirect partner" means a partner in a partnership or pass-through
+15 entity that itself holds an interest directly or through another indi-
+16 rect partner in a partnership or pass-through entity.
+17 (k) "Nonresident partner" means an individual, trust, or estate part-
+18 ner that is not a resident partner.
+19 (l) "Partner" means a person that holds an interest directly or indi-
+20 rectly in a partnership or other pass-through entity.
+21 (m) "Partnership-level audit" means an examination by the internal
+22 revenue service at the partnership level pursuant to sections 6221
+23 through 6241 of the Internal Revenue Code, as amended by P.L. 114-74 and
+24 as in effect on November 2, 2015, that results in federal adjustments.
+25 (n) "Reallocation adjustment" means a federal adjustment resulting
+26 from a partnership-level audit or an administrative adjustment request
+27 that changes the share of one (1) or more items of partnership income,
+28 gain, loss, expense, or credit allocated to direct partners.
+29 (o) "Report of federal adjustments" means the taxpayer's report of fi-
+30 nal federal adjustments to the Idaho state tax commission, including an
+31 amended Idaho income tax return, information return, or a uniform mul-
+32 tistate report.
+33 (p) "Resident partner" means an individual, trust, or estate partner
+34 that is a resident in Idaho under section 63-3013, Idaho Code, for the
+35 relevant tax period.
+36 (q) "Reviewed year" means the taxable year of a partnership that is sub-
+37 ject to a partnership-level audit from which federal adjustments arise.
+38 (r) "Tiered partner" means any partner that is a partnership or pass-
+39 through entity.
+40 (s) "Unrelated business taxable income" has the same meaning as pro-
+41 vided in section 512(a) of the Internal Revenue Code.
+42 (3) Unless an election has been made pursuant to section 63-3026B,
+43 Idaho Code, a taxpayer shall report and pay any Idaho tax due with respect
+44 to final federal adjustments arising from an audit or other action by the
+45 internal revenue service or reported by the taxpayer on a timely filed
+46 amended federal income tax return, including a return or other similar re-
+47 port filed pursuant to section 6225(c)(2) of the Internal Revenue Code, or
+48 a federal claim for refund, by filing a report of federal adjustments with
+49 the state tax commission for the reviewed year and, if applicable, paying the
+50 additional Idaho tax owed by the taxpayer no later than one hundred eighty
+
+10
+1 (180) days after the final determination date. This requirement shall not
+2 apply in the case of final federal adjustments required to be reported by a
+3 partnership and its partners using the procedures set forth in subsection
+4 (4) of this section and final federal adjustments required to be reported
+5 for federal purposes pursuant to section 6225(a)(2) of the Internal Revenue
+6 Code. If an election has been made pursuant to section 63-3026B, Idaho Code,
+7 the procedures and time frames set forth in this section shall apply to the
+8 electing partnership rather than the individual partners.
+9 (4) Except for adjustments required to be reported for federal pur-
+10 poses pursuant to section 6225(a)(2) of the Internal Revenue Code and the
+11 distributive share of adjustments that has been reported as required under
+12 subsection (3) of this section, partnerships and partners shall report final
+13 federal adjustments arising from a partnership-level audit or an adminis-
+14 trative adjustment request and make payments as follows:
+15 (a) A state partnership representative shall act on behalf of the part-
+16 nership as follows:
+17 (i) With respect to an action required or permitted to be taken by
+18 a partnership under this subsection, and a proceeding under sec-
+19 tion 63-3048, Idaho Code, with respect to that action, the state
+20 partnership representative for the reviewed year shall have the
+21 sole authority to act on behalf of the partnership. The partner-
+22 ship's direct partners and indirect partners shall be bound by
+23 those actions.
+24 (ii) The state partnership representative for the reviewed year
+25 is the partnership's federal partnership representative unless
+26 the partnership designates in writing another person as its state
+27 partnership representative.
+28 (iii) The state tax commission may establish reasonable quali-
+29 fications and procedures for designating a person other than the
+30 federal partnership representative to be the state partnership
+31 representative.
+32 (b) Final federal adjustments subject to the requirements of this sub-
+33 section, except for those subject to a properly made election pursuant
+34 to paragraph (c) of this subsection, shall be reported as follows:
+35 (i) No later than ninety (90) days after the final determination
+36 date, the partnership shall:
+37 1. File a completed report of federal adjustments, includ-
+38 ing information required by Idaho law, with the state tax
+39 commission;
+40 2. Notify each of its direct partners of their distributive
+41 share of the final federal adjustments, including informa-
+42 tion required by the state tax commission; and
+43 3. File an amended composite return for direct partners as
+44 required pursuant to section 63-3022L, Idaho Code, or an
+45 amended withholding return for direct partners as required
+46 pursuant to section 63-3035, Idaho Code, and pay the ad-
+47 ditional amount pursuant to sections 63-3024 and 63-3025,
+48 Idaho Code, that would have been due had the final federal
+49 adjustments been reported properly as required.
+
+11
+1 (ii) Except as provided under section 63-3025, Idaho Code, no
+2 later than one hundred eighty (180) days after the final deter-
+3 mination date, each direct partner taxed pursuant to section
+4 63-3025, Idaho Code, shall:
+5 1. File a report of federal adjustments reporting its dis-
+6 tributive share of the adjustments reported under subpara-
+7 graph (i)2. of this paragraph, as required under section
+8 63-3069, Idaho Code; and
+9 2. Pay any additional amount of tax due as if the report of
+10 federal adjustments had been properly reported, plus any in-
+11 terest and penalty due under sections 63-3045, 63-3046, and
+12 63-3075, Idaho Code, and less any credit for related amounts
+13 paid or withheld and remitted on behalf of the direct partner
+14 under subparagraph (i)3. of this paragraph.
+15 (c)(i) Subject to the limitations provided in subparagraph (iii)
+16 of this paragraph, an audited partnership making an election un-
+17 der this paragraph shall, no later than ninety (90) days after the
+18 final determination date, file a completed report of federal ad-
+19 justments, including the information required by section 63-3069,
+20 Idaho Code, and notify the state tax commission that it is making
+21 the election under this subsection.
+22 (ii) Subject to the limitations provided in subparagraph (iii) of
+23 this paragraph, an audited partnership making an election under
+24 this paragraph shall, no later than one hundred eighty (180) days
+25 after the final determination date, pay, in lieu of taxes owed by
+26 its direct and indirect partners, an amount determined according
+27 to this subparagraph as follows:
+28 1. Exclude from final federal adjustments the distributive
+29 share of these adjustments reported to a direct exempt part-
+30 ner not subject to tax under section 63-3025, Idaho Code;
+31 2. For the total distributive shares of the remaining final
+32 federal adjustments reported to direct corporate partners
+33 subject to tax under section 63-3025, Idaho Code, and to di-
+34 rect exempt partners subject to tax under section 63-3025,
+35 Idaho Code, apportion and allocate such adjustments as
+36 provided in section 63-3027, Idaho Code, and multiply the
+37 resulting amount by the highest tax rate under section
+38 63-3024, Idaho Code;
+39 3. For the total distributive shares of the remaining final
+40 federal adjustments reported to nonresident direct partners
+41 subject to tax under section 63-3024, Idaho Code, determine
+42 the amount of the adjustments that is Idaho source income un-
+43 der section 63-3026A, Idaho Code, and multiply the resulting
+44 amount by the highest tax rate under section 63-3024, Idaho
+45 Code;
+46 4. For the total distributive shares of the remaining final
+47 federal adjustments reported to tiered partners:
+48 (A) Determine the amount of the adjustments of a type
+49 subject to sourcing to Idaho under section 63-3026A,
+50 Idaho Code, then determine the portion of this amount
+
+12
+1 that would be sourced to Idaho by applying rules pro-
+2 mulgated by the state tax commission;
+3 (B) Determine the amount of the adjustments of a type
+4 not subject to sourcing to Idaho by a nonresident part-
+5 ner under section 63-3026A, Idaho Code;
+6 (C) Of the amount determined in subparagraph (ii)4.(A)
+7 and (B) of this paragraph, determine the portion that,
+8 pursuant to rules promulgated by the state tax commis-
+9 sion, is properly allocable to nonresident indirect
+10 partners or other partners not subject to tax on the
+11 adjustments or the portion that can be excluded un-
+12 der procedures for alternative reporting and payment
+13 method allowed under paragraph (e) of this subsection;
+14 5. Multiply the total of the amounts determined in subpara-
+15 graph (ii)4.(A) and (B) of this paragraph reduced by the
+16 amount determined in subparagraph (ii)4.(C) of this para-
+17 graph by the highest tax rate under section 63-3024, Idaho
+18 Code;
+19 6. For the total distributive shares of the remaining final
+20 federal adjustments reported to resident direct partners
+21 subject to tax under section 63-3024, Idaho Code, multiply
+22 that amount by the highest tax rate under section 63-3024,
+23 Idaho Code; and
+24 7. Add the amounts determined in subparagraph (ii)2.,
+25 3., 5., and 6. of this paragraph, along with interest
+26 and penalty as provided in sections 63-3045, 63-3046, and
+27 63-3075, Idaho Code.
+28 (iii) Final federal adjustments subject to this election ex-
+29 clude:
+30 1. The distributive share of final audit adjustments that
+31 under section 63-3027, Idaho Code, and rules promulgated by
+32 the state tax commission, must be included in the unitary
+33 business income of any direct or indirect corporate part-
+34 ner, provided it can be reasonably determined by the audited
+35 partnership; and
+36 2. Any final federal adjustments resulting from an adminis-
+37 trative adjustment request.
+38 (iv) An audited partnership not otherwise subject to any report-
+39 ing or payment obligation to the state of Idaho that makes an elec-
+40 tion under this subsection consents to be subject to Idaho laws re-
+41 lating to reporting, assessment, payment, and collection of Idaho
+42 tax calculated under the election.
+43 (d) The direct and indirect partners of an audited partnership that are
+44 tiered partners, and all of the partners of those tiered partners that
+45 are subject to tax under sections 63-3024 and 63-3025, Idaho Code, are
+46 subject to the reporting and payment requirements of paragraph (b) of
+47 this subsection, and the tiered partners are entitled to make the elec-
+48 tions provided in paragraphs (c) and (e) of this subsection. The tiered
+49 partners or their partners shall make the required reports and payments
+50 no later than ninety (90) days after the time for filing and furnishing
+
+13
+1 statements to tiered partners and their partners as established under
+2 section 6226 of the Internal Revenue Code and the federal regulations
+3 thereunder. The state tax commission may promulgate rules to estab-
+4 lish procedures and interim time periods for the reports and payments
+5 required by tiered partners and their partners and for making the elec-
+6 tions under this subsection.
+7 (e) Under procedures adopted by the state tax commission, an audited
+8 partnership or tiered partner may enter into an agreement with the state
+9 tax commission to use an alternative reporting and payment method, in-
+10 cluding applicable time requirements or any other provision of this
+11 subsection, if the audited partnership or tiered partner demonstrates
+12 that the requested method will reasonably provide for the reporting and
+13 payment of taxes, penalties, and interest due under the provisions of
+14 this subsection. Application for approval of an alternative reporting
+15 and payment method must be made by the audited partnership or tiered
+16 partner within the time for election as provided in this paragraph or
+17 paragraph (c) of this subsection, as appropriate.
+18 (f)(i) The election made pursuant to paragraph (c) or (e) of this
+19 subsection is irrevocable unless the state tax commission, in its
+20 discretion, determines otherwise.
+21 (ii) If properly reported and paid by the audited partnership or
+22 tiered partner, or by a partnership that has filed an election un-
+23 der section 63-3026B, Idaho Code, the amount determined in para-
+24 graph (c)(ii) of this subsection, or similarly under an optional
+25 election under paragraph (e) of this subsection, will be treated
+26 as paid in lieu of taxes owed by its direct and indirect partners,
+27 to the extent applicable, on the same final federal adjustments.
+28 The direct partners or indirect partners may not take any deduc-
+29 tion or credit for this amount or claim a refund of the amount in
+30 this state. Nothing in this paragraph precludes a direct resident
+31 partner from claiming a credit against taxes paid to this state
+32 pursuant to section 63-3029, Idaho Code, for any amounts paid by
+33 the audited partnership or tiered partner on the resident part-
+34 ner's behalf to another state or local tax jurisdiction in accor-
+35 dance with the provisions of section 63-3029, Idaho Code.
+36 (g) Nothing in this section shall be construed to prevent the state
+37 tax commission from assessing direct partners or indirect partners for
+38 taxes they owe, using the best information available, in the event that
+39 a partnership or tiered partner fails for any reason to timely make any
+40 report or payment required by this section or by section 63-3026B, Idaho
+41 Code.
+42 (5) The state tax commission shall make adjustments as needed for any
+43 additional tax, interest, and penalties arising from final federal adjust-
+44 ments arising from an audit by the internal revenue service, including a
+45 partnership-level audit, or reported by the taxpayer on an amended federal
+46 income tax return or as part of an administrative adjustment request by the
+47 dates provided in this subsection.
+48 (a) If a taxpayer files with the state tax commission a report of fed-
+49 eral adjustments or an amended Idaho tax return as required within the
+50 period specified in subsection (3) or (4) of this section, the state
+
+14
+1 tax commission may adjust any amounts, including in-lieu-of amounts,
+2 taxes, interest, and penalties arising from those federal adjustments
+3 if the state tax commission issues a notice of deficiency determination
+4 to the taxpayer no later than:
+5 (i) The expiration of the limitations period specified in section
+6 63-3068 or 63-3072, Idaho Code; or
+7 (ii) The expiration of the one (1) year period following the date
+8 of the filing with the state tax commission of the report of fed-
+9 eral adjustments.
+10 (b) If the taxpayer fails to file the report of federal adjustments
+11 within the period specified in subsection (3) or (4) of this section,
+12 as appropriate, or the report of federal adjustments filed by the tax-
+13 payer omits final federal adjustments or understates the correct amount
+14 of tax owed, the state tax commission may assess amounts or additional
+15 amounts, taxes, interest, and penalties arising from the report of fed-
+16 eral adjustments if it mails a notice of deficiency determination to the
+17 taxpayer by a date that is the latest of the following:
+18 (i) The expiration of the limitations period specified in section
+19 63-3068, Idaho Code;
+20 (ii) The expiration of the one (1) year period following the date
+21 the report of federal adjustments was filed with the state tax com-
+22 mission; or
+23 (iii) Absent fraud, the expiration of the six (6) year period fol-
+24 lowing the final federal determination date.
+25 (6) A taxpayer may make estimated payments to the state tax commission,
+26 following the process prescribed by the state tax commission, of Idaho tax
+27 expected to result from a pending internal revenue service audit prior to
+28 the due date of the report of federal adjustments without having to file the
+29 report with the state tax commission. The estimated tax payments shall be
+30 credited against any tax liability ultimately found to be due to Idaho and
+31 shall limit the accrual of further statutory interest on that amount. If the
+32 estimated tax payments exceed the final tax liability and statutory inter-
+33 est ultimately determined to be due, the taxpayer is entitled to a refund or
+34 credit for the excess, provided the taxpayer files a report of federal ad-
+35 justments claiming a refund or credit of tax pursuant to section 63-3072,
+36 Idaho Code, no later than one (1) year following the final federal determi-
+37 nation.
+38 (7)(a) Except for final federal adjustments required to be reported for
+39 federal purposes under section 6225(a)(2) of the Internal Revenue Code,
+40 a taxpayer may file a claim for refund or credit of tax arising from fed-
+41 eral adjustments made by the internal revenue service on or before the
+42 later of:
+43 (i) The expiration of the last day for filing a claim for refund
+44 or credit of Idaho tax pursuant to section 63-3072, Idaho Code, in-
+45 cluding any extensions; or
+46 (ii) One (1) year from the date a report of federal adjustments
+47 prescribed in subsection (3) or (4) of this section, as applica-
+48 ble, was due to the state tax commission, including any extensions
+49 pursuant to subsection (8) of this section.
+
+15
+1 (b) The report of federal adjustments shall serve as the means for
+2 the taxpayer to report additional tax due, report a claim for refund
+3 or credit of tax, and make other adjustments, including to its net op-
+4 erating losses, resulting from adjustments to the taxpayer's federal
+5 taxable income.
+6 (8)(a) Unless otherwise agreed in writing by the taxpayer and the state
+7 tax commission, any adjustments by the state tax commission or by the
+8 taxpayer made after the expiration of the time period set forth in sec-
+9 tion 63-3068, Idaho Code, shall be limited to changes to the taxpayer's
+10 tax liability arising from federal adjustments.
+11 (b) The time periods provided for in section 63-3069, Idaho Code, may be
+12 extended:
+13 (i) Automatically, upon written notice to the state tax commis-
+14 sion, by sixty (60) days for an audited partnership or tiered part-
+15 ner that has ten thousand (10,000) or more direct partners; or
+16 (ii) By written agreement between the taxpayer and the state tax
+17 commission pursuant to section 63-3068(m), Idaho Code.
+18 (c) Any extension granted under this subsection for filing the report
+19 of federal adjustments extends the last day prescribed by law for as-
+20 sessing any additional tax arising from the adjustments to federal tax-
+21 able income and the period for filing a claim for refund or credit of
+22 taxes pursuant to section 63-3068, Idaho Code.
+23 SECTION 5. That Section 63-3072, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 63-3072. CREDITS AND REFUNDS. (a) Subject to the provisions of subsec-
+26 tions (b), (c) and (h) of this section, where there has been an overpayment
+27 of the tax imposed by the provisions of this chapter, the amount of such over-
+28 payment shall be credited against any tax administered by the state tax com-
+29 mission which tax is then due from the taxpayer, and any balance of such ex-
+30 cess shall be refunded to the taxpayer.
+31 (b) Except in regard to amounts withheld as provided in section
+32 63-3035, 63-3035A or 63-3036, Idaho Code, or amounts paid as estimated
+33 payments under section 63-3036A, Idaho Code, or amounts paid as backup
+34 withholding under section 63-3036B, Idaho Code, a claim for refund of tax,
+35 penalties, or interest paid shall be made within the later of three (3)
+36 years of the due date of the return, without regard to extensions, or three
+37 (3) years from the date the return was filed, and a claim for credit of tax,
+38 penalties, or interest paid shall be made within the later of ten (10) years
+39 of the due date of the return, without regard to extensions, or ten (10) years
+40 from the date the return was filed. However, with regard to remittances
+41 received with an extension of time to file, or a tentative return, a claim
+42 for credit or refund of such remittances shall be made within three (3) years
+43 from the due date of the return without regard to extensions.
+44 (c) With regard to amounts withheld as provided in section 63-3035,
+45 63-3035A or 63-3036, Idaho Code, or amounts paid as estimated payments under
+46 section 63-3036A, Idaho Code, or amounts paid as backup withholding under
+47 section 63-3036B, Idaho Code, a claim for refund shall be made within three
+48 (3) years from the due date of the return, without regard to extensions,
+49 for the taxable year in respect to which the tax was withheld or paid, and a
+
+16
+1 claim for credit shall be made within ten (10) years from the due date of the
+2 return, without regard to extensions, for the taxable year with respect to
+3 which the tax was withheld or paid. However, with regard to an individual
+4 who is entitled to an extension of time as provided in section 7508 of the
+5 Internal Revenue Code, the three (3) year period provided in this subsection
+6 for claiming a credit or refund shall be extended by the number of days disre-
+7 garded under section 7508 of the Internal Revenue Code.
+8 (d) Notwithstanding any other provisions of this section, when Idaho
+9 taxable income and/or tax credits for any taxable year have been adjusted
+10 as a result of a final federal determination adjustment, the period of lim-
+11 itations for claiming a refund or credit of tax, penalties, or interest
+12 shall be reopened and shall not expire until the later of one (1) year from
+13 the date of delivery of the final federal determination to the taxpayer by
+14 the internal revenue service date, three (3) years from the due date of the
+15 return, without regard to extensions, or three (3) years from the date the
+16 return was filed. For purposes of this subsection, the term "final federal
+17 determination adjustment" shall mean the final resolution of all issues
+18 which were adjusted by the internal revenue service have the same meaning as
+19 that term is defined in section 63-3070(2)(i), Idaho Code, and "final deter-
+20 mination rate" shall have the same meaning as that term is defined in section
+21 63-3070(2)(h), Idaho Code. When the final federal determination adjustment
+22 is submitted, the taxpayer shall also submit copies of all schedules and
+23 written explanations provided by the internal revenue service. Upon the
+24 expiration of the period of limitations as provided in subsections (b) and
+25 (h) of this section, only those specific items of income, deductions, gains,
+26 losses or credits which were adjusted in the final federal determination
+27 adjustment shall be subject to adjustment for purposes of recomputing Idaho
+28 income, deductions, gains, losses, credits, and the effect of such adjust-
+29 ments on Idaho allocations and apportionments.
+30 (e) If a claim for credit or refund relates to an overpayment attribut-
+31 able to a net operating loss carryback incurred in a taxable year commencing
+32 in 2012 or earlier, or a capital loss carryback, in lieu of the period of lim-
+33 itations prescribed in subsection (b) of this section, the period shall be
+34 that period which ends with the expiration of the fifteenth day of the for-
+35 tieth month following the end of the taxable year of the net operating loss
+36 or capital loss which results in such carryback. Claims for net operating
+37 losses carried back from taxable years commencing after 2012 shall be made
+38 pursuant to section 63-3022, Idaho Code.
+39 (f) If an adjustment, which was made within the period of limitations
+40 as provided in this section, affects the amount of tax credit, net operating
+41 loss, or capital loss, claimed in a taxable year other than the tax year in
+42 which the adjustment is made, then adjustments to the credit, net operating
+43 loss, or capital loss, claimed in such other tax year may be made and a claim
+44 for credit or refund of tax, penalties or interest may be made even though
+45 such claim would otherwise be barred under the provisions of this section.
+46 (g) In the case of a duplicate return filed under section 63-217(1)(b),
+47 Idaho Code, the limitations under this section shall be the later of one (1)
+48 year from the filing of the duplicate return or the date otherwise applicable
+49 under this section.
+
+17
+1 (h) Prior to the expiration of the time prescribed in this section for
+2 credit or refund of any tax imposed by the provisions of this chapter, both
+3 the state tax commission or its delegate or deputy and the taxpayer may con-
+4 sent in writing to extend such period of time. The period so agreed upon may
+5 be extended by subsequent agreements in writing made before the expiration
+6 of the period previously agreed upon. When a pass-through entity extends the
+7 period of limitations in accordance with the provisions of this subsection
+8 the period of limitations for the other taxpayers is automatically extended
+9 for the same period for the purpose of claiming a credit or refund of tax,
+10 penalties or interest by the other taxpayers reflecting the pass-through en-
+11 tity adjustments.
+12 (i) The expiration of the period of limitations as provided in this sec-
+13 tion shall be suspended for the time period between the issuance by the state
+14 tax commission of a notice under either section 63-3045 or 63-3065, Idaho
+15 Code, and the final resolution of any proceeding resulting from the notice.
+16 (j) Appeal of a state tax commission decision denying in whole or in
+17 part a claim for credit or refund shall be made in accordance with and within
+18 the time limits prescribed in section 63-3049, Idaho Code.
+19 (k) For purposes of this section, "return" includes a notice of defi-
+20 ciency determination issued by the state tax commission when no return was
+21 filed by the taxpayer. Such a return is deemed filed on the date the taxes de-
+22 termined by the state tax commission are assessed.
+23 SECTION 6. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after
+25 July 1, 2026.

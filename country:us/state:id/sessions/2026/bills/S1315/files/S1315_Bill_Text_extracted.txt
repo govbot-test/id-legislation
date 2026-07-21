@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1315
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HOSPITALS; AMENDING CHAPTER 13, TITLE 39, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 39-1397, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING MATERNITY PRICE TRANSPARENCY AND DISCLOSURE; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 13, Title 39, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 39-1397, Idaho Code, and to read as follows:
+10 39-1397. MATERNITY PRICE TRANSPARENCY AND DISCLOSURE. (1) In addi-
+11 tion to reporting compliance with the federal hospital price transparency
+12 requirements of 45 CFR 180, every hospital licensed under this chapter
+13 that provides labor and delivery services shall ensure that its con-
+14 sumer-friendly price estimator portal displays a comprehensive quote for
+15 a maternity episode of care. This quote shall be available on a single
+16 dedicated page that is accessible by a single click from the portal's main
+17 pricing index.
+18 (2) Every hospital described by subsection (1) of this section shall
+19 create and maintain a clearly labeled, single-click entry point page within
+20 its publicly available price estimator tool for both a vaginal birth episode
+21 of care and a cesarean birth episode of care.
+22 (3) Each episode of care page required pursuant to subsection (2) of
+23 this section shall display:
+24 (a) An episode of care price, including an all-inclusive price or
+25 itemized list of all standard services and fees for the applicable di-
+26 agnosis-related group related to an uncomplicated labor and delivery,
+27 whether vaginal, cesarean, or vaginal birth after cesarean, including
+28 intake, room and board, delivery, antepartum care, postpartum care,
+29 blood tests, and routine level I newborn care;
+30 (b) Common additional charges, including an itemized price list that
+31 includes fees for services such as epidural, anesthesia, episiotomy,
+32 circumcision, vacuum extraction, forceps, and lactation consultation;
+33 and
+34 (c) A mandatory disclosure statement specifying that the numbers pro-
+35 vided represent a price disclosure for an uncomplicated birth and can-
+36 not predict additional costs associated with unforeseen complications.
+37 (4) A hospital licensed in this state shall not enter into a contract
+38 that prevents it from offering a discounted cash price for labor and delivery
+39 health services below other contracted rates with either commercial or pub-
+40 lic payers or that prevents the hospital from disclosing its discounted cash
+41 price to patients. Any clause in an existing contract that violates this
+42 subsection is void and unenforceable to the extent of the conflict.
+
+2
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

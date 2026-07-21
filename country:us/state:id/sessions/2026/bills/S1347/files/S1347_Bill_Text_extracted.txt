@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1347
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO HOUSING AND FINANCE ASSOCIATION; AMENDING SECTION
+3 67-6223, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING REPORTING RE-
+4 QUIREMENTS FOR THE IDAHO HOUSING AND FINANCE ASSOCIATION; AND DECLARING
+5 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 67-6223, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 67-6223. BORROWING POWER -- FINANCIAL ASSISTANCE -- COOPERATION WITH
+10 STATE AND FEDERAL GOVERNMENT. (1) In addition to the powers conferred upon
+11 the association by other provisions of this chapter, the association is em-
+12 powered to administer any other state, private or federal assistance program
+13 including without limitation all tax credit programs, guaranty, loan or in-
+14 vestment funds and block grants and to borrow money or accept contributions,
+15 grants or other financial assistance or investment from private sources or
+16 from the state or federal government for or in aid of any housing project,
+17 nonprofit facility, economic development project or agricultural facility
+18 within its area of operation, to take over or lease or manage any housing
+19 project, nonprofit facility, economic development project or agricultural
+20 facility or undertaking constructed or owned by the federal government, and
+21 to these ends, to comply with such conditions and to make such trust inden-
+22 tures, leases or agreements as may be necessary, convenient or desirable.
+23 It is the purpose and intent of this act to authorize the association to do
+24 any and all things necessary or desirable to secure the financial aid or co-
+25 operation of the state or federal government in the undertaking, construc-
+26 tion, maintenance or operation of any housing project, nonprofit facility,
+27 economic development project or agricultural facility by the association.
+28 The association is specifically authorized to work with the Idaho department
+29 of agriculture in connection with any loan for an agricultural facility and
+30 the Idaho department of agriculture shall assist in the provisions of such
+31 loans.
+32 (2) On or after July 1, 2026, the association shall report on any fed-
+33 eral funds received through the continuum of care (COC) program and the emer-
+34 gency solutions grant program provided in 24 CFR 578 and 24 CFR 576, respec-
+35 tively, and shall report outlays and outcomes of spending of all recipient
+36 and subrecipient awards, except when data is not reportable from victim ser-
+37 vice providers, as follows:
+38 (a) For each recipient awarded program funding, the report shall in-
+39 clude the following information:
+40 (i) The organization's name and address;
+41 (ii) The total award amount;
+
+2
+1 (iii) The total ending balance of unspent funds upon the expira-
+2 tion of the grant period;
+3 (iv) The recipient's total grant expenses by component, including
+4 by type of supportive service within the supportive services com-
+5 ponent for the COC program for projects and activities related to
+6 homelessness assistance; and
+7 (v) A narrative describing the purpose, objectives, and goals of
+8 each program;
+9 (b) For each subrecipient receiving a subaward under the program, in-
+10 cluding the recipient in any case where the recipient administers a
+11 project directly, the report shall include the following information:
+12 (i) The organization's name and address;
+13 (ii) The total subaward by project, including required match;
+14 (iii) The total ending balance of unspent funds upon the expira-
+15 tion of the grant period; and
+16 (iv) The subrecipient's total project expenses by component, in-
+17 cluding by type of supportive service within the supportive ser-
+18 vices component for the COC program;
+19 (c) For each recipient and subrecipient, the report shall include, at a
+20 project level, the following information about outcomes:
+21 (i) The number of individuals and households served by component
+22 types carried out under the project;
+23 (ii) The start date and end date of project participation by in-
+24 dividual or household, excluding personally identifying informa-
+25 tion;
+26 (iii) The supportive services provided to each de-identified
+27 household, directly or by referral, including referrals by case
+28 management, mental health treatment, workforce trainings, or ad-
+29 diction treatment;
+30 (iv) The start date and end date of each supportive service pro-
+31 vided directly within the project, by each de-identified house-
+32 hold;
+33 (v) Of those participating in permanent supportive housing,
+34 rapid rehousing, or transitional housing, the number of individ-
+35 uals or households who exited the project during the grant period
+36 and experienced an increase in earned income while participating
+37 in the project;
+38 (vi) Completions and failures of intervention programs, includ-
+39 ing treatment and workforce development, and increases in earned
+40 income; and
+41 (vii) The number of households who exit each project to one of the
+42 following locations or circumstances:
+43 1. Unsheltered homelessness;
+44 2. Owned or rental housing without a subsidy;
+45 3. Rental housing with a subsidy;
+46 4. Referral to treatment;
+47 5. Jail;
+48 6. Hospitalization or death; or
+49 7. Any other location or circumstance; and
+
+3
+1 (d) Data provided in the report shall be de-identified or randomized
+2 and shall not include any personally identifiable information, includ-
+3 ing but not limited to name, social security number, date of birth, ad-
+4 dress, and contact information.
+5 (3) By February 1 of each year, the association shall submit the report
+6 required by this section to the governor and the legislature and shall post
+7 the report on a publicly available website.
+8 SECTION 2. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2026.

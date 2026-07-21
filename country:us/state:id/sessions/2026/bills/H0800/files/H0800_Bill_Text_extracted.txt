@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 800
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO MANUFACTURED HOMES; AMENDING SECTION 39-4105, IDAHO CODE, TO RE-
+3 VISE A DEFINITION AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+4 67-6509A, IDAHO CODE, TO REVISE PROVISIONS REGARDING SITING OF MANUFAC-
+5 TURED HOMES IN RESIDENTIAL AREAS; AND DECLARING AN EMERGENCY AND PRO-
+6 VIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 39-4105, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 39-4105. DEFINITIONS. As used in this chapter, the terms defined in
+11 this section shall have the following meanings, unless the context clearly
+12 indicates another meaning. Where terms are not defined in this chap-
+13 ter and are defined in the currently adopted International Building Code
+14 international building code published by the International Code Council
+15 international code council, such terms shall have the meanings ascribed to
+16 them in that code:
+17 (1) "Administrator" means the administrator of the division of occupa-
+18 tional and professional licenses for the state of Idaho.
+19 (2) "Board" means the Idaho building code board, herein created.
+20 (3) "Building inspector" means a person who inspects buildings or
+21 structures for compliance with the provisions of this chapter.
+22 (4) "Construction" means the erection, fabrication, reconstruction,
+23 demolition, alteration, conversion, or repair of a building or the installa-
+24 tion of equipment therein normally a part of the structure.
+25 (5) "Division" means the state of Idaho division of occupational and
+26 professional licenses.
+27 (6) "International Fire Code fire code" means the International Fire
+28 Code international fire code as published by the International Code Council
+29 international code council.
+30 (7) "Local government" means any city or county of this state.
+31 (8) "Manufactured home" means a structure, constructed after June 15,
+32 1976, in accordance with the HUD manufactured home construction and safety
+33 standards, and is transportable in one (1) or more sections, which that, in
+34 the traveling mode, is eight (8) body feet or more in width or is forty (40)
+35 body feet or more in length, or when erected on site, is three hundred twenty
+36 (320) or more square feet, and which that is built on a permanent chassis
+37 and designed to be used as a dwelling with or without a permanent founda-
+38 tion when connected to the required utilities, and includes the plumbing,
+39 heating, air conditioning, and electrical systems contained therein, ex-
+40 cept that such term shall include any structure which that meets all the re-
+41 quirements of this subsection except the size requirements and with respect
+42 to which the manufacturer voluntarily files a certification required by the
+
+2
+1 secretary of housing and urban development and complies with the standards
+2 established under 42 U.S.C. 5401 et seq. Manufactured homes include multid-
+3 welling unit manufactured homes that are constructed in accordance with the
+4 HUD manufactured home construction and safety standards.
+5 (9) "Mobile home" means a factory-assembled structure or structures
+6 generally constructed prior to June 15, 1976, and equipped with the neces-
+7 sary service connections and made so as to be readily movable as a unit or
+8 units on their own running gear and designed to be used as a dwelling unit or
+9 units with or without a permanent foundation.
+10 (10) "Telecommunications facilities" means all wires, cables, equip-
+11 ment, apparatus or other installations necessary to furnish service, by
+12 which there is accomplished or may be accomplished the sending or receiving
+13 of information, data, message writing signs, signals, pictures, and sounds
+14 of all kinds, by aid of such wires, cables, equipment, apparatus or other
+15 installations, but shall not include the habitable structure in which such
+16 telecommunications facilities are housed.
+17 SECTION 2. That Section 67-6509A, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 67-6509A. SITING OF MANUFACTURED HOMES IN RESIDENTIAL AREAS -- PLAN
+20 TO BE AMENDED. (1) By resolution or ordinance adopted, amended, or repealed
+21 in accordance with the notice and hearing procedures provided under section
+22 67-6509, Idaho Code, each governing board shall amend its comprehensive plan
+23 and land use regulations for all land zoned for single-family residential
+24 uses, except for lands falling within an area defined as a historic district
+25 under section 67-4607, Idaho Code, to allow for siting of manufactured homes
+26 as defined in section 39-4105, Idaho Code. For purposes of siting, a manu-
+27 factured home consisting of a single dwelling unit may be sited on lots where
+28 single-family dwellings are allowed. A multidwelling unit manufactured
+29 home may be sited only in areas where multifamily dwellings are allowed.
+30 (2) Manufactured homes on individual lots zoned for single-family res-
+31 idential uses as provided in subsection (1) of this section shall be in ad-
+32 dition to manufactured homes on lots within designated mobile home parks or
+33 manufactured home subdivisions.
+34 (3) This section shall not be construed as abrogating a recorded re-
+35 strictive covenant.
+36 (4) A governing board may adopt any or all of the following placement
+37 standards, or any less restrictive standards, for the approval of manufac-
+38 tured homes located outside mobile home parks:
+39 (a) The manufactured home shall be may be either a single section or
+40 multisectional and shall enclose a space of not less than one thousand
+41 (1,000) square feet at least four hundred (400) square feet for a single
+42 section or eight hundred (800) square feet for a multisectional manu-
+43 factured home;
+44 (b) The manufactured home shall be placed on an excavated and back-
+45 filled foundation and enclosed at the perimeter such that the home is
+46 located not more than twelve (12) inches above grade, except when placed
+47 on a basement foundation;
+
+3
+1 (c) The manufactured home shall have a pitched roof, except that no
+2 standards shall require a slope of greater than a nominal three (3) feet
+3 in height for each twelve (12) feet in width;
+4 (d) The manufactured home shall have exterior siding and roofing which
+5 in color, material, and appearance is similar to the exterior siding and
+6 roofing material commonly used on residential dwellings within the com-
+7 munity or which is comparable to the predominant materials used on sur-
+8 rounding dwellings as determined by the local permit approval author-
+9 ity;
+10 (e) The manufactured home shall have a garage or carport constructed of
+11 like materials if zoning ordinances would require a newly constructed
+12 nonmanufactured home to have a garage or carport;
+13 (f) In addition to the provisions of paragraphs (a) through (e) of this
+14 subsection, a city or county may subject a manufactured home and the lot
+15 upon on which it is sited to any development standard, architectural re-
+16 quirement, and minimum size requirements to which a conventional sin-
+17 gle-family residential dwelling on the same lot would be subjected.
+18 (5) Any approval standards, special conditions and the procedures for
+19 approval adopted by a local government shall be clear and objective and shall
+20 not have the effect, either in themselves or cumulatively, of discouraging
+21 needed housing through unreasonable cost or delay.
+22 SECTION 3. An emergency existing therefor, which emergency is hereby
+23 declared to exist, this act shall be in full force and effect on and after
+24 July 1, 2026.

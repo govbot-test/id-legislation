@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1368
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC UTILITIES; AMENDING CHAPTER 3, TITLE 61, IDAHO CODE, BY
+3 THE ADDITION OF A NEW SECTION 61-335, IDAHO CODE, TO ESTABLISH PROVI-
+4 SIONS REGARDING NEW LARGE LOADS; AND DECLARING AN EMERGENCY AND PROVID-
+5 ING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 3, Title 61, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 61-335, Idaho Code, and to read as follows:
+10 61-335. NEW LARGE LOAD AND RATEPAYER PROTECTION. (1) For the purposes
+11 of this section:
+12 (a) "New large load" means any electrical load associated with a new
+13 service entrance, any additional electric service associated with a
+14 change, enlargement, or other modification of a service entrance, or
+15 the utilization of an existing service entrance that:
+16 (i) Results in an increase in power requirements of such ser-
+17 vice entrance of thirty (30) megawatts or more in any consecutive
+18 thirty-six (36) month period; and
+19 (ii) Is subject to a service contract with a public utility that
+20 was entered into on or after July 1, 2026.
+21 (b) The following terms shall have the same meaning as provided for in
+22 section 61-332A, Idaho Code:
+23 (i) "Commission";
+24 (ii) "Consumer";
+25 (iii) "Electric service";
+26 (iv) "New service entrance";
+27 (v) "Public utility"; and
+28 (vi) "Service entrance."
+29 (2) A public utility shall only provide service to a new large load pur-
+30 suant to a commission-approved service contract.
+31 (3) A public utility shall file the service contract with the commis-
+32 sion for approval prior to providing service to a new large load. Such filing
+33 shall include supporting information sufficient to demonstrate compliance
+34 with the requirements of this section.
+35 (4) The commission shall review and approve or deny a new large load
+36 service contract within one hundred eighty (180) days of receiving such fil-
+37 ing by the public utility. The commission shall approve the service contract
+38 if the public utility demonstrates that:
+39 (a) It is reasonably expected to maintain the same or higher level of
+40 service quality and reliability available to the public utility's other
+41 customers as would have been reasonably expected to exist had the public
+42 utility not served the new large load;
+
+2
+1 (b) The new large load is responsible for funding its share of gener-
+2 ation, transmission, substation, and distribution infrastructure in-
+3 vestments that would not be placed in service or required by the public
+4 utility but for the new large load. Such investments may be directly as-
+5 signed or allocated in part as may be determined by the commission pur-
+6 suant to this section; and
+7 (c) The public utility's other customers are protected against default
+8 by the new large load customer.
+9 (5) A new large load shall not change its status as such by means of ar-
+10 tifice, such as by splitting its load among more than one (1) electric ser-
+11 vice entrance or by adding additional connections, meters, or new service
+12 entrances to serve an otherwise single entity or enterprise.
+13 (6)(a) The commission shall issue orders setting forth guidance or
+14 other requirements necessary to implement the provisions of this sec-
+15 tion and to provide reasonable assurance that new large loads will not
+16 cause the rates charged to the public utility's other customers to in-
+17 crease.
+18 (b) The commission shall have the jurisdiction to resolve all disputes
+19 arising under this section.
+20 (7) Providing electric service pursuant to this section shall not be
+21 construed to:
+22 (a) Be a grant of preference or advantage;
+23 (b) Subject any person or corporation to any prejudice or disadvantage;
+24 or
+25 (c) Establish or maintain any unreasonable difference in rates,
+26 charges, or services in any respect.
+27 SECTION 2. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2026.

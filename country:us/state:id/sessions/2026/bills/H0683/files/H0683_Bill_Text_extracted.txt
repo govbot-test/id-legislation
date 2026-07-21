@@ -1,0 +1,194 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 683
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO SEX OFFENDERS; AMENDING SECTION 18-8303, IDAHO CODE, TO DE-
+3 FINE TERMS AND TO REVISE A DEFINITION; AMENDING SECTION 18-8329, IDAHO
+4 CODE, TO REVISE PROVISIONS REGARDING WHERE A SEX OFFENDER RESIDES; AND
+5 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 18-8303, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 18-8303. DEFINITIONS. As used in this chapter:
+10 (1) "Aggravated offense" means any of the following crimes: 18-1506A
+11 (ritualized abuse of a child); 18-1508 (lewd conduct); 18-4003(d) (murder
+12 committed in the perpetration of rape); 18-4502 (first-degree kidnapping
+13 committed for the purpose of rape, committing any lewd and lascivious act
+14 upon any child under the age of sixteen years or for purposes of sexual grati-
+15 fication or arousal); 18-4503 (second-degree kidnapping where the victim is
+16 an unrelated minor child and the kidnapping is committed for the purpose of
+17 rape, committing any lewd and lascivious act upon any child under the age of
+18 sixteen years or for purposes of sexual gratification or arousal); 18-6101
+19 (rape, but excluding section 18-6101(1) where the victim is at least twelve
+20 (12) years of age or the defendant is eighteen (18) years of age and section
+21 18-6101(2) where the victim is sixteen (16) or seventeen (17) years of age
+22 and the defendant is no more than five (5) years older than the victim);
+23 18-6604 (forcible penetration by use of a foreign object); chapter 86, title
+24 18, (human trafficking); and any other offense set forth in section 18-8304,
+25 Idaho Code, if at the time of the commission of the offense the victim was
+26 below the age of thirteen (13) years or an offense that is substantially sim-
+27 ilar to any of the foregoing offenses under the laws of another jurisdiction
+28 or military court or the court of another country.
+29 (2) "Board" means the sexual offender management board described in
+30 section 18-8312, Idaho Code.
+31 (3) "Central registry" means the registry of convicted sexual offend-
+32 ers maintained by the Idaho state police pursuant to this chapter.
+33 (4) "Certified evaluator" means either a psychiatrist licensed by this
+34 state pursuant to chapter 18, title 54, Idaho Code, or a master's or doctoral
+35 level mental health professional licensed by this state pursuant to chap-
+36 ter 23, chapter 32, or chapter 34, title 54, Idaho Code. Such person shall
+37 have, by education, experience and training, expertise in the assessment and
+38 treatment of sexual offenders, and such person shall meet the qualifications
+39 and shall be approved by the board to perform psychosexual evaluations in
+40 this state, as described in section 18-8314, Idaho Code.
+41 (5) "Department" means the Idaho state police.
+
+2
+1 (6) "Employed" means full-time or part-time employment exceeding ten
+2 (10) consecutive working days or for an aggregate period exceeding thirty
+3 (30) days in any calendar year, or any employment that involves counseling,
+4 coaching, teaching, supervising or working with minors in any way regardless
+5 of the period of employment, whether such employment is financially compen-
+6 sated, volunteered or performed for the purpose of any government or educa-
+7 tion benefit.
+8 (7) "Foreign conviction" means a conviction under the laws of Canada,
+9 Great Britain, Australia or New Zealand, or a conviction under the laws of
+10 any foreign country deemed by the U.S. department of state, in its country
+11 reports on human rights practices, to have been obtained with sufficient
+12 safeguards for fundamental fairness and due process.
+13 (8) "Habitually lives" means any place where a person lives, sleeps, or
+14 visits with any regularity, including where a homeless person is stationed
+15 during the day or sleeps at night, and any place where a person visits for
+16 longer than five (5) hours per visit more than five (5) times within a thirty
+17 (30) day period.
+18 (9) "Homeless" means having no fixed residence.
+19 (8) (10) "Incarceration" means committed to the custody of the Idaho de-
+20 partment of correction or department of juvenile corrections, but excluding
+21 cases where the court has retained jurisdiction.
+22 (9) (11) "Jurisdiction" means any of the following: a state, the Dis-
+23 trict of Columbia, the commonwealth of Puerto Rico, Guam, American Samoa,
+24 the Northern Mariana Islands, the United States Virgin Islands, the federal
+25 government or a federally recognized Indian tribe.
+26 (10) (12) "Minor" means an individual who has not attained the age of
+27 eighteen (18) years.
+28 (11) (13) "Offender" means an individual convicted of an offense listed
+29 and described in section 18-8304, Idaho Code, or a substantially similar of-
+30 fense under the laws of another jurisdiction or military court or the court
+31 of another country deemed by the U.S. department of state, in its country re-
+32 ports on human rights practices, to have sufficient safeguards for fundamen-
+33 tal fairness and due process.
+34 (12) (14) "Offense" means a sexual offense listed in section 18-8304,
+35 Idaho Code.
+36 (13) (15) "Psychosexual evaluation" means an evaluation that specif-
+37 ically addresses sexual development, sexual deviancy, sexual history and
+38 risk of reoffense as part of a comprehensive evaluation of an offender.
+39 (14) (16) "Recidivist" means an individual convicted two (2) or more
+40 times of any offense requiring registration under this chapter.
+41 (15) (17) "Residence" means the offender's present place of abode
+42 location where an offender habitually lives.
+43 (16) (18) "Student" means a person who is enrolled on a full-time or
+44 part-time basis in any public or private educational institution, including
+45 any secondary school, trade or professional institution or institution of
+46 higher education.
+47 (17) (19) "Violent sexual predator" means a person who was designated as
+48 a violent sexual predator by the sexual offender management board where such
+49 designation has not been removed by judicial action or otherwise.
+
+3
+1 SECTION 2. That Section 18-8329, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 18-8329. ADULT CRIMINAL SEX OFFENDERS -- PROHIBITED ACCESS TO SCHOOL
+4 CHILDREN -- EXCEPTIONS. (1) If a person is currently registered or is re-
+5 quired to register under the sex offender registration act as provided in
+6 chapter 83, title 18, Idaho Code, it is a misdemeanor for such person to:
+7 (a) Be upon or to remain on the premises of any school building or school
+8 grounds in this state, upon the premises or grounds of any daycare, or
+9 upon other properties posted with a notice that they are used by a school
+10 or daycare, when the person has reason to believe children under the age
+11 of eighteen (18) years are present and are involved in a school or day-
+12 care activity, or when children are present within thirty (30) minutes
+13 before or after a scheduled school or daycare activity.
+14 (b) Knowingly loiter on a public way within five hundred (500) feet from
+15 the property line of school or daycare grounds in this state, includ-
+16 ing properties posted with a notice that they are used by a school or
+17 daycare, when children under the age of eighteen (18) years are present
+18 and are involved in a school or daycare activity, or when children are
+19 present within thirty (30) minutes before or after a scheduled school or
+20 daycare activity.
+21 (c) Be in any conveyance owned or leased by a school or daycare to trans-
+22 port students to or from school or daycare or a school- or daycare-re-
+23 lated activity when children under the age of eighteen (18) years are
+24 present in the conveyance.
+25 (d) Reside within five hundred (500) feet of the property on which a
+26 school or daycare is located, measured from the nearest point of the ex-
+27 terior wall of the offender's dwelling unit to the school's or daycare's
+28 property line, provided however, that this paragraph shall not apply
+29 if such person's residence was established prior to July 1, 2006, for
+30 a school, and prior to July 1, 2020, for a daycare in existence on that
+31 date. This paragraph shall not apply to such person whose residence is
+32 established prior to the establishment of a daycare within five hundred
+33 (500) feet of his dwelling unit. The provisions of this paragraph shall
+34 apply when the person resides at a residential or long-term care facil-
+35 ity.
+36 (e) For purposes of this chapter, "school" means any public or private
+37 school. "Daycare" means any licensed daycare as defined in chapter 11,
+38 title 39, Idaho Code.
+39 The posted notices required in this subsection shall be at least one hundred
+40 (100) square inches, shall make reference to section 18-8329, Idaho Code,
+41 shall include the term "registered sex offender" and shall be placed at all
+42 public entrances to the property.
+43 (2) The provisions of subsection (1)(a) and (b) of this section shall
+44 not apply when the person:
+45 (a) Is a student in attendance at the school; or
+46 (b) Is exercising his right to vote in public elections; or
+47 (c) Is taking delivery of his mail through an official post office lo-
+48 cated on school grounds; or
+
+4
+1 (d) Contacts the school district or daycare office annually and prior
+2 to his first visit of a school year and has obtained written permission
+3 from the district or daycare to be on the school or daycare grounds or
+4 upon other property posted with a notice that the property is used by
+5 a school or daycare. For the purposes of this section, "contacts the
+6 school district or daycare office" shall include mail, facsimile ma-
+7 chine, or by computer using the internet. The provisions of this sub-
+8 section are required for an individual who:
+9 (i) Is dropping off or picking up a child or children and the per-
+10 son is the child or children's parent or legal guardian; or
+11 (ii) Is attending an academic conference or other scheduled ex-
+12 tracurricular school event with school officials present when the
+13 offender is a parent or legal guardian of a child who is partic-
+14 ipating in the conference or extracurricular event. "Extracur-
+15 ricular" means any school-sponsored activity that is outside the
+16 regular curriculum, occurring during or outside regular school
+17 hours, including but not limited to academic, artistic, athletic
+18 or recreational activities; or
+19 (iii) Is temporarily on school or daycare grounds, during school
+20 hours, for the purpose of making a mail, food, or other delivery.
+21 (3) The provisions of subsection (1)(d) of this section shall not apply
+22 when the person:
+23 (a) Resides at a state-licensed or certified facility for incarcera-
+24 tion, health, or convalescent care or a hospital; or
+25 (b) Stays at a homeless shelter or resides at a recovery facility, if
+26 such shelter or facility has been approved for sex offenders by the
+27 county sheriff or municipal police chief.
+28 (4) Nothing in this section shall prevent a school district or daycare
+29 from adopting more stringent safety and security requirements for employees
+30 and nonemployees while they are in district or daycare facilities and/or on
+31 district or daycare properties. If adopting more stringent safety and se-
+32 curity requirements, the school district or daycare shall provide the re-
+33 quirements to any individual listed in subsection (2)(d)(i) through (iii) by
+34 mail, facsimile machine, or by computer using the internet.
+35 SECTION 3. An emergency existing therefor, which emergency is hereby
+36 declared to exist, this act shall be in full force and effect on and after
+37 July 1, 2026.

@@ -1,0 +1,280 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 934
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3029N, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING THE IDAHO PARENTAL CHOICE TAX CREDIT; REPEALING
+4 SECTION 67-1230, IDAHO CODE, RELATING TO THE IDAHO PARENTAL CHOICE TAX
+5 CREDIT ADVANCE PAYMENT FUND; AND DECLARING AN EMERGENCY AND PROVIDING
+6 RETROACTIVE APPLICATION.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 63-3029N, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 63-3029N. IDAHO PARENTAL CHOICE TAX CREDIT. (1) There is hereby estab-
+11 lished the Idaho parental choice tax credit.
+12 (2) For the purpose of this section:
+13 (a) "Academic instruction" means kindergarten through grade 12 in-
+14 struction that includes, at a minimum, English language arts, mathemat-
+15 ics, science, and social studies.
+16 (b) "Eligible student" means:
+17 (i) A full-time resident of Idaho who is five (5) to eighteen (18)
+18 years of age at any time within the tax year; or
+19 (ii) A child with disabilities requiring ancillary personnel as
+20 defined in section 33-2001, Idaho Code, who is five (5) to twenty-
+21 one (21) years of age at any time within the tax year.
+22 (c) "Federal poverty level" means the federal poverty guidelines pub-
+23 lished and updated annually by the United States department of health
+24 and human services.
+25 (d) "Nonpublic school" means a private school, microschool, or learn-
+26 ing pod that provides academic instruction to eligible students, which
+27 academic instruction may be provided in person, online, virtually, or
+28 through any combination thereof, and such academic instruction is:
+29 (i) Provided by an accredited school; or
+30 (ii) Documented in a portfolio of evidence or learning record that
+31 indicates the student's growth. Records of the instruction shall
+32 be retained sufficient to establish that the instruction meets
+33 the requirements of paragraph (a) of this subsection and shall be
+34 available in the case of any audit by the state tax commission.
+35 (e) "Parent" means an eligible student's parent, legal guardian, or
+36 foster parent, if such foster parent is licensed and in good standing
+37 pursuant to chapter 12, title 39, Idaho Code.
+38 (f) "Qualified expenses" means kindergarten through grade 12 tu-
+39 ition or fees for attending a nonpublic school, tutoring of academic
+40 instruction, nationally standardized assessments, assessments used
+41 to determine college admission, advance placement examinations, in-
+42 dustry-recognized certification exams, and preparatory courses for
+
+2
+1 nationally standardized assessments. "Qualified expenses" also means
+2 costs for textbooks, curricula used for provided by one (1) or more
+3 vendors as long as the total curriculum provided to the eligible stu-
+4 dent and claimed for the credit encompasses no more than kindergarten
+5 through grade 12 academic instruction, and transportation costs to and
+6 from a facility incurred for the purposes of receiving kindergarten
+7 through grade 12 academic instruction, including public transporta-
+8 tion, ridesharing, and the use of privately owned vehicles, for which
+9 reimbursement shall use the mileage rate applicable to state employee
+10 travel in effect at the time the travel occurs. "Qualified expenses"
+11 shall not include expenses paid with funds received from a grant under
+12 section 33-1031, Idaho Code, or any reimbursement pursuant to section
+13 33-4603, Idaho Code.
+14 (3) The Idaho parental choice tax credit shall be administered as pro-
+15 vided in this section. For tax year 2025 and subsequent tax years, there
+16 shall be allowed a refundable tax credit up to five thousand dollars ($5,000)
+17 per eligible student against the tax imposed by this chapter for any parent:
+18 (a) Who incurs qualified expenses of up to five thousand dollars
+19 ($5,000) per eligible student during the tax year, if each eligible
+20 student is a dependent and is properly claimed on the parent's full-time
+21 Idaho resident individual income tax return; and
+22 (b) Who timely and properly files an application.
+23 (4) The state tax commission shall prescribe forms for the purpose of
+24 applying for and claiming the credit authorized by this section. The forms
+25 shall identify the civil and criminal penalties provided in sections 63-3046
+26 and 63-3075, Idaho Code, for providing false and fraudulent tax information
+27 and shall require the parents to affirm under oath that the information sub-
+28 mitted in the form is true and accurate. The forms shall also require any
+29 parent who has previously received a credit authorized by this section to
+30 certify and attach evidence that the parent completed the satisfaction and
+31 engagement survey required under subsection (14) of this section. Begin-
+32 ning in January 2026, and each year thereafter, the application period shall
+33 open on January 15 and shall remain open for a period of sixty (60) days. The
+34 state tax commission shall notify parents whether they will receive a credit
+35 award. Such notification must be within thirty (30) days of the close of the
+36 application period.
+37 (5) The state tax commission shall calculate the total amount of cred-
+38 its claimed in completed applications that qualify under subsection (3) of
+39 this section. If the total amount does not exceed the annual maximum limit
+40 provided in subsection (12) of this section, the state tax commission shall
+41 re-open the application period to receive new applications. Such applica-
+42 tions shall be accepted until August 15 or until the annual maximum limit is
+43 reached, whichever is first.
+44 (6) Credits shall be issued on a yearly basis. For applications re-
+45 ceived in 2026, the state tax commission shall give priority to parents whose
+46 modified adjusted gross income as indicated on their most recently filed tax
+47 return does not exceed three hundred percent (300%) of the federal poverty
+48 level. Starting in the 2027 application period, the state tax commission
+49 shall give priority status to applications from parents who received a
+50 credit in the prior year, followed by parents whose taxable income as indi-
+
+3
+1 cated on their most recently filed tax return does not exceed three hundred
+2 percent (300%) of the federal poverty level.
+3 (7) The refundable tax credit limit under subsection (3) of this sec-
+4 tion shall be increased to seven thousand five hundred dollars ($7,500) for
+5 each eligible student up to twenty-one (21) years of age who is also con-
+6 sidered a child with disabilities requiring ancillary personnel as defined
+7 in section 33-2001, Idaho Code. Parents claiming an increased credit under
+8 this subsection shall document the student's diagnosis or other determina-
+9 tion made by an Idaho licensed health care provider or the student's eligi-
+10 bility for services under an individualized education program in accordance
+11 with the federal individuals with disabilities education act.
+12 (8) The refundable tax credit provided in this section, including the
+13 advance payment, shall not constitute Idaho taxable income.
+14 (9) The application forms pursuant to subsection (4) of this section
+15 shall permit parents to elect a onetime advance payment of the credit for
+16 each eligible student if a tax credit pursuant to this section has not been
+17 claimed in the previous year. When a parent elects to receive an advance pay-
+18 ment pursuant to this subsection, the credit shall be issued in one (1) in-
+19 stallment, to be paid within sixty (60) days of notifying a parent of such
+20 credit award but not later than August 30. The state tax commission shall
+21 approve advance payments only for eligible students whose parents' modified
+22 adjusted gross income as indicated on their most recently filed tax return
+23 does not exceed three hundred percent (300%) of the federal poverty level.
+24 Advance payments made under this subsection may be spent only on qualified
+25 expenses for which the parent may claim a credit under the provisions of this
+26 section. In order to enable parents whose modified adjusted gross income
+27 does not exceed three hundred percent (300%) of the federal poverty level to
+28 pay for a student's education, an advance payment that is expended on quali-
+29 fied expenses for an eligible student may be claimed for such expenditure in
+30 that year and a parental choice tax credit shall be allowed on a parent's tax
+31 return for that year, subject to the remaining requirements of this chapter.
+32 Notwithstanding any other provisions of law to the contrary, the state re-
+33 fund account pursuant to section 63-3067, Idaho Code, shall be used for the
+34 payment of advance payments of the tax credit pursuant to this subsection,
+35 and the provisions of section 63-3068, Idaho Code, shall apply to the advance
+36 payment of the tax credit issued pursuant to this subsection.
+37 (10) Parents claiming the Idaho parental choice tax credit shall:
+38 (a) Claim the credit for only qualified expenses incurred on behalf of
+39 an eligible student;
+40 (b) Not claim the credit for any semester in which a student was
+41 enrolled full-time or part-time in a public school, public char-
+42 ter school, public virtual charter school, public magnet school, or
+43 part-time public kindergarten. A student participating in activities
+44 or instruction for which no academic credit is awarded, participating
+45 in public school sports or other extracurricular activities, transfer-
+46 ring to and from nonpublic schools during the tax year, home schooling,
+47 or purchasing and taking Idaho digital learning academy (IDLA) courses
+48 that are offered for a fee and are not included in IDLA enrollment fund-
+49 ing by the state pursuant to section 33-1020, Idaho Code, shall not be
+50 considered so enrolled pursuant to the provisions of this paragraph.
+
+4
+1 (c) Not claim the credit for any tuition or fees related to academic in-
+2 struction provided by the parent to such parent's eligible student;
+3 (d) Ensure no other parent claims a credit for an eligible student. In
+4 the event more than one (1) parent claims a credit under this section for
+5 the same eligible student in the same year, the provisions of section
+6 63-3029L(2), Idaho Code, shall be used to determine which parent is en-
+7 titled to receive the credit; and
+8 (e) Fill out and submit the satisfaction and engagement survey provided
+9 for in subsection (14) of this section. No parent shall be eligible to
+10 receive a credit under the provisions of this section in a subsequent
+11 year if such parent has not submitted such survey for the last year that
+12 such parent received the credit.
+13 (11) If the credit exceeds the tax imposed by this chapter, the excess
+14 credit amount shall be refunded to the taxpayer. The state tax commission
+15 shall design the tax return forms to account for advance payment of the
+16 credit when calculating the tax imposed by this chapter.
+17 (12) The total amount of tax credits authorized for all taxpayers under
+18 this section shall not exceed fifty million dollars ($50,000,000) each tax
+19 year. In the event the total amount of claims for tax credits allowed by this
+20 section exceeds fifty million dollars ($50,000,000), the credits shall be
+21 allowed in full to parents whose applications were properly and timely filed
+22 and who have priority status under subsection (6) of this section, followed
+23 by the remaining parents who filed complete applications on a first-come,
+24 first-served basis, until the annual maximum limit is reached. The state tax
+25 commission shall create and maintain a waiting list demonstrating who would
+26 be eligible on a first-come, first-served basis if the annual maximum limit
+27 for credits allowed under this section is increased.
+28 (13)(a) Beginning with the first regular session of the sixty-ninth
+29 Idaho legislature in 2027, the state tax commission shall provide an
+30 annual report to the governor, the senate local government and taxation
+31 committee, the house revenue and taxation committee, and the joint fi-
+32 nance-appropriations committee that shall include:
+33 (i) The total amount of tax credits provided each year under this
+34 section;
+35 (ii) The number of parents who applied each year for the Idaho
+36 parental choice tax credit;
+37 (iii) The amount of the average tax credit allowed;
+38 (iv) The number of credits distributed to parents with an adjusted
+39 gross income below three hundred percent (300%) of the federal
+40 poverty level;
+41 (v) The number of parents who applied each year for the advance
+42 payment pursuant to subsection (9) of this section, the number of
+43 advance payments awarded, and the median amount of the advance
+44 payments awarded;
+45 (vi) The geographic area of parents applying for the credit;
+46 (vii) The number of eligible students on the waiting list for each
+47 year; and
+48 (viii) A list of the categories of qualified expenses for which
+49 recipients used the tax credit, which shall include the dollar
+
+5
+1 amounts for each category listed in subsection (2)(f) of this sec-
+2 tion.
+3 (b) The report shall not include any personally identifying informa-
+4 tion of eligible students, their parents, or their households.
+5 (14) Beginning in 2026, and each year thereafter, the legislative ser-
+6 vices office shall deliver to each parent who has received a tax credit under
+7 the provisions of this section a parent satisfaction and engagement survey
+8 to evaluate the performance of the nonpublic school that the eligible stu-
+9 dent attended. The survey shall include but not be limited to the quality of
+10 school leadership, school safety, student engagement, quality of academic
+11 instruction, and quality of learning outcomes. The state tax commission
+12 shall provide the legislative services office with contact information to
+13 identify each parent receiving a credit and any other information required
+14 for the legislative services office to properly deliver the surveys required
+15 under this subsection, and shall deliver the surveys to the parents no later
+16 than January 15 each year. Each parent shall complete the survey and submit
+17 the completed survey to the legislative services office no later than March
+18 15. Beginning in 2027, the legislative services office shall submit a report
+19 to the governor, the senate local government and taxation committee, the
+20 house revenue and taxation committee, and the joint finance-appropriations
+21 committee that shall include a summary of the survey results.
+22 (15) Any taxpayer receiving an advance payment or claiming a tax credit
+23 without submission of a timely and properly prescribed form shall be ineli-
+24 gible to receive such payment or claim such credit. The state tax commission
+25 shall deny or recapture credits claimed by a parent for expenditures not au-
+26 thorized by the provisions of this section. If a parent has received an ad-
+27 vance payment for an eligible student in a previous year, the parent shall
+28 not claim the credit for qualified expenses incurred in a year that a stu-
+29 dent ceases to qualify as an eligible student, except for any portion of the
+30 credit that exceeds the amount of the advance payment received. If a student
+31 ceases to qualify as an eligible student and the parent has already received
+32 the credit for that year, an amount of the credit, not exceeding the amount
+33 of the advance payment received, shall be repaid to or recovered by the state
+34 tax commission and deposited into the general fund.
+35 (16) Parents who claim the credit on a tax return without receiving
+36 prior approval of an application may not receive a credit, and the state
+37 shall have no liability to such parent.
+38 (17) The state tax commission shall, in as close to real time as practi-
+39 cable, make available on its website the annual maximum limit, the cumula-
+40 tive amount of credits claimed in applications under this section, and the
+41 cumulative amount of advance payments issued under this section until the
+42 annual maximum limit is reached.
+43 (18) The state tax commission shall also keep records of the total ap-
+44 plications for credits and total claim of credits that exceed the annual max-
+45 imum limit.
+46 (19) The state tax commission shall ensure that parents of eligible
+47 students receive notice in the application that participation in the program
+48 is a parental placement under 20 U.S.C. 1412 of the federal individuals with
+49 disabilities education act, along with an explanation of the rights that
+50 parentally placed students possess under the federal individuals with dis-
+
+6
+1 abilities education act, including eligibility for equitable services, and
+2 any applicable state laws and regulations.
+3 (20) The provisions of this section shall not be construed to permit
+4 any government agency to exercise control or supervision over any nonpublic
+5 school or to give the state authority to regulate the education of nonpublic
+6 school students. A nonpublic school that enrolls a student whose parent
+7 directs a refundable tax credit to the school pursuant to this section is not
+8 an agent of the state or federal government. A nonpublic school shall not
+9 be required to alter its creed, practices, admissions policy, or curriculum
+10 in order to accept students whose payment of tuition or fees stems from a
+11 refundable tax credit under this section.
+12 SECTION 2. That Section 67-1230, Idaho Code, be, and the same is hereby
+13 repealed.
+14 SECTION 3. An emergency existing therefor, which emergency is hereby
+15 declared to exist, this act shall be in full force and effect on and after its
+16 passage and approval, and retroactively to January 1, 2026.

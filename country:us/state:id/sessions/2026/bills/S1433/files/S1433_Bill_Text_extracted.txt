@@ -1,0 +1,209 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1433
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE DEPARTMENT OF HEALTH AND WELFARE; AP-
+3 PROPRIATING ADDITIONAL MONEYS TO THE DEPARTMENT OF HEALTH AND WELFARE
+4 FOR THE DIVISION OF MEDICAID FOR FISCAL YEAR 2027; REDUCING THE APPRO-
+5 PRIATION TO THE DEPARTMENT OF HEALTH AND WELFARE FOR THE DIVISION OF
+6 MEDICAID FOR FISCAL YEAR 2027; APPROPRIATING ADDITIONAL MONEYS TO THE
+7 DEPARTMENT OF HEALTH AND WELFARE FOR THE DIVISION OF MEDICAID FOR FISCAL
+8 YEAR 2026; REDUCING THE APPROPRIATION TO THE DEPARTMENT OF HEALTH AND
+9 WELFARE FOR THE DIVISION OF MEDICAID FOR FISCAL YEAR 2026; AND DECLARING
+10 AN EMERGENCY AND PROVIDING EFFECTIVE DATES.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. In addition to any other appropriation provided by law,
+13 there is hereby appropriated to the Department of Health and Welfare for the
+14 Division of Medicaid the following amounts to be expended according to the
+15 designated programs and expense classes from the listed funds for the period
+16 July 1, 2026, through June 30, 2027:
+17 FOR
+18 FOR TRUSTEE AND
+19 OPERATING BENEFIT
+20 EXPENDITURES PAYMENTS TOTAL
+21 I. MEDICAID ADMINISTRATION AND MEDICAL MGMT:
+22 FROM:
+23 Medicaid Management Information Systems Dedicated
+24 Fund $10,272,100 $10,272,100
+25 CooperativeWelfare(Dedicated)
+26 Fund 1,715,800 1,715,800
+27 CooperativeWelfare(Federal)
+28 Fund 94,244,800 $486,000 94,730,800
+29 TOTAL $106,232,700 $486,000 $106,718,700
+30 II. COORDINATED MEDICAID PLAN:
+31 FROM:
+32 CooperativeWelfare(General)
+33 Fund $16,914,400 $16,914,400
+34 CooperativeWelfare(Federal)
+35 Fund 31,522,700 31,522,700
+36 TOTAL $48,437,100 $48,437,100
+
+2
+1 FOR
+2 FOR TRUSTEE AND
+3 OPERATING BENEFIT
+4 EXPENDITURES PAYMENTS TOTAL
+5 III. ENHANCED MEDICAID PLAN:
+6 FROM:
+7 CooperativeWelfare(General)
+8 Fund $33,127,700 $33,127,700
+9 CooperativeWelfare(Federal)
+10 Fund 61,738,400 61,738,400
+11 TOTAL $94,866,100 $94,866,100
+12 IV. BASIC MEDICAID PLAN:
+13 FROM:
+14 CooperativeWelfare(General)
+15 Fund $42,163,300 $42,163,300
+16 CooperativeWelfare(Dedicated)
+17 Fund 37,087,600 37,087,600
+18 IdahoMillenniumIncome
+19 Fund 25,000,000 25,000,000
+20 CooperativeWelfare(Federal)
+21 Fund 125,168,800 125,168,800
+22 TOTAL $229,419,700 $229,419,700
+23 V. EXPANSION MEDICAID PLAN:
+24 FROM:
+25 CooperativeWelfare(General)
+26 Fund $52,555,000 $52,555,000
+27 CooperativeWelfare(Dedicated)
+28 Fund 29,518,500 29,518,500
+29 TOTAL $82,073,500 $82,073,500
+30 VI. HOSPITAL ASSESSMENT:
+31 FROM:
+32 Hospital Assessment
+33 Fund $601,781,000 $601,781,000
+34 GRAND TOTAL $106,232,700 $1,057,063,400 $1,163,296,100
+35 SECTION 2. Notwithstanding any other provision of law to the contrary,
+36 the appropriation made to the Department of Health and Welfare for the Divi-
+
+3
+1 sion of Medicaid is hereby reduced by the following amounts according to the
+2 designated programs from trustee and benefit payments from the listed funds
+3 for the period July 1, 2026, through June 30, 2027:
+4 I. COORDINATED MEDICAID PLAN:
+5 FROM:
+6 Hospital Assessment Fund $103,577,700
+7 Cooperative Welfare (Dedicated) Fund 1,445,100
+8 Cooperative Welfare (Federal) Fund 85,532,500
+9 TOTAL $190,555,300
+10 II. ENHANCED MEDICAID PLAN:
+11 FROM:
+12 Hospital Assessment Fund $4,172,700
+13 Cooperative Welfare (Federal) Fund 4,958,600
+14 TOTAL $9,131,300
+15 III. BASIC MEDICAID PLAN:
+16 FROM:
+17 Hospital Assessment Fund $115,270,400
+18 Cooperative Welfare (Dedicated) Fund 1,023,000
+19 Cooperative Welfare (Federal) Fund 140,359,600
+20 TOTAL $256,653,000
+21 IV. EXPANSION MEDICAID PLAN:
+22 FROM:
+23 Cooperative Welfare (General) Fund $46,676,200
+24 Hospital Assessment Fund 25,064,800
+25 Cooperative Welfare (Dedicated) Fund 1,525,700
+26 Cooperative Welfare (Federal) Fund 140,335,000
+27 TOTAL $213,601,700
+28 GRAND TOTAL $669,941,300
+29 SECTION 3. In addition to the appropriation made in Section 1, Chap-
+30 ter 209, Laws of 2025, and any other appropriation provided for by law, there
+31 is hereby appropriated to the Department of Health and Welfare for the Divi-
+32 sion of Medicaid the following amounts to be expended according to the desig-
+33 nated programs and expense classes from the listed funds for the period July
+34 1, 2025, through June 30, 2026:
+
+4
+1 FOR
+2 FOR TRUSTEE AND
+3 OPERATING BENEFIT
+4 EXPENDITURES PAYMENTS TOTAL
+5 I. MEDICAID ADMINISTRATION AND MEDICAL MGMT:
+6 FROM:
+7 CooperativeWelfare(Federal)
+8 Fund $1,535,300 $486,000 $2,021,300
+9 II. COORDINATED MEDICAID PLAN:
+10 FROM:
+11 CooperativeWelfare(General)
+12 Fund $28,468,900 $28,468,900
+13 CooperativeWelfare(Federal)
+14 Fund 18,049,600 18,049,600
+15 TOTAL $46,518,500 $46,518,500
+16 III. ENHANCED MEDICAID PLAN:
+17 FROM:
+18 CooperativeWelfare(General)
+19 Fund $40,277,100 $40,277,100
+20 CooperativeWelfare(Federal)
+21 Fund 25,536,000 25,536,000
+22 TOTAL $65,813,100 $65,813,100
+23 IV. BASIC MEDICAID PLAN:
+24 FROM:
+25 CooperativeWelfare(General)
+26 Fund $22,938,000 $22,938,000
+27 MedicaidBudgetStabilization
+28 Fund 8,507,700 8,507,700
+29 CooperativeWelfare(Dedicated)
+30 Fund 15,165,200 15,165,200
+31 CooperativeWelfare(Federal)
+32 Fund 19,936,800 19,936,800
+33 TOTAL $66,547,700 $66,547,700
+
+5
+1 FOR
+2 FOR TRUSTEE AND
+3 OPERATING BENEFIT
+4 EXPENDITURES PAYMENTS TOTAL
+5 V. EXPANSION MEDICAID PLAN:
+6 FROM:
+7 CooperativeWelfare(General)
+8 Fund $908,400 $908,400
+9 VI. HOSPITAL ASSESSMENT:
+10 FROM:
+11 Hospital Assessment
+12 Fund $601,781,000 $601,781,000
+13 GRAND TOTAL $1,535,300 $782,054,700 $783,590,000
+14 SECTION 4. Notwithstanding any other provision of law to the contrary,
+15 the appropriation made to the Department of Health and Welfare for the Divi-
+16 sion of Medicaid in Section 1, Chapter 209, Laws of 2025, is hereby reduced by
+17 the following amounts according to the designated programs from trustee and
+18 benefit payments from the listed funds for the period July 1, 2025, through
+19 June 30, 2026:
+20 I. COORDINATED MEDICAID PLAN:
+21 FROM:
+22 Hospital Assessment Fund $103,577,700
+23 Cooperative Welfare (Dedicated) Fund 1,445,100
+24 Cooperative Welfare (Federal) Fund 85,532,500
+25 TOTAL $190,555,300
+26 II. ENHANCED MEDICAID PLAN:
+27 FROM:
+28 Hospital Assessment Fund $4,172,700
+29 Cooperative Welfare (Federal) Fund 4,958,600
+30 TOTAL $9,131,300
+31 III. BASIC MEDICAID PLAN:
+32 FROM:
+33 Hospital Assessment Fund $115,270,400
+34 Cooperative Welfare (Dedicated) Fund 1,023,000
+
+6
+1 Cooperative Welfare (Federal) Fund 140,359,600
+2 TOTAL $256,653,000
+3 IV. EXPANSION MEDICAID PLAN:
+4 FROM:
+5 Hospital Assessment Fund $25,064,800
+6 Cooperative Welfare (Dedicated) Fund 1,525,700
+7 Cooperative Welfare (Federal) Fund 193,415,900
+8 TOTAL $220,006,400
+9 GRAND TOTAL $676,346,000
+10 SECTION 5. An emergency existing therefor, which emergency is hereby
+11 declared to exist, Sections 3 and 4 of this act shall be in full force and ef-
+12 fect on and after passage and approval, and Sections 1 and 2 of this act shall
+13 be in full force and effect on and after July 1, 2026.

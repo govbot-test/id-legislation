@@ -1,0 +1,122 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1259
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO JUVENILE CORRECTIONS; AMENDING SECTION 20-516, IDAHO CODE, TO
+3 AUTHORIZE JUVENILE PROBATION OFFICERS TO ARREST A JUVENILE PROBATIONER
+4 WITHOUT A WARRANT FOR PROBATION VIOLATIONS IN CERTAIN INSTANCES AND TO
+5 MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN
+6 EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 20-516, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 20-516. APPREHENSION AND RELEASE OF JUVENILES -- DETENTION. (1) A
+11 peace officer may take a juvenile into custody, or a private citizen may
+12 detain a juvenile until the juvenile can be delivered forthwith into the
+13 custody of a peace officer, without order of the court:
+14 (a) When he has reasonable cause to believe that the juvenile has com-
+15 mitted an act that would be a misdemeanor or felony if committed by an
+16 adult; or
+17 (b) When in the presence of a peace officer or private citizen the ju-
+18 venile has violated any local, state, or federal law or municipal ordi-
+19 nance; or
+20 (c) When there are reasonable grounds to believe the juvenile has com-
+21 mitted a status offense. Status offenses are truancy, running away from
+22 or being beyond the control of parents, guardian, or legal custodian,
+23 alcohol age violations under pursuant to section 18-1502(e), Idaho
+24 Code, and curfew violations. Status offenders shall not be placed in
+25 any jail facility, including juvenile detention centers, but instead
+26 may be placed in juvenile shelter care facilities, except in the case
+27 of runaways, when there is a specific detention request from a foreign
+28 jurisdiction to hold the juvenile pending transportation arrangements,
+29 and a peace officer may, in his discretion, notify the parent, guardian,
+30 or legal custodian. In the event of an alcohol age infraction under
+31 pursuant to section 18-1502(e), Idaho Code, the status offense under
+32 this section shall be in addition to the infraction.
+33 (2) A peace officer may take a juvenile into custody upon a written or-
+34 der or warrant signed by a judge. The judge may issue the order or warrant af-
+35 ter finding that there is reasonable cause to believe that the juvenile comes
+36 within the purview of this chapter. Such taking into custody shall not be
+37 deemed an arrest. Jurisdiction of the court shall attach from the time the
+38 juvenile is taken into custody. When an officer takes a juvenile into cus-
+39 tody, he shall notify the parent, guardian, or custodian of the juvenile as
+40 soon as possible. Unless otherwise ordered by the court, or unless it ap-
+41 pears to the officer taking the juvenile into custody that it is contrary to
+42 the welfare of society or the juvenile, such juvenile shall be released to
+
+2
+1 the custody of his parent or other responsible adult upon written promise,
+2 signed by such person, to bring the juvenile to the court at a stated time.
+3 Such written promise shall be submitted to the court as soon as possible. If
+4 such person fails to produce the juvenile as agreed, or upon notice from the
+5 court, a summons for such person may be issued by the court and a warrant may
+6 be issued for apprehension of the juvenile.
+7 (3) In counties where there are juvenile probation officers, such of-
+8 ficers shall have the same authority exercised by misdemeanor probation
+9 officers pursuant to section 20-227(5), Idaho Code, to arrest a juvenile
+10 probationer without a warrant for violations of juvenile probation occur-
+11 ring in the officer's presence. A juvenile probation officer may execute
+12 any court-issued warrant, probation violation warrant, or other order of
+13 the court directing that a juvenile probationer be taken into custody for an
+14 alleged or adjudicated violation of probation. For juvenile probationers
+15 taken into custody pursuant to this or any other applicable section of Idaho
+16 Code, a juvenile probation officer may transport the juvenile probationer to
+17 or between courts, detention facilities, treatment programs, placements, or
+18 counties, as authorized by the court. The authority granted pursuant to the
+19 provisions of this subsection shall be limited to enforcement of existing
+20 probation conditions and juveniles who are subject to such orders and condi-
+21 tions of probation.
+22 (3) (4) A juvenile taken into custody may be fingerprinted and pho-
+23 tographed. Any fingerprints and photographs taken shall be forwarded as
+24 provided in subsection (8) (9) of this section. If the court finds good
+25 cause, it may order any fingerprints and photographs expunged.
+26 (4) (5) When a juvenile is not released, he the juvenile shall be taken
+27 forthwith to the court or place of detention specified by the court. The ju-
+28 venile shall, not later than twenty-four (24) hours, excluding Saturdays,
+29 Sundays, and holidays, be brought before the court for a detention hearing
+30 to determine where the juvenile will be placed until the next hearing. Sta-
+31 tus offenders shall not be placed in any jail facility, including juvenile
+32 detention centers, but instead may be placed in juvenile shelter care facil-
+33 ities. Placements may include but are not limited to the following:
+34 (a) Parents of the juvenile;
+35 (b) Relatives of the juvenile;
+36 (c) Foster care;
+37 (d) Group care;
+38 (e) A juvenile detention center, except in the case of a status of-
+39 fender; or
+40 (f) Diversion programs.
+41 (5) (6) The person in charge of a detention center shall give immediate
+42 notice to the court that the juvenile is in his custody.
+43 (6) (7) No juvenile shall be held in detention longer than twenty-four
+44 (24) hours, excluding Saturdays, Sundays, and holidays, unless a petition
+45 has been filed and the court has signed the detention order.
+46 (7) (8) As soon as a juvenile is detained by court order, his the juve-
+47 nile's parents, guardian, or legal custodian shall be informed by notice in
+48 writing, on forms prescribed by the court, that they the juvenile may have a
+49 prompt hearing regarding release or detention.
+
+3
+1 (8) (9) A juvenile taken into detention for an offense shall be finger-
+2 printed and photographed. Fingerprints and photographs taken of juveniles
+3 shall be forwarded to the appropriate law enforcement agency and filed with
+4 the bureau of criminal identification of the Idaho state police, which shall
+5 create a juvenile offender fingerprint file and enter the fingerprint data
+6 into the automated fingerprint identification system. If the court finds
+7 good cause, it may order the fingerprints and photographs of the juvenile of-
+8 fender expunged.
+9 (9) (10) Peace officers' records of juveniles shall be kept separate
+10 from records of adults and shall be subject to disclosure according to chap-
+11 ter 1, title 74, Idaho Code.
+12 SECTION 2. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2026.

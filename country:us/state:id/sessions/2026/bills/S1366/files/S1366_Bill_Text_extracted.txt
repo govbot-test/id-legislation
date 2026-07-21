@@ -1,0 +1,151 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1366
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 34-102, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING A DEFINITION AND PURPOSES; AMENDING SECTION 34-106,
+4 IDAHO CODE, TO REVISE A PROVISION REGARDING LIMITATION ON ELECTIONS;
+5 AMENDING SECTION 34-606, IDAHO CODE, TO REVISE A PROVISION REGARDING
+6 THE ELECTION OF PRESIDENTIAL ELECTORS AND NOMINATION FOR PRESIDENT;
+7 AMENDING SECTION 34-703, IDAHO CODE, TO ESTABLISH A PROVISION REGARDING
+8 NOMINATION AT PRIMARY; AMENDING SECTION 34-1214, IDAHO CODE, TO ESTAB-
+9 LISH A PROVISION REGARDING CERTIFICATES OF NOMINATION OR ELECTION TO A
+10 CERTAIN FEDERAL OFFICE; AND DECLARING AN EMERGENCY.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 34-102, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 34-102. "PRIMARY ELECTION" DEFINED -- PURPOSES. "Primary election"
+15 means an election held for the purpose of nominating persons as candidates of
+16 political parties for election to offices, and for the purpose of electing
+17 persons as members of the controlling committees of political parties, and
+18 for the purpose of allowing voters to express their preference of candidate
+19 for nomination by a political party for president of the United States.
+20 Primary elections shall be held on the third Tuesday of following the first
+21 Monday in May in each even-numbered year.
+22 SECTION 2. That Section 34-106, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 34-106. LIMITATION ON ELECTIONS. On and after January 1, 2011,
+25 notwithstanding any other provisions of the law to the contrary, there shall
+26 be no more than two (2) elections conducted in any county in any calendar
+27 year, except as provided in this section or section 34-220, Idaho Code, and
+28 except that elections to fill vacancies in the United States house of repre-
+29 sentatives shall be held as provided in the governor's proclamation.
+30 (1) The dates on which elections may be conducted are:
+31 (a) The third Tuesday following the first Monday in May of each year;
+32 and
+33 (b) The Tuesday following the first Monday in November of each year.
+34 (c) In addition to the elections specified in paragraphs (a) and (b) of
+35 this subsection and subsection (7) of this section, an emergency elec-
+36 tion may be called upon motion of the governing board of a political sub-
+37 division. An emergency exists when there is a great public calamity,
+38 such as an extraordinary fire, flood, storm, epidemic, or other disas-
+39 ter, or when it is necessary to do emergency work to prepare for national
+40 or local defense or to safeguard life, health or property.
+
+2
+1 (2) Candidates for office elected in May shall take office on the date
+2 specified in the certificate of election but not more than sixty (60) days
+3 following the election.
+4 (3) Candidates for office elected in November shall take office as pro-
+5 vided in the constitution or on January 1 next succeeding the November elec-
+6 tion.
+7 (4) The governing board of each political subdivision subject to the
+8 provisions of this section that, prior to January 1, 2011, conducted an elec-
+9 tion for members of that governing board on a date other than a date permit-
+10 ted in subsection (1) of this section shall establish as the election date
+11 for that political subdivision the date authorized in subsection (1) of this
+12 section that falls nearest the date on which elections were previously con-
+13 ducted, unless another date is established by law.
+14 (5) The secretary of state is authorized to provide such assistance as
+15 necessary and to prescribe any needed rules or interpretations for the con-
+16 duct of an election authorized under the provisions of this section.
+17 (6) Water districts governed by chapter 6, title 42, Idaho Code, are ex-
+18 empt from the provisions of this section.
+19 (7) Community colleges governed by chapter 21, title 33, Idaho Code,
+20 and school districts are subject to the limitations specified in subsection
+21 (1) of this section.
+22 (8) A city initiative or referendum election shall be held on the Tues-
+23 day following the first Monday in November of odd-numbered years. A county
+24 initiative or referendum election or a bond, levy or other ballot question
+25 election conducted by any political subdivision shall be held on the nearest
+26 date authorized in subsection (1) of this section as long as the ballot lan-
+27 guage for any question to be placed on the ballot is submitted to the county
+28 clerk no later than 5:00 p.m. on the tenth Friday before the election.
+29 (9) Recall elections may be held on any of the dates authorized in sub-
+30 section (1) of this section as long as the recall petition is certified no
+31 later than the tenth Friday before the next scheduled election.
+32 (10) Irrigation districts governed by title 43, Idaho Code, are subject
+33 to the limitations specified in subsection (1) of this section, except that
+34 irrigation districts may also hold an election on the first Tuesday in Febru-
+35 ary of each year and on the first Tuesday in August of each year on questions
+36 required to be voted on by title 43, Idaho Code.
+37 SECTION 3. That Section 34-606, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 34-606. ELECTION OF PRESIDENTIAL ELECTORS -- NOMINATION FOR PRESI-
+40 DENT. (1) At the general election, 1972, and every four (4) years thereafter,
+41 there shall be elected such a number of electors of president and vice pres-
+42 ident of the United States as the state may be entitled to in the electoral
+43 college.
+44 (2) No person shall be elected to this position unless he has attained
+45 the age of twenty-one (21) years at the time of the election, is a citizen of
+46 the United States and shall have resided within the state two (2) years next
+47 preceding his election.
+48 (3) Such electors shall be certified to the secretary of state as pro-
+49 vided for by law.
+
+3
+1 (4) Any candidate for a political party participating in the nomination
+2 for president of the United States at the primary election shall file a dec-
+3 laration of candidacy with the secretary of state and pay a filing fee of one
+4 thousand dollars ($1,000) within the time period provided in section 34-704,
+5 Idaho Code. Such filing fee shall be deposited in the general fund.
+6 SECTION 4. That Section 34-703, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 34-703. NOMINATION AT PRIMARY. (1) All political party candidates for
+9 president of the United States, for United States senator and representative
+10 in congress, and for all political party candidates for elective state, dis-
+11 trict and county offices, except candidates for judicial office, at general
+12 elections shall be nominated at the primary elections, or shall have their
+13 names placed on the general election ballot as provided by law, and shall
+14 comply with the provisions of this act.
+15 (2) All candidates for judicial office shall be nominated or elected at
+16 the primary election, as provided by section 34-1217, Idaho Code.
+17 (3) Independent candidates shall not be voted on at primary elections.
+18 SECTION 5. That Section 34-1214, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 34-1214. CERTIFICATES OF NOMINATION OR ELECTION TO FEDERAL, STATE,
+21 DISTRICT OR NONPARTISAN OFFICES AFTER PRIMARY. (1) Immediately after the
+22 primary election canvass, the secretary of state shall issue certificates
+23 of nomination to the political party candidates of each party who receive
+24 the highest number of votes for their particular federal, state or district
+25 office. The candidates so certified shall have their names placed on the
+26 general election ballot.
+27 (2) Immediately after the primary election canvass in a presidential
+28 election year, the secretary of state shall certify to the state chair of
+29 each political party the number of votes received by that party's candidates
+30 for president of the United States. A winner shall be declared as prescribed
+31 by rule of the state and national party.
+32 (2) (3) Immediately after the primary election canvass, the secretary
+33 of state shall issue certificates of nomination to the nonpartisan candi-
+34 date or candidates who receive the highest number of votes for the number
+35 of vacancies which are to be filled for a particular office and also to the
+36 same number of candidates who receive the second highest number of votes for
+37 the particular office. The candidates so certified shall have their names
+38 placed on the general election ballot. If it appears from the canvass that a
+39 particular candidate has received a majority of the total vote cast for the
+40 particular office, he shall be issued a certificate of election instead of a
+41 certificate of nomination and no candidates shall run for the particular of-
+42 fice in the general election.
+43 SECTION 6. An emergency existing therefor, which emergency is hereby
+44 declared to exist, this act shall be in full force and effect on and after its
+45 passage and approval.

@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1311
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO IGNITION INTERLOCK SYSTEMS; AMENDING SECTION 18-8008, IDAHO
+3 CODE, TO ESTABLISH PROVISIONS REGARDING IGNITION INTERLOCK SYSTEMS;
+4 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 18-8008, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 18-8008. IGNITION INTERLOCK SYSTEMS.
+9 (1)(a) If a person is convicted, is found guilty, pleads guilty or re-
+10 ceives a withheld judgment for violating any of the provisions of this
+11 chapter relating to driving under the influence and has had any or all of
+12 a sentence or fine suspended for the violation, the court shall, unless
+13 an exception is granted pursuant to section 18-8002(12), Idaho Code,
+14 impose the sanction provided for in this section in addition to any
+15 other penalty or fine imposed pursuant to this chapter.
+16 (b) The court shall order the person to have a state-approved ignition
+17 interlock system installed, at his expense, on all motor vehicles op-
+18 erated by him. A court may determine that an offender is eligible to
+19 utilize available funds from the court interlock device and electronic
+20 monitoring device fund, as outlined in section 18-8010, Idaho Code, for
+21 the installation and operation of an ignition interlock device, based
+22 on evidence of financial hardship.
+23 (2) The calibration setting at which the ignition interlock system will
+24 prevent the motor vehicle from being started shall be .025. The ignition in-
+25 terlock vendor shall notify the prosecuting authority any time a person is
+26 prevented from starting a motor vehicle, as provided in this subsection.
+27 (3) As used in this chapter, the term "ignition interlock system" means
+28 breath alcohol ignition interlock device, including a camera, certified by
+29 the transportation department, designed to prevent a motor vehicle from be-
+30 ing operated by a person who has consumed an alcoholic beverage.
+31 (4) The transportation department shall by rule provide standards for
+32 the certification, installation, repair and removal of the devices. The ig-
+33 nition interlock vendor shall provide proof of installation of the ignition
+34 interlock system to the transportation department.
+35 (5) The court shall notify the transportation department of its order
+36 imposing a sanction pursuant to this section. The department shall attach
+37 or imprint a notation on the driver's license or other document granting the
+38 person restricted driving privileges of any person restricted under this
+39 section that the person may operate only a motor vehicle equipped with an
+40 ignition interlock system. The ignition interlock restriction period shall
+41 end one (1) year from the date the ignition interlock vendor provides proof
+42 of installation of the ignition interlock system.
+
+2
+1 (6) When a court orders a person to install and use an ignition inter-
+2 lock system pursuant to this section, the court shall order the person to pay
+3 the cost for obtaining, installing, utilizing and maintaining the ignition
+4 interlock system. All fees collected pursuant to this section shall be in
+5 addition to any other fines or penalty provided by law and shall be deposited
+6 in the court interlock device and electronic monitoring device fund created
+7 in section 18-8010, Idaho Code.
+8 SECTION 2. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2026.

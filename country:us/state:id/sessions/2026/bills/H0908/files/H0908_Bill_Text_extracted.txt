@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 908
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE MILITARY DIVISION; APPROPRIATING AD-
+3 DITIONAL MONEYS TO THE MILITARY DIVISION FOR FISCAL YEAR 2027; APPRO-
+4 PRIATING AND TRANSFERRING MONEYS FROM THE GENERAL FUND TO THE HAZARDOUS
+5 SUBSTANCE EMERGENCY RESPONSE FUND FOR FISCAL YEAR 2026; AND DECLARING
+6 AN EMERGENCY AND PROVIDING EFFECTIVE DATES.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. In addition to any other appropriation provided by law,
+9 there is hereby appropriated to the Military Management Program in the
+10 Military Division the following amounts to be expended according to the des-
+11 ignated expense classes from the listed funds for the period July 1, 2026,
+12 through June 30, 2027:
+13 FOR
+14 FOR TRUSTEE AND
+15 OPERATING BENEFIT
+16 EXPENDITURES PAYMENTS TOTAL
+17 FROM:
+18 General
+19 Fund $190,800 $190,800
+20 Indirect Cost Recovery
+21 Fund $120,000 0 120,000
+22 TOTAL $120,000 $190,800 $310,800
+23 SECTION 2. There is hereby appropriated to the Military Division and
+24 the Office of the State Controller shall transfer $17,800 from the General
+25 Fund to the Hazardous Substance Emergency Response Fund as soon as practica-
+26 ble for the period July 1, 2025, through June 30, 2026. Such moneys shall be
+27 used to reimburse costs incurred by the Office of Emergency Management Pro-
+28 gram in the Military Division pursuant to Section 39-7110, Idaho Code.
+29 SECTION 3. An emergency existing therefor, which emergency is hereby
+30 declared to exist, Section 2 of this act shall be in full force and effect
+31 on and after passage and approval, and Section 1 of this act shall be in full
+32 force and effect on and after July 1, 2026.

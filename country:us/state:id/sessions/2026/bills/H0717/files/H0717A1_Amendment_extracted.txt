@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Mickelsen
+Seconded by Fuhriman(30)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO H.B. NO. 717
+1 AMENDMENT TO SECTION 1
+2 On page 2 of the printed bill, in line 8, delete "state"; and also in line
+3 8, following "highway" insert: "distribution".
+4 AMENDMENT TO SECTION 2
+5 On page 4, in line 31, delete "state"; also in line 31, following
+6 "highway" insert: "distribution"; in line 33, delete "state"; and in line
+7 34, following "highways" insert: "as defined in section 40-109, Idaho
+8 Code".

@@ -1,0 +1,220 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 532
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; AMENDING SECTION 49-401B, IDAHO CODE, TO PRO-
+3 VIDE FOR A CERTAIN MANNER OF PROVING IDENTITY AND TO MAKE TECHNICAL
+4 CORRECTIONS; AMENDING SECTION 49-504, IDAHO CODE, TO PROVIDE FOR A CER-
+5 TAIN MANNER OF PROVING IDENTITY AND TO MAKE TECHNICAL CORRECTIONS; AND
+6 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 49-401B, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 49-401B. APPLICATION FOR REGISTRATION -- RECEIPT FOR FEE -- RECORD OF
+11 APPLICANTS. (1) Application for the registration of a vehicle required to
+12 be registered under the provisions of section 49-401A, Idaho Code, shall
+13 be made to the assessor or the department, as specified in that section, by
+14 the owner upon on the appropriate form. Every application shall contain the
+15 owner's Idaho driver's license number, Idaho identification card number,
+16 social security number or individual taxpayer identification number. In the
+17 case of a business, the employer tax identification number is required. Ev-
+18 ery application shall also contain the owner's true and full legal name, and
+19 every applicant must submit proof of identity pursuant to section 49-306,
+20 Idaho Code, if he has not already done so. In the event that the owner does
+21 not possess a social security number, individual taxpayer identification
+22 number, Idaho driver's license number, or Idaho identification card number,
+23 the owner shall present written documentation sufficient to the department
+24 to determine that no social security number has been issued. In the event
+25 that a business, trust or other statutorily created entity is not required
+26 to have and does not possess an employer tax identification number, the ap-
+27 plicant shall provide a written statement certifying that the entity does
+28 not possess an employer tax identification number. Such application must be
+29 signed by the owner and contain his residence address and mailing address,
+30 if different, and a brief description of the vehicle to be registered, in-
+31 cluding the name of the maker, the type of fuel used, and the identification
+32 number. If an applicant has submitted an application pursuant to the provi-
+33 sions of chapter 58, title 19, Idaho Code, then the applicant may state in the
+34 application required pursuant to this section the applicant's alternative
+35 Idaho mailing address in place of his or her residence address. Upon regis-
+36 tration of a new vehicle, the application shall also show the date of sale by
+37 the manufacturer or dealer to the person first operating such vehicle. The
+38 application shall contain any other information as may be required by the
+39 department and shall contain a provision that allows an owner to choose to
+40 participate in the Idaho state parks passport program. The assessor shall
+41 issue to the applicant a receipt for any fee paid. Social security numbers
+42 collected shall not appear on certificates of registration, and all applica-
+
+2
+1 tions on file shall be exempt from disclosure, except as provided in sections
+2 49-202, 49-203 and 49-203A, Idaho Code.
+3 (2) The assessor shall record on a form prescribed and furnished by the
+4 department, the names of all owners of vehicles residing in the county who
+5 make application for registration, together with the amounts of the fees
+6 paid by such owners.
+7 (3) When application for registration is made by any motor carrier, the
+8 assessor or the department shall require each such applicant to execute a
+9 certification of safety compliance.
+10 (4) Vehicles registered under the proportional registration provi-
+11 sions of section 49-435, Idaho Code, shall be registered by the department.
+12 (5) Every owner of a vehicle registered by a county assessor shall give
+13 his physical domicile residence address or the business physical principal
+14 address to the assessor so that the proper county can be entered upon the reg-
+15 istration. Failure to do so shall be unlawful. The department shall then
+16 attribute the registration, and all fees to be apportioned to the highway
+17 distribution account, to the county of residence regardless of the county in
+18 which the registration occurred. Fees imposed under the provisions of sec-
+19 tions 40-827 and 40-1416, Idaho Code, shall be separately identified and ac-
+20 counted for, and paid to the highway district for which collected. Fees col-
+21 lected in addition to vehicle registration fees for the Idaho state parks
+22 passport program, as provided in section 49-402(11), Idaho Code, shall be
+23 separately identified and accounted for and paid to the state treasurer on a
+24 monthly basis to be deposited in the park and recreation fund as specified in
+25 section 49-402(11), Idaho Code. For the purposes of vehicle registration, a
+26 person is an actual and permanent resident of the county in which he has his
+27 principal residence or domicile. A principal residence or domicile shall
+28 not be a person's workplace, vacation, or part-time residence.
+29 (6) A violation of the provisions of this section shall be an infrac-
+30 tion.
+31 SECTION 2. That Section 49-504, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 49-504. APPLICATIONS TO DEPARTMENT FOR CERTIFICATES -- PROCEDURE --
+34 IDENTIFICATION NUMBERS. (1) Application for a certificate of title shall be
+35 made upon on a form furnished by the department and shall contain the owner's
+36 Idaho driver's license number, Idaho identification card number or social
+37 security number or individual taxpayer identification number. In the case
+38 of a business, the employer tax identification number is required. Every
+39 application shall also contain the owner's true and full legal name, and
+40 every applicant must submit proof of identity pursuant to section 49-306,
+41 Idaho Code, if he has not already done so. In the event that the owner does
+42 not possess a social security number, Idaho driver's license number, Idaho
+43 identification card number or individual taxpayer identification number,
+44 the owner shall present written documentation sufficient to the department
+45 to determine that no social security number has been issued. In the event
+46 that a business, trust, or other statutorily created entity is not required
+47 to have and does not possess an employer tax identification number, the ap-
+48 plicant shall provide a written statement certifying that the entity does
+49 not possess an employer tax identification number. The form must contain
+
+3
+1 the owner's physical domicile address or, in the case of a business, trust
+2 or other statutorily created entity, such entity's physical address and any
+3 mailing address if different from the physical address. If the owner has
+4 submitted an application pursuant to the provisions of chapter 58, title 19,
+5 Idaho Code, then the owner may state, in the application required pursuant
+6 to this section, the applicant's alternative Idaho mailing address in place
+7 of his or her physical domicile address. Such application must be signed
+8 by the owner and contain a full description of the vehicle, including the
+9 make, identification numbers, and the odometer reading at the time of sale
+10 or transfer, and whether the vehicle is new or used, together with a state-
+11 ment of the applicant's title and of any liens or encumbrances upon on the
+12 vehicle, and the name and address of the person to whom the certificate of
+13 title shall be delivered, and any other information as the department may
+14 require. The application shall be filed with the department and, if a cer-
+15 tificate of title has previously been issued for that vehicle in this state,
+16 shall be accompanied by the certificate of title duly assigned, unless oth-
+17 erwise provided for in this chapter. The department may promulgate rules to
+18 provide for exceptions to the odometer requirement. Social security numbers
+19 collected shall not appear on certificates of title, and all applications on
+20 file shall be exempt from disclosure, except as provided in sections 49-202,
+21 49-203 and 49-203A, Idaho Code.
+22 (2) If the current certificate of title was not issued for the vehicle
+23 in this state, the application, unless otherwise provided for in this chap-
+24 ter, shall be accompanied by a certificate of title, bill of sale or other ev-
+25 idence of ownership required by the law of any other jurisdiction from which
+26 the vehicle was brought into this state and a vehicle identification number
+27 inspection completed by any city, county or state peace officer or other spe-
+28 cial agent authorized by the department.
+29 (3) In the case of a new vehicle being titled for the first time, no cer-
+30 tificate of title or registration shall be issued unless the application is
+31 endorsed by a franchised new vehicle dealer licensed to sell a new vehicle.
+32 Each application shall be accompanied by a statement completed by the fran-
+33 chised new car dealer that it is authorized to transfer the vehicle to the
+34 purchaser. The dealer shall retain in its records a manufacturer's certifi-
+35 cate of origin or manufacturer's statement of origin executed by the manu-
+36 facturer and delivered to his agent or his franchised vehicle dealer. The
+37 certificate or statement of origin shall be in a form prescribed by the board
+38 and shall contain the year of manufacture or the model year of the vehicle,
+39 the manufacturer's vehicle identification number, the name of the manufac-
+40 turer, the number of cylinders, a general description of the body, if any,
+41 and the type or model. Upon sale of a new vehicle, the manufacturer or his
+42 agent or franchised dealer shall execute and deliver to the purchaser an as-
+43 signment of the certificate or statement, together with any lien or encum-
+44 brance to which the vehicle is subject. The certificate or statement will be
+45 retained by the dealer for five (5) years so that it is available for inspec-
+46 tion by the department.
+47 (4) The department shall retain the evidence of title presented by
+48 the applicant and on which the certificate of title is issued. The depart-
+49 ment shall maintain an identification numbers index of registered vehicles
+50 except that, but said index is not required to include operators who have
+
+4
+1 been issued a certificate of number or nonresident user certificate pursuant
+2 to sections 67-7122 and 67-7124, Idaho Code, and, upon receiving an applica-
+3 tion for a certificate of title shall first check the identification number
+4 shown in the application against the index. The department, when satisfied
+5 that the applicant is the owner of the vehicle and that the application is in
+6 proper form, shall issue in the name of the owner of the vehicle a certifi-
+7 cate of title bearing a title number, the date issued and a description of
+8 the vehicle as determined by the department, together with a statement of
+9 the owner's title and of all liens or encumbrances upon on the vehicle, and
+10 whether possession is held by the owner under a lease, contract or condi-
+11 tional sale, or other like agreement.
+12 (5) In all cases of transfer of vehicles, the application for certifi-
+13 cates of title shall be filed within thirty (30) calendar days after the de-
+14 livery of the vehicles. Licensed dealers need not apply for certificate of
+15 title for vehicles in stock or when they are acquired for stock purposes.
+16 (6) In the case of the sale of a vehicle by a dealer to a general pur-
+17 chaser or user, the certificate of title shall be obtained in the name of the
+18 purchaser by the dealer upon application signed by the purchaser. If a lien
+19 is to be recorded, the title documentation as required in this section shall
+20 be submitted to the department by the dealer or the lienholder upon appli-
+21 cation signed by the purchaser. A copy of this application shall be given
+22 to the purchaser to be used as a seventy-two (72) hour temporary permit,
+23 unless the application is submitted by an electronic means approved by the
+24 department, in which case a forty-five (45) calendar day temporary permit
+25 may be issued. In all other cases, the certificates shall be obtained by the
+26 purchaser and the certificate of title properly assigned and dated by the
+27 seller, or the seller's bill of sale shall serve as a seventy-two (72) hour
+28 permit. The seventy-two (72) hour time period for temporary permits shall
+29 be calculated excluding weekend days and legal holidays observed by the
+30 state of Idaho. These temporary permits allow operation of any noncommer-
+31 cial vehicle or unladened commercial vehicle or vehicle combination without
+32 license plates for the period of time specified in the permit. A ladened
+33 commercial vehicle or vehicle combination may also operate without license
+34 plates for the period of time specified in the temporary permit, provided
+35 that the owner or operator has also obtained a permit issued under the provi-
+36 sions of section 49-432, Idaho Code.
+37 (7) If the vehicle has no identification number, then the department
+38 shall designate an identification number for that vehicle at the time of is-
+39 suance of the certificate of title. The identification number shall be per-
+40 manently affixed to or indented upon on the frame of the vehicle and legibly
+41 maintained by the owner at all times while a certificate of title to the vehi-
+42 cle shall be is issued and outstanding.
+43 (8) An EVC provider authorized pursuant to section 49-401C, Idaho Code,
+44 may act on behalf of the department in receiving, processing, and transmit-
+45 ting applications for title and any related fees to the department. The se-
+46 curity, oversight, and processing requirements in chapter 4, title 49, Idaho
+47 Code, shall also apply to titling transactions conducted by an EVC provider.
+48 (9) The department may allow a person to submit a required document by
+49 using electronic media deemed feasible by the department instead of requir-
+50 ing an original document. If a signature on a document is required by law and
+
+5
+1 the document is submitted electronically, the signature requirement will
+2 be satisfied by an authenticated electronically submitted signature. An
+3 electronically submitted document, once accepted by the department, shall
+4 be deemed the same as an original document and shall be admissible in all
+5 administrative, quasi-judicial, and judicial proceedings.
+6 SECTION 3. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2026.

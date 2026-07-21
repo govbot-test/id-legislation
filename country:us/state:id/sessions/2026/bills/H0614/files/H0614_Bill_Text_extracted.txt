@@ -1,0 +1,527 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 614
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO THE DEVELOPMENTALLY DISABLED AND MENTALLY ILL; AMENDING SECTION
+3 66-317, IDAHO CODE, TO REVISE DEFINITIONS; AMENDING SECTION 66-329,
+4 IDAHO CODE, TO REVISE A PROVISION REGARDING THE DETENTION OR INVOLUN-
+5 TARY ADMISSION TO A HOSPITAL OR OTHER FACILITY OF CERTAIN INDIVIDUALS;
+6 AMENDING SECTION 66-402, IDAHO CODE, TO REVISE A DEFINITION; AMENDING
+7 SECTION 66-406, IDAHO CODE, TO PROVIDE FOR A REBUTTABLE PRESUMPTION
+8 THAT A PERSON IS UNABLE TO MEET ESSENTIAL REQUIREMENTS FOR PHYSICAL
+9 HEALTH OR SAFETY IN CERTAIN INSTANCES; AND DECLARING AN EMERGENCY AND
+10 PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 66-317, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 66-317. DEFINITIONS. As used in this chapter:
+15 (1) "Department director" means the director of the state department of
+16 health and welfare.
+17 (2) "Voluntary patient" means an individual admitted to a facility for
+18 evaluation pursuant to section 18-211, Idaho Code, or admitted to a facility
+19 for observation, diagnosis, evaluation, care, or treatment pursuant to sec-
+20 tion 66-318, Idaho Code.
+21 (3) "Involuntary patient" means an individual committed pursuant to
+22 section 18-212, 66-329, or 66-1201, Idaho Code.
+23 (4) "Designated examiner" means an individual who meets the qualifica-
+24 tions pursuant to section 66-323, Idaho Code.
+25 (5) "Dispositioner" means a designated examiner employed by or under
+26 contract with the department of health and welfare and designated by the de-
+27 partment director to determine the appropriate location for care and treat-
+28 ment of involuntary patients.
+29 (6) "Facility" means any public or private hospital, state hospital,
+30 institution, mental health center, or other organization designated in ac-
+31 cordance with rules adopted by the board of health and welfare as equipped
+32 to initially hold, evaluate, rehabilitate, or provide care or treatment, or
+33 both, for the mentally ill.
+34 (7) "Lacks capacity to make informed decisions about treatment" means
+35 the inability, by reason of mental illness, to achieve a rudimentary under-
+36 standing after conscientious efforts at explanation of the purpose, nature,
+37 and possible significant risks and benefits of treatment.
+38 (8) "Inpatient treatment facility" means a facility in which an indi-
+39 vidual receives medical and mental treatment for not less than a continuous
+40 twenty-four (24) hour period.
+41 (9) "Supervised residential facility" means a facility, other than the
+42 individual's home, in which the individual lives and in which there live, or
+
+2
+1 are otherwise on duty during the times that the individual's presence is ex-
+2 pected, persons who are employed to supervise, direct, treat, or monitor the
+3 individual.
+4 (10) "Likely to injure himself or others" means:
+5 (a) A substantial risk that physical harm will be inflicted by the pro-
+6 posed patient upon his own person, as evidenced by threats or attempts
+7 to commit suicide or inflict physical harm on himself; or
+8 (b) A substantial risk that physical harm will be inflicted by the pro-
+9 posed patient upon another as evidenced by behavior that has caused such
+10 harm or that places another person or persons in reasonable fear of sus-
+11 taining such harm; or
+12 (c) The proposed patient lacks insight into his need for treatment and
+13 is unable or unwilling to comply with treatment and, based on his psy-
+14 chiatric history, clinical observation or other clinical evidence, if
+15 he does not receive and comply with treatment, there is a substantial
+16 risk he will continue to physically, emotionally or mentally deterio-
+17 rate to the point that he will, in the reasonably near future, inflict
+18 physical harm on himself or another person.
+19 (11) "Mentally ill" means a condition resulting in a substantial dis-
+20 order of thought, mood, perception, or orientation that grossly impairs
+21 judgment, behavior, or capacity to recognize and adapt to reality and re-
+22 quires care and treatment at a facility or through outpatient treatment.
+23 However, the term "mentally ill" does not include conditions discussed in
+24 section 66-329(13)(a), Idaho Code.
+25 (12)(a) "Gravely disabled" means the condition of a person who, as the
+26 result of mental illness, has demonstrated an inability to:
+27 (a) (i) Attend to basic physical needs, such as medical care,
+28 food, clothing, shelter, or safety;
+29 (b) (ii) Protect himself from harm or victimization by others;
+30 (c) (iii) Exercise sufficient behavioral control to avoid seri-
+31 ous criminal justice involvement, such as repeated law enforce-
+32 ment contact; or
+33 (d) (iv) Recognize that he is experiencing symptoms of a serious
+34 mental illness and lacks the insight into his need for treatment,
+35 whereby the subsequent absence of treatment may result in deteri-
+36 oration of his condition such that any of the circumstances listed
+37 in this subsection may be satisfied in the near future.
+38 (b) A judicial finding in any currently pending criminal proceeding
+39 that a defendant is unfit and there is not a substantial probability the
+40 defendant will be fit to proceed within the foreseeable future or if the
+41 defendant is not fit to proceed after the expiration of the additional
+42 one hundred eighty (180) days, pursuant to section 18-212, Idaho Code,
+43 shall create a rebuttable presumption that the person is gravely dis-
+44 abled for purposes of section 66-329, Idaho Code.
+45 (13) "Neurocognitive disorder" means decreased mental function due to a
+46 medical disease other than a psychiatric illness, including:
+47 (a) Alzheimer's disease;
+48 (b) Frontotemporal lobar degeneration;
+49 (c) Lewy body dementia;
+50 (d) Vascular dementia;
+
+3
+1 (e) Traumatic brain injury;
+2 (f) Inappropriate use or abuse of substances or medications;
+3 (g) Infection with human immunodeficiency virus;
+4 (h) Prion diseases;
+5 (i) Parkinson's disease; or
+6 (j) Huntington's disease.
+7 (14) "Outpatient treatment" means mental health treatment, not involv-
+8 ing the continuous supervision of a person in an inpatient setting, that is
+9 reasonably designed to alleviate or to reduce a person's mental illness or to
+10 maintain or prevent deterioration of the person's physical, mental, or emo-
+11 tional functioning. Mental health services or treatment may include, but
+12 need not be limited to, taking prescribed medication, reporting to a facil-
+13 ity to permit monitoring of the person's condition, or participating in in-
+14 dividual or group therapy.
+15 (15) "Protection and advocacy system" means the agency designated by
+16 the governor as the state protection and advocacy system pursuant to 42
+17 U.S.C. 15043 and 42 U.S.C. 10801 et seq.
+18 (16) "Holding proceedings in abeyance" means an alternative to judicial
+19 commitment based on an agreement entered into by all parties, including the
+20 proposed patient, and agreed to by the court, providing for voluntary condi-
+21 tions of treatment, which hold in a state of suspension or inactivity the pe-
+22 tition for involuntary commitment.
+23 (17) "Senior designated examiner" means an individual who has three (3)
+24 years of experience as a designated examiner and five (5) years of post-mas-
+25 ter's degree experience in a mental health field and who has been approved by
+26 the department director or the department director's designee to act as a se-
+27 nior designated examiner.
+28 SECTION 2. That Section 66-329, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 66-329. COMMITMENT TO DEPARTMENT DIRECTOR UPON COURT ORDER -- JUDI-
+31 CIAL PROCEDURE. (1) Proceedings for the involuntary care and treatment of
+32 mentally ill persons by the department of health and welfare may be commenced
+33 by the filing of a written application with a court of competent jurisdiction
+34 by a friend, relative, spouse or guardian of the proposed patient, by a li-
+35 censed physician, by a physician assistant or advanced practice registered
+36 nurse practicing in a hospital, by a prosecuting attorney or other public of-
+37 ficial of a municipality, county or of the state of Idaho, or by the director
+38 of any facility in which such patient may be.
+39 (2) The application shall state the name and last known address of the
+40 proposed patient; the name and address of the spouse, guardian, next of kin,
+41 or friend of the proposed patient; whether the proposed patient can be cared
+42 for privately in the event commitment is not ordered; whether the proposed
+43 patient is, at the time of the application, a voluntary patient; whether the
+44 proposed patient has applied for release pursuant to section 66-320, Idaho
+45 Code; and a simple and precise statement of the facts showing that the pro-
+46 posed patient is mentally ill and either likely to injure himself or others
+47 or is gravely disabled due to mental illness.
+48 (3) Any such application shall be accompanied by a certificate of a des-
+49 ignated examiner stating that he has personally examined the proposed pa-
+
+4
+1 tient within the last fourteen (14) days and is of the opinion that the pro-
+2 posed patient is: (i) mentally ill; (ii) likely to injure himself or oth-
+3 ers or is gravely disabled due to mental illness; and (iii) lacks capacity to
+4 make informed decisions about treatment;
+5 or a written statement by the applicant that the proposed patient has refused
+6 to submit to examination by a designated examiner.
+7 (4) Upon receipt of an application for commitment, the court shall,
+8 within forty-eight (48) hours, appoint another designated examiner to make
+9 a personal examination of the proposed patient, or if the proposed patient
+10 has not been examined, the court shall appoint two (2) designated examiners
+11 to make individual personal examinations of the proposed patient and may
+12 order the proposed patient to submit to an immediate examination. If neither
+13 designated examiner is a physician, the court shall order a physical exami-
+14 nation of the proposed patient. At least one (1) designated examiner shall
+15 be a senior designated examiner. The designated examiners shall report to
+16 the court their findings within the following seventy-two (72) hours as to
+17 the mental condition of the proposed patient and his need for custody, care,
+18 or treatment by a facility. The reports shall be in the form of written cer-
+19 tificates that shall be filed with the court. The court may terminate the
+20 proceedings and dismiss the application without taking any further action in
+21 the event the reports of the designated examiners are to the effect that the
+22 proposed patient is not mentally ill or, although mentally ill, is not likely
+23 to injure himself or others or is not gravely disabled due to mental illness.
+24 If the proceedings are terminated, the proposed patient shall be released
+25 immediately.
+26 (5) If the designated examiner's certificate states a belief that the
+27 proposed patient is mentally ill and either likely to injure himself or oth-
+28 ers or is gravely disabled due to mental illness, the judge of such court
+29 shall issue an order authorizing any health officer, peace officer, or di-
+30 rector of a facility to take the proposed patient to a facility in the com-
+31 munity in which the proposed patient is residing or to the nearest facility
+32 to await the hearing, and for good cause may authorize treatment during such
+33 period subject to the provisions of section 66-346(a)(4), Idaho Code. Under
+34 no circumstances shall the proposed patient be detained in a nonmedical unit
+35 used for the detention of individuals charged with or convicted of penal of-
+36 fenses.
+37 (6) Upon receipt of such application and designated examiners' re-
+38 ports, the court shall appoint a time and place for a hearing not more than
+39 seven (7) days from the receipt of such designated examiners' reports and
+40 thereupon give written notice of such time and place of such hearing, to-
+41 gether with a copy of the application, designated examiner's certificates,
+42 and notice of the proposed patient's right to be represented by an attor-
+43 ney or, if indigent, to be represented by a court-appointed attorney, to
+44 the applicant, to the proposed patient, to the proposed patient's spouse,
+45 guardian, next of kin, or friend. With the consent of the proposed patient
+46 and his attorney, the hearing may be held immediately. Upon motion of the
+47 petitioner, or upon motion of the proposed patient and attorney, and for good
+48 cause shown, the court may continue the hearing up to an additional seven
+49 (7) days during which time, for good cause shown, the court may authorize
+50 treatment.
+
+5
+1 (7) An opportunity to be represented by counsel shall be afforded to ev-
+2 ery proposed patient, and, if neither the proposed patient nor others pro-
+3 vide counsel, the court shall appoint counsel in accordance with chapter 8,
+4 title 19, Idaho Code, no later than the time the application is received by
+5 the court.
+6 (8) If the involuntary detention was commenced under this section, the
+7 hearing shall be held in a manner and at a suitable place not likely to have
+8 a harmful effect on the proposed patient's physical or mental health. Venue
+9 for the hearing shall be in the county of residence of the proposed patient
+10 or in the county where the proposed patient was found immediately prior to
+11 commencement of such proceedings.
+12 (9) In all proceedings under this section, any existing provision of
+13 the law prohibiting the disclosure of confidential communications between
+14 the designated examiner and proposed patient shall not apply and any desig-
+15 nated examiner who shall have examined the proposed patient shall be a compe-
+16 tent witness to testify as to the proposed patient's condition.
+17 (10) The proposed patient, the applicant, and any other persons to whom
+18 notice is required to be given shall be afforded an opportunity to appear at
+19 the hearing, to testify, and to present and cross-examine witnesses. The
+20 proposed patient may, after consulting with his attorney, waive his presence
+21 at court. The court may waive the presence of a proposed patient if the men-
+22 tal or physical state of the proposed patient is such that his presence at the
+23 hearing would be detrimental to the proposed patient's health or would un-
+24 duly disrupt the proceedings. A record of the proceedings shall be made as
+25 for other civil hearings. The hearing shall be conducted in as informal a
+26 manner as may be consistent with orderly procedure. The court shall receive
+27 all relevant and material evidence consistent with the rules of evidence.
+28 (11) If, upon completion of the hearing and consideration of the record,
+29 and after consideration of reasonable alternatives including, but not lim-
+30 ited to, holding the proceedings in abeyance for a period of up to thirty (30)
+31 days, the court finds by clear and convincing evidence that the proposed pa-
+32 tient:
+33 (a) Is mentally ill; and
+34 (b) Is, because of such condition, likely to injure himself or others,
+35 or is gravely disabled due to mental illness;
+36 the court shall order the proposed patient committed to the custody of the
+37 department director for observation, care, and treatment for an indeter-
+38 minate period of time not to exceed one (1) year. The department director,
+39 through his dispositioner, shall determine within twenty-four (24) hours
+40 the least restrictive available facility or outpatient treatment, con-
+41 sistent with the needs of each patient committed under this section for
+42 observation, care, and treatment.
+43 (12) The commitment order constitutes a continuing authorization for
+44 the department of health and welfare, law enforcement, or director of a fa-
+45 cility, upon request of the director of the outpatient facility, the physi-
+46 cian, or the department director through his dispositioner, to transport a
+47 committed patient to designated outpatient treatment for the purpose of mak-
+48 ing reasonable efforts to obtain the committed patient's compliance with the
+49 terms and conditions of outpatient treatment. If the director of the outpa-
+
+6
+1 tient facility, the treating physician, or the department director through
+2 his dispositioner determines any of the following:
+3 (a) The patient is failing to adhere to the terms and conditions of
+4 outpatient treatment or the patient refuses outpatient treatment after
+5 reasonable efforts at compliance have been made; or
+6 (b) Outpatient treatment is not effective after reasonable efforts
+7 have been made;
+8 the department director through his dispositioner shall cause the commit-
+9 ted patient to be transported by the department of health and welfare, law
+10 enforcement, or director of a facility to the least restrictive available
+11 facility for observation, care, and treatment on an inpatient basis. Within
+12 forty-eight (48) hours of a committed patient's transfer from outpatient
+13 treatment to a facility for inpatient treatment, the department director
+14 through his dispositioner shall notify the court that originally ordered the
+15 commitment, the committed patient's attorney, and the committed patient's
+16 spouse, guardian, adult next of kin, or friend of the change in disposi-
+17 tion and provide a detailed affidavit reciting the facts and circumstances
+18 supporting the transfer from outpatient treatment to inpatient treatment
+19 at a facility. The court shall conduct an ex parte review of the notice and
+20 affidavit within forty-eight (48) hours of filing and determine whether the
+21 change in disposition from outpatient treatment to inpatient treatment at a
+22 facility is supported by probable cause. In no event shall the calculation
+23 of forty-eight (48) hours provided for in this subsection include holidays
+24 formally recognized and observed by the state of Idaho, nor shall the cal-
+25 culation include weekends. If the court determines that probable cause
+26 exists, the department director through his dispositioner shall continue
+27 with care and treatment on an inpatient basis at the least restrictive avail-
+28 able facility. Within twenty-four (24) hours of a finding of probable cause,
+29 the court shall issue an order to show cause why the patient does not meet
+30 the conditions in paragraph (a) or (b) of this subsection. The order shall
+31 be served on the committed patient, the committed patient's attorney and the
+32 committed patient's spouse, guardian, adult next of kin, or friend. The pa-
+33 tient shall have fifteen (15) days to present evidence that the conditions in
+34 paragraph (a) or (b) of this subsection have not been met. In no event shall
+35 the calculation of twenty-four (24) hours provided for in this subsection
+36 include holidays formally recognized and observed by the state of Idaho,
+37 nor shall the calculation include weekends. If the court determines that
+38 a change in disposition from outpatient treatment to inpatient treatment
+39 does not meet the conditions in paragraph (a) or (b) of this subsection, the
+40 department director through his dispositioner will continue with outpatient
+41 treatment on the same or modified terms and conditions. Nothing provided
+42 in this section shall limit the authority of any law enforcement officer to
+43 detain a patient pursuant to the emergency authority conferred by section
+44 66-326, Idaho Code.
+45 (13) Nothing in this chapter or in any rule adopted pursuant thereto
+46 shall be construed to authorize the detention or involuntary admission to a
+47 hospital or other facility of an individual who:
+48 (a) Has a neurological disorder, a neurocognitive disorder, a develop-
+49 mental disability as defined in section 66-402, Idaho Code, or a physi-
+50 cal disability, or any medical disorder that includes psychiatric symp-
+
+7
+1 tomology or is primarily impaired by substance use, unless in addition
+2 to such condition, such person is mentally ill;
+3 (b) Is a patient under treatment by spiritual means alone, through
+4 prayer, in accordance with the tenets and practices of a recognized
+5 church or religious denomination by a duly accredited practitioner
+6 thereof and who asserts to any authority attempting to detain him that
+7 he is under such treatment and who gives the name of a practitioner so
+8 treating him to such authority; or
+9 (c) Can be cared for privately with the help of willing and able family
+10 or friends in such a way as to no longer present substantial risk to him-
+11 self or others, provided that such person may be detained or involuntar-
+12 ily admitted if such person is mentally ill and presents a substantial
+13 risk of injury to himself or others if such care is not adequate.
+14 (14) The order of commitment shall state whether the proposed patient
+15 lacks capacity to make informed decisions about treatment, the name and ad-
+16 dress of the patient's attorney and the patient's spouse, guardian, adult
+17 next of kin, or friend.
+18 (15) If the patient has no spouse or guardian and if the patient has
+19 property that may not be cared for pursuant to chapter 5, title 66, Idaho
+20 Code, or by the patient while confined at a facility, the court shall appoint
+21 a guardian ad litem for the purpose of preserving the patient's estate, pend-
+22 ing further guardianship or conservatorship proceedings.
+23 (16) The commitment shall continue until terminated and shall be unaf-
+24 fected by the patient's conditional release or change in disposition.
+25 SECTION 3. That Section 66-402, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 66-402. DEFINITIONS. As used in this chapter:
+28 (1) "Adult" means an individual eighteen (18) years of age or older.
+29 (2) "Artificial life-sustaining procedures" means any medical proce-
+30 dure or intervention that utilizes mechanical means to sustain or supplant
+31 a vital function. Artificial life-sustaining procedures shall not include
+32 the administration of medication, and it shall not include the performance
+33 of any medical procedure deemed necessary to alleviate pain, or any proce-
+34 dure that could be expected to result in the recovery or long-term survival
+35 of the patient and his restoration to consciousness.
+36 (3) "Department" means the Idaho department of health and welfare.
+37 (4) "Director" means the director of the department of health and wel-
+38 fare.
+39 (5) "Developmental disability" means a chronic disability of a person
+40 that appears before the age of twenty-two (22) and:
+41 (a) Is attributable to an impairment, such as intellectual disability,
+42 cerebral palsy, epilepsy, autism or other condition found to be closely
+43 related to or similar to one (1) of these impairments that requires sim-
+44 ilar treatment or services, or is attributable to dyslexia resulting
+45 from such impairments; and
+46 (b) Results in substantial functional limitations in three (3) or more
+47 of the following areas of major life activity: self-care, receptive and
+48 expressive language, learning, mobility, self-direction, capacity for
+49 independent living, or economic self-sufficiency; and
+
+8
+1 (c) Reflects the need for a combination and sequence of special, in-
+2 terdisciplinary or generic care, treatment or other services that are
+3 of lifelong or extended duration and individually planned and coordi-
+4 nated.
+5 (6) "Emancipated minor" means an individual between fourteen (14) and
+6 eighteen (18) years of age who has been married or whose circumstances indi-
+7 cate that the parent-child relationship has been renounced.
+8 (7) "Evaluation committee" means an interdisciplinary team of at least
+9 three (3) individuals designated by the director or his designee to evaluate
+10 an individual as required by the provisions of this chapter. Each committee
+11 must include a physician licensed to practice medicine in the state of Idaho,
+12 a licensed social worker or a licensed professional counselor, and a clini-
+13 cal psychologist or such other individual who has a master's degree in psy-
+14 chology as designated by the department director. In a proceeding governed
+15 by section 66-404, Idaho Code, a licensed independent practitioner may be
+16 used instead of a physician. Each committee member must be specially qual-
+17 ified by training and experience in the diagnosis and treatment of persons
+18 with a developmental disability.
+19 (8) "Facility" means the southwest Idaho treatment center, a nursing
+20 facility, an intermediate care facility, an intermediate care facility for
+21 people with intellectual disabilities, a licensed residential or assisted
+22 living facility, a group foster home, other organizations licensed to pro-
+23 vide twenty-four (24) hour care, treatment and training to the developmen-
+24 tally disabled, a mental health center, or an adult and child development
+25 center.
+26 (9) "Lacks capacity to make informed decisions" means the inability, by
+27 reason of developmental disability, to achieve a rudimentary understanding
+28 of the purpose, nature, and possible risks and benefits of a decision, after
+29 conscientious efforts at explanation, but shall not be evidenced by improv-
+30 ident decisions within the discretion allowed nondevelopmentally disabled
+31 individuals.
+32 (10) "Licensed independent practitioner" or "LIP" means:
+33 (a) A licensed physician or physician assistant pursuant to section
+34 54-1803, Idaho Code; or
+35 (b) A licensed advanced practice registered nurse pursuant to section
+36 54-1402, Idaho Code.
+37 (11) "Likely to injure himself or others" means:
+38 (a) A substantial risk that physical harm will be inflicted by the re-
+39 spondent upon his own person as evidenced by threats or attempts to com-
+40 mit suicide or inflict physical harm on himself; or
+41 (b) A substantial risk that physical harm or a sexual offense will be
+42 inflicted by the respondent upon another as evidenced by behavior that
+43 has caused such harm or that places another person or persons in reason-
+44 able fear of sustaining such harm; or
+45 (c) That the respondent is unable to meet essential requirements for
+46 physical health or safety.
+47 (12) "Manage financial resources" means the actions necessary to ob-
+48 tain, administer and dispose of real, personal, intangible or business
+49 property, benefits and/or income.
+
+9
+1 (13) "Meet essential requirements for physical health or safety" means
+2 the actions necessary to provide health care, food, clothing, shelter, per-
+3 sonal hygiene and/or other care without which serious physical injury or
+4 illness would occur.
+5 (14) "Minor" means an individual under age eighteen (18) years.
+6 (15) "Protection and advocacy system" means the agency designated by
+7 the governor of the state of Idaho to provide advocacy services for people
+8 with disabilities pursuant to 42 U.S.C. 6042.
+9 (16) "Respondent" means the individual subject to judicial proceedings
+10 authorized by the provisions of this chapter.
+11 SECTION 4. That Section 66-406, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 66-406. JUDICIAL PROCEDURE FOR COMMITMENT TO DIRECTOR. (1) Proceed-
+14 ings for the involuntary care and treatment of developmentally disabled per-
+15 sons by the department may be commenced by the filing of a written applica-
+16 tion with a court of competent jurisdiction by a friend, relative, spouse or
+17 guardian of the respondent, or by a licensed physician, prosecuting attorney
+18 or other public official, or the head of the facility in which the respondent
+19 may be.
+20 (2) The application shall state the name and last known address of
+21 the respondent; the name and address of either the respondent's spouse,
+22 guardian, next of kin or friend; whether the respondent can be cared for
+23 privately in the event commitment is not ordered; and a simple and precise
+24 statement of facts showing that the respondent is developmentally disabled
+25 and likely to injure himself or others.
+26 (3) Any application shall be accompanied by a report of an evaluation
+27 committee stating that the committee has examined the respondent within the
+28 last fourteen (14) days and is of the opinion that the respondent is develop-
+29 mentally disabled and likely to injure himself or others; or a written state-
+30 ment by the committee that the respondent has refused to submit to examina-
+31 tion.
+32 (4) Upon receipt of an application for commitment not accompanied by
+33 an evaluation committee report, the court shall, within forty-eight (48)
+34 hours, order the respondent to submit to an examination. The evaluation com-
+35 mittee shall report to the court its findings within three (3) working days
+36 of the order.
+37 (5) If it is determined by the evaluation committee that the respondent
+38 is developmentally disabled and likely to injure himself or others pending
+39 the hearing, the court may issue an order authorizing a department employee,
+40 peace officer, or head of a facility to take the respondent to a facility in
+41 the community in which the respondent is residing or to the nearest facility
+42 to await the hearing and for good cause may authorize treatment during such
+43 period subject to the provisions of section 66-412(4), Idaho Code.
+44 (6) Upon receipt of the application and evaluation committee report,
+45 the court shall appoint a time and place for a hearing which shall be held not
+46 more than seven (7) days from receipt of the report and give written notice
+47 of the time and place of the hearing together with a copy of the application,
+48 evaluation committee report, and notice of the respondent's right to be rep-
+49 resented by an attorney, or if indigent, to be represented by a court-ap-
+
+10
+1 pointed attorney, to the applicant, to the respondent, and to either the re-
+2 spondent's spouse, guardian, next of kin or friend, if other than the appli-
+3 cant. With the consent of the respondent and his attorney, the hearing may be
+4 held immediately. Upon motion for good cause shown and with the respondent's
+5 consent, the court may continue the hearing up to an additional fourteen (14)
+6 days.
+7 (7) An opportunity to be represented by counsel shall be afforded to ev-
+8 ery respondent, and if neither the respondent nor others provide counsel,
+9 the court will appoint the counsel in accordance with chapter 8, title 19,
+10 Idaho Code.
+11 (8) The hearing shall be held at a facility, at the respondent's home,
+12 or at any other suitable place not likely to have a harmful effect on the re-
+13 spondent's physical or mental health.
+14 (9) In all proceedings under the provisions of this section, any ex-
+15 isting provision of law prohibiting the disclosure of confidential commu-
+16 nications between any member of the evaluation committee and the respondent
+17 shall not apply.
+18 (10) The respondent, the applicant, and any other person to whom no-
+19 tice is required to be given shall be afforded an opportunity to appear at
+20 the hearing, to testify, and to present and cross-examine witnesses. The
+21 respondent shall be required to be present at the hearing free from drugs
+22 likely to impair the respondent's ability to communicate or understand the
+23 proceedings, unless the court determines that the mental or physical state
+24 of the respondent is such that his presence at the hearing free from drugs
+25 would be detrimental to the respondent's health or would unduly disrupt the
+26 proceedings. A record of the proceedings shall be made as for other civil
+27 hearings. The hearing shall be conducted in an informal manner consistent
+28 with orderly procedure and rules of evidence.
+29 (11) If, upon completion of the hearing and consideration of the record,
+30 the court finds by clear and convincing evidence that the respondent:
+31 (a) Is developmentally disabled; and
+32 (b) Because of such condition is likely to injure himself or others; and
+33 (c) Lacks capacity to make informed decisions about treatment;
+34 the court shall order the respondent committed to the custody of the direc-
+35 tor for an indeterminate period of time not to exceed three (3) years. The
+36 director or his designee shall determine within forty-eight (48) hours the
+37 least restrictive available placement consistent with the needs of each re-
+38 spondent committed under the provisions of this section and make arrangement
+39 for placement in that setting.
+40 (12) Nothing in the provisions of this chapter or in any rules or regu-
+41 lations adopted pursuant hereto shall be construed to authorize the commit-
+42 ment of an individual who can be properly cared for privately with the help of
+43 willing and able family or friends.
+44 (13) The order of commitment shall state the name and address of the re-
+45 spondent's attorney, and either the respondent's spouse, guardian, adult
+46 next of kin or friend, if any.
+47 (14) A judicial finding in any currently pending criminal proceeding
+48 that a defendant is unfit and there is not a substantial probability the
+49 defendant will be fit to proceed within the foreseeable future or if the
+50 defendant is not fit to proceed after the expiration of the additional one
+
+11
+1 hundred eighty (180) days, pursuant to section 18-212, Idaho Code, shall
+2 create a rebuttable presumption that the respondent is unable to meet es-
+3 sential requirements for physical health or safety for purposes of section
+4 66-329(11), Idaho Code.
+5 SECTION 5. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2026.

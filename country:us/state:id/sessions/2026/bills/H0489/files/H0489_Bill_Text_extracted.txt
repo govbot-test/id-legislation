@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 489
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO CRIMES AND PUNISHMENT; AMENDING CHAPTER 9, TITLE 18, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 18-915D, IDAHO CODE, TO PROHIBIT THE
+4 USE OF A MASK OR DISGUISE DURING A CRIMINAL OFFENSE AND TO PROVIDE FOR A
+5 SENTENCING ENHANCEMENT; PROVIDING SEVERABILITY; AND DECLARING AN EMER-
+6 GENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 9, Title 18, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 18-915D, Idaho Code, and to read as follows:
+11 18-915D. USE OF MASK OR DISGUISE DURING CRIMINAL OFFENSE -- SENTENC-
+12 ING ENHANCEMENT. (1) It shall be unlawful for any individual to wear a mask,
+13 hood, or other device that covers, hides, or conceals any portion of the in-
+14 dividual's face while committing or attempting to commit another criminal
+15 offense.
+16 (2) A person who violates the provisions of this section while commit-
+17 ting or attempting to commit another criminal offense shall, upon convic-
+18 tion, be subject to an enhanced penalty in addition to the sentence imposed
+19 for the underlying offense. Such enhancement shall consist of an additional
+20 fine not to exceed two thousand five hundred dollars ($2,500), an additional
+21 term of imprisonment not to exceed one (1) year, or both such fine and impris-
+22 onment.
+23 (3) The provisions of this section shall not be construed to preclude
+24 prosecution or penalties under any other applicable law.
+25 SECTION 2. SEVERABILITY. The provisions of this act are hereby declared
+26 to be severable and if any provision of this act or the application of such
+27 provision to any person or circumstance is declared invalid for any reason,
+28 such declaration shall not affect the validity of the remaining portions of
+29 this act.
+30 SECTION 3. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after
+32 July 1, 2026.

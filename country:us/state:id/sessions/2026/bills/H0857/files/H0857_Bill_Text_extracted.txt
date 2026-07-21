@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 857
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD CUSTODY; REPEALING SECTION 32-717A, IDAHO CODE, RELATING
+3 TO PARENTS' ACCESS TO RECORDS AND INFORMATION; AMENDING CHAPTER 7, TI-
+4 TLE 32, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 32-717A, IDAHO CODE,
+5 TO ESTABLISH PROVISIONS REGARDING PARENTS' ACCESS TO RECORDS AND INFOR-
+6 MATION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 32-717A, Idaho Code, be, and the same is hereby
+9 repealed.
+10 SECTION 2. That Chapter 7, Title 32, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 32-717A, Idaho Code, and to read as follows:
+13 32-717A. PARENTS' ACCESS TO RECORDS AND INFORMATION. (1) Consistent
+14 with section 32-1015, Idaho Code, and notwithstanding any other provisions
+15 of law, each parent shall have equal access to all records relating to the
+16 parent's minor child, including medical, educational, childcare, law en-
+17 forcement, and court records, regardless of custodial status. Upon written
+18 request, a records custodian shall provide copies within fourteen (14) cal-
+19 endar days unless a shorter period is required by law.
+20 (2) Access may be restricted only by court order with written findings
+21 that the restriction is necessary to prevent substantial harm to the child.
+22 Nothing in this section shall require disclosure in violation of federal
+23 law.
+24 SECTION 3. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

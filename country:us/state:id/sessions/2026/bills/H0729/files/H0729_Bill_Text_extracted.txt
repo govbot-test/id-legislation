@@ -1,0 +1,148 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 729
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO DENTAL PLAN TRANSPARENCY ACT; AMENDING TITLE 41, IDAHO
+3 CODE, BY THE ADDITION OF A NEW CHAPTER 67, TITLE 41, IDAHO CODE, TO PRO-
+4 VIDE A SHORT TITLE, TO DEFINE TERMS, AND TO PROVIDE FOR TRANSPARENCY
+5 OF DENTAL HEALTH CARE SERVICE PLAN PATIENT PREMIUMS; AND DECLARING AN
+6 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Title 41, Idaho Code, be, and the same is hereby amended
+9 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+10 ter 67, Title 41, Idaho Code, and to read as follows:
+11 CHAPTER 67
+12 IDAHO DENTAL PLAN TRANSPARENCY ACT
+13 41-6701. SHORT TITLE. This act shall be known and may be cited as the
+14 "Idaho Dental Plan Transparency Act."
+15 41-6702. DEFINITIONS. For the purposes of this chapter:
+16 (1) "Dental health care service plan" means any plan that provides
+17 coverage for dental health care services to plan enrollees in exchange for
+18 premiums. Dental health care service plan does not include plans under med-
+19 icaid, the children's health insurance program (CHIP), short-term health
+20 plans, accident-only plans, emergency benefits embedded in a medical plan,
+21 or direct primary care agreements.
+22 (2) "Dental loss ratio" or "DLR" means a ratio used to determine the
+23 percentage of all premium funds collected by an insurer or dental health care
+24 service plan each year that is spent on actual enrollee patient care and may
+25 include oral health-related community health benefit spending but shall not
+26 include overhead or other costs.
+27 (3) "Department" means the Idaho department of insurance.
+28 (4) "Earned premium" means all moneys paid by an enrollee or subscriber
+29 as a condition of receiving coverage from the issuer, including any fees or
+30 other contributions associated with a dental health care service plan.
+31 (5) "Incurred claims" means claims relating to services that were pro-
+32 vided in a reporting year, which includes claims that were paid in such re-
+33 porting year plus unpaid claim reserves for claims paid after such reporting
+34 year.
+35 (6) "Unpaid claim reserves" means reserves and liabilities established
+36 to account for claims that were incurred during a DLR reporting year but were
+37 not paid within three (3) months of the end of such DLR reporting year.
+38 41-6703. TRANSPARENCY OF DENTAL HEALTH CARE SERVICE PLAN PATIENT PRE-
+39 MIUMS. (1) A dental health care service plan that issues, sells, renews, or
+
+2
+1 offers a specialized health care service plan contract covering dental ser-
+2 vices shall file annually a DLR report with the department that covers all
+3 dental health care service plans offered. Beginning in 2027, such report
+4 shall be submitted annually on or before July 31. The department shall an-
+5 nually review and publish reports submitted pursuant to this subsection by
+6 January 1 each year.
+7 (2) A DLR reporting year shall be for a calendar year when dental cover-
+8 age was provided by a dental health care service plan.
+9 (3) A DLR report shall include a brief overview of what was included
+10 in the calculation for the numerator and denominator of the DLR along with
+11 the final ratio figure. If a dental health care service plan includes oral
+12 health-related community health benefit spending in its DLR computation, it
+13 shall report the value of any such amount being included.
+14 (4) If the department requires additional data verification of a dental
+15 health care service plan's representations pursuant to a DLR report submit-
+16 ted pursuant to this section, the department shall provide the dental health
+17 care service plan with notification of such requirement within thirty (30)
+18 days after the due date of such DLR report. The dental health care service
+19 plan shall have thirty (30) days after receipt of such notice, or such ad-
+20 ditional time as the department may grant at its discretion, to submit a re-
+21 sponse.
+22 (5) A dental health care service plan shall electronically submit the
+23 information described in this section in a format and according to instruc-
+24 tions prescribed by the department.
+25 (6) By January 1 of the year after the department has received a DLR re-
+26 port pursuant to this section, the department shall make such information,
+27 including the aggregate DLR and other data reported, available to the public
+28 in a searchable format on a website that is available to the public and allows
+29 for the comparison of DLRs among dental health care service plans.
+30 (7) DLRs shall be calculated by dividing the numerator by the denomina-
+31 tor as follows:
+32 (a) The numerator shall be the amount spent on services for plan en-
+33 rollees.
+34 (i) The amount spent on services for plan enrollees includes:
+35 1. The amount expended for clinical dental services that are
+36 services within the code on dental procedures and nomencla-
+37 ture provided to enrollees that shall include payments under
+38 capitation contracts with dental providers whose services
+39 are covered by the contract for dental clinical services or
+40 supplies covered by the contract;
+41 2. Unpaid claim reserves;
+42 3. Any claim payment recovered by insurers from providers or
+43 enrollees using utilization management efforts that shall
+44 be deducted from incurred claim amounts;
+45 4. The amount paid to providers on activities that improve
+46 oral health through clinical services for plan enrollees,
+47 limited to activities directed toward individual enrollees;
+48 and
+49 5. Oral health improvement activities, such as patient-fac-
+50 ing programs that improve oral health outcomes through com-
+
+3
+1 munity outreach, education, screening, grants, or workforce
+2 development investment.
+3 (ii) Any overpayment that has already been received from
+4 providers should not be reported as a paid claim. Overpayment re-
+5 coveries received from providers shall be deducted from incurred
+6 claim amounts.
+7 (iii) The calculation of the numerator shall not include:
+8 1. Any administrative costs, including but not limited to
+9 infrastructure, personnel costs, or broker payments;
+10 2. Amounts paid to third-party vendors for secondary net-
+11 work savings;
+12 3. Amounts spent internally or paid to third-party vendors
+13 for network development, administrative fees, claims pro-
+14 cessing, utilization management, or expenditures designed
+15 primarily to control or contain costs;
+16 4. Amounts paid to providers for professional or admin-
+17 istrative services that do not represent compensation or
+18 reimbursement for covered services provided to an enrollee,
+19 including but not limited to dental record copying costs,
+20 attorney's fees, subrogation vendor fees, compensation to
+21 paraprofessionals, janitors, quality assurance analysts,
+22 administrative supervisors, secretaries to dental person-
+23 nel, and dental record clerks;
+24 5. Amounts for services or expenditures paid for with grant
+25 money or other funding separate from premium revenue;
+26 6. Any funds withheld from providers for any reason;
+27 7. Overpayments recovered from providers;
+28 8. Any cost-sharing amount paid by the plan enrollee;
+29 9. Adjustments recouped pursuant to coordination of benefit
+30 policies;
+31 10. Payments recovered through fraud reduction efforts; or
+32 11. Share of expenses that are for lines of business or prod-
+33 ucts other than those being reported, including but not lim-
+34 ited to those that are for or benefit self-funded plans is-
+35 sued by the same carrier.
+36 (b) The denominator shall be the total amount of a dental health care
+37 service plan's earned premium revenues, excluding federal and state
+38 taxes and licensing and regulatory fees paid after accounting for any
+39 payments pursuant to federal law.
+40 SECTION 2. An emergency existing therefor, which emergency is hereby
+41 declared to exist, this act shall be in full force and effect on and after
+42 July 1, 2026.

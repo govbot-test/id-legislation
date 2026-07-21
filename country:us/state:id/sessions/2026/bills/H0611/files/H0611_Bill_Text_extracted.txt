@@ -1,0 +1,527 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 611
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HEALTH INSURANCE; AMENDING TITLE 41, IDAHO CODE, BY THE ADDITION
+3 OF A NEW CHAPTER 35, TITLE 41, IDAHO CODE, TO ESTABLISH THE IDAHO PRIOR
+4 AUTHORIZATION REFORM ACT, TO PROVIDE A SHORT TITLE, TO PROVIDE THE PUR-
+5 POSE OF THE CHAPTER, TO DEFINE TERMS, TO PROVIDE FOR DISCLOSURE AND RE-
+6 VIEW OF PRIOR AUTHORIZATION REQUIREMENTS, TO PROVIDE FOR STANDARDIZED
+7 ELECTRONIC PRIOR AUTHORIZATIONS, TO PROVIDE FOR STANDARD PRIOR AUTHO-
+8 RIZATIONS, TO PROVIDE FOR EXPEDITED PRIOR AUTHORIZATIONS, TO PROVIDE
+9 FOR NOTIFICATIONS FOR ADVERSE DETERMINATIONS, TO PROVIDE FOR PERSON-
+10 NEL QUALIFIED TO REVIEW APPEALS, TO PROVIDE FOR INSURER REVIEW OF PRIOR
+11 AUTHORIZATION REQUIREMENTS, TO PROVIDE FOR REVOCATION OF PRIOR AUTHO-
+12 RIZATIONS, TO PROVIDE FOR THE LENGTH OF APPROVALS, TO PROVIDE FOR AP-
+13 PROVALS FOR CHRONIC CONDITIONS, TO PROVIDE FOR CONTINUITY OF PRIOR AP-
+14 PROVALS, TO PROVIDE FOR THE EFFECT OF AN INSURER'S FAILURE TO COMPLY,
+15 TO PROVIDE FOR ENFORCEMENT AND ADMINISTRATION, TO PROVIDE FOR REPORTS
+16 TO THE DEPARTMENT OF INSURANCE, TO PROVIDE FOR FALSE REQUESTS FOR PRIOR
+17 AUTHORIZATION, AND TO PROVIDE RULEMAKING AUTHORITY; AND DECLARING AN
+18 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+19 Be It Enacted by the Legislature of the State of Idaho:
+20 SECTION 1. That Title 41, Idaho Code, be, and the same is hereby amended
+21 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+22 ter 35, Title 41, Idaho Code, and to read as follows:
+23 CHAPTER 35
+24 IDAHO PRIOR AUTHORIZATION REFORM
+25 41-3501. SHORT TITLE. This chapter shall be known and may be cited as
+26 the "Idaho Prior Authorization Reform Act."
+27 41-3502. PURPOSE. The purpose of this chapter is to:
+28 (1) Protect the health care provider-patient relationship from unrea-
+29 sonable third-party interference;
+30 (2) Prevent prior authorization programs from hindering the indepen-
+31 dent medical judgment of a physician or other health care provider; and
+32 (3) Ensure the transparency of a fair and consistent process for health
+33 care providers and their patients.
+34 41-3503. APPLICABILITY AND SCOPE. This chapter applies to every
+35 health benefit plan, as defined in section 41-5903, Idaho Code, to all
+36 issuers of health benefit plans, and to all utilization reviews and utiliza-
+37 tion review organizations, as defined in section 41-5903, Idaho Code, except
+38 for employee or employer self-insured health benefit plans under the fed-
+39 eral employee retirement income security act of 1974 or health care provided
+
+2
+1 pursuant to worker's compensation law. This chapter does not diminish the
+2 duties and responsibilities under other federal or state law or rules pro-
+3 mulgated under those laws applicable to a health insurer, health insurance
+4 issuer, health benefit plan, utilization review plan, or utilization review
+5 organization.
+6 41-3504. DEFINITIONS. For the purposes of this chapter:
+7 (1) "Adverse determination" means a determination by a health insur-
+8 ance issuer that, based on the information provided, a pre-service request
+9 for a benefit under the health insurance issuer's health benefit plan upon
+10 application of any utilization review technique does not meet the health
+11 insurance issuer's requirements for medical necessity, appropriateness,
+12 health care setting, level of care, or effectiveness or is determined to be
+13 experimental or investigational, and the requested benefit is therefore
+14 denied.
+15 (2) "Appeal" means a formal request, either orally or in writing, to re-
+16 consider an adverse determination.
+17 (3) "Approval" means a determination by a health insurance issuer that
+18 a health care service has been reviewed and, based on the information pro-
+19 vided, satisfies the health insurance issuer's requirements for medical ne-
+20 cessity and appropriateness.
+21 (4) "Clinical review criteria" means the written screening procedures,
+22 decision abstracts, clinical protocols, and practice guidelines used by a
+23 health insurance issuer to determine the necessity and appropriateness of
+24 health care services.
+25 (5) "Department" means the Idaho department of insurance.
+26 (6) "Emergency medical condition" means a medical condition manifest-
+27 ing itself by acute symptoms of sufficient severity, including but not lim-
+28 ited to severe pain, such that a prudent layperson who possesses an average
+29 knowledge of health and medicine could reasonably expect the absence of im-
+30 mediate medical attention to result in:
+31 (a) Placing the health of the individual or, with respect to a pregnant
+32 woman, the health of the woman or her unborn child, in serious jeopardy;
+33 (b) Serious impairment to bodily functions; or
+34 (c) Serious dysfunction of any bodily organ or part.
+35 (7) "Emergency services" means health care items and services fur-
+36 nished or required to evaluate and treat an emergency medical condition.
+37 (8) "Enrollee" means any person and the person's dependents enrolled in
+38 or covered by a health care plan.
+39 (9)(a) "Expedited prior authorization request" means a pre-service or
+40 concurrent care claim for medical care or treatment for which applica-
+41 tion of the time periods for making a non-expedited prior authorization
+42 could, in the opinion of a treating health care professional or health
+43 care provider with knowledge of the enrollee's medical condition:
+44 (i) Seriously jeopardize the life or health of the enrollee or the
+45 ability of the enrollee to regain maximum function;
+46 (ii) Subject the enrollee to severe pain that cannot be adequately
+47 managed without the care or treatment that is the subject of the
+48 authorization request; or
+
+3
+1 (iii) Lead to likely onset of an emergency medical condition if the
+2 service is not rendered during the time period to render a prior
+3 authorization determination for an urgent medical service.
+4 (b) "Expedited prior authorization request" does not apply to emer-
+5 gency services.
+6 (10) "Health care professional" means a physician, a registered profes-
+7 sional nurse, or another individual appropriately licensed or registered to
+8 provide health care services.
+9 (11) "Health care provider" means any physician, hospital, ambulatory
+10 surgery center, or other person or facility that is licensed or otherwise au-
+11 thorized to deliver health care services.
+12 (12) "Health care service" means any services or level of services
+13 included in the furnishing of medical care to an individual or the hospital-
+14 ization incident to the furnishing of such care, as well as the furnishing of
+15 any other services to any person for the purpose of preventing, alleviating,
+16 curing, or healing human illness or injury, including behavioral health,
+17 mental health, home health, and pharmaceutical services, products, and med-
+18 ications.
+19 (13) "Health insurance issuer" means the issuer of a health benefit
+20 plan.
+21 (14) "Medically necessary" means care that a health care professional
+22 exercising prudent clinical judgment would provide to a patient for the pur-
+23 pose of preventing, diagnosing, or treating an illness, injury, disease, or
+24 its symptoms and that is:
+25 (a) In accordance with generally accepted standards of medical prac-
+26 tice;
+27 (b) Clinically appropriate in terms of type, frequency, extent, site,
+28 and duration and considered effective for the patient's illness, in-
+29 jury, or disease;
+30 (c) Focused on what is best for the patient's health outcome; and
+31 (d) Not primarily for the convenience of the patient, treating physi-
+32 cian, other health care professional, caregiver, family member, or
+33 other interested party.
+34 (15) "NCPDP SCRIPT standard" means the national council for prescrip-
+35 tion drug programs SCRIPT standard version 2017071, or the most recent stan-
+36 dard adopted by the United States department of health and human services.
+37 Subsequently released versions of the NCPDP SCRIPT standard may be used.
+38 (16) "Physician" means any person with a valid doctor of medicine, doc-
+39 tor of osteopathy, or doctor of podiatry degree.
+40 (17) "Prior authorization" means the process by which a health insur-
+41 ance issuer determines the medical necessity and medical appropriateness of
+42 an otherwise covered health care service before the rendering of such health
+43 care service. While not requiring explicit approval, any notification re-
+44 quired of an enrollee, health care professional, or health care provider by
+45 the health insurance issuer before, at the time of, or concurrent to provid-
+46 ing a health care service shall be included within the definition of "prior
+47 authorization."
+48 (18) "Utilization review organization" has the meaning given to that
+49 term in section 41-5903, Idaho Code.
+
+4
+1 41-3505. DISCLOSURE AND REVIEW OF PRIOR AUTHORIZATION REQUIRE-
+2 MENTS. (1) A health insurance issuer shall maintain a complete list of
+3 services for which prior authorization is required, including for all ser-
+4 vices where prior authorization is performed by an entity under contract
+5 with the health insurance issuer.
+6 (2) A health insurance issuer shall make any current prior authoriza-
+7 tion requirements and restrictions, including the written clinical review
+8 criteria, readily accessible and conspicuously posted on its website or
+9 online portal to enrollees, health care professionals, and health care
+10 providers. Content published by a third party and licensed for use by a
+11 health insurance issuer may be made available through the health insurance
+12 issuer's secure, password-protected website or online portal as long as the
+13 access requirements of the website do not unreasonably restrict access.
+14 Requirements shall be described in detail, written in easily understandable
+15 language, and readily available to the health care professional and health
+16 care provider at the point of care. The website or online portal shall indi-
+17 cate for each service subject to prior authorization:
+18 (a) The date on which prior authorization became required for policies
+19 issued or health benefit plan documents delivered in Idaho, including
+20 the effective dates and the termination dates, if applicable, in Idaho;
+21 (b) The date on which the Idaho-specific requirement was listed on the
+22 website or online portal of the health insurance issuer;
+23 (c) If applicable, the date on which prior authorization requirement
+24 was removed for Idaho; and
+25 (d) If applicable, access to a standardized electronic prior autho-
+26 rization request transaction process.
+27 (3) The clinical review criteria must:
+28 (a) Be consistent with nationally accepted standards generally recog-
+29 nized by physicians and health care providers practicing in relevant
+30 medical and clinical specialties except where state law provides its
+31 own standard;
+32 (b) Be developed in accordance with the current standards of a national
+33 medical accreditation entity;
+34 (c) Ensure quality of care and access to needed health care services;
+35 (d) Be evidence-based on sources, including peer-reviewed scientific
+36 studies;
+37 (e) Be sufficiently flexible to allow deviations from norms when justi-
+38 fied on a case-by-case basis; and
+39 (f) Be evaluated and updated under the direction of a physician li-
+40 censed in the relevant specialty at least annually.
+41 (4) A health insurance issuer shall not deny a claim for failure to ob-
+42 tain prior authorization if the prior authorization requirement was not in
+43 effect on the date of service or if the claim or prior authorization require-
+44 ments were not publicly disclosed by the plan on the health insurance is-
+45 suer's website, online portal, or other materials.
+46 (5) A health insurance issuer shall not deem as incidental or deny sup-
+47 plies or health care services that are routinely used as part of a health care
+48 service when:
+49 (a) An associated health care service has received prior authoriza-
+50 tion; or
+
+5
+1 (b) Prior authorization for the health care service is not required.
+2 (6) If a health insurance issuer intends either to implement a new prior
+3 authorization requirement or restriction or to amend an existing require-
+4 ment or restriction, the health insurance issuer shall provide impacted
+5 enrollees, contracted health care professionals, and contracted health care
+6 providers of enrollees written notice of the new or amended requirement no
+7 less than sixty (60) days before the requirement or restriction is imple-
+8 mented. Written notice may take the form of a conspicuous notice posted on
+9 the health insurance issuer's public website or online portal for contracted
+10 health care professionals and contracted health care providers or email no-
+11 tice to health care professionals or providers. A health insurance issuer
+12 shall provide email notices to all impacted enrollees and to health care
+13 professionals or health care providers if the health care professional or
+14 health care provider has requested to receive the notice through email. A
+15 new or amended requirement shall not be implemented unless the health insur-
+16 ance issuer's website or online portal has been updated to reflect the new
+17 or amended requirement or restriction. Written notice of a new, amended, or
+18 restricted prior authorization requirement may be provided less than sixty
+19 (60) days in advance of implementation if a health insurance issuer deter-
+20 mines and contemporaneously notifies the department in writing that:
+21 (a) The health insurance issuer has identified fraudulent or abusive
+22 practices related to the health care service;
+23 (b) The health care service is unavailable or scarce, necessitating the
+24 use of an alternative health care service;
+25 (c) The health care service is newly introduced to the health care mar-
+26 ket and a delay in providing coverage for the health care service would
+27 not be in the best interests of enrollees;
+28 (d) The health care service is the subject of a clinical trial autho-
+29 rized by the United States food and drug administration;
+30 (e) Changes to the health care service or its availability are other-
+31 wise required by law to be made by the health insurance issuer in less
+32 than sixty (60) days; or
+33 (f) The prior authorization requirement is being removed.
+34 (7) Health insurance issuers using prior authorization shall make sta-
+35 tistics available regarding prior authorization approvals and denials on
+36 their website or online portal in a readily accessible format. Following
+37 each calendar year, the statistics shall be updated annually by February 1,
+38 and include all of the following information:
+39 (a) A list of all health care services, including medications, that are
+40 subject to prior authorization;
+41 (b) The percentage of standard prior authorization requests that were
+42 approved, aggregated for all items and services;
+43 (c) The percentage of standard prior authorization requests that were
+44 denied, aggregated for all items and services;
+45 (d) The percentage of prior authorization requests that were approved
+46 after appeal, aggregated for all items and services;
+47 (e) The percentage of prior authorization requests for which the time
+48 frame for review was extended, and the request was approved , aggregated
+49 for all items and services;
+
+6
+1 (f) The percentage of expedited prior authorization requests that were
+2 approved, aggregated for all items and services;
+3 (g) The percentage of expedited prior authorization requests that were
+4 denied, aggregated for all items and services;
+5 (h) The average and median time that elapsed between the submission of a
+6 request and a determination by the health insurance issuer for standard
+7 prior authorization, aggregated for all items and services; and
+8 (i) The average and median time that elapsed between the submission of
+9 a request and a determination by the health insurance issuer for expe-
+10 dited prior authorization, aggregated for all items and services.
+11 41-3506. STANDARDIZED ELECTRONIC PRIOR AUTHORIZATIONS. (1) If a
+12 health insurance issuer requires prior authorization of a health care ser-
+13 vice, the issuer or its contracted utilization review organization shall,
+14 by July 1, 2026, make available a standardized electronic prior authoriza-
+15 tion request transaction process using an internet website, online portal,
+16 or similar electronic, web-based system. After January 1, 2027, a health
+17 insurance issuer shall accept and respond to prior authorization requests
+18 under the pharmacy benefit through a secure electronic transmission using
+19 the NCPDP SCRIPT standard electronic prior authorization transactions.
+20 (2) No later than January 1, 2027, all health care professionals and
+21 health care providers shall be required to use the standardized electronic
+22 prior authorization request transaction process made available as required
+23 by subsection (1) of this section.
+24 (3) For purposes of this chapter, a prior authorization request shall
+25 be considered received upon:
+26 (a) Confirmation of electronic submission; or
+27 (b) The next calendar day following submission if submitted outside of
+28 normal business hours.
+29 41-3507. STANDARD PRIOR AUTHORIZATIONS. If a health insurance issuer
+30 requires prior authorization of a health care service, the health insurance
+31 issuer shall make an approval or adverse determination and notify the en-
+32 rollee and the enrollee's health care professional or health care provider
+33 of the approval or adverse determination as expeditiously as the enrollee's
+34 condition requires but no later than five (5) calendar days after obtaining
+35 all necessary information to make the approval or adverse determination,
+36 unless a longer minimum time frame is required under federal law for the
+37 health insurance issuer and the health care service at issue. Requests for
+38 information must be reasonably necessary to adjudicate the prior authoriza-
+39 tion request. As used in this section, "necessary information" includes the
+40 results of any face-to-face clinical evaluation, second opinion, or other
+41 clinical information that is directly applicable to the requested service
+42 that may be required. Provided, however, health insurance issuers shall
+43 respond within two (2) business days for prior authorization requests for
+44 pharmaceutical services and products.
+45 41-3508. EXPEDITED PRIOR AUTHORIZATIONS. (1) If requested by a treat-
+46 ing health care professional or health care provider for an enrollee, a
+47 health insurance issuer shall render an approval or adverse determination
+
+7
+1 concerning urgent health care services and notify the enrollee and the en-
+2 rollee's health care professional or health care provider of that approval
+3 or adverse determination as expeditiously as the enrollee's condition
+4 requires but no later than twenty-four (24) hours after receiving all infor-
+5 mation needed to complete the review of the requested health care services
+6 unless a longer minimum time frame is required under federal law for the
+7 health insurance issuer and the urgent health care service at issue.
+8 (2) To facilitate the rendering of a prior authorization determina-
+9 tion pursuant to this section, a health insurance issuer shall establish a
+10 mechanism to ensure health care professionals have access to appropriately
+11 trained and licensed physicians of the same specialty for consultation,
+12 designated by the issuer to make such determinations for prior authorization
+13 concerning urgent care services.
+14 41-3509. NOTIFICATIONS FOR ADVERSE DETERMINATIONS. If a health in-
+15 surance issuer makes an adverse determination, the health insurance issuer
+16 shall include the following in the notification to the enrollee and the en-
+17 rollee's health care professional or health care provider:
+18 (1) The reasons for the adverse determination and related evi-
+19 dence-based criteria, including a description of any missing or insuffi-
+20 cient documentation;
+21 (2) The right to appeal the adverse determination;
+22 (3) Instructions on how to file the appeal;
+23 (4) Additional documentation necessary to support the appeal; and
+24 (5) The right to request an independent external review pursuant to the
+25 provisions of chapter 59, title 41, Idaho Code.
+26 41-3510. PERSONNEL QUALIFIED TO REVIEW APPEALS. A health insurance
+27 issuer shall ensure that all appeals are reviewed by a physician when the
+28 request is made by a physician or a representative of a physician. The re-
+29 viewing physician shall:
+30 (1) Possess a current and valid nonrestricted license to practice
+31 medicine with substantially similar licensing requirements to this state;
+32 (2) Be certified by the American board of medical specialties or the
+33 American osteopathic association within the relevant specialty of a physi-
+34 cian who typically manages the medical condition or disease;
+35 (3) Have training, knowledge, or experience of providing the health
+36 care services under appeal;
+37 (4) Not have been directly involved in making the adverse determina-
+38 tion; and
+39 (5) Consider all known clinical aspects of the health care service un-
+40 der review, including a review of all pertinent medical records provided to
+41 the health insurance issuer or health care provider, the health plan's clin-
+42 ical guidelines, and peer-reviewed scientific studies.
+43 41-3511. INSURER REVIEW OF PRIOR AUTHORIZATION REQUIREMENTS. A health
+44 insurance issuer shall periodically review its prior authorization require-
+45 ments and consider removal of prior authorization requirements.
+
+8
+1 41-3512. REVOCATION OF PRIOR AUTHORIZATIONS. (1) A health insurance
+2 issuer may not revoke or further limit, condition, or restrict a previously
+3 issued prior authorization approval while it remains valid in accordance
+4 with this chapter unless:
+5 (a) The health insurance issuer has identified fraudulent or abusive
+6 practices related to the health care service;
+7 (b) The health care service is unavailable, necessitating the use of an
+8 alternative health care service;
+9 (c) The health care service is the subject of a new safety alert from the
+10 United States food and drug administration or is in response to a public
+11 health emergency;
+12 (d) The change is based on nationally recognized generally accepted
+13 standards developed in accordance with current standards of a national
+14 medical accreditation entity or specialty society; or
+15 (e) Changes to the health care service or its availability are other-
+16 wise required by law to be made by the health insurance issuer within
+17 sixty (60) days.
+18 (2) Notwithstanding any other provision of law, if a claim is properly
+19 coded and submitted timely to a health insurance issuer, the health insur-
+20 ance issuer shall make payment according to the terms of coverage on claims
+21 for health care services for which prior authorization was required and ap-
+22 proval received before the provision of health care services unless:
+23 (a) It is determined that the enrollee's health care professional or
+24 health care provider knowingly and without exercising prudent clinical
+25 judgment provided health care services that required prior authoriza-
+26 tion from the health insurance issuer or its contracted utilization re-
+27 view organization without first obtaining prior authorization for such
+28 health care services;
+29 (b) It is timely determined that the health care services claimed were
+30 not performed;
+31 (c) It is timely determined that the health care services provided by
+32 the enrollee's health care provider or health care professional were
+33 contrary to the instructions of the health insurance issuer or its con-
+34 tracted utilization review organization if contact was made between
+35 such parties before the service being provided;
+36 (d) It is timely determined that the person receiving such health care
+37 services was not an enrollee of the health care plan; or
+38 (e) The approval was based on a material misrepresentation by the en-
+39 rollee, health care professional, or health care provider. As used in
+40 this paragraph, "material" means a fact or situation that would have re-
+41 sulted in a substantial change in the determination had it been accu-
+42 rately disclosed in the submission.
+43 (3) Nothing in this section shall preclude a utilization review organi-
+44 zation or a health insurance issuer from performing post-service reviews of
+45 health care claims for purposes of payment integrity or for the prevention of
+46 fraud, waste, or abuse.
+47 41-3513. LENGTH OF APPROVALS. (1) A prior authorization approval
+48 shall be valid for twelve (12) months after the date the health care profes-
+49 sional or health care provider receives the prior authorization approval.
+
+9
+1 Provided, however, a health insurance issuer and an enrollee or enrollee's
+2 health care professional may extend a prior authorization approval for a
+3 longer period, by agreement. All dosage increases shall be based on estab-
+4 lished evidentiary standards, and nothing in this section shall prohibit
+5 a health insurance issuer from having safety edits in place. This section
+6 shall not apply to the prescription of benzodiazepines or schedule II nar-
+7 cotic drugs, such as opioids.
+8 (2) Nothing in this section shall require a policy or plan to cover any
+9 care, treatment, or services for any health condition that the terms of cov-
+10 erage otherwise completely exclude from the policy's or plan's covered ben-
+11 efits without regard for whether the care, treatment, or services are medi-
+12 cally necessary.
+13 41-3514. APPROVALS FOR CHRONIC CONDITIONS. (1) If a health insurance
+14 issuer requires a prior authorization for a recurring health care service
+15 or maintenance medication for the treatment of a chronic or long-term condi-
+16 tion, including but not limited to chemotherapy for the treatment of cancer,
+17 the approval shall remain valid for the lesser of twelve (12) months from the
+18 date the health care professional or health care provider receives the au-
+19 thorization approval or the length of the treatment as determined by the pa-
+20 tient's health care professional. Provided, however, a health insurance is-
+21 suer and an enrollee or the enrollee's health care professional may extend a
+22 prior authorization approval for a longer period, by agreement. This sec-
+23 tion shall not apply to the prescription of benzodiazepines or schedule II
+24 narcotic drugs, such as opioids.
+25 (2) Nothing in this section shall require a policy or plan to cover any
+26 care, treatment, or services for any health condition that the terms of cov-
+27 erage otherwise completely exclude from the policy's or plan's covered ben-
+28 efits without regard for whether the care, treatment, or services are medi-
+29 cally necessary.
+30 41-3515. CONTINUITY OF PRIOR APPROVALS. (1) Upon receipt of informa-
+31 tion documenting a prior authorization approval from the enrollee or from
+32 the enrollee's health care professional or health care provider, a health
+33 insurance issuer shall honor a prior authorization granted to an enrollee
+34 from a previous health insurance issuer for at least the initial ninety (90)
+35 days of an enrollee's coverage under a new health plan, subject to the terms
+36 of the enrollee's coverage agreement.
+37 (2) During the time period described in subsection (1) of this section,
+38 a health insurance issuer may perform its own review to grant a prior autho-
+39 rization approval, subject to the terms of the enrollee's coverage agree-
+40 ment.
+41 (3) If there is a change in coverage of or approval criteria for a pre-
+42 viously authorized health care service, the change in coverage or approval
+43 criteria does not affect an enrollee who received prior authorization before
+44 the effective date of the change for the remainder of the enrollee's plan
+45 year.
+46 (4) Except to the extent required by medical exceptions processes for
+47 prescription drugs, nothing in this section shall require a policy or plan
+48 to cover any care, treatment, or services for any health condition that the
+
+10
+1 terms of coverage otherwise completely exclude from the policy's or plan's
+2 covered benefits without regard for whether the care, treatment, or services
+3 are medically necessary.
+4 41-3516. EFFECT OF INSURER'S FAILURE TO COMPLY. A failure by a health
+5 insurance issuer to comply with the deadlines and other requirements speci-
+6 fied in this chapter shall result in any health care services subject to re-
+7 view to be automatically deemed authorized by the health insurance issuer or
+8 its contracted utilization review organization.
+9 41-3517. ENFORCEMENT AND ADMINISTRATION. (1) In addition to the en-
+10 forcement powers granted to it by law to enforce the provisions of this chap-
+11 ter, the department is granted specific authority to issue a cease-and-de-
+12 sist order or require a utilization review organization or health insurance
+13 issuer, or both, to submit a plan of correction for violations of this chap-
+14 ter. Subject to rules promulgated by the department pursuant to chapter 52,
+15 title 67, Idaho Code, and after proper notice and the opportunity for a hear-
+16 ing, the department may impose on a utilization review organization, health
+17 benefit plan, or health insurance issuer an administrative fine not to ex-
+18 ceed ten thousand dollars ($10,000) per violation for failure to submit a re-
+19 quested plan of correction, failure to comply with its plan of correction,
+20 or repeated violations of this chapter. All fines collected by the depart-
+21 ment pursuant to this section shall be deposited in the state general fund.
+22 The department may also exercise all authority granted to it under the pro-
+23 visions of chapter 59, title 41, Idaho Code, to deny or revoke approval of a
+24 utilization review organization for a violation of this chapter.
+25 (2) An enrollee or an enrollee's health care provider who has evidence
+26 that the enrollee's health insurance issuer or health benefit plan is in
+27 violation of the provisions of this chapter may file a complaint with the
+28 department. The department shall review all complaints received and in-
+29 vestigate all complaints that it deems to state a potential violation. The
+30 department shall fairly, efficiently, and timely review and investigate
+31 complaints and shall provide the subject of the complaint an opportunity to
+32 refute the evidence against it. Health insurance issuers, health benefit
+33 plans, and utilization review organizations found to be in violation of this
+34 chapter shall be penalized in accordance with this section.
+35 (3) There shall be no private right of action under this chapter.
+36 41-3518. REPORTS TO THE DEPARTMENT. (1) By June 1, 2027, and each June
+37 1 thereafter, a health insurance issuer shall report to the department, on a
+38 form issued by the department, the following aggregated trend data, de-iden-
+39 tified of protected health information, related to the insurer's practices
+40 and experience for the prior plan year for health care services submitted for
+41 payment:
+42 (a) The number of prior authorization requests;
+43 (b) The percentage of prior authorization requests denied;
+44 (c) The percentage of prior authorization appeals received;
+45 (d) The percentage of adverse determinations reversed on appeal;
+46 (e) The percentage of prior authorization requests that were not sub-
+47 mitted electronically;
+
+11
+1 (f) As a percentage by service, the ten (10) health care services that
+2 were most frequently denied through prior authorization; and
+3 (g) The five (5) reasons prior authorization requests were most fre-
+4 quently denied.
+5 (2) All reports required by this section shall be considered public
+6 records pursuant to chapter 1, title 74, Idaho Code, and the department shall
+7 make all reports freely available to requestors and post all reports to its
+8 public website without redactions.
+9 41-3519. FALSE REQUESTS FOR PRIOR AUTHORIZATION. If a health insur-
+10 ance issuer has clear and convincing evidence that a health care profes-
+11 sional or health care provider has knowingly and willfully submitted false
+12 or fraudulent requests for prior authorization to the health insurance is-
+13 suer, the issuer shall notify and provide that information to the department
+14 director. After receipt of such notification and information, the director
+15 shall forward these reports to the board of medicine or such other licensing
+16 agency with oversight of the health care provider and to the office of the
+17 prosecuting authority having jurisdiction.
+18 41-3520. RULES. The department shall have the authority to promulgate
+19 rules, subject to legislative approval, pursuant to the provisions of chap-
+20 ter 52, title 67, Idaho Code, to govern the administration of this chapter.
+21 SECTION 2. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2026.

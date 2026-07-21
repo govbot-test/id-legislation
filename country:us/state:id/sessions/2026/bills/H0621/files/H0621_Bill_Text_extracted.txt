@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 621
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO CONCEALED WEAPONS; AMENDING SECTION 18-3302C, IDAHO CODE, TO
+3 REVISE A PROVISION REGARDING PROHIBITED CONDUCT AND TO MAKE TECHNICAL
+4 CORRECTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+5 DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 18-3302C, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 18-3302C. PROHIBITED CONDUCT. (1) Any person obtaining a license un-
+10 der the provisions of section 18-3302, Idaho Code, or carrying a concealed
+11 deadly weapon pursuant to the provisions of section 18-3302(4)(f), Idaho
+12 Code, shall not:
+13 (1) (a) Carry a concealed weapon in the courtroom portions of a court-
+14 house or in any area of a courthouse being used as a jail or holding fa-
+15 cility for the detention of prisoners or any person undergoing trial or
+16 awaiting sentencing; in a juvenile detention facility or jail; or in
+17 a public or private school, except as provided in subsection (4)(g) of
+18 section 18-3302D, Idaho Code; provided that this subsection shall not
+19 apply to:
+20 (a) (i) Peace officers while acting within the scope of their em-
+21 ployment;
+22 (b) (ii) Security personnel while actually engaged in their em-
+23 ployment; or
+24 (c) (iii) Any person who is authorized to carry a weapon by a per-
+25 son, board, or other entity having authority over the building or
+26 facility; or
+27 (2) (b) Provide information on the application for a permit to carry a
+28 concealed weapon knowing the same to be untrue.
+29 (2) Any person violating the provisions of this section shall be guilty
+30 of a misdemeanor.
+31 SECTION 2. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after
+33 July 1, 2026.

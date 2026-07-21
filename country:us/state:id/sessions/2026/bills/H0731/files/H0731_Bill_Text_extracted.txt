@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 731
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 1, TITLE 33, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 33-144, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING PARTICIPATION IN THE FEDERAL TAX CREDIT SCHOLARSHIP PROGRAM;
+5 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 1, Title 33, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 33-144, Idaho Code, and to read as follows:
+10 33-144. PARTICIPATION IN FEDERAL TAX CREDIT SCHOLARSHIP PROGRAM. (1)
+11 The state of Idaho hereby elects to participate in the federal tax credit
+12 scholarship program established under section 70411, P.L. 119-21.
+13 (2) The state department of education shall:
+14 (a) No later than the first day of January of each year, submit to the
+15 United States secretary of the treasury and publish on the department's
+16 website a list of qualified scholarship granting organizations that
+17 meet the requirements under section 70411, P.L. 119-21, and are located
+18 in this state;
+19 (b) Certify to the United States secretary of the treasury the state de-
+20 partment of education's authority to submit the list on behalf of the
+21 state;
+22 (c) Accept submissions from scholarship granting organizations
+23 throughout the year for inclusion on the list submitted pursuant to
+24 paragraph (a) of this subsection; and
+25 (d) Comply with any other requirement under section 70411, P.L. 119-
+26 21, including any applicable federal regulations or guidance, to ensure
+27 that the state is eligible to participate in taxable years beginning in
+28 tax year 2027.
+29 SECTION 2. An emergency existing therefor, which emergency is hereby
+30 declared to exist, this act shall be in full force and effect on and after
+31 July 1, 2026.

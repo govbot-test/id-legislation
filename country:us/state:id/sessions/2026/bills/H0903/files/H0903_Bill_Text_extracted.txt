@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 903
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC ASSISTANCE; AMENDING SECTION 56-275, IDAHO CODE, TO RE-
+3 VISE THE DEFINITIONS OF CANDY AND SODA; AND DECLARING AN EMERGENCY AND
+4 PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 56-275, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 56-275. WAIVER TO ENHANCE NUTRITION IN THE SUPPLEMENTAL NUTRITION AS-
+9 SISTANCE PROGRAM. (1) For the purposes of this section:
+10 (a) "Candy" means a shelf-stable preparation of sugar, honey, or other
+11 natural or artificial nutritive or nonnutritive sweeteners in combina-
+12 tion with chocolate, fruits, nuts, or other ingredients or flavorings,
+13 in the form of bars, drops, or pieces. "Candy" shall not include any
+14 preparation containing flour and shall require no requiring refrigera-
+15 tion. or any of the following:
+16 (i) Baked goods such as cookies, cakes, muffins, and brownies;
+17 (ii) Baking ingredients such as sprinkles, chocolate melting
+18 wafers, toffee bits, chocolate chips, etc.;
+19 (iii) Savory or nonsweet snacks such as chips, pretzels, and
+20 crackers;
+21 (iv) Fruit snacks made with real fruit, including fruit puree and
+22 fruit juice concentrate, such as dried mango, apple chips, and
+23 fruit leathers;
+24 (v) Trail mix and products that list peanuts or tree nuts as the
+25 first ingredient;
+26 (vi) Granola bars, breakfast bars, snack bars, protein bars, meal
+27 replacement bars, and weight loss bars; or
+28 (vii) Items used as ingredients in baking such as sugar, honey, and
+29 baking chocolate.
+30 (b) "Soda" means any nonalcoholic beverage that contains natural or ar-
+31 tificial sweeteners. "Soda" does not include any beverages that:
+32 (i) contain Contain milk or milk substitutes,;
+33 (ii) that are Are greater than fifty percent (50%) vegetable juice
+34 or fruit juice by volume,;
+35 (iii) or that require Require preparation before consumption,
+36 such as powders or concentrates.;
+37 (iv) Are sports drinks used for hydration;
+38 (v) Are used as an oral rehydration electrolyte solution formu-
+39 lated to prevent or treat dehydration; or
+40 (vi) Are manufactured as a source of necessary nutrition or di-
+41 etary supplement.
+
+2
+1 (2) The director of the department of health and welfare shall request a
+2 waiver from the United States department of agriculture to exclude candy and
+3 soda from the definition of eligible foods under 7 CFR 271.2. If such waiver
+4 is granted, then the director shall prohibit the purchase of candy and soda
+5 with benefits provided through the supplemental nutrition assistance pro-
+6 gram. If no such waiver is granted, then the director shall request such a
+7 waiver annually until such waiver is granted.
+8 SECTION 2. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2026.

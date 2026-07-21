@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1326, As Amended
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PROPERTY; AMENDING TITLE 18, IDAHO CODE, BY THE ADDITION OF A
+3 NEW CHAPTER 71, TITLE 18, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+4 PRIVATE PROPERTY RIGHTS PROTECTION; AND DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Title 18, Idaho Code, be, and the same is hereby amended
+7 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+8 ter 71, Title 18, Idaho Code, and to read as follows:
+9 CHAPTER 71
+10 PROPERTY RIGHTS PROTECTION ACT
+11 18-7101. SHORT TITLE. This chapter shall be known and may be cited as
+12 the "Property Rights Protection Act."
+13 18-7102. DEFINITIONS. As used in this chapter:
+14 (1) "Exigent circumstances" means only those limited, judicially rec-
+15 ognized exceptions to the warrant requirement under section 17, article I of
+16 the constitution of the state of Idaho and the fourth amendment to the United
+17 States constitution.
+18 (2) "Government agent" means any employee or representative of the
+19 state of Idaho, any political subdivision thereof, or the federal govern-
+20 ment, acting in an official capacity.
+21 (3) "Private land not open to the public" or "private land" means any
+22 privately owned real property, not including any place of habitation or the
+23 associated curtilage, where a person knows or has reason to know that the
+24 person's presence is not permitted pursuant to the provisions of section
+25 18-7008(2)(a), Idaho Code.
+26 (4) "Search warrant" or "warrant" has the same meaning as that term is
+27 defined in section 19-4401, Idaho Code, and shall include an arrest warrant
+28 as described in section 19-507, Idaho Code.
+29 18-7103. PRIVATE LAND PROTECTION -- PROTECTION FROM WARRANTLESS
+30 SEARCH. Government agents shall not, in the course and scope of their lawful
+31 duty, enter private land not open to the public without a valid search war-
+32 rant, exigent circumstances, or lawful consent of the owner or lessee.
+33 18-7104. FEDERAL GOVERNMENT AGENTS AND LOCAL COORDINATION. Prior to
+34 executing a search warrant on private land pursuant to section 18-7103,
+35 Idaho Code, federal government agents shall notify the county sheriff, un-
+36 less exigent circumstances exist.
+
+2
+1 18-7105. LIMITED ACCESS FOR GOVERNMENT AGENTS. Notwithstanding sec-
+2 tion 18-7103, Idaho Code, a government agent may approach a residence's
+3 front entrance using a driveway, walkway, or similar pathway in a manner
+4 consistent with that of a private citizen. However, such government agent:
+5 (1) Shall not conduct an investigatory search, inspection, or surveil-
+6 lance beyond what is visible from a lawful public vantage point, nor shall
+7 the agent enter other areas of the property not open to the public; and
+8 (2) Shall promptly leave such private land upon the request of the owner
+9 or occupant, unless otherwise authorized by law to remain.
+10 18-7106. CIVIL LIABILITY. (1) Any government agent who knowingly vio-
+11 lates the provisions of this chapter shall be subject to a civil penalty of
+12 one thousand dollars ($1,000) per occurrence, payable to the rangeland im-
+13 provement account established in section 58-1504, Idaho Code.
+14 (2) A person aggrieved by a violation of this section may bring a civil
+15 action for actual damages and injunctive relief. The prevailing party shall
+16 be entitled to reasonable attorney's fees and costs.
+17 (3) The civil penalty provided in this section may be enforced by the
+18 county prosecuting attorney or by an aggrieved person through a civil ac-
+19 tion in the magistrate division of the district court. The court shall enter
+20 judgment for one thousand dollars ($1,000) per violation, together with any
+21 costs and attorney's fees as provided in subsection (2) of this section.
+22 (4) No political subdivision shall be required to indemnify a govern-
+23 ment agent for civil penalties imposed under this section.
+24 (5) Nothing in this section shall affect the admissibility of evidence
+25 in any judicial or administrative proceeding.
+26 (6) The penalties provided in this section shall not be applicable to
+27 any county sheriff or deputies, county coroner, municipal police officers,
+28 or Idaho state police.
+29 18-7107. CRIMINAL LIABILITY. A government agent shall not be subject
+30 to prosecution under the provisions of section 18-7008, Idaho Code, if the
+31 agent enters private land:
+32 (1) In good faith reliance on a valid search warrant or on exigent cir-
+33 cumstances;
+34 (2) Pursuant to lawful consent; or
+35 (3) In accordance with the provisions of section 18-7105 or 18-7108,
+36 Idaho Code.
+37 18-7108. SCOPE AND APPLICABILITY. Nothing in this chapter shall:
+38 (1) Prevent government agents from conducting lawful investigations
+39 from public vantage points or entering private land in response to exigent
+40 circumstances;
+41 (2) Prevent government agents from entering private land only to the
+42 extent necessary to serve civil process or conduct welfare checks;
+43 (3) Interfere with the use or administration of water rights as pro-
+44 vided for in Idaho law;
+45 (4) Interfere with the ability of the department of water resources, or
+46 a designated watermaster, to make reasonable entry upon any lands to carry
+47 out duties imposed by law;
+
+3
+1 (5) Interfere with the right of the owner or operator of any right-of-
+2 way or easement for any ditch, canal, lateral, drain, or other conduit, as
+3 described by law;
+4 (6) Limit lawful aerial observation conducted in compliance with sec-
+5 tion 21-213, Idaho Code;
+6 (7) Limit lawful entry to control noxious weeds as authorized in sec-
+7 tion 22-2406, Idaho Code;
+8 (8) Limit lawful entry by abatement district employees as authorized in
+9 section 39-2804, Idaho Code; or
+10 (9) Increase or diminish any rights, protections, or legal authoriza-
+11 tions with respect to any place of habitation or the associated curtilage.
+12 18-7109. SEVERABILITY. If any provisions of this chapter or the ap-
+13 plication thereof to any person or circumstances, is held invalid as uncon-
+14 stitutional or ineffective for any reason, such invalidity shall not affect
+15 other provisions or applications of the chapter, and to this end the provi-
+16 sions of this chapter are severable.
+17 SECTION 2. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after its
+19 passage and approval.
