@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1232, As Amended
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO CRIME VICTIMS; REPEALING SECTION 19-5301, IDAHO CODE, RELATING
+3 TO DISTRIBUTION OF MONEYS RECEIVED AS A RESULT OF THE COMMISSION OF
+4 CRIME; AMENDING TITLE 19, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER
+5 63, TITLE 19, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING PROCEEDS
+6 DERIVED FROM CRIMINAL NOTORIETY; AND DECLARING AN EMERGENCY AND PROVID-
+7 ING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 19-5301, Idaho Code, be, and the same is hereby
+10 repealed.
+11 SECTION 2. That Title 19, Idaho Code, be, and the same is hereby amended
+12 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+13 ter 63, Title 19, Idaho Code, and to read as follows:
+14 CHAPTER 63
+15 IDAHO SON OF SAM LAW
+16 19-6301. SHORT TITLE. This chapter shall be known and may be cited as
+17 the "Idaho Son of Sam Law."
+18 19-6302. PURPOSE. The purpose of this chapter is to ensure that vic-
+19 tims of crime may recover restitution or damages from money or property
+20 that offenders earn because of the publicity of their crimes. This chapter
+21 regulates only the money made, not speech itself, in order to protect con-
+22 stitutional free expression. This chapter shall apply to proceeds derived
+23 from criminal notoriety without regard to the expressive content or medium
+24 through which such proceeds are generated and shall not be construed to regu-
+25 late speech or expression.
+26 19-6303. DEFINITIONS. As used in this chapter:
+27 (1) "Crime" means any felony or misdemeanor committed in this state
+28 that results in a conviction.
+29 (2) "Exploit" or "exploitation" means knowingly and commercially de-
+30 riving financial gain where the criminal notoriety of a crime is a substan-
+31 tial contributing factor to the value of the proceeds. Incidental, educa-
+32 tional, journalistic, or expressive references to a crime that are not un-
+33 dertaken for the purpose of deriving commercial gain from criminal notoriety
+34 shall not constitute exploitation under the provisions of this chapter.
+35 (3) "Notoriety of a crime" means the public attention from a crime when
+36 directly connected to the offender's part in the crime.
+37 (4) "Offender" means a person convicted of a criminal offense in this
+38 state.
+
+2
+1 (5) "Proceeds" means any money, royalties, or other thing of value re-
+2 ceived by an offender that is derived from the criminal notoriety of a crime,
+3 regardless of the medium or form in which the proceeds are generated.
+4 (6) "Victim" is as defined in section 19-5304, Idaho Code.
+5 19-6304. ESCROW ACCOUNT. Any person or company who pays an offender
+6 for work that exploits the notoriety of a crime shall send such payment to
+7 the Idaho state treasurer, who shall place the payment in an interest-bear-
+8 ing escrow account for five (5) years unless extended by court order upon a
+9 showing of good cause. The state treasurer, in consultation with the attor-
+10 ney general and subject to legislative approval, shall adopt rules for such
+11 escrow administration.
+12 19-6305. NOTICE TO VICTIMS. The attorney general shall notify all
+13 known victims within thirty (30) days after money is deposited in escrow.
+14 Victims may file lawsuits or use restitution orders to claim funds during the
+15 escrow period.
+16 19-6306. DISTRIBUTION. (1) If a victim wins a judgment, the court
+17 shall order payment to the victim from the escrow account.
+18 (2) If more than one (1) victim has a valid claim, funds shall be divided
+19 fairly unless the court orders otherwise.
+20 (3) Any money remaining after five (5) years and after all valid claims
+21 are paid shall be returned to the offender.
+22 19-6307. EXCEPTIONS. The provisions of this chapter shall not apply
+23 to:
+24 (1) Payments for legal services;
+25 (2) Works of art or fiction that only briefly mention the crime;
+26 (3) Regular wages or income not related to the crime;
+27 (4) Money earned before the crime was committed; or
+28 (5) News or documentary works created mainly to inform or educate and
+29 where the offender is paid only normal interview fees.
+30 19-6308. FREEDOM OF SPEECH. (1) Nothing in this chapter shall be in-
+31 terpreted as restricting or censoring freedom of speech. The provisions of
+32 this chapter shall apply only to money made from the publicity of a crime, not
+33 to the content of expression itself.
+34 (2) The provisions of this chapter shall be construed narrowly to com-
+35 ply with the first amendment to the constitution of the United States and
+36 section 9, article I of the constitution of the state of Idaho.
+37 19-6309. PENALTIES. Any person or company that knowingly fails to sub-
+38 mit proceeds as required by this chapter shall be subject to a civil penalty
+39 of up to three (3) times the amount withheld, plus attorney's fees. The at-
+40 torney general may bring a civil action to recover such penalties.
+41 SECTION 3. An emergency existing therefor, which emergency is hereby
+42 declared to exist, this act shall be in full force and effect on and after
+43 July 1, 2026.

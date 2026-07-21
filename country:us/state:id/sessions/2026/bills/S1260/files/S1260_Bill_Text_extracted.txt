@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1260
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO THE IMMIGRATION COOPERATION AND ENFORCEMENT ACT; AMENDING SEC-
+3 TION 18-9002, IDAHO CODE, TO DEFINE A TERM; AMENDING SECTION 18-9003,
+4 IDAHO CODE, TO REVISE PROVISIONS REGARDING ILLEGAL ENTRY AND TO REMOVE
+5 PROVISIONS REGARDING ILLEGAL ENTRY; AMENDING SECTION 18-9004, IDAHO
+6 CODE, TO PROVIDE FOR CERTAIN AFFIRMATIVE DEFENSES; AND DECLARING AN
+7 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 18-9002, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 18-9002. DEFINITIONS. As used in this chapter:
+12 (1) "Alien" has the meaning assigned by 8 U.S.C. 1101, as that provision
+13 existed on January 1, 2023.
+14 (2) "Custodial authority" means the director of the department of cor-
+15 rection, county sheriffs, city chiefs of police, and any of their subordi-
+16 nates with the power to confine or detain a person under color of law.
+17 (3) "Dangerous crime" means any felony crime as described in Idaho Code
+18 or in similar state or federal code, any offense for which an extended term of
+19 imprisonment may be imposed pursuant to section 19-2520B, Idaho Code, or any
+20 offense requiring sex offender registration as set forth in section 18-8304,
+21 Idaho Code.
+22 (4) "Dangerous illegal alien" means an illegal alien who has previously
+23 been convicted or found guilty, by judgment or withheld judgment, of a dan-
+24 gerous crime in this state or in any other state or nation.
+25 (5) "DHS" means the United States department of homeland security and
+26 its subordinate agencies and divisions.
+27 (6) "Illegal alien" means a person eighteen (18) years of age or older
+28 who is verified by the federal government to be present in the United States
+29 in violation of the federal immigration and nationality act, 8 U.S.C., and
+30 federal rules promulgated in accordance therewith.
+31 (7) "Immigration detainer" means a notice or other documentation is-
+32 sued by United States immigration and customs enforcement requesting that a
+33 custodial authority or law enforcement official maintain temporary custody
+34 of an illegal alien, including a DHS form I-247 document or a similar succes-
+35 sor form.
+36 (8) "Law enforcement official" means all state, county, and local law
+37 enforcement officers, prosecuting attorneys, and city attorneys.
+38 (9) "Port of entry" means a port of entry in the United States pursuant
+39 to 19 CFR 101.
+40 (10) "Violation of 8 U.S.C. 1324(a)(1) or 8 U.S.C. 1324(a)(2)" means
+41 a conviction in federal court of violating 8 U.S.C. 1324(a)(1) or 8 U.S.C.
+
+2
+1 1324(a)(2) or, in the absence of a charge or conviction, committing acts that
+2 would be a violation of 8 U.S.C. 1324(a)(1) or 8 U.S.C. 1324(a)(2).
+3 SECTION 2. That Section 18-9003, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 18-9003. ILLEGAL ENTRY FROM FOREIGN NATION. (1) A person who is an
+6 alien and is eighteen (18) years of age or older commits an offense if the
+7 person knowingly enters or attempts to enter this state at any location other
+8 than a lawful port of entry or through another manner of lawful entry or is
+9 at any time present in this state after having entered the United States in
+10 violation of 8 U.S.C. 1324(a)(1) or 8 U.S.C. 1324(a)(2).
+11 (2) A violation of this section shall be a misdemeanor upon a first con-
+12 viction. A second or subsequent conviction shall be a felony.
+13 (3) Law enforcement officers may enforce the provisions of this section
+14 only when a person is detained or investigated for suspected commission of
+15 an independent crime under title 18, Idaho Code, excluding this chapter, or
+16 under chapter 27, title 37, Idaho Code.
+17 (4) It shall be an affirmative defense to prosecution under this sec-
+18 tion that:
+19 (a) The federal government has affirmatively granted the defendant:
+20 permission to remain in the United States under a provision of the immi-
+21 gration and nationality act or other federal statute; or
+22 (i) Lawful presence in the United States; or
+23 (ii) Asylum under 8 U.S.C. 1158;
+24 (b) The defendant's conduct does not constitute a violation of 8 U.S.C.
+25 1325(a);
+26 (c) (b) The defendant was not investigated for, charged with, or con-
+27 victed of committing the independent crime for which the defendant was
+28 detained or investigated pursuant to subsection (3) of this section;
+29 or.
+30 (d) The defendant was approved for benefits under the federal deferred
+31 action for childhood arrivals program between June 15, 2012, and July
+32 16, 2021.
+33 (5) The following federal programs do not provide an affirmative de-
+34 fense for purposes of subsection (4)(a) of this section:
+35 (a) The deferred action for parents of Americans and lawful permanent
+36 residents program; and
+37 (b) Any program not enacted by the United States congress that is a suc-
+38 cessor to or materially similar to the program described by subsection
+39 (4)(d) or paragraph (a) of this subsection.
+40 (6) (5) Notwithstanding any other provision of law to the contrary,
+41 a defendant shall not be eligible for deferred adjudication or a withheld
+42 judgment if the defendant is charged with or convicted of an offense pursuant
+43 to this section.
+44 SECTION 3. That Section 18-9004, Idaho Code, be, and the same is hereby
+45 amended to read as follows:
+
+3
+1 18-9004. ILLEGAL REENTRY BY CERTAIN ALIENS. (1) A person who is an
+2 alien commits an offense if the person enters, attempts to enter, or is at any
+3 time found in this state after the person:
+4 (a) Has been denied admission to or excluded, deported, or removed from
+5 the United States; or
+6 (b) Has departed from the United States while an order of exclusion, de-
+7 portation, or removal is outstanding.
+8 (2) A violation of this section shall be a misdemeanor, except that the
+9 violation shall be a felony if:
+10 (a) The defendant's removal was subsequent to a conviction for commis-
+11 sion of two (2) or more misdemeanors involving drugs, crimes against a
+12 person, or both;
+13 (b) The defendant was excluded pursuant to 8 U.S.C. 1225(c) because the
+14 defendant was excludable under 8 U.S.C. 1182(a)(3)(B);
+15 (c) The defendant was removed pursuant to the provisions of 8 U.S.C.
+16 chapter 12, subchapter V; or
+17 (d) The defendant was removed pursuant to 8 U.S.C. 1231(a)(4)(B).
+18 (3) For purposes of this section, "removal" includes any agreement in
+19 which an alien stipulates to removal pursuant to a criminal proceeding pur-
+20 suant to either federal or state law.
+21 (4) Law enforcement officers may enforce the provisions of this section
+22 only when a person is detained or investigated for suspected commission of
+23 an independent crime under title 18, Idaho Code, excluding this chapter, or
+24 under chapter 27, title 37, Idaho Code.
+25 (5) It shall be an affirmative defense to prosecution under this sec-
+26 tion that the:
+27 (a) The defendant was not investigated for, charged with, or convicted
+28 of committing the independent crime for which the defendant was de-
+29 tained or investigated pursuant to subsection (4) of this section.;
+30 (b) The attorney general of the United States or the secretary of the
+31 United States department of homeland security has expressly consented
+32 to the defendant's entry into, reentry into, or presence in the United
+33 States; or
+34 (c) The federal government has affirmatively granted the defendant
+35 permission to remain in the United States under a provision of the immi-
+36 gration and nationality act or other federal statute.
+37 (6) Notwithstanding any other provision of law to the contrary, a de-
+38 fendant shall not be eligible for deferred adjudication or withheld judgment
+39 if the defendant is charged with or convicted of an offense pursuant to this
+40 section.
+41 SECTION 4. An emergency existing therefor, which emergency is hereby
+42 declared to exist, this act shall be in full force and effect on and after
+43 July 1, 2026.

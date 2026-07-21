@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 788, As Amended in the Senate
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PRECEPTOR PRIOR AUTHORIZATION EXEMPTION; AMENDING CHAPTER 2,
+3 TITLE 56, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 56-276, IDAHO
+4 CODE, TO ESTABLISH PROVISIONS REGARDING PRECEPTORS AND PRIOR AUTHO-
+5 RIZATION EXEMPTIONS; PROVIDING A SUNSET DATE; AND DECLARING AN EMER-
+6 GENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 2, Title 56, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 56-276, Idaho Code, and to read as follows:
+11 56-276. PRECEPTORS -- PRIOR AUTHORIZATION EXEMPTION. (1) An eligible
+12 practitioner who provides three hundred sixty (360) hours or more of pre-
+13 ceptorship in a calendar year, with at least sixty percent (60%) of those
+14 hours occurring in a qualified rural or underserved area, shall qualify for a
+15 twelve (12) month exemption from prior authorization requirements for medi-
+16 cally necessary services billed to Idaho medicaid plans.
+17 (2)(a) An eligible practitioner shall be responsible for tracking the
+18 eligible practitioner's preceptorship hours and may report such hours
+19 to the department of health and welfare upon reaching the minimum amount
+20 of hours needed to qualify for the exemption described in subsection (1)
+21 of this section.
+22 (b) The department of health and welfare shall verify the hours sub-
+23 mitted by an eligible practitioner, and upon verification shall exempt
+24 the eligible practitioner from prior authorization requirements as de-
+25 scribed in subsection (1) of this section at the start of the next calen-
+26 dar year.
+27 (3) The department of health and welfare may rescind an exemption from
+28 prior authorization requirements if:
+29 (a) On the basis of a review of a random sample of a statistically sig-
+30 nificant number of claims submitted by an eligible practitioner during
+31 an exempted period, the department determines that the eligible prac-
+32 titioner has fallen below the acceptable risk-weighted claim sampling
+33 score. Such a review may not be conducted more than once per year; and
+34 (b) The department notifies the eligible practitioner at least twenty-
+35 five (25) days before the proposed rescinding from exemption is to take
+36 effect.
+37 (4) No more than one hundred (100) eligible practitioners from each
+38 eligible specialty shall receive an exemption from prior authorization re-
+39 quirements pursuant to this section per year.
+40 (5) The department shall promulgate rules, subject to legislative ap-
+41 proval, to carry out the provisions of this section, including the develop-
+
+2
+1 ment of a risk-weighted sampling methodology and scoring system that incor-
+2 porates both the number and dollar amount of claims.
+3 (6) For the purpose of this section, the following definitions apply:
+4 (a) "Eligible practitioner" means a physician, physician's assis-
+5 tant, or advanced practice registered nurse practicing an eligible
+6 specialty.
+7 (b) "Eligible specialty" means family medicine, psychiatry, or obstet-
+8 rics and gynecology.
+9 (c) "Graduate student" means a medical, physician assistant, or ad-
+10 vanced practice registered nurse student, resident, or fellow seeking
+11 a degree at the graduate level at any accredited Idaho institution of
+12 higher education, including Idaho-funded medical education programs,
+13 or completing training in an Idaho-based residency or fellowship pro-
+14 gram.
+15 (d) "Preceptorship" means a mentoring experience in which a preceptor
+16 provides a program of personalized instruction, training, and supervi-
+17 sion that is offered to eligible graduate students to enable the stu-
+18 dents to obtain professional degrees.
+19 (e) "Qualified rural or underserved area" means a primary care health
+20 professional shortage area or a medically underserved area, as those
+21 terms are defined in section 39-5903, Idaho Code.
+22 SECTION 2. The provisions of Section 1 of this act shall be null, void
+23 and of no force and effect on and after July 1, 2030.
+24 SECTION 3. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1267
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAID; AMENDING CHAPTER 2, TITLE 56, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 56-276, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING POLICY OPTIONS FOR MEDICAID FOR WORKERS WITH DISABILITIES AND
+5 HOME AND COMMUNITY-BASED SERVICES; AND DECLARING AN EMERGENCY.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 2, Title 56, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 56-276, Idaho Code, and to read as follows:
+10 56-276. MEDICAID FOR WORKERS WITH DISABILITIES AND HOME AND COMMU-
+11 NITY-BASED SERVICES -- POLICY OPTIONS STUDY.
+12 (1)(a) The legislature finds that:
+13 (i) Idaho has a strong interest in encouraging work, self-suffi-
+14 ciency, and personal responsibility, including through policies
+15 that allow individuals with disabilities to work, earn income, and
+16 save for their future;
+17 (ii) Idaho's medicaid for workers with disabilities program
+18 is intended to incentivize work by allowing individuals with
+19 disabilities to maintain medicaid coverage while working and ac-
+20 cumulating assets;
+21 (iii) Many individuals who participate in medicaid programs
+22 worked for many years, contributed to their communities and the
+23 state economy, and saved modest assets to support stable and inde-
+24 pendent living;
+25 (iv) Some individuals who are enrolled in the medicaid for
+26 workers with disabilities program later experience age-related
+27 changes or progression of disability that limit or prevent contin-
+28 ued employment;
+29 (v) Upon transitioning from the medicaid for workers with dis-
+30 abilities program to other medicaid programs or home and commu-
+31 nity-based services waivers, such individuals may be required to
+32 give up assets earned through work, which can discourage employ-
+33 ment, undermine savings incentives, and increase the risk of un-
+34 necessary institutionalization;
+35 (vi) Medicaid home and community-based services waivers allow
+36 Idahoans with disabilities and older adults to receive long-term
+37 services and supports in their homes and communities rather than
+38 in institutional settings;
+39 (vii) Some home and community-based services waiver participants
+40 are required to pay a high share of cost, leaving limited income or
+41 resources to pay for basic nonmedical needs such as housing, util-
+42 ities, and transportation;
+
+2
+1 (viii) When individuals cannot afford these basic living ex-
+2 penses, they may be forced into institutional settings even though
+3 they could safely remain in their homes with appropriate supports;
+4 and
+5 (ix) Institutional care is often more costly than home and com-
+6 munity-based services and may reduce independence and quality of
+7 life.
+8 (b) It is the intent of the legislature to direct the department of
+9 health and welfare to identify and evaluate options within existing
+10 federal medicaid authority that: prioritize continuity for individ-
+11 uals enrolled in or transitioning from the medicaid for workers with
+12 disabilities program, maintain incentives for work and saving, avoid
+13 penalizing individuals who worked and saved but later require services,
+14 and support continued community living in order to reduce the risk of
+15 unnecessary institutional placement.
+16 (2) The department of health and welfare is directed to:
+17 (a) Identify and evaluate policy options for individuals enrolled in
+18 or transitioning from the medicaid for workers with disabilities pro-
+19 gram due to age-related or disability-related limits on continued em-
+20 ployment and medicaid home and community-based services waiver partic-
+21 ipants who:
+22 (i) Have a high share of cost or similar financial participation
+23 requirement;
+24 (ii) Are unable to meet essential nonmedical living expenses
+25 needed for community living; and
+26 (iii) Would otherwise be at risk of placement in an institutional
+27 setting;
+28 (b) Examine options including but not limited to:
+29 (i) Options to modify, remove, or provide alternatives to age-re-
+30 lated eligibility limits in the medicaid for workers with disabil-
+31 ities program;
+32 (ii) Asset or resource protections allowed under federal medicaid
+33 law;
+34 (iii) Alternative methods in which income or resources may be con-
+35 sidered for affected individuals;
+36 (iv) Limited exclusions or allowances related to housing stabil-
+37 ity and community living;
+38 (v) Waiver amendments, demonstrations, or other federal authori-
+39 ties that support community living; and
+40 (vi) Approaches used by other states to preserve work incentives
+41 while reducing unnecessary institutionalization; and
+42 (c) Consider the fiscal impact, administrative feasibility, and poten-
+43 tial effects on individual independence, quality of life, and long-term
+44 medicaid costs of options identified and evaluated pursuant to this
+45 subsection.
+46 (3) In evaluating options related to the medicaid for workers with dis-
+47 abilities program pursuant to subsection (2) of this section, the department
+48 of health and welfare shall prioritize approaches that:
+49 (a) Preserve incentives to work and save;
+50 (b) Recognize assets earned through employment;
+
+3
+1 (c) Support continuity of coverage and community living when work is no
+2 longer possible due to age or disability; and
+3 (d) Avoid unintentionally penalizing individuals for prior employment
+4 or savings.
+5 (4) In carrying out the provisions of this section, the department of
+6 health and welfare shall:
+7 (a) Consult and collaborate, to the extent practicable, with commu-
+8 nity-based organizations, including organizations representing work-
+9 ers with disabilities, centers for independent living, provider orga-
+10 nizations, consumer advocacy groups, and other entities that work di-
+11 rectly with individuals affected by medicaid for workers with disabili-
+12 ties or medicaid home and community-based services policies;
+13 (b) Seek input, to the extent practicable, from individuals enrolled
+14 in or transitioning from the medicaid for workers with disabilities
+15 program, individuals receiving home and community-based services, and
+16 families and caregivers of such individuals; and
+17 (c) Consider stakeholder and consumer input when evaluating options
+18 and developing recommendations.
+19 (5) No later than December 1, 2026, the department of health and wel-
+20 fare shall submit a written report to the health and welfare committees of
+21 the Idaho senate and the Idaho house of representatives that includes:
+22 (a) Options identified by the department, with specific findings re-
+23 lated to medicaid for workers with disabilities;
+24 (b) Any federal approvals that would be required;
+25 (c) Estimated fiscal impacts, including potential cost avoidance from
+26 reduced institutionalization;
+27 (d) Administrative considerations; and
+28 (e) Recommendations for legislative or administrative action.
+29 SECTION 2. An emergency existing therefor, which emergency is hereby
+30 declared to exist, this act shall be in full force and effect on and after its
+31 passage and approval.

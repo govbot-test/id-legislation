@@ -1,0 +1,536 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1258
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO LIQUOR; AMENDING SECTION 23-903, IDAHO CODE, TO AUTHORIZE LI-
+3 CENSURE FOR A DISTILLERY; AMENDING SECTION 23-910, IDAHO CODE, TO PRO-
+4 VIDE AN EXEMPTION FOR OFFICERS, AGENTS, AND EMPLOYEES OF A DISTILLERY;
+5 AMENDING SECTION 23-912, IDAHO CODE, TO PROVIDE AN EXEMPTION FOR A DIS-
+6 TILLERY; AMENDING SECTION 23-944, IDAHO CODE, TO PROVIDE AN EXEMPTION
+7 FOR A DISTILLERY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+8 DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 23-903, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 23-903. LICENSE TO RETAIL LIQUOR. (1) The director of the Idaho state
+13 police is hereby empowered, authorized, and directed to issue licenses to
+14 qualified applicants, as provided in this chapter, whereby the licensee
+15 shall be authorized and permitted to sell liquor by the drink at retail,
+16 and, upon the issuance of such license, the licensee shall be authorized to
+17 sell liquor at retail by the drink, but only in accordance with the rules
+18 promulgated by the director and the provisions of this chapter. No license
+19 shall be issued for the sale of liquor on any premises outside the incorpo-
+20 rated limits of any city except as provided in this chapter, and the number
+21 of licenses so issued for any city shall not exceed one (1) license for each
+22 one thousand five hundred (1,500) of population of said city or fraction
+23 thereof, as established in the last preceding census, or any subsequent spe-
+24 cial census conducted by the United States census bureau or by an estimate
+25 that is statistically valid including adding the number of new residential
+26 utility connections or including adding the population of areas annexed into
+27 the city after the last census or special census was conducted, except that
+28 upon proper application thereof not more than two (2) licenses may be issued
+29 for each incorporated city with a population of one thousand five hundred
+30 (1,500) or less, unless the retail licensing of liquor by the drink has been
+31 previously disapproved under the provisions of sections 23-917, 23-918,
+32 23-919, 23-920 and 23-921, Idaho Code; provided however, that any license
+33 heretofore issued may be renewed from year to year without regard to the pop-
+34 ulation or status of the city for which such license is issued. Any license
+35 issued that has remained in effect at its location for a consecutive period
+36 of ten (10) years or more shall be deemed to have been validly issued and may
+37 be renewed from year to year, provided that the applicant for the renewal of
+38 such license is not otherwise disqualified for licensure pursuant to section
+39 23-910, Idaho Code, and, if the premises required special characteristics
+40 for original licensure, other than being either within or without the incor-
+41 porated limits of a city, that said premises continue to have such special
+42 characteristics at the time of the application for renewal.
+
+2
+1 (2) Nothing in this chapter shall prohibit the issuance of a license to
+2 the owner, operator, or lessee of an actual bona fide golf course whether lo-
+3 cated within or without the limits of any city, or located on premises also
+4 operated as a winery or ski resort, or to the lessee of any premises situ-
+5 ate thereon, whether located within or without the limits of any city. For
+6 the purpose of this section, a golf course shall comprise an actual bona fide
+7 golf course, which is regularly used for the playing of the game of golf, hav-
+8 ing not less than nine (9) tees, fairways, and greens laid out and used in the
+9 usual and regular manner of a golf course. Nine (9) hole courses must have a
+10 total yardage of at least one thousand (1,000) yards, and eighteen (18) hole
+11 courses must have a total yardage of at least two thousand (2,000) yards as
+12 measured by totaling the tee-to-green distance of all holes. The course must
+13 be planted in grass except that it may provide artificial tee mats. Where any
+14 such golf course is owned or leased by an association of members and is used
+15 or enjoyed by such members or their guests, none of the disqualifications
+16 contained in section 23-910, Idaho Code, shall apply to such association as
+17 a licensee where such disqualifications, or any of them, would apply only to
+18 a member of such association where such member has no interest therein except
+19 as a member thereof. Provided, a building that is located on a lake of not
+20 less than one hundred sixty (160) acres with not less than two hundred (200)
+21 feet of lake frontage, owned or leased and operated exclusively by an actual
+22 bona fide golf course licensed for the sale of liquor by the drink, as oth-
+23 erwise defined in this subsection, located not more than five tenths (.5) of
+24 a mile from the golf course exterior boundaries, and accessible by that golf
+25 course by private or public roadway or right-of-way shall be deemed part of
+26 and contiguous to the licensed golf course premises for purposes of the sale
+27 of liquor by the drink upon such premises.
+28 (3) For purposes of this section, a ski resort shall comprise real prop-
+29 erty of not less than ten (10) acres in size, exclusive of the terrain used
+30 for skiing and upon which the owner, operator, or lessee of the ski resort has
+31 made available himself or through others, including but not limited to the
+32 owners of condominiums, permanent bona fide overnight accommodations avail-
+33 able to the general public for one hundred (100) persons or more, and which
+34 real property is contiguous to or located within the area in which skiing oc-
+35 curs and is regularly operated as a ski resort in the wintertime where the
+36 owner, operator, or lessee of the ski resort is also the owner, operator, or
+37 lessee of the area served by a bona fide chair ski lift facility or facili-
+38 ties. Alternatively, for the purpose of this section, a ski resort may also
+39 be defined as a downhill ski area, open to the public, comprising real prop-
+40 erty of not less than two hundred fifty (250) skiable acres, operating two
+41 (2) or more chairlifts with a vertical lift of one thousand (1,000) feet or
+42 more, and capable of transporting a minimum of one thousand eight hundred
+43 (1,800) skiers per hour. A ski resort qualifying under this definition shall
+44 also have on the premises a lodge facility providing shelter and food ser-
+45 vice to the public, the operator of which shall also be the valid owner or
+46 lessee of the grounds and facilities upon which the ski resort offers down-
+47 hill skiing services to the public. The fees for licenses granted to ski re-
+48 sorts shall be the same as those prescribed for golf courses as set forth in
+49 section 23-904, Idaho Code. Not more than one (1) licensed premises shall be
+
+3
+1 permitted on any golf course or any ski resort or within the area comprising
+2 the same.
+3 (4) Nothing in this chapter shall prohibit the issuance of a license to
+4 the owner, operator, or lessee of an actual bona fide equestrian facility lo-
+5 cated on not less than forty (40) contiguous acres, with permanently erected
+6 seating of not less than six thousand (6,000) seats, no part of which eques-
+7 trian facility or the premises thereon is situate within the incorporated
+8 limits of any city, and which facility shall have at least three (3) days per
+9 year of a professionally sanctioned rodeo. Not more than one (1) licensed
+10 premises shall be permitted at any equestrian facility or within an area com-
+11 prising such a facility. The fees for licenses granted to equestrian facil-
+12 ities shall be the same as those prescribed for golf courses as set forth in
+13 section 23-904, Idaho Code.
+14 (5) Nothing in this chapter shall prohibit the issuance of a license to
+15 the owner, operator, or lessee of a restaurant operated on an airport owned
+16 or operated by a county or municipal corporation or on an airport owned or
+17 operated jointly by a county and municipal corporation, and which said air-
+18 port is served by a trunk or local service air carrier holding a certificate
+19 of public convenience and necessity issued by the civil aeronautics board of
+20 the United States of America. Not more than one (1) license shall be issued
+21 on any airport.
+22 (6) Nothing in this chapter shall prohibit the issuance of one (1) club
+23 license to a club as defined in section 23-902, Idaho Code. The holder of
+24 a club license is authorized to sell and serve alcoholic beverages for con-
+25 sumption only within the licensed establishment owned, leased, or occupied
+26 by the club and only to bona fide members of the club and to bona fide mem-
+27 bers' guests. A club license issued pursuant to the provisions of this sec-
+28 tion is not transferable and may not be sold. Any club license issued pur-
+29 suant to the provisions of this section will revert to the director when, in
+30 his judgment, the licensee ceases to operate as a bona fide club as defined
+31 in section 23-902, Idaho Code. No club may hold a liquor license and a club
+32 license simultaneously. A club that on July 1, 1983, holds a liquor license
+33 may continue to possess that license. Any club that possesses a liquor li-
+34 cense on January 1, 1983, or thereafter, and then sells that liquor license,
+35 may not obtain a club license, and the director shall not issue a club li-
+36 cense to that club for a period of five (5) years following such sale. The
+37 fee for any license issued to a qualifying club within an incorporated mu-
+38 nicipality shall be as prescribed in subsections (1), (2) and (3) of sec-
+39 tion 23-904, Idaho Code. The fee for any license issued to a qualifying club
+40 not situate within an incorporated municipality shall be as specified for
+41 golf courses under section 23-904(6), Idaho Code. The provisions of section
+42 23-916, Idaho Code, regarding county and city licenses shall pertain to club
+43 licenses. The burden of producing sufficient documentation of qualifica-
+44 tions for club licensure shall be with the club applicant.
+45 (7) Nothing in this chapter to the contrary shall prohibit the issuance
+46 of a license to the owner, operator, or lessee of an actual bona fide conven-
+47 tion center that is within the incorporated limits of a city having a pop-
+48 ulation of three thousand (3,000) or greater, and which city does not have
+49 located therein a convention center with a valid convention center license
+50 to sell liquor by the drink. For the purpose of this section, a convention
+
+4
+1 center means a facility having at least thirty-five thousand (35,000) square
+2 feet of floor space or a facility having at least one hundred twenty (120)
+3 sleeping rooms and an adjoining meeting room that will accommodate not less
+4 than three hundred fifty (350) persons, whether or not such room may be par-
+5 titioned into smaller rooms, and provided that such meeting room shall con-
+6 tain at least three thousand (3,000) square feet of floor space. Such li-
+7 cense must be placed in actual use in said convention center within one (1)
+8 year from the date of its issuance. The fee for any license issued to a qual-
+9 ifying convention center shall be as prescribed in subsection (3) of section
+10 23-904, Idaho Code. The holder of a convention center license shall not be
+11 eligible for the issuance of a license in the same city pursuant to any other
+12 provision of this chapter. For purposes of this section, the term "holder"
+13 shall include an owner, operator, or lessee and shall include a stockholder,
+14 director, or officer of a corporation or a partner in a partnership, which
+15 corporation or partnership has been issued a convention center license pur-
+16 suant to this chapter. Not more than one (1) licensed premises shall be per-
+17 mitted on any convention center or within the area comprising the same, in-
+18 cluding convention centers that also comprise golf courses or ski resorts as
+19 defined in this section.
+20 (8) If an owner, operator, or lessee has a validly issued retail liquor
+21 by the drink license at the time of application, nothing in this chapter
+22 shall prohibit the issuance of a license to the owner, operator, or lessee
+23 of a food, beverage, and/or lodging facility that has been in continuous
+24 operation in the same location for at least seventy-five (75) years, except
+25 for temporary closings for refurbishing or reconstruction, or a food, bever-
+26 age, and lodging facility serving the public by reservation only, having a
+27 minimum of five (5) rooms operating in a structure that has been in existence
+28 for at least seventy-five (75) years and has been on the historic register
+29 for a minimum of ten (10) years, is situated within five hundred (500) yards
+30 of a natural lake containing a minimum of thirty-six thousand (36,000) acre
+31 feet of water when full with a minimum of thirty-two (32) miles of shoreline,
+32 and is located in a county with a minimum population of sixty-five thousand
+33 (65,000). The provisions of section 23-910, Idaho Code, shall apply to li-
+34 censes issued to continuous operation facilities. The fees shall be the same
+35 as those prescribed for golf courses as set forth in section 23-904, Idaho
+36 Code. No license shall be issued under this subsection on or after July 1,
+37 2028.
+38 (9) Nothing in this chapter shall prohibit the issuance of a license
+39 to a federally recognized Indian tribe as defined in section 67-4001, Idaho
+40 Code, which is an owner, operator, or lessee of a food, conference, and lodg-
+41 ing facility located within the boundaries of the Indian tribe's reservation
+42 and containing a minimum of thirty-five thousand (35,000) square feet and
+43 fifty (50) guest rooms. Licenses issued to Indian tribes are not transfer-
+44 able.
+45 (10) Nothing in this chapter shall prohibit the issuance of a license
+46 to the owner, operator, or lessee of the lodging, dining, and entertainment
+47 facilities owned by a gondola resort complex and operated in conjunction
+48 with the other public services provided by a gondola resort complex located
+49 within the ownership/leasehold boundaries of a gondola resort complex. For
+50 purposes of this subsection, a gondola resort complex means an actual bona
+
+5
+1 fide gondola capable of transporting people for recreational or entertain-
+2 ment purposes at least three (3) miles in length with a vertical rise of three
+3 thousand (3,000) feet, portions of which may be located within or over the
+4 limits of one (1) or more cities.
+5 (11) Nothing in this chapter shall prohibit the issuance of a license to
+6 the owner, operator, or lessee of a winery also operating a golf course on the
+7 premises.
+8 (12) Subject to approval of the mayor and city council, nothing in this
+9 chapter shall prohibit the issuance of a license to the owner, operator, or
+10 lessee of a food, conference, and lodging facility constructed after May 1,
+11 2000, containing a minimum of thirty-five thousand (35,000) square feet and
+12 fifty-five (55) guest rooms with a minimum taxable value of three million
+13 dollars ($3,000,000) in a city with a population of less than five thousand
+14 (5,000) according to the most recent census.
+15 (13) Nothing in this chapter shall prohibit the issuance of a license
+16 to the owner, operator, or lessee of a conference and event center that is
+17 within the city limits of a resort city as defined in section 50-1044, Idaho
+18 Code, that has enacted local option nonproperty taxes in accordance with
+19 section 50-1046, Idaho Code, including, at the time of issuance, a resort
+20 city tax on sales of liquor by the drink, wine, and beer sold at retail for
+21 consumption on the licensed premises. There shall be only one (1) conference
+22 and event center license to sell liquor by the drink issued per resort city
+23 pursuant to this subsection. For the purposes of this section, a confer-
+24 ence and event center means facilities situated on premises consisting of a
+25 building or buildings and the contiguous property owned or leased and under
+26 common ownership or control by the licensee. Such facilities must provide
+27 no less than four thousand (4,000) square feet of enclosed space for confer-
+28 ence and event purposes, exclusive of space dedicated by the licensee to the
+29 commercial kitchen. The commercial kitchen must include a type 1 commercial
+30 hood and cooking equipment, exclusive of microwave ovens and grills. The
+31 fee for any license issued to a qualifying licensee shall be as prescribed
+32 in section 23-904(1), (2), or (3), Idaho Code, depending on the population
+33 of the resort city in which the conference and event center is located and as
+34 prescribed in section 23-916, Idaho Code. A license issued pursuant to this
+35 subsection may be renewed without regard to the population or status of the
+36 city for which the license was issued and without regard for the continuation
+37 of local option nonproperty taxes by the city, provided the applicant for
+38 renewal is not otherwise disqualified from licensure pursuant to section
+39 23-910, Idaho Code. Not more than one (1) license shall be issued to a con-
+40 ference and event center. A conference and event center license shall not
+41 be transferable and may not be sold. For the purpose of issuance and mainte-
+42 nance of a license under this subsection, such facilities may serve liquor
+43 only while such facilities are hosting a conference or event. Nothing in
+44 this subsection shall excuse a conference and event center from complying
+45 with actual use standards in title 23, Idaho Code, or administrative rules
+46 promulgated pursuant to statutory authority granted under this title.
+47 (14) Nothing in this chapter shall prohibit the issuance of a license to
+48 the owner, operator, or lessee of an actual, bona fide distillery. A license
+49 issued pursuant to this subsection shall authorize the sale of liquor ex-
+50 plicitly from brands that are owned by the distillery. The fees for a license
+
+6
+1 issued pursuant to this subsection shall be the same as those prescribed for
+2 golf courses as set forth in section 23-904, Idaho Code. As used in this sec-
+3 tion, "bona fide distillery" means a legally authorized premises that manu-
+4 factures and bottles liquor and is located on no less than five (5) acres of
+5 agricultural zoned property in an unincorporated area of Idaho.
+6 (14) (15) The provisions of section 23-910, Idaho Code, shall apply to
+7 licenses issued under the provisions of this section. The fees shall be the
+8 same as those prescribed for golf courses as set forth in section 23-904,
+9 Idaho Code. Except for licenses issued pursuant to subsection (1) of this
+10 section, licenses issued under the provisions of this section are not trans-
+11 ferable to any other location, facility, or premises.
+12 (15) (16) A license issued pursuant to subsection (1) of this section on
+13 or after July 1, 2023:
+14 (a) May not be transferred to another licensee except as provided in
+15 subsections (16) (17)(a), (b), and (c) and subsection (18) (19) of this
+16 section or section 23-950, Idaho Code, provided that the licensee must
+17 elect to associate such license with the real property at the time of the
+18 initial license issuance; and
+19 (b) Shall not qualify for the discount established in section
+20 23-217(2), Idaho Code.
+21 (16) (17) A license issued pursuant to subsection (1) of this section
+22 prior to July 1, 2023, may be transferred to another licensee one (1) time
+23 only on or after July 1, 2023, and shall thereafter be nontransferable.
+24 Prior to such onetime-only transfer, the licensee shall be entitled to
+25 the discount established in section 23-217(2), Idaho Code. After any one-
+26 time-only transfer, the licensee placing the license in actual use shall
+27 not be entitled to such discount. For purposes of this subsection only, the
+28 following circumstances shall not qualify as a onetime-only transfer:
+29 (a) The license is inherited or otherwise acquired through a will,
+30 trust, or other estate-planning document;
+31 (b) The license is given to a person by the person's parent, grandpar-
+32 ent, child, grandchild, sibling, aunt, uncle, or first cousin without
+33 consideration or remuneration;
+34 (c) To the extent not already included in paragraphs (a) and (b) of this
+35 subsection, any of the events listed in section 23-908(5)(a) through
+36 (e), Idaho Code;
+37 (d) The sale of the business assets of an entity or individual licensee,
+38 including the transfer of an associated license placed in actual use,
+39 either owned or leased prior to July 1, 2023, to a qualified applicant,
+40 provided that:
+41 (i) The transferring licensee has occupied its location, facil-
+42 ity, or premises at the time of sale for at least one (1) year prior
+43 to the sale of business assets; and
+44 (ii) The qualified new licensee operates at the same location,
+45 facility, or premises for one (1) year following the sale of as-
+46 sets and transfer of the associated liquor license placed in ac-
+47 tual use. Any sale that does not conform to the provisions of this
+48 paragraph shall be considered a onetime-only transfer of the li-
+49 cense pursuant to this subsection;
+
+7
+1 (e) The sale or transfer of some or all of the ownership interests of an
+2 entity licensee to a qualified applicant provided that:
+3 (i) The entity licensee has occupied its location, facility, or
+4 premises at the time of sale for at least one (1) year prior to the
+5 sale and transfer of the ownership interests; and
+6 (ii) The existing entity licensee operates at the same location,
+7 facility, or premises for one (1) year following the closing of the
+8 sale or transfer of the ownership interests. Any sale that does
+9 not conform to the provisions of this paragraph shall be consid-
+10 ered a onetime-only transfer of the license pursuant to this sub-
+11 section;
+12 (f) The licensee owns, operates, or leases more than one (1) business or
+13 entity and transfers the license from one business or entity to another
+14 owned, operated, or leased by such licensee;
+15 (g) A transfer pursuant to subsection (18) (19) of this section; or
+16 (h) A transfer pursuant to section 23-950, Idaho Code.
+17 (17) (18) If a license that was issued pursuant to subsection (1) of this
+18 section was under lease before July 1, 2023, then such lease may continue
+19 pursuant to its own terms and may be amended or renewed, or such lease may
+20 be assigned to a purchaser pursuant to subsection (16) (17)(d) or (e) of this
+21 section. At the end of the term of such lease, the license shall revert to the
+22 license owner's possession, and the license owner may opt for one (1) of the
+23 following alternatives:
+24 (a) The owner may transfer the license pursuant to the provisions of
+25 subsection (16) (17) of this section, including a onetime-only transfer
+26 under an installment contract wherein such contract shall not exceed a
+27 term of five (5) years;
+28 (b) The owner may retain the license and apply to become the actual user
+29 of the license, which retention and use shall be exempt from the one-
+30 time-only transfer pursuant to subsection (16) (17) of this section;
+31 (c) The owner may proceed under subsections (16) (17)(a) through (g) of
+32 this section; or
+33 (d) If the owner of the license is also the owner of an estate in real
+34 property, the owner may proceed under subsection (18) (19) of this sec-
+35 tion.
+36 (18) (19)(a) An entity or person who owns a license issued pursuant to
+37 subsection (1) of this section and holds, in whole or in part, an estate
+38 in real property that is leased to a tenant pursuant to a written lease
+39 may permit such tenant to operate the license at the leased premises
+40 during the term of the premises lease, provided that the license shall
+41 identify on the face of the license the name of the license owner, the
+42 name of the premises tenant as the qualified licensee who places the
+43 licenses in actual use, and the location of the associated licensed
+44 premises.
+45 (b) The license owner may permit a subsequent tenant under a new
+46 premises lease to place the license into actual use upon termination of
+47 the prior premises lease as provided in this subsection.
+48 (c) A license operated pursuant to this subsection may be transferred
+49 to any third-party purchaser of the licensed premises where the license
+50 is placed in actual use at the time of such transfer.
+
+8
+1 (d) The onetime-only transfer of the license under subsection (16) (17)
+2 of this section shall no longer be available to the license owner once
+3 placed in use under this subsection, but the license owner may there-
+4 after proceed under subsections (16) (17)(a) through (g) or subsection
+5 (17) (18) of this section or under this subsection.
+6 (e) The license owner shall be jointly responsible with the tenant to
+7 the director for all renewals, filings, payment of fees, and adminis-
+8 trative actions taken with respect to the license.
+9 (19) (20) If the director maintains a priority list of the applicants
+10 for a license to be issued pursuant to subsection (1) of this section and
+11 an applicant receives notice in writing from the director that a license is
+12 available, the applicant may elect to have the license issued in the name of:
+13 (a) The original applicant;
+14 (b) Persons as set forth in subsection (16) (17)(a) through (c) of this
+15 section as its designee; or
+16 (c) A single purpose entity owned only by the original applicant or any
+17 party set forth in subsection (16) (17)(a) through (c) of this section
+18 or such combination of the original applicant or a party set forth in
+19 subsection (16) (17)(a) through (c) of this section.
+20 SECTION 2. That Section 23-910, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 23-910. PERSONS NOT QUALIFIED TO BE LICENSED. No license shall be is-
+23 sued to:
+24 (1) Any person, or any one (1) of its members, officers, or governing
+25 board, who has, within three (3) years prior to the date of making applica-
+26 tion, been convicted of any violation of the laws of the United States, the
+27 state of Idaho, or any other state of the United States, or of the resolutions
+28 or ordinances of any county or city of this state, relating to the importa-
+29 tion, transportation, manufacture or sale of alcoholic liquor or beer; or
+30 who has been convicted of, paid any fine, been placed on probation, received
+31 a deferred sentence, received a withheld judgment or completed any sentence
+32 of confinement for any felony within five (5) years prior to the date of mak-
+33 ing application for any license.
+34 (2) A person who is engaged in the operation, or interested therein, of
+35 any house or place for the purpose of prostitution or who has been convicted
+36 of any crime or misdemeanor opposed to decency and morality.
+37 (3) A person whose license issued under this act has been revoked; an
+38 individual who was a member of a partnership or association which was a li-
+39 censee under this act and whose license has been revoked; an individual who
+40 was an officer, member of the governing board or one (1) of the ten (10) prin-
+41 cipal stockholders of a corporation which was a licensee under this act and
+42 whose license has been revoked; a partnership or association one (1) of whose
+43 members was a licensee under this act and whose license was revoked; a cor-
+44 poration one (1) of whose officers, member of the governing board or ten (10)
+45 principal stockholders was a licensee under the provisions of this act and
+46 whose license has been revoked; an association or partnership, one (1) of
+47 whose members was a member of a partnership or association licensed under the
+48 provisions of this act and whose license has been revoked; a partnership or
+49 association, one (1) of whose members was an officer, a member of the govern-
+
+9
+1 ing board, or one (1) of the ten (10) principal stockholders of a corporation
+2 licensed under the provisions of this act and whose license has been revoked;
+3 a corporation, one (1) of whose officers, member of the governing board, or
+4 ten (10) principal stockholders was a member of a partnership or association
+5 licensed under the provisions of this act and whose license was revoked; a
+6 corporation, one (1) of whose officers, member of the governing board, or ten
+7 (10) principal stockholders was an officer, member of the governing board,
+8 or one (1) of the ten (10) principal stockholders of a corporation licensed
+9 under the provisions of this act and whose license was revoked.
+10 (4) Any officer, agent, or employee of any distillery, winery, brewery,
+11 or any wholesaler, or jobber, of liquor or malt beverages except as provided
+12 in section 23-912, Idaho Code. This prohibition shall not apply to offi-
+13 cers, agents, or employees of any winery operating a golf course on the same
+14 premises as the winery or officers, agents, or employees of any distillery,
+15 as described in section 23-903(14), Idaho Code.
+16 (5) A person who does not hold a retail beer license issued under the
+17 laws of the state of Idaho.
+18 (6) Any license, held by any licensee disqualified under the provisions
+19 of this section from being issued a license, shall forthwith be revoked by
+20 the director.
+21 SECTION 3. That Section 23-912, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 23-912. RESTRICTIONS OF PERSONS INTERESTED IN PREMISES. (1) Except
+24 as provided in subsection (2) of this section, no manufacturer, rectifier,
+25 wholesaler, stockholder, shareholder, partner or the owner of any other
+26 interest in any corporation, association or partnership financially inter-
+27 ested in the manufacture, transportation (except public carriers) or sale of
+28 liquor shall hold any interest in any premise licensed hereunder for the sale
+29 of liquor or receive any rental or remuneration from any such premise.
+30 (2) A manufacturer, rectifier, wholesaler, stockholder, shareholder,
+31 partner or the owner of any interest in any corporation, association or part-
+32 nership financially interested in the manufacture, transportation or sale
+33 of liquor may hold interest in a licensed premises if the licensed premises
+34 serves food cooked on the site of the licensed premises, and the person or en-
+35 tity can show through recordkeeping that no more than fifty percent (50%) of
+36 the gross revenue to the licensed premises is derived from the sale of alco-
+37 holic beverages on-site. The owner of the licensed premises pursuant to this
+38 subsection shall comply with and be subject to all other rules, regulations
+39 or other provisions of law which apply to manufacturers, rectifiers, whole-
+40 salers, stockholders, shareholders, partners or the owners of any interest
+41 in any corporation, association or partnership financially interested in
+42 the manufacture, transportation or sale of liquor save and except as such
+43 rules, regulations or laws may restrict such sales at the licensed premises.
+44 The holder of a license pursuant to this section shall not be disqualified
+45 from holding a beer license, a retail wine license or wine by the drink li-
+46 cense for the sale of beer or wine at the licensed premises on the grounds
+47 that the licensee is also a manufacturer, wholesaler, stockholder, share-
+48 holder, partner or the owner of any interest in any corporation, association
+49 or partnership financially interested in the manufacture, transportation or
+
+10
+1 sale of liquor, beer or wine. This subsection shall not be deemed to grant
+2 a license for the retail sale of liquor by the drink and the license must be
+3 obtained through normal lawful means. A distillery, as described in section
+4 23-903(14), Idaho Code, shall not be required to serve food cooked on the
+5 site of the licensed premises and shall be authorized to sell liquor from
+6 brands explicitly owned by the distillery. Such sale of liquor shall not be
+7 considered to be in conflict with the provisions of this chapter.
+8 SECTION 4. That Section 23-944, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 23-944. EXCEPTIONS FROM RESTRICTION ON ENTERING OR REMAINING. It
+11 shall not be unlawful for, nor shall section 23-943, Idaho Code, be construed
+12 to restrict, any person under the age of twenty-one (21) years from entering
+13 or being:
+14 (1) Upon the premises of any restaurant, as herein defined, or in any
+15 railroad observation or club car or any airplane of a commercial airline,
+16 notwithstanding that such premises may also be licensed for the sale of
+17 liquor by the drink or for the sale of beer for consumption on the premises or
+18 that alcoholic beverages, or beer, or both, are prepared, mixed or dispensed
+19 and served and consumed therein;
+20 (2) In any building, a part or portion of which is used as a place, as
+21 herein defined, provided such place is separated or partitioned from the re-
+22 mainder of said building and access to such place through a doorway or door-
+23 ways or other means of ingress can be controlled to prevent persons under the
+24 ages specified with respect thereto in section 23-943, Idaho Code, from en-
+25 tering therein;
+26 (3) In any baseball park, sports arena, convention center, multi-
+27 purpose arena, plaza, theater that is presenting live performances, or
+28 fairgrounds, notwithstanding that such premises or any portion thereof may
+29 be licensed for the sale of liquor by the drink, wine or beer for consumption
+30 on the premises or that such products are dispensed and served and consumed
+31 therein; provided, that the person under the age of twenty-one (21) years is
+32 attending a lawful activity, show, exhibition, performance or event on the
+33 premises or is required to be present as a condition of his employment. It is
+34 lawful for persons under the age of twenty-one (21) years to enter and remain
+35 in a baseball park, sports arena, convention center, multipurpose arena,
+36 plaza, theater that is presenting live performances, or fairgrounds as long
+37 as the activity, show, exhibition, performance or event is lawful and the
+38 person does not violate section 23-949, Idaho Code;
+39 (4) Upon the premises of any licensed brewery or winery notwithstanding
+40 that such premises or any portion thereof may also be licensed for the sale of
+41 beer or wine for consumption on the premises or that beer or wine is dispensed
+42 and served and consumed therein;
+43 (5) Upon the licensed premises of a wine retailer, wholly owned and op-
+44 erated by a licensed winery that retails exclusively the products of that
+45 winery;
+46 (6) At a location, other than a liquor, beer, or wine licensed premises,
+47 authorized to serve alcoholic beverages under a valid alcohol beverage
+48 catering permit; or
+
+11
+1 (7) In any movie theater that is allowed to sell beer or wine for con-
+2 sumption on the premises pursuant to a valid license and which movie theater
+3 had a license that was valid and not suspended or revoked on July 1, 2025, and
+4 in any other theater or movie theater that is located in a building listed on
+5 the national register of historic places. No films, still pictures, elec-
+6 tronic reproductions or other visual reproductions that are in violation of
+7 chapter 41, title 18, Idaho Code (indecency and obscenity), or are in viola-
+8 tion of federal law regarding pornography, indecency or obscenity shall be
+9 shown or displayed on the premises. As used in this subsection, "movie the-
+10 ater" means a motion picture theater that is being utilized solely for exhi-
+11 bition of a motion picture.; or
+12 (8) Upon the licensed premises of a distillery, as described in section
+13 23-903(14), Idaho Code, that sells liquor exclusively from the brands owned
+14 by the distillery.
+15 SECTION 5. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

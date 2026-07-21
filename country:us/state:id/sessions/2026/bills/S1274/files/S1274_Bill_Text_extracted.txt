@@ -1,0 +1,290 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1274
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO STATE EMPLOYMENT; PROVIDING LEGISLATIVE INTENT; AMENDING SEC-
+3 TION 59-1606, IDAHO CODE, TO REMOVE OBSOLETE LANGUAGE; AMENDING SEC-
+4 TION 59-1607, IDAHO CODE, TO REMOVE OBSOLETE LANGUAGE; AMENDING SEC-
+5 TION 67-5315, IDAHO CODE, TO REMOVE OBSOLETE LANGUAGE; AMENDING SEC-
+6 TION 67-5328, IDAHO CODE, TO REMOVE OBSOLETE LANGUAGE; AND DECLARING AN
+7 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+10 of the Legislature to ensure that the state laws provided in Idaho Code are
+11 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+12 serving the public health, safety, and welfare. In accordance with the Idaho
+13 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+14 tified the provisions of this act as obsolete, outdated, or unnecessary.
+15 SECTION 2. That Section 59-1606, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 59-1606. VACATION TIME. (1) Eligible nonclassified officers and em-
+18 ployees in the executive department and in the legislative department shall
+19 accrue vacation leave and take vacation leave at the same rate and under the
+20 same conditions as is provided in section 67-5334, Idaho Code, for classi-
+21 fied officers and employees.
+22 (a) The state board of examiners shall adopt comparative tables and
+23 charts to compute vacation time on daily, weekly, bi-weekly, calendar
+24 month and annual periods.
+25 (2) Eligible nonclassified officers and employees in the judicial de-
+26 partment shall accrue vacation leave as determined by order of the supreme
+27 court.
+28 Leave policies established by the supreme court must be communicated to
+29 the state controller in writing at least one hundred eighty (180) days in ad-
+30 vance of the effective date of the policies.
+31 (3) The state board of education shall determine the vacation leave
+32 policies for all officers and employees of the state board of education who
+33 are not subject to the provisions of chapter 53, title 67, Idaho Code. To the
+34 extent possible, the state board of education shall adopt policies which are
+35 compatible with the state's accounting system.
+36 Any policy and procedures determined by the state board of education
+37 must be communicated to the state controller in writing at least one hundred
+38 eighty (180) days in advance of the effective date of the policy and proce-
+39 dures.
+40 (4) For those eligible nonclassified officers and employees previously
+41 employed by a county office of public defender or joint office of public de-
+
+2
+1 fender and hired by the office of the state public defender prior to January
+2 1, 2025:
+3 (a) Credited state service, for the purposes of section 67-5334, Idaho
+4 Code, shall include all credited service earned for purposes of the pub-
+5 lic employee retirement system established pursuant to chapter 13, ti-
+6 tle 59, Idaho Code; and
+7 (b) At the discretion of the officer or employee, up to forty (40) hours
+8 of unused paid time off shall be secured for, and credited to, the offi-
+9 cer or employee by the office of the public defender to be utilized as
+10 vacation time. The officer or employee's prior employing county shall
+11 bequest and deposit funds corresponding to the secured and credited
+12 vacation hours in the state public defense fund established by section
+13 57-827, Idaho Code.
+14 SECTION 3. That Section 59-1607, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 59-1607. HOURS OF WORK AND OVERTIME. (1) It is the policy of the legis-
+17 lature of the state of Idaho that all classified and nonclassified officers
+18 and employees of the executive branch of state government shall be treated
+19 substantially similar with reference to hours of employment, holidays and
+20 vacation leave, except as provided in this chapter. For wage, hour and
+21 working conditions, the supreme court and the legislative council shall
+22 prescribe rules for employees of the judicial branch and the legislative
+23 branch, respectively. The policy of this state shall not restrict the ex-
+24 tension of regular work hour schedules on an overtime basis, which shall be
+25 the same for classified and nonclassified employees, in those activities and
+26 duties where such extension is necessary and authorized by the appointing
+27 authority.
+28 (2) The appointing authority of any department shall determine the ne-
+29 cessity for overtime work and shall provide for cash compensation or compen-
+30 satory time off for such overtime work for eligible classified and nonclas-
+31 sified officers and employees.
+32 (3) Classified and nonclassified officers and employees who fall
+33 within one (1) or more of the following categories are ineligible for cash
+34 compensation or compensatory time for overtime work:
+35 (a) Elected officials; or
+36 (b) Those included in the definition of section 67-5303(j), Idaho Code.
+37 (4) Classified and nonclassified employees who are designated as exec-
+38 utive, as provided in section 67-5302, Idaho Code, and who are not included
+39 in the definition of subsection (3) of this section, shall be ineligible for
+40 compensatory time or cash compensation for overtime work. Such salaried
+41 employees shall report absences in excess of one-half (1/2) day. Employees
+42 who become executives within their current agency as set forth in section
+43 67-5302(12), Idaho Code, shall have twelve (12) months from the date of
+44 this act or of appointment, whichever is later, to use any compensatory time
+45 balance. After twelve (12) months, any remaining compensatory time will be
+46 forfeited. Compensatory time is not transferable and shall be forfeited at
+47 the time of transfer to another appointing authority or upon separation from
+48 state service.
+
+3
+1 (5) Classified and nonclassified officers and employees who are des-
+2 ignated as administrative or professional as provided in the federal fair
+3 labor standards act, or who are designated as exempt under any other complete
+4 exemption in federal law, and who are not included in the definition of sub-
+5 section (3) of this section, shall be ineligible for cash compensation for
+6 overtime work unless cash payment is authorized by the state board of exam-
+7 iners for overtime accumulated during unusual or emergency situations, but
+8 such classified and nonclassified officers and employees shall be allowed
+9 compensatory time off from duty for overtime work. Such compensatory time
+10 shall be earned and allowed on hour-for-hour basis, shall not be transfer-
+11 able, and shall be forfeited at the time of transfer to another appointing
+12 authority or upon separation from state service. Compensatory time may be
+13 accrued and accumulated up to a maximum of two hundred forty (240) hours.
+14 Effective with the first pay period in July 2008 (beginning date June 15,
+15 2008), compensatory Compensatory time balances in excess of two hundred
+16 forty (240) hours will not continue to accrue until the balance is below the
+17 maximum.
+18 (6) Classified and nonclassified officers and employees who are not
+19 designated as executive, administrative or professional as provided in this
+20 section, and who are not included in the definition of subsection (3) of
+21 this section or who are not designated as exempt under any other complete
+22 exemption in federal law, shall be eligible for cash compensation or com-
+23 pensatory time off from duty for overtime work, subject to the restrictions
+24 of applicable federal law. Compensatory time off may be provided in lieu
+25 of cash compensation at the discretion of the appointing authority after
+26 consultation, in advance, with the employee. Compensatory time off shall
+27 be paid at the rate of one and one-half (1 1/2) hours for each overtime hour
+28 worked. Compensatory time off that has been earned during any one-half (1/2)
+29 fiscal year but not taken by the end of the succeeding one-half (1/2) fiscal
+30 year shall be paid in cash on the first payroll following the close of such
+31 succeeding one-half (1/2) fiscal year. Compensatory time not taken at the
+32 time of transfer to another appointing authority or upon separation from
+33 state service shall be liquidated at the time of such transfer or separation
+34 by payment in cash.
+35 (7) Notwithstanding the provisions of this section, employees may be
+36 paid for overtime work during a disaster or emergency with the approval of
+37 the board of examiners.
+38 SECTION 4. That Section 67-5315, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 67-5315. ESTABLISHMENT AND ADOPTION OF EMPLOYEE PROBLEM SOLVING AND
+41 DUE PROCESS PROCEDURES. (1) Each participating department shall, on or be-
+42 fore July 1, 1999, establish and adopt an employee problem solving proce-
+43 dure within such department, which shall be reduced to writing and shall be
+44 in full compliance with the provisions of the uniform problem solving pro-
+45 cedure as adopted by rule by the administrator pursuant to subsection (4) of
+46 this section. The department problem solving procedure shall be approved by
+47 the administrator of the division of human resources prior to implementation
+48 or amendment. A copy of the approved problem solving procedure plan shall
+49 be furnished and explained to each employee of the department concerned. No
+
+4
+1 employee shall be disciplined or otherwise prejudiced in his employment for
+2 exercising his rights under the plan, and department heads shall encourage
+3 the use of the plan in the resolution of grievances arising in the course of
+4 public employment. A classified employee may file under the problem solving
+5 procedure any matter, except that compensation shall not be deemed a proper
+6 subject for consideration under the problem solving procedure except as it
+7 applies to alleged inequities within a particular agency or department, and
+8 except for termination during the entrance probationary period, and except
+9 for those matters set forth in subsection (2) of this section.
+10 (2) No action of a participating department relating to a disciplinary
+11 dismissal, suspension or demotion, or an involuntary transfer of a classi-
+12 fied state employee shall be effective until the affected employee shall
+13 have received notice and an opportunity to be heard. The classified employee
+14 may then appeal to the Idaho personnel commission those disciplinary matters
+15 set forth in section 67-5316(1)(a), Idaho Code.
+16 (3) If the filing concerns a matter which is reviewable pursuant to
+17 section 67-5316, Idaho Code, the time for appeal to the commission shall not
+18 commence to run until the employee has completed the problem solving proce-
+19 dure provided by the department in accordance with the terms thereof or, in
+20 the case of disciplinary actions set forth in subsection (2) of this section,
+21 until the disciplinary action becomes effective; provided, however, the
+22 failure of an employee to pursue the problem solving procedures established
+23 within the department shall constitute a waiver of the employee's right of
+24 review by the commission.
+25 (4) The division of human resources shall adopt a rule defining uni-
+26 form problem solving and due process procedures for use by all participating
+27 departments with classified employees. With respect to the problem solv-
+28 ing procedure, the rule shall provide a complete procedure for all stages of
+29 the process, including problem solving meetings with department represen-
+30 tatives in the employee's chain of command. With respect to the due process
+31 procedure, the rule shall provide that the employee receive notice and an op-
+32 portunity to be heard before the department decides in favor of disciplinary
+33 action. The rule shall also provide for time periods for each step of the
+34 procedures. The rule shall provide for the use of an impartial mediator upon
+35 agreement between the agency and the employee. The employee shall be enti-
+36 tled to be represented by a person of the employee's own choosing at each step
+37 of the procedures, except the initial informal discussion with the immediate
+38 supervisor prior to filing under the problem solving procedure.
+39 SECTION 5. That Section 67-5328, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 67-5328. HOURS OF WORK AND OVERTIME. (1) It is hereby declared to be
+42 the policy of the legislature of the state of Idaho that all state employees
+43 shall be treated substantially similar with reference to hours of employ-
+44 ment. The policy of this state as declared in this act shall not restrict the
+45 extension of regular work hour schedules on an overtime basis in those ac-
+46 tivities and duties where such extension is necessary and authorized, pro-
+47 vided that overtime work performed under such extension is compensated for
+48 as hereinafter provided.
+
+5
+1 (2) The appointing authority of any department shall determine the ne-
+2 cessity for overtime work and shall provide for cash compensation or compen-
+3 satory time off for such overtime work for eligible classified officers and
+4 employees, subject to the restrictions of applicable federal law.
+5 (3) Cash for overtime and compensatory time shall be paid based on the
+6 following criteria:
+7 (a) Classified and nonclassified officers and employees who fall
+8 within one (1) or more of the following categories are ineligible for
+9 cash compensation or compensatory time for overtime work:
+10 (i) Elected officials; or
+11 (ii) Those included in the definition of section 67-5303(j),
+12 Idaho Code.
+13 (b) Classified and nonclassified employees who are designated as ex-
+14 ecutive, as provided in section 67-5302, Idaho Code, and who are not
+15 included in the definition of paragraph (a) of this subsection, shall
+16 be ineligible for compensatory time or cash compensation for over-
+17 time work. Such salaried employees shall report absences in excess
+18 of one-half (1/2) day. Employees who become executives within their
+19 current agency as set forth in section 67-5302(12), Idaho Code, shall
+20 have twelve (12) months from the date of this act or of appointment,
+21 whichever is later, to use any compensatory time balance. After twelve
+22 (12) months, any remaining compensatory time will be forfeited. Com-
+23 pensatory time is not transferable and shall be forfeited at the time of
+24 transfer to another appointing authority or upon separation from state
+25 service.
+26 (c) Classified and nonclassified employees who are designated as ad-
+27 ministrative or professional, as provided in the federal fair labor
+28 standards act, 29 U.S.C. 201 et seq., or who are designated as exempt
+29 under any other complete exemption in federal law, and who are not in-
+30 cluded in the definition of paragraph (a) or (b) of this subsection,
+31 shall be ineligible for cash compensation for overtime work unless cash
+32 payment is authorized by the state board of examiners for overtime ac-
+33 cumulated during unusual or emergency situations, but such classified
+34 and nonclassified employees shall be allowed compensatory time off
+35 from duty for overtime work. Such compensatory time shall be earned and
+36 allowed on hour-for-hour basis, shall not be transferable, and shall
+37 be forfeited at the time of transfer to another appointing authority
+38 or upon separation from state service. Compensatory time may be ac-
+39 crued and accumulated up to a maximum of two hundred forty (240) hours.
+40 Effective with the first pay period in July 2008 (beginning date June
+41 15, 2008), compensatory Compensatory time balances in excess of two
+42 hundred forty (240) hours will not continue to accrue until the balance
+43 is below the maximum.
+44 (d) Classified and nonclassified employees who are not designated as
+45 executive, administrative or professional as provided in this section
+46 and who are not included in the definition of paragraph (a) of this sub-
+47 section or who are not designated as exempt under any other complete
+48 exemption in federal law shall be eligible for cash compensation or com-
+49 pensatory time off from duty for overtime work, subject to the restric-
+50 tions of applicable federal law. Compensatory time off may be provided
+
+6
+1 in lieu of cash compensation at the discretion of the appointing author-
+2 ity after consultation, in advance, with the employee. Compensatory
+3 time off shall be paid at the rate of one and one-half (1 1/2) hours for
+4 each overtime hour worked. Compensatory time off that has been earned
+5 during any one-half (1/2) fiscal year but not taken by the end of the
+6 succeeding one-half (1/2) fiscal year shall be paid in cash on the first
+7 payroll following the close of such succeeding one-half (1/2) fiscal
+8 year. Compensatory time not taken at the time of transfer to another ap-
+9 pointing authority or upon separation from state service shall be liq-
+10 uidated at the time of such transfer or separation by payment in cash.
+11 (e) Notwithstanding the provisions of this section, employees may be
+12 paid for overtime work during a disaster or emergency with the approval
+13 of the board of examiners.
+14 (4) Cash compensation for overtime, when paid, shall be at one and one-
+15 half (1 1/2) times the hourly rate of that officer's or employee's salary or
+16 wage, except for those employees whose positions fall within the definitions
+17 of executive, administrative or professional as stated in section 67-5302,
+18 Idaho Code, who will be paid at their regular hourly rate of pay as provided
+19 for in subsection (3) of this section.
+20 (5) Except as provided for in subsection (3) of this section, compensa-
+21 tion for authorized overtime work shall be made at the completion of the pay
+22 period next following the pay period in which the overtime work occurred and
+23 shall be added to the regular salary payment.
+24 (6) At the request of the administrator of the division of human re-
+25 sources, agencies in the executive department shall conduct a review and co-
+26 operate with the division of human resources to ensure all fair labor stan-
+27 dards act requirements are appropriately implemented for all positions and
+28 provide the report to the division of human resources.
+29 SECTION 6. An emergency existing therefor, which emergency is hereby
+30 declared to exist, this act shall be in full force and effect on and after
+31 July 1, 2026.

@@ -1,0 +1,338 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 722
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-405, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE ASSESSMENT OF OPERATING PROPERTY; AMENDING SEC-
+4 TION 63-3502B, IDAHO CODE, TO REVISE A PROVISION REGARDING THE LEVY OF
+5 TAX ON CERTAIN ELECTRICAL PRODUCTION AND RATE-REGULATED ELECTRIC UTIL-
+6 ITY COMPANIES, RATE-REGULATED AFFILIATED GAS COMPANIES, AND RATE-REGU-
+7 LATED GAS COMPANIES; AMENDING SECTION 63-3503C, IDAHO CODE, TO REVISE
+8 PROVISIONS REGARDING THE CALCULATION, COLLECTION, ALLOTMENT, AND AP-
+9 PORTIONMENT OF TAX DUE FROM RATE-REGULATED ELECTRIC UTILITY COMPANIES,
+10 RATE-REGULATED AFFILIATED GAS COMPANIES, AND RATE-REGULATED GAS COM-
+11 PANIES BY THE STATE TAX COMMISSION AND TO ESTABLISH THE RATE-REGULATED
+12 TAX FUND; AND DECLARING AN EMERGENCY AND PROVIDING RETROACTIVE APPLICA-
+13 TION.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That Section 63-405, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 63-405. ASSESSMENT OF OPERATING PROPERTY. (1) The state tax commis-
+18 sion must assess taxable operating property at a meeting of the commission
+19 convening on the second Monday of August in each year and must complete the
+20 assessment of such property on the fourth Monday in August.
+21 (2) The state tax commission shall determine the system value and cal-
+22 culate the allocation and apportionment of the system value for taxable op-
+23 erating property and specifically determine:
+24 (a) The number of miles and the value per mile of each railroad in the
+25 state and for each taxing district in which such railroad may exist.
+26 (b) The number of miles and the value per mile of each telephone corpo-
+27 ration in the state and for each taxing district in which such telephone
+28 corporation may exist.
+29 (c) The number of miles and the value per mile of each pipeline in the
+30 state and for each taxing district in which such pipeline may exist.
+31 (d) The number of miles and the value per mile of each water company
+32 under the jurisdiction of the public utilities commission in the state
+33 and for each taxing district in which such water company may exist. The
+34 value per mile of any line included in this subsection, except rail-
+35 roads, shall be determined by dividing the total value of such line
+36 within the state by the number of miles of such line within the state.
+37 The value per mile of railroad line shall be determined by apportionment
+38 of the total value of line within the state. The apportionment shall
+39 be based twenty percent (20%) on the ratio of line miles in the state to
+40 line miles in the county; forty percent (40%) on the ratio of net ton
+41 miles in the state to net ton miles in the county; and forty percent
+42 (40%) on the ratio of station revenues in the state to station revenues
+
+2
+1 in the county. All operating property of railroads shall be apportioned
+2 to the counties as part of the railroad line in the county. The appor-
+3 tionment for taxing districts shall be the same as the apportionment
+4 among counties.
+5 (e) The system value of private railcar fleets entering or standing in
+6 Idaho in the year preceding the constituted lien as provided in section
+7 63-411(3), Idaho Code.
+8 (f) The system value and calculate the allocation and apportionment of
+9 the system value for all other taxable operating property.
+10 (3) For rate-regulated electric utility companies, rate-regulated
+11 affiliated gas companies, and rate-regulated gas companies subject to tax-
+12 ation as provided in section 63-3502B(3) or (4), Idaho Code, the state tax
+13 commission shall determine the amount of such tax to be apportioned to each
+14 county separately in proportion to the property tax levied by all eligi-
+15 ble taxing districts and units and amounts allocated to each urban renewal
+16 agency statewide in tax year 2025 on the operating property of rate-regu-
+17 lated electric utility companies, rate-regulated affiliated gas companies,
+18 and rate-regulated gas companies. The 2025 property tax amounts levied
+19 or allocated shall be certified by each county auditor to the state tax
+20 commission no later than January 12, 2026. The state tax commission shall
+21 calculate proportions by dividing the total amount so reported for each
+22 county by the sum of all such amounts for all eligible taxing districts and
+23 units and urban renewal agencies statewide. Taxing districts, units, and
+24 urban renewal agencies are eligible for a proportion of this tax and are
+25 included in the calculation of these proportions, provided they levied prop-
+26 erty tax against the operating property of rate-regulated electric utility
+27 companies, rate-regulated affiliated gas companies, and rate-regulated gas
+28 companies or received an allocation of property tax paid by such companies
+29 for tax year 2025. In the event that a taxing district or unit or urban re-
+30 newal revenue allocation area dissolves or is no longer present in a county,
+31 or a voter approved bond expires, the proportions for each taxing district in
+32 each affected county shall be changed as follows:
+33 (a) The state tax commission shall reapportion the kilowatt-hour and
+34 thermal energy tax revenue that would have accrued to the dissolving
+35 district or revenue allocation area or expiring voter approved bond.
+36 The reapportioned tax shall be distributed to each otherwise eligible
+37 taxing district and revenue allocation area in the county with bound-
+38 aries that overlapped the dissolved district or revenue allocation area
+39 or expired voter approved bond. The proportionate share for each taxing
+40 district and revenue allocation area shall be determined by dividing
+41 the current distribution to that district and revenue allocation area
+42 by the total distribution to all districts and revenue allocation areas
+43 that overlap the dissolving district or revenue allocation area.
+44 (b) Such reapportionment shall be made in the year immediately follow-
+45 ing the year of the dissolution or expiration and the county auditor
+46 shall be notified of the changed proportions no later than the first
+47 Monday in March of that year.
+48 (c) The proportions used to determine the amount of kilowatt-hour tax
+49 and thermal energy tax to be billed to rate-regulated electric utility
+50 companies, rate-regulated affiliated gas companies, and rate-reg-
+
+3
+1 ulated gas companies and payable to each county pursuant to section
+2 63-3503C(2), Idaho Code, shall not change.
+3 (4) At least once Once every five (5) years, commencing with the five
+4 (5) year period beginning January 1, 2026, the state tax commission shall
+5 examine and verify the investment of each rate-regulated electric utility
+6 company, rate-regulated affiliated gas company, and rate-regulated gas com-
+7 pany in each county and shall submit a report to the legislature that details
+8 each county's investment in relation to the total statewide investment. On
+9 or before January 31 of the year in which the state tax commission requires
+10 such report for the applicable five (5) year period, the state tax commission
+11 shall notify each rate-regulated electric utility company, rate-regulated
+12 gas company, and rate-regulated affiliated gas company of the requirement to
+13 submit the report by April 15 of that year for the investment in each county
+14 as of the end of the preceding calendar year.
+15 (5) If the value of property of any company assessable under this sec-
+16 tion is of such a nature that it cannot reasonably be apportioned on the basis
+17 of rail, wire, and pipeline mileage, such as microwave and radio relay sta-
+18 tions, the tax commission may adopt such other method or basis of apportion-
+19 ment to the county and taxing districts in which the property is situate as
+20 may be feasible and proper.
+21 (6) Any departure from market value in an assessment of operating prop-
+22 erty made to ensure compliance with federal law or precedent shall be consid-
+23 ered an exemption. The state tax commission shall identify such departures
+24 from market value in their appraisals and no application need be made by a
+25 taxpayer to receive such exemption.
+26 SECTION 2. That Section 63-3502B, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 63-3502B. LEVY OF TAX ON WIND ENERGY PRODUCTION, SOLAR ENERGY PRO-
+29 DUCTION, GEOTHERMAL ENERGY ELECTRICAL PRODUCTION, RATE-REGULATED ELECTRIC
+30 UTILITY COMPANIES, RATE-REGULATED AFFILIATED GAS COMPANIES, AND RATE-REGU-
+31 LATED GAS COMPANIES. (1) A wind energy tax or a geothermal energy tax shall
+32 be levied against every producer of electricity by means of wind energy or
+33 geothermal energy in the amount of three percent (3%) of such producer's
+34 gross wind energy earnings or geothermal energy earnings.
+35 (2) A solar energy tax shall be levied against every producer of elec-
+36 tricity by means of solar energy in the amount of three and one-half percent
+37 (3.5%) of the producer's gross solar energy earnings.
+38 (3) A kilowatt-hour tax shall be levied against every rate-regulated
+39 electric utility company operating in Idaho on all such electricity and
+40 electrical energy sold to retail customers in Idaho, as reported by such
+41 company to the Idaho public utilities commission; however, if such a report
+42 contains kilowatt-hour sales data for another state, the kilowatt-hour tax
+43 established under this section shall not be applied to those out-of-state
+44 sales. The kilowatt-hour tax shall be nine hundred twenty-three millionths
+45 of a dollar ($0.000923) per kilowatt-hour sold.
+46 (4)(a) A thermal energy tax shall be levied against every rate-regu-
+47 lated affiliated gas company on all natural gas sold to retail customers
+48 in Idaho at a rate of ten thousand eight hundred two millionths of a dol-
+49 lar ($0.010802) per therm of natural gas sold.
+
+4
+1 (b) A thermal energy tax shall be levied against every rate-regulated
+2 gas company on all natural gas sold to retail customers in Idaho at
+3 a rate of three hundred twenty-nine hundred-thousandths of a dollar
+4 ($0.00329) per therm of natural gas sold. A separate thermal energy tax
+5 shall be levied against every rate-regulated gas company on all nat-
+6 ural gas delivered to a transport gas customer at a rate of forty-one
+7 hundred-thousandths of a dollar ($0.00041) per therm of natural gas
+8 delivered to a transport gas customer by a rate-regulated gas company.
+9 For the purposes of this subsection, "transport gas customer" means an
+10 entity that purchases gas from a supplier other than a rate-regulated
+11 gas company but that contracts with a rate-regulated gas company to de-
+12 liver gas to its meter.
+13 (5) The wind energy tax, solar energy tax, geothermal energy tax, kilo-
+14 watt-hour tax, and thermal energy tax provided in this section shall be in
+15 lieu of all other taxes on the property of such wind energy producer, solar
+16 energy producer, geothermal energy producer, rate-regulated electric util-
+17 ity company, rate-regulated affiliated gas company, or rate-regulated gas
+18 company exempted pursuant to section 63-602JJ, Idaho Code.
+19 (6) For purposes of the certification required by section 63-803, Idaho
+20 Code, and the limitations provided by section 63-802, Idaho Code, the taxes
+21 levied pursuant to subsection (2) of this section shall reduce the property
+22 tax to be levied to finance an annual budget and shall not be included in the
+23 amount of property tax revenues to finance an annual budget for purposes of
+24 limitations on increases in the annual budget as provided in section 63-802,
+25 Idaho Code. Kilowatt-hour Estimated kilowatt-hour taxes and estimated
+26 thermal energy taxes apportioned to each taxing district pursuant to section
+27 63-3503C, Idaho Code, shall be treated as property tax revenue for the pur-
+28 poses of the limitations provided in section 63-802, Idaho Code.
+29 (7) By January 1, 2027, rate-regulated electric utility companies,
+30 rate-regulated affiliated gas companies, and rate-regulated gas companies
+31 shall include the kilowatt-hour and thermal energy tax on the billings to
+32 its Idaho customers. The public utilities commission shall adjust the base
+33 tariff rates for customers to the extent those rates included a recovery of
+34 property taxes on operating property or the kilowatt-hour taxes or thermal
+35 energy taxes assessed pursuant to this section.
+36 SECTION 3. That Section 63-3503C, Idaho Code, be, and the same is hereby
+37 amended to read as follows:
+38 63-3503C. CALCULATION, COLLECTION, ALLOTMENT, AND APPORTIONMENT OF
+39 TAX FROM RATE-REGULATED ELECTRIC UTILITY COMPANIES, RATE-REGULATED AFFILI-
+40 ATED GAS COMPANIES, AND RATE-REGULATED GAS COMPANIES BY STATE TAX COMMISSION
+41 -- RATE-REGULATED TAX FUND.
+42 (1)(a) On or before April 15 of each year beginning in 2026, every rate-
+43 regulated electric utility, rate-regulated affiliated gas company, and
+44 rate-regulated gas company in this state shall file with the state tax
+45 commission a statement of the amount of its kilowatt-hours and therms
+46 sold as described in section 63-3502B(3) and (4), Idaho Code, for the
+47 preceding year, and for rate-regulated electric utilities, the amount
+48 of kilowatt-hours sold during the preceding year for furnishing power
+
+5
+1 for pumping water for irrigation or drainage purposes, as provided by
+2 section 63-3502C, Idaho Code.
+3 (b) Beginning on January 1, 2027, and on On or before April 15 September
+4 15 of each year thereafter beginning in 2026, every rate-regulated
+5 electric utility, rate-regulated affiliated gas company, and rate-reg-
+6 ulated gas company in this state shall file with the state tax com-
+7 mission a statement of the amount of its kilowatt-hours and therms
+8 sold in Idaho for the preceding calendar year as described in section
+9 63-3502B(3) and (4), Idaho Code, for the six (6) months of January
+10 through June of the current year, and for rate-regulated electric util-
+11 ities, the amount of kilowatt-hours sold the preceding year during such
+12 six (6) month period for furnishing power for pumping water for irriga-
+13 tion or drainage purposes, as provided by section 63-3502C, Idaho Code.
+14 The rate-regulated electric utilities, rate-regulated affiliated gas
+15 company, and rate-regulated gas companies shall also provide such
+16 information as shall be necessary for the state tax commission to re-
+17 determine the allocations of the tax as required in section 63-405(4),
+18 Idaho Code. Upon examining and verifying such statement, the state tax
+19 commission shall compute the amount of the tax due for the period Jan-
+20 uary through June of the current year using the rates found in section
+21 63-3502B(3) and (4), Idaho Code, and reduced as provided in section
+22 63-3502C, Idaho Code, for rate-regulated electric utilities eligible
+23 for such exemption. Such tax shall be billed by the state tax commission
+24 to each rate-regulated electric utility, rate-regulated affiliated gas
+25 company, and rate-regulated gas company no later than the first Monday
+26 of November and shall be due and payable to the state tax commission no
+27 later than December 20. Upon receipt of such tax payments, the state tax
+28 commission shall promptly pay to each county treasurer the proportion-
+29 ate share of such taxes due to the county as provided in this section,
+30 and the county treasurer shall pay such amounts to eligible taxing
+31 districts, units, and urban renewal agencies as also provided in this
+32 section.
+33 (c) On or before April 15 of each year beginning in 2027, every
+34 rate-regulated electric utility, rate-regulated affiliated gas com-
+35 pany, and rate-regulated gas company in this state shall file with the
+36 state tax commission a statement of the amount of its kilowatt-hours and
+37 therms sold as described in section 63-3502B(3) and (4), Idaho Code,
+38 for the six (6) months of July through December of the preceding cal-
+39 endar year, and for rate-regulated electric utilities, the amount of
+40 kilowatt-hours sold for the six (6) months of July through December of
+41 the preceding year for furnishing power for pumping water for irriga-
+42 tion or drainage purposes, as provided by section 63-3502C, Idaho Code.
+43 The rate-regulated electric utilities, rate-regulated affiliated gas
+44 companies, and rate-regulated gas companies shall also provide such
+45 information as shall be necessary for the state tax commission to comply
+46 with the requirements of section 63-405(4), Idaho Code, for any year in
+47 the applicable five (5) year period in which the filing of such infor-
+48 mation is required by that section. Upon examining and verifying such
+49 statement, the state tax commission shall compute the amount of the tax
+50 due for the period July through December of the preceding year, commenc-
+
+6
+1 ing with 2026, using the rates provided in section 63-3502B(3) and (4),
+2 Idaho Code, and reduced as provided in section 63-3502C, Idaho Code, for
+3 rate-regulated electric utilities eligible for such exemption. Such
+4 tax shall be billed by the state tax commission to each rate-regulated
+5 electric utility, rate-regulated affiliated gas company, and rate-reg-
+6 ulated gas company no later than the first Monday of June and shall be
+7 due and payable to the state tax commission no later than June 20. Upon
+8 receipt of such tax payments, the state tax commission shall promptly
+9 pay to each county treasurer the proportionate share of such taxes due
+10 to the county as provided in this section, and the county treasurer
+11 shall pay such amounts to eligible taxing districts, units, and urban
+12 renewal agencies as also provided in this section.
+13 (2) Upon the calculation of taxes determined in this section, and By
+14 no later than the third first Monday of May July of each year, the state tax
+15 commission shall estimate the taxes that will be payable for the current
+16 calendar year by taxpayers subject to this section, using the information
+17 from the preceding year provided by the taxpayers in the April 15 state-
+18 ments required pursuant to subsection (1)(a) of this section, or by other
+19 information available to the state tax commission. The state tax commission
+20 shall then notify each county treasurer and county auditor of the amount of
+21 estimated taxes due to the county and each taxing district, unit, and urban
+22 renewal agency located within the county based on the proportions calculated
+23 pursuant to section 63-405(3) and (4), Idaho Code. Such tax shall be billed
+24 by the state tax commission to each rate-regulated electric utility company,
+25 rate-regulated affiliated gas company, and rate-regulated gas company no
+26 later than the fourth Monday of May and due and payable to the state tax com-
+27 mission no later than June 30. Upon receipt of such tax payments, the state
+28 tax commission shall promptly pay to each county treasurer the proportionate
+29 share of such taxes due to the county as provided in this section.
+30 (3) By no later than the fourth first Monday of July August each year,
+31 each county auditor shall notify each taxing district, unit, and urban re-
+32 newal agency of the estimated amount they will receive. By the fourth Monday
+33 of August, such amounts will be paid based on the calculations provided in
+34 subsection (2) of this section. Such estimated amount shall be treated as
+35 property tax revenue for the purposes of the certification required by sec-
+36 tion 63-803, Idaho Code, and the limitations provided by section 63-802,
+37 Idaho Code. Amounts received by each county will be distributed by the
+38 county auditor to each eligible taxing district, unit, and urban renewal
+39 agency in the same manner as property tax.
+40 (4) A new taxing district or revenue allocation area formed after Jan-
+41 uary 1, 2025, shall not be eligible for a tax distribution pursuant to this
+42 section.
+43 (5) If any taxing districts consolidate, the resulting district is en-
+44 titled to a tax distribution pursuant to this section equal to the sum of the
+45 tax distributions that would have been made to each district prior to consol-
+46 idation.
+47 (6) Any taxes levied pursuant to this section and not paid by June 30 the
+48 due dates provided in subsection (1) of this section shall become delinquent
+49 and a penalty of five percent (5%) thereof shall be imposed, together with
+
+7
+1 interest at the rate of one percent (1%) per month from June 30 those dates
+2 until paid.
+3 (7) All taxes due and payable under this section shall be a lien on all
+4 property, real and personal, of the rate-regulated electric utility com-
+5 pany, rate-regulated affiliated gas company, or rate-regulated gas company
+6 as of June 30 of each year the due dates provided in subsection (1) of this
+7 section and shall be discharged only by the payment thereof. In any action to
+8 enforce payment of any delinquent taxes due under this section, the county
+9 pursuing such action shall be entitled to a judgment for the reasonable costs
+10 of prosecuting such action, as well as for the delinquent taxes, penalty, and
+11 interest.
+12 (8) If a rate-regulated electric utility, rate-regulated affiliated
+13 gas company, or rate-regulated gas company fails to file the statement of
+14 kilowatt-hours or therms sold in Idaho required pursuant to subsection (1)
+15 of this section, the state tax commission shall use the best available infor-
+16 mation to determine the kilowatt-hours or therms sold in Idaho.
+17 (9) There is hereby created in the state treasury the rate-regulated
+18 tax fund. The fund shall consist of all moneys received by the state tax com-
+19 mission pursuant to this section, which shall be deposited into the fund, and
+20 such other moneys that may be provided by legislative appropriation. Moneys
+21 in the fund are hereby continuously appropriated for disbursement to the ap-
+22 propriate county treasurer as provided in this section.
+23 SECTION 4. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after its
+25 passage and approval, and retroactively to January 1, 2026.

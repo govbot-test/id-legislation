@@ -1,0 +1,195 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 748
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO THE PUBLIC RECORDS ACT; AMENDING SECTION 74-115, IDAHO CODE, TO
+3 PROVIDE FOR THE FILING OF A COMPLAINT BY A PERSON AGGRIEVED AND TO RE-
+4 VISE PROVISIONS REGARDING DENIAL OF A REQUEST FOR DISCLOSURE; AMENDING
+5 SECTION 74-114, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AND
+6 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 74-115, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 74-115. PROCEEDINGS TO ENFORCE RIGHT TO EXAMINE OR TO RECEIVE A COPY OF
+11 RECORDS -- RETENTION OF DISPUTED RECORDS. (1) A person aggrieved by the de-
+12 nial or partial denial of a request for disclosure, or the charge for dis-
+13 closure, may file a complaint in the magistrate court of the county where
+14 the records of some part thereof are located. The complaint contesting the
+15 public agency's response to the records request shall be filed within ninety
+16 (90) calendar days from the date of the response. The complaint shall in-
+17 clude the full text of the original request, the full text of the response,
+18 all communications between the requester and agency related to the request
+19 and response, and the statutory reason the filing party is contesting the re-
+20 sponse. The filing party shall pay a one-hundred-dollar ($100) filing fee,
+21 which shall be distributed to the county district court fund and may not be
+22 waived. The district court clerk shall assign a case number. The filing
+23 party shall serve the public agency. Within fourteen (14) days of receiv-
+24 ing the complaint, the public agency in question shall file a response with
+25 the court that includes the statutory reason for the response to the original
+26 records request. Parties may attach affidavits to their respective plead-
+27 ings. Neither party may use discovery for the initial complaint, nor shall
+28 they summon witnesses. Attorneys are not required to file or respond to the
+29 complaint. Oral arguments are not permitted. Upon receipt of the agency's
+30 response, the judge shall review the filings and may request an in-camera re-
+31 view of the documents in question. The judge shall issue a decision within
+32 fourteen (14) days after receiving the agency's response. If the parties
+33 reach an agreement before the judge issues an order, the court shall dismiss
+34 the complaint. Upon issuance of the decision, either party may initiate an
+35 appeal in the district court.
+36 (1) (2) The sole remedy for Regardless of whether a complaint, as pro-
+37 vided in subsection (1) of this section, has occurred, a person aggrieved
+38 by the denial of a request for disclosure is to may institute proceedings in
+39 the district court of the county where the records or some part thereof are
+40 located, to compel the public agency to make the information available for
+41 public inspection in accordance with the provisions of this chapter. The
+42 petition contesting the public agency's decision shall be filed within one
+
+2
+1 hundred eighty (180) calendar days from the date of mailing of the notice
+2 of denial or partial denial by the public agency or the issuance of a judi-
+3 cial decision in an initial public records complaint that was filed pursuant
+4 to subsection (1) of this section. In cases in which the records requested
+5 are claimed as exempt pursuant to section 74-107(1) or (24), Idaho Code, the
+6 petitioner shall be required to name as a party and serve the person or en-
+7 tity that filed or provided such documents to the agency, and such person or
+8 entity shall have standing to oppose the request for disclosure and to sup-
+9 port the decision of the agency to deny the request. The time for responsive
+10 pleadings and for hearings in such proceedings shall be set by the court at
+11 the earliest possible time, or in no event beyond twenty-eight (28) calendar
+12 days from the date of filing.
+13 (2) (3) The public agency shall keep all documents or records in ques-
+14 tion until the end of the appeal period, until a decision has been rendered on
+15 the petition, or as otherwise statutorily provided, whichever is longer.
+16 (3) (4) Nothing contained in this chapter shall limit the availability
+17 of documents and records for discovery in the normal course of judicial or
+18 administrative adjudicatory proceedings, subject to the law and rules of
+19 evidence and of discovery governing such proceedings. Additionally, in any
+20 criminal appeal or post-conviction civil action, this chapter shall not make
+21 available the contents of prosecution case files where such material has
+22 previously been provided to the defendant nor shall this chapter be avail-
+23 able to supplement, augment, substitute or supplant discovery procedures in
+24 any other federal, civil or administrative proceeding.
+25 SECTION 2. That Section 74-114, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 74-114. ACCESS TO AIR QUALITY, WATER QUALITY AND HAZARDOUS WASTE
+28 RECORDS -- PROTECTION OF TRADE SECRETS. (1) To the extent required by the
+29 federal clean air act, the federal clean water act and the resource conser-
+30 vation and recovery act for state primacy over any delegated or authorized
+31 programs, even if the record is otherwise exempt from disclosure under this
+32 chapter, any person may inspect and copy:
+33 (a) Air pollution emission data;
+34 (b) The content of any title V operating permit;
+35 (c) The name and address of any Idaho pollutant discharge elimination
+36 system (IPDES) applicant or permittee;
+37 (d) The content of any IPDES permit;
+38 (e) IPDES permit applications, and information required to be submit-
+39 ted by IPDES application forms, whether the information is submitted on
+40 the application forms themselves or in any attachments used to supply
+41 information required by the application forms;
+42 (f) Effluent data or a standard or limitation, as defined in 40 CFR
+43 2.302;
+44 (g) The name and address of any applicant or permittee for a hazardous
+45 waste treatment, storage, or disposal facility permit pursuant to chap-
+46 ter 44, title 39, Idaho Code; and
+47 (h) Any other record required to be provided to or obtained by the de-
+48 partment of environmental quality pursuant to the federal clean air
+49 act, the federal clean water act and the resource conservation and re-
+
+3
+1 covery act, and the implementing state statutes, federal regulations
+2 and state rules, unless the record is a trade secret.
+3 (2) For purposes of this section, a record, or a portion of the record,
+4 is a "trade secret" if the information contained in the record is a trade se-
+5 cret within the meaning of the Idaho trade secrets act, sections 48-801, et
+6 seq., Idaho Code, including commercial or financial information which, if
+7 disclosed, could cause substantial competitive harm to the person from whom
+8 the record was obtained.
+9 (3) Any record, or portion of a record, provided to or obtained by the
+10 department of environmental quality and identified by the person providing
+11 the record as a trade secret shall not be disclosed to the public and shall be
+12 kept confidential according to the procedures established in this section.
+13 (4) Nothing in this section shall be construed as limiting the disclo-
+14 sure of a trade secret by the department of environmental quality:
+15 (a) To any officer, employee, or authorized representative of the state
+16 or the United States, under a continuing claim of confidentiality, as
+17 necessary to carry out the provisions of state or federal law, or when
+18 relevant to any proceeding thereunder;
+19 (b) As determined necessary by the director of the department of en-
+20 vironmental quality (under a continuing confidentiality claim) to pro-
+21 tect the public health and safety from imminent and substantial endan-
+22 germent;
+23 (c) As required by state or federal law, including section
+24 74-115(3)(4), Idaho Code, under a continuing claim of confidentiality
+25 and subsection (1) of this section; or
+26 (d) With the consent of the person from whom the record is obtained.
+27 (5) It shall be the responsibility of any person providing a record to
+28 the department of environmental quality to give notice of the existence of a
+29 trade secret on each page or other portion of information at the time of sub-
+30 mittal, and such person shall have the burden of demonstrating that the in-
+31 formation is a trade secret.
+32 (6) Notwithstanding the time frames set forth in section 74-103(2),
+33 Idaho Code, when a request is made to the department of environmental quality
+34 pursuant to the provisions of this chapter for the disclosure of information
+35 for which a trade secret claim has been made, and the information has not
+36 been demonstrated to be a trade secret to the satisfaction of the director
+37 of the department of environmental quality, within three (3) working days of
+38 receipt of the request for the disclosure of the information, the department
+39 of environmental quality shall provide a written request for substantiation
+40 to the person making the confidentiality claim. A response shall be submit-
+41 ted to the department of environmental quality by the person claiming the
+42 trade secret protection within ten (10) working days after receipt of the
+43 request for substantiation, or the information subject to the claim shall be
+44 disclosed without further notice. Upon receipt of a timely response to the
+45 request for substantiation, the director of the department of environmental
+46 quality shall determine whether the information is a trade secret subject to
+47 protection.
+48 (a) If it is determined that the information, or any portion of the in-
+49 formation, is a trade secret, within three (3) working days after re-
+50 ceipt of the response, the director of the department of environmental
+
+4
+1 quality shall notify the person requesting the information that the re-
+2 quest is denied pursuant to subsections (4) and (5) of section 74-103,
+3 Idaho Code.
+4 (b) If it is determined that the information, or any portion of the
+5 information, is not a trade secret and is, therefore, subject to dis-
+6 closure, within three (3) working days after receipt of the response,
+7 the director of the department of environmental quality shall inform
+8 the person making the confidentiality claim of the determination. The
+9 decision shall be a final agency action directly appealable, de novo, to
+10 the district court of the county where the records or some part thereof
+11 are located. An appeal contesting the decision of the director of the
+12 department of environmental quality to release information claimed to
+13 be a trade secret shall be filed within ten (10) working days from the
+14 date of receipt of the written notice of decision. The information
+15 claimed to be a trade secret shall not be disclosed until the period
+16 for appeal has expired with no appeal being taken, or a court order has
+17 been issued finding that the information is not a trade secret and all
+18 appeals of that order have been exhausted.
+19 (7) In any appeal taken pursuant to this section, the court may award
+20 reasonable costs and attorney's fees to the prevailing party if it finds the
+21 claim of confidentiality or the decision of the director of the department of
+22 environmental quality to provide records was frivolously pursued.
+23 (8) The department of environmental quality shall adopt rules which in-
+24 clude:
+25 (a) Appropriate measures to safeguard and protect against improper
+26 disclosure of trade secrets, including procedures to train all employ-
+27 ees on the proper handling of trade secrets; and
+28 (b) Any other provisions necessary to carry out this section.
+29 (9) As it relates to the department of environmental quality, or to
+30 agents, contractors, or other representatives of the department, the immu-
+31 nity created in section 74-118, Idaho Code, shall apply only when disclosure
+32 of a trade secret is made consistent with this section.
+33 SECTION 3. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2026.

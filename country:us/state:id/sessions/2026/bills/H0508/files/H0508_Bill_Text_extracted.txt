@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 508
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO HIGHWAYS AND BRIDGES; AMENDING SECTION 40-117, IDAHO CODE, TO
+3 REVISE A DEFINITION; AMENDING SECTION 40-207, IDAHO CODE, TO REVISE A
+4 PROVISION REGARDING A VIOLATION; AMENDING SECTION 40-605, IDAHO CODE,
+5 TO PROVIDE AN EXCEPTION; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+6 FECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 40-117, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 40-117. DEFINITIONS -- P. (1) "Person" includes every natural per-
+11 son, firm, fiduciary, copartnership, association, corporation, trustee,
+12 receiver or assignee for the benefit of creditors.
+13 (2) "Place." (See "Maintain," section 40-114, Idaho Code)
+14 (3) "Preliminary design," as used in section 40-904, Idaho Code, means
+15 the general project location and design concepts. It includes but is not
+16 limited to preliminary engineering and other activities and analyses,
+17 such as environmental assessments, topographic surveys, metes and bounds
+18 surveys, geotechnical investigations, hydrologic analyses, hydraulic
+19 analyses, utility engineering, traffic studies, financial plans, revenue
+20 estimates, hazardous materials assessments, general estimates of the types
+21 and quantities of materials and other work needed to establish parameters
+22 for the final design.
+23 (4) "Price proposal" means the price submitted by a design-build
+24 firm to provide the required design and construction services described
+25 in the request for proposals or the price submitted by a construction man-
+26 ager/general contractor firm to provide the required construction services
+27 described in the request for proposal.
+28 (5) "Primary benefit of motor vehicles" and "benefit primarily motor
+29 vehicles" means designing highway and bridge maintenance and construction
+30 projects to reduce traffic congestion, travel delays, engine idle time, and
+31 unproductive fuel consumption. "Primary benefit of motor vehicles" also
+32 includes and is limited to improving vehicle traffic flow and travel times
+33 through expanding vehicle travel lanes, improving intersection efficiency,
+34 adding turning lanes, improving transportation management systems, or a
+35 combination of such methods. Highway improvements to existing or new bi-
+36 cycle and pedestrian facilities may only be included in a project for the
+37 primary benefit of motor vehicles if such facilities:
+38 (a) Provide a collateral or secondary benefit to the project; or
+39 (b) Receive federal funds or grants for such purposes; or
+40 (b) (c) Are highway design improvements that are necessary to comply
+41 with existing federal law.
+
+2
+1 (6) "Primary system" or "primary highway" means any portion of the
+2 highways of the state, as officially designated, or as may hereafter be so
+3 designated, by the Idaho transportation board, and approved by the secretary
+4 of transportation, pursuant to the provisions of title 23, U.S. Code, "High-
+5 ways."
+6 (7) "Public highway agency" means the state transportation depart-
+7 ment, any city, county, highway district or other political subdivision
+8 of the state with jurisdiction over public highway systems and public
+9 rights-of-way.
+10 (8) "Public highways" means all highways open to public use in the
+11 state, whether maintained by the state or by any county, highway district,
+12 city, or other political subdivision. (Also see "Highways," section 40-109,
+13 Idaho Code)
+14 (9) "Public land survey corner" means any point actually established
+15 and monumented in an original survey or resurvey that determines the bound-
+16 aries of remaining public lands, or public lands patented, represented on an
+17 official plat and in the field notes thereof, accepted and approved under au-
+18 thority delegated by congress to the United States general land office and
+19 the United States department of interior, bureau of land management.
+20 (10) "Public right-of-way" means a right-of-way open to the public and
+21 under the jurisdiction of a public highway agency, where the public highway
+22 agency has no obligation to construct or maintain, but may expend funds for
+23 the maintenance of, said public right-of-way or post traffic signs for ve-
+24 hicular traffic on said public right-of-way. In addition, a public right-
+25 of-way includes a right-of-way which was originally intended for develop-
+26 ment as a highway and was accepted on behalf of the public by deed of pur-
+27 chase, fee simple title, authorized easement, eminent domain, by plat, pre-
+28 scriptive use, or abandonment of a highway pursuant to section 40-203, Idaho
+29 Code, but shall not include federal land rights-of-way, as provided in sec-
+30 tion 40-204A, Idaho Code, that resulted from the creation of a facility for
+31 the transmission of water. Public rights-of-way shall not be considered im-
+32 proved highways for the apportionment of funds from the highway distribution
+33 account.
+34 (11) "Public street" means a road, thoroughfare, alley, highway or
+35 bridge under the jurisdiction of a public highway agency.
+36 (12) "Public transportation services" means, but is not limited to,
+37 fixed transit routes, scheduled or unscheduled transit services provided
+38 by motor vehicle, bus, rail, van, aerial tramway and other modes of pub-
+39 lic conveyance; paratransit service for the elderly and disabled; shuttle
+40 and commuter service between cities, counties, health care facilities,
+41 employment centers, educational institutions or park-and-ride locations;
+42 subscription van and car pooling services; transportation services unique
+43 to social service programs; and the management and administration thereof.
+44 SECTION 2. That Section 40-207, Idaho Code, be, and the same is hereby
+45 amended to read as follows:
+46 40-207. VIOLATIONS -- PENALTIES. Any elected official, or officer, or
+47 person who shall violate or aid in the violation of any of the provisions of
+48 this title, unless a different penalty is prescribed by law, shall be guilty
+49 of a misdemeanor, and upon conviction thereof be punished by a fine of not
+
+3
+1 more than one thousand dollars ($1,000), or imprisonment for a period not
+2 to exceed ninety (90) days, or by both such fine and imprisonment. The re-
+3 porting of violations under this title shall be afforded protection pursuant
+4 to the provisions of chapter 21, title 6, Idaho Code. All fines collected
+5 for violations of the provisions of this title shall be paid into the highway
+6 distribution account established in section 40-701, Idaho Code.
+7 SECTION 3. That Section 40-605, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 40-605. LAYING OUT OF HIGHWAYS -- WIDENING OR STRAIGHTENING NEW AND
+10 EXISTING HIGHWAYS FOR THE PRIMARY BENEFIT OF MOTOR VEHICLES. (1) Commission-
+11 ers may improve existing highways or lay out new highways within the county
+12 as they determine necessary to reduce traffic congestion or motorist travel
+13 time and for the primary benefit of motor vehicles.
+14 (2) The right-of-way of any highway shall not be less than fifty (50)
+15 feet wide, except to comply with applicable law or in other exceptional
+16 cases.
+17 (3) Existing or new pedestrian and bicycle facilities may only be im-
+18 proved:
+19 (a) as As a secondary or collateral benefit to any highway project;
+20 (b) When receiving federal funds or grants for such purposes; or
+21 (c) as As necessary to improve the safety of pedestrian and bicycle fa-
+22 cilities near schools, parks, or other designated pedestrian or bicycle
+23 areas.
+24 (4) For a highway functioning as a non-residential collector or arte-
+25 rial highway, commissioners may only increase the width, straighten, or re-
+26 locate the highway, except as required by federal law. Commissioners shall
+27 not decrease the width of any non-residential collector or arterial highway,
+28 unless required by federal law.
+29 (5) If, in the laying out, widening, or straightening of any highway it
+30 becomes necessary to take private property, the commissioners or their di-
+31 rector of highways shall cause a survey of the proposed highway to be made,
+32 together with an accurate description of the lands required. The commis-
+33 sioners shall endeavor to agree with each owner for the purchase of a right-
+34 of-way over the owner's land included within the description. If they are
+35 able to agree with the owner, the commissioners may purchase the land out of
+36 the county highway fund under their control, and the land shall then be con-
+37 veyed to the county for the use and purpose of highways.
+38 SECTION 4. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2026.

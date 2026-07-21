@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1434
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE DEPARTMENT OF HEALTH AND WELFARE; AP-
+3 PROPRIATING ADDITIONAL MONEYS TO THE DEPARTMENT OF HEALTH AND WELFARE
+4 FOR THE DIVISION OF WELFARE FOR FISCAL YEAR 2027; REDUCING THE APPROPRI-
+5 ATION TO THE DEPARTMENT OF HEALTH AND WELFARE FOR THE DIVISION OF WEL-
+6 FARE FOR FISCAL YEAR 2027; AND DECLARING AN EMERGENCY AND PROVIDING AN
+7 EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. In addition to any other appropriation provided by law,
+10 there is hereby appropriated to the Department of Health and Welfare for the
+11 Division of Welfare the following amounts to be expended according to the
+12 designated programs and expense classes from the listed funds for the period
+13 July 1, 2026, through June 30, 2027:
+14 FOR
+15 FOR FOR TRUSTEE AND
+16 PERSONNEL OPERATING BENEFIT
+17 COSTS EXPENDITURES PAYMENTS TOTAL
+18 I. SELF-RELIANCE OPERATIONS:
+19 FROM:
+20 Cooperative Welfare (General)
+21 Fund $3,005,100 $2,152,000 $5,157,100
+22 Cooperative Welfare (Federal)
+23 Fund 0 1,677,100 1,677,100
+24 TOTAL $3,005,100 $3,829,100 $6,834,200
+25 II. BENEFIT PAYMENTS:
+26 FROM:
+27 Cooperative Welfare (General)
+28 Fund $98,300 $98,300
+29 GRAND TOTAL $3,005,100 $3,829,100 $98,300 $6,932,500
+30 SECTION 2. Notwithstanding any other provision of law to the contrary,
+31 the appropriation made to the Department of Health and Welfare for the Di-
+32 vision of Welfare is hereby reduced by the following amounts from the des-
+33 ignated programs and expense classes from the Cooperative Welfare (Federal)
+34 Fund for the period July 1, 2026, through June 30, 2027:
+
+2
+1 FOR
+2 FOR TRUSTEE AND
+3 PERSONNEL BENEFIT
+4 COSTS PAYMENTS TOTAL
+5 Self-Reliance Operations $3,005,100 $3,005,100
+6 Benefit Payments 0 $98,300 98,300
+7 TOTAL $3,005,100 $98,300 $3,103,400
+8 SECTION 3. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2026.

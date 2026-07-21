@@ -1,0 +1,853 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1234
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; PROVIDING LEGISLATIVE INTENT; AMENDING SECTION
+3 1-505, IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNIVERSITY; AMEND-
+4 ING SECTION 33-101, IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNI-
+5 VERSITY AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 33-107A,
+6 IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNIVERSITY; AMENDING SEC-
+7 TION 33-107C, IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNIVERSITY;
+8 AMENDING THE HEADING FOR CHAPTER 31, TITLE 33, IDAHO CODE, TO PROVIDE
+9 FOR LEWIS-CLARK STATE UNIVERSITY; AMENDING SECTION 33-3101, IDAHO
+10 CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNIVERSITY AND TO MAKE A TECHNI-
+11 CAL CORRECTION; AMENDING SECTION 33-3102, IDAHO CODE, TO PROVIDE FOR
+12 LEWIS-CLARK STATE UNIVERSITY AND TO MAKE A TECHNICAL CORRECTION; AMEND-
+13 ING SECTION 33-3104, IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNI-
+14 VERSITY AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 33-3106,
+15 IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNIVERSITY AND TO MAKE A
+16 TECHNICAL CORRECTION; AMENDING SECTION 33-3113, IDAHO CODE, TO PRO-
+17 VIDE FOR LEWIS-CLARK STATE UNIVERSITY; AMENDING SECTION 33-3114, IDAHO
+18 CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNIVERSITY AND TO MAKE TECH-
+19 NICAL CORRECTIONS; AMENDING SECTION 33-3116, IDAHO CODE, TO PROVIDE
+20 FOR LEWIS-CLARK STATE UNIVERSITY AND TO MAKE TECHNICAL CORRECTIONS;
+21 AMENDING SECTION 33-3301B, IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK
+22 STATE UNIVERSITY AND TO MAKE A TECHNICAL CORRECTION; AMENDING SEC-
+23 TION 33-3302, IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNIVERSITY;
+24 AMENDING SECTION 33-3701, IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK
+25 STATE UNIVERSITY AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+26 33-3717A, IDAHO CODE, TO REVISE PROVISIONS REGARDING STATE COLLEGES
+27 AND UNIVERSITIES AND TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION
+28 33-3726, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE HIGHER EDUCA-
+29 TION STABILIZATION FUND AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+30 SECTION 33-3803, IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNIVER-
+31 SITY AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 41-4002, IDAHO
+32 CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNIVERSITY AND TO MAKE TECHNI-
+33 CAL CORRECTIONS; AMENDING SECTION 67-2332A, IDAHO CODE, TO PROVIDE FOR
+34 LEWIS-CLARK STATE UNIVERSITY; AMENDING SECTION 67-5302, IDAHO CODE, TO
+35 PROVIDE FOR LEWIS-CLARK STATE UNIVERSITY AND TO MAKE TECHNICAL CORREC-
+36 TIONS; AMENDING SECTION 67-9203, IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK
+37 STATE UNIVERSITY AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+38 67-9801, IDAHO CODE, TO PROVIDE FOR LEWIS-CLARK STATE UNIVERSITY; AND
+39 DECLARING AN EMERGENCY.
+40 Be It Enacted by the Legislature of the State of Idaho:
+41 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature
+42 in changing the name of Lewis-Clark State College to identify and clearly
+43 recognize the newly named Lewis-Clark State University as the four-year
+
+2
+1 institution that it is. Nothing in this act shall be interpreted to im-
+2 ply a change in mission or academic classification of Lewis-Clark State
+3 University. Lewis-Clark State University will remain a teaching-focused
+4 institution and, therefore, there are no new ongoing costs associated with
+5 the name change.
+6 SECTION 2. That Section 1-505, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 1-505. DISTRIBUTION OF REPORTS. The reporter shall have no pecuniary
+9 interest in the reports. The decisions of the said supreme court shall be
+10 prepared for publication, by the reporter, as rapidly as possible, and as
+11 soon as a sufficient number of decisions are prepared to fill a volume, such
+12 a volume shall be printed, and as many copies thereof as directed by the ad-
+13 ministrative director of the courts, shall be delivered to the state law li-
+14 brarian, who shall distribute them as follows: to the librarian of congress,
+15 three (3) copies; to the Idaho state law library, five (5) copies; to the uni-
+16 versity of Idaho, general library, two (2) copies; to the Idaho state univer-
+17 sity library, one (1) copy; to Boise state university library, one (1) copy;
+18 to the college of law of the university of Idaho, twelve (12) copies; to the
+19 Lewis-Clark state college university, one (1) copy; to the library at the
+20 state penitentiary, one (1) copy; to each county prosecuting attorney, one
+21 (1) copy; to each magistrate, one (1) copy; to each district judge, one (1)
+22 copy; to each justice of the supreme court, one (1) copy; to the clerk of the
+23 supreme court, one (1) copy; to the attorney general, five (5) copies; one
+24 (1) copy to the department of lands of Idaho; one (1) copy to the public util-
+25 ities commission of Idaho; one (1) copy to the industrial commission; one (1)
+26 copy to the division of public works; one (1) copy to the department of insur-
+27 ance; one (1) copy to the judiciary committee of the senate during sessions
+28 of the legislature; one (1) copy to the judiciary committee of the house of
+29 representatives during sessions of the legislature; to each state and terri-
+30 tory in the United States sending to this state copies of its printed court
+31 reports, one (1) copy for the use of the state library or law library thereof;
+32 to each foreign state or country, sending to this state copies of its printed
+33 court reports, one (1) copy; to the governor, secretary of state, state trea-
+34 surer, state controller, superintendent of public instruction, each one (1)
+35 copy; and to other officers and institutions as directed by the administra-
+36 tive director of the courts; provided, that each public officer receiving a
+37 copy of any volume or volumes of said reports under the provisions of this
+38 section, shall take good care of the same, and shall upon retiring from of-
+39 fice, turn the same over to his successor in office, provided further, that
+40 copies of any volume of such reports may be again issued to any of said of-
+41 ficers, institutions, states or territories upon good and sufficient proof
+42 of loss of the copies sought to be replaced, presented to the administrative
+43 director of the courts, who may direct the librarian to furnish another copy
+44 of the volume so lost, in place thereof. Any of the said officers, insti-
+45 tutions, states or territories may inform the administrative director that
+46 they do not wish to receive these volumes or wish to receive a lesser num-
+47 ber of volumes than specified in this section. The state law librarian shall
+48 then cease distributing volumes to those recipients who no longer wish to re-
+49 ceive them, and shall distribute the number of volumes requested to those
+
+3
+1 recipients who wish to receive a lesser number of volumes than specified in
+2 this section. Recipients may also inform the administrative director that
+3 they wish to resume receiving the volumes, or wish to resume receiving the
+4 full number of volumes specified in this section, and the state law librarian
+5 shall then distribute to those recipients the volumes published thereafter
+6 in the number specified in this section.
+7 SECTION 3. That Section 33-101, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 33-101. CREATION OF BOARD. For the general supervision, governance,
+10 and control of all state educational institutions, to wit: University of
+11 Idaho, Idaho State University, Boise State University, Lewis-Clark State
+12 College, the School for the Deaf and the Blind university of Idaho, Idaho
+13 state university, Boise state university, Lewis-Clark state university, the
+14 school for the deaf and the blind, and any other state educational institu-
+15 tion which may hereafter be founded, and for the general supervision, gov-
+16 ernance, and control of the public school systems, including public commu-
+17 nity colleges, a state board of education is created. The said board shall be
+18 known as the state board of education and board of regents of the University
+19 university of Idaho.
+20 For the purposes of section 20, article IV, of the constitution of the
+21 state of Idaho, the state board of education and all of its offices, agen-
+22 cies, divisions, and departments shall be an executive department of state
+23 government.
+24 Where the term "state board" shall hereafter appear, it shall mean the
+25 state board of education and board of regents of the University university of
+26 Idaho.
+27 SECTION 4. That Section 33-107A, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 33-107A. BOARD MAY ESTABLISH AN OPTIONAL RETIREMENT PROGRAM. (1) The
+30 state board of education may establish an optional retirement program under
+31 which contracts providing retirement and death benefits may be purchased for
+32 nonclassified staff, pursuant to section 67-5303, Idaho Code, of the univer-
+33 sity of Idaho, Idaho state university, Boise state university, Lewis-Clark
+34 state college university, and the office of the state board of education who
+35 are hired on or after July 1, 1993; provided, however, that no such employee
+36 shall be eligible to participate in an optional retirement program unless he
+37 would otherwise be eligible for membership in the public employee retirement
+38 system of Idaho.
+39 (2) The state board of education is hereby authorized to provide for the
+40 administration of the optional retirement program and to perform or autho-
+41 rize the performance of such functions as may be necessary for such purposes.
+42 The board shall designate the company or companies from which contracts are
+43 to be purchased under the optional retirement program and shall approve the
+44 form and contents of such contracts. In making the designation and giving
+45 approval, the board shall consider:
+46 (a) The nature and extent of the rights and benefits to be provided by
+47 such contracts for participants and their beneficiaries;
+
+4
+1 (b) The relation of such rights and benefits to the amount of contribu-
+2 tions to be made;
+3 (c) The suitability of such rights and benefits to the needs of the par-
+4 ticipants and the interests of the institutions in the recruitment and
+5 retention of staff members; and
+6 (d) The ability of the designated company to provide such suitable
+7 rights and benefits under such contracts.
+8 (3) Nonclassified staff initially appointed or hired on or after July
+9 1, 1993, shall participate in the optional retirement plan, except vested
+10 members of the public employee retirement system of Idaho, as defined in sec-
+11 tion 59-1302, Idaho Code. Nonclassified employees hired by the office of
+12 the state board of education on or after July 1, 2024, with previous credited
+13 service in the public employee retirement system of Idaho may make a onetime
+14 irrevocable election to remain a member of the public employee retirement
+15 system of Idaho. Such election shall be made in writing within sixty (60)
+16 days of initial hire or appointment and filed with the administrative offi-
+17 cer of the employing institution or agency.
+18 (4) (a) Each institution shall contribute on behalf of each participant
+19 in its optional retirement program the following:
+20 (i) To the designated company or companies, an amount equal to
+21 nine and thirty-five hundredths percent (9.35%) of each partici-
+22 pant's salary, reduced by any amount necessary, if any, to provide
+23 contributions to a total disability program provided either by the
+24 state or by a private insurance carrier licensed and authorized to
+25 provide such benefits, or any combination thereof, but in no event
+26 less than five percent (5%) of each participant's salary; and
+27 (ii) To the public employee retirement system, an amount equal
+28 to one and forty-nine hundredths percent (1.49%) of salaries of
+29 members who are participants in the optional retirement program.
+30 This amount shall be paid until July 1, 2025, and is in lieu of
+31 amortization payments and withdrawal contributions required pur-
+32 suant to chapter 13, title 59, Idaho Code.
+33 (b) Each participant shall contribute an amount equal to six and
+34 ninety-seven hundredths percent (6.97%) of the participant's salary.
+35 Employee contributions may be made by employer pickup pursuant to sec-
+36 tion 59-1332, Idaho Code.
+37 (c) Payment of contributions authorized or required under this subsec-
+38 tion shall be made by the financial officer of the employing institution
+39 to the designated company or companies for the benefits of each partici-
+40 pant.
+41 (5) Any person participating in the optional retirement program shall
+42 be ineligible for membership in the public employee retirement system of
+43 Idaho as long as he remains continuously employed in a nonclassified posi-
+44 tion.
+45 (6) A retirement, death or other benefit shall not be paid by the state
+46 of Idaho or the state board of education for services credited under the
+47 optional retirement program. Such benefits are payable to participants or
+48 their beneficiaries only by the designated company or companies in accor-
+49 dance with the terms of the contracts.
+
+5
+1 SECTION 5. That Section 33-107C, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 33-107C. BOARD MAY ESTABLISH ADDITIONAL RETIREMENT PLANS. (1) The
+4 state board of education and the board of regents of the university of
+5 Idaho may establish one (1) or more retirement plans as described herein
+6 for members of the teaching staff and officers of the university of Idaho,
+7 Idaho state university, Boise state university, Lewis-Clark state college
+8 university, and the state board of education who are eligible to participate
+9 in an optional retirement program described in section 33-107A, Idaho Code,
+10 or section 33-107B, Idaho Code, or who are vested members in the public em-
+11 ployee retirement system of Idaho.
+12 (2) A plan established under this section shall comply with federal tax
+13 laws applicable to the design of the plan, which may include sections 401(a),
+14 403(b), 415(m), 457(b) and 457(f) of the Internal Revenue Code or other fed-
+15 eral tax laws.
+16 (3) To the extent permitted by federal tax law, a plan established under
+17 this section may provide for contributions or payments solely at the direc-
+18 tion of the employer, or deferral of an employee's compensation at the elec-
+19 tion of the employee.
+20 SECTION 6. That the Heading for Chapter 31, Title 33, Idaho Code, be,
+21 and the same is hereby amended to read as follows:
+22 CHAPTER 31
+23 LEWIS-CLARK STATE COLLEGE UNIVERSITY
+24 SECTION 7. That Section 33-3101, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 33-3101. ESTABLISHMENT OF SCHOOL. An institute of higher education
+27 for the state of Idaho is hereby established in the city of Lewiston, in
+28 the county of Nez Perce, to be called the Lewis-Clark State College state
+29 university, heretofore called the Lewis-Clark Normal School normal school,
+30 the purposes of which shall be the offering and the giving of instruction in
+31 college courses in the sciences, arts and literature, professional, techni-
+32 cal, and courses or programs of higher education as are usually included in
+33 colleges and universities leading to the granting of appropriate collegiate
+34 degrees as approved by the state board of education.
+35 SECTION 8. That Section 33-3102, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 33-3102. BOARD OF TRUSTEES. The Lewis-Clark State College state uni-
+38 versity is hereby declared to be a body politic and corporate, with its own
+39 seal and having power to sue and be sued in its own name. The general supervi-
+40 sion, government, and control of the Lewis-Clark State College state univer-
+41 sity is vested in the state board of education, which shall act as the board
+42 of trustees of the Lewis-Clark State College state university.
+
+6
+1 SECTION 9. That Section 33-3104, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 33-3104. GENERAL POWERS AND DUTIES OF BOARD. All rights and title to
+4 property, real or personal, belonging to or vested in the Lewis-Clark State
+5 College state university are hereby vested in its board of trustees and their
+6 successors. The board of trustees is empowered to acquire, by purchase or
+7 exchange, any property which in the judgment of the board is needful for the
+8 operation of the Lewis-Clark State College state university; and to dispose
+9 of, by sale or exchange, any property which in the judgment of the board is
+10 not needful for the operation of the college university.
+11 The board of trustees of the Lewis-Clark State College state university
+12 shall have the following powers:
+13 1. (a) To adopt rules and regulations for its own government and for
+14 that of the college university.
+15 2. (b) To accept grants or gifts of money, materials or property of any
+16 kind from any governmental agency, or from any person, firm or association,
+17 on such terms as may be determined by the grantor.
+18 3. (c) To cooperate with any governmental agency, or any person, firm
+19 or association in the conduct of any educational program, to accept grants
+20 or gifts from any source for the conduct of such program; and to conduct such
+21 program on or off campus.
+22 4. (d) To employ architects or engineers in planning the construction,
+23 remodeling or repair of any building or property, and whenever no other
+24 agency is designated by law to do so, to let contracts for such construction,
+25 remodeling or repair and to supervise the work thereof.
+26 5. (e) To have at all times, general supervision and control of all
+27 property, real or personal, appertaining to the college university, and to
+28 insure the same.
+29 SECTION 10. That Section 33-3106, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 33-3106. PRESIDENT AND OTHER TEACHERS, OFFICERS, AND EMPLOYEES --
+32 SALARIES AND DUTIES -- REMOVAL. The board of trustees shall have power to
+33 employ a president of the college university and, with his advice, to appoint
+34 such assistants, deans, instructors, specialists, and other employees as
+35 are required for the operation of the college university; to fix salaries
+36 and to prescribe duties and to remove the president or other employees in
+37 accordance with the policies and rules of the state board of education.
+38 SECTION 11. That Section 33-3113, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 33-3113. SECTARIAN TESTS PROHIBITED. No religious or sectarian test
+41 shall be applied in the admission of students, nor in the selection of in-
+42 structors or other personnel of the college university.
+43 SECTION 12. That Section 33-3114, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+
+7
+1 33-3114. TRANSFER AND CONTROL OF FUNDS. All of the funds and money
+2 in the dormitory fund and dining fund, including any revolving fund, of
+3 the Lewis-Clark Normal School normal school, as the same is authorized by
+4 sections 33-3701--33-3711 33-3701 through 33-3711, Idaho Code, and all of
+5 the unexpended funds hereto allocated and appropriated to the Lewis-Clark
+6 Normal School normal school for the purposes specified therein, and all of
+7 the educational or other endowment funds, holdings, rights, privileges,
+8 and immunities of the Lewiston Normal School normal school, the Northern
+9 Idaho College of Education northern Idaho college of education, and the
+10 Lewis-Clark Normal School normal school, and any allocations or appropri-
+11 ations from the normal school income fund, as provided by section 33-3302,
+12 Idaho Code, are hereby transferred to, vested in, and continued in the
+13 Lewis-Clark State College state university and placed under the control of
+14 its board of trustees, and appropriated for expenditure by it and shall be
+15 paid out by the state treasurer in the manner provided by the constitution
+16 and laws of the state of Idaho. All of the property, real and personal, and
+17 all of the obligations, legal and moral, of the Lewiston Normal School normal
+18 school, the Northern Idaho College of Education northern Idaho college of
+19 education, and of the Lewis-Clark Normal School normal school, are hereby
+20 vested in, or shall become the obligations of, the Lewis-Clark State College
+21 state university.
+22 SECTION 13. That Section 33-3116, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 33-3116. CONSTRUCTION OF REFERENCES TO LEWISTON STATE NORMAL
+25 SCHOOL. Wherever the name Lewiston Normal School normal school, or
+26 Northern Idaho College of Education northern Idaho college of education, or
+27 Lewis-Clark Normal School normal school, shall appear in any statute, such
+28 statute is hereby amended to read Lewis-Clark State College state university
+29 as fully and completely as though the said name on said statute was specifi-
+30 cally amended therein, and all such statutes shall be construed to refer to
+31 and mean Lewis-Clark State College state university.
+32 SECTION 14. That Section 33-3301B, Idaho Code, be, and the same is
+33 hereby amended to read as follows:
+34 33-3301B. NORMAL SCHOOL INCOME FUND. There is established in the state
+35 treasury the normal school income fund. The fund shall consist of all mon-
+36 eys distributed from the normal school earnings reserve fund and from other
+37 sources as the legislature deems appropriate. Moneys in the normal school
+38 income fund shall be used for the benefit of the beneficiaries of the endow-
+39 ment and distributed to current beneficiaries of the normal school endowment
+40 pursuant to legislative appropriation. However, not more than fifty percent
+41 (50%) of earnings of the normal school income fund shall ever be appropriated
+42 for the support and maintenance of either Lewis-Clark State College state
+43 university or the department of education at Idaho State University state
+44 university.
+45 SECTION 15. That Section 33-3302, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+
+8
+1 33-3302. APPROPRIATION FOR LEWIS-CLARK STATE COLLEGE UNIVERSITY. Fi-
+2 fty percent (50%) of all moneys that now are in or which may hereafter accrue
+3 to the normal school income fund are perpetually appropriated and set apart
+4 for the support and maintenance of the Lewis-Clark State College state uni-
+5 versity, the same to be available for such purpose immediately upon their be-
+6 ing credited to the fund.
+7 SECTION 16. That Section 33-3701, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 33-3701. CONTRACTS FOR HOUSING FACILITIES AT STATE INSTITUTIONS. The
+10 state board of education and board of regents of the University university
+11 of Idaho, acting as the board of regents of the University university of
+12 Idaho, or as the board of trustees of the Lewis-Clark State College state
+13 university, or as the board of trustees of the Boise State University state
+14 university, or as the board of trustees of the Idaho State University state
+15 university, are hereby authorized to enter into contracts with persons,
+16 firms, and corporations, for the purpose of providing dormitory and housing
+17 facilities for the students of said institutions; for the purposes the board
+18 may contract for the leasing and purchase of lands and buildings and for the
+19 purchase and installation of fixtures, furniture, furnishings, and equip-
+20 ment in such buildings; the board may contract to pay as rent or otherwise a
+21 sum sufficient to pay, on the amortization plan, the principal and interest
+22 thereon, of the purchase-price of lands and buildings, such contracts to
+23 run not over twenty (20) years; the rate of interest on the principal on any
+24 purchase shall not exceed seven percent (7%) per annum payable semiannually
+25 or annually.
+26 SECTION 17. That Section 33-3717A, Idaho Code, be, and the same is
+27 hereby amended to read as follows:
+28 33-3717A. FEES AT STATE COLLEGES AND UNIVERSITIES. (1) The state board
+29 of education and the board of regents of the university of Idaho may pre-
+30 scribe fees, including tuition fees, for resident and nonresident students
+31 enrolled in all state colleges and universities. For purposes of this sec-
+32 tion, said fees, including tuition fees, may be used for any and all educa-
+33 tional costs at the state colleges and universities including, but not lim-
+34 ited to, costs associated with:
+35 (a) Academic services;
+36 (b) Instruction;
+37 (c) The construction, maintenance, and operation of buildings and fa-
+38 cilities;
+39 (d) Student services; or
+40 (e) Institutional support.
+41 The state board of education also may prescribe fees for all students for any
+42 additional charges that are necessary for the proper operation of each in-
+43 stitution.
+44 (2) A resident student is a student who meets the residency require-
+45 ments imposed by section 33-3717B, Idaho Code.
+46 (3) Nothing contained in this section shall prevent the state board of
+47 education from waiving fees, including tuition fees, to be paid by nonresi-
+
+9
+1 dent students, as defined in section 33-3717C, Idaho Code, who are enrolled
+2 in the state colleges and universities.
+3 (4) Nothing contained in this section shall apply to community colleges
+4 now or hereafter established pursuant to chapter 21, title 33, Idaho Code,
+5 or to postsecondary professional-technical schools now or hereafter estab-
+6 lished and not connected to or a part of a state college or university.
+7 SECTION 18. That Section 33-3726, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 33-3726. HIGHER EDUCATION STABILIZATION FUND. There is hereby created
+10 in the state treasury a fund to be known as the higher education stabiliza-
+11 tion fund. The higher education stabilization fund shall consist of three
+12 (3) separate accounts as follows:
+13 (1) An account designated the strategic interest account shall consist
+14 of interest earnings from the investment of moneys deposited with the state
+15 treasurer into unrestricted current fund 0650-00, as designated by the state
+16 controller in the statewide accounting and reporting system. Annually on
+17 July 1, or as soon thereafter as is practicable, the state controller shall
+18 transfer such interest earnings to the strategic interest account. All mon-
+19 eys so transferred shall be expended for the maintenance, use, and support
+20 of institutions that have deposited moneys into unrestricted current fund
+21 0650-00. All such expenditures shall be subject to legislative appropria-
+22 tion. Institutions shall receive a pro rata share of a legislative appro-
+23 priation based upon the amount of moneys any such institution has deposited
+24 into unrestricted current fund 0650-00 in the current fiscal year compared
+25 to the total amount deposited by all institutions in the current fiscal year.
+26 Interest earned from the investment of moneys in the strategic interest ac-
+27 count shall be retained in the strategic interest account.
+28 (2) An account designated the surplus stabilization account shall
+29 consist of any other moneys made available through legislative transfers,
+30 appropriations, or otherwise provided by law, or from any other governmen-
+31 tal source. All such moneys shall be expended for the maintenance, use, and
+32 support of institutions named in section 33-3803, Idaho Code. Such expendi-
+33 tures shall be made subject to legislative appropriation to the state board
+34 of education for college and universities. Distribution of such moneys to
+35 institutions shall be based upon the state board of education's established
+36 practices for the allocation of moneys to such institutions. Interest
+37 earned from the investment of moneys in this surplus stabilization account
+38 shall be retained in this surplus stabilization account.
+39 (3) An account designated the surplus stabilization account for col-
+40 lege of eastern Idaho, north Idaho college, college of southern Idaho, and
+41 college of western Idaho shall consist of any other moneys made available
+42 through legislative transfers, appropriations, or otherwise provided by
+43 law, or from any other governmental source. All such moneys shall be ex-
+44 pended for the maintenance, use, and support of college of eastern Idaho,
+45 north Idaho college, college of southern Idaho, and college of western
+46 Idaho. Such expenditures shall be made subject to legislative appropriation
+47 to the community colleges. Distribution of such moneys shall be based on the
+48 state board of education's established practices for the allocation of mon-
+49 eys to the community colleges. Interest earned from the investment of moneys
+
+10
+1 in this surplus stabilization account shall be retained in this surplus sta-
+2 bilization account.
+3 SECTION 19. That Section 33-3803, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 33-3803. STATE EDUCATIONAL INSTITUTIONS AS BODIES POLITIC AND CORPO-
+6 RATE -- POWERS OF BOARDS. Each of the following institutions is hereby con-
+7 stituted and confirmed a body politic and corporate and a separate and in-
+8 dependent legal entity and is hereby further constituted and confirmed as a
+9 governmental instrumentality for the dissemination of knowledge and learn-
+10 ing: "The Regents of the University of Idaho," "Lewis-Clark State College,"
+11 "Idaho State University," and "Boise State University." the regents of the
+12 university of Idaho, Lewis-Clark state university, Idaho state university,
+13 and Boise state university. A corporate purpose of every institution, in ad-
+14 dition to any other purposes thereof, shall be to acquire any project. The
+15 powers of every institution delegated to it by this act shall be vested in and
+16 exercised by a majority of all the members of its board, and a majority of all
+17 the members of such board shall be a quorum for the transaction of any busi-
+18 ness authorized by this act, but a lesser number may adjourn and compel the
+19 attendance of absent members.
+20 SECTION 20. That Section 41-4002, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 41-4002. DEFINITIONS. For the purposes of this chapter unless context
+23 otherwise requires:
+24 (1) "Administrator" is a person, if other than the trustee, employed
+25 or contracted by the trustee to provide administrative services to a self-
+26 funded plan.
+27 (2) "Beneficiary" is any individual entitled, under the self-funded
+28 plan, to payment by the trust fund of any part or all of the cost of any health
+29 care service rendered to such beneficiary.
+30 (3) "Claims liability" is the total of all incurred and unpaid claims,
+31 including incurred but not reported claims, for allowable benefits under a
+32 self-funded plan that are not reimbursed or reimbursable by stop-loss insur-
+33 ance provided by a carrier authorized to transact insurance in this state.
+34 (4) "Contribution" is the amount paid or payable by the employer or
+35 employee, or a postsecondary educational institution or student, into the
+36 trust fund.
+37 (5) "Department" is the Idaho department of insurance.
+38 (6) "Director" is the director of the department of insurance.
+39 (7) "Irrevocable trust agreement" is a trust agreement whereby under
+40 the terms thereof the plan sponsor cannot retain the power to alter, amend,
+41 revoke, or terminate the transfer of funds or property held in trust.
+42 (8) "Multiple employer welfare arrangement" or "multiple employer wel-
+43 fare plan" shall have the same meaning as that given to the term "multiple em-
+44 ployer welfare arrangement" by the employee retirement income security act
+45 of 1974, as amended.
+46 (9) "Person" is any individual, corporation, limited liability com-
+47 pany, partnership, association, firm, syndicate, organization, educational
+
+11
+1 institution, or any other public or private entity organized or recognized
+2 under the laws of the state of Idaho.
+3 (10) "Plan sponsor" is any person who creates a self-funded health bene-
+4 fit plan for the benefit of any employer and employee or employees, or a post-
+5 secondary educational institution and student or students.
+6 (11) "Postsecondary educational institution" is a person whose primary
+7 purpose is to provide a postsecondary education that offers or awards edu-
+8 cational degrees and that provides courses or programs that lead to an edu-
+9 cational degree, that is legally authorized and maintains a presence in the
+10 state of Idaho, and that has an average annualized enrollment of eight hun-
+11 dred (800) or more full-time students located in Idaho.
+12 (12) "Public postsecondary educational institution" means Boise
+13 State University, Idaho State University, Lewis-Clark State College and
+14 the University of Idaho Boise state university, Idaho state university,
+15 Lewis-Clark state university, and the university of Idaho, along with the
+16 board of regents and board of trustees thereof.
+17 (13) "Qualified actuary" is an actuary having experience in establish-
+18 ing rates for a self-funded plan and the health services being provided, and
+19 who is also a fellow of the society of actuaries, a member of the American
+20 academy of actuaries, or an enrolled actuary under the employee retirement
+21 income security act of 1974, as amended.
+22 (14) "Self-funded plan" or "plan" is any single employer plan, public
+23 postsecondary educational institution plan, or multiple employer welfare
+24 plan, or any other single or multiple employer plan, or any postsecondary
+25 educational institution student health benefit plan, other than a plan pro-
+26 viding only benefits under title 72, Idaho Code, under which payment for med-
+27 ical, surgical, hospital, and other services for prevention, diagnosis, or
+28 treatment of any disease, injury, or bodily condition of an employee is, or
+29 is to be, regularly provided for or promised from funds created or maintained
+30 in whole or in part by contributions or payments thereto by the employer or
+31 employers, or by the employer or employers and the employees, or by a post-
+32 secondary educational institution and students at said institution, or stu-
+33 dents of a postsecondary educational institution, who are not otherwise cov-
+34 ered by insurance or contract with a health care service corporation or man-
+35 aged care organization authorized to transact business in this state.
+36 (15) "Single employer" is any individual, sole proprietorship, busi-
+37 ness, partnership, corporation, limited liability company, firm, or any
+38 other form of legally recognized entity or a group of two (2) or more em-
+39 ployers under "common control" as defined in section 3(40)(B)(iii) of the
+40 employee retirement income security act of 1974, as amended.
+41 (16) "Student" is an individual enrolled in a postsecondary educational
+42 institution.
+43 (17) "Surplus" is the excess of the assets of a self-funded plan minus
+44 the liabilities of the plan, provided the liabilities of a self-funded plan
+45 shall include the claims liability of the plan.
+46 (18) "Trust fund" is a trust fund established in conjunction with a
+47 self-funded plan for receipt of contributions of employer and employees,
+48 postsecondary educational institution and students, and payment of or with
+49 respect to health care service costs of beneficiaries.
+
+12
+1 (19) "Trustee" is the trustee, whether a single or multiple trustee, of
+2 the trust fund.
+3 SECTION 21. That Section 67-2332A, Idaho Code, be, and the same is
+4 hereby amended to read as follows:
+5 67-2332A. INTERAGENCY CONTRACTS WITH STATE INSTITUTIONS OF HIGHER ED-
+6 UCATION. (1) Notwithstanding the provisions of section 67-2332, Idaho Code,
+7 no agency may enter into a noncompetitive contract with a state institution
+8 of higher education unless authorized pursuant to section 67-9221, Idaho
+9 Code. When seeking a contract with a state institution of higher education,
+10 an agency shall determine each state institution of higher education's in-
+11 terest in competing for the contract. If more than one (1) state institution
+12 of higher education indicates an interest in competing, the agency shall
+13 seek quotes or proposals and award the contract to the state institution of
+14 higher education it determines provided the best offer based on cost and
+15 other relevant criteria.
+16 (2) The provisions of subsection (1) of this section do not apply to
+17 procurements of surplus property governed by other state or federal law.
+18 (3) As used in this section:
+19 (a) "Agency" has the same meaning as provided in section 67-9203(3),
+20 Idaho Code.
+21 (b) "State institution of higher education" means Boise state univer-
+22 sity, Idaho state university, Lewis-Clark state college university, or
+23 the university of Idaho.
+24 SECTION 22. That Section 67-5302, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 67-5302. DEFINITIONS. As used in this chapter and other applicable
+27 sections of the Idaho Code, each of the terms defined in this section shall
+28 have the meaning given in this section unless a different meaning is clearly
+29 required by the context. Such terms and their definitions are:
+30 (1) "Administrative employee" means any person, nonclassified or clas-
+31 sified, appointed to a position that meets the criteria set forth in the fed-
+32 eral fair labor standards act, 29 U.S.C. 201 et seq. Final designation of
+33 a classified position as "administrative" within this definition shall be
+34 made by the administrator of the division of human resources. Exceptions to
+35 this designation that do not violate the federal fair labor standards act, 29
+36 U.S.C. 201 et seq., may be made by the administrator.
+37 (2) "Administrator" means the administrator of the division of human
+38 resources in the governor's office.
+39 (3) "Appointing authority" means the officer, board, commission, per-
+40 son, or group of persons authorized by statute or lawfully delegated author-
+41 ity to make appointments to or employ personnel in any department.
+42 (4) "Class" means a group of positions sufficiently similar as to the
+43 duties performed, degree of supervision exercised or required, minimum re-
+44 quirements of training, experience or skill, and other characteristics that
+45 the same title, the same tests of fitness, and the same schedule of compensa-
+46 tion may be applied to each position in the group.
+
+13
+1 (5) "Classified officer" or "classified employee" means any person ap-
+2 pointed to or holding a position in any department of the state of Idaho,
+3 which position is subject to the provisions of the merit examination, selec-
+4 tion, retention, promotion, and dismissal requirements of section 67-5309,
+5 Idaho Code.
+6 (6) "Commission" means the Idaho personnel commission.
+7 (7) "Compensatory time" means approved time off from duty provided in
+8 compensation for overtime hours worked.
+9 (8) "Computer worker" means any person, nonclassified or classified,
+10 appointed to a position that meets the criteria set forth in the federal fair
+11 labor standards act, 29 U.S.C. 201 et seq. Final designation of a classified
+12 position as "computer worker" within this definition shall be made by the ad-
+13 ministrator of the division of human resources. Exceptions to this designa-
+14 tion that do not violate the federal fair labor standards act, 29 U.S.C. 201
+15 et seq., may be made by the administrator.
+16 (9) "Department" means any department, agency, institution, or office
+17 of the state of Idaho.
+18 (10) "Disabled veteran" is as defined in section 65-502, Idaho Code.
+19 (11) "Eligible" means a person who has been determined to be qualified
+20 for a classified position and whose name has been placed on the register of
+21 eligibles.
+22 (12)(a) "Executive employee" means any person appointed to a position
+23 equivalent to a bureau chief or above as provided in section 67-2402,
+24 Idaho Code, or any employee whose primary duty is management of a de-
+25 partment, division, or bureau and:
+26 (i) Who customarily and regularly directs the work of at least two
+27 (2) or more other employees therein;
+28 (ii) Who has the authority to hire and fire, or to recommend hiring
+29 and firing; or whose recommendation on these and other actions af-
+30 fecting employees is given particular weight; and
+31 (iii) Who customarily and regularly exercises discretionary pow-
+32 ers.
+33 (b) Final designation of a position as "executive" in this definition
+34 shall be made by the administrator. Exceptions to this designation that
+35 do not violate the federal fair labor standards act, 29 U.S.C. 201 et
+36 seq., may be made by the administrator.
+37 (13) "Exempt employee" means any employee, classified or nonclassi-
+38 fied, who is determined to be an executive, professional, or administrative
+39 employee as defined in this section or who qualifies for any other exemption
+40 from cash compensation for overtime under applicable federal law. Final
+41 designation of a classified position as exempt shall be made by the adminis-
+42 trator.
+43 (14) "Full-time employee" means any employee working a forty (40) hour
+44 workweek.
+45 (15)(a) "Holiday" means any day so designated by the president of the
+46 United States or the governor of this state for a public fast, thanks-
+47 giving, or holiday. Holidays are enumerated in section 73-108, Idaho
+48 Code.
+
+14
+1 (b) In the event that a holiday occurs on a Saturday, the preceding Fri-
+2 day shall be a holiday, and if the holiday falls on a Sunday, the follow-
+3 ing Monday shall be a holiday.
+4 (c) A holiday is a day of exemption from work granted to nonexecutive
+5 employees during which said employees shall be compensated as if they
+6 actually worked. Employees classified as executive exempt are entitled
+7 to eleven (11) paid holidays per year. If such an employee works on one
+8 (1) of the official holidays listed in this subsection, then such em-
+9 ployee may take an alternative day off but shall not receive additional
+10 compensation.
+11 (16) "Hours worked" means those hours actually spent in the performance
+12 of the employee's job on any day including holidays and shall not include va-
+13 cation or sick leave or other approved leave of absence.
+14 (17) "Nonclassified employee" means any person appointed to or holding
+15 a position in any department of the state of Idaho, which position is ex-
+16 empted from the merit provisions of section 67-5309(e), (f), (g), (j), (m),
+17 (o), (p), (w), and (x), Idaho Code.
+18 (18) "Normal workweek" means any forty (40) hours worked during a par-
+19 ticular one hundred sixty-eight (168) hour period as previously established
+20 by the employee's appointing authority.
+21 (19) "Open competitive examination" means an examination that may be
+22 taken by qualified applicants to compete on an equal basis for listing on the
+23 register of eligibles for a classified position.
+24 (20) "Overtime work" means:
+25 (a) Time worked on holidays and time worked in excess of forty (40)
+26 hours in a period of one hundred sixty-eight (168) consecutive hours;
+27 (b) Upon designation from the administrator and in the case of those
+28 employees engaged in law enforcement, correctional, and fire protec-
+29 tion activities characterized by irregular shift work schedules, time
+30 worked in excess of one hundred sixty (160) hours in a period of twenty-
+31 eight (28) consecutive days;
+32 (c) Upon designation from the administrator and in the case of certain
+33 employees who meet federal exemption requirements, time worked in ex-
+34 cess of eighty (80) hours within a period of fourteen (14) consecutive
+35 days; or
+36 (d) Time worked by employees during specific hours in addition to their
+37 normal schedules upon emergency declaration by the governor or with the
+38 approval of the appointing authority and the board of examiners.
+39 (21) "Participating department" means any department of the state of
+40 Idaho in the executive department reporting to the governor or a board or
+41 commission appointed by the governor.
+42 (22) "Part-time employee" means any employee whose usually scheduled
+43 work is fewer than forty (40) hours in a period of one hundred sixty-eight
+44 (168) consecutive hours and who is not entitled to sick leave accruals pro-
+45 vided in section 67-5333, Idaho Code, vacation leave provided in section
+46 67-5334, Idaho Code, or holiday pay as defined in subsection (15) of this
+47 section, unless contributions are being made to the public employee retire-
+48 ment system in accordance with chapter 13, title 59, Idaho Code, and rules
+49 promulgated by the public employee retirement system board.
+
+15
+1 (23) "Personnel system" means the procedure for administering employ-
+2 ees in accordance with this chapter.
+3 (24) "Political office" means a public office for which partisan poli-
+4 tics is a basis for nomination, election, or appointment.
+5 (25) "Political organization" means a party that sponsors candidates
+6 for election to political office.
+7 (26) "Position" means a group of duties and responsibilities legally
+8 assigned or delegated by one (1) or more appointing authorities and requir-
+9 ing the employment of one (1) person.
+10 (27) "Professional employee" means any person, nonclassified or clas-
+11 sified, appointed to a position that meets the criteria set forth in the fed-
+12 eral fair labor standards act, 29 U.S.C. 201 et seq. Final designation of a
+13 classified position as professional shall be made by the administrator. Ex-
+14 ceptions to this designation that do not violate the federal fair labor stan-
+15 dards act, 29 U.S.C. 201 et seq., may be made by the administrator.
+16 (28) "Public education entity" means community colleges, public school
+17 districts, public charter schools, and the Idaho digital learning academy.
+18 (29) "Qualifying examination" means an examination or evaluation given
+19 to a selected person to determine eligibility for reclassification or ap-
+20 pointment to a position in a classification.
+21 (30) "Register" means a list of names of persons who have been deter-
+22 mined to be eligible for employment in a classified position as determined on
+23 the basis of examination and merit factors as established by the administra-
+24 tor.
+25 (31) "Seasonal appointment" means an appointment to a position that is
+26 permanent in nature but that has intermittent work periods throughout the
+27 year.
+28 (32) "Service rating" means a recorded evaluation of work performance
+29 and promotional potential of an employee by his supervisor.
+30 (33) "State educational agency" means the following state agencies and
+31 educational institutions under the governance of the Idaho state board of
+32 education:
+33 (a) Boise state university;
+34 (b) Idaho state university;
+35 (c) University of Idaho;
+36 (d) Lewis-Clark state college university;
+37 (e) Idaho public television;
+38 (f) The division of vocational rehabilitation;
+39 (g) The division of career technical education;
+40 (h) The office of the state board of education;
+41 (i) The state department of education; and
+42 (j) The public charter school commission.
+43 (34) "Temporary appointment" means appointment to a position that is
+44 not permanent in nature and in which employment will not exceed one thousand
+45 three hundred eighty-five (1,385) hours during any twelve (12) month period.
+46 No person holding a temporary appointment may work in excess of one thousand
+47 three hundred eighty-five (1,385) hours during a twelve (12) month period
+48 of time for any one (1) department; provided, however, upon petition by the
+49 appointing authority that demonstrates good cause, the administrator of
+
+16
+1 the division of human resources may extend the one thousand three hundred
+2 eighty-five (1,385) hour limit for:
+3 (a) Employees of the department of lands who are required to perform
+4 fire suppression activities; and
+5 (b) Employees hired under approved apprenticeship programs.
+6 (35) "Vacation leave" means a period of exemption from work during which
+7 employees shall be compensated. The term shall not include compensatory
+8 time for overtime work.
+9 (36) "Veteran" is as defined in section 65-203, Idaho Code.
+10 SECTION 23. That Section 67-9203, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 67-9203. DEFINITIONS. As used in this chapter:
+13 (1) "Acquisition" means the process of procuring property.
+14 (2) "Administrator" means the administrator of the division of pur-
+15 chasing as created by section 67-9204, Idaho Code.
+16 (3) "Agency" means all officers, departments, divisions, bureaus,
+17 boards, commissions, and institutions of the state, including the public
+18 utilities commission, but excluding:
+19 (a) The legislative and judicial branches of government;
+20 (b) The governor, lieutenant governor, secretary of state, state con-
+21 troller, state treasurer, attorney general, and superintendent of pub-
+22 lic instruction; and
+23 (c) Except as provided in section 67-9234, Idaho Code, a state insti-
+24 tution of higher education that complies with the provisions of section
+25 67-9225, Idaho Code.
+26 (4) "Bid" means a written offer to perform a contract to sell or other-
+27 wise supply property in response to a solicitation.
+28 (5) "Bidder" means a vendor who has submitted a bid on property to be
+29 acquired by the state.
+30 (6) "Contract" means an agreement for the acquisition of property, in-
+31 cluding a purchase order.
+32 (7) "Contractor" means a vendor who has been awarded a contract.
+33 (8) "Director" means the director of the department of administration
+34 as created by section 67-5701, Idaho Code.
+35 (9) "Environmental, social, and governance standards" means procure-
+36 ment standards that screen or score bids, in whole or in part, on subjective
+37 ethical or sustainability criteria unrelated to the specifications in a so-
+38 licitation or the qualifications of a bidder.
+39 (10) "Lowest responsible bidder" means the responsible bidder whose bid
+40 reflects the lowest acquisition price to be paid by the state, except that
+41 when specifications are valued or comparative performance evaluations are
+42 conducted, the results of such examinations and the relative score of valued
+43 specifications will be weighed, as set out in the specifications, in deter-
+44 mining the lowest acquisition price.
+45 (11) "Open contract" means a contract awarded by the state through the
+46 division of purchasing as a result of a competitive solicitation to one (1)
+47 or more vendors who have agreed to allow all agencies to procure specified
+48 property under the terms and conditions set forth in the contract.
+
+17
+1 (12) "Procure" means to obtain property for state use in a manner other
+2 than by gift including, but not limited to, purchase, lease, or rent.
+3 (13) "Property" means goods, services, parts, supplies, and equipment,
+4 both tangible and intangible, including, but not limited to, designs, plans,
+5 programs, systems, techniques, and any rights or interests in such property.
+6 (14) "Sole source" means the only vendor from whom specific property is
+7 available to procure.
+8 (15) "Solicitation" means an invitation to bid, a request for proposal,
+9 or a request for quote issued pursuant to this chapter for the purpose of
+10 procuring property.
+11 (16) "Specifications" means the standards or requirements for property
+12 to be procured as explicitly stated in a solicitation or contract.
+13 (17) "State institution of higher education" means Boise state univer-
+14 sity, Idaho state university, or Lewis-Clark state college university.
+15 (18) "Vendor" means a person or entity capable of supplying property to
+16 the state.
+17 SECTION 24. That Section 67-9801, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 67-9801. DEFINITIONS. As used in this chapter:
+20 (1) "Changing room" means a room or area in which a person may be in a
+21 state of undress in the presence of others, including a locker room or shower
+22 room.
+23 (2) "Correctional facility" means a state correctional facility or lo-
+24 cal correctional facility as defined in section 19-4201A, Idaho Code.
+25 (3) "Covered entity" means a correctional facility, domestic violence
+26 shelter, juvenile correctional center, or state educational institution.
+27 (4) "Domestic violence shelter" means a state-operated facility that
+28 provides services, including food, housing, counseling, and assistance to
+29 victims of domestic violence or abuse and their minor dependent children in
+30 this state.
+31 (5) "Female" has the same meaning as set forth in section 73-114, Idaho
+32 Code.
+33 (6) "Juvenile correctional center" means any state-operated residen-
+34 tial facility or facility operated pursuant to a contract with the state that
+35 provides twenty-four (24) hour supervision and confinement for juvenile of-
+36 fenders committed to the custody of the department of juvenile corrections.
+37 (7) "Male" has the same meaning as set forth in section 73-114, Idaho
+38 Code.
+39 (8) "Multi-occupancy" means a space that is designated for use by mul-
+40 tiple persons simultaneously.
+41 (9) "Restroom" means a room that includes one (1) or more toilets or
+42 urinals.
+43 (10) "Sex" has the same meaning as set forth in section 73-114, Idaho
+44 Code.
+45 (11) "Sleeping quarters" means a room with more than one (1) bed and in
+46 which more than one (1) individual is housed overnight.
+47 (12) "State educational institution" means the university of Idaho,
+48 Lewis-Clark state college university, Idaho state university, Boise state
+49 university, the school for the deaf and the blind, and any public community
+
+18
+1 colleges under the general supervision, governance, and control of the state
+2 board of education.
+3 SECTION 25. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after its
+5 passage and approval.

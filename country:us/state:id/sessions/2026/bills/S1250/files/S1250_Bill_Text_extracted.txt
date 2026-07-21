@@ -1,0 +1,225 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1250
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO RECORDS EXEMPT FROM DISCLOSURE; AMENDING SECTION 74-105, IDAHO
+3 CODE, TO PROVIDE THAT CERTAIN RECORDS SHALL BE EXEMPT FROM DISCLOSURE,
+4 TO PROVIDE AN EXCEPTION, AND TO DEFINE A TERM; AND DECLARING AN EMER-
+5 GENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 74-105, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 74-105. RECORDS EXEMPT FROM DISCLOSURE -- LAW ENFORCEMENT RECORDS,
+10 INVESTIGATORY RECORDS OF AGENCIES, EVACUATION AND EMERGENCY RESPONSE PLANS,
+11 WORKER'S COMPENSATION. The following records are exempt from disclosure:
+12 (1) Investigatory records of a law enforcement agency as defined in
+13 section 74-101(7), Idaho Code, under the conditions set forth in section
+14 74-124, Idaho Code.
+15 (2) Juvenile records of a person maintained pursuant to chapter 5,
+16 title 20, Idaho Code, except that facts contained in such records shall be
+17 furnished upon request in a manner determined by the court to persons and
+18 governmental and private agencies and institutions conducting pertinent
+19 research studies or having a legitimate interest in the protection, welfare
+20 and treatment of the juvenile who is thirteen (13) years of age or younger.
+21 If the juvenile is petitioned or charged with an offense that would be a
+22 criminal offense if committed by an adult, the name, offense of which the
+23 juvenile was petitioned or charged, and disposition of the court shall be
+24 subject to disclosure as provided in section 20-525, Idaho Code. Addi-
+25 tionally, facts contained in any records of a juvenile maintained pursuant
+26 to chapter 5, title 20, Idaho Code, shall be furnished upon request to any
+27 school district where the juvenile is enrolled or is seeking enrollment.
+28 (3) Records of the custody review board of the Idaho department of ju-
+29 venile corrections, including records containing the names, addresses and
+30 written statements of victims and family members of juveniles, shall be ex-
+31 empt from public disclosure pursuant to section 20-533A, Idaho Code.
+32 (4)(a) The following records of the department of correction:
+33 (i) Records of which the public interest in confidentiality, pub-
+34 lic safety, security and habilitation clearly outweighs the pub-
+35 lic interest in disclosure as identified pursuant to the authority
+36 of the state board of correction under section 20-212, Idaho Code;
+37 (ii) Records that contain any identifying information or any in-
+38 formation that would lead to the identification of any victims or
+39 witnesses;
+40 (iii) Records that reflect future transportation or movement of a
+41 prisoner;
+
+2
+1 (iv) Records gathered during the course of the presentence inves-
+2 tigation; and
+3 (v) Records of a prisoner as defined in section 74-101(10), Idaho
+4 Code, or probationer shall not be disclosed to any other prisoner
+5 or probationer.
+6 (b) Records, other than public expenditure records, related to pro-
+7 posed or existing critical infrastructure held by or in the custody
+8 of any public agency only when the disclosure of such information is
+9 reasonably likely to jeopardize the safety of persons, property or the
+10 public safety. Such records may include emergency evacuation, escape
+11 or other emergency response plans, vulnerability assessments, oper-
+12 ation and security manuals, plans, blueprints or security codes. For
+13 purposes of this paragraph, "system" includes electrical, computer
+14 and telecommunications systems, electric power (including produc-
+15 tion, generating, transportation, transmission and distribution), and
+16 heating, ventilation, and air conditioning. For purposes of this sub-
+17 section, "critical infrastructure" means any system or asset, whether
+18 physical or virtual, so vital to the state of Idaho, including its po-
+19 litical subdivisions, that the incapacity or destruction of such system
+20 or asset would have a debilitating impact on state or national economic
+21 security, state or national public health or safety, or any combination
+22 of those matters.
+23 (c) Records of the Idaho commission of pardons and parole shall be ex-
+24 empt from public disclosure pursuant to sections 20-1003 and 20-1005,
+25 Idaho Code. Records exempt from disclosure shall also include those
+26 containing the names, addresses and written statements of victims.
+27 (5) Voting records of the former sexual offender classification board.
+28 The written record of the vote to classify an offender as a violent sexual
+29 predator by each board member in each case reviewed by that board member
+30 shall be exempt from disclosure to the public and shall be made available
+31 upon request only to the governor, the chairman of the senate judiciary and
+32 rules committee, and the chairman of the house of representatives judiciary,
+33 rules and administration committee for all lawful purposes.
+34 (6) Records of the sheriff or Idaho state police received or maintained
+35 pursuant to sections 18-3302, 18-3302H and 18-3302K, Idaho Code, relating
+36 to an applicant or licensee, except that any law enforcement officer and law
+37 enforcement agency, whether inside or outside the state of Idaho, may access
+38 information maintained in the license record system as set forth in section
+39 18-3302K(16), Idaho Code.
+40 (7) Records of investigations prepared by the department of health and
+41 welfare pursuant to its statutory responsibilities dealing with the protec-
+42 tion of children, the rehabilitation of youth, adoptions and the commitment
+43 of mentally ill persons. For reasons of health and safety, best interests of
+44 the child or public interest, the department of health and welfare may pro-
+45 vide for the disclosure of records of investigations associated with actions
+46 pursuant to the provisions of chapter 16, title 16, Idaho Code, prepared by
+47 the department of health and welfare pursuant to its statutory responsibil-
+48 ities dealing with the protection of children, except any such records re-
+49 garding adoptions shall remain exempt from disclosure.
+
+3
+1 (8) Records, including but not limited to investigative reports, re-
+2 sulting from investigations conducted into complaints of discrimination
+3 made to the Idaho human rights commission, unless the public interest in
+4 allowing inspection and copying of such records outweighs the legitimate
+5 public or private interest in maintaining confidentiality of such records.
+6 A person may inspect and copy documents from an investigative file to which
+7 he or she is a named party if such documents are not otherwise prohibited from
+8 disclosure by federal law or regulation or state law. The confidentiality of
+9 this subsection will no longer apply to any record used in any judicial pro-
+10 ceeding brought by a named party to the complaint or investigation, or by the
+11 Idaho human rights commission, relating to the complaint of discrimination.
+12 (9) Records containing information obtained by the manager of the Idaho
+13 state insurance fund pursuant to chapter 9, title 72, Idaho Code, from or on
+14 behalf of employers or employees contained in underwriting and claims for
+15 benefits files.
+16 (10) The worker's compensation records of the Idaho industrial commis-
+17 sion, provided that the industrial commission shall make such records avail-
+18 able:
+19 (a) To the parties in any worker's compensation claim and to the indus-
+20 trial special indemnity fund of the state of Idaho; or
+21 (b) To employers and prospective employers subject to the provisions of
+22 the Americans with disabilities act, 42 U.S.C. 12112, or other statu-
+23 tory limitations, who certify that the information is being requested
+24 with respect to a worker to whom the employer has extended an offer of
+25 employment and will be used in accordance with the provisions of the
+26 Americans with disabilities act, 42 U.S.C. 12112, or other statutory
+27 limitations; or
+28 (c) To employers and prospective employers not subject to the provi-
+29 sions of the Americans with disabilities act, 42 U.S.C. 12112, or other
+30 statutory limitations, provided the employer presents a written autho-
+31 rization from the person to whom the records pertain; or
+32 (d) To others who demonstrate that the public interest in allowing in-
+33 spection and copying of such records outweighs the public or private in-
+34 terest in maintaining the confidentiality of such records, as deter-
+35 mined by a civil court of competent jurisdiction; or
+36 (e) Although a claimant's records maintained by the industrial commis-
+37 sion, including medical and rehabilitation records, are otherwise ex-
+38 empt from public disclosure, the quoting or discussing of medical or re-
+39 habilitation records contained in the industrial commission's records
+40 during a hearing for compensation or in a written decision issued by the
+41 industrial commission shall be permitted; provided further, the true
+42 identification of the parties shall not be exempt from public disclo-
+43 sure in any written decision issued and released to the public by the in-
+44 dustrial commission.
+45 (11) Records of investigations compiled by the commission on aging in-
+46 volving vulnerable adults as defined in section 18-1505, Idaho Code, alleged
+47 to be abused, neglected or exploited.
+48 (12) Criminal history records and fingerprints as defined in section
+49 67-3001, Idaho Code, and compiled by the Idaho state police. Such records
+50 shall be released only in accordance with chapter 30, title 67, Idaho Code.
+
+4
+1 (13) Records furnished or obtained pursuant to section 41-1019, Idaho
+2 Code, regarding termination of an appointment, employment, contract or
+3 other insurance business relationship between an insurer and a producer.
+4 (14) Records of a prisoner or former prisoner in the custody of any state
+5 or local correctional facility, when the request is made by another prisoner
+6 in the custody of any state or local correctional facility.
+7 (15) Except as provided in section 72-1007, Idaho Code, records of the
+8 Idaho industrial commission relating to compensation for crime victims pur-
+9 suant to chapter 10, title 72, Idaho Code.
+10 (16) Records or information identifying a complainant maintained by the
+11 department of health and welfare pursuant to section 39-3556, Idaho Code,
+12 relating to certified family homes, unless the complainant consents in writ-
+13 ing to the disclosure or the disclosure of the complainant's identity is re-
+14 quired in any administrative or judicial proceeding.
+15 (17) Records of any certification or notification required by federal
+16 law to be made in connection with the acquisition or transfer of a firearm,
+17 including a firearm as defined in 26 U.S.C. 5845(a).
+18 (18) Records of the office of the state public defender and the office of
+19 the state appellate public defender containing information protected or ex-
+20 empted from disclosure under the rules adopted by the Idaho supreme court,
+21 attorney work product, attorney-client privileged communication, records
+22 containing confidential information from an individual about his criminal
+23 case or performance of his attorney, or confidential information about an
+24 inquiry into an attorney's fitness to represent indigent defendants.
+25 (19) Records and information received by the office of the state con-
+26 troller from any local government, state agency and department, or volunteer
+27 nongovernmental entity for purposes of entry into the criminal justice
+28 integrated data system pursuant to section 19-4803, Idaho Code, and all
+29 records created by persons authorized to research and analyze information
+30 entered into the criminal justice integrated data system, regardless of
+31 whether such records were previously exempted from disclosure or redacted
+32 pursuant to state or federal law or court order. This exemption does not
+33 apply to projects, reports, and data analyses approved for release by the
+34 data oversight council and issued by persons authorized to conduct research
+35 and analysis as set forth in chapter 48, title 19, Idaho Code. Records and
+36 information relating to the management of the criminal justice integrated
+37 data system shall not be exempt from disclosure except as otherwise provided
+38 in law.
+39 (20) Records that contain any identifying information or any informa-
+40 tion that could lead to the identification of any persons or entities that
+41 participate in or assist with an execution of a death sentence as described
+42 in section 19-2716A, Idaho Code.
+43 (21) Records, other than public expenditure records, relating to
+44 the nature, location, or function of cybersecurity devices, programs, or
+45 systems designed to protect computer, information technology, or communica-
+46 tions systems against terrorist or other attacks.
+47 (22) Any index, report, or records of any person arrested for, prose-
+48 cuted for, or convicted of a crime in this state who has successfully peti-
+49 tioned a court to have his records shielded from disclosure pursuant to sec-
+50 tion 67-3004(11), Idaho Code.
+
+5
+1 (23) Any record of an unlawful detainer under section 6-303, Idaho Code,
+2 if shielded by the court pursuant to section 6-303A, Idaho Code.
+3 (24) Any photographs or images of a decedent taken as part of a coroner
+4 death investigation or law enforcement investigation regardless of whether
+5 such investigation is active or not; however, such photographs or images may
+6 be disclosed upon request to a decedent's next of kin once the coroner death
+7 investigation, law enforcement investigation, and criminal case, including
+8 all appeals and all civil proceedings related to the criminal case, are no
+9 longer active. As used in this subsection, "next of kin" means the closest
+10 living relative in the order of spouse, adult children, parents, siblings,
+11 and grandparents.
+12 SECTION 2. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2026.

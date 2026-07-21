@@ -1,0 +1,127 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 793
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO BEER; AMENDING SECTION 23-940, IDAHO CODE, TO PROVIDE FOR COL-
+3 LECTIONS FROM THE BEER EXCISE TAX; AMENDING SECTION 23-1008, IDAHO
+4 CODE, TO REVISE A PROVISION REGARDING DISTRIBUTION OF REVENUE AND TO
+5 REMOVE OBSOLETE LANGUAGE; AND DECLARING AN EMERGENCY AND PROVIDING AN
+6 EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 23-940, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 23-940. ALCOHOL BEVERAGE CONTROL FUND. (1) There is hereby created in
+11 the state treasury the alcohol beverage control fund. All moneys from li-
+12 cense and transfer fees that are collected by the director pursuant to the
+13 provisions of this chapter, as well as any collections from the beer excise
+14 tax as provided in section 23-1008, Idaho Code, shall be paid over to the
+15 state treasurer for deposit in the alcohol beverage control fund. Expendi-
+16 tures of moneys in the fund shall be subject to legislative appropriation for
+17 the use of the Idaho state police alcohol beverage control bureau in carrying
+18 out the provisions of title 23, Idaho Code, and the rules promulgated by the
+19 director thereunder. At the beginning of each fiscal year, those moneys in
+20 the alcohol beverage control fund that exceed two hundred percent (200%) of
+21 that fiscal year appropriation, as certified by the state treasurer, shall
+22 be transferred to the general fund.
+23 (2) All other moneys collected by the director pursuant to the provi-
+24 sions of this chapter shall be paid over to the state treasurer for deposit in
+25 the general fund.
+26 SECTION 2. That Section 23-1008, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 23-1008. TAX -- DISTRIBUTION -- RULES -- REPORTS. (1) A tax of four
+29 dollars and sixty-five cents ($4.65) per barrel of thirty-one (31) gallons,
+30 and a like rate for any other quantity or fraction thereof, is hereby levied
+31 and imposed on each and every barrel of beer containing not more than five
+32 percent (5%) of alcohol by volume sold for use within the state of Idaho.
+33 A tax of thirteen dollars and ninety-five cents ($13.95) per barrel of
+34 thirty-one (31) gallons, and a like rate for any other quantity or fraction
+35 thereof, is hereby levied and imposed on each and every barrel of beer con-
+36 taining more than five percent (5%) of alcohol by volume.
+37 Any wholesaler who shall sell beer, upon which the tax herein imposed
+38 has not been paid, and any person who shall purchase, receive, transport,
+39 store or sell any beer upon which the tax herein imposed has not been paid
+40 shall be guilty of a misdemeanor, and any beer so purchased, received, trans-
+
+2
+1 ported, stored or possessed or sold shall be subject to seizure by the com-
+2 mission, any inspector or investigator of the commission, or by any sheriff,
+3 constable or other police officer, and the same may be removed and kept for
+4 evidence. Upon conviction of any person for violation of the provisions of
+5 this section, the said beer, and all barrels, kegs, cases, cartons and cans
+6 containing the same, shall be forfeited to the state of Idaho, and, in addi-
+7 tion, the person so convicted shall be subject to the other penalties in this
+8 chapter prescribed.
+9 Beer and all barrels, kegs, cases, cartons or cans so forfeited to
+10 the state of Idaho shall be sold by the commission at public auction to any
+11 brewer, wholesaler, or retailer licensed under the provisions of this chap-
+12 ter making the highest bid. Such sale shall be held at such place and time as
+13 may be designated by the commission after reasonable notice thereof given
+14 in such manner and for such time as the commission may by rule prescribe.
+15 From the purchase price received upon such sale, the commission shall first
+16 deduct an amount sufficient to pay the tax due on such beer and to pay all
+17 costs incurred in connection with such sale. The commission shall deposit
+18 the balance remaining with the state treasurer, who shall place the same in
+19 the general fund of the state of Idaho, and it shall become a part thereof.
+20 (2) The revenues received from the taxes, interest, penalties, or defi-
+21 ciency payments imposed by this section shall be distributed as follows:
+22 (a) An amount of money shall be distributed to the state refund account
+23 sufficient to pay current refund claims. All refunds authorized by law
+24 to be paid by the state tax commission shall be paid through the state
+25 refund account and those moneys are continuously appropriated.
+26 (b) For revenue deriving from beer containing not more than five per-
+27 cent (5%) of alcohol by volume, the balance remaining after distribut-
+28 ing the amount in paragraph (a) of this subsection shall be distributed
+29 as follows:
+30 (i) Twenty percent (20%) shall be distributed to the substance
+31 abuse treatment fund, which is created in section 23-408, Idaho
+32 Code;
+33 (ii) Thirty-three percent (33%) shall be distributed to the
+34 permanent building fund Idaho state police, of which no less than
+35 sixty percent (60%) shall be dedicated to the Idaho law enforce-
+36 ment fund for use in the project choice program, as established in
+37 section 49-454, Idaho Code, and no more than forty percent (40%) to
+38 the alcohol beverage control fund; and
+39 (iii) The remainder shall be distributed to the general fund.
+40 (c) For revenue deriving from beer containing more than five percent
+41 (5%) of alcohol by volume, the balance remaining after distributing the
+42 amount in paragraph (a) of this subsection shall be distributed as fol-
+43 lows:
+44 (i) Twelve percent (12%) shall be distributed to the substance
+45 abuse treatment fund created in section 23-408, Idaho Code;
+46 (ii) In fiscal year 2022 only, one and one-half percent (1.5%)
+47 shall be distributed to the Idaho hop grower's commission fund
+48 created in section 22-3112, Idaho Code, and three and one-half
+49 percent (3.5%) shall be distributed to the Idaho grape growers and
+50 wine producers account created in section 54-3607, Idaho Code.
+
+3
+1 In fiscal year 2023 only, three and one-half percent (3.5%) shall
+2 be distributed to the Idaho hop grower's commission fund, and
+3 one and one-half percent (1.5%) shall be distributed to the Idaho
+4 grape growers and wine producers account. In fiscal year 2024 and
+5 each fiscal year thereafter, five Five percent (5%) shall be dis-
+6 tributed to the Idaho hop grower's commission fund; and
+7 (iii) The remainder shall be distributed to the general fund.
+8 (3) The commission is empowered to prescribe rules:
+9 (a) For reports by carriers for hire and also all other carriers owned
+10 and/or employed, directly or indirectly, by out-of-state brewers,
+11 dealers or other persons, of all deliveries of beer in and into the state
+12 of Idaho, stating especially the origin and destination of the beer, the
+13 quantity thereof, and also the names and addresses, respectively, of
+14 the consignors and consignees.
+15 (b) For reports by out-of-state brewers and manufacturers of beer, of
+16 all shipments by them of beer into the state of Idaho, stating espe-
+17 cially the matters mentioned in paragraph (a) of this subsection.
+18 SECTION 3. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after
+20 July 1, 2026.

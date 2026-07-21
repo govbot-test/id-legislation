@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1410
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAID; AMENDING CHAPTER 22, TITLE 56, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 56-2208, IDAHO CODE, TO PROVIDE LEGISLATIVE AP-
+4 PROVAL FOR STATE PLAN AMENDMENTS REGARDING CHANGE IN ENCOUNTER RATE DUE
+5 TO CHANGE IN SCOPE OF SERVICES; PROVIDING THAT CERTAIN ADMINISTRATIVE
+6 RULES CONTAINED IN IDAPA 16.03.26 SHALL BE NULL, VOID, AND OF NO FORCE
+7 AND EFFECT AND PROVIDING APPLICABILITY; AND DECLARING AN EMERGENCY.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 22, Title 56, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 56-2208, Idaho Code, and to read as follows:
+12 56-2208. LEGISLATIVE APPROVAL -- CHANGE IN ENCOUNTER RATE DUE TO
+13 CHANGE IN SCOPE OF SERVICES. (1) The department of health and welfare is au-
+14 thorized to and shall submit the state plan amendments required to carry out
+15 the provisions of this section no later than October 1, 2026.
+16 (2)(a) As required by 42 U.S.C. 1396a(bb)(3)(B), the department shall
+17 adjust the prospective payment system (PPS) encounter rates of feder-
+18 ally qualified health centers (FQHCs) and rural health clinics (RHCs)
+19 based on any change in scope of FQHC or RHC services, as defined by 42
+20 U.S.C. 1396d(a)(2)(B) and (C).
+21 (b) A change in scope of services is one that affects the type, in-
+22 tensity, duration, or number of services provided by a FQHC or RHC. A
+23 change in the scope of FQHC or RHC services may occur if the FQHC or RHC
+24 has added, dropped, or expanded any service that meets the definition
+25 of a FQHC or RHC service pursuant to 42 U.S.C. 1396d(a)(2)(B) and (C).
+26 A change in the cost of a service is not considered in and of itself a
+27 change in the scope of services.
+28 (c) To qualify for a rate adjustment, applications for a rate review
+29 must meet a minimum four and one-half percent (4.5%) cumulative/aggre-
+30 gate change in cost per medical or dental visit as measured by comparing
+31 the cost per encounter with change in scope of services to the then cur-
+32 rent PPS rate.
+33 (3) All reasonable efforts shall be made to submit written notifica-
+34 tion of a planned change in scope to the department sixty (60) days prior to
+35 implementation of a change in scope. Notification shall provide a detailed
+36 description of the planned change in scope. The department shall not impose
+37 penalties related to this section.
+38 (4) Applications for a rate adjustment shall be filed with the depart-
+39 ment once the change in scope of service has been fully implemented for a pe-
+40 riod of six (6) consecutive months. Full implementation means costs were in-
+41 curred and services were provided without interruption for a consecutive six
+42 (6) month period. Requests for the determination of a change in scope and a
+
+2
+1 PPS rate review must be received by the last day of the third month follow-
+2 ing the end of the consecutive six (6) month period after the change in scope.
+3 FQHCs and RHCs may submit a maximum of one (1) application for a rate adjust-
+4 ment based on a change in scope of services per fiscal year. Applications for
+5 a rate adjustment shall include:
+6 (a) A written narrative describing the specific changes in scope of
+7 services and how these changes relate to a change in the FQHC's or RHC's
+8 overall scope of services;
+9 (b) A full cost report including all cost and encounter information for
+10 the first six (6) consecutive months of operations after the change in
+11 scope was implemented; and
+12 (c) Any additional supplemental data requested by the department that
+13 is reasonably necessary to support the department's evaluation of the
+14 application.
+15 (5)(a) The department shall review and accept, reject, or adjust a re-
+16 quest for a rate adjustment within ninety (90) days of receiving an ap-
+17 plication.
+18 (b) If further documentation or records are requested by the depart-
+19 ment after receiving a request for rate adjustment, the applicant shall
+20 have up to two (2) weeks to respond to the request. The period of days
+21 beginning with the request for further documentation or records by the
+22 department and ending with the response from the applicant shall not be
+23 counted toward the ninety (90) day requirement described in paragraph
+24 (a) of this subsection.
+25 (c) After reviewing and accepting, rejecting, or adjusting a request
+26 for rate adjustment, the department shall provide a draft calculation
+27 for the final rate to the applicant for a change in scope of services.
+28 The applicant shall have a review period of sixty (60) days to review and
+29 respond to such draft calculation.
+30 (d) The final rate calculation shall be issued within forty-five (45)
+31 days after the review period described in paragraph (c) of this subsec-
+32 tion.
+33 (e) The department's final PPS encounter rate may be appealed by the ap-
+34 plicant within thirty (30) days of the department's final decision.
+35 (f) The final PPS encounter rate shall be effective the first day of the
+36 implementation of the change in scope. The department shall reconcile
+37 encounter payments for cost differences from the first day of implemen-
+38 tation of the new PPS rate to completion date, to include any encounters
+39 not reconciled by a contracted managed care entity.
+40 SECTION 2. The rules contained in IDAPA 16.03.26, Department of Health
+41 and Welfare, relating to Medicaid Plan Benefits, Section 307., Subsection
+42 03., shall be null, void, and of no force and effect on and after October 1,
+43 2026. FQHCs and RHCs that began a change in scope before October 1, 2026,
+44 may complete the process as it existed under department rule at the time the
+45 change in scope began.
+46 SECTION 3. An emergency existing therefor, which emergency is hereby
+47 declared to exist, this act shall be in full force and effect on and after its
+48 passage and approval.

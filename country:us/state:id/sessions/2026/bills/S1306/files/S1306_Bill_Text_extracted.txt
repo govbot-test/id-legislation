@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1306
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO IRRIGATION DISTRICTS; AMENDING SECTION 43-1104, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING IRRIGATION DISTRICTS' BOARD OF DIRECTORS
+4 HEARING PETITIONS; AMENDING SECTION 43-1107, IDAHO CODE, TO REVISE PRO-
+5 VISIONS REGARDING COSTS; AND DECLARING AN EMERGENCY AND PROVIDING AN
+6 EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 43-1104, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 43-1104. HEARING ON PETITION -- ORDER OF EXCLUSION. (1) The board of
+11 directors of the irrigation district may conduct its own investigation of
+12 the facts alleged in the petition and, by resolution duly adopted, which may
+13 address the allegations of several petitions, accept the facts as alleged
+14 and determine that no hearing is required prior to granting the petition or
+15 petitions for exclusion. If the allegations are not thus accepted such pe-
+16 tition must be heard by the board of directors of such irrigation district
+17 within one hundred fifty (150) days of filing of the petition. If no hearing
+18 is held within one hundred fifty (150) days, the land described in the peti-
+19 tion is excluded from the district. If a hearing is ordered, the petitioner
+20 or petitioners must establish by competent evidence the allegations of the
+21 petition, and the chairman or presiding member of the board is hereby empow-
+22 ered to administer oaths for the purpose of the hearing. a petition. Within
+23 one hundred fifty (150) days of receiving a petition, the board shall adopt a
+24 resolution that addresses one (1) or more petitions and:
+25 (a) Accepts the alleged facts and grants the petition or petitions as
+26 requested; or
+27 (b) Rejects or otherwise disputes the alleged facts and denies the pe-
+28 tition or petitions as requested. In such cases, the resolution shall
+29 be accompanied by the board's reasoned explanation for such decision,
+30 and the resolution and explanation shall be physically mailed to the pe-
+31 titioner.
+32 (2)(a) If a petitioner disagrees with the board's decision, the peti-
+33 tioner may request a hearing before the board to review the decision.
+34 Such request must be made in writing by the petitioner within forty-five
+35 (45) days of the date the board's decision was mailed to the petitioner.
+36 The board's adopted resolution shall become a final decision after the
+37 forty-five (45) day period has ended.
+38 (b) If a hearing is requested, the board shall:
+39 (i) Set a date for the hearing that is no later than sixty (60)
+40 days from the date the board received the petitioner's written re-
+41 quest; and
+42 (ii) Notify the petitioner of the date and time of the hearing.
+
+2
+1 (c) At the hearing, the petitioner or petitioners shall establish by
+2 competent evidence the allegations of the petition, and the chair or
+3 presiding member of the board is hereby empowered to administer oaths
+4 for the purpose of the hearing.
+5 (d) A hearing shall not be held if the board issues an order excluding
+6 the land described in the petition from the district prior to the date of
+7 the hearing.
+8 (3) When (1) the board of directors accepts the facts as alleged with-
+9 out a hearing, or (2) when the allegations of the petition are established at
+10 a hearing, or (3) the land has been excluded by reason of the board's fail-
+11 ure to hold a hearing within one hundred fifty (150) days of filing of the
+12 petition, the board must the board shall make an order forthwith changing
+13 the boundaries of such district so as to exclude the lands described in the
+14 petition which that the proof has established to be entitled to exclusion,
+15 and thereafter the lands so excluded shall not form a part of the irriga-
+16 tion district for any purpose except as provided in subsection (b) of section
+17 43-1102, Idaho Code; provided however, that the lands so ordered excluded
+18 shall not be relieved of their obligation to pay their proportionate share of
+19 any existing bonded or contract indebtedness of the irrigation district, and
+20 the lands shall remain a part of the irrigation district for the purpose of
+21 discharging the existing bonded or contract indebtedness.
+22 No hearing shall be held when, prior to the date set for the hearing, the
+23 board issues an order excluding the land described in the petition from the
+24 district.
+25 (4) When land is excluded from the district pursuant to a petition filed
+26 on or before December 1 in any calendar year, assessments against the land
+27 for any calendar year subsequent to the year in which the petition was filed
+28 shall not be valid and no lien for any such attempted assessment shall attach
+29 under section 43-706, Idaho Code. Petitioners are, however, required to pay
+30 any outstanding assessments levied the calendar year and prior in which the
+31 petition is filed and said lien shall attach until said assessments are paid.
+32 SECTION 2. That Section 43-1107, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 43-1107. COSTS. The costs of excluding any land as provided in this
+35 chapter shall be borne by the petitioner or petitioners except in cases
+36 where:
+37 (1) The lands excluded are found to be too high or not susceptible of
+38 irrigation from the water system of the district without pumping by the
+39 landowner and the petitioner or previous owners of the land have paid the
+40 assessments of the district against that land; or
+41 (2) The exclusion is requested under pursuant to subsection (a)3. or
+42 (a)4. of section 43-1102, Idaho Code, and for the five (5) irrigation sea-
+43 sons preceding the filing of the petition: (a) there has been no pipe, ditch,
+44 or other delivery system between the land and the assigned delivery point
+45 on the district's irrigation system, and (b) the petitioner or previous
+46 owners of the land have paid the assessments of the district against that
+47 land. If the petitioner is required to pay the costs of exclusion hearing
+48 proceedings, the board may require a deposit of the estimated costs before
+49 they the board will hear the petition and the one hundred fifty (150) sixty
+
+3
+1 (60) day period in which the petition must be heard as provided in section
+2 43-1104, Idaho Code, shall not begin to run until the estimated costs have
+3 been deposited; provided however, that, in case of a successful appeal by
+4 the petitioner, the costs taxed by the district to the petitioner or peti-
+5 tioners whose lands are excluded by the district court shall be borne by the
+6 irrigation district. If the actual costs of the exclusion proceedings are
+7 less than the amount deposited by the petitioner, the excess deposit shall
+8 be credited against any amounts which that are to be paid by the petitioner
+9 prior to entry of the order of exclusion, and the balance, if any, shall be
+10 refunded to the petitioner within fourteen (14) days after the hearing; if
+11 the actual costs of the exclusion proceedings are more than the deposit, the
+12 difference shall be paid to the district by the petitioner within fourteen
+13 (14) days after receipt of a statement to that effect from the district, and
+14 the board shall not be required to enter an order of exclusion until the dif-
+15 ference is paid.
+16 SECTION 3. An emergency existing therefor, which emergency is hereby
+17 declared to exist, this act shall be in full force and effect on and after
+18 July 1, 2026.

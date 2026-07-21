@@ -1,0 +1,280 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1243
+BY AGRICULTURAL AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO ONEPLAN; PROVIDING LEGISLATIVE INTENT; AMENDING SEC-
+3 TION 22-2717, IDAHO CODE, TO REMOVE A REFERENCE TO THE IDAHO ONEPLAN;
+4 AMENDING SECTION 22-2718, IDAHO CODE, TO REMOVE A PROVISION REGARDING
+5 THE IDAHO ONEPLAN; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+6 TIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+9 of the Legislature to ensure that the state laws provided in Idaho Code are
+10 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+11 serving the public health, safety, and welfare. In accordance with the Idaho
+12 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+13 tified the provisions of this act as obsolete, outdated, or unnecessary.
+14 SECTION 2. That Section 22-2717, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 22-2717. DEFINITIONS. Whenever used or referred to in this chapter,
+17 unless a different meaning clearly appears from the context:
+18 (1) "Administrator" means the administrator for the Idaho state soil
+19 and water conservation commission.
+20 (2) "Agency" includes the government of this state and any subdivision,
+21 agency, or instrumentality, corporate or otherwise, of the government of
+22 this state.
+23 (3) "Agricultural pollution abatement plan" or "ag plan" means the
+24 document developed by the state soil and water conservation commission and
+25 approved by the commission and the department of environmental quality,
+26 that provides appropriate technical, programmatic, informational and ed-
+27 ucational processes, guidelines and policies for addressing agricultural
+28 pollution.
+29 (4) "Best management practices" or "BMPs" means practices, techniques,
+30 or measures developed or identified by the designated agency and identified
+31 in the state water quality management plan which are determined to be a cost-
+32 effective and practicable means of preventing or reducing pollutants gener-
+33 ated from nonpoint sources to a level compatible with water quality goals.
+34 (5) "Commission" or "state soil and water conservation commission"
+35 means the agency created in section 22-2718, Idaho Code.
+36 (6) "Conservation plan" means a description of identified natural re-
+37 source issues and a specific schedule of implementation of component prac-
+38 tices necessary to resolve those specific resource issues as agreed upon by
+39 the landowner.
+40 (7) "Designated agency" is as defined in section 39-3602, Idaho Code.
+
+2
+1 (8) "District," "conservation district," "soil conservation dis-
+2 trict," or "soil and water conservation district" means a governmental
+3 subdivision(s) of this state, and a public body corporate and politic, orga-
+4 nized in accordance with the provisions of this chapter, for the purposes,
+5 with the powers and subject to the restrictions hereinafter set forth.
+6 (9) "Due notice" means notice published at least twice, with an inter-
+7 val of at least seven (7) days between the two (2) publication dates, in a
+8 newspaper or other publication of general circulation within the appropri-
+9 ate area, or if no such publication of general circulation be available, by
+10 posting at a reasonable number of conspicuous places within the appropri-
+11 ate area, such posting to include, where possible, posting at public places
+12 where it may be customary to post notices concerning county or municipal af-
+13 fairs generally. At any hearing held pursuant to such notice, at the time and
+14 place designated in such notice, adjournment may be made from time to time
+15 without the necessity of renewing such notice for such adjournment dates.
+16 (10) "Eligible applicant" means an individual agricultural owner, op-
+17 erator, partnership, corporation, conservation district, irrigation dis-
+18 trict, canal company or other agricultural or grazing interest.
+19 (11) "Government" or "governmental" includes the government of this
+20 state, the government of the United States, and any subdivisions, agency, or
+21 instrumentality, corporate or otherwise, of either of them.
+22 (12) "Idaho OnePlan" means a computer-based system for improving effi-
+23 ciency and effectiveness of natural resource planning by landowners and land
+24 users.
+25 (13) (12) "Landowner" or "owner" includes any person, firm, or corpora-
+26 tion who shall hold title to any lands lying within a district organized un-
+27 der the provisions of this chapter. A buyer on contract, who is the occupier
+28 of land, shall be construed as landowner.
+29 (14) (13) "Land user" means any entity with a lease, permit or similar
+30 business agreement with a landowner to implement, manage or utilize such
+31 land for activities related to use of the land.
+32 (15) (14) "Natural resources conservation service" or "NRCS" means the
+33 agency governed by the provisions of 16 U.S.C. sections 590a through 590d and
+34 590f.
+35 (16) (15) "Nominating petition" means a petition filed under the provi-
+36 sions of section 22-2721, Idaho Code, to nominate candidates for the office
+37 of supervisor of a soil conservation district.
+38 (17) (16) "Participant" means an individual agricultural owner, opera-
+39 tor, partnership, private corporation, conservation district, irrigation
+40 district, canal company, or other agricultural or grazing interest approved
+41 by the commission or an individual agricultural owner, operator, partner-
+42 ship, or private corporation approved for implementation of conservation
+43 improvements, projects, or the water quality program for agriculture.
+44 (18) (17) "Project sponsor" means a conservation district, irrigation
+45 district, canal company, or other agricultural or grazing interest, as de-
+46 termined appropriate by the commission, that enters into a conservation im-
+47 provement or water quality project agreement with the commission.
+48 (19) (18) "Qualified elector" means any person who is qualified to vote
+49 pursuant to the requirements of section 34-104, Idaho Code.
+
+3
+1 (20) (19) "Riparian land" means the beds of streams, the adjacent vege-
+2 tation communities and the land thereunder, which are predominately influ-
+3 enced by their association with water and are privately owned.
+4 (21) (20) "Specifications" means the materials, operations and proce-
+5 dures necessary to obtain the desired standards of construction and instal-
+6 lation.
+7 (22) (21) "Standards" means the minimum limits of technical excellence
+8 of a component practice for its planning, design and construction.
+9 (23) (22) "State" means the state of Idaho.
+10 (24) (23) "Supervisor" means one (1) of the members of the governing
+11 body of a district elected or appointed in accordance with the provisions of
+12 this chapter.
+13 (25) (24) "Total maximum daily load" is as defined in section 39-3602,
+14 Idaho Code.
+15 (26) (25) "United States" or "agencies of the United States" includes
+16 the United States of America, the natural resources conservation service of
+17 the United States department of agriculture, and any other agency or instru-
+18 mentality, corporate or otherwise, of the United States of America.
+19 SECTION 3. That Section 22-2718, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 22-2718. IDAHO STATE SOIL AND WATER CONSERVATION COMMISSION. (1)
+22 There is hereby established and created in the department of agriculture of
+23 the state of Idaho the Idaho state soil and water conservation commission
+24 which shall perform all functions conferred upon it by this chapter and shall
+25 be a nonregulatory agency.
+26 (a) The commission shall consist of seven (7) members appointed by the
+27 governor from divisions of the Idaho association of soil conservation
+28 districts as follows: one (1) member from division I, one (1) member
+29 from division II, one (1) member from division III, one (1) member from
+30 division IV, one (1) member from division V, one (1) member from divi-
+31 sion VI, and one (1) at-large member appointed at the governor's discre-
+32 tion.
+33 (b) Commission members shall be chosen with due regard to their demon-
+34 strated expertise, including knowledge of conservation districts and
+35 their functions, knowledge of production agriculture, knowledge of
+36 banking or other similar financial experience, or experience as a
+37 county commissioner.
+38 (c) Commissioners serving on July 1, 2022, will be assigned to the di-
+39 visions that they would represent. On July 1, 2022, current commission-
+40 ers, at the will of the governor, will be reappointed to the position
+41 representing the divisions in which they live.
+42 (d) For divisions that have vacant positions, or divisions with no cur-
+43 rent commissioner residing there, the division shall submit a list of
+44 up to three (3) names for each open commission position. The governor
+45 shall appoint commission seats from the list submitted.
+46 (e) The term of each commissioner shall be for five (5) years, with the
+47 ability to serve two (2) terms; except that on July 1, 2022, the terms of
+48 each commission position will be reset: The term of the commissioners
+49 from districts I and IV will be set for two (2) years. The term of the
+
+4
+1 commissioners from districts II and V will be set for three (3) years.
+2 The term of the commissioners from districts III and VI and the at-large
+3 commissioner will be set for four (4) years. From and after the initial
+4 appointment or reappointment, commissioners may serve two (2) full
+5 terms of five (5) years, in addition to their initial appointment. From
+6 and after the initial appointment, the corresponding division shall
+7 provide the list of three (3) names to the governor to choose from on or
+8 before July 1 of each year with a vacancy.
+9 (f) Each vacancy on the commission shall be filled by appointment by
+10 the governor following the guidelines set forth in this subsection. A
+11 vacancy that occurs in an unexpired term shall also be filled for its
+12 remainder by the governor's appointment following the guidelines set
+13 forth in this subsection. Each commissioner appointed to fill an unex-
+14 pired term may serve the length of the unexpired term and be eligible to
+15 be reappointed for an additional two (2) full terms.
+16 (g) All appointments shall be confirmed by the senate. Commission mem-
+17 bers shall serve at the pleasure of the governor. The commission may in-
+18 vite the state conservationist of the United States department of agri-
+19 culture natural resources conservation service, the dean of the uni-
+20 versity of Idaho college of agricultural and life sciences or his des-
+21 ignated representative, or any other person or entities the commission
+22 deems appropriate to serve as nonvoting advisory members of the commis-
+23 sion. The commission shall keep a record of its official actions, shall
+24 adopt a seal, which seal shall be judicially noticed, and may perform
+25 such acts, hold such public hearings, and promulgate such rules as may
+26 be necessary for the execution of its functions under this chapter.
+27 (2) The state soil and water conservation commission shall appoint
+28 the administrator of the state soil and water conservation commission. The
+29 state soil and water conservation commission may employ such technical ex-
+30 perts and such other agents and employees, permanent and temporary, as it
+31 may require, and shall determine their qualifications, duties and compen-
+32 sation. The commission may call upon the attorney general of the state for
+33 such legal services as it may require. It shall have authority to delegate to
+34 its chairman, to one (1) or more of its members, or to one (1) or more agents
+35 or employees, such powers and duties as it may deem proper. The commission
+36 may establish offices, incur expenses, enter into contracts and acquire
+37 services and personal property as may be reasonable for the proper adminis-
+38 tration and enforcement of this chapter. Upon request of the commission, for
+39 the purpose of carrying out any of its functions, the supervising officer of
+40 any state agency, or of any state institution of learning, shall insofar as
+41 may be possible under available appropriation, and having due regard to the
+42 needs of the agency to which the request is directed, assign or detail to the
+43 commission members of the staff or personnel of such agency or institution of
+44 learning, and make such special reports, surveys or studies as the commis-
+45 sion may request.
+46 (3) The commission shall designate its chairman, and may from time to
+47 time, change such designation. A majority of the commission shall consti-
+48 tute a quorum and the concurrency of a majority in any matter within their
+49 duties shall be required for its determination. The chairman and members of
+50 the commission shall be compensated as provided by section 59-509(h), Idaho
+
+5
+1 Code. The commission shall provide for the execution of surety bonds for
+2 all employees and officers who shall be entrusted with funds or property;
+3 shall provide for the keeping of a full and accurate record of all proceed-
+4 ings and of all resolutions, and orders issued or adopted; and shall provide
+5 for a periodic management review of the accounts of receipts and disburse-
+6 ments as determined by the legislative auditor pursuant to section 67-702,
+7 Idaho Code.
+8 (4) In addition to the duties and powers hereinafter conferred upon the
+9 state soil and water conservation commission, it shall have the following
+10 responsibilities:
+11 (a) To offer such assistance as may be appropriate to the supervisors of
+12 soil conservation districts in the carrying out of any of their powers
+13 and programs.
+14 (b) To keep the supervisors of each of the several soil conservation
+15 districts informed of the activities and experience of all other soil
+16 conservation districts and to facilitate an interchange of advice and
+17 experience between such districts and cooperation between them.
+18 (c) To coordinate the progress of the several soil conservation dis-
+19 tricts so far as this may be done by advice and consultation.
+20 (d) To secure the cooperation and assistance of the United States and
+21 any of its agencies, and of agencies of this state, in the work of such
+22 districts.
+23 (e) To disseminate information throughout the state concerning the ac-
+24 tivities and programs of the soil conservation districts in areas where
+25 their organization is desirable.
+26 (f) To provide for the establishment and encouragement of the "Idaho
+27 OnePlan" as a primary computer-based conservation planning process for
+28 all natural resource concerns. Establishment and encouragement will
+29 be accomplished through an executive group and steering committee both
+30 containing private, state and federal representation. The information
+31 provided by those using the "Idaho OnePlan" shall be deemed to be trade
+32 secrets, production records or other proprietary information and shall
+33 be kept confidential and shall be exempt from disclosure pursuant to
+34 section 74-107, Idaho Code.
+35 (5) In addition to other powers, functions and duties of soil conserva-
+36 tion districts and the state soil and water conservation commission provided
+37 in this chapter, the commission shall have the following additional powers,
+38 functions and duties:
+39 (a) The commission shall conduct, in cooperation with appropriate fed-
+40 eral and state agencies and the owners and operators of privately owned
+41 forest lands, rangelands and agricultural lands in this state, conser-
+42 vation improvements on or in respect to these lands for the purposes of
+43 implementing conservation systems to conserve and improve natural re-
+44 source conditions;
+45 (b) The commission shall assist and advise soil conservation districts
+46 and other entities in implementing the conservation improvements,
+47 projects and the water quality program for agriculture. To the extent
+48 that there are available general funds, the commission shall provide
+49 for grants and cost-share opportunities and, as legislatively desig-
+50 nated, utilize the resource conservation and rangeland development
+
+6
+1 fund for loans for conservation improvements. Provided however, that
+2 the commission shall determine whether general or resource conserva-
+3 tion and rangeland development funds are available before approving any
+4 conservation improvements, projects and cost-share opportunities and,
+5 after having made such determination, shall enter into the necessary
+6 contracts for implementation;
+7 (c) The commission shall be the agency responsible for the administra-
+8 tion of funds accruing to the resource conservation and rangeland de-
+9 velopment fund and for all general funds appropriated as a separate and
+10 distinct action of the legislature to implement the powers, functions
+11 and duties of soil conservation districts and the commission;
+12 (d) On or before March 1 of each year, the commission shall report to the
+13 senate agricultural affairs committee and the house agricultural af-
+14 fairs committee; and
+15 (e) The commission shall promulgate such rules as are necessary to
+16 carry out the purposes of this chapter.
+17 SECTION 4. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after
+19 July 1, 2026.

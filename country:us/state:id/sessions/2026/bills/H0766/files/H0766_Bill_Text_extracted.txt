@@ -1,0 +1,184 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 766
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO DEVELOPMENT IMPACT FEES; AMENDING SECTION 67-8203, IDAHO CODE,
+3 TO REVISE A DEFINITION; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+4 FECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 67-8203, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 67-8203. DEFINITIONS. As used in this chapter:
+9 (1) "Affordable housing" means housing affordable to families whose
+10 incomes do not exceed eighty percent (80%) of the median income for the ser-
+11 vice area or areas within the jurisdiction of the governmental entity.
+12 (2) "Appropriate" means to legally obligate by contract or otherwise
+13 commit to use by appropriation or other official act of a governmental en-
+14 tity.
+15 (3) "Capital improvements" means improvements with a useful life of ten
+16 (10) years or more, by new construction or other action, which increase the
+17 service capacity of a public facility.
+18 (4) "Capital improvement element" means a component of a comprehensive
+19 plan adopted pursuant to chapter 65, title 67, Idaho Code, which component
+20 meets the requirements of a capital improvements plan pursuant to this chap-
+21 ter.
+22 (5) "Capital improvements plan" means a plan adopted pursuant to this
+23 chapter that identifies capital improvements for which development impact
+24 fees may be used as a funding source.
+25 (6) "Developer" means any person or legal entity undertaking develop-
+26 ment, including a party that undertakes the subdivision of property pursuant
+27 to sections 50-1301 through 50-1334, Idaho Code.
+28 (7) "Development" means any construction or installation of a building
+29 or structure, or any change in use of a building or structure, or any change
+30 in the use, character or appearance of land, which creates additional demand
+31 and need for public facilities or the subdivision of property that would per-
+32 mit any change in the use, character or appearance of land. As used in this
+33 chapter, "development" shall not include activities that would otherwise
+34 be subject to payment of the development impact fee if such activities are
+35 undertaken by a taxing district, as defined in section 63-201, Idaho Code,
+36 or by an authorized public charter school, as defined in section 33-5202A,
+37 Idaho Code, in the course of carrying out its statutory responsibilities,
+38 unless the adopted impact fee ordinance expressly includes taxing districts
+39 or public charter schools as being subject to development impact fees.
+40 (8) "Development approval" means any written authorization from a gov-
+41 ernmental entity that authorizes the commencement of a development.
+
+2
+1 (9) "Development impact fee" means a payment of money imposed as a con-
+2 dition of development approval to pay for a proportionate share of the cost
+3 of system improvements needed to serve development. This term is also re-
+4 ferred to as an impact fee in this chapter. The term does not include the fol-
+5 lowing:
+6 (a) A charge or fee to pay the administrative, plan review, or inspec-
+7 tion costs associated with permits required for development;
+8 (b) Connection or hookup charges;
+9 (c) Availability charges for drainage, sewer, water, or transportation
+10 charges for services provided directly to the development; or
+11 (d) Amounts collected from a developer in a transaction in which the
+12 governmental entity has incurred expenses in constructing capital im-
+13 provements for the development if the owner or developer has agreed to
+14 be financially responsible for the construction or installation of the
+15 capital improvements, unless a written agreement is made pursuant to
+16 section 67-8209(3), Idaho Code, for credit or reimbursement.
+17 (10) "Development requirement" means a requirement attached to a devel-
+18 opmental approval or other governmental action approving or authorizing a
+19 particular development project including, but not limited to, a rezoning,
+20 which requirement compels the payment, dedication or contribution of goods,
+21 services, land, or money as a condition of approval.
+22 (11) "Extraordinary costs" means those costs incurred as a result of an
+23 extraordinary impact.
+24 (12) "Extraordinary impact" means an impact that is reasonably deter-
+25 mined by the governmental entity to:
+26 (a) Result in the need for system improvements, the cost of which will
+27 significantly exceed the sum of the development impact fees to be gener-
+28 ated from the project or the sum agreed to be paid pursuant to a develop-
+29 ment agreement as allowed by section 67-8214(2), Idaho Code; or
+30 (b) Result in the need for system improvements that are not identified
+31 in the capital improvements plan.
+32 (13) "Fee payer" means that person who pays or is required to pay a de-
+33 velopment impact fee.
+34 (14) "Governmental entity" means any unit of local government that is
+35 cities, counties, single countywide highway districts, fire protection dis-
+36 tricts, and ambulance service districts that are each empowered in this en-
+37 abling legislation to adopt a development impact fee ordinance.
+38 (15) "Impact fee." See development impact fee.
+39 (16) "Land use assumptions" means a description of the service area and
+40 projections of land uses, densities, intensities, and population in the ser-
+41 vice area over at least a twenty (20) year period.
+42 (17) "Level of service" means a measure of the relationship between ser-
+43 vice capacity and service demand for public facilities.
+44 (18) "Manufactured home" means a structure, constructed according to
+45 HUD/FHA mobile home construction and safety standards, transportable in one
+46 (1) or more sections, which, in the traveling mode, is eight (8) feet or more
+47 in width or is forty (40) body feet or more in length, or when erected on site,
+48 is three hundred twenty (320) or more square feet, and which is built on a
+49 permanent chassis and designed to be used as a dwelling with or without a
+50 permanent foundation when connected to the required utilities, and includes
+
+3
+1 the plumbing, heating, air conditioning, and electrical systems contained
+2 therein, except that such term shall include any structure that meets all the
+3 requirements of this subsection except the size requirements and with re-
+4 spect to which the manufacturer voluntarily files a certification required
+5 by the secretary of housing and urban development and complies with the stan-
+6 dards established under 42 U.S.C. 5401 et seq.
+7 (19) "Modular building" is as defined in section 39-4301, Idaho Code.
+8 (20) "Present value" means the total current monetary value of past,
+9 present, or future payments, contributions or dedications of goods, ser-
+10 vices, materials, construction or money.
+11 (21) "Project" means a particular development on an identified parcel
+12 of land.
+13 (22) "Project improvements" means site improvements and facilities
+14 that are planned and designed to provide service for a particular devel-
+15 opment project and that are necessary for the use and convenience of the
+16 occupants or users of the project.
+17 (23) "Proportionate share" means that portion of the cost of system im-
+18 provements determined pursuant to section 67-8207, Idaho Code, which rea-
+19 sonably relates to the service demands and needs of the project.
+20 (24) "Public facilities" means:
+21 (a) Water supply production, treatment, storage and distribution fa-
+22 cilities;
+23 (b) Wastewater collection, treatment and disposal facilities;
+24 (c) Roads, streets and bridges, including rights-of-way, traffic
+25 signals, landscaping and any local components of state or federal high-
+26 ways;
+27 (d) Stormwater collection, retention, detention, treatment and dis-
+28 posal facilities, flood control facilities, and bank and shore protec-
+29 tion and enhancement improvements;
+30 (e) Parks, open space and recreation areas, and related capital im-
+31 provements; and
+32 (f) Public safety facilities, including law enforcement, fire stations
+33 and apparatus, emergency medical and rescue, and street lighting facil-
+34 ities.
+35 (25) "Recreational vehicle" means a vehicular type unit primarily de-
+36 signed as temporary quarters for recreational, camping, or travel use, which
+37 either has its own motive power or is mounted on or drawn by another vehicle.
+38 (26) "Service area" means any defined geographic area identified by a
+39 governmental entity or by intergovernmental agreement in which specific
+40 public facilities provide service to development within the area defined, on
+41 the basis of sound planning or engineering principles or both.
+42 (27) "Service unit" means a standardized measure of consumption, use,
+43 generation or discharge attributable to an individual unit of development
+44 calculated in accordance with generally accepted engineering or planning
+45 standards for a particular category of capital improvements.
+46 (28) "System improvements," in contrast to project improvements, means
+47 capital improvements to public facilities designed to provide service to a
+48 service area including, without limitation, the type of improvements de-
+49 scribed in section 50-1703, Idaho Code.
+
+4
+1 (29) "System improvement costs" means costs incurred for construction
+2 or reconstruction of system improvements, including design, acquisition,
+3 engineering and other costs attributable thereto, and also including, with-
+4 out limitation, the type of costs described in section 50-1702(h), Idaho
+5 Code, to provide additional public facilities needed to serve new growth and
+6 development. For clarification, system improvement costs do not include:
+7 (a) Construction, acquisition or expansion of public facilities other
+8 than capital improvements identified in the capital improvements plan;
+9 (b) Repair, operation or maintenance of existing or new capital im-
+10 provements;
+11 (c) Upgrading, updating, expanding or replacing existing capital im-
+12 provements to serve existing development in order to meet stricter
+13 safety, efficiency, environmental or regulatory standards;
+14 (d) Upgrading, updating, expanding or replacing existing capital im-
+15 provements to provide better service to existing development;
+16 (e) Administrative and operating costs of the governmental entity un-
+17 less such costs are attributable to development of the capital improve-
+18 ments plan, as provided in section 67-8208, Idaho Code; or
+19 (f) Principal payments and interest or other finance charges on bonds
+20 or other indebtedness except financial obligations issued by or on be-
+21 half of the governmental entity to finance capital improvements identi-
+22 fied in the capital improvements plan.
+23 SECTION 2. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after
+25 July 1, 2026.

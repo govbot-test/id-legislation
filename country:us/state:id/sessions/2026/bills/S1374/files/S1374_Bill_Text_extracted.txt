@@ -1,0 +1,453 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1374
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO CHILD CARE PROGRAM; AMENDING TITLE 56, IDAHO CODE, BY
+3 THE ADDITION OF A NEW CHAPTER 25, TITLE 56, IDAHO CODE, TO DEFINE TERMS,
+4 TO PROVIDE FOR THE CREATION OF THE IDAHO CHILD CARE PROGRAM, TO ESTAB-
+5 LISH PROVISIONS REGARDING PARENT QUALIFYING ACTIVITIES, TO ESTABLISH
+6 PROVISIONS REGARDING APPLICATION, ELIGIBILITY, AND REDETERMINATION,
+7 TO PROVIDE AUTHORITY TO CREATE A WAITING LIST AND ADJUST ELIGIBIL-
+8 ITY, TO ESTABLISH PROVISIONS REGARDING REQUIREMENTS FOR PROVIDERS, TO
+9 ESTABLISH PROVISIONS REGARDING PROGRAM INTEGRITY, TO ESTABLISH PROVI-
+10 SIONS REGARDING PROGRAM OVERSIGHT, TO ESTABLISH PROVISIONS REGARDING
+11 A PROGRAM VENDOR, TO ESTABLISH PROVISIONS REGARDING CONSTRUCTION, TO
+12 ESTABLISH PROVISIONS REGARDING AUTHORITY OF THE ATTORNEY GENERAL, TO
+13 ESTABLISH PROVISIONS REGARDING THE STATE PLAN AND LEGISLATIVE APPROVAL
+14 REQUIREMENTS, AND TO ESTABLISH PROVISIONS REGARDING THE USE OF FUNDS
+15 FOR CAPACITY BUILDING; AMENDING SECTION 39-1111, IDAHO CODE, TO REVISE
+16 PROVISIONS REGARDING ADMINISTRATIVE RULES; AND DECLARING AN EMERGENCY.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. That Title 56, Idaho Code, be, and the same is hereby amended
+19 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+20 ter 25, Title 56, Idaho Code, and to read as follows:
+21 CHAPTER 25
+22 IDAHO CHILD CARE PROGRAM
+23 56-2501. DEFINITIONS. As used in this chapter:
+24 (1) "CCMS" means a child care management solution.
+25 (2) "Child care" means care, control, supervision, or maintenance of a
+26 child provided for compensation by an individual, other than a parent of the
+27 child, for less than twenty-four (24) hours in a day.
+28 (3) "Child care finder" means a child care search tool.
+29 (4) "Department" means the Idaho department of health and welfare.
+30 (5) "Eligible child" means a child under thirteen (13) years of age who
+31 is either a citizen of or lawfully living in the United States. However, a
+32 child who is thirteen (13) years of age or older remains eligible if the child
+33 is under court supervision or is verified by either a mental health profes-
+34 sional or licensed medical professional to be physically or mentally unable
+35 to care for himself.
+36 (6) "FPG" means the federal poverty guidelines published annually by
+37 the United States department of health and human services.
+38 (7) "Fraud detection and remediation system" means a software platform
+39 utilizing statistical modeling, predictive analytics, and machine learning
+40 techniques to assess the likelihood of fraud, waste, or abuse.
+
+2
+1 (8) "Intentional program violation" means an intentionally false or
+2 misleading action or statement that is one (1) of the following:
+3 (a) An individual makes a false or misleading statement to the depart-
+4 ment, either orally or in writing, in order to participate in the pro-
+5 gram;
+6 (b) An individual misrepresents or conceals one (1) or more facts to the
+7 department, either orally or in writing, to participate in the program;
+8 (c) An individual fails repeatedly or substantially to comply with rel-
+9 evant state or federal laws or rules promulgated under this chapter;
+10 (d) An individual knowingly violates any term of the individual's
+11 provider agreement; or
+12 (e) A provider knowingly fails to meet the qualifications specifically
+13 required in relevant federal law, in this chapter, in chapter 11, title
+14 39, Idaho Code, or the rules promulgated under any of the forgoing laws.
+15 (9) "License management" means a child care license management system
+16 for the department to process licensing applications for new and existing
+17 providers.
+18 (10) "Parent" means a person responsible for a child because of birth,
+19 adoption, marriage, legal guardianship, or foster care.
+20 (11) "Program" means the Idaho child care program.
+21 (12) "Provider" means an individual, organization, agency, or other en-
+22 tity providing child care.
+23 (13) "SMI" means the current state median income estimates determined
+24 for the low income home energy assistance program.
+25 (14) "Subsidy management" means a child care subsidy management system
+26 for the department's processing of subsidy funding on behalf of eligible
+27 children to providers.
+28 (15) "Vendor" means a third-party vendor that will provide child care
+29 technology solutions or create new family child care programs that shall be
+30 procured via an existing competitively bid contract with the state.
+31 56-2502. CREATION OF PROGRAM. There is hereby created in the depart-
+32 ment the Idaho child care program, which, subject to legislative appropria-
+33 tion, shall use federal child care funds distributed to the states, as well
+34 as any related state matching funds and maintenance-of-effort funds, to im-
+35 prove the quality of child care in Idaho for all children and assist low-
+36 income families in Idaho who are working or participating in education or
+37 training activities with help paying for child care. The department shall
+38 administer the program in a manner consistent with this chapter and with all
+39 applicable federal requirements.
+40 56-2503. PARENT QUALIFYING ACTIVITIES. (1) Parents in a child's
+41 household must participate in one (1) of the following qualifying activities
+42 to be eligible for assistance under this chapter:
+43 (a) The parent is currently employed or self-employed;
+44 (b) The parent is currently attending an accredited education or train-
+45 ing program; or
+46 (c) The parent is receiving child welfare preventative services from
+47 the department.
+
+3
+1 (2) The following restrictions shall apply to training or education ac-
+2 tivities:
+3 (a) Online classes shall not be counted as a qualifying activity under
+4 this chapter;
+5 (b) Persons who are attending postbaccalaureate classes with no other
+6 qualifying activity shall not qualify for assistance under this chap-
+7 ter; and
+8 (c) No more than forty-eight (48) months of postsecondary education
+9 shall count as a qualifying activity.
+10 56-2504. APPLICATION -- ELIGIBILITY -- REDETERMINATION. (1) A family
+11 who lives within the state of Idaho with no immediate intention of leaving
+12 the state may apply to be considered for assistance under this chapter for an
+13 eligible child.
+14 (2) An applicant's family assets cannot exceed one million dollars
+15 ($1,000,000).
+16 (3) When applying, a family's income cannot exceed one hundred fifty-
+17 five percent (155%) of FPG for a family of the same size.
+18 (4) During the eligibility period, a family's income cannot exceed
+19 eighty-five percent (85%) of the SMI for a family of the same size.
+20 (5) At least every twelve (12) months, the department shall redeter-
+21 mine eligibility for assistance under this chapter. At redetermination, if
+22 a family's income exceeds one hundred fifty-five percent (155%) but is less
+23 than one hundred seventy percent (170%) of FPG for a family of the same size,
+24 the family may be eligible to receive a graduated phaseout of child care as-
+25 sistance that is limited to up to twelve (12) months of assistance following
+26 the completion of redetermination.
+27 56-2505. AUTHORITY TO CREATE A WAITING LIST AND ADJUST ELIGIBIL-
+28 ITY. (1) As necessary to administer the program, the department may estab-
+29 lish a waiting list for the program. If the department establishes a waiting
+30 list, the department shall give priority to the following categories:
+31 (a) Families who are homeless;
+32 (b) Families caring for a child with a disability;
+33 (c) Foster families;
+34 (d) Families receiving temporary assistance for needy families from
+35 the department;
+36 (e) Families receiving any child welfare preventative services from
+37 the department designed to reduce or eliminate the need for out-of-home
+38 placement of a child by the department; and
+39 (f) Households where at least one (1) parent is nineteen (19) years of
+40 age or younger.
+41 (2) Notwithstanding the provisions of section 56-269, Idaho Code, the
+42 department may, by administrative rule, subject to legislative approval,
+43 adjust the asset cap, the FPG percentage cap, the SMI percentage cap, or
+44 the length of graduated phaseout after determination, as long as any such
+45 adjustments comply with federal law, do not exceed the statutory maximums
+46 established in section 56-2504, Idaho Code, and do not cause the program to
+47 exceed its appropriation.
+
+4
+1 56-2506. REQUIREMENTS FOR PROVIDERS. (1) Providers who receive assis-
+2 tance on behalf of eligible children under this chapter shall enter into and
+3 abide by the terms of a provider agreement with the department and shall gen-
+4 erate documentation at the time of service sufficient to support the reim-
+5 bursement for child care services. Providers are required to keep the fol-
+6 lowing child care records:
+7 (a) Proof of attendance each day with authentication of a parent,
+8 guardian, or preapproved designee dropping off and retrieving each
+9 child;
+10 (b) Billing and receipts;
+11 (c) Policies or manuals developed by the provider governing procedures
+12 for billing, attendance, copayment collection, operating hours, and
+13 signing a child into and out of child care;
+14 (d) All rates, fees, and costs of any kind charged by the provider; and
+15 (e) Any other related records required by the department.
+16 (2) The department shall be permitted access at any time of business op-
+17 erations to the child care facilities of a provider who is receiving assis-
+18 tance on behalf of an eligible child and to monitor and inspect the facility.
+19 The department shall be permitted to access, inspect, review, copy, or re-
+20 move any child care records required by this chapter. A provider shall im-
+21 mediately produce records or provide access upon request by the department.
+22 Records required by this section shall be kept available by the child care
+23 facility at all times for a minimum of three (3) years.
+24 (3) Any business entity or individual providing child care who is re-
+25 ceiving assistance on behalf of an eligible child under this chapter shall be
+26 registered as a business entity with the Idaho secretary of state.
+27 (4) A provider shall receive payment for assistance on behalf of an eli-
+28 gible child only after substantiating child care attendance and documenting
+29 legitimate services provided in a manner and on a cadence prescribed by the
+30 department.
+31 (5) A provider is prohibited from paying, directly or indirectly or
+32 overtly or covertly, for an eligible child to attend the provider's child
+33 care facility.
+34 (6) Providers are responsible for ensuring families pay the determined
+35 child care costs and may not waive these costs.
+36 (7) Providers receiving assistance on behalf of an eligible child shall
+37 not be considered employees of the department and shall not hold themselves
+38 out as employees of the department by virtue of their participation in the
+39 program.
+40 56-2507. PROGRAM INTEGRITY. (1) When the department has reasonable
+41 suspicion to believe that a provider seeks payment on behalf of an eligible
+42 child in a manner contrary to state or federal law, the department is autho-
+43 rized to immediately suspend payment and conduct an investigation. Reasons
+44 to suspend payment include but are not limited to:
+45 (a) Any claims for child care services for which the department has a
+46 reasonable suspicion were not provided;
+47 (b) Child care services not documented by the provider as required by
+48 law or the provider agreement;
+
+5
+1 (c) Child care services provided contrary to state or federal law or the
+2 provider agreement;
+3 (d) Failure to maintain records or provide immediate access to records
+4 as required by law;
+5 (e) The department believes a provider is paying for an eligible child
+6 to attend the provider's child care facility in violation of law or the
+7 provider agreement; or
+8 (f) The department has determined that an intentional program viola-
+9 tion has occurred and has provided notice of this determination.
+10 (2) If the department determines that an intentional program violation
+11 has occurred, the department shall send written notice of the determination
+12 to the family or provider stating the reasons for the determination. The
+13 decision of the department may be appealed to the office of administrative
+14 hearings within twenty-eight (28) days of the date of the issuance of the no-
+15 tice to the family or provider. The department may continue any suspension
+16 of payment for the duration of the administrative appeal.
+17 (a) The office of administrative hearings shall, within twenty-eight
+18 (28) days of receipt of the appeal, review the full record regarding the
+19 department's decision and hold a hearing. After the hearing, the ad-
+20 ministrative law judge shall submit a written recommendation to the de-
+21 partment and the family or provider. The recommendation by the adminis-
+22 trative law judge either to affirm or reverse the department's decision
+23 shall be based on the full record of the department's decision and rel-
+24 evant state and federal law. The recommendation by the administrative
+25 law judge shall be in writing and accompanied by a reasoned opinion.
+26 (b) Within twenty-eight (28) days following the issuance of the hear-
+27 ing officer's written recommendation, the department shall either af-
+28 firm or reverse its initial decision.
+29 (c) If, upon reconsideration of its initial decision, the department:
+30 (i) Affirms its initial decision, the family or provider may ap-
+31 peal pursuant to chapter 52, title 67, Idaho Code; or
+32 (ii) Reverses its initial decision, then there shall be no fur-
+33 ther appeal and payments shall resume, including back payments.
+34 (3) An intentional program violation is established when a family or
+35 provider admits the violation in writing and waives any right to a hearing
+36 or appeal pursuant to this section or when determined by the department pur-
+37 suant to this section. The consequences the department may impose for fraud
+38 or any established intentional program violations are as follows:
+39 (a) Any family or provider who is established to have committed an in-
+40 tentional program violation shall be ineligible for the program for no
+41 less than one (1) year but up to a period of three (3) years, as deter-
+42 mined by the department.
+43 (b) Any family or provider who is established to have committed a second
+44 intentional program violation shall be ineligible for the program for a
+45 period of no less than two (2) years but up to a period of five (5) years,
+46 as determined by the department.
+47 (c) Any family or provider who is established to have committed a third
+48 or subsequent intentional program violation shall be permanently inel-
+49 igible for the program.
+
+6
+1 (4) When the department establishes an intentional program violation,
+2 it shall verify that any other benefits an individual receives pursuant to
+3 this title strictly conform with state and federal law.
+4 (5) For a first violation of the provisions of this subsection, the
+5 department may exercise the authority granted pursuant to section 56-209h,
+6 Idaho Code, to terminate a provider agreement or otherwise deny provider
+7 status for up to five (5) years. Any termination for a second or subsequent
+8 violation shall be for a minimum period of five (5) years up to permanent
+9 ineligibility for the program, in the discretion of the department. The
+10 department may terminate provider status for any provider who:
+11 (a) Submits a claim with knowledge the claim is incorrect;
+12 (b) Submits a fraudulent claim;
+13 (c) Knowingly makes a false statement or representation of material
+14 facts in any document required to be maintained or submitted to the de-
+15 partment;
+16 (d) Fails repeatedly or substantially to comply with relevant federal
+17 law, this chapter, or any rules promulgated under this chapter;
+18 (e) Knowingly violates any material term or condition of the provider
+19 agreement;
+20 (f) Has failed to repay, or was a managing entity or had an ownership
+21 or control interest in any entity that has failed to repay, any overpay-
+22 ments or claims previously found to have been obtained contrary to rel-
+23 evant federal law, this chapter or the rules promulgated thereunder, or
+24 the provider agreement;
+25 (g) Has been found, or was a managing employee in any entity that has
+26 been found, to have engaged in fraudulent conduct or abusive conduct; or
+27 (h) Fails to meet the qualifications specifically required in relevant
+28 state or federal law, including chapter 11, title 39, Idaho Code, for
+29 providers licensed pursuant to that chapter.
+30 (6) The department may refuse to enter into a provider agreement when:
+31 (a) The provider has been convicted of a felony offense;
+32 (b) The provider has failed to repay the department moneys that had been
+33 previously determined to have been owed to the department;
+34 (c) The provider has a pending investigation for program fraud or
+35 abuse;
+36 (d) The provider was the managing employee, officer, or owner of an en-
+37 tity whose provider agreement was terminated pursuant to subsection (5)
+38 of this section; or
+39 (e) The provider has a current exclusion from participation in federal
+40 programs by the department of health and human services office of the
+41 inspector general list of excluded individuals and entities.
+42 (7) For any overpayment to a provider for assistance on behalf of an
+43 eligible child, the department is authorized to recoup or recover the full
+44 amount of overpayment. Interest shall accrue on overpayments at the statu-
+45 tory rate established in section 28-22-104, Idaho Code, from the date of the
+46 final determination of overpayment; provided, however, interest shall not
+47 accrue on overpayments made due to department error. Any overpayment due to
+48 family or provider error, intentional program violation, or fraud shall be
+49 recovered in full.
+
+7
+1 (8) Department authorities provided pursuant to this section shall not
+2 be construed to limit any other authorities available to the department in
+3 other relevant state or federal law to prevent or respond to fraud, waste, or
+4 abuse and ensure program integrity.
+5 (9) The department is authorized to collaborate with local, state, and
+6 federal law enforcement to ensure providers and families comply with state
+7 and federal law and to aid in the prosecution of any criminal violations of
+8 the law arising from the program.
+9 (10) The department may promulgate administrative rules, subject to
+10 legislative approval, to prevent fraud, waste, or abuse in the program and to
+11 ensure program integrity.
+12 56-2508. PROGRAM OVERSIGHT. (1) The department shall, for the pur-
+13 poses of executing section 56-2507, Idaho Code, implement a fraud detection
+14 and remediation system no later than July 1, 2027, that shall assist in
+15 detecting, preventing, and deterring fraud, waste, and abuse in the Idaho
+16 child care program.
+17 (2) The system shall assess relative risk using statistical and expert-
+18 defined analytical models to support the prioritization of cases for review
+19 and investigation and to prevent fraudulent applications. The system shall
+20 be capable of incorporating predictive analytics or machine learning tech-
+21 niques that improve risk assessment over time based on reviewed cases and
+22 documented outcomes, while remaining subject to agency oversight. If any
+23 payments to a provider through the program are deemed improper due to error
+24 and not suspected fraud, the department shall notify the provider for the
+25 specific basis for suspension. The department shall provide the child care
+26 program with technical assistance in addressing any reporting errors. The
+27 analysis required by this subsection shall include, at a minimum, the fol-
+28 lowing data domains:
+29 (a) Enrollment and attendance patterns;
+30 (b) Billing and reimbursement data;
+31 (c) Provider profiles and ownership structures;
+32 (d) Licensing status, inspection history, and compliance records;
+33 (e) Family eligibility and redetermination data;
+34 (f) Historical audit or investigation outcomes; and
+35 (g) Cross-program or cross-agency data, as permitted by law.
+36 (3) The system shall include functionality to support agency staff in
+37 reviewing, investigating, documenting, and tracking the resolution of iden-
+38 tified risks, including the ability to record findings, actions taken, and
+39 outcomes. The system may also support the temporary suspension or pausing of
+40 payments associated with identified cases or entities during the pendency of
+41 an investigation, in accordance with agency policy and applicable law, and
+42 subject to human review, approval, and oversight.
+43 (4) The system shall track relevant data through technology platforms,
+44 including but not limited to:
+45 (a) CCMS, in order to monitor digitally or manually submitted atten-
+46 dance records submitted by a parent upon drop off and pick up of an eli-
+47 gible child;
+48 (b) Child care finder, in order to incorporate publicly available
+49 provider data, such as:
+
+8
+1 (i) Cost of service;
+2 (ii) Subsidy eligibility of program;
+3 (iii) Vacancies; and
+4 (iv) Hours of operation;
+5 (c) Licensing management, in order to incorporate agency-accessible
+6 provider data, such as:
+7 (i) Licensed capacity; and
+8 (ii) Current violations; and
+9 (d) Subsidy management, in order to incorporate agency-accessible data
+10 relevant to subsidy program payment processing and all provider-rele-
+11 vant data necessary for payment receipt, such as:
+12 (i) Total subsidy payment amount to provider;
+13 (ii) Overpayment tracking; and
+14 (iii) Historical tracking of subsidy receipts by provider.
+15 (5) In the department's discretion, in order for the functionality of
+16 the fraud detection and remediation system, the department shall procure all
+17 required programs and services through a single vendor in order to support
+18 program integrity through technology modernization.
+19 (6) For the purpose of executing this section, if any necessary exist-
+20 ing program or software platforms are not capable of tracking and sharing
+21 necessary information to enable program oversight, the department shall im-
+22 plement new technology solutions, including but not limited to:
+23 (a) CCMS or application programming interface with commercially avail-
+24 able CCMS;
+25 (b) Child care finder;
+26 (c) Licensing management;
+27 (d) Subsidy management; and
+28 (e) Any additional relevant technology management solutions.
+29 (7) Any data collected or monitored in order to execute this section
+30 shall be done solely for program administration and integrity. No data shall
+31 be sold, shared, or used for unrelated enforcement purposes without express
+32 written consent from relevant parties. Any personally identifiable infor-
+33 mation shall be protected in accordance with federal law.
+34 (8) Any and all detection through this system shall not be used to es-
+35 tablish guilt absent corroborating evidence reviewed and provided by the de-
+36 partment.
+37 (9) Any new technology management solutions deemed necessary by the
+38 department shall be procured from a vendor, as defined in section 56-2501,
+39 Idaho Code.
+40 56-2509. PROGRAM VENDOR. The department shall select a vendor that
+41 shall be responsible for creating up to six hundred (600) licensed child care
+42 programs. Such vendor shall have experience in deploying technology that
+43 does all of the following:
+44 (1) Facilitates the recruitment and support of prospective providers;
+45 (2) Supports providers in business planning and implementation; and
+46 (3) Demonstrates the ability to execute both in-person and virtual
+47 provider recruitment events in high-need areas.
+
+9
+1 56-2510. CONSTRUCTION. Nothing in this chapter shall be construed to
+2 create a right or entitlement to any assistance or benefit to any child, par-
+3 ent, family, or provider.
+4 56-2511. AUTHORITY OF THE ATTORNEY GENERAL. When the department en-
+5 gages the attorney general, he is authorized to exercise concurrent inves-
+6 tigative and prosecutorial authority and responsibility with county prose-
+7 cutors to:
+8 (1) Prosecute persons for the violation of the criminal provisions of
+9 chapter 2, title 56, Idaho Code, that involve or are directly related to this
+10 program; and
+11 (2) Prosecute persons for criminal offenses that are not defined in
+12 chapter 2, title 56, Idaho Code, but that involve or are directly related to
+13 this program.
+14 56-2512. STATE PLAN -- LEGISLATIVE APPROVAL REQUIRED. (1) The depart-
+15 ment shall submit a revised and updated state plan for the program, which
+16 shall be consistent with the provisions of this chapter, by October 1, 2026.
+17 (2) After the updated state plan is submitted pursuant to subsection
+18 (1) of this section, the department shall not seek or implement a state plan
+19 amendment for the program that would expand benefits to any additional indi-
+20 viduals or class of individuals or would increase any net cost to the state
+21 without first obtaining approval from the legislature. Such approval must
+22 be provided in statute and, to be effective, must be listed in this chapter.
+23 56-2513. USE OF FUNDS FOR CAPACITY BUILDING. Any appropriation to the
+24 program for capacity building through contracted spots, grants, or sub-
+25 grants shall give first priority to family child care, relative child care,
+26 group child care, after-school child care, child care provided by a non-
+27 profit corporation with a board of directors acting as fiduciary, or child
+28 care services managed through vendors as defined in section 56-2501, Idaho
+29 Code, and addressing child care for underserved populations as defined in
+30 the state plan.
+31 SECTION 2. That Section 39-1111, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 39-1111. RULES AUTHORIZED. In order to implement the provisions of
+34 this chapter, the department, in addition to other duties imposed by law,
+35 is hereby authorized and directed through rulemaking may promulgate rules,
+36 subject to legislative approval, to establish procedures necessary to im-
+37 plement the provisions of this chapter including procedure for submission
+38 of required certificates as provided in sections 39-1109 and 39-1110, Idaho
+39 Code, and to conduct the criminal history check provided in section 39-1105,
+40 Idaho Code. The rulemaking authority granted in this section shall be lim-
+41 ited to the specific standards and procedures required by this chapter. The
+42 department shall seek to move all necessary rules into this chapter by July
+43 1, 2026.
+
+10
+1 SECTION 3. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after its
+3 passage and approval.

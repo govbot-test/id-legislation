@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 635
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1209, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING INVESTIGATIONS BY THE PROFESSIONAL STANDARDS COMMIS-
+4 SION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-1209, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-1209. PROCEEDINGS TO REVOKE, SUSPEND, DENY OR PLACE REASONABLE
+9 CONDITIONS ON A CERTIFICATE -- LETTERS OF REPRIMAND -- COMPLAINT -- SUBPOENA
+10 POWER -- HEARING. (1) The professional standards commission may conduct
+11 investigations on any signed allegation of unethical conduct of any teacher
+12 brought by:
+13 (a) An individual with a substantial interest in the matter, except a
+14 student in an Idaho public school; or
+15 (b) A local board of trustees.
+16 The allegation shall state the specific ground or grounds for the allegation
+17 of unethical conduct that could lead to a possible revocation, suspension,
+18 placing reasonable conditions on the certificate, or issuance of a letter of
+19 reprimand. Upon receipt of a written and signed allegation of unethical con-
+20 duct, the chief certification officer, in conjunction with the attorney gen-
+21 eral and the professional standards commission investigator, shall conduct
+22 a review of the allegation using established guidelines to determine whether
+23 to remand the issue to the school district to be resolved locally or to open
+24 an investigation and forward the case to the professional standards commis-
+25 sion. Within fourteen (14) days of the decision to forward the case, the
+26 chief certification officer shall notify the complainant and the teacher, in
+27 writing, that an investigation will be conducted and the teacher shall be af-
+28 forded an opportunity to respond to the allegation verbally and in writing
+29 prior to the issuance of the complaint. The executive committee of the pro-
+30 fessional standards commission shall review the circumstances of the for-
+31 warded case at one (1) of the two (2) next regularly scheduled meetings, and
+32 determine whether probable cause exists to warrant the filing of a complaint
+33 and the requesting of a hearing.
+34 (2) Proceedings to revoke or suspend any certificate issued under sec-
+35 tion 33-1201, Idaho Code, or to issue a letter of reprimand or place reason-
+36 able conditions on the certificate shall be commenced by a written complaint
+37 against the holder thereof. Such complaint shall be made by the chief certi-
+38 fication officer stating the ground or grounds for issuing a letter of rep-
+39 rimand, placing reasonable conditions on the certificate, or for revocation
+40 or suspension and proposing that a letter of reprimand be issued, reason-
+41 able conditions be placed on the certificate, or the certificate be revoked
+42 or suspended. A copy of the complaint shall be served upon the certificate
+
+2
+1 holder, either by personal service or by certified mail, within thirty (30)
+2 days of determination by the executive committee or such other time agreed
+3 to by the teacher and the chief certification officer. Any complaint that
+4 contains information relating to behavior that may be criminal shall be re-
+5 ported to the appropriate law enforcement authorities.
+6 (3) Not more than thirty (30) days after the date of service of any
+7 complaint, the person complained against may request, in writing, a hearing
+8 upon the complaint. Any such request shall be made and addressed to the state
+9 superintendent of public instruction; and if no request for hearing is made,
+10 the grounds for suspension, revocation, placing reasonable conditions on
+11 the certificate, or issuing a letter of reprimand stated in the complaint
+12 shall be deemed admitted. Upon a request for hearing, the chief certifi-
+13 cation officer shall give notice, in writing, to the person requesting the
+14 hearing, which notice shall state the time and place of the hearing and which
+15 shall occur not more than ninety (90) days from the request for hearing or
+16 such other time agreed to by the teacher and the chief certification officer.
+17 The time of such hearing shall not be less than five (5) days from the date of
+18 notice thereof. Any such hearing shall be informal and shall conform with
+19 chapter 52, title 67, Idaho Code. The hearing will be held within the school
+20 district in which any teacher complained of shall teach, or at such other
+21 place deemed most convenient for all parties.
+22 (4) Any such hearing shall be conducted by three (3) or more panel mem-
+23 bers appointed by the chairman of the professional standards commission, a
+24 majority of whom shall hold a position of employment the same as the person
+25 complained against. One (1) of the panel members shall serve as the panel
+26 chair. The panel chair shall be selected by the chairman of the professional
+27 standards commission from a list of former members of the professional stan-
+28 dards commission who shall be instructed in conducting administrative hear-
+29 ings. No commission member who participated in the probable cause determi-
+30 nation process in a given case shall serve on the hearing panel. All hear-
+31 ings shall be held with the object of ascertaining the truth. Any person com-
+32 plained against may appear in person and may be represented by legal counsel,
+33 and may produce, examine and cross-examine witnesses, and, if he chooses to
+34 do so, may submit for the consideration of the hearing panel a statement, in
+35 writing, in lieu of oral testimony, but any such statement shall be under
+36 oath and the affiant shall be subject to cross-examination.
+37 (5) The state superintendent of public instruction, as authorized by
+38 the state board of education, has the power to issue subpoenas and compel
+39 the attendance of witnesses and compel the production of pertinent papers,
+40 books, documents, records, accounts and testimony. The state board or its
+41 authorized representative may, if a witness refuses to attend or testify or
+42 to produce any papers required by such subpoena, report to the district court
+43 in and for the county in which the proceeding is pending, by petition, set-
+44 ting forth that a due notice has been given of the time and place of atten-
+45 dance of the witnesses, or the production of the papers, that the witness has
+46 been properly summoned, and that the witness has failed and refused to at-
+47 tend or produce the papers required by this subpoena before the board, or its
+48 representative, or has refused to answer questions propounded to him in the
+49 course of the proceedings, and ask for an order of the court compelling the
+50 witness to attend and testify and produce the papers before the board. The
+
+3
+1 court, upon the petition of the board, shall enter an order directing the
+2 witness to appear before the court at a time and place to be fixed by the court
+3 in the order, the time to be not more than ten (10) days from the date of the
+4 order, and then and there shall show cause why he has not attended and testi-
+5 fied or produced the papers before the board or its representative. A copy of
+6 the order shall be served upon the witness. If it shall appear to the court
+7 that the subpoena was regularly issued by the board and regularly served, the
+8 court shall thereupon order that the witness appear before the board at the
+9 time and place fixed in the order and testify or produce the required papers.
+10 Upon failure to obey the order, the witness shall be dealt with for contempt
+11 of court. The subpoenas shall be served and witness fees and mileage paid as
+12 allowed in civil cases in the district courts of this state.
+13 (6) Within twenty-one (21) days of the conclusion of any hearing
+14 dealing with the revocation, suspension, denial of a certificate, placing
+15 reasonable conditions on the certificate, or issuing a letter of reprimand,
+16 the hearing panel shall submit to the chief certification officer, to the
+17 person complained against and to the chief administrative officer of the
+18 public school employing the certificate holder, if any, a concise statement
+19 of the proceedings, a summary of the testimony, and any documentary evidence
+20 offered, together with the findings of fact and a decision. The hearing
+21 panel may determine to suspend or revoke the certificate, or the panel may
+22 order that reasonable conditions be placed on the certificate or a letter of
+23 reprimand be sent to the certificate holder, or if there are not sufficient
+24 grounds, the allegation against the certificate holder is dismissed and is
+25 so recorded.
+26 (7) Within three (3) days of issuance, the hearing panel's decision
+27 shall be made a permanent part of the record of the certificate holder.
+28 Should the final decision be to place reasonable conditions upon the cer-
+29 tificate holder or a suspension or revocation of the teaching certificate,
+30 the professional standards commission must notify the employing public
+31 school of the hearing panel's decision and to provide notice that such may
+32 negatively impact upon the employment status of the certificated employee.
+33 (8) The final decision of the hearing panel shall be subject to judicial
+34 review in accordance with the provisions of chapter 52, title 67, Idaho Code,
+35 in the district court of the county in which the holder of a revoked certifi-
+36 cate has been last employed as a teacher.
+37 (9) Whenever any certificate has been revoked, suspended or has had
+38 reasonable conditions placed upon it, or an application has been denied, the
+39 professional standards commission may, upon a clear showing that the cause
+40 constituting grounds for the listed actions no longer exists, issue a valid
+41 certificate. Provided however, that no certificate shall be issued to any
+42 person who has been convicted of any crime listed in subsection (2) of sec-
+43 tion 33-1208, Idaho Code.
+44 (10) For any person certified in another state and applying for certifi-
+45 cation in Idaho, and for any person previously certified in this state who is
+46 applying for certification in the event their certification has lapsed or is
+47 seeking renewal of a current certification, the chief certification officer
+48 shall deny an application for a new certificate or for a renewal of a cer-
+49 tificate, regardless of the jurisdiction where such certificate was issued,
+50 if there are any unsatisfied conditions on such current or previously is-
+
+4
+1 sued certificate or if there is any form of pending investigation by a state
+2 agency concerning the applicant's teaching license or certificate. Pro-
+3 vided however, the chief certification officer shall not automatically deny
+4 the application if such person authorized in writing that the chief certi-
+5 fication officer and the professional standards commission shall have full
+6 access to the investigative files concerning the conditions on, or investi-
+7 gation concerning, such certificate in Idaho or any other state or province.
+8 Upon review of the information authorized for release by the applicant, the
+9 chief certification officer shall either grant or deny such application or,
+10 upon denial and upon written request made by the applicant within thirty
+11 (30) days of such denial, shall afford the applicant with the procedures set
+12 forth in subsections (3) through (9) of this section. If the applicant does
+13 not execute the written authorization discussed herein, reapplication may
+14 be made once all investigations have been completed and all conditions have
+15 been satisfied, resulting in a clear certificate from the issuing state or
+16 province.
+17 (11) For the purposes of this section, the term "teacher" shall include
+18 any individual required to hold a certificate pursuant to section 33-1201,
+19 Idaho Code.
+20 SECTION 2. An emergency existing therefor, which emergency is hereby
+21 declared to exist, this act shall be in full force and effect on and after
+22 July 1, 2026.

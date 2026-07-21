@@ -1,0 +1,113 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1389
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO POLLING PLACES; AMENDING SECTION 34-302, IDAHO CODE, TO PRO-
+3 VIDE A LIMITATION OF LIABILITY FOR OWNERS OF PROPERTY USED AS A POLLING
+4 PLACE; AMENDING SECTION 63-602, IDAHO CODE, TO REVISE PROVISIONS RE-
+5 GARDING PROPERTY EXEMPT FROM TAXATION; AND DECLARING AN EMERGENCY AND
+6 PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 34-302, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 34-302. DESIGNATION OF PRECINCT POLLING PLACES -- LIMITATION OF LI-
+11 ABILITY. (1) The board shall, by the fifth Friday before any election,
+12 designate a suitable polling place for each election precinct. Insofar as
+13 possible, the board shall designate the same polling place for the general
+14 election that it designated for the primary election. The physical arrange-
+15 ments of the polling place shall be sufficient to guarantee all voters the
+16 right to cast a secret ballot. Public school facilities shall be made avail-
+17 able to the board as precinct polling places. All polling places designated
+18 as provided herein shall conform to the accessibility standards adopted by
+19 the secretary of state pursuant to the voting accessibility for the elderly
+20 and handicapped act, 52 U.S.C. 20101 et seq. The expense of providing such
+21 polling places shall be a public charge and paid out of the county treasury.
+22 (2) An owner of a property who either directly or indirectly invites
+23 or permits without charge any person to use such property as a polling place
+24 owes no duty of care to keep the property safe for entry by others for polling
+25 purposes or to give any warning of a dangerous condition, use, structure,
+26 or activity on such land to persons entering for polling purposes. The in-
+27 stallation of a sign or other form of warning of a dangerous condition, use,
+28 structure, or activity; any modification made for the purpose of improving
+29 the safety of others; or the failure to maintain or keep in place any sign,
+30 other form of warning, or modification made to improve safety shall not cre-
+31 ate liability on the part of an owner of property where there is no other ba-
+32 sis for such liability. Additionally, such owner of a property does not, by
+33 permitting such use as a polling place:
+34 (a) Extend any assurance that the property is safe for any purpose;
+35 (b) Confer on any person entering on such owner's property the legal
+36 status of an invitee or licensee to whom a duty of care is owed; or
+37 (c) Assume responsibility for or incur liability for any injury to per-
+38 son or property caused by an act or omission of any person entering on
+39 such owner's property.
+40 SECTION 2. That Section 63-602, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+
+2
+1 63-602. PROPERTY EXEMPT FROM TAXATION. (1) Property shall be exempt
+2 from taxation as provided in titles 21, 22, 25, 26, 31, 33, 39, 41, 42, 49, 50,
+3 67 and 70, Idaho Code, and in chapters 6, 24, 30, 35 and 45, title 63, Idaho
+4 Code; provided, that no deduction shall be made in assessment of shares of
+5 capital stock of any corporation or association for exemptions claimed under
+6 this section, and provided further, that the term "full cash value" wherever
+7 used in this act shall mean the actual assessed value of the property as to
+8 which an exemption is claimed.
+9 (2) The use of the word "exclusive" or "exclusively" in this chapter
+10 shall mean used exclusively for any one (1) or more, or any combination, of
+11 the exempt purposes provided hereunder and property used for more than one
+12 (1) exempt purpose, pursuant to the provisions of sections 63-602A through
+13 63-602OO, Idaho Code, shall be exempt from taxation hereunder as long as the
+14 property is used exclusively for one (1) or more or any combination of the ex-
+15 empt purposes provided hereunder.
+16 (3) All exemptions from property taxation claimed shall be approved an-
+17 nually by the board of county commissioners or unless otherwise provided:
+18 (a) Exemptions pursuant to sections 63-602A, 63-602F, 63-602I,
+19 63-602J, 63-602L(1), 63-602M, 63-602N, 63-602R, 63-602S, 63-602U,
+20 63-602V, 63-602W, 63-602Z, 63-602DD(1), 63-602EE, 63-602OO, 63-2431,
+21 63-3502, 63-3502A and 63-3502B, Idaho Code, do not require application
+22 or approval by the board of county commissioners. For all other exemp-
+23 tions in title 63, Idaho Code, the process of applying is as specified in
+24 the exemption statutes or, if no process is specified and application is
+25 necessary to identify the property eligible for the exemption, annual
+26 application is required. Exemptions in other titles require no appli-
+27 cation.
+28 (b) For exemptions that require an application, provided such exemp-
+29 tions are for property otherwise subject to assessment by the county
+30 assessor, the application must be made to the county commissioners by
+31 April 15 and the taxpayer and county assessor must be notified of any de-
+32 cision by May 15, unless otherwise provided by law. The decision of the
+33 county commissioners and any subsequent assessment notices sent to the
+34 taxpayer may be appealed to the county board of equalization pursuant to
+35 sections 63-501 and 63-501A, Idaho Code.
+36 (c) For exemptions that require an application, provided such exemp-
+37 tions are for property otherwise subject to assessment by the state tax
+38 commission, application for exemption shall be included with the an-
+39 nual operator's statement as required pursuant to section 63-404, Idaho
+40 Code. Notice of the decision and its effect on the assessment will be
+41 provided in accordance with procedures specified in chapter 4, title
+42 63, Idaho Code. Appeals shall be made to the state tax commission in ac-
+43 cordance with section 63-407, Idaho Code.
+44 (4) An owner of property that is intended for a tax-exempt purpose may
+45 apply to the board of county commissioners for a provisional property tax ex-
+46 emption, pursuant to section 63-1305C, Idaho Code.
+47 (5) The use of any property receiving an exemption provided in section
+48 63-602B, 63-602C, or 63-602E, Idaho Code, as a polling place pursuant to sec-
+49 tion 34-302, Idaho Code, or for other election-related purposes authorized
+50 by law, shall not be deemed inconsistent with the property's tax-exempt sta-
+
+3
+1 tus and shall not affect, impair, or disqualify the property from receiving
+2 or maintaining such exemption.
+3 SECTION 3. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after
+5 July 1, 2026.

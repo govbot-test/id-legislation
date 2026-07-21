@@ -1,0 +1,178 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE CONCURRENT RESOLUTION NO. 120
+BY STATE AFFAIRS COMMITTEE
+1 A CONCURRENT RESOLUTION
+2 STATING FINDINGS OF THE LEGISLATURE AND ENCOURAGING THE ADVANCEMENT OF USED
+3 NUCLEAR FUEL REPROCESSING CAPABILITIES IN IDAHO, AFFIRMING ITS COMMIT-
+4 MENT TO THE 1995 SETTLEMENT AGREEMENT, AND REQUESTING RENEGOTIATION AND
+5 MODIFICATION THEREOF WHERE NECESSARY.
+6 Be It Resolved by the Legislature of the State of Idaho:
+7 WHEREAS, on May 23, 2025, President Trump issued four executive orders
+8 to revitalize the United States' nuclear energy industry and to support na-
+9 tional security and economic growth: Executive Order No. 14299, "Deploying
+10 Advanced Nuclear Reactor Technologies for National Security"; Executive Or-
+11 der No. 14300, "Ordering the Reform of the Nuclear Regulatory Commission";
+12 Executive Order No. 14301, "Reforming Nuclear Reactor Testing at the De-
+13 partment of Energy"; and, of particular relevance to this resolution, Execu-
+14 tive Order No. 14302, "Reinvigorating the Nuclear Industrial Base"; and
+15 WHEREAS, Executive Order No. 14302 directs relevant agencies to recom-
+16 mend a national policy that supports the management of spent nuclear fuel,
+17 also referred to as used nuclear fuel (UNF), and high-level waste and the
+18 development and deployment of advanced fuel cycle capabilities so that a
+19 safe, secure, and sustainable long-term fuel cycle can be established, and
+20 to evaluate the reprocessing, also referred to as recycling, of UNF from the
+21 U.S. Department of War and U.S. Department of Energy (DOE) operations and
+22 describe the steps such federal departments are taking, or must take, to
+23 improve such reprocessing processes; and
+24 WHEREAS, the United States continues to face critical challenges in
+25 managing UNF for commercial, research, and national security reactors; and
+26 WHEREAS, Idaho is uniquely positioned to be the nation's premier des-
+27 tination for UNF reprocessing facilities, a status anchored by its existing
+28 legal framework, unparalleled existing infrastructure, and a highly spe-
+29 cialized legacy workforce due to Idaho being home to the Idaho National
+30 Laboratory (INL); and
+31 WHEREAS, INL is a strategic national asset that houses world-class fa-
+32 cilities for post-irradiation examination, fuel development, and advanced
+33 fuel cycle research and development and is where the original technology for
+34 reprocessing was developed and where UNF and high-level waste from commer-
+35 cial, research, and national security reactors are currently, but only tem-
+36 porarily, stored; and
+37 WHEREAS, INL has produced a specialized, multi-generational workforce
+38 that has honed its expertise through several decades of continuous fuel re-
+39 processing operations and waste management at the INL site, thereby creating
+40 an embedded knowledge base that ensures operational excellence and safety
+41 that would be nearly impossible to replicate elsewhere; and
+42 WHEREAS, the strong partnerships between INL and Idaho's universities
+43 and community colleges ensures a robust talent pipeline for future needs and
+
+2
+1 includes training for nuclear technicians, operators, and maintenance work-
+2 ers; and
+3 WHEREAS, INL is at the forefront of nuclear innovation, with active re-
+4 search and development in aqueous and pyrochemical separation technologies,
+5 advanced reactor fuel cycles, and high-assay low-enriched uranium produc-
+6 tion, thereby solidifying Idaho's capacity for future, cutting-edge repro-
+7 cessing efforts; and
+8 WHEREAS, Idaho's legal framework supports the development of nuclear
+9 technologies with statutes such as section 39-3027, Idaho Code, which pro-
+10 hibits the enactment of laws banning the use of nuclear energy for electric-
+11 ity generation unless submitted to the electorate at the next earliest gen-
+12 eral election; and
+13 WHEREAS, INL has a strong regulatory framework for radiation protec-
+14 tion, as evidenced by 10 CFR 835, Occupational Radiation Protection, which,
+15 among other things, requires compliance with public dose limits consistent
+16 with federal regulation; and
+17 WHEREAS, in 1995, the State of Idaho, through the Governor and Attorney
+18 General, entered into a settlement agreement (1995 settlement agreement)
+19 with the DOE and U.S. Department of the Navy, which established maximum
+20 amounts of UNF and other specified nuclear wastes allowed into Idaho for
+21 treatment at INL and packaging into road-ready containers for more secure
+22 storage and eventual shipment out of Idaho; and
+23 WHEREAS, the 1995 settlement agreement designates INL as the DOE's lead
+24 spent fuel laboratory for UNF; and
+25 WHEREAS, on January 14, 2026, the DOE's Office of Nuclear Energy an-
+26 nounced the establishment of the Center for Used Fuel Research (Center)
+27 at INL that will coordinate a broad and diverse collaboration through a
+28 "hub-and-spoke" network that will encompass other national laboratories
+29 within the DOE complex, leading universities, and key industry partners
+30 across the United States, and will extend its support to and actively col-
+31 laborate with international partners, thereby officially designating INL
+32 as the DOE's leading institution for critical research, development, and
+33 demonstration efforts concerning management of UNF, which are separate and
+34 distinct from INL's critical work under the 1995 settlement agreement; and
+35 WHEREAS, the DOE's announcement and establishment of the Center rein-
+36 force and highlight a key aspect of the 1995 settlement agreement by reaf-
+37 firming INL as the lead spent fuel laboratory for the DOE; and
+38 WHEREAS, the 1995 settlement agreement defines "treat," as that term
+39 applies to UNF or high-level waste, as "any method, technique, or process
+40 designed to change the physical or chemical character of the waste or [spent]
+41 fuel to render it less hazardous; safer to transport, store, dispose of; or
+42 reduce in volume"; and
+43 WHEREAS, the 1995 settlement agreement requires the DOE to "treat" max-
+44 imum quantities of specified UNF, high-level waste, and transuranic wastes
+45 in Idaho so that the same can be permanently disposed outside of Idaho; and
+46 WHEREAS, in April 2024, the State of Idaho and the DOE reached a tar-
+47 geted waiver of certain provisions of the 1995 settlement agreement to
+48 permit shipments of high burn-up UNF to INL for research purposes, thereby
+49 demonstrating Idaho's commitment to advance reprocessing science and enable
+50 cutting-edge nuclear research; and
+
+3
+1 WHEREAS, modern reprocessing technologies offer the potential to re-
+2 cover valuable fissile and fertile materials, reduce high-level waste vol-
+3 umes with more secure, permanent storage of ultimate by-products, and pro-
+4 duce reactor-ready fuel to support both national energy security and eco-
+5 nomic growth; and
+6 WHEREAS, continued development of reprocessing and advancing nuclear
+7 fuel cycles in Idaho would create high-paying science and engineering jobs
+8 and other attractive career opportunities, support INL's and DOE's mission
+9 and the federal policies advancing nuclear energy announced by President
+10 Trump's four executive orders, and contribute to national energy indepen-
+11 dence and economic prosperity.
+12 NOW, THEREFORE, BE IT RESOLVED by the members of the Second Regular Ses-
+13 sion of the Sixty-eighth Idaho Legislature, the Senate and the House of Rep-
+14 resentatives concurring therein, that the Legislature strongly encourages:
+15 (1) Expanding reprocessing research, demonstration, and deployment
+16 activities at INL and related commercialization with the goal of convert-
+17 ing UNF into reactor-ready fuel for reuse across the country and around the
+18 world;
+19 (2) Collaboration between state agencies, the Governor of Idaho, the
+20 Attorney General of Idaho, INL, DOE, private industry, and academic institu-
+21 tions to identify and support pilot-scale and industrial-scale reprocessing
+22 initiatives;
+23 (3) Proactive engagement with local communities, tribal governments,
+24 and other stakeholders to ensure transparency, environmental protection,
+25 and public trust in any reprocessing proposal; and
+26 (4) Alignment of research and deployment efforts with Idaho's law and
+27 with federal safety, security, and nonproliferation standards.
+28 BE IT FURTHER RESOLVED that the Legislature declares that, in its judg-
+29 ment, reprocessing of UNF is not inherently in conflict with the 1995 settle-
+30 ment agreement's terms because:
+31 (1) The recovered material would be converted into reactor-ready fuel,
+32 not simply stored temporarily or permanently in Idaho;
+33 (2) The chemical and physical transformation envisaged by modern re-
+34 processing is within the scope of the 1995 settlement agreement's definition
+35 of "treat"; and
+36 (3) Such activity furthers the objectives of responsible nuclear man-
+37 agement and leverages Idaho's capabilities for the good of the nation.
+38 BE IT FURTHER RESOLVED that the Legislature maintains that any leftover
+39 high-level waste and other UNF waste by-product from reprocessing shall re-
+40 main subject to handling and disposal in accordance with applicable federal
+41 and state laws and regulations and the 1995 settlement agreement's terms and
+42 conditions, as may be renegotiated or modified.
+43 BE IT FURTHER RESOLVED that if the 1995 settlement agreement is de-
+44 termined to restrict reprocessing activity by INL or shipments of UNF into
+45 Idaho for temporary storage and reprocessing, the Legislature urges Idaho's
+46 Governor and Idaho's Attorney General to renegotiate and modify the 1995
+47 settlement agreement to modify such restrictions in exchange for payment of
+48 significant financial consideration to Idaho and perpetual assurance that
+49 human safety, environmental protection, and regulatory rigor are preserved.
+
+4
+1 BE IT FURTHER RESOLVED that the Legislature directs relevant state
+2 agencies and requests Idaho's congressional delegation to advocate for
+3 federal support, such as DOE programs, funding, or regulatory reform, to ad-
+4 vance reprocessing and fuel-cycle research consistent with this Resolution.
+5 BE IT FURTHER RESOLVED that the Legislature requests Idaho's Governor
+6 and Idaho's Attorney General to report to the Legislature in the 2027 leg-
+7 islative session on progress made pursuant to this Resolution, including
+8 steps taken to negotiate federal commitments of significant compensation
+9 to Idaho, such that the Governor and the Attorney General may consider mod-
+10 ifying the 1995 settlement agreement to allow additional UNF or high-level
+11 waste into Idaho, if any, and to further support INL in developing research
+12 programs, and engage private industry and other stakeholders.
+13 BE IT FURTHER RESOLVED that the Secretary of the Senate be, and is hereby
+14 authorized and directed to forward a copy of this Resolution to the congres-
+15 sional delegation representing the State of Idaho in the Congress of the
+16 United States, the Secretary of the U.S. Department of Energy, the Governor
+17 of Idaho, the Attorney General of Idaho, and Idaho National Laboratory lead-
+18 ership.

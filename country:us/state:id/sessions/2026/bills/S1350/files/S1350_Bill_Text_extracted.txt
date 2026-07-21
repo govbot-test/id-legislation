@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1350
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO CASH ROUNDING; AMENDING CHAPTER 36, TITLE 63, IDAHO CODE, BY
+3 THE ADDITION OF A NEW SECTION 63-3643, IDAHO CODE, TO PROVIDE FOR CASH
+4 ROUNDING; AMENDING SECTION 67-2361, IDAHO CODE, TO REVISE A PROVISION
+5 REGARDING CASH PAYMENT BY STATE AGENCIES; AND DECLARING AN EMERGENCY
+6 AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 36, Title 63, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 63-3643, Idaho Code, and to read as follows:
+11 63-3643. CASH ROUNDING. (1) If a seller is unable to settle a cash
+12 transaction to the whole cent using denominations of United States coin or
+13 currency on hand, the seller may round either the total amount due for the
+14 transaction, or the amount of change due back to the purchaser, to the near-
+15 est multiple of five cents (5¢) as follows:
+16 (a) If the final digit of such amount is 1, 2, 6, or 7, the amount shall
+17 be rounded down to the nearest multiple of five cents (5¢); and
+18 (b) If the final digit of such amount is 3, 4, 8, or 9, the amount shall
+19 be rounded up to the nearest multiple of five cents (5¢).
+20 (2) The provisions of this section shall also apply to any cash refunds
+21 of purchases.
+22 (3) For the purposes of this section, "total amount due" means the sum
+23 of the total sales price plus any applicable taxes, fees, or other charges
+24 calculated to the nearest cent. Taxes shall be computed based on the total
+25 sales price before any rounding occurs under this subsection.
+26 SECTION 2. That Section 67-2361, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 67-2361. CASH PAYMENT -- STATE AGENCIES. (1) Any official, depart-
+29 ment, board, commission, or agency of the state of Idaho that accepts payment
+30 for transactions shall accept cash as a method of payment along with any
+31 other methods of payment the official, department, board, commission, or
+32 agency may accept.
+33 (2) No official, department, board, commission, or agency of the state
+34 of Idaho may charge any additional fee for cash payment. Any amounts charged
+35 or withheld due to cash rounding pursuant to section 63-3643, Idaho Code,
+36 shall not constitute a fee under this section.
+37 SECTION 3. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

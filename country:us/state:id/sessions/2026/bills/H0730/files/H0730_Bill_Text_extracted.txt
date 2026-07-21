@@ -1,0 +1,209 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 730
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM; AMENDING CHAP-
+3 TER 2, TITLE 56, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 56-205A,
+4 IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING SUPPLEMENTAL NUTRITION
+5 ASSISTANCE PROGRAM INTEGRITY MEASURES; AMENDING SECTION 56-211, IDAHO
+6 CODE, TO REVISE PROVISIONS REGARDING VERIFICATION FOR THE SUPPLEMENTAL
+7 NUTRITION ASSISTANCE PROGRAM; AND DECLARING AN EMERGENCY AND PROVIDING
+8 AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 2, Title 56, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 56-205A, Idaho Code, and to read as follows:
+13 56-205A. SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM INTEGRITY
+14 MEASURES. (1) The department of health and welfare shall enter into a
+15 data-matching agreement with the Idaho state lottery commission to identify
+16 households with lottery winnings of three thousand dollars ($3,000) or more
+17 and, to the extent permissible under federal law, shall treat this data as
+18 verified upon receipt. To the extent that the data may not be verified upon
+19 receipt, the department shall make referrals for further investigation to
+20 identify households with winnings equal to or greater than the resource
+21 limit for elderly or disabled households as defined in 7 U.S.C. 2014(g)(1).
+22 The department shall promptly disenroll from the supplemental nutrition as-
+23 sistance program (SNAP) any household with winnings equal to or greater than
+24 the resource limit for elderly or disabled households.
+25 (2) On at least a monthly basis, the department of health and welfare
+26 shall:
+27 (a) Review information from the bureau of vital records and health sta-
+28 tistics concerning individuals in households enrolled in SNAP that in-
+29 dicates a change in circumstances that may affect eligibility for SNAP,
+30 including but not limited to death records;
+31 (b) Receive and review information concerning individuals in house-
+32 holds enrolled in SNAP that indicates a change in circumstances that
+33 may affect eligibility for SNAP, including but not limited to potential
+34 changes in residency as identified by out-of-state electronic benefit
+35 transfer transactions;
+36 (c) Receive and review information from the state department of cor-
+37 rection concerning individuals in households enrolled in SNAP that in-
+38 dicates a change in circumstances that may affect eligibility for SNAP,
+39 including but not limited to incarceration status; and
+40 (d) To assess continued eligibility and act on findings, review and act
+41 on the following data from federal sources:
+
+2
+1 (i) Earned income information, death register information, in-
+2 carceration records, supplemental security income information,
+3 beneficiary records, earnings information, and pension informa-
+4 tion maintained by the United States social security administra-
+5 tion;
+6 (ii) Income and employment information maintained in the national
+7 directory of new hires database and child support enforcement data
+8 maintained by the United States department of health and human
+9 services;
+10 (iii) Payment and earnings information maintained by the United
+11 States department of housing and urban development;
+12 (iv) National fleeing felon information maintained by the federal
+13 bureau of investigation; and
+14 (v) Address change information maintained in the United States
+15 postal service national change of address database.
+16 (3) On at least a quarterly basis, the department of health and welfare
+17 shall:
+18 (a) Receive and review information from the department of labor con-
+19 cerning individuals in households enrolled in SNAP that indicates a
+20 change in circumstances that may affect eligibility for SNAP, including
+21 but not limited to changes in employment or wages; and
+22 (b) Receive and review information from the state tax commission con-
+23 cerning individuals in households enrolled in SNAP that indicates a
+24 change in circumstances that may affect eligibility for SNAP, including
+25 but not limited to potential changes in income, wages, or residency as
+26 identified by tax records.
+27 (4) On at least a biannual basis, the department of health and welfare
+28 shall make available to the public on its website data from findings of non-
+29 compliance and fraud investigations in SNAP for the following aggregate,
+30 nonconfidential, and non-personally identifying information:
+31 (a) The number of households investigated for intentional program vio-
+32 lations or fraud;
+33 (b) The total number of households referred for prosecution to the at-
+34 torney general's office and United States attorney's office;
+35 (c) Improper payments and expenditures;
+36 (d) Moneys recovered;
+37 (e) Aggregate data concerning improper payments and ineligible recipi-
+38 ents as a percentage of those investigated and reviewed; and
+39 (f) The aggregate amount of funds expended by electronic benefit trans-
+40 fer card transactions in each state outside of Idaho.
+41 (5) If the department of health and welfare receives information con-
+42 cerning an individual receiving SNAP benefits that indicates a change in
+43 circumstances that may affect eligibility for SNAP, the department shall
+44 review the household's case.
+45 (6) In no case shall categorical eligibility under 7 U.S.C. 2014(a) or
+46 7 CFR 273.2(j)(2)(ii) be granted for any noncash, in-kind, or other benefit,
+47 unless expressly required by federal law for SNAP.
+48 (7) The department of health and welfare shall not apply gross income
+49 standards for SNAP higher than the standards specified in 7 U.S.C. 2014(c)
+50 or allowable financial resources higher than the standards specified in 7
+
+3
+1 U.S.C. 2014(g)(1), other than financial resources described in 7 U.S.C.
+2 2014(g)(2)(D), unless expressly required by federal law. Exempting house-
+3 holds from such gross income standards or allowable financial resource
+4 standards shall not be granted, unless expressly required by federal law.
+5 (8) The department of health and welfare may apply alternate vehicle
+6 allowance standards authorized by 7 U.S.C. 2014(g)(2)(D).
+7 (9) The department of health and welfare shall assign certification pe-
+8 riods no greater than four (4) months to households with zero (0) net income,
+9 households that include an able-bodied adult without dependents, and other
+10 households whose circumstances are determined by the department to be unsta-
+11 ble, unless otherwise prohibited by federal law.
+12 (10) The department of health and welfare shall assign certification
+13 periods of one (1) to two (2) months to households that the department deter-
+14 mined will become ineligible for SNAP in the near future, unless otherwise
+15 prohibited under federal law.
+16 SECTION 2. That Section 56-211, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 56-211. APPLICATION FOR PUBLIC ASSISTANCE -- VERIFICATION FOR FEDERAL
+19 FOOD STAMP SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM. (1) Application for
+20 public assistance under this act section shall be made in the manner and form
+21 prescribed by the state department and the application shall contain such
+22 information bearing on the applicant's eligibility as the state department
+23 may require and as required in subsection (2) of this section.
+24 (2) Applicants seeking benefits under the federal food stamp
+25 supplemental nutrition assistance program (SNAP) shall verify to the state
+26 department the identity of each household member the applicant lists on
+27 the application for such benefits. Identification may be verified either
+28 through readily available documentary evidence, such as a birth certifi-
+29 cate, or through a collateral contact as set forth in federal law, 7 CFR
+30 273.2. Upon a showing of good cause by the applicant as to why such doc-
+31 umentary evidence or collateral contact has not been provided, the state
+32 department shall grant an extension and the applicant may receive the pub-
+33 lic assistance for which he or she has applied for one (1) month. A showing
+34 of good cause shall be required each month the applicant fails to provide
+35 the state department with the required documentary evidence or collateral
+36 contact. Good cause is not shown where a delay in providing documentary
+37 evidence or providing a collateral contact is due to illness, lack of trans-
+38 portation or temporary absences. The provisions of this subsection shall
+39 not apply to applicants who provide, or who have previously provided, a docu-
+40 ment as set forth in section 67-7903(4)(b)(viii) or (ix), Idaho Code.
+41 (3) Pursuant to 7 U.S.C. 2015(f), no individual shall be eligible to re-
+42 ceive SNAP benefits unless the individual is a resident of the United States
+43 and is:
+44 (a) A citizen or national of the United States;
+45 (b) An alien lawfully admitted for permanent residence as an immigrant,
+46 as defined in 8 U.S.C. 1101(a)(15) or 1101(a)(20), excluding alien
+47 visitors, tourists, diplomats, students, or other individuals admit-
+48 ted temporarily without intent to abandon their residence in a foreign
+49 country;
+
+4
+1 (c) An alien who has been granted the status of Cuban or Haitian en-
+2 trant, as defined in section 501(e), P.L. 96-422; or
+3 (d) An individual lawfully residing in the United States in accordance
+4 with a compact of free association pursuant to 8 U.S.C. 1612(b)(2)(G).
+5 (4) The department shall verify the eligibility for SNAP of applicants
+6 and enrollees pursuant to subsection (3) of this section as follows:
+7 (a) If an individual is not a citizen or national of the United States
+8 but is eligible to receive SNAP benefits pursuant to subsection (3) of
+9 this section, the department shall be required to verify eligible alien
+10 status using the systematic alien verification for entitlements (SAVE)
+11 program during enrollment and each eligibility recertification. If
+12 SAVE verification is unsuccessful, the individual shall submit accept-
+13 able documentation to verify eligible alien status, including but not
+14 limited to a permanent resident card, an employment authorization doc-
+15 ument, or other official documentation issued by a federal government
+16 agency, as determined by the department.
+17 (b) If an individual is a citizen or national of the United States for
+18 the purposes of eligibility pursuant to subsection (3) of this section,
+19 the department shall verify such citizenship or nationality during en-
+20 rollment using secure and verifiable documentation, including but not
+21 limited to a certified birth certificate, a United States passport, a
+22 certificate of naturalization, a certificate of citizenship, or a con-
+23 sular report of birth abroad. Verification at recertification shall be
+24 required only if the department has reason to question the individual's
+25 previously verified citizenship or nationality.
+26 (5) If verification confirms that an applicant or enrollee for SNAP is
+27 not lawfully present in the United States or no longer qualifies pursuant to
+28 this section or any successor provision of state or federal law, the depart-
+29 ment shall immediately terminate future SNAP benefits and initiate disen-
+30 rollment.
+31 (6) The department shall submit to the United States department of
+32 agriculture information concerning any household member for whom it is un-
+33 able to verify eligible citizenship or ineligible alien status pursuant to 7
+34 U.S.C. 2015(f) and this section, regardless of whether such household member
+35 is applying to participate in the program as a member of such household.
+36 (7) When administering SNAP, the department shall:
+37 (a) Consider the entire income and financial resources of any individ-
+38 ual rendered ineligible for participation in SNAP pursuant to 7 U.S.C.
+39 2015(f) and subsection (3) of this section when determining the eligi-
+40 bility and benefit allotment of the household of which such individual
+41 is a member; and
+42 (b) Notwithstanding any options provided pursuant to 7 CFR
+43 273.11(c)(3), not prorate or exclude the income or financial resources
+44 of ineligible aliens pursuant to 7 U.S.C. 2015(f) and subsection (3) of
+45 this section. All such income and resources shall be fully considered.
+46 (3) (8) The state department may promulgate rules, subject to legisla-
+47 tive approval, to implement the provisions of this section.
+48 SECTION 3. An emergency existing therefor, which emergency is hereby
+49 declared to exist, this act shall be in full force and effect on and after
+50 July 1, 2026.

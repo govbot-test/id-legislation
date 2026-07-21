@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 881
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO INSURANCE; AMENDING SECTION 41-1830, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING NOTICE OF LAPSE OR TERMINATION OF INDIVIDUAL LIFE IN-
+4 SURANCE; AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 41-1830, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 41-1830. NOTICE OF LAPSE OR TERMINATION OF INDIVIDUAL LIFE INSUR-
+9 ANCE. (1) Notwithstanding the provisions of section 41-1927, Idaho Code, an
+10 individual life insurance policy shall not be issued or delivered in this
+11 state until the applicant has been afforded the option of designating one (1)
+12 person, in addition to the applicant, to receive notice of lapse or termina-
+13 tion of a policy for nonpayment of premium.
+14 (2) A designation made pursuant to subsection (1) of this section shall
+15 be on the application or a form provided by the insurer. The applicant shall,
+16 on such application or form, provide the full name, and address and telephone
+17 number of the person designated to receive notice of lapse or termination of
+18 the policy for nonpayment of premium.
+19 (3) The insurer shall annually notify a policy owner of the right to:
+20 (a) Make a designation pursuant to subsection (1) of this section;
+21 (b) Change the designee; and
+22 (c) Update the contact information of the designee.; and
+23 (d) Make a request for notice by certified mail or commercial delivery
+24 service at a potential cost to the policy owner not to exceed forty dol-
+25 lars ($40.00) pursuant to subsection (6) of this section.
+26 (4) The policy owner may, at the policy owner's discretion, change the
+27 designee or change the contact information of the designee more often than
+28 annually, and the insurer shall make available the form for such changes at
+29 the policy owner's request.
+30 (5) No individual life insurance policy shall lapse or be terminated
+31 for nonpayment of premium unless the insurer, at least fourteen (14) sixty
+32 (60) days prior to the effective date of the lapse or termination, sends no-
+33 tice by first-class United States mail to the policy owner and to the policy
+34 owner's designee, if a designation has been made pursuant to this section, of
+35 the lapse or termination, at the address or addresses provided by the policy
+36 owner for purposes of receiving such notice.
+37 (6) In addition to the notice required pursuant to subsection (5) of
+38 this section, the policy owner of an individual life insurance policy issued
+39 with a face amount in excess of one hundred thousand dollars ($100,000) may
+40 request that a lapse or termination notice be sent by United States postal
+41 service certified mail, return receipt requested, or by a commercial deliv-
+
+2
+1 ery service that provides written or electronic proof of signature required
+2 delivery. If such a request is made:
+3 (a) The request must be made to the insurer in writing at least ninety
+4 (90) days prior to a lapse or termination;
+5 (b) The insurer shall acknowledge the request in writing to the policy
+6 owner, and such acknowledgement shall serve as verification that the
+7 request was received;
+8 (c) The notice of lapse or termination shall be sent at least sixty (60)
+9 days prior to the effective date of the lapse or termination to the pol-
+10 icy owner and, if a designation has been made pursuant to this section,
+11 to the policy owner's designee at the address or addresses provided by
+12 the policy owner for purposes of receiving such notice;
+13 (d) The insurer may charge the policy owner the actual postage and de-
+14 livery confirmation cost charged by the carrier for sending the notice
+15 by certified mail or commercial delivery service, not to exceed forty
+16 dollars ($40.00), and such amount may be added to the policy owner's
+17 next premium payment;
+18 (e) If the notice sent pursuant to this subsection is undeliverable or
+19 refused, the insurer shall have no further obligation under this sub-
+20 section; and
+21 (f) In lieu of certified mail or commercial delivery service, an in-
+22 surer may demonstrate proof of delivery for a lapse or termination
+23 notice the insurer sends pursuant to this subsection by other methods
+24 establishing delivery such as an electronic delivery read receipt,
+25 provided that the policy owner making a request for notice by certified
+26 mail or commercial delivery service is notified by the insurer at the
+27 time of the request that an alternative method establishing delivery
+28 will be used.
+29 (6) (7) The provisions of this section shall apply prospectively to any
+30 individual life insurance policy issued or in force on or after January 1,
+31 2018 2027. Provided however, that the provisions of this section do not ap-
+32 ply to any life insurance policy under which premiums are payable monthly or
+33 more frequently.
+34 SECTION 2. This act shall be in full force and effect on and after Jan-
+35 uary 1, 2027.

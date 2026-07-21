@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1313
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO NATUROPATHIC DOCTOR LICENSING AND NATUROPATH REGISTRATION;
+3 AMENDING SECTION 54-5902, IDAHO CODE, TO REVISE A DEFINITION; AMENDING
+4 SECTION 54-5905, IDAHO CODE, TO PROVIDE FOR THE VOLUNTARY LICENSURE OF
+5 PHARMACISTS AS NATUROPATHIC DOCTORS; AMENDING SECTION 54-5912, IDAHO
+6 CODE, TO SPECIFY THAT A CERTAIN BOARD MEMBER SHALL NOT BE LICENSED UNDER
+7 CHAPTER 59, TITLE 54, IDAHO CODE, BUT SHALL BE LICENSED AS A PHARMACIST
+8 PURSUANT TO IDAHO CODE; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+9 FECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 54-5902, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 54-5902. DEFINITIONS. As used in this chapter:
+14 (1) "Board" means the Idaho board of naturopathic health care.
+15 (2) "License" means a license to practice as a licensed naturopathic
+16 doctor.
+17 (3) "Licensed naturopathic doctor" means an individual licensed as a
+18 medical doctor, doctor of osteopathy, doctor of podiatric medicine, doctor
+19 of chiropractic, doctor of dental medicine, pharmacist, or doctor of nursing
+20 practice who has obtained an approved naturopathic doctoral degree, as set
+21 forth in rule, and who voluntarily elects to seek and receives licensure un-
+22 der this chapter to practice naturopathic health care in Idaho.
+23 (4) "Minor procedure" means the use of operative, electrical, or other
+24 methods for repair and care incidental to superficial lacerations, abra-
+25 sions, superficial lesions, the removal of foreign bodies located in the
+26 superficial tissues, and the use of antiseptics and local topical anesthet-
+27 ics in connection with such methods.
+28 (5) "Naturopathic health care" means the delivery of a distinct pri-
+29 mary health care emphasizing prevention, treatment, and optimal health us-
+30 ing therapeutic methods and substances that encourage an individual's in-
+31 herent self-healing process by a naturopathic practitioner.
+32 SECTION 2. That Section 54-5905, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 54-5905. VOLUNTARY NATUROPATHIC DOCTOR LICENSURE -- REQUIREMENTS --
+35 LIMITATIONS. (1) An applicant shall be qualified for voluntary licensure as
+36 a naturopathic doctor pursuant to this chapter if such applicant:
+37 (a) Possesses current, valid, and unrestricted licensure in any state,
+38 district, or territory of the United States in at least one (1) of the
+39 following medical professions:
+40 (i) Medical doctor or doctor of osteopathy;
+
+2
+1 (ii) Podiatrist;
+2 (iii) Dentist;
+3 (iv) Chiropractor, if such applicant possesses an accredited
+4 doctoral degree in chiropractic medicine as required pursuant to
+5 chapter 7, title 54, Idaho Code; or
+6 (v) Nurse, if such applicant possesses a level of training and ed-
+7 ucation equivalent to an advanced practice registered nurse pur-
+8 suant to chapter 14, title 54, Idaho Code, and has achieved an ac-
+9 credited doctorate degree in nursing; or
+10 (vi) Pharmacist, if such applicant possesses a level of training
+11 and education equivalent to the requirements for pharmacist li-
+12 censure pursuant to section 54-1722, Idaho Code;
+13 (b) Has obtained a certificate of satisfactory completion of a naturo-
+14 pathic doctor curriculum consisting of at least one hundred sixty (160)
+15 credit hours from an institution accredited by an accreditation agency
+16 approved by the United States department of education;
+17 (c) Has not pled guilty to or been convicted of a crime that is deemed
+18 relevant in accordance with section 67-9411(1), Idaho Code, unless such
+19 applicant demonstrates that he has been sufficiently rehabilitated to
+20 warrant the public trust; and
+21 (d) Completes any one (1) of the following:
+22 (i) At least four (4) years of experience in the practice of
+23 naturopathic health care in Idaho that is acceptable to the board;
+24 provided, however, a practitioner who has at least two (2) years
+25 of naturopathic health care experience that is acceptable to the
+26 board and that occurred on or before July 1, 2024, shall satisfy
+27 the requirements of this paragraph;
+28 (ii) Passage of an Idaho state examination proving minimum com-
+29 petency and skills, to be developed and approved by the board by
+30 rule and the American naturopathic medical certification board
+31 pursuant to this chapter; or
+32 (iii) Passage of any national board examination that certifies the
+33 individual has achieved minimum competency and skills in the prac-
+34 tice of naturopathic health care as approved by the board by rule.
+35 (2) A license issued under this chapter shall:
+36 (a) Be issued in the name of the licensed naturopathic doctor;
+37 (b) State the issue and expiration date; and
+38 (c) Always be displayed in a conspicuous manner in the place of business
+39 or employment of the licensee.
+40 (3) A licensed naturopathic doctor may also use the title "licensed
+41 doctor of natural health" or "licensed naturopathic practitioner."
+42 (4) All applications for licensing shall be reviewed and approved by
+43 the board on an individual basis.
+44 (5) A person who is not licensed pursuant to this chapter shall not:
+45 (a) Hold himself out as a naturopathic doctor licensed under this chap-
+46 ter;
+47 (b) Use or advertise using the title of licensed naturopathic doc-
+48 tor (LND), licensed naturopathic practitioner (LNP), or any variant
+49 thereof; or
+
+3
+1 (c) Use any words, abbreviations, figures, configuration of letters,
+2 titles, signs, cards, or devices tending to imply that the person is a
+3 naturopathic doctor licensed in the state of Idaho.
+4 (6) Notwithstanding the provisions of subsection (5) of this section, a
+5 person who is a licensed naturopathic medical doctor pursuant to chapter 51,
+6 title 54, Idaho Code, may use the title "licensed naturopathic doctor."
+7 (7) No license shall be issued by the board until the board has final-
+8 ized and approved licensure requirements by rule as provided by this chapter
+9 and the legislature has approved all rules governing licensure adopted by
+10 the board.
+11 SECTION 3. That Section 54-5912, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 54-5912. FORMULARY COMMITTEE. (1) The board shall appoint a formulary
+14 committee consisting of one (1) member who is licensed under chapter 18, ti-
+15 tle 54, Idaho Code, to practice in Idaho as a pharmacist (PharmD) who is not
+16 licensed under this chapter but is licensed pursuant to Idaho Code, two (2)
+17 members who are either a doctor of osteopathy or a doctor of medicine and who
+18 are not licensed under this chapter but are licensed pursuant to Idaho Code,
+19 and two (2) members who are licensed under this chapter and possess full fed-
+20 eral drug enforcement agency (DEA) registration in good standing.
+21 (2) All members of the formulary committee shall possess a valid and ac-
+22 tive DEA number and be authorized to prescribe within the United States.
+23 (3) Initially, three (3) members shall serve for three (3) years and two
+24 (2) members shall serve for two (2) years. After the initial appointments,
+25 all terms of appointment shall be for three (3) years. No member may serve
+26 for more than two (2) consecutive terms.
+27 (4) The formulary committee shall act in an advisory role in evaluating
+28 prescriptive authority for applicants or other similar issues as called upon
+29 by the board. However, the formulary committee shall first approve the scope
+30 of prescriptive rights that individuals licensed under this chapter may use
+31 before the board approves the scope of prescriptive rights.
+32 SECTION 4. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after
+34 July 1, 2026.

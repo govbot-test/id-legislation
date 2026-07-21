@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 869
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE COMMISSION FOR THE BLIND AND VISU-
+3 ALLY IMPAIRED; APPROPRIATING ADDITIONAL MONEYS TO THE COMMISSION FOR
+4 THE BLIND AND VISUALLY IMPAIRED FOR FISCAL YEAR 2027; PROVIDING RE-
+5 QUIREMENTS ON SERVICE PRIORITIZATION; AND DECLARING AN EMERGENCY AND
+6 PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. In addition to any other appropriation provided by law,
+9 there is hereby appropriated to the Idaho Commission for the Blind and
+10 Visually Impaired the following amounts to be expended according to the des-
+11 ignated expense classes from the listed funds for the period July 1, 2026,
+12 through June 30, 2027:
+13 FOR
+14 FOR TRUSTEE AND
+15 OPERATING BENEFIT
+16 EXPENDITURES PAYMENTS TOTAL
+17 FROM:
+18 RehabilitationRevenueandRefunds
+19 Fund $34,300 $28,400 $62,700
+20 Adaptive Aids and Appliances
+21 Fund 65,000 0 65,000
+22 TOTAL $99,300 $28,400 $127,700
+23 SECTION 2. SERVICE PRIORITIZATION. It is hereby the intent of the Leg-
+24 islature that the Commission for the Blind and Visually Impaired prioritize
+25 funding provided in Section 1 of this act to provide sight restoration ser-
+26 vices to preserve, stabilize, and restore vision for eligible individuals.
+27 SECTION 3. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2026.

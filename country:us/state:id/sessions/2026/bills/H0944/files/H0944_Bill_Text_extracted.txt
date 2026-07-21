@@ -1,0 +1,187 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 944
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO DISTRIBUTION OF MONEYS IN LIQUOR ACCOUNT; AMENDING SECTION
+3 23-404, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DISTRIBUTION OF
+4 MONEYS IN THE LIQUOR ACCOUNT; AMENDING SECTION 33-2139, IDAHO CODE, TO
+5 PROVIDE A CORRECT CODE REFERENCE; AND DECLARING AN EMERGENCY AND PRO-
+6 VIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 23-404, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 23-404. DISTRIBUTION OF MONEYS IN LIQUOR ACCOUNT. (1) The moneys re-
+11 ceived into the liquor account shall be transferred or appropriated as fol-
+12 lows:
+13 (a) An amount of money equal to the actual cost of purchase of alcoholic
+14 liquor and payment of expenses of administration and operation of the
+15 division, as determined by the director and certified quarterly to the
+16 state controller, shall be transferred back to the division; provided,
+17 that the amount so transferred back for administration and operation of
+18 the division shall not exceed the amount authorized to be expended by
+19 regular appropriation authorization.
+20 (b) From fiscal year 2006 through fiscal year 2009, forty percent (40%)
+21 of Beginning in fiscal year 2027, the balance remaining after transfer-
+22 ring the amounts authorized by paragraph (a) of this subsection shall be
+23 transferred or appropriated pursuant to this paragraph. Beginning in
+24 fiscal year 2010, the percentage transferred pursuant to this paragraph
+25 shall increase to forty-two percent (42%) with an increase of two per-
+26 cent (2%) for each subsequent fiscal year thereafter until fiscal year
+27 2014, when such percentage shall be fifty percent (50%).
+28 (i) For fiscal year 2006 and through fiscal year 2009, one mil-
+29 lion eight hundred thousand dollars ($1,800,000) shall be appro-
+30 priated and paid to the cities and counties as set forth in para-
+31 graph (c)(i) and (ii) of this subsection;
+32 (ii) (i) Two million eighty thousand dollars ($2,080,000) shall
+33 be transferred annually to the substance abuse treatment fund cre-
+34 ated in section 23-408, Idaho Code;
+35 (iii) (ii) Eight hundred thousand dollars ($800,000) shall be
+36 transferred annually to the state community college account cre-
+37 ated in section 33-2139, Idaho Code;
+38 (iv) (iii) One million two hundred thousand dollars ($1,200,000)
+39 shall be transferred annually to the public school income fund as
+40 defined in section 33-903, Idaho Code;
+
+2
+1 (v) (iv) Six hundred fifty thousand dollars ($650,000) shall be
+2 transferred annually to the cooperative welfare fund in the dedi-
+3 cated fund;
+4 (vi) (v) Six hundred eighty thousand dollars ($680,000) shall be
+5 transferred annually to the drug court, mental health court and
+6 family court services fund;
+7 (vii) (vi) Four hundred forty thousand dollars ($440,000) shall
+8 be transferred annually to the drug and mental health court super-
+9 vision fund created in section 23-409, Idaho Code; and
+10 (viii) The balance shall be transferred to the general fund, after
+11 one and one-half percent (1.5%) of such balance is transferred to
+12 the peace officers standards and training fund created in section
+13 19-5116, Idaho Code.
+14 (vii) Five million dollars ($5,000,000) shall be transferred an-
+15 nually to the Idaho law enforcement fund established in section
+16 67-2914, Idaho Code.
+17 (c) Beginning in fiscal year 2027, from the balance remaining after the
+18 transfers authorized by paragraphs (a) and (b) of this subsection, one
+19 and one-half percent (1.5%) of such remaining balance shall be trans-
+20 ferred to the peace officers standards and training fund established
+21 in section 19-5116, Idaho Code, and forty-eight and one-half percent
+22 (48.5%) of such remaining balance shall be transferred to the general
+23 fund.
+24 (c) (d) The remainder of the moneys received in the liquor account The
+25 remaining fifty percent (50%) of the balance after the transfers autho-
+26 rized by paragraphs (a) and (b) of this subsection shall be appropriated
+27 and paid as follows:
+28 (i) For fiscal year 2018, forty percent (40%) of the balance re-
+29 maining after the transfers authorized by paragraphs (a) and, (b),
+30 and (c) of this subsection have been made is hereby appropriated to
+31 and shall be paid to the several counties. For fiscal year 2019,
+32 the amount apportioned to counties shall decrease to thirty-nine
+33 and two-tenths percent (39.2%) with a decrease of eight-tenths
+34 percent (.8%) for each subsequent fiscal year thereafter until
+35 fiscal year 2023 when such percentage shall be thirty-six per-
+36 cent (36%). Each county shall be entitled to an amount in the
+37 proportion that liquor sales through the division in that county
+38 during the state's previous fiscal year bear to total liquor sales
+39 through the division in the state during the state's previous fis-
+40 cal year, except that no county shall be entitled to an amount less
+41 than that county received in distributions from the liquor account
+42 during the state's fiscal year 1981.
+43 (ii) For fiscal year 2018, sixty percent (60%) of the balance re-
+44 maining after the transfers authorized by paragraphs (a) and, (b),
+45 and (c) of this subsection have been made is hereby appropriated to
+46 and shall be paid to the several cities. For fiscal year 2019, the
+47 amount apportioned to the several cities shall decrease to fifty-
+48 seven and eight-tenths percent (57.8%) with a decrease of two and
+49 two-tenths percent (2.2%) for each subsequent fiscal year there-
+50 after until fiscal year 2023 when such percentage shall be forty-
+
+3
+1 nine percent (49%). Amounts paid to the several cities shall be
+2 distributed as follows:
+3 1. Ninety percent (90%) of the amount appropriated to the
+4 cities shall be distributed to those cities that have a
+5 liquor store or distribution station located within the cor-
+6 porate limits of the city. Each such city shall be entitled
+7 to an amount in the proportion that liquor sales through the
+8 division in that city during the state's previous fiscal
+9 year bear to total liquor sales through the division in the
+10 state during the state's previous fiscal year, except that
+11 no city shall be entitled to an amount less than that city
+12 received in distributions from the liquor account during the
+13 state's fiscal year 1981;
+14 2. Ten percent (10%) of the amount appropriated to the
+15 cities shall be distributed to those cities that do not have
+16 a liquor store or distribution station located within the
+17 corporate limits of the city. Each such city shall be enti-
+18 tled to an amount in the proportion that its population bears
+19 to the population of all cities in the state that do not have
+20 a liquor store or distribution station located within the
+21 corporate limits of the city, except that no city shall be
+22 entitled to an amount less than that city received in dis-
+23 tributions from the liquor account during the state's fiscal
+24 year 1981.
+25 (iii) For fiscal year 2019, an additional amount of three percent
+26 (3%) of the balance remaining after the transfers authorized by
+27 paragraphs (a) and (b) of this subsection have been made is hereby
+28 appropriated to the several counties for deposit in the district
+29 court fund. Such funds shall be dedicated to provide for the suit-
+30 able and adequate quarters of the magistrate division of the dis-
+31 trict court, including the facilities and equipment necessary to
+32 make the space provided functional for its intended use, and shall
+33 provide for the staff personnel, supplies and other expenses of
+34 the magistrate division. For fiscal year 2020, the amount appor-
+35 tioned to the several counties for deposit in the district court
+36 fund shall be six percent (6%) with an increase of three percent
+37 (3%) for each subsequent year until fiscal year 2023 when such per-
+38 centage shall be fifteen percent (15%). Amounts paid to the sev-
+39 eral counties shall be distributed as follows:
+40 1. The first four hundred forty thousand dollars ($440,000)
+41 shall be distributed to each of the forty-four (44) counties
+42 in equal amounts;
+43 2. Fifty percent (50%) of the remaining funds shall be dis-
+44 tributed to the forty-four (44) counties in proportion to
+45 the population of the county in relation to the population of
+46 the state; and
+47 3. Fifty percent (50%) of the remaining funds shall be dis-
+48 tributed to the forty-four (44) counties in proportion to
+49 the number of misdemeanor and infraction filings initiated
+50 by city law enforcement officers in the county during the
+
+4
+1 state's previous fiscal year in relation to the proportion
+2 of the number of misdemeanor and infraction filings initi-
+3 ated by all city law enforcement officers in the state.
+4 (2) All transfers and distributions shall be made periodically, but not
+5 less frequently than quarterly, but the apportionments made to any county or
+6 city that may during the succeeding three (3) year period be found to have
+7 been in error either of computation or transmittal shall be corrected during
+8 the fiscal year of discovery by a reduction of apportionments in the case of
+9 over-apportionment or by an increase of apportionments in the case of under-
+10 apportionment. The decision of the director on entitlements of counties and
+11 cities shall be final and shall not be subject to judicial review.
+12 (3) For purposes of this section, "city law enforcement officer" means
+13 an individual, either employed directly by a city or by way of a contract for
+14 law enforcement services with another city or county, authorized to investi-
+15 gate, enforce, prosecute or punish violations of city or state statutes, or-
+16 dinances or regulations.
+17 SECTION 2. That Section 33-2139, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 33-2139. STATE COMMUNITY COLLEGE ACCOUNT CREATED. There is hereby
+20 created a state community college account in the state operating fund in the
+21 state treasurer's office to which shall be credited all moneys that may be
+22 transferred pursuant to section 23-404(1)(b)(iii)(ii), Idaho Code. The
+23 state treasurer shall make such disbursements from the account as may be
+24 ordered by the state board of education in accordance with the provisions of
+25 this act.
+26 SECTION 3. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

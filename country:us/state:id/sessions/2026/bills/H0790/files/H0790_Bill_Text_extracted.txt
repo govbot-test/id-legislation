@@ -1,0 +1,150 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 790
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO ARCHITECTS; AMENDING SECTION 54-306, IDAHO CODE, TO ESTABLISH
+3 AN EXEMPTION TO ALLOW THE FILING OF CERTAIN TECHNICAL SUBMISSIONS; AND
+4 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 54-306, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 54-306. EXEMPTIONS. Nothing contained in this chapter shall be held or
+9 construed to have any application to, or to prevent or affect, the following:
+10 (1) The practice of engineering or any other profession or trade for
+11 which a license is required under any law of this state, or the practice
+12 of consultants, officers and employees of the United States while engaged
+13 solely in the practice of architecture for said government.
+14 (2) Draftsmen, students, clerks of work, project representatives and
+15 others working under the supervision of those lawfully practicing as archi-
+16 tects under the provisions of this chapter from acting under the instruc-
+17 tion, control or supervision of their supervisors, or to prevent the employ-
+18 ment of clerks of work or inspectors of buildings paid by the owners from act-
+19 ing, if under the control or direction of a licensed architect who has pre-
+20 pared the drawings and specifications for the building.
+21 (3) The rendering of any architectural service required in the erec-
+22 tion, enlargement, alteration or repair of any building, where the building
+23 is to be or is used as a single or multiple family residence not exceeding
+24 three (3) units or three (3) stories in height; or as a farm building; or for
+25 the purpose of outbuildings or auxiliary buildings in connection with the
+26 residential or farm premises.
+27 (4) The rendering of any architectural service required in the erec-
+28 tion, enlargement, alteration or repair of any building that does not in-
+29 volve the public health or safety.
+30 (5) The preparation of shop drawings by persons other than architects
+31 for use in connection with the execution of their work; or the preparation of
+32 drawings of fixtures or other appliances or equipment, or for any work neces-
+33 sary to provide for their installation.
+34 (6) Expert consultation rendered to an architect by a consultant,
+35 whether licensed or not, employed by the architect to consult, advise and
+36 assist as long as the architect approves, adopts and is responsible for the
+37 results of the consultation, advice and assistance.
+38 (7) An intern working under the supervision of a licensed architect,
+39 including the use of the title "architectural intern," as may be established
+40 and limited by board rule.
+41 (8) A certified interior designer signing and sealing a technical sub-
+42 mission covering the scope of certified interior design. Certified interior
+
+2
+1 designers shall have the authority to submit such a technical submission to
+2 a state or local governmental entity for the purpose of obtaining any requi-
+3 site permit for an interior alteration or construction project. A local gov-
+4 ernment shall process such filings in the same manner as it would if such fil-
+5 ings were submitted by an architect.
+6 (a) Certified interior designers shall not be engaged in the construc-
+7 tion of:
+8 (i) Services that constitute the practice of professional en-
+9 gineering or architecture, except as otherwise provided in this
+10 chapter;
+11 (ii) Modifications or additions to a building envelope, includ-
+12 ing exterior walls, exterior wall claddings, exterior wall open-
+13 ings, exterior windows and doors, balconies and similar projec-
+14 tions, roof assemblies and rooftop structures, and glass and glaz-
+15 ing for exterior use in both vertical and sloped applications in
+16 buildings and structures;
+17 (iii) Changes of building use to occupancies not already allowed
+18 by the current building or structure or changes of building use to
+19 occupancies of a greater hazard;
+20 (iv) Modifications or additions to the construction classifi-
+21 cation of a building or structure according to the international
+22 building code;
+23 (v) Modifications or additions to the structural system of
+24 a building, including changing the building's dead load on the
+25 structural system;
+26 (vi) Material changes to the mechanical, plumbing, heating, air
+27 conditioning, ventilation, electrical, low voltage, elevators
+28 and conveying, fire protection, or fire alarm systems;
+29 (vii) Design of or modifications to an exit stair or exit dis-
+30 charge portion of a means of egress system; or
+31 (viii) Construction that materially affects life safety systems
+32 pertaining to fire safety of structural elements or the fire pro-
+33 tection of structural elements, smoke evacuation and compartmen-
+34 talization systems, or fire-rated vertical shafts in multi-story
+35 structures.
+36 (b) A certified interior designer shall, as a condition of filing tech-
+37 nical submissions for the purpose of obtaining approval for a building
+38 permit, provide to the responsible building official of the jurisdic-
+39 tion proof of the interior designer's professional liability insurance
+40 coverage that is in force.
+41 (c) As used in this subsection, "certified interior designer" means a
+42 person who:
+43 (i) Holds an active certified interior designer certification
+44 from the board. Such certification shall require that the inte-
+45 rior designer:
+46 1. Has met the education and experience requirements of, and
+47 has subsequently passed, the qualification examination pro-
+48 mulgated by the council for interior design qualification or
+49 its successor organization; and
+
+3
+1 2. Maintains active certification with the council for in-
+2 terior design qualification or its successor organization;
+3 and
+4 (ii) Engages in:
+5 1. Consultation, study, design analysis, drawing, space
+6 planning, and specification for nonstructural or nonseismic
+7 interior construction and alteration projects in compliance
+8 with applicable building design and construction acces-
+9 sibility, fire, life safety, and energy codes, standards,
+10 regulations, and guidelines;
+11 2. Preparing and submitting technical submissions for
+12 the purpose of obtaining approval for a building permit as
+13 provided by law for nonstructural or nonseismic interior
+14 construction, materials, finishes, space planning, fur-
+15 nishings, fixtures, equipment, lighting, and reflected
+16 ceiling plans;
+17 3. Designing for fabrication nonstructural elements within
+18 and surrounding interior spaces of buildings;
+19 4. Administration of design construction and contract docu-
+20 ments, as the clients' agent, relating to the functions de-
+21 scribed in this subparagraph, and collaboration with spe-
+22 cialty consultants and licensed practitioners in other ar-
+23 eas of technical expertise; or
+24 5. Creation or alteration of paths of egress.
+25 (d) As used in this subsection, "nonstructural or nonseismic" means in-
+26 terior elements or components that are not load-bearing, do not assist
+27 in the seismic design, and do not require structural computations for
+28 a building. Common nonstructural or nonseismic elements or components
+29 include ceiling and partition systems that employ normal and typical
+30 bracing conventions and are not part of the structural integrity of the
+31 building.
+32 (e) The board is authorized to promulgate rules, subject to legislative
+33 approval, only for the administration of the interior design certifica-
+34 tion provided pursuant to this subsection. Nothing in this subsection
+35 authorizes the board to promulgate rules relating to licensure.
+36 (f) The interior design certification provided for pursuant to this
+37 subsection shall not be required for interior designers who do not
+38 engage in the practice of signing, sealing, and submitting technical
+39 submissions as described in this subsection.
+40 SECTION 2. An emergency existing therefor, which emergency is hereby
+41 declared to exist, this act shall be in full force and effect on and after
+42 July 1, 2026.

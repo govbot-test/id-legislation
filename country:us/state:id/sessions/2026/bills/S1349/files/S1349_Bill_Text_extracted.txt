@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1349
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO MACHINE GUNS; PROVIDING LEGISLATIVE FINDINGS AND INTENT; AMEND-
+3 ING CHAPTER 33, TITLE 18, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+4 18-3328, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING MACHINE GUNS
+5 AND CONTINGENT AUTHORIZATION; AMENDING CHAPTER 33, TITLE 18, IDAHO
+6 CODE, BY THE ADDITION OF A NEW SECTION 18-3329, IDAHO CODE, TO ESTABLISH
+7 PROVISIONS REGARDING A PROHIBITION ON ENFORCEMENT OF INVALID FEDERAL
+8 RESTRICTIONS; PROVIDING SEVERABILITY; AND DECLARING AN EMERGENCY AND
+9 PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. (1) The Legislature of the
+12 State of Idaho finds that:
+13 (a) The right of the people to keep and bear arms is a fundamental, indi-
+14 vidual right that shall not be infringed;
+15 (b) The Second Amendment to the Constitution of the United States and
+16 Section 11, Article I of the Constitution of the State of Idaho protect
+17 the right of law-abiding citizens to keep and bear arms commonly pos-
+18 sessed for lawful purposes;
+19 (c) Federal law currently restricts the manufacture, transfer, and
+20 possession of certain machine guns pursuant to 18 U.S.C. 922(o); and
+21 (d) If such federal restrictions are repealed, invalidated, or oth-
+22 erwise rendered unenforceable, Idaho should immediately recognize and
+23 protect the right of law-abiding citizens and Idaho-based industry to
+24 lawfully possess, manufacture, transfer, and sell machine guns in this
+25 state, subject only to otherwise applicable state law.
+26 (2) It is the intent of the Legislature to:
+27 (a) Establish a contingent, or "trigger," framework under which Idaho
+28 law automatically authorizes the lawful possession, manufacture,
+29 transfer, and sale of machine guns upon the repeal, invalidation, or
+30 unenforceability of 18 U.S.C. 922(o) or any successor provision;
+31 (b) Ensure that Idaho is positioned as a national leader in firearms
+32 freedom and related industry when such federal restrictions cease to
+33 apply; and
+34 (c) Prohibit the use of state and local resources to enforce federal re-
+35 strictions that are no longer valid or enforceable.
+36 SECTION 2. That Chapter 33, Title 18, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 18-3328, Idaho Code, and to read as follows:
+39 18-3328. MACHINE GUNS -- CONTINGENT AUTHORIZATION. (1) As used in this
+40 section:
+
+2
+1 (a) "Machine gun" means any firearm that shoots, is designed to shoot,
+2 or can be readily restored to shoot automatically more than one (1)
+3 shot, without manual reloading, by a single function of the trigger.
+4 (b) "Trigger event" means the first to occur of any of the following:
+5 (i) The repeal by congress of 18 U.S.C. 922(o), or any successor
+6 provision that restricts the possession, transfer, or manufacture
+7 of machine guns by civilians;
+8 (ii) A decision of the supreme court of the United States that
+9 holds 18 U.S.C. 922(o), or any successor provision that restricts
+10 the possession, transfer, or manufacture of machine guns by civil-
+11 ians, unconstitutional in whole or in relevant part;
+12 (iii) A decision of a federal court of competent jurisdiction that
+13 is binding in the state of Idaho and that permanently enjoins the
+14 enforcement of 18 U.S.C. 922(o), or any successor provision that
+15 restricts the possession, transfer, or manufacture of machine
+16 guns by civilians, within the state of Idaho, and such decision is
+17 not stayed; or
+18 (iv) Formal written notice by the attorney general of the state
+19 of Idaho that the bureau of alcohol, tobacco, firearms and explo-
+20 sives, or any successor agency, has ceased enforcing 18 U.S.C.
+21 922(o), or any successor provision that restricts the posses-
+22 sion, transfer, or manufacture of machine guns by civilians, as to
+23 law-abiding civilians generally.
+24 (2) Upon the occurrence of a trigger event, and subject to the provi-
+25 sions of subsection (3) of this section:
+26 (a) It shall be lawful under the laws of the state of Idaho for any
+27 person who is not otherwise prohibited from possessing firearms under
+28 state or federal law to possess, purchase, receive, sell, transfer, or
+29 manufacture a machine gun in this state; and
+30 (b) No state agency, political subdivision, or employee thereof shall
+31 adopt or enforce any rule, regulation, ordinance, or policy that has the
+32 purpose or effect of prohibiting or unduly burdening the lawful posses-
+33 sion, purchase, receipt, sale, transfer, or manufacture of machine guns
+34 as authorized by this section.
+35 (3) Nothing in this section shall:
+36 (a) Authorize the possession of a machine gun by a person who is prohib-
+37 ited from possessing firearms under state or federal law;
+38 (b) Affect the application of generally applicable criminal laws, in-
+39 cluding but not limited to laws relating to the use of firearms in the
+40 commission of a crime, reckless endangerment, or unlawful discharge of
+41 a firearm; or
+42 (c) Be construed to require any person or entity to manufacture, sell,
+43 or transfer a machine gun.
+44 (4) The attorney general shall, within thirty (30) days after determin-
+45 ing that a trigger event has occurred, publish notice of such determination
+46 on the official website of the attorney general and transmit such notice to:
+47 (a) The governor;
+48 (b) The president pro tempore of the senate;
+49 (c) The speaker of the house of representatives; and
+50 (d) The director of the Idaho state police.
+
+3
+1 (5) The provisions of subsections (2) and (3) of this section shall be-
+2 come operative on the thirtieth day following the date on which the attorney
+3 general issues the notice described in subsection (4) of this section.
+4 SECTION 3. That Chapter 33, Title 18, Idaho Code, be, and the same is
+5 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+6 ignated as Section 18-3329, Idaho Code, and to read as follows:
+7 18-3329. PROHIBITION ON ENFORCEMENT OF INVALID FEDERAL RESTRIC-
+8 TIONS. (1) Upon the occurrence of a trigger event, as defined in section
+9 18-3328, Idaho Code, no agency, political subdivision, or employee of the
+10 state of Idaho, acting in an official capacity, shall:
+11 (a) Expend any funds or use any personnel or other resources to enforce,
+12 or to assist in the enforcement of, 18 U.S.C. 922(o), or any successor
+13 provision that restricts the possession, transfer, or manufacture of
+14 machine guns, as defined in section 18-3328, Idaho Code, by civilians,
+15 to the extent such provision has been repealed, invalidated, or ren-
+16 dered unenforceable as described in section 18-3328, Idaho Code; or
+17 (b) Provide material support or resources to any federal agency or
+18 official for the purpose of investigating, citing, or prosecuting any
+19 person for conduct that is lawful pursuant to section 18-3328, Idaho
+20 Code.
+21 (2) Nothing in this section shall be construed to:
+22 (a) Prohibit cooperation or information-sharing relating to conduct
+23 that remains unlawful under state or federal law; or
+24 (b) Limit the authority of state or local law enforcement to investi-
+25 gate or prosecute violations of state law.
+26 SECTION 4. SEVERABILITY. The provisions of this act are hereby declared
+27 to be severable and if any provision of this act or the application of such
+28 provision to any person or circumstance is declared invalid for any reason,
+29 such declaration shall not affect the validity of the remaining portions of
+30 this act.
+31 SECTION 5. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after
+33 July 1, 2026.

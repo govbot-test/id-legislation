@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 592
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PATIENT IMMIGRATION STATUS; AMENDING CHAPTER 13, TITLE 39, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 39-1397, IDAHO CODE, TO ESTAB-
+4 LISH PROVISIONS REGARDING PATIENT IMMIGRATION STATUS DATA COLLECTION
+5 AND TO DEFINE A TERM; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+6 TIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 13, Title 39, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 39-1397, Idaho Code, and to read as follows:
+11 39-1397. PATIENT IMMIGRATION STATUS DATA COLLECTION. (1) Every hospi-
+12 tal that accepts medicaid shall include a provision on its patient admission
+13 or registration forms for the patient or the patient's representative to
+14 state or indicate the immigration status of the patient, including whether
+15 the patient is a United States citizen or lawfully present in the United
+16 States or is not lawfully present in the United States. The inquiry shall
+17 be followed by a statement that the response will not affect patient care
+18 or result in a report of the patient's immigration status to immigration
+19 authorities.
+20 (2) Every hospital shall submit a quarterly report to the Idaho depart-
+21 ment of health and welfare within thirty (30) days after the end of each cal-
+22 endar quarter. Such report shall include the number of hospital admissions
+23 or emergency department visits within the previous quarter that were made by
+24 a patient self-reporting as a citizen of the United States, as being lawfully
+25 present in the United States, or as being not lawfully present in the United
+26 States.
+27 (3) By March 1 of each year, the department of health and welfare shall
+28 submit a report to the governor, the president pro tempore of the senate, and
+29 the speaker of the house of representatives. The report shall include the
+30 total number of hospital admissions and emergency department visits for the
+31 previous calendar year broken down by the three (3) categories described in
+32 subsection (2) of this section. The report shall also describe information
+33 relating to the costs of uncompensated care for aliens who are not lawfully
+34 present in the United States, the impact of uncompensated care on the cost
+35 or ability of hospitals to provide services to the public, hospital funding
+36 needs, and other related information.
+37 (4) The department of health and welfare may promulgate rules, subject
+38 to legislative approval, relating to the format of and information to be con-
+39 tained in quarterly reports and the acceptable formats for hospitals to use
+40 in requesting information regarding a patient's immigration status on hos-
+41 pital admission or registration forms. The rules may not require the disclo-
+
+2
+1 sure of patient names or any other personal identifying information to the
+2 department of health and welfare.
+3 (5) As used in this section, "immigration status" means a person's le-
+4 gal status in the United States as governed by the immigration and national-
+5 ity act. "Immigration status" includes the following groups:
+6 (a) Individuals with citizenship who are born within the territorial
+7 limits of the United States or who have successfully completed the natu-
+8 ralization process after living as a permanent resident for a specified
+9 period;
+10 (b) Permanent residents, including lawful permanent residents who
+11 are granted authorization to live and work in the United States in-
+12 definitely and conditional permanent residents who have gained status
+13 through marriage or certain investor programs, which status is contin-
+14 gent on fulfilling specific conditions;
+15 (c) Nonimmigrants who are authorized to enter the United States only
+16 temporarily for certain purposes, such as students or temporary work-
+17 ers;
+18 (d) Refugees and asylees who have been admitted to the United States
+19 as a refugee, have been granted asylum, or can provide documentary evi-
+20 dence that they have applied for asylum; and
+21 (e) Undocumented migrants or illegal aliens who have overstayed their
+22 visa or entered the United States without authorization regardless of
+23 any temporary status they may have been granted by the department of
+24 homeland security allowing them to be present in the United States.
+25 SECTION 2. An emergency existing therefor, which emergency is hereby
+26 declared to exist, this act shall be in full force and effect on and after
+27 July 1, 2026.

@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1299, As Amended
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO DIGITAL IDENTIFICATION; AMENDING CHAPTER 23, TITLE 67, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 67-2364, IDAHO CODE, TO ESTABLISH
+4 PROVISIONS REGARDING LIMITATIONS ON DIGITAL IDENTIFICATION; PROVIDING
+5 SEVERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 23, Title 67, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 67-2364, Idaho Code, and to read as follows:
+11 67-2364. LIMITATIONS ON DIGITAL IDENTIFICATION. (1) As used in this
+12 section:
+13 (a) "Digital identification" means an electronic credential issued by
+14 a public entity and stored or displayed on a personal electronic device
+15 to establish a person's identity, age, or legal status.
+16 (b) "Public entity" means the state of Idaho or any agency, department,
+17 board, commission, institution, political subdivision, or contractor
+18 acting on behalf of the state.
+19 (2)(a) A public entity shall not require any person to obtain, main-
+20 tain, present, or use digital identification.
+21 (b) A public entity shall not deny, delay, condition, or reduce any
+22 service, benefit, license, employment, education, or access based on a
+23 person's refusal or inability to use digital identification.
+24 (c) Physical, non-digital identification authorized under Idaho law
+25 shall remain valid for all governmental purposes.
+26 (3)(a) A public entity shall not require a person to surrender, unlock,
+27 or relinquish control of a personal electronic device for identity ver-
+28 ification.
+29 (b) Presentation of digital identification shall not constitute con-
+30 sent to search or access any other contents of a device.
+31 (4)(a) Digital identification may be used only for immediate identity
+32 verification.
+33 (b) A public entity shall not track individuals, retain identity data
+34 beyond a transaction, or use digital identification as a universal or
+35 shared credential across agencies.
+36 (5)(a) The attorney general shall have the authority to enforce the
+37 provisions of this section. Before filing an action for injunctive re-
+38 lief, the attorney general shall provide written notice of the alleged
+39 violation and allow the public entity fifteen (15) days to cure the vi-
+40 olation.
+
+2
+1 (b) If the violation is not cured within fifteen (15) days, the attorney
+2 general may bring an action in district court to enjoin the public en-
+3 tity from violating the provisions of this section.
+4 (6) Any person aggrieved by a violation of this section may bring an ac-
+5 tion in district court for declaratory or injunctive relief.
+6 (7) A court issuing an order pursuant to this section may enforce such
+7 order through the court's contempt authority as provided by law.
+8 (8) A prevailing plaintiff in an action brought pursuant to this sec-
+9 tion shall be entitled to reasonable attorney's fees and costs.
+10 (9) No public employee shall be personally liable for actions taken
+11 within the employee's scope of employment.
+12 SECTION 2. SEVERABILITY. The provisions of this act are hereby declared
+13 to be severable and if any provision of this act or the application of such
+14 provision to any person or circumstance is declared invalid for any reason,
+15 such declaration shall not affect the validity of the remaining portions of
+16 this act.
+17 SECTION 3. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after
+19 July 1, 2026.

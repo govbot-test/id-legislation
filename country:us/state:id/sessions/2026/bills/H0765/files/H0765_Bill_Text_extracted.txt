@@ -1,0 +1,447 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 765
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO TAXING DISTRICTS; AMENDING SECTION 31-1411, IDAHO CODE, TO RE-
+3 VISE PROVISIONS REGARDING THE DE-ANNEXATION AND ANNEXATION OF CERTAIN
+4 PROPERTY AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 63-301A,
+5 IDAHO CODE, TO PROVIDE FOR CERTAIN DEDUCTIONS FROM THE NEW CONSTRUCTION
+6 ROLL; AMENDING SECTION 63-802, IDAHO CODE, TO REVISE PROVISIONS REGARD-
+7 ING CERTAIN BUDGET LIMITATIONS OF FIRE DISTRICTS AND LIBRARY DISTRICTS
+8 AND TO MAKE A TECHNICAL CORRECTION; AND DECLARING AN EMERGENCY AND PRO-
+9 VIDING RETROACTIVE APPLICATION.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 31-1411, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 31-1411. ANNEXATION OF TERRITORY IN SAME COUNTY -- PETITION -- HEAR-
+14 ING -- ORDER -- CERTIFICATION TO COUNTY COMMISSIONERS -- ALTERNATE PROCEDURE
+15 -- ELECTION -- PETITION TO DE-ANNEX PROPERTY FROM EXISTING DISTRICT AND AN-
+16 NEX INTO ANOTHER DISTRICT. (1) After the organization of a fire protection
+17 district, additional contiguous or noncontiguous territory lying within the
+18 same county may be added thereto and shall thereupon and thenceforth be in-
+19 cluded in such district. Territory that is not contained in an existing fire
+20 district, and is not immediately adjoining the boundaries of the fire dis-
+21 trict into which annexation is sought, may be annexed into the district pro-
+22 vided the territory consists of not less than forty (40) contiguous acres.
+23 At least seventy-five percent (75%) or more of the owners or contract pur-
+24 chasers of the land sought to be annexed shall petition the fire protection
+25 board and request annexation of the territory particularly described in said
+26 the petition. Upon receipt of any such a petition to annex, the fire protec-
+27 tion board shall hold a hearing not less than ten (10) nor more than thirty
+28 (30) days thereafter, or, upon the written consent of the petitioner, within
+29 one hundred eighty (180) days, and said the board shall cause notice of such
+30 the hearing, designating the time and place, to be published in at least one
+31 (1) issue of a newspaper of general circulation within the district. Any
+32 person supporting or objecting to such the petition shall be heard at such
+33 the hearing, if in attendance, and at the close of such the hearing said,
+34 the board shall approve or reject said the petition. If the board approves
+35 said the petition, it shall make an order to that effect and certify a copy of
+36 said the order containing an accurate legal description of the annexed ter-
+37 ritory to the board of county commissioners of the county where said the fire
+38 district is situated. Said The board of county commissioners shall there-
+39 upon enter an order of annexation and cause the same to be recorded so as to
+40 include the annexed property on the tax rolls as provided in this chapter
+41 provided.
+
+2
+1 (2) In the event that more than twenty-five percent (25%) of the owners
+2 or contract purchasers of the land sought to be annexed do not join in said
+3 the petition, and the board determines by resolution, entered on the min-
+4 utes of the board, that the annexation would be in the best interests of the
+5 district and that an election on the issue should be held, additional terri-
+6 tory may nevertheless be annexed by the affirmative vote of a majority of the
+7 qualified electors of such the additional territory voting on the question
+8 at an election held therefor, which vote may be taken at an election held as
+9 provided in section 31-1405, Idaho Code. The same procedure shall be adopted
+10 as provided in sections 31-1402 through 31-1406, Idaho Code.
+11 (3) Any area embraced within the limits of any fire protection district
+12 may be de-annexed by such fire protection district and annexed into another
+13 fire protection district:
+14 (a) If owners or contract purchasers of territory located within an
+15 existing fire protection district seek to petition to be annexed into
+16 another fire protection district, they must demonstrate that they are
+17 likely to receive an improved response to requests for services from
+18 the other fire protection district, and obtain written approval of the
+19 board of the fire protection district within which the territory is al-
+20 ready located. The written approval must be attached to their petition
+21 to annex. The procedure for the annexation petition shall be the same as
+22 otherwise provided in this section. Upon receipt of a petition to an-
+23 nex, the fire protection board shall hold a hearing no less than ten (10)
+24 nor more than thirty (30) days thereafter or, upon the written consent
+25 of the petitioner, within one hundred eighty (180) days, and the board
+26 shall cause notice of such hearing, designating the time and place, to
+27 be published in at least one (1) issue of a newspaper of general circu-
+28 lation within the district. Any person supporting or objecting to the
+29 petition shall be heard at the hearing, if in attendance, and at the
+30 close of the hearing, the board shall approve or reject the petition. If
+31 the board approves the petition, it shall make an order to that effect
+32 and certify a copy of the order containing an accurate legal descrip-
+33 tion of the annexed territory to the board of county commissioners of
+34 the county where the fire district is situated and to the state tax com-
+35 mission pursuant to section 63-215, Idaho Code. The board of county
+36 commissioners shall thereupon enter an order of annexation and cause
+37 the same to be recorded so as to include the annexed property on the tax
+38 rolls as provided in this chapter; or
+39 (b) With the consent of the governing boards of each fire protection
+40 district, expressed by ordinance or resolution of each district. If the
+41 boards approve any annexation and corresponding de-annexation of ter-
+42 ritory, the fire protection district annexing territory shall make an
+43 order to that effect and certify a copy of the order containing an accu-
+44 rate legal description of the annexed territory to the board of county
+45 commissioners of the county where the fire district is situated and to
+46 the state tax commission pursuant to section 63-215, Idaho Code. The
+47 board of county commissioners shall thereupon enter an order of annexa-
+48 tion and cause the same to be recorded so as to include the annexed prop-
+49 erty on the tax rolls as provided in this chapter.
+
+3
+1 SECTION 2. That Section 63-301A, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 63-301A. NEW CONSTRUCTION ROLL. (1) The county assessor shall prepare
+4 a new construction roll, which shall be in addition to the property roll,
+5 which new construction roll shall show:
+6 (a) The name of the taxpayer;
+7 (b) The description of the new construction, suitably detailed to meet
+8 the requirements of the individual county;
+9 (c) The amount of taxable market value added to the property on the cur-
+10 rent year's property roll that is directly the result of new construc-
+11 tion;
+12 (d) The amount of taxable market value added as provided in subsection
+13 (3)(f) of this section as a result of dissolution of any revenue alloca-
+14 tion area; and
+15 (e) The amount of taxable market value to be deducted to reflect the ad-
+16 justments required in this paragraph:
+17 (i) Any board of tax appeals or court-ordered value change, if
+18 property has a taxable value lower than that shown on any new con-
+19 struction roll in any one (1) of the immediate five (5) tax years
+20 preceding the current tax year;
+21 (ii) Any reduction in value resulting from correction of value im-
+22 properly included on any previous new construction roll as a re-
+23 sult of double or otherwise erroneous assessment;
+24 (iii) Any reduction in value resulting from the exemption provided
+25 in section 63-602W(4), Idaho Code, in any one (1) of the immediate
+26 five (5) tax years preceding the current tax year; and
+27 (iv) Any voluntary reduction in value reflecting a portion of
+28 certain homestead exemptions as provided in section 63-602G(10),
+29 Idaho Code.; and
+30 (v) Any reduction in value resulting from a fire protection dis-
+31 trict de-annexing territory pursuant to section 31-1411(3), Idaho
+32 Code, or library district de-annexing territory pursuant to sec-
+33 tion 33-2711A, Idaho Code. The full taxable market value for as-
+34 sessment purposes of such de-annexed territory, as certified by
+35 the county assessor, shall be deducted from the new construction
+36 roll for the de-annexing district in the year following the de-an-
+37 nexation.
+38 (2) As soon as possible, but in any event by no later than the first Mon-
+39 day in June, the new construction roll shall be certified to the county audi-
+40 tor and a listing showing the amount of value on the new construction roll in
+41 each taxing district or unit shall be forwarded to the state tax commission
+42 on or before the fourth Monday in July. Provided however, the value shown
+43 in subsection (3)(e) of this section shall be reported to the appropriate
+44 county auditor by the state tax commission by the third Monday in July and the
+45 value sent by the county auditor to each taxing district. The value estab-
+46 lished pursuant to subsection (3)(e) of this section is subject to correc-
+47 tion by the state tax commission until the first Monday in September, and any
+48 such corrections shall be sent to the appropriate county auditor, who shall
+49 notify any affected taxing districts.
+
+4
+1 (3) Except as otherwise provided in this subsection, the value shown on
+2 the new construction roll shall include ninety percent (90%) of the taxable
+3 market value increase from:
+4 (a) Construction of any new structure that previously did not exist,
+5 once it is completed and taxable;
+6 (b) Additions or alterations to existing nonresidential structures;
+7 (c) Installation of new or used manufactured housing that did not pre-
+8 viously exist within the county;
+9 (d) Property newly taxable as a result of loss of the exemption provided
+10 by section 63-602W(3) or (4), Idaho Code;
+11 (e) The construction of any improvement or installation of any equip-
+12 ment used for or in conjunction with the generation of electricity and
+13 the addition of any improvement or equipment intended to be so used, ex-
+14 cept property that has a value allocated or apportioned pursuant to sec-
+15 tion 63-405, Idaho Code, or that is owned by a cooperative or municipal-
+16 ity as those terms are defined in section 61-332A, Idaho Code, or that
+17 is owned by a public utility as that term is defined in section 61-332A,
+18 Idaho Code, owning any other property that is allocated or apportioned.
+19 No replacement equipment or improvements may be included;
+20 (f) Provided such increases do not include increases already reported
+21 on the new construction roll as permitted in paragraphs (i) and (j) of
+22 this subsection, increases in value over the base value of property
+23 on the base assessment roll within an urban renewal revenue alloca-
+24 tion area that has been terminated pursuant to section 50-2914, Idaho
+25 Code, to the extent that this increment exceeds the incremental value
+26 as of December 31, 2006, or, for revenue allocation areas formed af-
+27 ter December 31, 2006, eighty percent (80%) of the increment value.
+28 Notwithstanding other provisions of this section, the new construction
+29 roll shall not include new construction located within an urban renewal
+30 district's revenue allocation area, except as provided in this para-
+31 graph or paragraph (k) of this subsection;
+32 (g) New construction, in any one (1) of the immediate five (5) tax years
+33 preceding the current tax year, allowable but never included on a new
+34 construction roll, provided however, that for such property the value
+35 on the new construction roll shall reflect the taxable value that would
+36 have been included on the new construction roll for the first year in
+37 which the property should have been included;
+38 (h) Formerly exempt improvements on state college-owned or state uni-
+39 versity-owned land for student dining, housing, or other education-re-
+40 lated purposes approved by the state board of education and board of
+41 regents of the university of Idaho as proper for the operation of such
+42 state college or university, provided such improvements were never in-
+43 cluded on any previous new construction roll;
+44 (i) Increases in base value when due to previously determined incre-
+45 ment value added to the base value as required in sections 50-2903 and
+46 50-2903A, Idaho Code, due to a modification of the urban renewal plan.
+47 In this case, the amount added to the new construction roll will equal
+48 eighty percent (80%) of the amount by which the increment value in the
+49 year immediately preceding the year in which the base value adjustment
+50 described in this subsection occurs exceeds the incremental value as of
+
+5
+1 December 31, 2006, or, for revenue allocation areas formed after Decem-
+2 ber 31, 2006, the entire increment value; and
+3 (j) Increases in base value when due to previously determined incre-
+4 ment value added to the base value as a result of a de-annexation within
+5 a revenue allocation area as defined in section 50-2903, Idaho Code.
+6 In this case, the amount added to the new construction roll will equal
+7 eighty percent (80%) of the amount by which the increment value in the
+8 year immediately preceding the year in which the de-annexation de-
+9 scribed in this subsection occurs exceeds the incremental value as of
+10 December 31, 2006, or, for revenue allocation areas formed after Decem-
+11 ber 31, 2006, the entire increment value within the area subject to the
+12 de-annexation.
+13 (k) In the case of a fire protection district or ambulance service
+14 district that encompasses all or part of any urban renewal revenue
+15 allocation area that such district withdrew from pursuant to section
+16 50-2906(5), Idaho Code, eighty percent (80%) of the increment value may
+17 be included on the new construction roll for the year in which the dis-
+18 trict withdrew from such urban renewal revenue allocation area. Each
+19 year thereafter, ninety percent (90%) of the taxable value of otherwise
+20 qualifying new construction shall be included in the new construction
+21 roll for such fire protection district or ambulance service district,
+22 even if such new construction would not otherwise qualify because it was
+23 located within a revenue allocation area.
+24 (4) The amount of taxable market value of new construction shall be the
+25 change in net taxable market value that is attributable directly to the new
+26 construction or loss of the exemption provided by section 63-602W(3) or (4),
+27 Idaho Code. It shall not include any change in value of existing property
+28 that is due to external market forces such as general or localized inflation,
+29 except as provided in subsection (3)(f) of this section.
+30 (5) The amount of taxable market value of new construction shall not in-
+31 clude any new construction of property that has been granted a provisional
+32 property tax exemption, pursuant to section 63-1305C, Idaho Code. A prop-
+33 erty owner may apply to the board of county commissioners, if an application
+34 is required pursuant to section 63-602, Idaho Code, for an exemption from
+35 property tax at the time the initial building permits are applied for or at
+36 the time construction of the property has begun, whichever is earlier, or at
+37 any time thereafter.
+38 (6) The amount of taxable market value of new construction shall not in-
+39 clude any new construction of property for which an exemption from sales and
+40 use tax has been granted pursuant to section 63-3622VV, Idaho Code.
+41 SECTION 3. That Section 63-802, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 63-802. LIMITATION ON BUDGET REQUESTS -- LIMITATION ON TAX CHARGES --
+44 EXCEPTIONS. (1) Except as otherwise provided in this section, no taxing dis-
+45 trict shall certify a budget request for an amount of property tax revenues
+46 to finance an annual budget that exceeds the maximum sum permitted under this
+47 section:
+48 (a)(i) The highest dollar amount of property taxes certified for
+49 its annual budget for any one (1) of the three (3) tax years preced-
+
+6
+1 ing the current tax year, which amount may be increased by a growth
+2 factor of not to exceed three percent (3%) plus the amount of rev-
+3 enue calculated as described in this subsection. The taxing dis-
+4 trict shall determine what portion of the three percent (3%) in-
+5 crease permitted under this subparagraph that it requires and then
+6 calculate a preliminary levy rate based on the percent chosen. In
+7 calculating the preliminary levy rate, the most current taxable
+8 market value shall be used, except that for taxable market values
+9 of centrally assessed operating property, the prior year's valua-
+10 tion may be used instead of the current year's taxable market val-
+11 ues. The preliminary levy rate shall be multiplied by the value
+12 shown on the new construction roll compiled pursuant to section
+13 63-301A, Idaho Code, and by ninety percent (90%) of the value of
+14 annexation during the previous calendar year, as certified by the
+15 state tax commission for taxable market values of operating prop-
+16 erty of public utilities and by the county assessor; except for a
+17 fire protection district annexing property prior to July 1, 2021,
+18 pursuant to section 31-1429, Idaho Code, the new levy rate shall be
+19 multiplied by one hundred percent (100%) of the value of any such
+20 property annexed prior to July 1, 2021.
+21 (ii) The total budget increase calculated under this paragraph
+22 must not exceed eight percent (8%), except that any increase in the
+23 amount of property tax revenue to finance an annual budget added as
+24 a result of the following shall not be subject to such limitation:
+25 1. The termination, de-annexation, plan modification of,
+26 or the withdrawal of certain taxing districts from, a rev-
+27 enue allocation area of an urban renewal district pursuant
+28 to section 63-301A(3)(f), (i), (j), or (k), Idaho Code, or
+29 section 50-2908(1)(g), Idaho Code, shall not be subject to
+30 such limitation;
+31 2. A fire protection district annexing territory pursuant
+32 to section 31-1411(3) or 31-1429, Idaho Code; or
+33 3. A library district annexing territory of another library
+34 district pursuant to section 33-2711A, Idaho Code.
+35 (iii) Following the first year in which a fire protection district
+36 has annexed city property pursuant to section 31-1429, Idaho Code,
+37 the city shall subtract an amount equal to the moneys spent on fire
+38 protection services during the last full year the city provided
+39 fire protection services to its residents from its budget limita-
+40 tion under this section.
+41 (b) If the taxing district has not imposed a levy for three (3) or more
+42 years, the highest dollar amount of property taxes certified for its an-
+43 nual budget for the purpose of paragraph (a)(i) of this subsection shall
+44 be the dollar amount of property taxes certified for its annual budget
+45 during the last year in which a levy was made.
+46 (c) The dollar amount of the actual budget request may be substituted
+47 for the amount in paragraph (a) of this subsection if the taxing dis-
+48 trict is newly created, except as may be provided in paragraph (i) of
+49 this subsection.
+
+7
+1 (d) This section does not apply to school district levies imposed in
+2 section 33-802, Idaho Code.
+3 (e)(i) In the case of a nonschool district for which less than the
+4 maximum allowable increase in the dollar amount of property taxes
+5 is certified for annual budget purposes in any one (1) year, such a
+6 district may, in any following year, recover the forgone increase
+7 by certifying, in addition to any increase otherwise allowed, any
+8 or all of the increase originally forgone. Provided however, that
+9 prior to budgeting any forgone increase, the district must provide
+10 notice of its intent to do so, hold a public hearing that may be in
+11 conjunction with its annual budget hearing, and certify by resolu-
+12 tion the amount of forgone increase to be budgeted and the specific
+13 purpose for which the forgone increase is being budgeted. Upon
+14 adoption of the resolution, the clerk of the district shall file a
+15 copy of the resolution with the county clerk and the state tax com-
+16 mission. Said additional amount shall be included in future cal-
+17 culations for increases as allowed, except as provided in subpara-
+18 graph (iii) of this paragraph.
+19 (ii) If the forgone increase is budgeted for the purpose of main-
+20 tenance and operations, the rate of recovering the reserved for-
+21 gone moneys may increase the taxing district's budget by no more
+22 than one percent (1%) per year.
+23 (iii) If the forgone increase is budgeted for a capital project or
+24 projects, the rate of recovering the reserved forgone moneys may
+25 not exceed three percent (3%) of the taxing district's budget for
+26 the year in which the forgone increase is budgeted. Forgone moneys
+27 budgeted for a capital project must be deducted from the taxing
+28 district's forgone balance in the year in which it is budgeted.
+29 Upon completion of such a capital project, the taxing district
+30 shall certify such completion to the state tax commission and
+31 county clerk. If, upon certification, the state tax commission
+32 finds that the taxing district included forgone moneys for a capi-
+33 tal project in calculating the increase permitted under paragraph
+34 (a) of this subsection, the state tax commission shall direct the
+35 taxing district to reduce its property tax budget for any year
+36 in which the forgone moneys were used to calculate a budget in-
+37 crease, in an amount equal to the forgone moneys budgeted plus any
+38 increases attributed to the forgone moneys improperly included in
+39 the taxing district's property tax budget. For the purpose of this
+40 paragraph, a capital project includes:
+41 1. The construction, expansion, renovation, or replacement
+42 of public facilities, including the acquisition of land and
+43 other site improvements;
+44 2. The construction, expansion, or reconstruction of public
+45 works improvements, including roads, bridges, water sys-
+46 tems, sewer systems, and broadband systems; and
+47 3. The purchase of equipment with a useful life of ten (10)
+48 years or more.
+49 (f) If a taxing district elects to budget less than the maximum allow-
+50 able increase in the dollar amount of property taxes, the taxing dis-
+
+8
+1 trict may reserve the right to recover all or any portion of that year's
+2 forgone increase in a subsequent year by adoption of a resolution spec-
+3 ifying the dollar amount of property taxes being reserved. Otherwise,
+4 that year's forgone increase may not be recovered under paragraph (e) of
+5 this subsection. The district must provide notice of its intent to do so
+6 and hold a public hearing that may be in conjunction with its annual bud-
+7 get hearing, if applicable. The resolution to reserve the right to re-
+8 cover the forgone increase for that year shall be adopted at the annual
+9 budget hearing of the taxing district if the district has a budget hear-
+10 ing requirement.
+11 (g) In the case of cities, if the immediately preceding year's levy sub-
+12 ject to the limitation provided by this section is less than 0.004, the
+13 city may increase its budget by an amount not to exceed the difference
+14 between 0.004 and the actual prior year's levy multiplied by the prior
+15 year's market value for assessment purposes. The additional amount
+16 must be approved by sixty percent (60%) of the voters voting on the ques-
+17 tion at an election called for that purpose and held on the date in May or
+18 November provided by law and may be included in the annual budget of the
+19 city for purposes of this section.
+20 (h) A taxing district may submit to the electors within the district
+21 the question of whether the budget from property tax revenues may be
+22 increased beyond the amount authorized in this section, but not beyond
+23 the levy authorized by statute. The additional amount must be approved
+24 by sixty-six and two-thirds percent (66 2/3%) or more of the voters
+25 voting on the question at an election called for that purpose and held
+26 on the May or November dates provided by section 34-106, Idaho Code.
+27 If approved by the required minimum sixty-six and two-thirds percent
+28 (66 2/3%) of the voters voting at the election, the new budget amount
+29 shall be the base budget for the purposes of this section.
+30 (i) When a nonschool district consolidates with another nonschool
+31 district or dissolves and a new district performing similar governmen-
+32 tal functions as the dissolved district forms with the same boundaries
+33 within three (3) years, the maximum amount of a budget of the district
+34 from property tax revenues shall not be greater than the sum of the
+35 amounts that would have been authorized by this section for the district
+36 itself or for the districts that were consolidated or dissolved and in-
+37 corporated into a new district.
+38 (j) This section does not apply to cooperative service agency levies
+39 imposed in sections 33-317 and 33-317A, Idaho Code.
+40 (k) The amount of money received in the twelve (12) months immediately
+41 preceding June 30 of the current tax year as a result of distributions of
+42 the tax provided in section 63-3502B(2), Idaho Code.
+43 (2) In the case of fire districts, during the year immediately follow-
+44 ing the election of a public utility or public utilities to consent to be pro-
+45 vided fire protection pursuant to section 31-1425, Idaho Code, the maximum
+46 amount of property tax revenues permitted in subsection (1) of this section
+47 may be increased by an amount equal to the current year's taxable value of the
+48 consenting public utility or public utilities multiplied by that portion of
+49 the prior year's levy subject to the limitation provided by subsection (1) of
+50 this section.
+
+9
+1 (3) No board of county commissioners shall set a levy, nor shall the
+2 state tax commission approve a levy for annual budget purposes, which ex-
+3 ceeds the limitation imposed in subsection (1) of this section unless au-
+4 thority to exceed such limitation has been approved by a majority of the tax-
+5 ing district's electors voting on the question at an election called for that
+6 purpose and held pursuant to section 34-106, Idaho Code, provided however,
+7 that such voter approval shall be for a period of not to exceed two (2) years.
+8 (4) The amount of property tax revenues to finance an annual budget does
+9 not include revenues from nonproperty tax sources and does not include rev-
+10 enue from levies for the payment of judicially confirmed obligations pur-
+11 suant to sections 63-1315 and 63-1316, Idaho Code, and revenue from levies
+12 that are voter-approved for bonds, override levies or supplemental levies,
+13 plant facilities reserve fund levies, school emergency fund levies, or for
+14 levies applicable to newly annexed property or for levies applicable to new
+15 construction as evidenced by the value of property subject to the occupancy
+16 tax pursuant to section 63-317, Idaho Code, for the preceding tax year. The
+17 amount of property tax revenues to finance an annual budget does not include
+18 any property taxes that were collected and refunded on property that is ex-
+19 empt from taxation, pursuant to section 63-1305C, Idaho Code.
+20 (5) The amount of property tax revenues to finance an annual budget
+21 shall include moneys received as recovery of property tax for a revoked pro-
+22 visional property tax exemption under section 63-1305C, Idaho Code.
+23 (6) For tax year 2023, before calculating the amount required in sub-
+24 section (1)(a)(i) of this section, the board of county commissioners shall
+25 reduce the approved property tax levy portion of its budget for the immedi-
+26 ate prior three (3) years in an amount equal to the amount levied for indigent
+27 public defense. The reduced budget amount shall be the base budget for the
+28 purpose of subsection (1)(a)(i) of this section.
+29 SECTION 4. An emergency existing therefor, which emergency is hereby
+30 declared to exist, this act shall be in full force and effect on and after its
+31 passage and approval, and retroactively to January 1, 2026.

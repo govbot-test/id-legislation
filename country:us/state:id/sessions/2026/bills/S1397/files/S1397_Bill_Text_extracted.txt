@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1397
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC UTILITIES; AMENDING CHAPTER 1, TITLE 61, IDAHO CODE, BY
+3 THE ADDITION OF A NEW SECTION 61-126, IDAHO CODE, TO DEFINE "WASTEWATER
+4 SYSTEM"; AMENDING CHAPTER 1, TITLE 61, IDAHO CODE, BY THE ADDITION OF A
+5 NEW SECTION 61-127, IDAHO CODE, TO DEFINE "WASTEWATER SERVICE CONNEC-
+6 TION"; AMENDING CHAPTER 1, TITLE 61, IDAHO CODE, BY THE ADDITION OF A NEW
+7 SECTION 61-128, IDAHO CODE, TO DEFINE "WASTEWATER CORPORATION"; AMEND-
+8 ING SECTION 61-129, IDAHO CODE, TO REVISE PROVISIONS REGARDING PUBLIC
+9 UTILITIES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Chapter 1, Title 61, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 61-126, Idaho Code, and to read as follows:
+14 61-126. WASTEWATER SYSTEM. The term "wastewater system" when used in
+15 this chapter means any facility or system designed or used primarily for the
+16 collection, conveyance, storage, treatment, reuse, or disposal of waste-
+17 water or sewage, including pipelines, pump stations, treatment works, la-
+18 goons, and related components, that are owned, operated, or managed to pro-
+19 vide wastewater services.
+20 SECTION 2. That Chapter 1, Title 61, Idaho Code, be, and the same is
+21 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+22 ignated as Section 61-127, Idaho Code, and to read as follows:
+23 61-127. WASTEWATER SERVICE CONNECTION. The term "wastewater service
+24 connection" when used in this chapter means each individual physical point
+25 of discharge where a customer's private sewage piping connects, or will con-
+26 nect, to a wastewater system, typically at the wastewater system's collec-
+27 tion main.
+28 SECTION 3. That Chapter 1, Title 61, Idaho Code, be, and the same is
+29 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+30 ignated as Section 61-128, Idaho Code, and to read as follows:
+31 61-128. WASTEWATER CORPORATION. (1) The term "wastewater corpora-
+32 tion" when used in this chapter includes every person and corporation, as
+33 those terms are defined in this chapter, including their lessees and desig-
+34 nated agents, owning, controlling, operating, or managing any wastewater
+35 system for compensation within the state.
+36 (2) A wastewater corporation serving a wastewater system with fewer
+37 than one hundred (100) wastewater service connections that are actively
+38 flowing or in which the customer pays a fee for standby, ready-to-serve, or
+
+2
+1 capacity reservation purposes shall not be considered a wastewater corpora-
+2 tion and shall be exempt from regulation as a public utility.
+3 (3) The public utilities commission may assess reasonable fees to a
+4 wastewater corporation that is subject to its regulation. The fee shall not
+5 exceed the reasonable costs incurred by the commission for the oversight and
+6 regulation of the wastewater corporation.
+7 SECTION 4. That Section 61-129, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 61-129. PUBLIC UTILITY. The term "public utility" when used in this
+10 act includes every common carrier, pipeline corporation, gas corporation,
+11 electrical corporation, telephone corporation and, water corporation, and
+12 wastewater corporation that has been classified as a public utility pursuant
+13 to this chapter, as those terms are defined in this chapter and each thereof
+14 is hereby declared to be a public utility and to be subject to the jurisdic-
+15 tion, control and regulation of the commission and to the provisions of this
+16 act. The term "public utility" as used in this act shall cover cases:
+17 (1) Where the service is performed and the commodity delivered directly
+18 to the public or some portion thereof, and where the service is performed or
+19 the commodity delivered to any corporation or corporations, or any person or
+20 persons, who in turn, either directly or indirectly or mediately or immedi-
+21 ately, performs the services or delivers such commodity to or for the public
+22 or some portion thereof; and
+23 (2) Where a pipeline corporation delivers the commodity to any corpo-
+24 ration, person, their lessees, receivers or trustees regardless of whether
+25 it offers the pipeline service or commodity to the public or some portion
+26 thereof. Such pipeline shall be subject to the safety supervision and reg-
+27 ulation of the commission only, unless and until such pipeline corporation
+28 makes application to the commission to be regulated generally as a public
+29 utility.
+30 SECTION 5. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after
+32 July 1, 2026.

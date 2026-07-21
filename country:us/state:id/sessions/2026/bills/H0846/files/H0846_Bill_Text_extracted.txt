@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 846
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1027, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING STUDENT ENROLLMENT COUNTS AND TO MAKE A TECHNICAL
+4 CORRECTION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-1027, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-1027. STUDENT ENROLLMENT COUNTS AND RULEMAKING. The state board of
+9 education shall promulgate rules that set forth the procedures for determin-
+10 ing student enrollment counts by school, school district, and statewide, and
+11 the process for reporting such counts. Such rules shall be consistent with
+12 the following:
+13 (1) Full-time enrollment (FTE) shall be based on enrollment in any
+14 school district or public charter school;
+15 (2) A student shall not exceed a total of one (1.0) unweighted FTE in a
+16 single school year, except as provided in subsection (4) of this section;
+17 (3) A kindergarten student shall not exceed a total of one-half (0.5)
+18 unweighted enrollment in a single school year;
+19 (4) A student attending a summer school or night school program shall
+20 not exceed a total of one-fourth (0.25) unweighted enrollment. Such student
+21 may be counted pursuant to both this subsection and subsection (2) of this
+22 section;
+23 (5) A fractional enrollment count schedule shall be specified for any
+24 student enrolled less than one (1.0) FTE in a given school district or public
+25 charter school;
+26 (6) FTE is based on the courses a student is enrolled in at the time of
+27 the official count, as specified in board rule, except that a student may be
+28 counted as enrolled if the term for which such student is enrolled begins af-
+29 ter the time of the official count;
+30 (7) Each school district or public charter school shall conduct an of-
+31 ficial count of enrolled students in the district or school on the first day
+32 of October, the first day of December, the first day of February, and the
+33 first day of April, or the previous school day if those dates do not fall on
+34 a school day; and
+35 (8) A school district or public charter school may shall not count as
+36 enrolled any student who has unexcused absences totaling eleven (11) or more
+37 consecutive school days immediately prior to and including the official
+38 count date.
+39 (9) A school district or public charter school shall not count as en-
+40 rolled any student who has unexcused absences for the first ten (10) consecu-
+41 tive days of the school year. If a student attends at a later date, the school
+
+2
+1 district or public charter school may count the student as enrolled as of the
+2 date of attendance.
+3 SECTION 2. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after
+5 July 1, 2026.

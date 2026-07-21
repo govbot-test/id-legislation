@@ -1,0 +1,177 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 732
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO SALES AND USE TAX; AMENDING SECTION 63-3622O, TO PROVIDE A SALES
+3 AND USE TAX EXEMPTION FOR DONATIONS TO, SALES TO, OR PURCHASES BY THE
+4 SALVATION ARMY AND TO MAKE TECHNICAL CORRECTIONS; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 63-3622O, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 63-3622O. EXEMPT PRIVATE AND PUBLIC ORGANIZATIONS. (1) There are ex-
+10 empted from the taxes imposed by this chapter:
+11 (a) Sales to or purchases by hospitals, health-related entities, edu-
+12 cational institutions, forest protective associations and canal compa-
+13 nies that are nonprofit organizations; and
+14 (b) Donations to, sales to, and purchases by the Idaho Foodbank Ware-
+15 house, Inc.; and
+16 (c) Donations to, sales to, and purchases by food banks or soup kitchens
+17 of food or other tangible personal property used by food banks or soup
+18 kitchens in the growing, storage, preparation or service of food, but
+19 not including motor vehicles or trailers; and
+20 (d) Sales of clothes to, donations of clothes to, and purchases of
+21 clothes by nonsale clothiers; and
+22 (e) Sales to or purchases by centers for independent living; and
+23 (f) Sales to or purchases by the state of Idaho and its agencies and its
+24 political subdivisions; and
+25 (g) Sales to or purchases by volunteer fire departments or licensed
+26 emergency medical service agencies; and
+27 (h) Sales to or purchases by a qualifying senior citizen center; and
+28 (i) Sales to or purchases by the Blind Services Foundation, Inc.; and
+29 (j) Donations to, sales to or purchases by the Advocates for Survivors
+30 of Domestic Violence and Sexual Assault, Inc., a nonprofit corporation;
+31 and
+32 (k) Sales to or purchases by nonprofit organizations offering free den-
+33 tal clinic services to children; and
+34 (l) Admissions to and purchases by museums, as defined in subsection
+35 (2) of this section; and
+36 (m) Donations to, sales to, or purchases by the Salvation Army.
+37 (2) As used in this section, these words shall have the following mean-
+38 ings:
+39 (a) "Educational institution" shall mean nonprofit colleges, univer-
+40 sities, public charter schools organized pursuant to chapter 52, title
+41 33, Idaho Code, the Idaho digital learning academy established pursuant
+42 to chapter 55, title 33, Idaho Code, and other primary and secondary
+
+2
+1 schools, the income of which is devoted solely to education and in which
+2 systematic instruction in the usual branches of learning is given. This
+3 definition does not include schools primarily teaching business, danc-
+4 ing, dramatics, music, cosmetology, writing, gymnastics, exercise and
+5 other special accomplishments nor parent-teacher associations, parent
+6 groups, alumni or other auxiliary organizations with purposes related
+7 to the educational function of an institution or collective group of in-
+8 stitutions.
+9 (b) "Hospital" shall include nonprofit institutions licensed by the
+10 state for the care of ill persons. It shall not extend to nursing homes
+11 or similar institutions.
+12 (c) "Health-related entities" shall mean the Idaho Cystic Fibrosis
+13 Foundation, Idaho Epilepsy League, Idaho Lung Association, March of
+14 Dimes, American Cancer Society, Camp Rainbow Gold, Mental Health As-
+15 sociation, The Arc, The Children's Home Society of Idaho, American
+16 Heart Association, Idaho Ronald McDonald House, United Cerebral Palsy,
+17 Arthritis Foundation, Muscular Dystrophy Foundation, National Mul-
+18 tiple Sclerosis Society, Rocky Mountain Kidney Association, American
+19 Diabetes Association, Easter Seals, Idaho Community Action Agencies,
+20 Idaho Primary Care Association and community health centers that are
+21 members of the Idaho Primary Care Association, the Idaho Association of
+22 Free and Charitable Clinics and its member clinics, the Idaho Diabetes
+23 Youth Programs, Special Olympics Idaho, the Idaho Women's and Chil-
+24 dren's Alliance, and the Family Services Alliance of Southeast Idaho,
+25 together with said entities' local or regional chapters or divisions.
+26 (d) "Canal companies" shall include nonprofit corporations that are
+27 incorporated solely for the purpose of operating and maintaining and
+28 are engaged solely in operation and maintenance of dams, reservoirs,
+29 canals, lateral and drainage ditches, pumps or pumping plants.
+30 (e) "Forest protective associations" shall mean associations whose
+31 purpose is the furnishing, operating and maintaining of a protective
+32 system for the detection, prevention and suppression of forest or range
+33 fires. Forest protective associations shall include only those associ-
+34 ations with which the state of Idaho has contracted or become a member of
+35 pursuant to chapter 1, title 38, Idaho Code.
+36 (f) "Food banks or soup kitchens" shall mean any nonprofit corporation
+37 or association, other than the Idaho Foodbank Warehouse, Inc., one of
+38 whose regular activities is the furnishing or providing of food or food
+39 products to others without charge.
+40 (g) "Nonsale clothier" shall mean any nonprofit corporation or associ-
+41 ation, one of whose primary purposes is the furnishing or providing of
+42 clothes to others without charge.
+43 (h) "Clothes" shall mean garments in general, designed or intended to
+44 be worn by humans, and shall include footwear in addition to wearing ap-
+45 parel.
+46 (i) "Center for independent living" shall mean a private, nonprofit,
+47 nonresidential organization in which at least fifty-one percent (51%)
+48 of the principal governing board, management and staff are individuals
+49 with disabilities and that:
+
+3
+1 (i) Is designed and operated within a local community by individ-
+2 uals with disabilities;
+3 (ii) Provides an array of independent living services and pro-
+4 grams; and
+5 (iii) Is cross-disability.
+6 (j) "Political subdivision" means:
+7 (i) A governmental organization that:
+8 1. Embraces a certain territory,
+9 2. Is organized for public advantage and not in the interest
+10 of private individuals or classes,
+11 3. Has been delegated functions of government, and
+12 4. Has the statutory power to levy taxes; or
+13 (ii) A public health district created by section 39-408, Idaho
+14 Code; or
+15 (iii) A soil conservation district as defined in section 22-2717,
+16 Idaho Code; or
+17 (iv) A drainage district created pursuant to chapter 29, title
+18 42, Idaho Code; or
+19 (v) An irrigation district created pursuant to title 43, Idaho
+20 Code; or
+21 (vi) A state grazing board created by section 57-1204, Idaho
+22 Code; or
+23 (vii) A water measurement district created pursuant to section
+24 42-705 or 42-706, Idaho Code; or
+25 (viii) A ground water management district created pursuant to
+26 chapter 51, title 42, Idaho Code.
+27 (k) "Agency of the state of Idaho" shall mean an office or organization
+28 created by the constitution or statutes of this state and constituting a
+29 component part of the executive, judicial or legislative branch of the
+30 government of this state.
+31 (l) "Volunteer fire department" means an entity exempt from federal
+32 income taxation pursuant to section 501(c)(3) of the Internal Revenue
+33 Code and which primarily provides fire protection or fire prevention on
+34 a not-for-profit basis to surrounding residents.
+35 (m) "Licensed emergency medical service agency" means an emergency
+36 medical service (EMS) licensed by the Idaho military division and which
+37 is exempt from federal income taxation pursuant to section 501(c)(3) of
+38 the Internal Revenue Code and which provides emergency medical services
+39 on a not-for-profit basis to surrounding residents.
+40 (n) "Qualifying senior citizen center" means an entity exempt from in-
+41 come tax pursuant to section 501(c)(3) of the Internal Revenue Code and
+42 which is a community facility for the organization and provision of a
+43 broad spectrum of services, which shall include provision of health,
+44 including mental health, social, nutritional, and educational services
+45 and the provision of facilities for recreational activities for older
+46 individuals.
+47 (o) "Museum" means a public institution or an entity exempt from income
+48 tax pursuant to section 501(c)(3) of the Internal Revenue Code, which
+49 stores, preserves and exhibits objects of art, history, science or
+50 other objects of historical, educational or cultural value on a perma-
+
+4
+1 nent basis in a building, portion of a building or outdoor location and
+2 which provides museum services to the public on a regular basis.
+3 (3) The exemption granted by subsection (1)(f) of this section does not
+4 include any association or other organization whose members are political
+5 subdivisions or state agencies unless the organization is expressly created
+6 under the joint powers provision of sections 67-2328 through 67-2333, Idaho
+7 Code.
+8 (4) The exemptions granted by subsection (1) of this section do not in-
+9 clude the use of tangible personal property by a contractor used to improve
+10 real property of an exempt entity when such use is within the definition pro-
+11 vided by section 63-3615(b), Idaho Code, whether the use tax liability is in-
+12 cluded in a contract total or stated separately in a contract.
+13 (5) There is exempted from the taxes imposed in this chapter the renting
+14 of a place to sleep to an individual by the Idaho Ronald McDonald House.
+15 SECTION 2. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

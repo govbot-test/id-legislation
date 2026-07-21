@@ -1,0 +1,219 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1319
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO INSURANCE; AMENDING TITLE 41, IDAHO CODE, BY THE ADDITION OF A
+3 NEW CHAPTER 67, TITLE 41, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO PRO-
+4 VIDE LEGISLATIVE INTENT, TO DEFINE TERMS, TO ESTABLISH PROVISIONS RE-
+5 GARDING BILLING BY OUT-OF-NETWORK PROVIDERS FOR EMERGENCY SERVICES, TO
+6 ESTABLISH PROVISIONS REGARDING SELF-FUNDED PLAN PARTICIPATION, AND TO
+7 ESTABLISH PROVISIONS REGARDING ENFORCEMENT; AND DECLARING AN EMERGENCY
+8 AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Title 41, Idaho Code, be, and the same is hereby amended
+11 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+12 ter 67, Title 41, Idaho Code, and to read as follows:
+13 CHAPTER 67
+14 EMERGENCY CARE AFFORDABILITY ACT
+15 41-6701. SHORT TITLE. This chapter shall be known and may be cited as
+16 the "Emergency Care Affordability Act."
+17 41-6702. LEGISLATIVE INTENT. It is the intent of the legislature in
+18 enacting this chapter to protect patients who are members of a health bene-
+19 fit plan from high-cost emergency medical bills for care rendered in an out-
+20 of-network freestanding emergency room or by out-of-network providers.
+21 41-6703. DEFINITIONS. As used in this chapter:
+22 (1) "Allowed amount" means the amount determined by a health benefit
+23 plan as payment in full for a covered emergency health care service or item
+24 when furnished by an in-network provider or in-network facility of the same
+25 or similar specialty or type in the same geographic area, including any ap-
+26 plicable cost-sharing responsibility of the covered person, but excluding
+27 billed charges or amounts determined by an out-of-network provider or facil-
+28 ity.
+29 (2) "Emergency medical condition" means a medical, mental health, or
+30 substance use disorder condition manifesting itself by acute symptoms of
+31 sufficient severity, including but not limited to severe pain or emotional
+32 distress, such that a prudent layperson who possesses an average knowledge
+33 of health and medicine could reasonably expect the absence of immediate med-
+34 ical, mental health, or substance use disorder treatment attention to result
+35 in:
+36 (a) A condition placing the health of the individual, or with respect to
+37 a pregnant woman, the health of the woman or her unborn child, in serious
+38 jeopardy;
+39 (b) Serious impairment to bodily functions; or
+
+2
+1 (c) Serious dysfunction of any bodily organ or part.
+2 (3) "Emergency services" means a medical screening examination, as
+3 required pursuant to 42 U.S.C. 1395dd, that is within the capability of the
+4 emergency department of a hospital, or an emergency facility or provider
+5 subject to equivalent federal or state emergency medical screening and sta-
+6 bilization obligations, including ancillary services routinely available
+7 to the emergency department or emergency facility or provider to evalu-
+8 ate that emergency medical condition, and further medical examination and
+9 treatment that are within the capabilities of the staff and facilities
+10 available at the hospital or emergency facility, as are required pursuant to
+11 42 U.S.C. 1395dd to stabilize the patient.
+12 (4)(a) "Freestanding emergency room" means any facility that:
+13 (i) Is not designated as a critical access hospital under federal
+14 law;
+15 (ii) Is physically separate and distinct from the main campus of a
+16 general acute care hospital;
+17 (iii) Principally provides unscheduled emergency medical ser-
+18 vices to the general public on a twenty-four (24) hour basis,
+19 including emergency physician services, diagnostic imaging,
+20 laboratory services, and short-term observation regardless of
+21 whether inpatient beds are maintained;
+22 (iv) Operates or holds itself out as a freestanding emergency de-
+23 partment, micro-hospital, specialty hospital, or hospital outpa-
+24 tient department;
+25 (v) Submits claims for emergency or other medical services to
+26 state-regulated health benefit plans; and
+27 (vi) Operates generally under an out-of-network reimbursement
+28 strategy and participates directly or indirectly in the federal
+29 independent dispute resolution process, whether in its own name or
+30 through any affiliated entity, pursuant to 42 U.S.C. 300gg-111.
+31 (b) The term "freestanding emergency room" does not include:
+32 (i) A general acute care hospital operated as part of a multi-cam-
+33 pus Idaho hospital system licensed pursuant to chapter 13, title
+34 39, Idaho Code;
+35 (ii) Critical access hospitals; and
+36 (iii) A physician-owned, nonemergency surgery center that does
+37 not advertise or hold itself out as an emergency department and
+38 does not provide twenty-four (24) hour emergency medical ser-
+39 vices.
+40 (c) For purposes of this section, ownership structure, federal program
+41 participation, management arrangements, or physician staffing models
+42 shall not affect whether a facility is deemed a freestanding emergency
+43 room if the criteria in paragraph (a) of this subsection are otherwise
+44 satisfied.
+45 (5) "In-network provider" or "in-network facility" means a provider or
+46 facility that is contracted with a health benefit plan or its contractor or
+47 subcontractor to provide health care services or emergency health care ser-
+48 vices to covered persons for reimbursement by the health benefit plan at a
+49 contracted rate as payment in full for the health care services, including
+50 applicable cost-sharing obligations.
+
+3
+1 (6) "Out-of-network provider" or "out-of-network facility" means a
+2 provider or facility that is not contracted with a health benefit plan or
+3 its contractor or subcontractor to provide health care services to covered
+4 persons. The term includes any affiliate, subsidiary, management company,
+5 staffing entity, billing entity, or other related entity that submits or at-
+6 tempts to submit a claim for payment on behalf of, or in connection with ser-
+7 vices furnished by, an out-of-network provider or out-of-network facility.
+8 (7) "Stabilize," with respect to an emergency medical condition, has
+9 the same meaning as provided in 42 U.S.C. 1395dd(e)(3).
+10 (8) "Covered benefits," "covered person," "facility," "health bene-
+11 fit plan," "health care provider" or "provider," "health care services,"
+12 and "health carrier" shall have the same meanings as provided in section
+13 41-5903, Idaho Code.
+14 41-6704. BILLING BY OUT-OF-NETWORK PROVIDERS FOR EMERGENCY SER-
+15 VICES. (1) An out-of-network freestanding emergency room that provides
+16 emergency services to a covered person shall accept as payment in full the
+17 health benefit plan's allowed amount for in-network providers of the same
+18 specialty or type for the same covered emergency service performed at an
+19 in-network facility in the same geographic area of the state of Idaho, re-
+20 gardless of the billing entity, modifier usage, unbundling, rebundling, or
+21 use of affiliated third-party entities. The out-of-network freestanding
+22 emergency room or physicians and their staff working there shall not bill
+23 or seek reimbursement for amounts in excess of the allowed amount from the
+24 covered person who received emergency services.
+25 (2) In calculating the covered person's cost-sharing responsibility
+26 for amounts described in subsection (1) of this section, the health benefit
+27 plan shall apply its in-network benefit design.
+28 (3) The covered person's health benefit plan shall pay directly to the
+29 provider the amounts described in subsection (1) of this section, less any
+30 applicable cost-sharing responsibility of the covered person, without re-
+31 gard to any assignment of benefits, consent form, financial responsibility
+32 acknowledgement, or other agreement or instrument executed by the covered
+33 person.
+34 (4) Any provision in a consent form or other agreement between a
+35 provider and a covered person that purports to permit an out-of-network
+36 provider to bill or seek reimbursement for covered emergency services in
+37 amounts in excess of the amounts permitted pursuant to this chapter, in-
+38 cluding any waiver of balance billing protections, assignment of benefits,
+39 financial responsibility acknowledgement, or similar provision, is void and
+40 unenforceable.
+41 (5)(a) If an out-of-network freestanding emergency room furnishing
+42 emergency services is not enrolled as a participating provider in the
+43 medicare, medicaid, or TRICARE programs, the provider or facility shall
+44 provide a clear and conspicuous disclosure to a covered person who is
+45 enrolled in such a program that the provider or facility does not par-
+46 ticipate in the applicable program and that the covered person may be
+47 personally responsible for payment of some or all charges for services
+48 furnished.
+
+4
+1 (b) The disclosure required by this subsection shall be made as soon
+2 as practicable after completion of the medical screening examination
+3 required pursuant to 42 U.S.C. 1395dd, and only when the covered per-
+4 son is conscious, oriented, and capable of receiving such information,
+5 and when providing the disclosure will not interfere with the provision
+6 of emergency services or stabilization of an emergency medical condi-
+7 tion. The disclosure shall be communicated in plain language that is
+8 understandable to a reasonable person and may be provided orally or in
+9 writing. Failure to provide the disclosure required by this subsection
+10 shall constitute a violation of the provisions of this chapter.
+11 (6) Failure to provide the disclosure required pursuant to subsection
+12 (5) of this section shall give rise to a rebuttable presumption that the cov-
+13 ered person was not informed of the freestanding emergency room's nonpartic-
+14 ipation in medicare, medicaid, or TRICARE. In the absence of contemporaneous
+15 documentation demonstrating compliance with subsection (5) of this section,
+16 the freestanding emergency room shall be prohibited from billing, collect-
+17 ing, or seeking reimbursement from the covered person for any charges asso-
+18 ciated with the emergency services furnished. Any bill, invoice, collection
+19 action, or attempt to obtain payment from a covered person in violation of
+20 this subsection shall be void and unenforceable as a matter of law, and no
+21 payment shall be owed by the covered person.
+22 41-6705. SELF-FUNDED PLAN PARTICIPATION. (1) The provisions of this
+23 chapter shall apply to a self-funded health plan, including a self-funded
+24 group health plan governed by the provisions of 29 U.S.C. 1001 et seq., only
+25 if the plan elects to participate in the provisions of this chapter. To elect
+26 to participate in the provisions of this chapter, the plan shall provide no-
+27 tice, on an annual basis, to the director of the department of insurance, in a
+28 manner prescribed by the director, attesting to the plan's participation in
+29 and agreement to be bound by the provisions of this chapter. An election made
+30 pursuant to this section shall apply for the entire plan year for which no-
+31 tice is provided.
+32 (2) At least once annually, the director shall post on the department of
+33 insurance website a list of the self-funded plans that have elected to par-
+34 ticipate in the provisions of this chapter. An entity administering a plan
+35 that elects to participate in the provisions of this chapter shall comply
+36 with the provisions of this chapter but shall not be considered a carrier
+37 or health benefit plan subject to the jurisdiction of the director solely by
+38 virtue of such election.
+39 41-6706. ENFORCEMENT. (1) Any freestanding emergency room or health
+40 benefit plan that violates the provisions of this chapter shall be liable
+41 to pay the reasonable attorney's fees and costs that the covered person or
+42 health plan incurs to challenge the provider's or health benefit plan's ac-
+43 tions.
+44 (2) Any billing by an out-of-network freestanding emergency room or any
+45 affiliated, related, or billing entity acting on its behalf to the covered
+46 person in violation of the provisions of this chapter shall be void and unen-
+47 forceable.
+
+5
+1 (3) An out-of-network freestanding emergency room shall be liable to a
+2 covered person for reasonable attorney's fees and costs to defend against a
+3 provider's attempts to collect amounts in excess of the amount for which the
+4 covered person is personally responsible pursuant to this chapter.
+5 (4) Upon receipt of written request from an out-of-network freestand-
+6 ing emergency room, covered person, or health benefit plan, the director of
+7 the department of insurance is authorized to inquire of the patient's health
+8 benefit plan to verify whether the amount paid to the provider is consistent
+9 with the provisions of this chapter.
+10 (5) Each attempt to bill or collect amounts in violation of the provi-
+11 sions of this chapter shall constitute a separate violation.
+12 SECTION 2. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2026.

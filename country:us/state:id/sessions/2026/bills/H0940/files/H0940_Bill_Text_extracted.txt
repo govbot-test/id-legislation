@@ -1,0 +1,215 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 940
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-5502, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE CREATION OF THE IDAHO DIGITAL LEARNING ACADEMY
+4 AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 33-5504, IDAHO
+5 CODE, TO REVISE PROVISIONS REGARDING THE DUTIES OF THE ACADEMY BOARD OF
+6 DIRECTORS AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 33-5505,
+7 IDAHO CODE, TO REVISE DEFINITIONS AND TO DEFINE TERMS; AMENDING SEC-
+8 TION 33-1020, IDAHO CODE, TO REVISE PROVISIONS REGARDING IDAHO DIGITAL
+9 LEARNING ACADEMY FUNDING; AND DECLARING AN EMERGENCY AND PROVIDING AN
+10 EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 33-5502, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 33-5502. CREATION -- LEGISLATIVE FINDINGS -- GOAL. (1) There is hereby
+15 created the Idaho digital learning academy, a public school-choice learn-
+16 ing environment which that joins the best technology with the best instruc-
+17 tional practices. The Idaho digital learning academy as provided for in this
+18 chapter, is not a single department of state government unto itself, nor is
+19 it a part of any of the twenty (20) departments of state government autho-
+20 rized by section 20, article IV, of the constitution of the state of Idaho,
+21 or of the departments prescribed in section 67-2402, Idaho Code. It is leg-
+22 islative intent that the Idaho digital learning academy operate and be rec-
+23 ognized not as a state or local agency or department, but as a governmental an
+24 entity whose creation has been authorized by the state, much in the manner as
+25 other single purpose districts.
+26 (2) The legislature finds that it is in the best public interest to cre-
+27 ate the Idaho digital learning academy based on findings that indicate:
+28 (a) Technology continues to impact all facets of life, including the
+29 education of students of school age and adult learners the education of
+30 students in this state;
+31 (b) Systems for delivery of education are as diverse as the learners;
+32 and
+33 (c) Public school systems Idahoans are seeking high quality educa-
+34 tional choices within the public system, and schools and other edu-
+35 cation providers are aligning curriculum and assessment with state
+36 achievement standards; and.
+37 (d) The development of a comprehensive digital learning environment is
+38 cost prohibitive for individual school districts.
+39 (3) The goal of the digital learning academy is to provide choice, ac-
+40 cessibility, flexibility, quality, and equity in curricular offerings for
+41 students in this state. The digital learning academy shall function as a re-
+42 source to fill instructional gaps and is not intended to supplant regularly
+
+2
+1 scheduled courses or full instructional programs offered by a student's lo-
+2 cal school district or public charter school. Courses offered shall include
+3 credit recovery, dual credit, courses not offered in small or rural school
+4 districts, courses required by the state of Idaho for graduation, and over-
+5 load courses.
+6 SECTION 2. That Section 33-5504, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-5504. DUTIES OF THE ACADEMY BOARD OF DIRECTORS. The board shall be
+9 responsible for ensuring that academy procedures and courses are in compli-
+10 ance with the rules of the state board of education and applicable statutes
+11 of the state of Idaho. In addition, the board shall:
+12 (1) Recommend policies to be established by rule of the state board for
+13 effecting the purposes of this chapter.
+14 (2) Employ or contract with staff as necessary and purchase such sup-
+15 plies and equipment as are necessary to implement the provisions of this
+16 chapter, which purchases shall be exempt from the state procurement act in
+17 chapter 92, title 67, Idaho Code. The percentage of personnel costs spent on
+18 staff classified as administration shall not exceed thirty percent (30%) of
+19 the total budget.
+20 (3) To enter Enter into contracts with any other governmental or public
+21 agency whereby the board agrees to render services to or for such agency in
+22 exchange for a charge reasonably calculated to cover the costs of rendering
+23 such service.
+24 (4) To accept Accept, receive, and utilize any gifts, grants, or funds
+25 and personal and real property that may be donated to it for the fulfillment
+26 of the purposes outlined in this chapter.
+27 (5) Employ or contract with necessary faculty and teaching staff who
+28 are fully certificated Idaho teachers or administrators, to design and de-
+29 liver planned curriculum content. The academy shall be exempt from the pro-
+30 visions of sections 33-513, 33-514, 33-514A, 33-515 and 33-515A, Idaho Code,
+31 and shall be exempt from chapter 53, title 67, Idaho Code. All teaching and
+32 educational staff of the academy shall be exempt, at will employees. The
+33 number of such staff shall largely be dictated by the number of courses under
+34 development, the number of courses offered, and the number of students par-
+35 ticipating in academy programs.
+36 (6) Obtain housing office space where actual operations of the academy
+37 are conducted by academy staff.
+38 (7) Contract with a service provider for delivery of academy courses
+39 online which shall be accessible twenty-four (24) hours a day, seven (7) days
+40 a week.
+41 (8) Ensure that the academy is accredited as established by rule of the
+42 state board of education.
+43 (9) Develop policy for earning credit in courses based on mastery of
+44 the subject, demonstrated competency, and meeting the standards set for each
+45 course.
+46 (10) Provide for articulating the content of certain high school
+47 courses with college and university courses in order to award both high
+48 school and undergraduate college credit.
+
+3
+1 (11) Develop policies and practices which that provide strict applica-
+2 tion of time limits for completion of courses.
+3 (12) Develop policies and practices on accountability, both by the
+4 student and the teacher, and in accordance with the provisions of section
+5 33-5507, Idaho Code.
+6 (13) Develop policies and practices that prioritize courses provided
+7 in section 33-5502, Idaho Code.
+8 (13) (14) Manage the moneys disbursed to the academy board from the su-
+9 perintendent received by the academy.
+10 (14) (15) Set Subject to approval by the state board of education, set
+11 fees charged to school districts for student participation; fees charged
+12 for summer school; and fees charged to students and adults for professional
+13 development offerings any user of academy courses, including but not lim-
+14 ited to public school districts, public charter schools, private schools,
+15 individual students, and other public or private entities. Fees for all
+16 courses required by the state department of education for graduation shall
+17 be no more than forty dollars ($40.00). Fees for all courses not required for
+18 graduation shall be at least one hundred dollars ($100). Fees shall offset
+19 the total state reimbursement, not to exceed four hundred forty-five dol-
+20 lars ($445). Private entities shall not receive any state reimbursement and
+21 shall be subject to the full course fee.
+22 (15) (16) Contract with a certified public accounting firm to conduct an
+23 annual audit of the Idaho digital learning academy.
+24 SECTION 3. That Section 33-5505, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 33-5505. DEFINITIONS. As used in this chapter:
+27 (1) "Academy board," also referred to in this chapter as "the board"
+28 means the board of directors of the Idaho digital learning academy as such
+29 board is created in section 33-5503, Idaho Code.
+30 (2) "Host district" means an Idaho school district where the fiscal op-
+31 erations of the Idaho digital learning academy are housed until January 1,
+32 2009.
+33 (2) "Custom section" means an Idaho digital learning academy course
+34 in which all enrollments are from one (1) school district or public charter
+35 school.
+36 (3) "Emergency clause" means that a custom section is reimbursable when
+37 an unexpected departure of the teacher of record occurs and reimbursement
+38 is approved by the board or when, after documented recruitment efforts are
+39 made, the school is unable to hire a qualified teacher for the position.
+40 (3) (4) "Idaho digital learning academy" means an online educational
+41 course delivery program organized as a that is fully accredited school with
+42 statewide capabilities for the exclusive purpose of delivering accredited
+43 courses to Idaho resident students at no cost to the student unless the stu-
+44 dent enrolls in additional courses beyond full-time enrollment. Partici-
+45 pation in the academy by public school students shall be in compliance with
+46 academy and local school district policies. Adult learners and out-of-state
+47 students shall pay tuition commensurate with rates established by the state
+48 board with the advice of the superintendent, and such funds shall be included
+
+4
+1 in the budget and audit of the academy's fiscal records. in grades 6 through
+2 12.
+3 (4) (5) "State board" means the Idaho state board of education. The
+4 board is authorized and directed, with the advice and recommendation of the
+5 academy board of directors, to promulgate rules to implement the provisions
+6 of this chapter.
+7 (5) (6) "Superintendent" means the Idaho state superintendent of pub-
+8 lic instruction.
+9 SECTION 4. That Section 33-1020, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 33-1020. IDAHO DIGITAL LEARNING ACADEMY FUNDING.
+12 (1)(a) An amount of four hundred forty-five dollars ($445) per en-
+13 rollment shall be distributed to support the Idaho digital learning
+14 academy, created pursuant to chapter 55, title 33, Idaho Code. For the
+15 purposes of this section, an "enrollment" shall be counted each time
+16 an Idaho school age child enrolls in an Idaho digital learning academy
+17 class course and continues to be enrolled in such class course past the
+18 deadline to withdraw, where such withdrawal would not result in the
+19 class course appearing on such child's transcript in any way. If a stu-
+20 dent disenrolls from an Idaho digital learning academy course within
+21 the withdrawal window, the fee shall be returned to the payer. A single
+22 child enrolled in multiple classes courses shall count as multiple en-
+23 rollments. Summer enrollments shall be included in the fiscal year that
+24 begins that summer. A registered course shall be eligible for state
+25 funding only if:
+26 (i) The student is enrolled in an Idaho school district or public
+27 charter school that is not entirely virtual;
+28 (ii) The course is not a driver's education course; and
+29 (iii) The student is not enrolled in a custom section unless the
+30 emergency clause is applicable.
+31 (b) If a student wants to enroll in an Idaho digital learning academy
+32 course that does not meet the criteria for state funding under this sec-
+33 tion, such student may enroll in such course if the school district or
+34 public charter school pays the fees for the course as set by the state
+35 board of education.
+36 (2) The state department of education shall make an estimated distri-
+37 bution of funds to the Idaho digital learning academy by no later than July
+38 31 of each fiscal year, consisting of eighty percent (80%) of the estimated
+39 funding for the fiscal year. The balance of all remaining funds to be dis-
+40 tributed, pursuant to the calculations in this section, shall be distributed
+41 by no later than May 15 of the same fiscal year. The state department of
+42 education shall reconcile the enrollments prior to the May 15 payment and
+43 withhold or recover any costs necessary to align the funding with verified
+44 enrollments. The joint finance-appropriations committee shall consider
+45 adjusting the per enrollment amount each legislative session by a percent-
+46 age increase equal to the percentage increase approved for salary increases
+47 for instructional and pupil service staff pursuant to section 33-1004B,
+48 Idaho Code, and for administrative and classified staff pursuant to section
+49 33-1004E, Idaho Code.
+
+5
+1 (3) The academy board of directors shall report to the state board of
+2 education during the 2027 legislative session on the status of courses and
+3 provide recommendations and a strategic plan on how to manage digital learn-
+4 ing throughout the state.
+5 SECTION 5. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2026.

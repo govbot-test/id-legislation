@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Toews
+Seconded by Den Hartog
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1297
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, following line 29, insert:
+3 "(iii) A chatbot that is a feature of a video game that is limited
+4 to replies related to the video game and that does not discuss
+5 topics related to mental health, self-harm, or material harmful
+6 to minors or maintain a dialogue on other topics unrelated to the
+7 video game;";
+8 in line 30, delete "(iii)" and insert: "(iv)"; in line 32, delete "(iv)"
+9 and insert: "(v)"; in line 36, delete "(v)" and insert: "(vi)"; in line 39,
+10 delete "(vi)" and insert: "(vii)"; and also in line 39, delete "or".
+11 On page 2, in line 1, delete "(vii)" and insert: "(viii)"; in line 3,
+12 delete "operator." and insert: "operator; or"; following line 3, insert:
+13 "(ix) A chatbot used only for customer service, a business's op-
+14 erational purposes, productivity purposes, or analysis related
+15 to source information, internal research, or technical assis-
+16 tance.";
+17 and in line 9, delete "develops and".
+18 On page 3, in line 8, delete "minor"; and delete lines 24 and 25, and in-
+19 sert: "model for any violation of this chapter by a conversational AI system
+20 that is made available to the public by a third-party operator.".

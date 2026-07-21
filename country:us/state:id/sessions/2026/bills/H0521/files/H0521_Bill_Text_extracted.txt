@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 521
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO CRIMINAL HISTORY RECORDS AND CRIME INFORMATION; AMENDING SEC-
+3 TION 67-3008, IDAHO CODE, TO REVISE A PROVISION REGARDING THE RELEASE
+4 OF CRIMINAL HISTORY RECORD INFORMATION AND TO MAKE TECHNICAL CORREC-
+5 TIONS; AMENDING CHAPTER 30, TITLE 67, IDAHO CODE, BY THE ADDITION OF A
+6 NEW SECTION 67-3008A, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+7 SUBMISSION BY A COVERED ENTITY FOR FINGERPRINT SCREENING; AND DECLARING
+8 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 67-3008, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 67-3008. RELEASE OF CRIMINAL HISTORY RECORD INFORMATION. (1) All
+13 units of state, city, and local governments; and any agency of the state cre-
+14 ated by the legislature that requires, by statute, rule, or local or county
+15 ordinance, fingerprinting of applicants or licensees; and any persons as-
+16 sociated with private, noncriminal justice entities that qualify under the
+17 national child protection act of 1993 and volunteers for children act that
+18 serve vulnerable populations such as children, the elderly, and individuals
+19 with disabilities are authorized to submit fingerprints to the bureau for
+20 examination and for further submission, if necessary, to the federal bureau
+21 of investigation. The bureau shall be the state's sole source of fingerprint
+22 submissions to the federal bureau of investigation for criminal justice and
+23 applicant or licensing purposes to the federal bureau of investigation.
+24 (2) The department shall provide copies of or communicate information
+25 from criminal history records to the following:
+26 (a) Criminal justice agencies and the court;
+27 (b) A person or public agency or private entity, upon written applica-
+28 tion on a form approved by the director and provided by the department,
+29 subject to the following restrictions:
+30 (i) A request for criminal history records must be submitted in
+31 writing or as provided by rule. However, the department shall ac-
+32 cept a request presented in person by the subject of the record;
+33 (ii) The request must identify a specific person by name and date
+34 of birth. Fingerprints of the person named may be required to es-
+35 tablish positive identification;
+36 (iii) Responding to the request does not interfere with the secure
+37 and orderly conduct of the department and would not substantially
+38 prejudice or prevent the carrying out of the functions of the de-
+39 partment;
+40 (iv) A record of an arrest that does not contain a disposition af-
+41 ter twelve (12) months from the date of arrest may only be dissem-
+42 inated by the department to criminal justice agencies, to the sub-
+
+2
+1 ject of the record, or to a person requesting the criminal history
+2 information with a signed release from the subject of the record;
+3 and
+4 (v) Any release of criminal history data by the department shall
+5 prominently display the statement: "AN ARREST WITHOUT DISPOSI-
+6 TION IS NOT AN INDICATION OF GUILT."
+7 (3) Judicial review of the department's denial of a request for records
+8 shall be in accordance with the provisions of section 74-115, Idaho Code.
+9 (4) A request for a criminal history record by a criminal justice agency
+10 or a court shall take precedence over all other requests. The department
+11 shall adopt rules to set forth the manner by which criminal justice agencies
+12 and courts without direct access to the public safety and security informa-
+13 tion system established by section 19-5202, Idaho Code, may request Idaho
+14 criminal history record information.
+15 (5) Unless otherwise provided by law, access authorized under this
+16 section to criminal history records does not create a duty upon a person,
+17 employer, private entity, or public agency to examine the criminal history
+18 record of an applicant, employee or volunteer.
+19 (6) A person or private entity, or public agency, other than the depart-
+20 ment, shall not disseminate criminal history record information obtained
+21 from the department to a person or agency that is not a criminal justice
+22 agency or a court without a signed release of the subject of record or unless
+23 otherwise provided by law.
+24 (7) Direct access to criminal history record information is regulated
+25 by chapter 52, title 19, Idaho Code, and the rules adopted pursuant to that
+26 chapter.
+27 SECTION 2. That Chapter 30, Title 67, Idaho Code, be, and the same is
+28 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+29 ignated as Section 67-3008A, Idaho Code, and to read as follows:
+30 67-3008A. SUBMISSION BY A COVERED ENTITY FOR FINGERPRINT SCREEN-
+31 ING. (1) Any private, noncriminal justice entities qualifying to partic-
+32 ipate under the national child protection act of 1993 and volunteers for
+33 children act, as amended, that serve vulnerable populations such as chil-
+34 dren, the elderly, and individuals with disabilities are authorized to
+35 submit fingerprints to the bureau for examination and for further submis-
+36 sion, if necessary, to the federal bureau of investigation for a criminal
+37 history records check. The bureau shall be the state's sole source of fin-
+38 gerprint submissions to the federal bureau of investigation for applicant or
+39 licensing purposes.
+40 (2) A qualified entity shall submit a request for fingerprint screen-
+41 ing to the bureau for a covered individual, independent contractor, vendor
+42 employee, or volunteer of the qualified entity who has supervised or unsu-
+43 pervised access to children, the elderly, or individuals with disabilities
+44 for eligibility screening of any state criminal history records and for for-
+45 warding to the federal bureau of investigation for its report on the criminal
+46 history of that person.
+47 (3) The bureau shall provide written notification to any person being
+48 screened regarding the right of the person to obtain a copy of his background
+49 screening report, including without limitation any records of criminal his-
+
+3
+1 tory contained in the report, to appeal the results of the background screen-
+2 ing report, to challenge the accuracy and completeness of any information
+3 contained therein, and to obtain a determination as to the validity of such a
+4 challenge before the qualified entity makes a final determination as to the
+5 fitness of the person to have responsibility for the safety and well-being of
+6 vulnerable populations.
+7 (4) A request submitted pursuant to subsection (2) of this section
+8 shall be accompanied by the payment of a fee to the bureau as authorized by
+9 section 67-3010, Idaho Code, plus the amount prescribed by the federal bu-
+10 reau of investigation for its report on the criminal history of the person in
+11 accordance with the provisions of 34 U.S.C. 40102(e).
+12 (5) After a request is submitted pursuant to subsection (2) of this sec-
+13 tion, the bureau shall provide directly to the qualified entity:
+14 (a) Any records of criminal history of the person being screened that
+15 are not otherwise confidential pursuant to applicable statute or law;
+16 and
+17 (b) Any records of criminal history of the person being screened that
+18 were received from the federal bureau of investigation. Any records of
+19 criminal history obtained shall be available for qualified entities to
+20 use only for the purpose of screening covered individuals, independent
+21 contractors, vendor employees, or volunteers of the qualified entity
+22 who have supervised or unsupervised access to vulnerable populations.
+23 (6) Determination as to the fitness of a person to have responsibility
+24 for the safety and well-being of vulnerable populations shall be the sole re-
+25 sponsibility of the qualified entity that submitted the request for screen-
+26 ing.
+27 (7) The bureau may audit any qualified entity that submits a request
+28 for screening pursuant to subsection (2) of this section to ensure compli-
+29 ance with all applicable state and federal laws. Each qualified entity shall
+30 maintain all signed waivers allowing such requests for the purpose of an au-
+31 dit for at least one (1) audit cycle or for as long as the screened individual
+32 is employed by or volunteers for the qualified entity, whichever is greater.
+33 (8) As used in this section:
+34 (a) "Covered individual" means an individual who has, seeks to have, or
+35 may have access to children, the elderly, or individuals with disabili-
+36 ties served by a qualified entity and:
+37 (i) Is employed by, volunteers with, or seeks to be employed by or
+38 volunteer with a qualified entity;
+39 (ii) Owns or operates, or seeks to own or operate, a qualified en-
+40 tity; or
+41 (iii) Is an independent contractor or vendor working or volunteer-
+42 ing in the same capacity as an employee or volunteer of a qualified
+43 entity.
+44 (b) "Qualified entity" means a business or organization, whether pub-
+45 lic, private, for-profit, not-for-profit, or volunteer, that meets the
+46 qualifications to participate in criminal history records screening
+47 pursuant to P.L. 103-209, the national child protection act of 1993, as
+48 amended, and 28 CFR 105, subpart D, the child protection improvements
+49 act.
+
+4
+1 SECTION 3. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 524
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD CUSTODY; PROVIDING LEGISLATIVE INTENT; AMENDING SEC-
+3 TION 18-4506, IDAHO CODE, TO REVISE PROVISIONS REGARDING CHILD CUSTODY
+4 INTERFERENCE AND TO ESTABLISH PROVISIONS REGARDING PENALTIES AND EN-
+5 FORCEMENT; AMENDING CHAPTER 7, TITLE 32, IDAHO CODE, BY THE ADDITION OF
+6 A NEW SECTION 32-717F, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+7 ADDITIONAL PERIODS OF PHYSICAL CUSTODY OR VISITATION; AND DECLARING AN
+8 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature to
+11 strengthen Idaho's child custody interference law by clarifying enforcement
+12 duties, providing uniform guidance, establishing objective timelines for
+13 response and compliance, and implementing a graduated penalty structure
+14 that ensures proportional accountability. The Legislature affirms that
+15 child custody interference is a criminal offense under Title 18, Idaho Code,
+16 and is distinct from kidnapping. The Legislature further intends to ensure
+17 that children subject to custodial interference receive prompt welfare
+18 checks and that parents deprived of lawful parenting time receive timely
+19 restoration without requiring modification of custody orders.
+20 SECTION 2. That Section 18-4506, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 18-4506. CHILD CUSTODY INTERFERENCE DEFINED -- DEFENSES -- PUNISH-
+23 MENT. 1. (1) A person commits child custody interference if the person,
+24 whether a parent or other, or agent of that person, intentionally and without
+25 lawful authority:
+26 (a) Takes, entices away, keeps or withholds any minor child from a
+27 parent or another person or institution having custody, joint cus-
+28 tody, visitation or other parental rights, whether such rights arise
+29 from temporary or permanent custody order, or from the equal custodial
+30 rights of each parent in the absence of a custody order; or
+31 (b) Takes, entices away, keeps or withholds a minor child from a parent
+32 after commencement of an action relating to child visitation or custody
+33 but prior to the issuance of an order determining custody or visitation
+34 rights.
+35 2. (2) It shall be an affirmative defense to a violation of the provi-
+36 sions of subsection 1. (1) of this section that:
+37 (a) The action is taken to protect the child from imminent physical
+38 harm;
+39 (b) The action is taken by a parent fleeing from imminent physical harm
+40 to himself;
+41 (c) The action is consented to by the lawful custodian of the child; or
+
+2
+1 (d) The child is returned within twenty-four (24) four (4) hours after
+2 expiration of an authorized visitation privilege or custody period.
+3 3. A violation of the provisions of subsection 1. of this section shall
+4 be a felony, unless the defendant did not take the child outside the state,
+5 and the child was voluntarily returned unharmed prior to the defendant's ar-
+6 rest in which case the violation shall be reduced to a misdemeanor.
+7 4. (3) Any reasonable expenses incurred by a lawful custodian in locat-
+8 ing or attempting to locate a child taken in violation of the provisions of
+9 subsection 1. of this section may be assessed against the defendant at the
+10 court's discretion in accordance with chapter 53, title 19, Idaho Code.
+11 (4)(a) A person guilty of child custody interference shall be punished
+12 as follows:
+13 (i) For a first offense, such person shall be subject to an in-
+14 fraction punishable by a fine not to exceed one hundred dollars
+15 ($100).
+16 (ii) For a second offense, such person shall be subject to an in-
+17 fraction punishable by a fine not to exceed three hundred dollars
+18 ($300).
+19 (iii) For a third offense, such person shall be guilty of a mis-
+20 demeanor punishable by a fine not to exceed one thousand dollars
+21 ($1,000) and imprisonment not to exceed two (2) days.
+22 (iv) For a fourth offense, such person shall be guilty of a misde-
+23 meanor punishable by a fine not to exceed two thousand five hundred
+24 dollars ($2,500) and imprisonment not to exceed two (2) days.
+25 (v) For a fifth offense and subsequent offenses, such person
+26 shall be guilty of a felony punishable by a fine not to exceed five
+27 thousand dollars ($5,000), imprisonment not to exceed one (1)
+28 year, or both such fine and imprisonment.
+29 (b) For any report of child custody interference, law enforcement offi-
+30 cers shall, within four (4) hours of receipt of the report:
+31 (i) Verify the location of the minor child, if possible;
+32 (ii) Check the safety and well-being of the child; and
+33 (iii) Complete a written offense report based on the law enforce-
+34 ment officer's findings. Such report shall include, at a minimum:
+35 1. The date and time of the safety check;
+36 2. The location of the child;
+37 3. The observable physical condition of the child; and
+38 4. Any statements made by the child or caregivers relevant
+39 to the child's safety or well-being.
+40 (5) Failure by a law enforcement agency to comply with the requirements
+41 and timelines of this section shall be subject to review under applicable
+42 state oversight, training, or disciplinary procedures.
+43 (6) Additional periods of physical custody or visitation of the minor
+44 child to compensate for the denial of physical custody or visitation to the
+45 lawful custodian of the minor child in violation of this section shall be
+46 governed pursuant to section 32-717F, Idaho Code.
+47 SECTION 3. That Chapter 7, Title 32, Idaho Code, be, and the same is
+48 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+49 ignated as Section 32-717F, Idaho Code, and to read as follows:
+
+3
+1 32-717F. ADDITIONAL PERIODS OF PHYSICAL CUSTODY OR VISITATION. (1)
+2 Unless a party shows good cause why the order should not be rendered, the
+3 court shall order additional periods of physical custody or visitation of a
+4 minor child or children to compensate for the denial of court-ordered physi-
+5 cal custody or visitation that resulted from:
+6 (a) An investigation by the Idaho department of health and welfare, any
+7 law enforcement agency, or any authorized investigative agency that did
+8 not result in a substantiated finding of abuse, neglect, or other legal
+9 basis to withhold contact; or
+10 (b) Child custody interference pursuant to section 18-4506, Idaho
+11 Code.
+12 (2) A court may order additional periods of physical custody or visita-
+13 tion to compensate for the denial of court-ordered physical custody or visi-
+14 tation of the minor child or children in instances not covered by the provi-
+15 sions of subsection (1) of this section.
+16 (3) The additional periods of physical custody or visitation ordered
+17 pursuant to this section:
+18 (a) Must be of the same type and duration of the physical custody or vis-
+19 itation that was denied;
+20 (b) Must occur within two (2) years of the date the court finds that
+21 court-ordered physical custody or visitation of the minor child or
+22 children has been denied; and
+23 (c) May include weekends, holidays, and summers.
+24 (4) The person granted additional physical custody or visitation pur-
+25 suant to this section shall be entitled to decide the time and dates of such
+26 additional physical custody or visitation, subject to the limitations of
+27 subsection (3) of this section.
+28 (5) Nothing in this section shall:
+29 (a) Create a cause of action against the Idaho department of health and
+30 welfare, any agency, or any agency employee; or
+31 (b) Waive any sovereign immunity.
+32 (6) This section shall not be construed as a modification of a custody
+33 order and shall not constitute a material and substantial change of circum-
+34 stances to warrant a modification of a court order or a portion of a decree
+35 relating to physical custody or visitation of a minor child or children.
+36 (7) The clerk of the court shall accept complaints alleging denial of
+37 court-ordered physical custody or visitation under this section. Accep-
+38 tance of such complaints is an ministerial act and does not require a notice
+39 of appearance.
+40 SECTION 4. An emergency existing therefor, which emergency is hereby
+41 declared to exist, this act shall be in full force and effect on and after
+42 July 1, 2026.

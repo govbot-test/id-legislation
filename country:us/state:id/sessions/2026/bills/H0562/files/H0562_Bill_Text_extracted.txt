@@ -1,0 +1,295 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 562
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO INSURANCE; AMENDING SECTION 41-1842, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING NOTICE OF CANCELLATION AND NONRENEWAL; AMENDING SEC-
+4 TION 41-2401, IDAHO CODE, TO REVISE PROVISIONS REGARDING CANCELLATION
+5 AND NONRENEWAL; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 41-1842, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 41-1842. COMMERCIAL INSURANCE -- CANCELLATION -- NONRENEWAL. (1) Ap-
+11 plicability. The provisions of this section apply only to:
+12 (a) Commercial property insurance policies;
+13 (b) Commercial liability insurance policies other than aviation and
+14 employer's liability insurance policies;
+15 (c) Commercial multiperil insurance policies.
+16 The provisions of this section do not apply to: block cancellations or
+17 block nonrenewals as provided in section 41-1841, Idaho Code, reinsurance,
+18 excess and surplus lines insurance, residual market risks, worker's compen-
+19 sation insurance, multistate location risks, policies subject to retrospec-
+20 tive rating plans, excess or umbrella policies and such other policies that
+21 are exempted by the director of the department of insurance.
+22 (2) Definitions. For the purposes of this section:
+23 (a) "Cancellation" means termination of a policy at a date other than
+24 its expiration date.
+25 (b) "Expiration date" means the date upon which coverage under a policy
+26 ends. It also means, for a policy written for a term longer than one (1)
+27 year or with no fixed expiration date, each annual anniversary date of
+28 such policy.
+29 (c) "Nonpayment of premium" means the failure or inability of the named
+30 insured to discharge any obligation in connection with the payment of
+31 premiums on a policy of insurance subject to this section, whether such
+32 payments are payable directly to the insurer or its agent or indirectly
+33 payable under a premium finance plan or extension of credit.
+34 (d) "Nonrenewal" or "not to renew" means termination of a policy at its
+35 expiration date.
+36 (e) "Renewal" or "to renew" means the issuance, or the offer so to is-
+37 sue, by an insurer of a policy succeeding a policy previously issued and
+38 delivered by the same insurer or an insurer within the same group of in-
+39 surers, or the issuance of a certificate or notice extending the term of
+40 an existing policy for a specified period beyond its expiration date.
+41 (3) Notice of cancellation.
+
+2
+1 (a) Permissible cancellations. If coverage under a policy has not been
+2 in effect for sixty (60) days and the policy is not a renewal, cancella-
+3 tion of such policy shall be effected by mailing or delivering a written
+4 notice to the first-named insured at the last known mailing address
+5 shown on the policy at least thirty (30) days before the effective date
+6 of the cancellation, provided however, if such cancellation is for the
+7 reason stated in subsection (3)(a)(i) of this section, the time such
+8 cancellation may be effective following notice shall be as provided in
+9 subsection (3)(b)(i) of this section. A cancellation requested by the
+10 insured shall be effective on the later of the date requested by the in-
+11 sured or the date it is received by the insurer. After coverage has been
+12 in effect for more than sixty (60) days or after the effective date of a
+13 renewal policy, whichever is earlier, no insurer shall cancel a policy
+14 unless the cancellation is based on at least one (1) of the following
+15 reasons:
+16 (i) Nonpayment of premium.
+17 (ii) Fraud or material misrepresentation made by or with the
+18 knowledge of the named insured in obtaining the policy, continuing
+19 the policy, or in presenting a claim under the policy.
+20 (iii) Activities or omissions on the part of the named insured
+21 which increase any hazard insured against, including a failure to
+22 comply with loss control recommendations.
+23 (iv) Change in the risk which materially increases the risk of
+24 loss after insurance coverage has been issued or renewed includ-
+25 ing, but not limited to, an increase in exposure to regulation,
+26 legislation or court decision.
+27 (v) Loss or decrease of the insurer's reinsurance covering all or
+28 part of the risk or exposure by the policy.
+29 (vi) Determination by the director that the continuation of the
+30 policy would jeopardize an insurer's solvency or would place the
+31 insurer in violation of the insurance laws of this state or any
+32 other state.
+33 (vii) Violation or breach by the insured of any policy terms or
+34 conditions other than nonpayment of premium.
+35 (b) Notification of cancellation.
+36 (i) A notice of cancellation of insurance coverage by an in-
+37 surer shall be in writing and shall be mailed or delivered to the
+38 first-named insured at the last known mailing address as shown
+39 on the policy. Notices of cancellation based on subsections
+40 (3)(a)(ii) through (a)(vii) of this section shall be mailed or
+41 delivered at least thirty (30) sixty (60) days prior to the ef-
+42 fective date of the cancellation. Notices of cancellation for
+43 the reason stated in subsection (3)(a)(i) of this section without
+44 regard to when such cancellation shall be effected shall be mailed
+45 or delivered at least ten (10) days prior to the effective date of
+46 cancellation. If delivered via United States mail, the ten (10)
+47 day notification period shall begin to run five (5) days following
+48 the date of postmark. The notice shall state the effective date of
+49 the cancellation.
+
+3
+1 (ii) The insurer shall provide the first-named insured with a
+2 written statement setting forth the reason(s) for the cancella-
+3 tion if: (1) the insured requests such a statement in writing;
+4 and (2) the named insured agrees in writing to hold the insurer
+5 harmless from liability for any communication giving notice of
+6 or specifying the reasons for a cancellation or for any statement
+7 made in connection with an attempt to discover or verify the ex-
+8 istence of conditions which would be a reason for a cancellation
+9 under this section.
+10 (4) Notice of nonrenewal.
+11 (a) An insurer may decline to renew a policy if the insurer delivers or
+12 mails to the first-named insured, at the last known mailing address,
+13 written notice that the insurer will not renew the policy. Such no-
+14 tice shall be mailed or delivered at least forty-five (45) sixty (60)
+15 days before the expiration date. If the notice is mailed less than
+16 forty-five (45) sixty (60) days before expiration, coverage shall re-
+17 main in effect until forty-five (45) sixty (60) days after notice is
+18 mailed or delivered. Earned premium for any period of coverage that
+19 extends beyond the expiration date shall be considered pro rata based
+20 upon the previous year's rate. For purposes of this section, the trans-
+21 fer of a policyholder between companies within the same insurance group
+22 is not a nonrenewal or a refusal to renew. In addition, changes in de-
+23 ductibles, changes in premium, and changes in the amount of insurance or
+24 reductions in policy limits or coverage shall not be deemed to be nonre-
+25 newals or refusals to renew. Notice of nonrenewal is not required if:
+26 (i) The insurer or a company within the same insurance group has
+27 offered to issue a renewal policy; or
+28 (ii) Where the named insured has obtained replacement coverage or
+29 has agreed in writing to obtain replacement coverage.
+30 (b) If an insurer provides the notice described in subsection (4) of
+31 this section and thereafter the insurer extends the policy for ninety
+32 (90) days or less, an additional notice of nonrenewal is not required
+33 with respect to the extension.
+34 (5) Notice of premium or coverage changes. An insurer shall mail or de-
+35 liver to the named insured, at the last known mailing address, written no-
+36 tice of a total premium increase greater than ten percent (10%) which is the
+37 result of a comparable increase in premium rates, changes in deductibles,
+38 reductions in limits, or reductions in coverages at least thirty (30) days
+39 prior to the expiration date of the policy. If the insurer fails to provide
+40 such thirty (30) day notice, the coverage provided to the named insured shall
+41 remain in effect until thirty (30) days after such notice is given or until
+42 the effective date of replacement coverage obtained by the named insured,
+43 whichever first occurs. For the purposes of this section, notice is consid-
+44 ered given thirty (30) days following date of mailing or delivery of the no-
+45 tice to the named insured. If the insured elects not to renew, any earned
+46 premium for the period of extension of the terminated policy shall be calcu-
+47 lated pro rata at the lower of the current or previous year's rate. If the
+48 insured accepts the renewal, the premium increase, if any, and other changes
+49 shall be effective on and after the first day of the renewal term.
+
+4
+1 (6) Proof of notice. Proof of mailing of notice of cancellation, or
+2 of nonrenewal or of premium or coverage changes, to the named insured at the
+3 last known mailing address showing on the policy, shall be sufficient proof
+4 of notice.
+5 (7) Application, effective date and termination. The provisions of
+6 this section shall apply only to policies with coverage effective dates af-
+7 ter the effective date of this section.
+8 (8) Rules. The director may promulgate rules to implement the pro-
+9 visions of this section. Every rule promulgated within the authority
+10 conferred by this act shall be of temporary effect and shall become permanent
+11 only by enactment by statute at the regular session of the legislature first
+12 following adoption of the rule. Rules not approved in the above manner shall
+13 be rejected, null, void and of no force and effect on July 1, following sub-
+14 mission of the rules to the legislature.
+15 SECTION 2. That Section 41-2401, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 41-2401. STANDARD FIRE POLICY. (1) No fire insurer shall issue any
+18 fire insurance policy covering on property or interest therein in this
+19 state, other than on the form known as the New York standard as revised in
+20 1943, except as follows:
+21 (a) An insurer may print on or in its policy its name, location, date
+22 of incorporation, plan of operation, whether stock, mutual, reciprocal
+23 or organized under special charter provisions, and if mutual or recip-
+24 rocal whether on cash premium or assessment plan; and if it be a stock
+25 company, the amount of its paid up capital stock, the names of its offi-
+26 cers and agents, the number and date of the policy, and, if it is issued
+27 by an agent, the words, "this policy shall not be valid until counter-
+28 signed by the duly authorized agent of the company at ...."; and, if a
+29 mutual or reciprocal insurer, the policy must state the contingent lia-
+30 bility, if any, of its policyholders, members, or subscribers for pay-
+31 ment of losses and expenses not provided for by its cash funds.
+32 (b) An insurer may print or use in its policies printed forms of de-
+33 scription and specifications of the property insured.
+34 (c) An insurer insuring against damage by lightning may print in the
+35 clause enumerating the perils insured against the additional words,
+36 "also any damage by lightning whether fire ensues or not," and in the
+37 clause providing for an apportionment of loss in case of other insurance
+38 the words, "whether by fire, lightning or both."
+39 (d) A domestic insurer may print in its policies any provisions which it
+40 is authorized or required by the law to insert therein, and any foreign
+41 insurer may, with the approval of the director, so print any provision
+42 required by its charter or deed of settlement, or by the laws of its own
+43 state or country, not contrary to the laws of this state; but the direc-
+44 tor shall require any provision which, in his opinion modifies the con-
+45 tract of insurance in such a way as to affect the question of loss, to
+46 be appended to the policy by an endorsement or rider as hereinafter pro-
+47 vided.
+48 (e) The blanks in the standard form may be completed in print or in writ-
+49 ing.
+
+5
+1 (f) An insurer may print upon policies issued in compliance with the
+2 preceding provisions of this section the words, "Idaho standard pol-
+3 icy."
+4 (g) An insurer may write upon the margin or across the face of the pol-
+5 icy, or write or print in type not smaller than nonpareil upon a slip,
+6 slips, rider or riders to be attached thereto, provisions adding to or
+7 relating to those contained in the standard form; and all such slips,
+8 riders, endorsements and provisions must be signed by the officers or
+9 agents of the insurer so using them.
+10 (h) If the policy be made by a mutual, reciprocal or other insurer hav-
+11 ing special regulations lawfully applicable to its organization, mem-
+12 bership, policies or contracts of insurance such regulations shall ap-
+13 ply to and form a part of the policy as the same may be written or printed
+14 upon, attached or appended thereto.
+15 (i) Every policy shall have legibly inscribed upon its face and filing
+16 back suitable words to designate whether the insurer making such insur-
+17 ance be a stock, mutual or reciprocal insurer, provided, that any in-
+18 surer organized under special charter provisions may so indicate upon
+19 its policy and may add a statement of the plan under which it operates in
+20 this state.
+21 (j) Every fire policy shall contain language that provides for a thirty
+22 (30) sixty (60) day written notice to the insured prior to cancellation
+23 of the policy, accompanied by the reason for the cancellation, provided
+24 however, that where cancellation is for the nonpayment of premium, at
+25 least ten (10) days' notice of such cancellation, accompanied by the
+26 reason for the cancellation, shall be given. If delivered via United
+27 States mail, such ten (10) day notification period shall begin to run
+28 five (5) days following the date of postmark. Proof of mailing of no-
+29 tice of cancellation, or of intention not to renew, or of reasons for
+30 cancellation or nonrenewal to the named insured at his address shall be
+31 sufficient proof of notice.
+32 (k) Every fire policy shall contain language that provides for a sixty
+33 (60) day written notice to the insured prior to nonrenewal of the policy
+34 accompanied by the reason for the nonrenewal. If the notice is mailed
+35 less than sixty (60) days before expiration, coverage shall remain in
+36 effect until sixty (60) days after notice is mailed or delivered. Proof
+37 of mailing of notice of intention not to renew to the named insured at
+38 his address shall be sufficient proof of notice.
+39 (k) (l) Every fire policy shall provide that it becomes effective at
+40 12:01 a.m. of the standard time of the place where the property covered
+41 by the insurance is located, on the effective date of the policy.
+42 (2) An insurer issuing the standard fire policy is authorized to affix
+43 thereto or include therein a written statement that the policy does not cover
+44 loss or damage caused by nuclear reaction, nuclear radiation or radioactive
+45 contamination, all whether directly or indirectly resulting from an insured
+46 peril under the policy; but nothing herein contained shall be construed to
+47 prohibit the attachment to any such policy of an endorsement or endorsements
+48 specifically assuming coverage for loss or damage caused by nuclear reac-
+49 tion, nuclear radiation or radioactive contamination.
+
+6
+1 (3) The standard fire policy is not mandatory for vehicle insurance, or
+2 for marine insurance, or inland marine insurance as the same is defined pur-
+3 suant to section 41-1401(2), Idaho Code, or for insurance on growing crops.
+4 (4) Any policy or contract otherwise subject to the provisions of sub-
+5 section (1) hereof, which includes either on an unspecified basis as to the
+6 coverage or for a single premium coverage against the peril of fire and sub-
+7 stantial coverage against other perils need not comply with the provisions
+8 of subsection (1) hereof, provided:
+9 (a) Such policy or contract shall afford coverage, with respect to the
+10 peril of fire, not less than the coverage afforded by such standard fire
+11 policy,
+12 (b) The provisions in relation to mortgagee interests and obligations
+13 in such standard fire policy shall be incorporated therein without
+14 change,
+15 (c) Such policy or contract is complete as to all of its terms with-
+16 out reference to the standard form of fire insurance policy or any other
+17 policy, and
+18 (d) The director is satisfied that such policy or contract complies
+19 with the provisions hereof.
+20 (5) With respect to a commercial insurance policy, such standard fire
+21 insurance policy may exclude coverage for loss by fire or other perils in-
+22 sured against if the fire or other perils are caused directly or indirectly
+23 by terrorism. As used in this section, the term "terrorism" means a violent
+24 act or an act that:
+25 (a) Is dangerous to human life, property or infrastructure;
+26 (b) Results in damage within the United States, or outside of the United
+27 States in the case of an air carrier or vessel or the premises of a United
+28 States mission; and
+29 (c) Is committed by an individual or individuals, as part of an effort
+30 to coerce the civilian population of the United States or to influence
+31 the policy or affect the conduct of the United States government by co-
+32 ercion.
+33 SECTION 3. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2026.

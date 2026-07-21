@@ -1,0 +1,885 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 533
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO VEHICLE REGISTRATION STICKERS; AMENDING SECTION 49-202, IDAHO
+3 CODE, TO REMOVE A PROVISION REGARDING REGISTRATION STICKERS; AMENDING
+4 SECTION 49-402, IDAHO CODE, TO REVISE PROVISIONS REGARDING REGISTRA-
+5 TION STICKERS AND TO PROVIDE A CORRECT CODE REFERENCE; AMENDING SECTION
+6 49-402A, IDAHO CODE, TO REVISE A PROVISION REGARDING VALIDATION STICK-
+7 ERS; AMENDING SECTION 49-402E, IDAHO CODE, TO REMOVE PROVISIONS REGARD-
+8 ING RENTAL CAR STICKERS; AMENDING SECTION 49-411, IDAHO CODE, TO REMOVE
+9 LANGUAGE REGARDING VALIDATION STICKERS; AMENDING SECTION 49-412, IDAHO
+10 CODE, TO REVISE A PROVISION REGARDING REGISTRATION STICKERS; AMENDING
+11 SECTION 49-428, IDAHO CODE, TO REVISE PROVISIONS REGARDING REGISTRA-
+12 TION STICKERS; AMENDING SECTION 49-434, IDAHO CODE, TO REMOVE LANGUAGE
+13 REGARDING VALIDATION STICKERS; AMENDING SECTION 49-443, IDAHO CODE, TO
+14 REVISE PROVISIONS REGARDING LICENSE PLATES; AND DECLARING AN EMERGENCY
+15 AND PROVIDING AN EFFECTIVE DATE.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. That Section 49-202, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 49-202. DUTIES OF DEPARTMENT. (1) All registration and driver's li-
+20 cense records in the office of the department shall be public records and
+21 open to inspection by the public during normal business hours, except for
+22 those records declared by law to be for the confidential use of the depart-
+23 ment, or those records containing personal information subject to restric-
+24 tions or conditions regarding disclosure. If the department has contracted
+25 for a service to be provided by another entity, an additional fee shall be
+26 charged by that contractor whether the service is rendered during normal
+27 business hours, other than normal business hours or on weekends.
+28 (2) In addition to other fees required by law to be collected by the de-
+29 partment, the department shall collect the following:
+30 (a) For certifying a copy of any record pertaining to any vehicle li-
+31 cense, any certificate of title, or any driver's license ....... $14.00
+32 (b) For issuing every Idaho certificate of title .............. $14.00
+33 (c) For furnishing a duplicate copy of any Idaho certificate
+34 of title ................................................... $14.00
+35 (d) For issuance or transfer of every certificate of title on a new or
+36 used vehicle or other titled vehicle in an expedited manner (rush ti-
+37 tles), in addition to any other fee required by this section .... $26.00
+38 (e) For recording a transitional ownership document, in addition to any
+39 other fee required by this section ........................... $26.00
+40 (f) For furnishing a replacement of any receipt
+41 of registration ............................................. $5.00
+
+2
+1 (g) For furnishing copies of registration or ownership of motor vehi-
+2 cles or driver's license records, per vehicle registration, accident
+3 report records, title or per driver's license record ........... $7.00
+4 Additional contractor fee, not to exceed ...................... $4.00
+5 (h) For services in searching files of vehicle or other
+6 registrations, vehicle titles, or driver's licenses per hour .. $18.00
+7 (i) Placing "stop" cards in vehicle registration or title
+8 files, each ................................................ $21.00
+9 (j) For issuance of an assigned or replacement vehicle
+10 identification number (VIN) ................................. $18.00
+11 (k) For a vehicle identification number (VIN) inspection whether con-
+12 ducted by a city or county peace officer or any other peace officer or
+13 designated agent of the state of Idaho, per inspection .......... $5.00
+14 (l) For all replacement registration stickers, each ........... $2.00
+15 (m) For issuing letters of temporary vehicle clearance
+16 to Idaho-based motor carriers ............................... $18.00
+17 (n) For all sample license plates, each .......................$21.00
+18 (o) For filing release of liability statements ................ $3.50
+19 (p) For safety and insurance programs for each vehicle operated
+20 by a motor carrier ........................................... $3.00
+21 A lesser amount may be set by rule of the board.
+22 (3) The fees required in this section shall not apply when the service
+23 is furnished to any federal, state, county or city peace officer when such
+24 service is required in the performance of their duties as peace officers.
+25 (4) The department may enter into agreements with private companies or
+26 public entities to provide the services for which a fee is collected in sub-
+27 section (2)(g) of this section. Such private contractor shall collect the
+28 fee prescribed and remit the fee to the department. The contractor shall
+29 also collect and retain the additional fee charged for his services.
+30 (5)(a) The department shall pay three dollars ($3.00) of the fee col-
+31 lected by a county assessor or other authorized agent of the department
+32 as provided in subsection (2)(a) through (f) of this section, and four
+33 dollars ($4.00) as provided in subsection (2)(g) of this section, to
+34 the county assessor or sheriff of the county or authorized agent of
+35 the department collecting such fee, which shall be deposited with the
+36 county treasurer and credited to the county current expense fund when
+37 collected by the county. When fees are collected by the department or an
+38 authorized agent of the department, such fees shall be deposited with
+39 the issuing entity. The remainder of the fees collected as provided in
+40 that subsection shall be paid by the department to the state treasurer
+41 and placed in the state highway account.
+42 (b) The fee collected under subsection (2)(k) of this section for a VIN
+43 inspection shall be placed in the city general fund if conducted by a
+44 city peace officer, in the county current expense fund if conducted by a
+45 county peace officer, shall be retained by the special agent authorized
+46 to perform the inspection, or paid to the state treasurer and placed to
+47 the credit of the Idaho state police if conducted by the Idaho state po-
+48 lice or in the state highway account if conducted by the department.
+49 (c) The fee collected under subsection (2)(o) of this section for fil-
+50 ing release of liability statements shall be retained by the county as-
+
+3
+1 sessor of the county collecting such fee and shall be deposited with the
+2 county treasurer and credited to the county current expense fund. Any
+3 fees collected by the department for filing release of liability state-
+4 ments shall be retained by the department. However, the fees provided
+5 for in subsection (2)(o) of this section shall not apply when a transac-
+6 tion is filed electronically with the department.
+7 (d) The fee in subsection (2)(m) of this section shall not apply when
+8 the Idaho-based motor carrier or its representative obtains and prints
+9 the document using internet access.
+10 (e) The fee collected under subsection (2)(p) of this section for mo-
+11 tor carriers shall be paid by the department to the state treasurer and
+12 placed in the state highway account. The director and the director of
+13 the Idaho state police shall jointly determine the amount to be trans-
+14 ferred from the state highway account to the law enforcement fund for
+15 motor carrier safety programs conducted by the Idaho state police pur-
+16 suant to the provisions of section 67-2901A, Idaho Code.
+17 (6) The department as often as practicable may provide to law enforce-
+18 ment agencies the record of suspensions and revocations of driver licenses
+19 via the public safety and security information system (ILETS).
+20 (7) The department shall provide the forms prescribed in chapter 5 of
+21 this title, shall receive and file in its office in Ada county all instru-
+22 ments required in chapter 5 of this title to be filed with the department,
+23 shall prescribe a uniform method of numbering certificates of title, and
+24 shall maintain in the department indices for such certificates of title. All
+25 indices shall be by motor or identification number and alphabetical by name
+26 of the owner.
+27 (8) The department shall file each registration received under a
+28 distinctive registration number assigned to the vehicle and to the owner
+29 thereof.
+30 (9) The department shall not renew a driver's license or identification
+31 card when fees required by law have not been paid or where fees for past pe-
+32 riods are due, owing and unpaid including insufficient fund checks, until
+33 those fees have been paid.
+34 (10) The department shall not grant the registration of a vehicle when:
+35 (a) The applicant is not entitled to registration under the provisions
+36 of this title; or
+37 (b) The applicant has neglected or refused to furnish the department
+38 with the information required in the appropriate form or reasonable ad-
+39 ditional information required by the department; or
+40 (c) The fees required by law have not been paid, or where fees for past
+41 registration periods are due, owing and unpaid including insufficient
+42 fund checks.
+43 (11) The department or its authorized agents have the authority to re-
+44 quest any person to submit to medical, vision, highway, or written examina-
+45 tions, to protect the safety of the public upon the highways. The depart-
+46 ment or its authorized agents may exercise such authority based upon evi-
+47 dence which may include, but is not limited to, observations made.
+48 (12) The department shall revoke the registration of any vehicle:
+49 (a) Which the department shall determine is unsafe or unfit to be oper-
+50 ated or is not equipped as required by law;
+
+4
+1 (b) Whenever the person to whom the registration card or registration
+2 plate has been issued shall make or permit to be made any unlawful use of
+3 the same or permit their use by a person not entitled thereto;
+4 (c) For any violation of vehicle registration requirements by the owner
+5 or operator in the current or past registration periods;
+6 (d) Whenever a motor carrier requests revocation, or whenever an inter-
+7 state carrier's federal operating authority has been revoked;
+8 (e) For failure of the owner or operator to file the reports required
+9 or nonpayment of audit assessments or fees assessed against the owner by
+10 the department or the state tax commission pursuant to audit under the
+11 provisions of section 49-439, Idaho Code;
+12 (f) Identified by any city or county administering a program estab-
+13 lished by ordinance for the inspection and readjustment of motor vehi-
+14 cles (which program is part of an approved state implementation plan
+15 adopted by both the state and federal governments under 42 U.S.C. 7410)
+16 as having failed to comply with an ordinance requiring motor vehicle
+17 emission inspection and readjustment; provided that no vehicle shall be
+18 identified to the department under this subsection unless:
+19 (i) The city or county certifies to the department that the owner
+20 of the motor vehicle has been given notice and had the opportunity
+21 for a hearing concerning compliance with the ordinance and has ex-
+22 hausted all remedies and appeals from any determination made at
+23 such hearing; and
+24 (ii) The city or county reimburses the department for all direct
+25 costs associated with the registration revocation procedure.
+26 (13) The department shall not reregister or permit a vehicle to oper-
+27 ate on a special trip permit until all fees, penalties and interest have been
+28 paid.
+29 (14) The department shall institute educational programs, demonstra-
+30 tions, exhibits and displays.
+31 (15) The department shall cancel a driver's license or identification
+32 card when fees required by law have not been paid or where fees are due, owing
+33 and unpaid including insufficient fund checks, until those fees have been
+34 paid.
+35 (16) The department shall examine persons and vehicles by written,
+36 oral, vision and skills tests without compulsion except as provided by law.
+37 (17) The department shall employ expert and special help as needed in
+38 the department.
+39 (18) The department shall compile accident statistics and disseminate
+40 information relating to those statistics.
+41 (19) The department shall cooperate with the United States in the elimi-
+42 nation of road hazards, whether of a physical, visual or mental character.
+43 (20) The department shall place and maintain traffic-control devices,
+44 conforming to the board's manual and specifications, upon all state highways
+45 as it shall deem necessary to indicate and to carry out the provisions of this
+46 title or to regulate, warn, or guide traffic. No local authority shall place
+47 or maintain any traffic-control device upon any highway under the jurisdic-
+48 tion of the department except by the latter's permission. The placement and
+49 maintenance of such a traffic-control device by a local authority shall be
+
+5
+1 made according to the board's manual and specifications for a uniform system
+2 of traffic-control devices.
+3 (21) The department may conduct an investigation of any bridge or other
+4 elevated structure constituting a part of a highway, and, if it shall find
+5 that the structure cannot with safety to itself withstand vehicles travel-
+6 ing at a speed otherwise permissible under this title, shall determine and
+7 declare the maximum speed of vehicles which the structure can safely with-
+8 stand, and shall cause or permit suitable signs stating the maximum speed to
+9 be erected and maintained before each end of the structure.
+10 (22) Whenever the department shall determine on the basis of an engi-
+11 neering and traffic investigation that slow speeds on any highway or part of
+12 a highway impede the normal and reasonable movement of traffic, the depart-
+13 ment may determine and declare a minimum speed limit below which no person
+14 shall drive a vehicle except when necessary for safe operation or in compli-
+15 ance with law, and that limit shall be effective when posted upon appropriate
+16 fixed or variable signs.
+17 (23) The department shall regulate or prohibit the use of any con-
+18 trolled-access highway by any class or kind of traffic which is found to be
+19 incompatible with the normal and safe movement of traffic.
+20 (24) The department shall erect and maintain traffic-control devices on
+21 controlled-access highways on which any prohibitions are applicable.
+22 (25) The department and local authorities are authorized to determine
+23 those portions of any highway under their respective jurisdictions where
+24 overtaking and passing or driving on the left side of the roadway would be
+25 especially hazardous and may by appropriate signs or markings on the roadway
+26 indicate the beginning and end of those zones and when signs or markings are
+27 in place and clearly visible to an ordinarily observant person, every driver
+28 of a vehicle shall obey those directions.
+29 (26) The department and local authorities in their respective juris-
+30 dictions may in their discretion issue special permits authorizing the
+31 operation upon a highway of traction engines or tractors having movable
+32 tracks with transverse corrugations upon the periphery of the movable tracks
+33 or farm tractors or other farm machinery, the operation of which upon a high-
+34 way would otherwise be prohibited under this title or title 40, Idaho Code.
+35 (27) The department and local highway authorities within their respec-
+36 tive jurisdictions may place official traffic-control devices prohibiting,
+37 limiting or restricting the stopping, standing or parking of vehicles on any
+38 highway where such stopping, standing or parking is dangerous to those using
+39 the highway or where the stopping, standing or parking of vehicles unduly in-
+40 terferes with the free movement of traffic thereon.
+41 (28) On any informational material printed after July 1, 1995, by or at
+42 the order of the department and distributed to counties, school districts
+43 or individuals for the purpose of assisting a person to successfully pass
+44 a driver's license test, the department shall include material about the
+45 state's open range law and responsibilities, liabilities and obligations of
+46 drivers driving in the open range.
+47 (29) All employees, agents, and contractors of the department who have
+48 access to the source systems used by the division of motor vehicles shall be
+49 required to complete data security compliance training and to pass a federal
+50 bureau of investigation criminal background check. The department shall ad-
+
+6
+1 minister access to and provide for the training required pursuant to this
+2 subsection.
+3 SECTION 2. That Section 49-402, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 49-402. ANNUAL REGISTRATION. (1) The annual fee for operating each
+6 pickup truck, each neighborhood electric vehicle and each other motor ve-
+7 hicle having a maximum gross weight not in excess of eight thousand (8,000)
+8 pounds and that complies with the federal motor vehicle safety standards as
+9 defined in section 49-107, Idaho Code, shall be:
+10 Vehicles one (1) and two (2) years old .........................$69.00
+11 Vehicles three (3) and four (4) years old ......................$57.00
+12 Vehicles five (5) and six (6) years old ........................$57.00
+13 Vehicles seven (7) and eight (8) years old .....................$45.00
+14 Vehicles over eight (8) years old .............................$45.00
+15 There shall be twelve (12) registration periods, starting in January
+16 for holders of validation registration stickers numbered 1, and proceed-
+17 ing consecutively through December for holders of validation registration
+18 stickers numbered 12, each of which. Each registration period shall start on
+19 the first day of a calendar month and end on the last day of the twelfth month
+20 from the first day of the beginning month. Registration periods shall expire
+21 at midnight on the last day of the registration period in the year designated
+22 by the validation registration sticker. The numeral digit on the validation
+23 registration stickers shall, as does the registration card, fix the reg-
+24 istration the registration card. The registration period is fixed by the
+25 registration card under the staggered registration system for the purpose of
+26 reregistration and notice of expiration.
+27 A vehicle that has once been registered for any of the above-designated
+28 periods shall, upon reregistration, be registered for the period bearing the
+29 same number month, and the registration card shall show and be the exclusive
+30 proof of the expiration date of registration and licensing. Vehicles may be
+31 initially registered for less than a twelve (12) month period, or for more
+32 than a twelve (12) month period, and the fee prorated on a monthly basis if
+33 the fractional registration tends to fulfill the purpose of the monthly se-
+34 ries registration system.
+35 (2) For all school buses operated either by a nonprofit, nonpublic
+36 school or operated pursuant to a service contract with a school district for
+37 transporting children to or from school or in connection with school-ap-
+38 proved activities, the annual fee shall be twenty-four dollars ($24.00) and
+39 shall be subject to staggered registration for the purpose of reregistration
+40 and notice of expiration.
+41 (3) For all motorcycles and motor-driven cycles that comply with the
+42 federal motor vehicle safety standards, operated on the public highways, the
+43 annual fee shall be nineteen dollars ($19.00) and shall be subject to stag-
+44 gered registration for the purpose of reregistration and notice of expira-
+45 tion.
+46 (4) For operation of an all-terrain vehicle, utility type vehicle or
+47 motorbike, excluding a motorbike with an engine displacement of fifty (50)
+48 cubic centimeters or less, on city, county or highway district roads or
+49 highways open to such use, a restricted vehicle license plate fee pursuant
+
+7
+1 to section 49-450, Idaho Code, shall be paid. In addition, the certifi-
+2 cate of number fee specified in section 67-7122, Idaho Code, shall be paid
+3 as provided in section 67-7122, Idaho Code. The certificate of number and
+4 restricted vehicle license plate exemption provided in section 49-426(2),
+5 Idaho Code, applies to all-terrain vehicles, utility type vehicles, motor-
+6 bikes and motorcycles used for the purposes described in section 49-426(2),
+7 Idaho Code. Nonresidents shall be allowed to purchase a restricted vehicle
+8 license plate and validation sticker pursuant to section 67-7124, Idaho
+9 Code, for an all-terrain vehicle, utility type vehicle, or motorbike.
+10 (5) For all motor homes, the fee shall be as specified in subsection (1)
+11 of this section and shall be in addition to the fees provided for in section
+12 49-445, Idaho Code.
+13 (6) Registration fees shall not be subject to refund.
+14 (7) A financial institution or repossession service contracted to
+15 a financial institution repossessing vehicles under the terms of a secu-
+16 rity agreement shall move the vehicle from the place of repossession to the
+17 financial institution's place of business on a repossession plate. The
+18 repossession plate shall also be used for demonstrating the vehicle to a
+19 prospective purchaser for a period not to exceed ninety-six (96) hours. The
+20 registration fees for repossession plates shall be as required in subsection
+21 (1) of this section for a vehicle one (1) and two (2) years old. All other
+22 fees required under chapter 4, title 49, Idaho Code, shall be in addition to
+23 the registration fee. The repossession plate shall be subject to staggered
+24 registration for the purpose of reregistration and notice of expiration.
+25 (8) A wrecker or towing business engaged in the process of towing motor-
+26 ized vehicles that have been wrecked, abandoned, salvaged or may be disabled
+27 may apply for a wrecker plate to be displayed on those vehicles being towed,
+28 provided the power unit is properly registered under this chapter. The reg-
+29 istration fees for wrecker plates shall be as required in subsection (1) of
+30 this section for a vehicle one (1) and two (2) years old. All other fees re-
+31 quired under chapter 4, title 49, Idaho Code, shall be in addition to the reg-
+32 istration fee and shall be subject to staggered registration for the purpose
+33 of reregistration and notice of expiration.
+34 (9) In addition to the annual registration fee in this section, there
+35 shall be an initial program fee of twenty-five dollars ($25.00) and an an-
+36 nual program fee of fifteen dollars ($15.00) for all special license plate
+37 programs for those license plates issued pursuant to sections 49-404A,
+38 49-407, 49-408, 49-409, 49-414, 49-416, 49-418 and 49-418D, Idaho Code. For
+39 special plates issued pursuant to section 49-417E, Idaho Code, there shall
+40 be an initial program fee of seventy dollars ($70.00) and an annual program
+41 fee of fifty dollars ($50.00). For special plates issued pursuant to sec-
+42 tions 49-406 and 49-406A, Idaho Code, there shall be an initial program fee
+43 of twenty-five dollars ($25.00) but there shall be no annual renewal fee.
+44 For special plates issued pursuant to sections 49-415D, 49-417, 49-417A,
+45 49-417B, 49-417C, 49-417D, 49-418A, 49-418B, 49-418C, 49-419, 49-419A,
+46 49-419C, 49-419E, 49-420, 49-420A, 49-420B, 49-420C, 49-420D, 49-420E,
+47 49-420J, 49-420K, 49-420L, 49-420M, 49-420N, 49-420O, 49-420P, 49-420Q,
+48 49-420R, 49-420S, and 49-420T, and 49-420T 49-420U, Idaho Code, and unless
+49 otherwise expressly provided for in this chapter, any new special plate
+50 program effective on and after January 1, 2013, pursuant to section 49-402D,
+
+8
+1 Idaho Code, there shall be an initial program fee of thirty-five dollars
+2 ($35.00) and an annual program fee of twenty-five dollars ($25.00). The fees
+3 contained in this subsection shall be applicable to all new special plate
+4 programs and shall be subject to staggered registration for the purpose of
+5 reregistration and notice of expiration. The initial program fee and the
+6 annual program fee shall be deposited in the state highway account and shall
+7 be used to fund the cost of administration of special license plate programs,
+8 unless otherwise specified by law.
+9 (10) Any vehicle that does not meet federal motor vehicle safety stan-
+10 dards shall not be registered and shall not be permitted to operate on public
+11 highways of the state, as defined in section 40-117, Idaho Code, unless oth-
+12 erwise specifically authorized.
+13 (11) In addition to annual registration fees as provided in this sec-
+14 tion, registrants may pay a fee to purchase an Idaho state parks passport
+15 authorizing resident motor vehicle entry into all Idaho state parks. Reg-
+16 istrants may pay the fee for a one (1) year or two (2) year period of time.
+17 The fee shall be ten dollars ($10.00) for one (1) year and twenty dollars
+18 ($20.00) for two (2) years. All fees collected pursuant to this subsection
+19 shall be deposited into the park and recreation fund and shall be subject to
+20 appropriation. Fees collected pursuant to this subsection shall not be con-
+21 sidered a motor vehicle registration fee as provided in section 17, article
+22 VII of the constitution of the state of Idaho.
+23 SECTION 3. That Section 49-402A, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 49-402A. UTILITY TRAILERS -- REGISTRATION, FEES AND TRANSFERS. (1)
+26 The department shall register a utility trailer for a period of one (1) year
+27 for a fee of five dollars ($5.00).
+28 (2) The department may register a utility trailer for a five (5) year
+29 period or for a ten (10) year period, and shall issue a license plate with
+30 the year of expiration designated by a validation sticker the registration
+31 card. Five (5) year registrations shall cost twenty dollars ($20.00) and ten
+32 (10) year registrations shall cost thirty dollars ($30.00) and shall be sub-
+33 ject to staggered registration for the purpose of reregistration and notice
+34 of expiration.
+35 (3) If ownership or interest in the trailer transfers as a result of a
+36 sale, neither the registration card nor plate can be transferred to another
+37 person. The registration card and plate shall remain in the possession of
+38 the transferor and may be transferred to another utility trailer owned by the
+39 transferor, and shall be valid until expiration of the original registra-
+40 tion.
+41 SECTION 4. That Section 49-402E, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 49-402E. RENTAL FLEET REGISTRATION. (1) As used in this section
+44 "rental fleet" means more than twenty-five (25) motor vehicles that are:
+45 (a) Owned by a rental company;
+46 (b) Offered for rental without a hired driver through a rental agree-
+47 ment; and
+
+9
+1 (c) Designated by the registered owner of the motor vehicle as a rental
+2 fleet vehicle at the time of registration.
+3 (2)(a) On and after the effective date of this act, an owner that reg-
+4 isters a motor vehicle, weighing sixteen thousand (16,000) pounds or
+5 less, under the provisions of chapter 4, title 49, Idaho Code, may ob-
+6 tain an alternative special registration card and rental car stickers
+7 for the license plates if the motor vehicle is owned by a rental company
+8 and maintained in the rental company's rental fleet.
+9 (b) Although annual registration shall be required for each fleet ve-
+10 hicle, the registration card and rental car stickers for the license
+11 plates issued under paragraph (a) of this subsection are valid for the
+12 life of the motor vehicle while the motor vehicle is maintained in the
+13 rental fleet.
+14 (3) An owner that receives the alternative special registration card
+15 and rental car stickers for the license plates issued under this section
+16 shall renew the annual registration. If registration is not renewed, the
+17 registration shall be canceled.
+18 (4) In addition to the registration fees collected under chapter 4, ti-
+19 tle 49, Idaho Code, the department shall also collect an additional two dol-
+20 lars ($2.00) for the initial registration for each vehicle registered under
+21 this section, which shall be deposited in the state highway account.
+22 SECTION 5. That Section 49-411, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 49-411. DEALER AND MANUFACTURER PLATE -- FEES. (1) Any person conduct-
+25 ing the business of manufacturing, buying, selling or dealing in vehicles,
+26 and licensed as a manufacturer of or a dealer in vehicles, and owning and op-
+27 erating any such vehicle upon any highway may, in lieu of registering each
+28 vehicle, obtain from the department upon application on the proper form and
+29 payment of the required fee, and attach to each vehicle, one (1) number plate
+30 as required for different classes of vehicles in section 49-434, Idaho Code.
+31 The special number plate shall bear a distinctive number assigned to the man-
+32 ufacturer or dealer, the name of this state, which may be abbreviated, and
+33 the year for which the plate is issued, together with words which may be ab-
+34 breviated or a distinguishing symbol indicating that the plate is issued to a
+35 manufacturer or dealer.
+36 (a) Dealer license plates shall be limited to two (2) license plates
+37 for up to twenty (20) vehicles sold during the previous dealer licensing
+38 period and one (1) license plate for each ten (10) additional vehicles
+39 sold during the previous dealer licensing period. Any new dealer who
+40 applies for a dealer license shall be eligible for the number of dealer
+41 plates requested based on the number of vehicles that the dealer esti-
+42 mates he will sell during the first year of licensure.
+43 (b) Upon renewal of a dealer's license, the department may audit vehi-
+44 cle sales from previous years to determine the number of dealer plates
+45 that will be authorized for the current dealer licensing period.
+46 (2) The fee to validate a dealer or manufacturer number plate shall be
+47 twelve dollars ($12.00) for each validation sticker.
+48 (3) All such fees shall be paid to the state treasurer and deposited to
+49 the state highway account.
+
+10
+1 (4) Laden dealer or manufacturer plates shall be available to licensed
+2 dealers and manufacturers operating vehicles with laden loads in further-
+3 ance of their business pursuant to section 49-1627(5), Idaho Code. Such
+4 plates shall be exempt from the limit provisions of subsection (1)(a) of this
+5 section. The operating fee for a laden dealer or manufacturer plate will
+6 be equal to the fees for commercial vehicles pursuant to section 49-434(1),
+7 Idaho Code, for twenty-six thousand (26,000) pounds. Laden dealer and man-
+8 ufacturer plates are limited to a maximum combined gross vehicle weight of
+9 twenty-six thousand (26,000) pounds. Temporary weight increase permits may
+10 be purchased pursuant to section 49-432(2), Idaho Code.
+11 SECTION 6. That Section 49-412, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 49-412. VEHICLE DEALER LOANER PLATE. (1) A dealer, owning a vehicle
+14 may obtain, upon application to the department upon a proper form and payment
+15 of the fee required, and display on a vehicle loaned to a customer, a loaner
+16 vehicle number plate. The plate shall be the same design and numbering sys-
+17 tem as the plate issued for passenger vehicles or motorcycles.
+18 (2) The fee for each loaner plate or registration sticker card shall be
+19 as provided in section 49-402(1), Idaho Code, for new vehicles.
+20 (3) All such fees shall be paid to the state treasurer and deposited to
+21 the state highway account.
+22 SECTION 7. That Section 49-428, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 49-428. DISPLAY OF PLATE AND STICKERS. (1) License plates assigned to
+25 a motor vehicle shall be attached, one (1) in the front, if the vehicle is
+26 equipped with a front license plate mounting bracket, and the other in the
+27 rear, with the exception of the following:
+28 (a) The license plate assigned to a motorcycle, all-terrain vehicle,
+29 utility type vehicle, motorbike or semitrailer and the license plate
+30 assigned to a motor vehicle operated by a manufacturer, repossession
+31 agent or dealer shall be attached to the rear.
+32 (b) Vehicles displaying year of manufacture, old timer, classic car,
+33 street rod, or custom vehicle license plates shall be allowed to display
+34 one (1) plate attached to the rear of the vehicle.
+35 (c) The license plate attached to a tractor shall be attached to the
+36 front.
+37 (d) The wrecker plate shall be displayed on the vehicle being towed in
+38 such a manner as to be visible when the vehicle being towed is approached
+39 from the rear.
+40 License plates shall be displayed during the current registration year. The
+41 annual registration sticker for the current registration year shall be dis-
+42 played on each license plate, except for trailers, semitrailers, and com-
+43 mercial vehicles over twenty-six thousand (26,000) pounds under the provi-
+44 sions of sections 49-434 and 49-435, Idaho Code. For the purposes of this
+45 title, the license plates together with the registration stickers card shall
+46 be considered as license plates for the year designated on the registration
+47 sticker card. For purposes of this chapter, a validation sticker issued to
+
+11
+1 the operator of an all-terrain vehicle, utility type vehicle, or motorbike
+2 under the provisions of sections 67-7122 and 67-7124, Idaho Code, shall be
+3 considered the registration sticker.
+4 (2) Every license plate shall at all times be securely fastened to the
+5 vehicle to which it is assigned to prevent the plate from swinging, be at a
+6 height not less than twelve (12) inches from the ground, measuring from the
+7 bottom of the plate, be in a place and position to be clearly visible, and be
+8 maintained free from foreign materials and in a condition to be clearly legi-
+9 ble, and all registration stickers shall be securely attached to the license
+10 plates and shall be displayed as provided in section 49-443(4), Idaho Code.
+11 SECTION 8. That Section 49-434, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 49-434. OPERATING FEES. (1) There shall be paid on all commercial ve-
+14 hicles, noncommercial vehicles, and on all farm vehicles having a maximum
+15 gross weight not in excess of sixty thousand (60,000) pounds, an annual reg-
+16 istration fee or a staggered registration fee for the purpose of reregistra-
+17 tion and notice of expiration in accordance with the following schedule.
+18 Unladen Weight for Wreckers Annual Registration Fee
+19 Maximum Gross Weight Noncommercial and Commercial
+20 For Other Vehicles (Pounds) Farm Vehicles Vehicles
+21 and Wreckers
+22 8,001-16,000 inc. ........... $ 48.00 $ 48.00
+23 16,001-26,000 inc. ........... 61.08 143.40
+24 26,001-30,000 inc. ........... 91.68 223.80
+25 30,001-40,000 inc. ........... 130.08 291.60
+26 40,001-50,000 inc. ........... 188.28 360.00
+27 50,001-60,000 inc. ........... 311.88 515.40
+28 In addition to the registration fees provided for in this subsection, there
+29 shall be an additional registration fee imposed of twenty-five dollars
+30 ($25.00).
+31 (2) There shall be paid on all commercial vehicles, irrespective of
+32 body type, and on all farm vehicles having a maximum gross weight in excess
+33 of sixty thousand (60,000) pounds, an annual registration fee in the amount
+34 prescribed by subsection (8) of this section, as applicable.
+35 (3) In addition, the annual registration fee for trailers shall be:
+36 (a) Trailer or semitrailer in a combination of vehicles ........$15.00
+37 (b) Rental utility trailer with a gross weight of two thousand (2,000)
+38 pounds or less ................................................$8.00
+39 (c) Rental utility trailer with a gross weight over two thousand
+40 (2,000) pounds ..............................................$15.00
+41 (4) As an option to the trailer and semitrailer and rental utility
+42 trailer annual registrations issued pursuant to subsection (3) of this
+43 section, the department may provide a nonexpiring plate and registration
+44 for trailers and semitrailers, and an optional, extended registration for
+45 rental utility trailers.
+
+12
+1 (a) For trailers and semitrailers, the nonexpiring registration fee
+2 shall be ninety-nine dollars ($99.00). The license plate shall remain
+3 on the trailer or semitrailer until the registration is canceled or re-
+4 voked. No part of the fee is subject to refund. However, the registrant
+5 may transfer the nonexpiring plate and registration to another trailer
+6 or semitrailer titled to the registrant if the original registration
+7 date is prior to July 1, 2009. The registration document shall be the
+8 official record of the status of the nonexpiring registration, and no
+9 registration fee shall be required after the initial registration is
+10 paid. No validation sticker shall be issued for license plates assigned
+11 under this section. The owner may be issued an electronic copy of the
+12 registration card issued pursuant to this section.
+13 (i) Registration of a trailer or semitrailer based in another ju-
+14 risdiction may be issued when the registrant provides a valid ju-
+15 risdiction title or ownership document and certification state-
+16 ment, and no title transfer will be required.
+17 (ii) Periodic verification will be made to confirm ownership sta-
+18 tus. Failure of the owner to comply with the verification request
+19 to confirm ownership within thirty (30) days shall result in can-
+20 cellation of the permanent plate registration.
+21 (b) Idaho-based trailer manufacturers may purchase trailer and semi-
+22 trailer registration from the department. The manufacturer may issue
+23 the annual registration to foreign-based purchasers utilizing a manu-
+24 facturer's certificate of origin or manufacturer's statement of origin
+25 as proof of ownership. If the foreign-based purchaser subsequently ob-
+26 tains an Idaho nonexpiring registration as provided in paragraph (a) of
+27 this subsection prior to annual registration expiration, the amount of
+28 the annual registration fee shall be applied to the nonexpiring regis-
+29 tration fee provided that the customer acquires a title for such vehi-
+30 cle.
+31 (c) For rental utility trailers, the registrant may prepay the annual
+32 registration for an additional one (1), two (2), three (3) or four (4)
+33 years, but in no event shall the optional registration period extend
+34 beyond five (5) years. The fee shall be as specified in subsection
+35 (3)(b) or (c) of this section. The owner shall be issued a registration
+36 card or may request such card to be sent electronically. The expiration
+37 date shall be reflected on such registration card. The license plate
+38 shall become void if the owner's interest in the rental utility trailer
+39 changes during the five (5) year period. If the owner fails to enter
+40 the rental utility trailer on the annual renewal application during
+41 the five (5) year period, the registration record shall be purged. Any
+42 unrenewed plate shall be returned to the department if it is not entered
+43 on the renewal application.
+44 (5) A fleet registration option is available to owners who have
+45 twenty-five (25) or more commercial or farm vehicles or any combination
+46 thereof. Such owners may register all of their company vehicles with the
+47 department in lieu of registering with a county assessor. To qualify, the
+48 fleet must be owned and operated under the unified control of one (1) person
+49 and the vehicles must be physically garaged and maintained in two (2) or more
+50 counties. Fleet registration shall not include fleets of rental vehicles.
+
+13
+1 The department shall provide a registration application to the owner, and
+2 the owner shall provide all information that the department determines is
+3 necessary. The department shall devise a special license plate numbering
+4 system for fleet-registered vehicles as an alternative to county license
+5 plates. The fleet registration application and all subsequent registration
+6 renewals shall include the physical address where a vehicle is principally
+7 used, garaged and maintained. The fleet owner shall report the physical
+8 address to the department upon initial registration, on each renewal, and at
+9 any time a vehicle registered under this option is permanently transferred
+10 to another location.
+11 (6) If the ownership of a vehicle changes during the registration pe-
+12 riod, the original owner may transfer the plate to another vehicle. The re-
+13 maining fee shall be credited against the cost of the new registration. Re-
+14 funds may be given for any unexpired portion of the vehicle registration fee
+15 if the plate is not transferred by the owner to another vehicle. Any re-
+16 quest for refund shall include surrender of the license plate and registra-
+17 tion document, if a physical document was issued. Owners of vehicles regis-
+18 tered under the international registration plan may request a refund of the
+19 unexpired portion of the Idaho vehicle registration fee by presenting ev-
+20 idence from the base jurisdiction that the license plate and registration
+21 document, if a physical document was issued, have been surrendered. A li-
+22 cense plate shall not be transferred to another owner when the ownership of
+23 a vehicle changes. The owner shall obtain a replacement plate, if required,
+24 and a printed or electronic registration document when a plate is lost, de-
+25 stroyed, or becomes illegible.
+26 (7) An administrative fee of four dollars ($4.00) shall be paid and de-
+27 posited to the state highway account on all registrations completed by the
+28 department under subsection (1) or (8)(a) of this section. Vehicles regis-
+29 tered under subsection (8)(b) of this section shall pay the fee provided in
+30 section 49-435(2), Idaho Code.
+31 (8) There shall be paid on all commercial and farm vehicles having a
+32 maximum gross weight in excess of sixty thousand (60,000) pounds, a regis-
+33 tration fee based upon the maximum gross weight of a vehicle as declared by
+34 the owner and the total number of miles driven on roads and highways in the
+35 state, county, city and highway district systems in Idaho, and if registered
+36 under the international registration plan (IRP), in all other jurisdic-
+37 tions. The appropriate registration fee shall be determined as follows:
+38 (a) If the owner registers vehicles under the international registra-
+39 tion plan (IRP), the appropriate mileage column shall be determined by
+40 the total miles an owner operated a fleet of vehicles on roads and high-
+41 ways in the state, county, city and highway district systems in Idaho
+42 and in all other jurisdictions in the preceding year, as defined in sec-
+43 tion 49-117, Idaho Code, and by the maximum gross weight of each vehicle
+44 within a fleet.
+45 (b) If the owner registers vehicles under the international registra-
+46 tion plan and determines that the average international registration
+47 plan fleet miles, calculated by dividing the total IRP fleet miles in
+48 all jurisdictions by the number of registered vehicles, is less than
+49 fifty thousand one (50,001) miles, the owner may apply to the depart-
+50 ment for refund of a portion of the registration fees paid, consistent
+
+14
+1 with the fee schedules set forth in this section. The department shall
+2 provide an application for the refund. An owner making application for
+3 refund under this section shall be subject to auditing as provided in
+4 section 49-439, Idaho Code.
+5 (c) If the owner is not registering vehicles under the international
+6 registration plan, the appropriate mileage column shall be determined
+7 by the total miles the owner operated each of the vehicles to be regis-
+8 tered on roads and highways in the state, county, city and highway dis-
+9 trict systems in Idaho in the preceding year and by the maximum gross
+10 weight of each vehicle.
+11 Maximum Gross
+12 Weight of Vehicle
+13 (Pounds) Total Miles Driven
+14 1 to 7,501 to 20,001 to 35,001 to Over
+15 7,500 20,000 35,000 50,000 50,000
+16 60,001-62,000 $223 $ 511 $ 789 $1,068 $1,560
+17 62,001-64,000 $251 $ 576 $ 890 $1,205 $1,760
+18 64,001-66,000 $280 $ 642 $ 992 $1,342 $1,960
+19 66,001-68,000 $309 $ 707 $1,093 $1,479 $2,160
+20 68,001-70,000 $337 $ 773 $1,194 $1,615 $2,360
+21 70,001-72,000 $366 $ 838 $1,295 $1,752 $2,560
+22 72,001-74,000 $394 $ 904 $1,396 $1,889 $2,760
+23 74,001-76,000 $423 $ 969 $1,498 $2,026 $2,960
+24 76,001-78,000 $451 $1,035 $1,599 $2,163 $3,160
+25 78,001-80,000 $480 $1,100 $1,700 $2,300 $3,360
+26 80,001-82,000 $494 $1,133 $1,751 $2,368 $3,460
+27 82,001-84,000 $509 $1,165 $1,801 $2,437 $3,560
+28 84,001-86,000 $523 $1,198 $1,852 $2,505 $3,660
+29 86,001-88,000 $537 $1,231 $1,902 $2,574 $3,760
+30 88,001-90,000 $551 $1,264 $1,953 $2,642 $3,860
+31 90,001-92,000 $566 $1,296 $2,004 $2,711 $3,960
+32 92,001-94,000 $580 $1,329 $2,054 $2,779 $4,060
+33 94,001-96,000 $594 $1,362 $2,105 $2,848 $4,160
+34 96,001-98,000 $609 $1,395 $2,155 $2,916 $4,260
+35 98,001-100,000 $623 $1,427 $2,206 $2,985 $4,360
+36 100,001-102,000 $637 $1,460 $2,257 $3,053 $4,460
+37 102,001-104,000 $651 $1,493 $2,307 $3,121 $4,560
+38 104,001-106,000 $666 $1,526 $2,358 $3,190 $4,660
+39 106,001-108,000 $680 $1,558 $2,408 $3,258 $4,760
+40 108,001-110,000 $694 $1,591 $2,459 $3,327 $4,860
+41 110,001-112,000 $709 $1,624 $2,510 $3,395 $4,960
+42 112,001-114,000 $723 $1,657 $2,560 $3,464 $5,060
+
+15
+1 Maximum Gross
+2 Weight of Vehicle
+3 (Pounds) Total Miles Driven
+4 1 to 7,501 to 20,001 to 35,001 to Over
+5 7,500 20,000 35,000 50,000 50,000
+6 114,001-116,000 $737 $1,689 $2,611 $3,532 $5,160
+7 116,001-118,000 $751 $1,722 $2,661 $3,601 $5,260
+8 118,001-120,000 $766 $1,755 $2,712 $3,669 $5,360
+9 120,001-122,000 $780 $1,788 $2,763 $3,738 $5,460
+10 122,001-124,000 $794 $1,820 $2,813 $3,806 $5,560
+11 124,001-126,000 $809 $1,853 $2,864 $3,874 $5,660
+12 126,001-128,000 $823 $1,886 $2,914 $3,943 $5,760
+13 128,001-129,000 $837 $1,918 $2,965 $4,011 $5,860
+14 In addition to the registration fees provided for in this subsection, there
+15 shall be an additional registration fee imposed of twenty-five dollars
+16 ($25.00).
+17 (d) In addition to the fees set forth in paragraphs (a) and (c) of this
+18 subsection, an owner or operator may purchase a temporary permit as pro-
+19 vided in section 49-432(2), Idaho Code, for operation of a vehicle at a
+20 weight in excess of the current, valid, registered maximum gross vehi-
+21 cle weight. The permit so issued shall be specific to the motor vehicle
+22 to which it is issued. No permit or fee shall be transferable or appor-
+23 tionable to any other vehicle, nor shall any such fee be refundable.
+24 (e) Any commercial or farm vehicle registered for more than sixty thou-
+25 sand (60,000) pounds up to one hundred six thousand (106,000) pounds
+26 traveling fewer than two thousand five hundred (2,500) miles annually
+27 on roads and highways in the state, county, city and highway district
+28 systems in Idaho shall pay an annual registration fee of two hundred
+29 fifty-five dollars ($255). The provisions of section 49-437(2), Idaho
+30 Code, shall not apply to vehicles registered under this paragraph.
+31 (9)(a) During the first registration year that the fee schedule in sub-
+32 section (8)(c) of this section is in use, an owner shall use the mileage
+33 data from the records used to report the mileage use fee in the immedi-
+34 ately preceding year as the basis for determining the appropriate reg-
+35 istration fee schedule.
+36 (b) Any owner who registers a motor vehicle for the first time and who
+37 has no mileage history for the vehicle shall estimate the miles to de-
+38 termine the appropriate fee schedule in subsection (8)(c) of this sec-
+39 tion. When estimating the miles, the owner shall provide a statement on
+40 the application of the method used to arrive at the estimated miles.
+41 (c) Any owner using any fee schedule other than the highest fee sched-
+42 ule under subsection (8)(c) of this section shall certify at the time of
+43 registration that the miles operated in the preceding year do not exceed
+44 the schedule applied for. Any owner using a fee schedule under subsec-
+45 tion (8)(c) of this section that is less than the highest schedule shall
+46 maintain records to substantiate the use of the schedule as required by
+47 section 49-439, Idaho Code.
+
+16
+1 (10) An owner registering under subsection (8)(a) or (8)(c) of this sec-
+2 tion may elect to pay the full annual registration fee at the time of regis-
+3 tration or renewal of registration, or an owner may pay at least one-quarter
+4 (1/4) of the annual registration fee due. The remainder of the annual Idaho
+5 registration fee shall be paid in three (3) equal installments on dates as
+6 billed by the department.
+7 (11) An owner registering or renewing a registration under subsection
+8 (8) (a) of this section electing to use installment payments as provided in
+9 subsection (10) of this section shall pay all of the fees due to other IRP ju-
+10 risdictions in addition to one-quarter (1/4) of the Idaho fee due at the time
+11 of registration or reregistration. The remainder of the annual Idaho regis-
+12 tration fee shall be paid in three (3) equal installments on dates as billed
+13 by the department.
+14 (12) If any vehicle or combinations of vehicles haul nonreducible
+15 loads, as authorized under the provisions of section 49-1004, Idaho Code,
+16 and weigh less than the starting weights per axle configuration listed in
+17 column 1 of section 49-1004(2), Idaho Code, then and in that event there
+18 shall be paid for that vehicle, in addition to the other fees required in this
+19 section, an additional use fee of 2.1 mills per mile for each two thousand
+20 (2,000) pounds or fraction thereof of the maximum gross weight in excess of
+21 those set forth in section 49-1001, Idaho Code.
+22 SECTION 9. That Section 49-443, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 49-443. LICENSE PLATES TO BE FURNISHED BY DEPARTMENT -- FORM AND
+25 CONTENTS. (1) The assessor or the department shall furnish to every owner
+26 whose vehicle is registered or licensed by that office, pursuant to sections
+27 49-402 and 49-402A, Idaho Code, one (1) license plate for vehicles regis-
+28 tered under the provisions of section 49-406, 49-406A or 49-408, Idaho Code,
+29 or a motorcycle, trailer, truck-tractor, or semitrailer; one (1) restricted
+30 vehicle license plate for all-terrain vehicles, utility type vehicles and
+31 motorbikes licensed pursuant to this chapter; and two (2) license plates
+32 for every other motor vehicle. If a vehicle is issued one (1) plate only,
+33 that plate shall be displayed in accordance with the provisions of section
+34 49-428, Idaho Code. For vehicles registered under the provisions of section
+35 49-407, Idaho Code, the applicant shall provide one (1) plate to be displayed
+36 on the rear of the vehicle.
+37 Commencing January 1, 1992, the color and design of the plates shall be
+38 comparable to the color and design of the statehood centennial issue of li-
+39 cense plates with blue numerals and letters on a multicolored red, white and
+40 blue background. Each license plate must bear upon its face the inscriptions
+41 "Famous Potatoes" and "Scenic Idaho." The restricted vehicle license plate
+42 for all-terrain vehicles, utility type vehicles and motorbikes shall be a
+43 white background with black numerals and letters, with "Idaho Restricted Ve-
+44 hicle" and the year of its expiration on its face and no other inscription.
+45 The restricted vehicle license plate shall be the same size required for the
+46 motorcycle license plate.
+47 Every license plate shall have displayed upon it the registration num-
+48 ber assigned to the vehicle and its owner and the name "Idaho," which may be
+49 abbreviated. The plates issued under the provisions of section 49-402(1),
+
+17
+1 Idaho Code, and the required letters and numerals, including an identifica-
+2 tion of the county in which the motor vehicle to which the plates will be af-
+3 fixed is registered, shall be of sufficient size to be plainly readable from
+4 a distance of seventy-five (75) feet during daylight, and each license plate
+5 and registration sticker shall be treated with a fully reflectorized mate-
+6 rial according to specifications prescribed by the board.
+7 (2) License plates shall be valid for a period of ten (10) years begin-
+8 ning with the date of issuance of new plates. At the end of the ninth year,
+9 the registered owner shall receive notice of the date upon which the plates
+10 will expire.
+11 For specialty license plate programs discontinued pursuant to the
+12 provisions of section 49-402C, Idaho Code, a registrant with a specialty
+13 license plate currently registered under the program may use such license
+14 plate for up to ten (10) years from the date of issuance. This provision
+15 is intended to permit the use of the specialty plate by the registrant re-
+16 gardless of the number of persons who purchase the specialty plate. The
+17 registrant shall be required to pay the special plate program fees provided
+18 for specialty plates pursuant to this chapter. Such fees shall be deposited
+19 into the state highway account. For purposes of section 49-434, Idaho Code,
+20 as it applies to commercial vehicles, and section 49-435, Idaho Code, the
+21 department shall provide new plates bearing the same number or, upon request
+22 from the registered owner, the next available number.
+23 (3) If a license plate number has expired as provided in subsection (2)
+24 of this section and is not renewed within sixty (60) days of its expiration,
+25 the plate number shall be available for use by another registrant. To obtain
+26 a specific number in the recycled license plate number file, the owner of a
+27 registered vehicle may contact the county regarding availability.
+28 The provisions of this subsection shall apply only to vehicles regis-
+29 tered under the provisions of section 49-402(1), Idaho Code, and section
+30 49-434(1), Idaho Code, as it applies to noncommercial vehicles.
+31 (4) License plates issued for vehicles required to be registered in
+32 accordance with the provisions of sections 49-402 and 49-402A, Idaho Code,
+33 shall be issued color-coded red, white or blue registration validation
+34 stickers showing the year of registration. Each registration validation
+35 sticker shall bear a number from 1 through 12, which number shall correspond
+36 to the month of the calendar year in which the registration of the vehicle
+37 expires and shall be affixed to the lower right-hand corner of the plates
+38 within the outlined rectangular area.
+39 (5) (4) License plates for utility trailers registered under the pro-
+40 visions of section 49-402A, Idaho Code, that are issued for five (5) or ten
+41 (10) years and license plates for rental utility trailers registered under
+42 the provisions of section 49-434, Idaho Code, that are issued for up to five
+43 (5) years shall use the design in effect on the date of manufacture. If a de-
+44 sign change occurs, plates from the effective date of the design change shall
+45 be manufactured using the new design. Unexpired plates need not be reissued
+46 to conform to a design change.
+47 (6) (5) For license plates that are lost, stolen, mutilated, or il-
+48 legible, the owner shall apply for a duplicate or substitute. The assessor
+49 shall also furnish for each registration, and to validate the license plate,
+50 a pressure-sensitive, uniquely numbered, color-coded red, white or blue
+
+18
+1 registration sticker, except for trailers and semitrailers registered under
+2 the provisions in section 49-434, Idaho Code. License plates issued for
+3 state, county and city motor vehicles shall be valid for ten (10) years pur-
+4 suant to subsection (2) of this section and remain on the vehicle for which
+5 issued from year to year and need no renewal or validation sticker.
+6 (7) (6) Whenever a vehicle is completely destroyed by fire or accident
+7 and the operator submits satisfactory proof of that destruction to the de-
+8 partment or appropriate assessor's office, or the owner wishes to transfer
+9 the remaining registration, use increment and fees shall be transferred to
+10 the replacement vehicle for a service transfer fee of five dollars ($5.00),
+11 which fee shall be retained by the registering authority. None of the origi-
+12 nal fees shall be subject to refund.
+13 (8) (7) The department shall furnish a printed or an electronic copy of
+14 the registration card to every owner whose vehicle is registered under sec-
+15 tions 49-434 and 49-435, Idaho Code.
+16 (9) (8) The board shall have authority to require the return to the de-
+17 partment of all license plates and registration stickers cards upon termina-
+18 tion of the lawful use of them by the owner.
+19 (10) (9) The board may promulgate such rules as are necessary to imple-
+20 ment the provisions of this section.
+21 SECTION 10. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2026.

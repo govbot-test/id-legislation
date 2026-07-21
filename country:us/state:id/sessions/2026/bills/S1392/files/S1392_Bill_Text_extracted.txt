@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1392
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO MORTICIANS, FUNERAL DIRECTORS, AND EMBALMERS; AMENDING SEC-
+3 TION 54-1143, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING DEFINITIVE
+4 IDENTIFICATION AND TO MAKE A TECHNICAL CORRECTION; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 54-1143, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 54-1143. RIGHT TO RELY -- DEFINITIVE IDENTIFICATION. (1) Any person
+10 signing a funeral service agreement or cremation authorization form or any
+11 other authorization for disposition, whether part of a prearranged funeral
+12 plan or at time of death, shall be deemed to warrant the truthfulness of any
+13 facts set forth therein, including the identity of the deceased whose re-
+14 mains are sought to be buried or cremated and the signer's authority to order
+15 such disposition.
+16 (2) A funeral establishment, cemetery, or crematory establishment
+17 shall have the right to rely on such authorization and shall have authority
+18 to dispose of human remains upon the receipt of an authorization form signed
+19 by the decedent or by the person having the right to control disposition as
+20 set forth in section 54-1142, Idaho Code, or upon authorization by the county
+21 coroner pursuant to section 31-2802, Idaho Code, as long as such funeral
+22 establishment, cemetery, or crematory establishment also complies with the
+23 provisions of subsections (3) and (4) of this section. There shall be no lia-
+24 bility of a funeral establishment, cemetery or crematory establishment that
+25 disposes of human remains pursuant to such authorization, or that releases
+26 or disposes of the remains pursuant to such authorization.
+27 (3) Prior to making an application for cremation, a funeral establish-
+28 ment, cemetery, or crematory establishment shall verify that a definitive
+29 identification of the decedent has been made by an attending physician,
+30 physician assistant, advanced practice professional nurse, or the county
+31 coroner pursuant to the provisions of section 39-260, Idaho Code.
+32 (4) Prior to performing a cremation, a funeral establishment, ceme-
+33 tery, or crematory establishment shall verify that the decedent to be
+34 cremated is the same individual who was definitively identified as provided
+35 for in subsection (3) of this section.
+36 (5) For the purposes of this section, "definitive identification"
+37 means to verify an individual's identity definitively or with high confi-
+38 dence through a method such as fingerprinting, DNA analysis, government-is-
+39 sued photographic identification, or a visual identification by a legal next
+40 of kin to confirm that an individual is accurately identified.
+
+2
+1 (6) There shall be no liability for a funeral establishment, cemetery,
+2 or crematory establishment that disposes of human remains in compliance with
+3 the provisions of this section.
+4 SECTION 2. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after
+6 July 1, 2026.

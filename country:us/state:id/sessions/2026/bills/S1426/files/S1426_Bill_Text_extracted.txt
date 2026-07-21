@@ -1,0 +1,122 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1426
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO FUNDING FOR THE IDAHO TRANSPORTATION DEPARTMENT; APPROPRIATING
+3 ADDITIONAL MONEYS TO THE IDAHO TRANSPORTATION DEPARTMENT FOR FISCAL
+4 YEAR 2027; REDUCING THE APPROPRIATION TO THE IDAHO TRANSPORTATION DE-
+5 PARTMENT FOR FISCAL YEAR 2027; PROVIDING REAPPROPRIATION AUTHORITY
+6 FOR THE CAPITAL FACILITIES PROGRAM; PROVIDING REAPPROPRIATION AUTHOR-
+7 ITY FOR THE AERONAUTICS PROGRAM; PROVIDING REAPPROPRIATION AUTHORITY
+8 FOR THE CONTRACT CONSTRUCTION AND RIGHT-OF-WAY ACQUISITION DIVISION;
+9 PROVIDING AUTHORITY FOR PRIOR PERIOD ADJUSTMENTS; AND DECLARING AN
+10 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. In addition to any other appropriation provided by law,
+13 there is hereby appropriated to the Idaho Transportation Department the
+14 following amounts to be expended according to the designated programs and
+15 expense classes from the listed funds for the period July 1, 2026, through
+16 June 30, 2027:
+17 FOR FOR FOR
+18 PERSONNEL OPERATING CAPITAL
+19 COSTS EXPENDITURES OUTLAY TOTAL
+20 I. TRANSPORTATION SERVICES:
+21 A. ADMINISTRATION:
+22 FROM:
+23 State Highway (Dedicated)
+24 Fund $409,600 $1,133,200 $1,542,800
+25 B. CAPITAL FACILITIES:
+26 FROM:
+27 State Aeronautics (Dedicated)
+28 Fund $43,000 $43,000
+29 State Highway (Dedicated)
+30 Fund 15,500,000 15,500,000
+31 TOTAL $15,543,000 $15,543,000
+32 C. AERONAUTICS:
+33 FROM:
+34 State Aeronautics (Dedicated)
+35 Fund $351,600 $80,900 $432,500
+
+2
+1 FOR FOR FOR
+2 PERSONNEL OPERATING CAPITAL
+3 COSTS EXPENDITURES OUTLAY TOTAL
+4 State Highway (Dedicated)
+5 Fund $1,500 0 0 1,500
+6 TOTAL $1,500 $351,600 $80,900 $434,000
+7 DIVISION TOTAL $1,500 $761,200 $16,757,100 $17,519,800
+8 II. MOTOR VEHICLES:
+9 FROM:
+10 State Highway (Dedicated)
+11 Fund $378,400 $422,000 $800,400
+12 III. HIGHWAY OPERATIONS:
+13 FROM:
+14 State Highway (Dedicated)
+15 Fund $3,102,500 $72,888,200 $75,990,700
+16 IV. CONTRACT CONSTRUCTION & RIGHT-OF-WAY ACQUISITION:
+17 FROM:
+18 State Highway (Dedicated)
+19 Fund $4,255,900 $4,255,900
+20 State Highway (Federal)
+21 Fund 292,500 292,500
+22 TOTAL $4,548,400 $4,548,400
+23 GRAND TOTAL $1,500 $4,242,100 $94,615,700 $98,859,300
+24 SECTION 2. Notwithstanding any other provision of law to the contrary,
+25 there is hereby reduced from the Idaho Transportation Department $1,500 from
+26 the Highway Operations Program for personnel costs from the State Highway
+27 (Dedicated) Fund for the period July 1, 2026, through June 30, 2027.
+28 SECTION 3. REAPPROPRIATION AUTHORITY FOR THE CAPITAL FACILITIES PRO-
+29 GRAM. There is hereby reappropriated to the Idaho Transportation Department
+30 any unexpended and unencumbered balances appropriated or reappropriated to
+31 the Idaho Transportation Department from the State Aeronautics (Dedicated)
+32 Fund and the State Highway (Dedicated) Fund in the Capital Facilities Pro-
+33 gram for fiscal year 2026, to be used for nonrecurring expenditures in the
+34 Capital Facilities Program for the period July 1, 2026, through June 30,
+35 2027. The Office of the State Controller shall confirm the reappropriation
+
+3
+1 amount, by fund, expense class, and program, with the Legislative Services
+2 Office prior to processing the reappropriation authorized herein.
+3 SECTION 4. REAPPROPRIATION AUTHORITY FOR THE AERONAUTICS PROGRAM.
+4 There is hereby reappropriated to the Idaho Transportation Department any
+5 unexpended and unencumbered balances appropriated or reappropriated to the
+6 Idaho Transportation Department from the State Aeronautics (Dedicated)
+7 Fund in the Aeronautics Program as trustee and benefit payments for airport
+8 development grants for fiscal year 2026, to be used for nonrecurring expen-
+9 ditures for airport development grants for the period July 1, 2026, through
+10 June 30, 2027. The Office of the State Controller shall confirm the reappro-
+11 priation amount, by fund, expense class, and program, with the Legislative
+12 Services Office prior to processing the reappropriation authorized herein.
+13 SECTION 5. REAPPROPRIATION AUTHORITY FOR THE CONTRACT CONSTRUCTION
+14 AND RIGHT-OF-WAY ACQUISITION DIVISION. There is hereby reappropriated to
+15 the Idaho Transportation Department any unexpended and unencumbered bal-
+16 ances appropriated or reappropriated to the Idaho Transportation Department
+17 from the State Highway Fund and the Transportation Expansion and Congestion
+18 Mitigation Fund for the Contract Construction and Right-of-Way Acquisition
+19 Division for fiscal year 2026, in a total amount not to exceed $300,000,000
+20 from the State Highway Fund and/or the Transportation Expansion and Con-
+21 gestion Mitigation Fund, to be used for nonrecurring expenditures for the
+22 Contract Construction and Right-of-Way Acquisition Division for the period
+23 July 1, 2026, through June 30, 2027. The Office of the State Controller shall
+24 confirm the reappropriation amount, by fund, expense class, and program,
+25 with the Legislative Services Office prior to processing the reappropria-
+26 tion authorized herein.
+27 SECTION 6. LEGISLATIVE AUTHORIZATION FOR PRIOR PERIOD ADJUSTMENT. Pur-
+28 suant to Section 67-3604, Idaho Code, the Idaho Transportation Department is
+29 hereby authorized and the Office of the State Controller shall make the nec-
+30 essary prior period adjustments not to exceed $303,900 from the State High-
+31 way (Dedicated) Fund and GARVEE Capital Project Fund for transactions incor-
+32 rectly recorded in fiscal years 2020, 2021, and 2022.
+33 SECTION 7. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2026.

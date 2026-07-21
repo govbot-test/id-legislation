@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 581
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO SUPREME COURT; AMENDING SECTION 1-213, IDAHO CODE, TO
+3 AUTHORIZE THE IDAHO LEGISLATURE TO REVIEW COURT RULES IN CERTAIN IN-
+4 STANCES AND TO MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMERGENCY
+5 AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 1-213, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 1-213. DUTY TO MAKE RULES -- LIMITATION. (1) The Supreme Court supreme
+10 court shall prescribe, by general rules, for all the courts of Idaho, the
+11 forms of process, writs, pleadings and motions, the manner of service, time
+12 for appearance, and the practice and procedure in all actions and proceed-
+13 ings. Said rules shall neither abridge, enlarge, nor modify the substantive
+14 rights of any litigant.
+15 (2) The Idaho legislature may review any court rules, including but not
+16 limited to the Idaho rules of family law procedure, the Idaho court adminis-
+17 trative rules, or the Idaho juvenile rules. Upon any finding of conflict be-
+18 tween court rule and Idaho Code, of rules abridging, enlarging, or modifying
+19 substantive rights, the legislature shall advise the supreme court of such
+20 conflict through a house or senate resolution.
+21 SECTION 2. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2026.

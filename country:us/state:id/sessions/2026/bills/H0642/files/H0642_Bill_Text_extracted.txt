@@ -1,0 +1,163 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 642
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO THE PUBLIC EMPLOYEE RETIREMENT SYSTEM; PROVIDING LEGISLATIVE
+3 INTENT; AMENDING SECTION 59-1352B, IDAHO CODE, TO PROVIDE FOR PUB-
+4 LIC SAFETY OFFICER CATASTROPHIC DEATH BENEFITS; REPEALING SECTION
+5 59-1361A, IDAHO CODE, RELATING TO PUBLIC SAFETY OFFICER DEATH BENEFITS;
+6 AND DECLARING AN EMERGENCY.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. As a result of the hor-
+9 rific, violent, and targeted attack on firefighters in North Idaho on June
+10 29, 2025, that resulted in the murder of two Idaho public safety officers and
+11 significant injuries to others, it was identified that catastrophic bene-
+12 fits available to surviving spouses or dependent children of public safety
+13 officers who died in the line of duty were less than the catastrophic injury
+14 benefit available to public safety officers who were catastrophically in-
+15 jured but survived.
+16 This legislation creates consistency between benefits for a cata-
+17 strophic injury or death that occurs in the line of duty, ensuring that
+18 one benefit is not greater than the other. Specifically, this legislation
+19 increases the lump-sum death benefit available to surviving spouses or de-
+20 pendent children to match the catastrophic injury benefit. It also provides
+21 a pension benefit to surviving spouses that is consistent with the benefit
+22 currently available when a public safety officer dies following qualifica-
+23 tion for the catastrophic injury benefit.
+24 The increase in benefits as a result of this legislation will be funded
+25 solely through public safety officer pension contribution rates.
+26 SECTION 2. That Section 59-1352B, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 59-1352B. PUBLIC SAFETY OFFICER CATASTROPHIC INJURY OR DEATH LINE OF
+29 DUTY BENEFITS. (1) For purposes of this section:
+30 (a) "Catastrophic injury" means a sudden, violent, life-threatening,
+31 duty-related injury sustained by an active member within the scope of
+32 the public safety officer's duties and within the department policy
+33 that is due to an externally caused event such as a motor vehicle colli-
+34 sion, gunshot wound, aggravated battery, structural collapse, signifi-
+35 cant fall, or other external event or events that is not self-inflicted
+36 or the result of intoxication; provided, however, that no psychological
+37 injury, disorder, or condition shall be considered a catastrophic in-
+38 jury under this definition. The injury, if it does not result in death,
+39 must be of such severity that it causes the loss of ability to maintain
+40 certifications required by the state of Idaho, the member's department,
+
+2
+1 or both. The injury shall be supported by evidence of one (1) or more of
+2 the following conditions:
+3 (i) Total, complete, permanent, and uncorrectable loss of sight
+4 in both eyes;
+5 (ii) Total, complete, permanent, and uncorrectable loss of hear-
+6 ing in both ears;
+7 (iii) Total, complete, and permanent loss of the ability to speak;
+8 (iv) Total, complete, and permanent loss of the use of one (1) or
+9 both feet at or above the ankle;
+10 (v) Total, complete, and permanent loss of the use of one (1) or
+11 both hands at or above the wrist;
+12 (vi) Injury to the spine that results in a total, permanent, and
+13 complete paralysis of both arms, both legs, or one (1) arm and one
+14 (1) leg; or
+15 (vii) An externally caused, physical traumatic injury to the brain
+16 that renders the member physically or mentally unable to perform
+17 the duties of a public safety officer; or
+18 (viii) A catastrophic injury that results in death.
+19 (b) "Catastrophic injury that results in death" means the death of a
+20 public safety officer in a manner that would qualify for the payment
+21 of death benefits pursuant to regulations issued by the United States
+22 department of justice pursuant to 34 U.S.C. 10281; provided, however,
+23 that the retirement board is authorized to revise such definition.
+24 (b) (c) "Catastrophic line of duty benefits" means benefits payable to
+25 a:
+26 (i) A public safety officer who sustains a catastrophic injury
+27 pursuant to this section; or
+28 (ii) The surviving spouse of a public safety officer who sustained
+29 a catastrophic injury that results in death.
+30 (d) "Dependent child" means a surviving natural or legally adopted
+31 child who is under twenty-one (21) years of age at the time of a public
+32 safety officer's catastrophic injury that results in death.
+33 (c) (e) "Public safety officer" means a police officer member as set
+34 forth in section 59-1303, Idaho Code, or a firefighter member as set
+35 forth in section 59-1302(16), Idaho Code.
+36 (2) A public safety officer who sustains a catastrophic injury or the
+37 surviving spouse of a public safety officer who sustained a catastrophic in-
+38 jury that results in death as set forth in this section is eligible for:
+39 (a) A onetime permanent catastrophic injury benefit in the amount of
+40 five hundred thousand dollars ($500,000); and
+41 (b) An ongoing annual benefit in an amount not less than seventy-five
+42 thousand dollars ($75,000) per year, to be adjusted every four (4) years
+43 pursuant to an actuarial study to determine the change in average public
+44 safety officer benefits over the previous four (4) years.
+45 (3) In the event of a public safety officer's catastrophic injury that
+46 results in death, if there is no surviving spouse, the public safety offi-
+47 cer's dependent children are eligible for the benefit provided for in sub-
+48 section (2)(a) of this section. Benefits to dependent children shall be paid
+49 in accordance with the provisions of chapter 8, title 68, Idaho Code; pro-
+
+3
+1 vided that when there are multiple dependent children, the benefit shall be
+2 divided equally among them.
+3 (3) (4) In the event a public safety officer receiving the catastrophic
+4 line of duty benefit as set forth in this section dies and leaves a surviv-
+5 ing spouse to whom the member was married at the time of the catastrophic in-
+6 jury, such surviving spouse shall receive the catastrophic line of duty ben-
+7 efit for the duration of such spouse's life to which the public safety offi-
+8 cer would have been entitled.
+9 (4) (5) The benefits payable under this section shall not be subject to
+10 Idaho state income tax.
+11 (5) (6) A public safety officer, the public safety officer's surviving
+12 spouse, or the public safety officer's surviving dependent child who seeks
+13 to obtain benefits under this section shall apply to the retirement board
+14 within twelve (12) months of the date of the incident resulting in the public
+15 safety officer's catastrophic injury. No benefit shall be payable unless
+16 the retirement board determines eligibility pursuant to the requirements of
+17 this section. A public safety officer's refusal to submit to a medical exam-
+18 ination ordered by the board before the commencement of a catastrophic line
+19 of duty benefit or at any reasonable time thereafter shall constitute proof
+20 that the member is not eligible for the benefits provided for in this sec-
+21 tion.
+22 (6) (7) The benefits provided for in this section shall not be in addi-
+23 tion to other benefits under this chapter.
+24 (7) (8) If a public safety officer who qualifies for benefits provided
+25 for in this section again becomes an employee in a nonpublic safety offi-
+26 cer position as defined in sections 59-1302(14) and (16) and 59-1303, Idaho
+27 Code, as a result of returning to employment with an employer as defined in
+28 section 59-1302(15), Idaho Code, the public safety officer may elect to con-
+29 tinue receiving benefits and not accrue additional service. In such circum-
+30 stance, no contributions shall be made by the member during such reemploy-
+31 ment and the public safety officer catastrophic line of duty benefit payable
+32 on the behalf of the member shall continue.
+33 (8) (9) It is the intent of the legislature that this benefit shall be
+34 funded solely by public safety officers in perpetuity and not by an employer
+35 as defined in section 59-1302(15), Idaho Code. Therefore, the costs asso-
+36 ciated with providing this benefit as determined by the board shall be paid
+37 solely by public safety officers. An actuarial cost analysis of the benefit
+38 will be performed every four (4) years by the board. However, in instances
+39 involving a catastrophic injury that results in death, the first one hundred
+40 thousand dollars ($100,000) of the benefit shall be paid for by the employers
+41 of public safety officers as an additional contribution component separate
+42 and distinct from all other obligations under this chapter. The portion of
+43 costs to be paid by the employers of public safety officers pursuant to this
+44 subsection is a continuation of how such costs were previously paid for pub-
+45 lic safety officer death benefits. Such costs shall be paid in a manner as
+46 determined by the board.
+47 (10) Any individual who qualified for or was eligible to receive the
+48 public safety officer death benefit between July 1, 2021, and the effective
+49 date of this subsection shall receive the balance of the improved benefit as
+50 provided for in this section.
+
+4
+1 SECTION 3. That Section 59-1361A, Idaho Code, be, and the same is hereby
+2 repealed.
+3 SECTION 4. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after its
+5 passage and approval.

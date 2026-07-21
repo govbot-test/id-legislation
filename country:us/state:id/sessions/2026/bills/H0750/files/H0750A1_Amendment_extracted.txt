@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Scott
+Seconded by Shepherd(7)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO H.B. NO. 750
+1 AMENDMENT TO SECTION 3
+2 On page 16 of the printed bill, delete lines 21 and 22, and insert:
+3 "(b) "Programmable money" does not include the following:
+4 (i) An electronic payment system that merely transfers non-pro-
+5 grammable legal tender;
+6 (ii) Tokens used for in-game purposes or in-game currency; or
+7 (iii) Gift cards or payment applications that transfer non-pro-
+8 grammable money, even if in digital form.";
+9 and in line 40, delete "non-digital" and insert: "non-programmable".

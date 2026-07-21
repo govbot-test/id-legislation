@@ -1,0 +1,113 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 880
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; AMENDING SECTION 49-106, IDAHO CODE, TO REVISE
+3 A DEFINITION AND TO MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMER-
+4 GENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 49-106, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 49-106. DEFINITIONS -- E.
+9 (1)(a) "Electric-assisted bicycle" means a bicycle equipped with fully
+10 operable pedals and an electric motor of less than seven hundred fifty
+11 (750) watts and that meets one (1) of the following requirements:
+12 (a) (i) "Class 1 electric-assisted bicycle" means an electric-
+13 assisted bicycle equipped with a motor that provides assistance
+14 only when the rider is pedaling and ceases when the rider stops
+15 pedaling or when the bicycle reaches the speed of twenty (20) miles
+16 per hour.
+17 (b) (ii) "Class 2 electric-assisted bicycle" means an elec-
+18 tric-assisted bicycle equipped with a motor that may be used
+19 exclusively to propel the bicycle and that is not capable of pro-
+20 viding assistance when the bicycle reaches the speed of twenty
+21 (20) miles per hour.
+22 (c) (iii) "Class 3 electric-assisted bicycle" means an elec-
+23 tric-assisted bicycle equipped with a motor that provides as-
+24 sistance only when the rider is pedaling and ceases when the
+25 rider stops pedaling or when the bicycle reaches the speed of
+26 twenty-eight (28) miles per hour.
+27 (b)(i) "Electric-assisted bicycle" shall not include a vehicle,
+28 which may have the general appearance of a bicycle, on which any
+29 person may ride, that has two (2) tandem wheels, has an electric
+30 motor, and is not an E-scooter or similar device, if it meets one
+31 (1) or more of the following criteria:
+32 1. It is equipped with an electric motor of seven hundred
+33 fifty (750) watts or more;
+34 2. It is equipped with an electric motor that does not cease
+35 to provide assistance when the vehicle reaches speeds above
+36 thirty (30) miles per hour; or
+37 3. It is not equipped with operable pedals that can propel
+38 the device.
+39 (ii) Electric vehicles described in paragraph (b)(i) of this sub-
+40 section shall not be included in any reference to an electric-as-
+41 sisted bicycle within Idaho law, rules, or regulations and shall
+
+2
+1 be required to be licensed, registered, and insured in order to be
+2 driven on public highways.
+3 (2) "Electric personal assistive mobility device" means a self-balanc-
+4 ing two (2) nontandem wheeled device designed to transport only one (1) per-
+5 son, with an electric propulsion system that limits the maximum speed of the
+6 device to fifteen (15) miles per hour or less.
+7 (3) "Emergency vehicle." (See "Vehicle," section 49-123, Idaho Code)
+8 (4) "Encumbrance." (See "Lien," section 49-113, Idaho Code)
+9 (5) "EPA" means the environmental protection agency of the United
+10 States.
+11 (6) "Essential parts" means all integral and body parts of a vehicle of
+12 a type required to be registered, the removal, alteration or substitution of
+13 which would tend to conceal the identity of the vehicle or substantially al-
+14 ter its appearance, model, type or mode of operation.
+15 (7) "Established place of business" means a place occupied either con-
+16 tinuously or at regular periods by a dealer or manufacturer where his books
+17 and records are kept and a large share of his business is transacted.
+18 (8) "Excessive" or "unusual noise" means any sound made by a passen-
+19 ger motor vehicle or a motorcycle at any time under any condition of grade,
+20 speed, acceleration or deceleration, which exceeds ninety-two (92) deci-
+21 bels, or any lower decibel level that is fixed by law or rules adopted by the
+22 board of health and welfare, on the "A" scale of a general radio company no.
+23 1551-B sound level meter, or equivalent, stationed at a distance of not less
+24 than twenty (20) feet to the side of a vehicle or motorcycle as the vehicle or
+25 motorcycle passes the soundmeter or is stationed not less than twenty (20)
+26 feet from a stationary motor or engine.
+27 (9) "Excessive speed" means any speed of fifteen (15) miles per hour or
+28 more above the posted speed limit, and is only for purposes of determining
+29 disqualification of commercial driving privileges.
+30 (10) "Executive head," as used in chapter 20, title 49, Idaho Code,
+31 means the governor of the state of Idaho.
+32 (11) "Explosives" means any chemical compound or mechanical mixture
+33 that is commonly used or intended for the purpose of producing an explosion
+34 and which contains any oxidizing and combustive units or other ingredients
+35 in proportions, quantities or packing that an ignition by fire, by friction,
+36 by concussion, by percussion or by detonator of any part of the compound or
+37 mixture may cause a sudden generation of highly heated gases with which the
+38 resultant gaseous pressures are capable of producing destructive effects on
+39 contiguous objects or of destroying life or limb.
+40 (12) "Extraordinary circumstances" means any situation where an emer-
+41 gency exists or public safety is endangered, or any situation in which a ve-
+42 hicle:
+43 (a) Is blocking or impeding traffic; or
+44 (b) Is causing a hazard; or
+45 (c) Has the potential of impeding any emergency vehicle; or
+46 (d) Is impeding any snow removal or other road maintenance operation;
+47 or
+48 (e) Has been stolen but not yet reported as recovered; or
+49 (f) Is not registered, or displays a license plate registration tag
+50 which has been expired; or
+
+3
+1 (g) Has been involved in an accident and remains on the highway; or
+2 (h) The driver of which has been arrested.
+3 SECTION 2. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after
+5 July 1, 2026.

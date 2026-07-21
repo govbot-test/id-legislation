@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Den Hartog
+Seconded by Bernt
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 897
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 26, delete "April 1, 2026," and in-
+3 sert: "July 1, 2026, or for which a qualifying business entity received a
+4 provisional exemption on or after July 1, 2026,".
+5 On page 3, in line 2, delete "April 1, 2026," and insert: "July 1, 2026,
+6 and has been granted a provisional exemption for such data center on or after
+7 July 1, 2026,"; in line 9, delete "April 1, 2026," and insert: "July 1, 2026,
+8 and has been granted a provisional exemption for such data center on or after
+9 July 1, 2026,"; and in line 36, following "property" insert: "if such busi-
+10 ness entities demonstrate that they will meet the requirements provided in
+11 this section".
+12 On page 4, following line 7, insert:
+13 "(3) Beginning July 1, 2026, each qualifying business entity shall re-
+14 tain purchase receipts for every purchase made that is exempt from taxation
+15 pursuant to this section. Such receipts shall be kept for a period of no less
+16 than ten (10) years from the date of the purchase.
+17 (4) Each qualifying business entity shall file a report to the state tax
+18 commission no later than February 1 of each year that includes the following
+19 information:
+20 (a) The amount of sales tax revenue from which such qualifying business
+21 entity was exempted from paying in the previous calendar year pursuant
+22 to the exemption provided in this section, as evidenced by its purchase
+23 receipts retained pursuant to subsection (3) of this section;
+24 (b) The approximate number of jobs the qualifying business entity cre-
+25 ated in the state that are directly related to the data centers that are
+26 the subject of such entity's exemption;
+27 (c) The total amount of capital investment the qualifying business en-
+28 tity has made in the state that is directly related to the data centers
+29 that are the subject of such entity's exemption;
+30 (d) A summary of the electricity usage of the data centers that are
+31 the subject of the qualifying business entity's exemption and, to the
+32 extent known or reasonably ascertainable by the qualifying business
+33 entity, how such electricity usage has impacted the availability and
+34 price of electricity in the communities surrounding such data centers;
+35 and
+36 (e) A summary of the water usage of the data centers that are the subject
+37 of the qualifying business entity's exemption and, to the extent known
+38 or reasonably ascertainable by the qualifying business entity, how such
+39 water usage has impacted the availability and price of water in the com-
+40 munities surrounding such data centers.";
+
+2
+1 in line 8, delete "(3)" and insert: "(5)"; in line 12, delete "February" and
+2 insert: "March"; in line 29, following "and" insert: ", to the extent known
+3 or reasonably ascertainable by the state tax commission,"; in line 33, fol-
+4 lowing "and" insert: ", to the extent known or reasonably ascertainable by
+5 the state tax commission,"; and in line 36, delete "(4)" and insert: "(6)".
+6 AMENDMENT TO THE BILL
+7 On page 4, delete lines 44 through 49; delete page 5; on page 6, delete
+8 lines 1 through 10; and renumber subsequent sections accordingly.
+9 CORRECTION TO TITLE
+10 On page 1, in line 4, delete "AMENDING SECTION 63-4502, IDAHO CODE, TO
+11 LIMIT ELIGIBILITY"; delete line 5; and in line 6, delete "CORRECTIONS;".

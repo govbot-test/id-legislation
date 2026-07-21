@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1263
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO LOCAL LAND USE PLANNING; AMENDING SECTION 67-6539, IDAHO
+3 CODE, TO REVISE PROVISIONS REGARDING LIMITATIONS ON THE REGULATION OF
+4 SHORT-TERM RENTALS AND VACATION RENTALS AND TO MAKE TECHNICAL CORREC-
+5 TIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 67-6539, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 67-6539. LIMITATIONS ON REGULATION OF SHORT-TERM RENTALS AND VACATION
+10 RENTALS. (1) Neither a county nor a city may enact or enforce any ordinance
+11 that has the express or practical effect of prohibiting short-term rentals
+12 or vacation rentals in the county or city. A county or city may implement
+13 such reasonable regulations as it deems necessary to safeguard the public
+14 health, safety, and general welfare in order to protect the integrity of res-
+15 idential neighborhoods in which short-term rentals or vacation rentals op-
+16 erate. A short-term rental or vacation rental shall be classified as a res-
+17 idential land use for zoning purposes subject to all applicable zoning re-
+18 quirements applicable thereto.
+19 (2) Neither a county nor a city can shall regulate the operation of a
+20 short-term rental marketplace.
+21 (3)(a) A county or city may require a license, permit, or certification
+22 to operate a short-term rental only if:
+23 (i) A property owner owns or has a financial interest in four (4)
+24 or more short-term rentals within the jurisdiction, including
+25 units held by commonly controlled entities, trusts, partnerships,
+26 or affiliates; or
+27 (ii) A short-term rental generates ten thousand dollars ($10,000)
+28 or more in gross annual short-term rental revenue, defined as the
+29 total amount paid by occupants for lodging before any deductions
+30 for expenses, commissions, fees, taxes, or costs of operation dur-
+31 ing a calendar year.
+32 (b) A county or city may require owners of short-term rentals who do
+33 not have a license, permit, or certification to register annually and
+34 to designate a local contact person and may charge a reasonable adminis-
+35 trative fee pursuant to section 63-1311, Idaho Code.
+36 (4) A county or city may require a property owner or an owner's designee
+37 to implement only the following regulations specifically applicable to
+38 short-term rentals:
+39 (a) Require that all living spaces in a short-term rental, including
+40 bedrooms, living rooms, family rooms, and kitchens, be equipped with
+41 functioning smoke alarms, whether interconnected smoke alarms, inde-
+42 pendent battery-operated smoke alarms, or a combination of both such
+
+2
+1 alarms, and may require that the short-term rental be equipped with fire
+2 extinguishers and removable escape ladders in sleeping areas above the
+3 main floor;
+4 (b) Require that each floor of a short-term rental be equipped with
+5 functioning carbon monoxide detectors;
+6 (c) Set maximum occupancy limits and zoning requirements for
+7 short-term rentals based on non-transient residential land use con-
+8 tained in the international fire code and building codes adopted by the
+9 Idaho building code board; and
+10 (d) Require a short-term rental owner or an owner's designee to provide
+11 easily accessible informational handouts regarding the location of ex-
+12 its, the location of fire extinguishers, the location of any first aid
+13 kits, and the phone number and email address to contact the owner or man-
+14 ager of the short-term rental in the case of an emergency.
+15 (5) Any other reasonable regulations relating to safeguarding the
+16 public health, safety, and general welfare shall not impose greater re-
+17 strictions or obligations on short-term rentals than are imposed on similar
+18 dwelling units, such as long-term rentals, or any other residential use that
+19 is not a short-term rental.
+20 (6) The provisions of this section shall not be construed to relieve an
+21 owner of a short-term rental from any liability related to the ownership, op-
+22 eration, or management of any short-term rental or to establish liability
+23 for any county or city or agent thereof that enacts any ordinance governing
+24 short-term rentals that it is authorized to enact by this section or that de-
+25 clines to enact any ordinance governing short-term rentals that is not re-
+26 quired pursuant to this section.
+27 SECTION 2. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2026.

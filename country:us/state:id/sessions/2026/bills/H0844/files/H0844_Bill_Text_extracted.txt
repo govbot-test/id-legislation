@@ -1,0 +1,144 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 844
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HEALTH INSURANCE; AMENDING SECTION 41-5207, IDAHO CODE, TO
+3 REVISE A PROVISION REGARDING RENEWAL OF ENHANCED SHORT-TERM PLANS;
+4 AMENDING SECTION 41-5214, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+5 REQUIREMENTS FOR ENHANCED SHORT-TERM PLANS; AND DECLARING AN EMERGENCY
+6 AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 41-5207, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 41-5207. RENEWABILITY OF COVERAGE. (1) A health benefit plan subject
+11 to the provisions of this chapter shall be renewable with respect to the in-
+12 dividual or dependents, at the option of the individual, except in any of the
+13 following cases:
+14 (a) Nonpayment of the required premiums;
+15 (b) Fraud or intentional misrepresentation of material fact by the in-
+16 dividual insured or his representatives. An individual whose coverage
+17 is terminated for fraud or misrepresentation shall not be deemed to be
+18 an "eligible individual" for a period of twelve (12) months from the ef-
+19 fective date of the termination of the individual's coverage and shall
+20 not be deemed to have "qualifying previous coverage" under chapter 22,
+21 47 or 52, title 41, Idaho Code;
+22 (c) The individual ceases to be an eligible individual as defined in
+23 section 41-5203(10), Idaho Code;
+24 (d) In the case of health benefit plans that are made available in the
+25 individual market only through one (1) or more associations, as defined
+26 in section 41-2202, Idaho Code, the membership of an individual in the
+27 association, on the basis of which the coverage is provided ceases, but
+28 only if the coverage is terminated under this paragraph uniformly with-
+29 out regard to any health status-related factor relating to any covered
+30 individual;
+31 (e) The individual carrier elects, at the time of coverage renewal, to
+32 discontinue offering a particular health benefit plan delivered or is-
+33 sued for delivery to individuals in this state. Unless otherwise au-
+34 thorized in advance by the department of insurance, a carrier may dis-
+35 continue a product only after the product has been in use for at least
+36 thirty-six (36) consecutive months, provided the carrier may not dis-
+37 continue more than fifteen percent (15%) of its total number of individ-
+38 uals and dependents in all lines of business regulated by this chapter
+39 in a twelve (12) month period. The carrier shall:
+40 (i) Provide advance written or electronic notice of its decision
+41 under this paragraph to the director;
+
+2
+1 (ii) Provide notice of the discontinuation to all affected indi-
+2 viduals at least ninety (90) calendar days prior to the date the
+3 particular health benefit plan will be discontinued by the car-
+4 rier, provided that notice to the director under the provisions of
+5 this paragraph shall be provided at least fourteen (14) calendar
+6 days prior to the notice to the affected individuals;
+7 (iii) Offer to each affected individual, on a guaranteed issue ba-
+8 sis, the option to purchase all other health benefit plans cur-
+9 rently being offered by the carrier to individuals in this state;
+10 (iv) Act uniformly without regard to any health status-related
+11 factor of an affected individual or dependent of an affected indi-
+12 vidual who may become eligible for the coverage; and
+13 (v) Offer the new products at rates that comply with section
+14 41-5206(1)(b), Idaho Code.
+15 (f) The individual carrier elects to nonrenew all of its health benefit
+16 plans delivered or issued for delivery to individuals in this state. In
+17 such a case the carrier shall:
+18 (i) Provide advance notice of its decision under this paragraph
+19 to the director; and
+20 (ii) Provide notice of the decision not to renew coverage to all
+21 affected individuals and to the director at least one hundred
+22 eighty (180) calendar days prior to the nonrenewal of any health
+23 benefit plans by the carrier. Notice to the director under the
+24 provisions of this paragraph shall be provided at least three (3)
+25 working days prior to the notice to the affected individuals;
+26 (g) The director finds that the continuation of the coverage would:
+27 (i) Not be in the best interests of the policyholders or certifi-
+28 cate holders; or
+29 (ii) Impair the carrier's ability to meet its contractual obliga-
+30 tions.
+31 In such instance, the director shall assist affected individuals in
+32 finding replacement coverage; or
+33 (h) The plan is an enhanced short-term plan that has reached the limit
+34 of renewability established in rules issued by the director and the in-
+35 dividual carrier offers the individual the opportunity to reapply for
+36 coverage in accordance with the rules issued by the director, renewa-
+37 bility for which is governed by the provisions of section 41-5214, Idaho
+38 Code.
+39 (2) An individual carrier that elects not to renew a health benefit plan
+40 under the provisions of subsection (1)(f) of this section shall be prohib-
+41 ited from writing new business in the individual market in this state for a
+42 period of five (5) years from the date of notice to the director.
+43 (3) In the case of an individual carrier doing business in one (1) es-
+44 tablished geographic service area of the state, the rules set forth in this
+45 section shall apply only to the carrier's operations in that service area.
+46 SECTION 2. That Section 41-5214, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+48 41-5214. ENHANCED SHORT-TERM PLANS. (1) A carrier may allow enroll-
+49 ment in enhanced short-term plans:
+
+3
+1 (a) On a year-round basis, at any point in the calendar year;
+2 (b) During an annual open enrollment period; or
+3 (c) During a special enrollment period.
+4 (2) The director shall adopt reasonable rules to establish specific
+5 standards for enhanced short-term plans. The standards shall be in addi-
+6 tion to and in accordance with applicable laws of this state, including this
+7 chapter. The Notwithstanding any provision of law or federal waiver to the
+8 contrary, the standards:
+9 (1) Shall include requirements for renewability that are consistent
+10 with federal law regarding short-term, limited duration insurance; and
+11 (a) Shall not be more restrictive than the requirements established in
+12 this section;
+13 (b) Shall provide that the maximum duration of an enhanced short-term
+14 plan shall be the greater of twelve (12) consecutive months or the maxi-
+15 mum duration described in 45 CFR 144 or its succeeding regulation;
+16 (c) Shall provide that enhanced short-term plans may be eligible for
+17 renewal for a maximum total duration that is the greater of thirty-six
+18 (36) months or the maximum duration described in 45 CFR 144 or its suc-
+19 ceeding regulation; and
+20 (2) (d) May include, but need not be limited to:
+21 (a) (i) A scope of covered benefits, which may be as broad as the
+22 scope of covered benefits required to be included in individual
+23 health benefit plans that are not deemed short-term, limited dura-
+24 tion insurance under federal law; provided, however, the director
+25 may not establish minimum standards for covered benefits in en-
+26 hanced short-term plans;
+27 (b) (ii) Restrictions on premium rate increases when an enhanced
+28 short-term plan ceases to be renewable and the individual policy-
+29 holder reapplies for coverage from the same carrier; and
+30 (c) (iii) Conversion of enhanced short-term plans into fully re-
+31 newable coverage upon a finding by the director that the conver-
+32 sion complies with law and is in the best interests of the public.
+33 (3) Enhanced short-term plans shall not be subject to the rating re-
+34 quirements established in section 41-5206, Idaho Code.
+35 SECTION 3. An emergency existing therefor, which emergency is hereby
+36 declared to exist, this act shall be in full force and effect on and after
+37 July 1, 2026.

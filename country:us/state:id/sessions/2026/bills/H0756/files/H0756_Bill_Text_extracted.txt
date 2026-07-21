@@ -1,0 +1,165 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 756
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC UTILITIES; AMENDING CHAPTER 3, TITLE 61, IDAHO CODE, BY
+3 THE ADDITION OF A NEW SECTION 61-335, IDAHO CODE, TO ESTABLISH PROVI-
+4 SIONS REGARDING NEW LARGE LOADS; AND DECLARING AN EMERGENCY AND PROVID-
+5 ING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 3, Title 61, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 61-335, Idaho Code, and to read as follows:
+10 61-335. NEW LARGE LOADS -- RATEPAYER PROTECTION AND COST RESPONSIBIL-
+11 ITY. (1) As used in this section:
+12 (a) "Commission" means the Idaho public utilities commission.
+13 (b) "Consumer" has the same meaning as provided in section 61-332A,
+14 Idaho Code.
+15 (c) "Cumulative power requirement" means the maximum contracted de-
+16 mand, expressed in megawatts.
+17 (d) "Electric service" has the same meaning as provided in section
+18 61-332A, Idaho Code.
+19 (e) "Electric service agreement" or "agreement" means a written con-
+20 tract between a public utility and a new large load consumer that spec-
+21 ifies terms of electric service, including but not limited to power re-
+22 quirements, rates, minimum billing requirements, collateral require-
+23 ments, contract exit fee, stranded cost recovery provisions, and con-
+24 ditions for capacity adjustments, and that is consistent with this sec-
+25 tion and rules of the commission.
+26 (f) "Electric supplier" has the same meaning as provided in section
+27 61-332A, Idaho Code.
+28 (g)(i) "New large load" means any electric power requirement
+29 that:
+30 1. Is expected to reach or actually reaches a cumulative
+31 power requirement of twenty (20) megawatts or more within
+32 five (5) years of the initial start date for a new service
+33 entrance; or
+34 2. Is expected to increase or actually increases the cumu-
+35 lative power requirement by twenty (20) megawatts or more
+36 within five (5) years of the requested start date for the in-
+37 crease for an existing service entrance.
+38 (ii) An increase in the electric power requirement of an exist-
+39 ing service entrance whose cumulative power requirement exceeded
+40 fifty (50) megawatts as of January 1, 2000, shall not be considered
+41 a new large load.
+
+2
+1 (h) "New service entrance" has the same meaning as provided in section
+2 61-332A, Idaho Code.
+3 (i) "No-harm test" means an evaluation conducted by the commission to
+4 determine the impact a new large load will have on the rates of existing
+5 consumers.
+6 (j) "No rate increase" means no increase in the rates, charges, or to-
+7 tal bill for any existing class of consumers, measured in nominal terms,
+8 relative to the rates, charges, or total bill that would prevail absent
+9 the new large load.
+10 (k) "Public utility" has the same meaning as provided in section
+11 61-332A, Idaho Code.
+12 (l) "Service entrance" has the same meaning as provided in section
+13 61-332A, Idaho Code.
+14 (2) A new large load does not change its status as such by means of arti-
+15 fice, including by splitting its load among more than one (1) electric sup-
+16 plier or by adding additional connections, meters, or service entrances to
+17 serve an otherwise single entity or enterprise.
+18 (3) A public utility shall not provide electric service to a new large
+19 load or acquire resources to serve a new large load unless the commission ap-
+20 proves an electric service agreement for the new large load that has no rate
+21 increase, is just and reasonable pursuant to sections 61-301 and 61-502,
+22 Idaho Code, and complies with this section.
+23 (4) Prior to approving a new or amended electric service agreement for
+24 any new large load, the commission shall conduct a no-harm test to determine
+25 whether service to the new large load may increase rates for existing con-
+26 sumers.
+27 (a) The no-harm test shall compare the utility's long-term revenue re-
+28 quirement with and without the new large load and shall include, at min-
+29 imum, consideration of the following:
+30 (i) All incremental costs and risks associated with serving the
+31 new large load, including but not limited to:
+32 1. All new and existing resources required to serve the new
+33 large load;
+34 2. Reliability impacts;
+35 3. Financial and operating risk, including impacts to
+36 credit ratings, cost of equity, cost of capital, and expo-
+37 sure to fuel and market price risk; and
+38 4. Opportunity costs incurred to serve the new large load;
+39 (ii) Scenario analysis addressing contract and operating risks
+40 that may materially affect the revenue requirement; and
+41 (iii) Any other factors the commission determines reasonably nec-
+42 essary to ensure that service to the new large load does not in-
+43 crease rates for existing consumers.
+44 (b) The commission shall establish a process to ensure a consistent
+45 methodology for applying and required inputs for the no-harm test,
+46 which shall allow a public utility to develop energy service agreements
+47 for new large loads that can reasonably be expected to comply with the
+48 no-harm test.
+49 (c) The applicant for new large load service shall reimburse the com-
+50 mission for all costs of conducting the no-harm test.
+
+3
+1 (d) The public utility shall provide all data the commission determines
+2 necessary to complete the no-harm test.
+3 (e) If the commission finds, based on the no-harm test, that service to
+4 the new large load may increase rates for existing consumers, the com-
+5 mission shall condition approval of the electric service agreement for
+6 the new large load on the inclusion of rates, incremental cost-recov-
+7 ery riders, minimum monthly bills, contract-capacity charges, or other
+8 commission-approved mechanisms that ensure no rate increase to exist-
+9 ing consumers occurs from servicing the new large load.
+10 (5) At least every three (3) years from the agreement's effective date,
+11 the commission shall conduct a new no-harm test for the new large load in each
+12 general rate case filed by the public utility to compare the prior no-harm
+13 test's forecasted costs with the actual costs incurred to serve the new large
+14 load.
+15 (a) A new no-harm test shall not be required within twelve (12) months
+16 of a prior no-harm test being completed.
+17 (b) The new large load consumer shall reimburse the commission for all
+18 costs of conducting the new no-harm test.
+19 (c) If the new no-harm test indicates that the new large load has harmed
+20 or would harm existing consumers, the commission shall require adjust-
+21 ments to the electric service agreement to remove potential for further
+22 harm.
+23 (6) The electric service agreement shall include a commission-approved
+24 exit fee structure to ensure that an exit does not result in a rate increase
+25 to existing consumers.
+26 (7) Any electric service agreement for a new large load shall require
+27 the new large load to furnish financial security, in a form and amount ap-
+28 proved by the commission, to ensure recovery of costs incurred by the public
+29 utility in reliance on the new large load's contracted power requirement.
+30 (a) Such security shall protect against stranded investment if the con-
+31 tracted power requirement is not achieved.
+32 (b) Acceptable forms of security include cash deposits, irrevocable
+33 letters of credit, third-party guarantees, or other instruments au-
+34 thorized by the commission. Cash deposits shall accrue interest at a
+35 rate approved by the commission and shall be refunded in accordance with
+36 standard financial practices upon fulfillment of contractual obliga-
+37 tions.
+38 (c) In approving financial security instruments, the commission shall
+39 consider the creditworthiness of the new large load or its parent
+40 company or affiliate or the third-party entity providing financial se-
+41 curity, the duration and amount of the security, and the potential for
+42 stranded investment.
+43 (d) A new large load may request a reduction in its contracted power
+44 requirement during the term of the electric service agreement, and the
+45 commission may adjust the financial security required of the new large
+46 load, subject to conditions approved by the commission.
+47 (8) If a new large load does not achieve its contracted power require-
+48 ment within a commission-approved ramp schedule, the commission may require
+49 modification of rates or security to avoid cost shifts to existing con-
+50 sumers.
+
+4
+1 (9) The commission may promulgate rules, subject to legislative ap-
+2 proval, to implement the provisions of this section.
+3 SECTION 2. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after
+5 July 1, 2026.

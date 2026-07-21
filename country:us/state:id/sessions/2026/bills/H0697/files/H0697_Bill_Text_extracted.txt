@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 697
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; REPEALING SECTION 18-2306, IDAHO CODE, RELATING TO
+3 ILLEGAL VOTING, INTERFERENCE WITH AN ELECTION, AND TAMPERING WITH VOT-
+4 ING MACHINES OR VOTE TALLY SYSTEMS; AMENDING CHAPTER 23, TITLE 18, IDAHO
+5 CODE, BY THE ADDITION OF A NEW SECTION 18-2306, IDAHO CODE, TO PROVIDE
+6 FOR THE CRIME OF ILLEGAL VOTING; AMENDING CHAPTER 23, TITLE 18, IDAHO
+7 CODE, BY THE ADDITION OF A NEW SECTION 18-2306A, IDAHO CODE, TO PROVIDE
+8 FOR THE CRIME OF INTERFERENCE WITH AN ELECTION; AMENDING CHAPTER 23,
+9 TITLE 18, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 18-2306B, IDAHO
+10 CODE, TO PROVIDE FOR THE CRIME OF TAMPERING WITH VOTING MACHINES OR VOTE
+11 TALLY SYSTEMS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+12 DATE.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. That Section 18-2306, Idaho Code, be, and the same is hereby
+15 repealed.
+16 SECTION 2. That Chapter 23, Title 18, Idaho Code, be, and the same is
+17 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+18 ignated as Section 18-2306, Idaho Code, and to read as follows:
+19 18-2306. ILLEGAL VOTING. Every person not entitled to vote who fraudu-
+20 lently votes and every person who votes more than once at any one (1) election
+21 or knowingly hands in two (2) or more tickets folded together shall be guilty
+22 of a felony.
+23 SECTION 3. That Chapter 23, Title 18, Idaho Code, be, and the same is
+24 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+25 ignated as Section 18-2306A, Idaho Code, and to read as follows:
+26 18-2306A. INTERFERENCE WITH ELECTION. (1) Every person who changes
+27 any ballot after the same has been deposited in the ballot box, or who adds,
+28 or attempts to add, any ballot to those legally polled at any election, ei-
+29 ther by fraudulently introducing the same into the ballot box before or after
+30 the ballots therein have been counted, or by adding to or mixing with, or
+31 attempting to add to or mix with, the ballots lawfully polled, other ballots,
+32 while the same are being counted or canvassed, or at any other time, with
+33 intent to change the result of such election shall be guilty of a felony.
+34 (2) Every person who carries away or destroys, or attempts to carry away
+35 or destroy, any poll list, ballots, or ballot box, for the purpose of break-
+36 ing up or invalidating such election, or who willfully detains, mutilates,
+37 or destroys any election returns, or who in any manner so interferes with the
+38 officers holding such election or conducting such canvass or with the voters
+39 lawfully exercising their rights of voting at such election, as to prevent
+
+2
+1 such election or canvass from being fairly held and lawfully conducted shall
+2 be guilty of a felony.
+3 SECTION 4. That Chapter 23, Title 18, Idaho Code, be, and the same is
+4 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+5 ignated as Section 18-2306B, Idaho Code, and to read as follows:
+6 18-2306B. TAMPERING WITH VOTING MACHINES OR VOTE TALLY SYSTEMS. Every
+7 person who violates the provisions of section 34-2404(1) or (2), Idaho Code,
+8 by tampering with a voting machine or vote tally system shall be guilty of a
+9 felony.
+10 SECTION 5. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2026.

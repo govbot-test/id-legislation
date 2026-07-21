@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 537
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO THE OPEN MEETINGS LAW; AMENDING SECTION 74-203, IDAHO CODE, TO
+3 PROVIDE THAT ALL OPEN PUBLIC MEETINGS SHALL ALLOW FOR PUBLIC COMMENT, TO
+4 PROVIDE CERTAIN REQUIREMENTS, AND TO PROVIDE AN EXCEPTION; AND DECLAR-
+5 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 74-203, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 74-203. GOVERNING BODIES -- REQUIREMENT FOR OPEN PUBLIC MEETINGS. (1)
+10 Except as provided below, all meetings of a governing body of a public agency
+11 shall be open to the public and all persons shall be permitted to attend any
+12 meeting except as otherwise provided by this act. No decision at a meeting of
+13 a governing body of a public agency shall be made by secret ballot.
+14 (2) Deliberations of the board of tax appeals created in chapter 38, ti-
+15 tle 63, Idaho Code, the public utilities commission and the industrial com-
+16 mission in a fully submitted adjudicatory proceeding in which hearings, if
+17 any are required, have been completed, and in which the legal rights, duties
+18 or privileges of a party are to be determined are not required by this act to
+19 take place in a meeting open to the public. Such deliberations may, however,
+20 be made and/or conducted in a public meeting at the discretion of the agency.
+21 (3) Meetings of the Idaho life and health insurance guaranty associa-
+22 tion established under chapter 43, title 41, Idaho Code, the Idaho insurance
+23 guaranty association established under chapter 36, title 41, Idaho Code, the
+24 surplus line association approved by the director of the Idaho department of
+25 insurance as authorized under chapter 12, title 41, Idaho Code, and the Idaho
+26 depredating wildlife appeals board established under chapter 55, title 22,
+27 Idaho Code, are not required by this act to take place in a meeting open to the
+28 public.
+29 (4) A governing body shall not hold a meeting at any place where dis-
+30 crimination on the basis of race, creed, color, sex, age or national origin
+31 is practiced.
+32 (5) All meetings may be conducted using telecommunications devices
+33 which enable all members of a governing body participating in the meeting
+34 to communicate with each other. Such devices may include, but are not lim-
+35 ited to, telephone or video conferencing devices and similar communications
+36 equipment. Participation by a member of the governing body through telecom-
+37 munications devices shall constitute presence in person by such member at
+38 the meeting; provided however, that at least one (1) member of the govern-
+39 ing body, or the director of the public agency, or the chief administrative
+40 officer of the public agency shall be physically present at the location
+41 designated in the meeting notice, as required under section 74-204, Idaho
+42 Code, to ensure that the public may attend such meeting in person. The com-
+
+2
+1 munications among members of a governing body must be audible to the public
+2 attending the meeting in person and the members of the governing body.
+3 (6) All meetings shall allow for public comment either in person or via
+4 telephone, video conferencing, or internet website devices and similar com-
+5 munications equipment and shall be subject to the following:
+6 (a) In each instance where notice of the time of the meeting is oth-
+7 erwise given or the agenda for the meeting is otherwise posted, the
+8 governing body shall also give notice of the means by which members of
+9 the public may access the meeting and offer public comment. The agenda
+10 shall identify and include an opportunity for all persons to attend via
+11 telephone, video conferencing, or internet website.
+12 (b) In the event of a disruption that prevents the governing body from
+13 broadcasting the meeting to members of the public using the telephone,
+14 video conferencing, or internet website option, or in the event of a
+15 disruption within the governing body's control that prevents members
+16 of the public from offering public comments using the telephone, video
+17 conferencing, or internet website option, the governing body shall make
+18 all reasonable efforts to remedy the disruption and restore access be-
+19 fore proceeding with items on the meeting agenda.
+20 (c) The governing body shall not require public comments to be submit-
+21 ted in advance of the meeting.
+22 (d)(i) A governing body that provides a timed public comment pe-
+23 riod for each agenda item shall not close the public comment period
+24 for the agenda item or the opportunity to register to provide pub-
+25 lic comment until that timed public comment period has elapsed.
+26 (ii) A governing body that does not provide a timed public comment
+27 period, but takes public comment separately on each agenda item,
+28 shall allow a reasonable amount of time per agenda item to allow
+29 public members the opportunity to provide public comment or other-
+30 wise be recognized for the purpose of providing public comment.
+31 (iii) A governing body that provides a timed general public com-
+32 ment period that does not correspond to a specific agenda item
+33 shall not close the public comment period or the opportunity
+34 to register until the timed general public comment period has
+35 elapsed.
+36 (e) The provisions of this subsection shall not apply to a special meet-
+37 ing held pursuant to section 74-204(2), Idaho Code.
+38 SECTION 2. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2026.

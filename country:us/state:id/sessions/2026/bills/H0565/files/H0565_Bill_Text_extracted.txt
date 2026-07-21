@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 565
+BY RESOURCES AND CONSERVATION COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO DEPARTMENT OF FISH AND GAME; PROVIDING LEGISLATIVE IN-
+3 TENT; REPEALING SECTION 36-116, IDAHO CODE, RELATING TO SOLICITATION
+4 FOR TRANSFERRING WOLVES FROM IDAHO TO OTHER STATES; REPEALING SECTION
+5 36-715, IDAHO CODE, RELATING TO STATE MANAGEMENT OF WOLVES; REPEALING
+6 SECTION 36-1120, IDAHO CODE, RELATING TO PENALTIES; AND DECLARING AN
+7 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+10 of the Legislature to ensure that the state laws provided in Idaho Code are
+11 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+12 serving the public health, safety, and welfare. In accordance with the Idaho
+13 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+14 tified the provisions of this act as obsolete, outdated, or unnecessary.
+15 SECTION 2. That Section 36-116, Idaho Code, be, and the same is hereby
+16 repealed.
+17 SECTION 3. That Section 36-715, Idaho Code, be, and the same is hereby
+18 repealed.
+19 SECTION 4. That Section 36-1120, Idaho Code, be, and the same is hereby
+20 repealed.
+21 SECTION 5. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2026.

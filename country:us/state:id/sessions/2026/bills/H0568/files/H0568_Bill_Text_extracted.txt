@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 568
+BY RESOURCES AND CONSERVATION COMMITTEE
+1 AN ACT
+2 RELATING TO THE DEPARTMENT OF LANDS; PROVIDING LEGISLATIVE INTENT; AMEND-
+3 ING THE HEADING FOR CHAPTER 8, TITLE 38, IDAHO CODE; REPEALING SECTION
+4 38-802, IDAHO CODE, RELATING TO FLOATING TIMBER; REPEALING SECTION
+5 38-803, IDAHO CODE, RELATING TO FLOATING TIMBER; REPEALING SECTION
+6 38-804, IDAHO CODE, RELATING TO FLOATING TIMBER; REPEALING SECTION
+7 38-805, IDAHO CODE, RELATING TO FLOATING TIMBER; REPEALING SECTION
+8 38-806, IDAHO CODE, RELATING TO FLOATING TIMBER; REPEALING SECTION
+9 38-807, IDAHO CODE, RELATING TO FLOATING TIMBER; REPEALING SECTION
+10 38-1210, IDAHO CODE, RELATING TO LOG SCALING; REPEALING CHAPTER 8,
+11 TITLE 58, IDAHO CODE, RELATING TO TOWN SITE CLAIMS; AND DECLARING AN
+12 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+15 of the Legislature to ensure that the state laws provided in Idaho Code are
+16 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+17 serving the public health, safety, and welfare. In accordance with the Idaho
+18 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+19 tified the provisions of this act as obsolete, outdated, or unnecessary.
+20 SECTION 2. That the Heading for Chapter 8, Title 38, Idaho Code, be, and
+21 the same is hereby amended to read as follows:
+22 CHAPTER 8
+23 FLOATING TIMBER
+24 SECTION 3. That Section 38-802, Idaho Code, be, and the same is hereby
+25 repealed.
+26 SECTION 4. That Section 38-803, Idaho Code, be, and the same is hereby
+27 repealed.
+28 SECTION 5. That Section 38-804, Idaho Code, be, and the same is hereby
+29 repealed.
+30 SECTION 6. That Section 38-805, Idaho Code, be, and the same is hereby
+31 repealed.
+32 SECTION 7. That Section 38-806, Idaho Code, be, and the same is hereby
+33 repealed.
+34 SECTION 8. That Section 38-807, Idaho Code, be, and the same is hereby
+35 repealed.
+
+2
+1 SECTION 9. That Section 38-1210, Idaho Code, be, and the same is hereby
+2 repealed.
+3 SECTION 10. That Chapter 8, Title 58, Idaho Code, be, and the same is
+4 hereby repealed.
+5 SECTION 11. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2026.

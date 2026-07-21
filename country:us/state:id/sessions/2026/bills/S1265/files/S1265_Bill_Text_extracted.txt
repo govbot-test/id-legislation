@@ -1,0 +1,227 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1265
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE PETROLEUM CLEAN WATER TRUST FUND ACT; PROVIDING LEGISLATIVE
+3 INTENT; AMENDING SECTION 41-4904, IDAHO CODE, TO REVISE A PROVISION RE-
+4 GARDING THE BOARD OF TRUSTEES OF THE PETROLEUM CLEAN WATER TRUST FUND;
+5 AMENDING SECTION 41-4910, IDAHO CODE, TO REMOVE OUTDATED PROVISIONS RE-
+6 GARDING DISTRIBUTION OF FUND MONEYS; REPEALING SECTION 41-4910A, IDAHO
+7 CODE, RELATING TO APPORTIONMENT OF MONEYS; AMENDING SECTION 41-4911,
+8 IDAHO CODE, TO REMOVE CODE REFERENCES; REPEALING SECTION 41-4925, IDAHO
+9 CODE, RELATING TO THE APPLICATION FOR TRUST REGISTRATION; AMENDING SEC-
+10 TION 41-4925A, IDAHO CODE, TO REMOVE OBSOLETE LANGUAGE; AMENDING SEC-
+11 TION 41-4930, IDAHO CODE, TO REVISE A PROVISION REGARDING ISSUANCE OF
+12 CERTIFICATE OF REGISTRATION; AND DECLARING AN EMERGENCY AND PROVIDING
+13 AN EFFECTIVE DATE.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+16 of the Legislature to ensure that the state laws provided in Idaho Code are
+17 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+18 serving the public health, safety, and welfare. In accordance with the Idaho
+19 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+20 tified the provisions of this act as obsolete, outdated, or unnecessary.
+21 SECTION 2. That Section 41-4904, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 41-4904. BOARD OF TRUSTEES OF THE FUND. (1) The governor shall appoint
+24 seven (7) persons to be the board of trustees of the Idaho petroleum clean
+25 water trust fund. One (1) member shall be a member of the state senate, one
+26 (1) member shall be a member of the state house of representatives, one (1)
+27 member shall be a representative of the financial community with expertise
+28 in the area of insurance, accounting or finance, one (1) member shall be an
+29 engineer, geologist or similarly trained scientist with experience in envi-
+30 ronmental remediation and three (3) members shall be wholesale distributors
+31 of petroleum products. The governor shall appoint a chairman from the seven
+32 (7) members. The members shall be appointed for terms of four (4) years, ex-
+33 cept that all vacancies shall be filled for the unexpired term, provided that
+34 the first two (2) appointments the governor makes after the effective date
+35 of this act shall serve a term of two (2) years and the other five (5) members
+36 shall serve a term of four (4) years. Thereafter, a member shall serve a term
+37 of four (4) years. A certificate of appointment shall be filed in the office
+38 of the secretary of state. A majority of the members shall constitute a quo-
+39 rum for the transaction of all business or the exercise of any power or func-
+40 tion of the Idaho petroleum clean water trust fund. Members of the board of
+
+2
+1 trustees shall receive a compensation for service as prescribed in section
+2 59-509(n), Idaho Code.
+3 (2) The administrator of the fund shall be the state insurance fund un-
+4 less replaced by the board of trustees with another person. The adminis-
+5 trator shall serve at the pleasure of the board of trustees. The board of
+6 trustees may appoint and employ such other persons as may be required by the
+7 board and shall prescribe the duties and compensation of each such person.
+8 (3) It shall be the duty of the board of trustees to direct the poli-
+9 cies and operation of the fund to assure that it is run as an efficient insur-
+10 ance company, remains actuarially sound and maintains the public purposes
+11 for which the Idaho petroleum clean water trust fund was created.
+12 SECTION 3. That Section 41-4910, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 41-4910. DISTRIBUTION OF APPLICATION FEES AND TRANSFER FEES. (1) The
+15 application fees and the transfer fees collected as provided in this chapter
+16 shall be promptly remitted to the state treasurer for deposit in the Idaho
+17 petroleum clean water trust fund. The transfer fees and accumulated inter-
+18 est which accrued to the fund prior to August 3, 1995, shall remain in the
+19 fund. The transfer fees and accumulated interest, which have been held in a
+20 separate suspense account since August 3, 1995, shall be distributed as pro-
+21 vided in subsection (4) of this section. The transfer fees and accumulated
+22 interest which accrue to the Idaho petroleum clean water trust fund subse-
+23 quent to April 1, 1997, shall be distributed monthly thereafter as provided
+24 in subsection (5) (4) of this section.
+25 (2) An amount of money equal to the actual cost of collecting, adminis-
+26 tering and enforcing the transfer fee by the commission, as determined by it,
+27 shall be retained by the commission. The amount retained by the commission
+28 shall not exceed the amount authorized to be expended by appropriation by the
+29 legislature. Any unencumbered balance in excess of the actual cost of col-
+30 lection, administering and enforcing the transfer fee requirements by the
+31 commission at the end of each fiscal year shall be remitted to the state trea-
+32 surer for deposit into the Idaho petroleum clean water trust fund.
+33 (3) From the receipts of the transfer fee, an amount of money shall be
+34 distributed to the state refund account established under section 63-3067,
+35 Idaho Code, sufficient to reimburse that account for all current refund
+36 claims under this chapter paid from that account. Any refunds due and owing
+37 from the commission under this chapter shall be paid from the state refund
+38 account and those moneys are hereby continuously appropriated for that pur-
+39 pose.
+40 (4) For the distribution on April 1, 1997, the balance of the transfer
+41 fees and accumulated interest accruing to the separate suspense account es-
+42 tablished for such fees on August 3, 1995, which remain after distributing
+43 the amounts specified in subsections (2) and (3) of this section, shall be
+44 distributed as follows:
+45 (a) Twenty percent (20%) to the Idaho petroleum clean water trust fund
+46 established in section 41-4905, Idaho Code;
+47 (b) Three percent (3%) to the Idaho department of parks and recreation
+48 in accordance with subparagraphs 1., 2., and 3. of paragraph (f), sub-
+49 section (1) of section 63-2412, Idaho Code; and
+
+3
+1 (c) The remainder shall be distributed:
+2 (i) Six million dollars ($6,000,000) to the state highway account
+3 for administration by the Idaho transportation department as pro-
+4 vided in section 41-4910A, Idaho Code; and
+5 (ii) The balance remaining to the highway distribution account
+6 established in section 40-701, Idaho Code.
+7 (5) (4) For the distribution at the end of fiscal year 1997 and monthly
+8 thereafter, the balance of the transfer fees and accumulated interest ac-
+9 cruing to the Idaho petroleum clean water trust fund which remain after dis-
+10 tributing the amounts specified in subsections (2) and (3) of this section,
+11 shall be distributed as follows:
+12 (a) Seventy-seven percent (77%) to the highway distribution account
+13 established in section 40-701, Idaho Code; and
+14 (b) Three percent (3%) to the Idaho department of parks and recreation
+15 in accordance with subparagraphs 1., 2., and 3. of paragraph (f), sub-
+16 section (1) of section 63-2412, Idaho Code.
+17 SECTION 4. That Section 41-4910A, Idaho Code, be, and the same is hereby
+18 repealed.
+19 SECTION 5. That Section 41-4911, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 41-4911. ISSUANCE OF CONTRACTS OF INSURANCE BY THE ADMINISTRATOR OF
+22 THE IDAHO PETROLEUM CLEAN WATER TRUST FUND -- DEFERRAL. (1) The administra-
+23 tor may issue a contract of insurance to an owner or operator of a petroleum
+24 storage tank that, based upon a consideration of the owner or operator's ap-
+25 plication for insurance and appropriate investigation by the administrator,
+26 meets the eligibility provisions of this chapter and the underwriting re-
+27 quirements established by the administrator.
+28 (2) The administrator may defer issuing contracts of insurance to cer-
+29 tain categories of petroleum storage tank owners or operators if necessary
+30 for the sound operation of the trust fund.
+31 (3) The administrator shall consider the following factors in deter-
+32 mining whether to defer the issuance of contracts of insurance to any cate-
+33 gory of petroleum storage tank owners or operators:
+34 (a) The underwriting capacity of the trust fund;
+35 (b) Any requirement of federal or state law or regulation imposed on any
+36 category of petroleum storage tank owners or operators to demonstrate
+37 financial responsibility for corrective action and compensation to
+38 third parties for bodily injury and property damage arising from acci-
+39 dental releases from petroleum storage tanks;
+40 (c) The ability of the administrator to process insurance applications
+41 from different categories of petroleum storage tank owners or opera-
+42 tors.
+43 (4) Any decision by the administrator to defer issuing contracts of in-
+44 surance to any category of petroleum storage tank owners or operators shall
+45 be documented in the plan of operation, or an amendment thereto, submitted to
+46 the director of the department of insurance pursuant to sections 41-4925 or
+47 41-4925A, Idaho Code, and subject to the director's approval.
+
+4
+1 (5) The administrator may issue contracts of insurance to deferred
+2 categories of petroleum storage tank owners or operators when the need for
+3 deferral documented in subsection (4) of this section no longer exists, as
+4 demonstrated by an amendment to the plan of operation submitted to and ap-
+5 proved by the director of the department of insurance pursuant to section
+6 41-4925A, Idaho Code.
+7 SECTION 6. That Section 41-4925, Idaho Code, be, and the same is hereby
+8 repealed.
+9 SECTION 7. That Section 41-4925A, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 41-4925A. AMENDMENTS TO PLAN OF OPERATION. (1) Any amendment to the
+12 plan of operation prepared by the administrator for the purpose of deferring
+13 the issuance of contracts of insurance to any category of petroleum storage
+14 tank owners or operators or for issuing contracts of insurance to any de-
+15 ferred category of petroleum storage tank owners or operators shall be sub-
+16 mitted to the director of the department of insurance.
+17 (2) The director shall review the amendment and shall, with all reason-
+18 able promptness, approve, approve as modified, or disapprove of the amend-
+19 ment to the plan of operation. If the amendment is approved, the adminis-
+20 trator may issue contracts of insurance and otherwise operate the trust fund
+21 in a manner consistent with the amended plan of operation. If the amend-
+22 ment is disapproved, the administrator must operate the trust fund in a man-
+23 ner consistent with the provisions of the plan of operation as submitted to
+24 the director in the trust fund's application for registration under section
+25 41-4925, Idaho Code.
+26 (3) The director may request such relevant documentation and informa-
+27 tion, including an actuarial analysis of the underwriting capacity of the
+28 trust fund, as is reasonably necessary to evaluate the proposed amendment to
+29 the plan of operation.
+30 (4) All procedures and policies concerning the approval, modification
+31 or disapproval of any amendment to the plan of operation are subject to the
+32 provisions of chapter 52, title 67, Idaho Code, as well as the rules of prac-
+33 tice and procedure of the department of insurance.
+34 SECTION 8. That Section 41-4930, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 41-4930. EXISTING INSURANCE LAWS TO APPLY TO THE TRUST FUND WITH CER-
+37 TAIN EXCEPTIONS. The trust fund shall comply with all of the applicable pro-
+38 visions of title 41, Idaho Code, with certain exceptions as follows:
+39 (1) The creation of the trust fund by act of the legislature shall not
+40 be deemed to be an ownership, control or operation of an insurer by a govern-
+41 mental entity, as referred to in section 41-309, Idaho Code, and the surplus
+42 funds of the trust fund shall be considered to be dedicated and held in re-
+43 serve for the purpose of providing funds for the payment of claims arising
+44 out of the discharge of petroleum products from tanks covered by a contract
+45 of insurance issued to the tank owner or operator by the trust fund as pro-
+
+5
+1 vided for in section 41-4906, Idaho Code. The absolute control of the trust
+2 fund shall be vested in the board.
+3 (2) The provisions of this chapter shall be construed to be contained
+4 in the document of organization and bylaws of the trust fund for purposes of
+5 sections 41-319, 41-320 and 41-322, Idaho Code, and the director shall issue
+6 a certificate of registration to and in the name of the trust fund upon his
+7 finding that it has met all other appropriate provisions of the Idaho Code,
+8 including sections 41-313, 41-316 and 41-316A, Idaho Code.
+9 (3) Section 41-337, Idaho Code, shall not apply to contracts of insur-
+10 ance issued by the trust fund.
+11 (4) Sections 41-1004 and 41-1022, Idaho Code, shall not apply to em-
+12 ployees of the state insurance fund or the trust fund.
+13 (5) Section 41-1103, Idaho Code, shall not apply to employees of the
+14 state insurance fund or the trust fund, provided the employees restrict
+15 their claims adjusting and investigation operations only to those contracts
+16 issued by the trust fund.
+17 (6) Except as otherwise provided in this chapter, chapter 28, title 41,
+18 Idaho Code, and chapter 14, title 30, Idaho Code, shall not apply to the trust
+19 fund nor shall this trust fund be construed to be a domestic mutual insurer,
+20 nor a reciprocal insurer, nor any other type of insurer currently regulated
+21 by title 41, Idaho Code, and the only organizational requirements of this
+22 trust fund shall be those enumerated in this chapter.
+23 SECTION 9. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after
+25 July 1, 2026.

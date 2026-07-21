@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 921
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE STATE DEPARTMENT OF EDUCATION; APPRO-
+3 PRIATING ADDITIONAL MONEYS TO THE STATE DEPARTMENT OF EDUCATION FOR
+4 FISCAL YEAR 2027; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+5 DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. In addition to any other appropriation provided by law,
+8 there is hereby appropriated to the State Department of Education for the
+9 Student Services Program the following amounts to be expended according to
+10 the designated expense classes from the listed funds for the period July 1,
+11 2026, through June 30, 2027:
+12 FOR
+13 FOR FOR TRUSTEE AND
+14 PERSONNEL OPERATING BENEFIT
+15 COSTS EXPENDITURES PAYMENTS TOTAL
+16 FROM:
+17 School Bus Camera
+18 Fund $28,200 $28,200
+19 American Rescue Plan
+20 Fund $50,000 $16,600 203,000 269,600
+21 Federal Grant
+22 Fund 19,400 200,600 0 220,000
+23 TOTAL $69,400 $217,200 $231,200 $517,800
+24 SECTION 2. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 859
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD CUSTODY; AMENDING CHAPTER 7, TITLE 32, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 32-717F, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING RESTORATION OF LOST PARENTING TIME; AND PROVIDING AN EFFEC-
+5 TIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 7, Title 32, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 32-717F, Idaho Code, and to read as follows:
+10 32-717F. RESTORATION OF LOST PARENTING TIME. (1) If a parent's cus-
+11 tody is restricted, suspended, or supervised due to an allegation of abuse
+12 that is adjudicated by the court and found to be unsubstantiated or insuf-
+13 ficient to meet the clear and convincing evidence standard, the court shall
+14 order restoration of the lost parenting time. Willful interference with a
+15 restoration order shall result in enforceable remedies, including contempt
+16 and compensatory parenting time, and the court shall refer apparent viola-
+17 tions of title 18, Idaho Code, relating to custody interference to the appro-
+18 priate prosecuting attorney.
+19 (2) A restoration plan shall provide for prompt recovery of equivalent
+20 parenting time in a manner that minimizes disruption to the child and pre-
+21 serves stability and continuity, including comparable time for missed holi-
+22 days, school breaks, or special periods.
+23 (3) Restoration of lost parenting time shall occur without undue delay.
+24 When a parent knowingly denies court-ordered custody or parenting time with-
+25 out lawful justification, the court shall award compensatory parenting time
+26 equal in type and duration to the time denied. Such compensatory parent-
+27 ing time shall be exercised as soon as reasonably practicable, unless clear
+28 and convincing evidence establishes that immediate restoration would pose a
+29 risk of substantial harm to the child.
+30 (4) For the purposes of this section, "restoration plan" means a writ-
+31 ten plan or schedule that sets forth the timing, conditions, and process for
+32 the restoration or progression of a parent's custody or parenting time to a
+33 parent's lawful entitlement under the default custody framework established
+34 by law or an otherwise lawful final custody order.
+35 SECTION 2. This act shall be in full force and effect on and after Jan-
+36 uary 1, 2027.

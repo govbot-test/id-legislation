@@ -1,0 +1,472 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 761
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO WORKFORCE DEVELOPMENT COUNCIL; AMENDING SECTION
+3 33-1633, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE COMPUTER SCI-
+4 ENCE INITIATIVE FOR PUBLIC SCHOOLS AND TO MAKE TECHNICAL CORRECTIONS;
+5 REPEALING CHAPTER 47, TITLE 33, IDAHO CODE, RELATING TO STEM SCHOOL DES-
+6 IGNATION; AMENDING SECTION 63-3029A, IDAHO CODE, TO REVISE PROVISIONS
+7 REGARDING THE LIMITATION ON INCOME TAX CREDIT FOR CHARITABLE CONTRI-
+8 BUTIONS AND TO MAKE TECHNICAL CORRECTIONS; REPEALING SECTION 67-823,
+9 IDAHO CODE, RELATING TO COORDINATION OF POLICY AND PROGRAMS RELATED TO
+10 SCIENCE, TECHNOLOGY, ENGINEERING AND MATH EDUCATION IN IDAHO; AMENDING
+11 SECTION 67-824, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE STEM
+12 EDUCATION FUND AND TO MAKE A TECHNICAL CORRECTION; REPEALING SECTION
+13 67-824, IDAHO CODE, RELATING TO THE STEM EDUCATION FUND; REPEALING SEC-
+14 TION 67-825, IDAHO CODE, RELATING TO THE STEM ACTION CENTER ADVISORY
+15 BOARD; AMENDING SECTION 67-5303, IDAHO CODE, TO REVISE PROVISIONS RE-
+16 GARDING APPLICATION OF THE PERSONNEL SYSTEM TO STATE EMPLOYEES AND TO
+17 MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 72-1201, IDAHO CODE, TO
+18 REVISE PROVISIONS REGARDING THE WORKFORCE DEVELOPMENT COUNCIL AND TO
+19 MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 72-1203, IDAHO CODE, TO
+20 REVISE PROVISIONS REGARDING THE WORKFORCE DEVELOPMENT TRAINING FUND
+21 AND TO MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMERGENCY AND PRO-
+22 VIDING EFFECTIVE DATES.
+23 Be It Enacted by the Legislature of the State of Idaho:
+24 SECTION 1. That Section 33-1633, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 33-1633. COMPUTER SCIENCE INITIATIVE FOR PUBLIC SCHOOLS. (1) As used
+27 in this section:
+28 (a) "Blended professional development" means to deliver content and
+29 training to teachers and administrators in a combination of online and
+30 face-to-face.
+31 (b) "Computer science" means the study of principles, applications,
+32 and technologies of computing and computers.
+33 (c) "Council" means the workforce development council established in
+34 section 72-1201, Idaho Code.
+35 (2) The STEM action center council, the state board of education, and
+36 the state department of education shall collaborate to develop and implement
+37 a computer science initiative for public schools by:
+38 (a) Adopting Maintaining computer science content standards in 2016
+39 aligned with nationally recognized computer science education stan-
+40 dards with input from Idaho educators and industries for implementation
+41 in the 2017-2018 school year;
+
+2
+1 (b) Providing for professional development in teaching computer sci-
+2 ence by:
+3 (i) Developing resources for teachers and administrators relat-
+4 ing to teaching computational thinking;
+5 (ii) Providing statewide, regional, online, and blended profes-
+6 sional development opportunities for school district staff;
+7 (iii) Partnering with entities such as the Idaho digital learn-
+8 ing academy, public higher education institutions, and industry
+9 to develop, deliver, and provide professional development in com-
+10 puter science for teachers; and
+11 (iv) Distributing grants to school districts and charter schools
+12 that may be used to provide incentives for teachers to pursue
+13 training in computer science or earn a computer science endorse-
+14 ment;
+15 (c) Maintaining, using, and enhancing access to an online portal or
+16 repository of instructional resources that:
+17 (i) Is available for public school districts and public charter
+18 schools to use as a resource;
+19 (ii) Includes high-quality computer science instructional re-
+20 sources that are designed to teach K-12 students computational
+21 thinking skills and are in alignment with the state computer sci-
+22 ence content standards;
+23 (iii) Leverages existing online resources and portals developed
+24 by state and governmental entities; and
+25 (iv) Allows for collaborative contribution and sharing of re-
+26 sources by teachers, administrators, parents, and students;
+27 (d) Ensuring that the state department of education and the Idaho digi-
+28 tal learning academy evaluate providers of comprehensive computer sci-
+29 ence instructional solutions and provide research, support, and guid-
+30 ance on implementing solutions for computer science courses or programs
+31 aligned with the state computer science content standards;
+32 (e) Creating opportunities for schools to partner with local companies
+33 to provide for student and teacher mentoring and internships in the com-
+34 puter science field;
+35 (f) Communicating and supporting computer science initiatives, pro-
+36 grams, events, training, and other promotions throughout the state for
+37 the benefit of school districts, students, parents, and local communi-
+38 ties; and
+39 (g) Creating equitable access to computer science resources and pro-
+40 grams aligned with the state computer science content standards for
+41 teachers, administrators, and students throughout the state.
+42 (3) The STEM action center council, the state board of education, and
+43 the state department of education shall, when economical and beneficial,
+44 leverage existing state resources and systems to effectively and effi-
+45 ciently carry out the directives of this computer science initiative for
+46 public schools.
+47 (4) The STEM action center board executive director of the council may
+48 select one (1) or more providers through a request for proposals process to
+49 provide a comprehensive computer science solution for public school dis-
+50 tricts and public charter schools to implement.
+
+3
+1 (5) The STEM action center council, the division of career technical
+2 education, and industry shall collaborate to create technical secondary and
+3 postsecondary courses of study in areas related to computer science that
+4 meet workforce needs.
+5 (6) The STEM action center council shall collaborate with the state
+6 board of education, division of career technical education, the state de-
+7 partment of education, public higher education institutions, and industry
+8 to develop a communication plan related to the computer science initiative.
+9 (7) The STEM action center council and the state board of education
+10 shall provide an annual report to the legislature on the status of this ini-
+11 tiative.
+12 SECTION 2. That Chapter 47, Title 33, Idaho Code, be, and the same is
+13 hereby repealed.
+14 SECTION 3. That Section 63-3029A, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 63-3029A. INCOME TAX CREDIT FOR CHARITABLE CONTRIBUTIONS -- LIMITA-
+17 TION. At the election of the taxpayer, there shall be allowed, subject to
+18 the applicable limitations provided herein, as a credit against the income
+19 tax imposed by chapter 30, title 63, Idaho Code, an amount equal to fifty
+20 percent (50%) of the aggregate amount of charitable contributions made by
+21 such taxpayer during the year to a nonprofit corporation, fund, foundation,
+22 trust, or association organized and operated exclusively for the benefit
+23 of institutions of higher learning located within the state of Idaho, in-
+24 cluding a university-related research park, to nonprofit private or public
+25 institutions of elementary, secondary, or higher education or their founda-
+26 tions located within the state of Idaho, to Idaho education public broadcast
+27 system foundations within the state of Idaho, to the Idaho state historical
+28 society or its foundation, to the council for the deaf and hard of hearing,
+29 to the developmental disabilities council, to the commission for the blind
+30 and visually impaired, to the commission on Hispanic affairs, to the state
+31 independent living council, to the Idaho commission for libraries and to
+32 public libraries or their foundations and library districts or their foun-
+33 dations located within the state of Idaho, to the Idaho STEM action center,
+34 to nonprofit public or private museums or their foundations located within
+35 the state of Idaho, to residency programs accredited by the accreditation
+36 council for graduate medical education or the American osteopathic associa-
+37 tion or their designated nonprofit support organizations based in Idaho and
+38 devoted to training residents in Idaho and to dedicated accounts within the
+39 Idaho community foundation inc. that exclusively support the charitable
+40 purposes otherwise qualifying for the tax credit authorized under the pro-
+41 visions of this section.
+42 (1) In the case of a taxpayer other than a corporation, the amount al-
+43 lowable as a credit under this section for any taxable year shall not exceed
+44 fifty percent (50%) of such taxpayer's total income tax liability imposed by
+45 section 63-3024, Idaho Code, for the year, or five hundred dollars ($500),
+46 whichever is less.
+47 (2) In the case of a corporation, the amount allowable as a credit un-
+48 der this section for any taxable year shall not exceed ten percent (10%) of
+
+4
+1 such corporation's total income or franchise tax liability imposed by sec-
+2 tions 63-3025 and 63-3025A, Idaho Code, for the year, or five thousand dol-
+3 lars ($5,000), whichever is less.
+4 For the purposes of this section, "contribution" means monetary dona-
+5 tions reduced by the value of any benefit received in return such as food, en-
+6 tertainment, or merchandise.
+7 For the purposes of this section, "institution of higher learning"
+8 means only an educational institution located within this state meeting all
+9 of the following requirements:
+10 (a) It maintains a regular faculty and curriculum and has a regularly
+11 enrolled body of students in attendance at the place where its educa-
+12 tional activities are carried on.
+13 (b) It regularly offers education above the twelfth grade.
+14 (c) It is accredited by the northwest commission on colleges and uni-
+15 versities.
+16 For the purposes of this section, a "nonprofit institution of secondary
+17 or higher education" means a private nonprofit secondary or higher educa-
+18 tional institution located within the state of Idaho, which that is accred-
+19 ited by the northwest commission on colleges and universities, or accredited
+20 by a body approved by the state board of education. A "nonprofit private in-
+21 stitution of elementary education" means a private nonprofit elementary ed-
+22 ucational institution located within the state of Idaho and accredited by
+23 the state board of education pursuant to section 33-119, Idaho Code.
+24 For the purposes of this section, a nonprofit corporation, fund, foun-
+25 dation, trust, or association that invests contributions in an endowment or
+26 otherwise shall be subject to the standards of care imposed under section
+27 33-5003, Idaho Code.
+28 SECTION 4. That Section 67-823, Idaho Code, be, and the same is hereby
+29 repealed.
+30 SECTION 5. That Section 67-824, Idaho Code, be, and the same is hereby
+31 amended to read as follows:
+32 67-824. STEM EDUCATION FUND. (1) There is hereby created in the state
+33 treasury the STEM education fund to support the programs and priorities of
+34 the state in advancing science, technology, engineering, and mathematics
+35 education. The STEM education fund may accept private contributions, moneys
+36 from other public agencies or moneys from any other source. The moneys shall
+37 be used solely for the purposes provided in section 67-823, Idaho Code, and
+38 be expended and accounted for as provided by law. All expenditures from the
+39 STEM education fund must be approved by the Idaho STEM action center advisory
+40 board.
+41 (2) On July 1, 2026, or as soon thereafter as practicable, but no later
+42 than July 31, 2026, the state controller shall transfer all moneys in the
+43 STEM education fund established in this section to the workforce development
+44 training fund established in section 72-1203, Idaho Code.
+45 SECTION 6. That Section 67-824, Idaho Code, be, and the same is hereby
+46 repealed.
+
+5
+1 SECTION 7. That Section 67-825, Idaho Code, be, and the same is hereby
+2 repealed.
+3 SECTION 8. That Section 67-5303, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 67-5303. APPLICATION TO STATE EMPLOYEES. All departments of the state
+6 of Idaho and all employees in such departments, except those employees
+7 specifically defined as nonclassified, shall be classified employees who
+8 are subject to this chapter and to the system of personnel administration
+9 it prescribes. All nonclassified employees are subject to conformity with
+10 classified positions as set forth in section 59-1603, Idaho Code. Nonclas-
+11 sified employees shall be:
+12 (a) Members of the state legislature and all other officers of the state
+13 of Idaho elected by popular vote and persons appointed to fill vacancies in
+14 elective offices and employees of the state legislature.
+15 (b) Members of statutory boards and commissions and heads of depart-
+16 ments appointed by and serving at the pleasure of the governor, deputy di-
+17 rectors appointed by the director of a department, and members of advisory
+18 boards and councils appointed by the departments.
+19 (c) All employees and officers in the office, and at the residence, of
+20 the governor; and all employees and officers in the offices of the lieutenant
+21 governor, secretary of state, attorney general, state treasurer, state con-
+22 troller, and state superintendent of public instruction.
+23 (d) Except as otherwise provided by law, one (1) declared position des-
+24 ignated by the appointing authority of a participating department, in addi-
+25 tion to those declared to be nonclassified by other provisions of law.
+26 (e) Part-time professional consultants who are paid on a fee basis for
+27 any form of legal, medical, or other professional service and who are not en-
+28 gaged in the performance of administrative duties for the state.
+29 (f) Judges, temporary referees, receivers, and jurors.
+30 (g) All employees of the Idaho supreme court, Idaho court of appeals,
+31 and district courts.
+32 (h) All employees of the Idaho state bar.
+33 (i) Assistant attorneys general attached to the office of the attorney
+34 general.
+35 (j) Officers, members of the teaching staffs of state higher educa-
+36 tional institutions, the professional staffs of the office of the state
+37 board of education and the Idaho department of education administered by the
+38 board of regents and the board of education, all professional staff of the
+39 public charter school commission, and the professional staffs of the Idaho
+40 division of career technical education and vocational rehabilitation admin-
+41 istered by the state board for career technical education. "Teaching staff"
+42 includes teachers, coaches, resident directors, librarians, and those prin-
+43 cipally engaged in academic research. The word "officer" means presidents,
+44 vice presidents, deans, directors, or employees in positions designated by
+45 the state board who receive an annual salary of not less than step A of the pay
+46 grade equivalent to three hundred fifty-five (355) Hay points in the state
+47 compensation schedule. In consultation with the Idaho division of human
+48 resources, the state board of education shall implement policies and pro-
+
+6
+1 cedures for nonclassified employees to conform with section 59-1603, Idaho
+2 Code.
+3 (k) Employees of the military division.
+4 (l) Patients, inmates, or students employed in a state institution.
+5 (m) Temporary employees.
+6 (n) All employees and officers of the following named commodity commis-
+7 sions, and all employees and officers of any commodity commission created
+8 hereafter: the Idaho potato commission, as provided in chapter 12, title 22,
+9 Idaho Code; the Idaho honey commission, as provided in chapter 28, title 22,
+10 Idaho Code; the Idaho bean commission, as provided in chapter 29, title 22,
+11 Idaho Code; the Idaho hop grower's commission, as provided in chapter 31, ti-
+12 tle 22, Idaho Code; the Idaho wheat commission, as provided in chapter 33,
+13 title 22, Idaho Code; the Idaho pea and lentil commission, as provided in
+14 chapter 35, title 22, Idaho Code; the Idaho apple commission, as provided in
+15 chapter 36, title 22, Idaho Code; the Idaho cherry commission, as provided in
+16 chapter 37, title 22, Idaho Code; the Idaho mint commission, as provided in
+17 chapter 38, title 22, Idaho Code; the Idaho sheep and goat health board, as
+18 provided in chapter 1, title 25, Idaho Code; the state brand inspector, and
+19 all district supervisors, as provided in chapter 11, title 25, Idaho Code;
+20 the Idaho beef council, as provided in chapter 29, title 25, Idaho Code; and
+21 the Idaho dairy products commission, as provided in chapter 31, title 25,
+22 Idaho Code.
+23 (o) All inspectors of the fresh fruit and vegetable inspection service
+24 of the Idaho department of agriculture, except those positions involved in
+25 the management of the program.
+26 (p) All employees of correctional industries within the department of
+27 correction.
+28 (q) All deputy administrators and wardens employed by the department of
+29 correction. Deputy administrators are defined as only the deputy adminis-
+30 trators working directly for the nonclassified division administrators un-
+31 der the director of the department of correction.
+32 (r) All public information positions, with the exception of secretar-
+33 ial positions, in any department.
+34 (s) Any division administrator and all executive employees.
+35 (t) Any regional administrator or division administrator in the de-
+36 partment of environmental quality.
+37 (u) All employees of the division of financial management, all employ-
+38 ees of the STEM action center, all employees of the office of species conser-
+39 vation, all employees of the office of drug policy, and all employees of the
+40 office of energy and mineral resources.
+41 (v) All employees of the Idaho food quality assurance institute.
+42 (w) All employees of the office of the state appellate public defender,
+43 pursuant to chapter 59, title 19, Idaho Code, and the office of the state pub-
+44 lic defender, pursuant to chapter 60, title 19, Idaho Code.
+45 (x) All quality assurance specialists or medical investigators of the
+46 Idaho board of medicine.
+47 (y) All pest survey and detection employees and their supervisors hired
+48 specifically to carry out activities under the Idaho plant pest act, chapter
+49 20, title 22, Idaho Code, including but not limited to pest survey, detec-
+
+7
+1 tion, and eradication, except those positions involved in the management of
+2 the program.
+3 (z) All medical directors employed by the department of health and
+4 welfare who are engaged in the practice of medicine, as defined by section
+5 54-1803, Idaho Code, at a state hospital or other treatment facility managed
+6 and operated by the department of health and welfare.
+7 (aa) All hearing officers and all other employees of the office of ad-
+8 ministrative hearings, as provided for in chapter 52, title 67, Idaho Code.
+9 (bb) All attorneys employed by the division of occupational and profes-
+10 sional licenses.
+11 SECTION 9. That Section 72-1201, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 72-1201. CREATION OF WORKFORCE DEVELOPMENT COUNCIL -- COMPOSITION --
+14 APPOINTMENT -- EXECUTIVE DIRECTOR. (1) There is hereby established in the
+15 executive office of the governor the workforce development council. Members
+16 of the council and an executive director shall be appointed by and serve at
+17 the pleasure of the governor. The governor shall prescribe the structure,
+18 duties, and functions of the council, which shall include but not be limited
+19 to the following:
+20 (a) To serve as the state's coordinating body on matters related to
+21 workforce development policy and programs by engaging employer part-
+22 ners in identifying workforce gaps and talent development strategies;
+23 (b) To develop and provide oversight of procedures, criteria, and per-
+24 formance measures for the workforce development training fund estab-
+25 lished under section 72-1203, Idaho Code; and
+26 (c) To serve as the state workforce investment development board in ac-
+27 cordance with section 101 of the federal workforce innovation and op-
+28 portunity act, 29 U.S.C. 3101 et seq., as amended, and federal regula-
+29 tions promulgated thereunder.; and
+30 (d) Until June 30, 2036, to coordinate and promote science, technol-
+31 ogy, engineering, and mathematics (STEM) education, skills training,
+32 and workforce alignment across education, industry, and government,
+33 including:
+34 (i) To support statewide STEM initiatives, including the inte-
+35 gration of project-based and work-based learning opportunities;
+36 (ii) To provide for professional development aligned with career
+37 readiness and industry needs; and
+38 (iii) To collaborate with public and private entities to support
+39 STEM education through funding, in-kind contributions, and pro-
+40 grammatic partnerships in accordance with the provisions of sub-
+41 section (2) of this section.
+42 (2) Entities that provide contributions for special projects permitted
+43 in subsection (1)(d)(iii) of this section shall provide no less than fifty
+44 percent (50%) of funding for projects approved by the council. Contribu-
+45 tions such as materials, personnel, supplies, physical facilities, or ser-
+46 vices may be considered as all or part of the funding provided by the entity.
+47 (2) (3) The council may appoint special committees in connection with
+48 this section.
+
+8
+1 (3) (4) The council may apply for and accept grants and contributions of
+2 funds from any public or private source.
+3 (4) (5) The executive director is authorized to hire and supervise sup-
+4 port staff consistent with the mission and priorities of the council. The
+5 executive director shall be a nonclassified employee exempt from the provi-
+6 sions of chapter 53, title 67, Idaho Code. Support staff shall be classified
+7 employees under the provisions of chapter 53, title 67, Idaho Code.
+8 (5) (6) Members of the council and any special committees who are not
+9 state employees shall be compensated for actual and necessary expenses as
+10 provided by section 59-509(b), Idaho Code.
+11 (7) The council shall report annually to the governor and the joint
+12 finance-appropriations committee on commitments and expenditures made from
+13 the general fund, along with performance metrics, relating to the provisions
+14 of subsection (1)(d) of this section for the preceding fiscal year and the
+15 results of the activities, including:
+16 (a) The number of educators and out-of-school professionals who re-
+17 ceived professional development in the areas of STEM, including educa-
+18 tor externships funded by the council;
+19 (b) The number of participants in STEM events supported by the council
+20 and the results of surveys conducted before such events and after such
+21 events; and
+22 (c) The alignment of STEM courses and postsecondary programs to the de-
+23 mand for STEM skills and careers in Idaho.
+24 SECTION 10. That Section 72-1203, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 72-1203. WORKFORCE DEVELOPMENT TRAINING FUND. (1) There is estab-
+27 lished in the state treasury a special trust fund, separate and apart from
+28 all other public funds of this state, to be known as the workforce develop-
+29 ment training fund, hereinafter "training fund." Except as provided herein,
+30 all proceeds from the training tax defined in subsection (7) of this sec-
+31 tion shall be paid into the training fund. The state treasurer shall be the
+32 custodian of the training fund and shall invest said moneys in accordance
+33 with law. Any interest earned on the moneys in the training fund shall be de-
+34 posited in the training fund. Moneys in the training fund shall be disbursed
+35 in accordance with the directions of the council.
+36 (2) All moneys in the training fund are appropriated to the council for
+37 expenditure in accordance with the provisions of this section. The purpose
+38 of the training fund is to provide or expand training and retraining oppor-
+39 tunities in an expeditious manner that would not otherwise exist for Idaho's
+40 workforce. The training fund is intended to supplement but not to supplant
+41 or compete with moneys available through existing training programs. The
+42 moneys in the training fund shall be used for the following purposes:
+43 (a) To provide training and retraining for skills necessary for spe-
+44 cific economic opportunities and industrial expansion initiatives;
+45 (b) To provide innovative training solutions to meet industry-specific
+46 workforce needs or local workforce challenges;
+47 (c) To provide public information and outreach on career education and
+48 workforce training opportunities, including existing education and
+49 training programs and services not funded by the training fund; and
+
+9
+1 (d) To support the programs and priorities of the state in advancing
+2 science, technology, engineering, and mathematics education and skills
+3 training. Any obligations incurred by the STEM education fund as it ex-
+4 isted on July 1, 2026, shall be payable from the workforce development
+5 training fund established in this section; and
+6 (d) (e) For all administrative expenses incurred by the council, in-
+7 cluding those expenses associated with the collection of the training
+8 tax and any other administrative expenses associated with the training
+9 fund.
+10 (3) Expenditures from the training fund for purposes authorized in
+11 paragraphs (a), (b) and (c) of subsection (2)(a), (b), (c), and (d) of this
+12 section shall be approved by the council based on procedures, criteria, and
+13 performance measures established by the council.
+14 (4) Expenditures from the training fund for purposes authorized in
+15 paragraph (d) of subsection (2)(e) of this section shall be approved by the
+16 executive director. The executive director shall pay all approved expendi-
+17 tures as long as the training fund has a positive balance.
+18 (5) The activities funded by the training fund will be coordinated with
+19 similar activities funded by the state division of career technical educa-
+20 tion.
+21 (6) The council shall report annually to the governor and the joint fi-
+22 nance-appropriations committee the commitments and expenditures made from
+23 the training fund in the preceding fiscal year and the results of the activi-
+24 ties funded by the training fund.
+25 (7) A training tax is hereby imposed on all covered employers required
+26 to pay contributions pursuant to section 72-1350, Idaho Code, with the ex-
+27 ception of deficit-rated employers who have been assigned a taxable wage
+28 rate from rate class six pursuant to section 72-1350, Idaho Code. The train-
+29 ing tax rate shall be equal to three percent (3%) of the taxable wage rate
+30 then in effect for each eligible standard-rated and deficit-rated employer.
+31 The training tax shall be due and payable at the same time and in the same
+32 manner as contributions.
+33 (8) The provisions of chapter 13, title 72, Idaho Code, which apply to
+34 the payment and collection of contributions, also apply to the payment and
+35 collection of the training tax, including the same calculations, assess-
+36 ments, methods of payment, penalties, interest, costs, liens, injunctive
+37 relief, collection procedures, and refund procedures. The director of the
+38 department of labor is granted all rights, authority, and prerogatives nec-
+39 essary to administer the provisions of this subsection. Moneys collected
+40 from an employer delinquent in paying the training tax shall first be applied
+41 to any penalties and interest imposed pursuant to the provisions of chapter
+42 13, title 72, Idaho Code, and then pro rata to the training fund established
+43 in subsection (1) of this section. Any penalties and interest collected
+44 pursuant to this subsection shall be paid into the state employment security
+45 administrative and reimbursement fund, section 72-1348, Idaho Code, and
+46 any penalties or interest refunded under this subsection shall be paid from
+47 that same fund. Training taxes paid pursuant to this section shall not be
+48 credited to the employer's experience rating account and may not be deducted
+49 by any employer from the wages of individuals in its employ. All training
+50 taxes shall be deposited in the clearing account of the employment security
+
+10
+1 fund, section 72-1346, Idaho Code, for clearance only and shall not become
+2 part of such fund. After clearance, the moneys shall be deposited in the
+3 training fund. The director of the department of labor may authorize refunds
+4 of training taxes erroneously collected and deposited in the training fund.
+5 (9) The training fund may accept private contributions, moneys from
+6 other public agencies, and moneys from any other source, which may be used
+7 for the purposes authorized in subsection (2)(a), (b), (c), and (d) of this
+8 section.
+9 SECTION 11. An emergency existing therefor, which emergency is hereby
+10 declared to exist, Sections 1, 2, 3, 4, 5, 7, 8, 9, and 10 of this act shall
+11 be in full force and effect on and after July 1, 2026. Section 6 of this act
+12 shall be in full force and effect on and after October 1, 2026.

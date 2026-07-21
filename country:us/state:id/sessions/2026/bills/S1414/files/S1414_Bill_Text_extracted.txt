@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1414
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO RAPE; AMENDING SECTION 18-6104, IDAHO CODE, TO REVISE A PROVI-
+3 SION REGARDING THE PUNISHMENT FOR RAPE AND TO MAKE TECHNICAL CORREC-
+4 TIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 18-6104, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 18-6104. PUNISHMENT FOR RAPE. Rape is punishable by imprisonment in
+9 the state prison not no less than one (1) year five (5) years, and the im-
+10 prisonment may be extended to life in the discretion of the District Judge
+11 district judge, who shall pass sentence.
+12 SECTION 2. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2026.

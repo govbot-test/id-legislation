@@ -1,0 +1,439 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 494, As Amended in the Senate
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO BACKGROUND CHECKS; AMENDING TITLE 56, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW CHAPTER 25, TITLE 56, IDAHO CODE, TO DEFINE TERMS, TO
+4 PROVIDE AUTHORIZATION FOR CERTAIN BACKGROUND CHECKS AND TO ESTABLISH
+5 PROVISIONS REGARDING CONFIDENTIALITY, TO ESTABLISH PROVISIONS RE-
+6 GARDING RULES AND FEES, TO ESTABLISH PROVISIONS REGARDING INDIVIDUALS
+7 SUBJECT TO BACKGROUND CHECKS, TO ESTABLISH PROVISIONS REGARDING APPLI-
+8 CATIONS, TO ESTABLISH PROVISIONS REGARDING SUITABILITY FOR EMPLOYMENT,
+9 AND TO PROVIDE A LIMITATION ON LIABILITY; REPEALING SECTION 56-1004A,
+10 IDAHO CODE, RELATING TO CRIMINAL HISTORY AND BACKGROUND CHECKS; AMEND-
+11 ING SECTION 32-1805, IDAHO CODE, TO REVISE PROVISIONS REGARDING TEMPO-
+12 RARY CARE ASSISTANCE PROGRAM REQUIREMENTS; AMENDING SECTION 15-5-308,
+13 IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AMENDING SECTION
+14 15-5-311, IDAHO CODE, TO PROVIDE CORRECT CODE REFERENCES; AMENDING SEC-
+15 TION 15-5-316, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE AND TO
+16 MAKE A TECHNICAL CORRECTION; AMENDING SECTION 39-1105, IDAHO CODE, TO
+17 PROVIDE A CORRECT CODE REFERENCE; AMENDING SECTION 66-404, IDAHO CODE,
+18 TO PROVIDE CORRECT CODE REFERENCES AND TO MAKE TECHNICAL CORRECTIONS;
+19 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+20 Be It Enacted by the Legislature of the State of Idaho:
+21 SECTION 1. That Title 56, Idaho Code, be, and the same is hereby amended
+22 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+23 ter 25, Title 56, Idaho Code, and to read as follows:
+24 CHAPTER 25
+25 BACKGROUND CHECKS
+26 56-2501. DEFINITIONS. As used in this chapter:
+27 (1) "Applicant" means an individual who has submitted to undergo a
+28 background check pursuant to this chapter.
+29 (2) "Application" means a request for a background check by an individ-
+30 ual required to undergo a background check pursuant to this chapter in which
+31 the applicant fully and completely discloses any convictions, pending crim-
+32 inal charges, or child or adult protection findings, and that authorizes the
+33 department to obtain information relating to the individual from available
+34 databases and sources.
+35 (3) "Background check" means a fingerprint-based check of an individ-
+36 ual's criminal record and other relevant records that may include informa-
+37 tion from the following:
+38 (a) The Idaho state police;
+39 (b) The federal bureau of investigation;
+40 (c) The central registry created in chapter 83, title 18, Idaho Code;
+41 (d) Idaho transportation department driving records;
+
+2
+1 (e) Adult and child protection registries;
+2 (f) The nurse aide registry;
+3 (g) The United States department of health and human services office of
+4 the inspector general's list of excluded individual and entities; and
+5 (h) The records of other states and jurisdictions.
+6 (4) "Clearance" means a document issued by the department as the of-
+7 ficial determination of a completed background check with no disqualifying
+8 crimes or disqualifying records found.
+9 (5) "Denial" means a document issued by the department indicating that
+10 disqualifying crimes or disqualifying records were found but does not re-
+11 lease any criminal history record information as defined in 28 CFR 20.3(d).
+12 (6) "Department" means the department of health and welfare.
+13 (7) "Disqualifying crime" means a crime designated in a rule by the de-
+14 partment that results in an applicant's denial.
+15 (8) "Disqualifying record" means a record that is found by the depart-
+16 ment in the course of a background check that results in the issuance of a de-
+17 nial.
+18 56-2502. BACKGROUND CHECKS AUTHORIZED -- CONFIDENTIALITY. (1) The de-
+19 partment is authorized to conduct background checks of applicants pursuant
+20 to this chapter. To carry out the purposes of this chapter, the department
+21 shall submit fingerprints to the Idaho state police to process background
+22 checks through the state criminal history repository and the federal bureau
+23 of investigation.
+24 (2) The records and information obtained as part of any background
+25 check are confidential and shall not be disclosed by the department except as
+26 permitted under applicable state or federal law.
+27 56-2503. RULES AND FEES. (1) The department is authorized to promul-
+28 gate rules, subject to legislative approval, to carry out the purposes of
+29 this chapter, including rules enumerating disqualifying crimes, relevant
+30 records, and the administrative procedure for challenging a denial.
+31 (2) Except as otherwise provided in law, an applicant is responsible
+32 to pay the nonrefundable fee for any background check conducted pursuant to
+33 this chapter. The department is authorized to establish fees by administra-
+34 tive rule, subject to legislative approval, to carry out the purposes of this
+35 chapter.
+36 56-2504. INDIVIDUALS SUBJECT TO BACKGROUND CHECK. (1) The following
+37 individuals or classes of individuals, license applicants, certificate
+38 holders, members of vocations or professions, position holders, and any
+39 employees, contractors, agents, or volunteers for one of the listed entities
+40 or programs with direct access to children, elderly, or vulnerable adults
+41 shall be subject to a background check pursuant to this chapter:
+42 (a) Adoptive parent applicants under chapter 15, title 16, Idaho Code;
+43 (b) Children's agencies, children's residential care facilities,
+44 children's therapeutic outdoor programs, and licensed foster care un-
+45 der chapter 12, title 39, Idaho Code;
+46 (c) Licensed daycare facilities under chapter 11, title 39, Idaho Code;
+47 (d) Citizen review panel members under section 16-1647, Idaho Code;
+
+3
+1 (e) The Idaho child care program under department rule;
+2 (f) Certified family homes under chapter 35, title 39, Idaho Code;
+3 (g) Home health agencies;
+4 (h) Personal assistance agencies;
+5 (i) Personal care services providers;
+6 (j) Residential care or assisted living facilities under chapter 33,
+7 title 39, Idaho Code;
+8 (k) Skilled nursing facilities and intermediate care facilities for
+9 individuals with intellectual disabilities under chapter 13, title 39,
+10 Idaho Code;
+11 (l) Temporary caregivers under chapter 18, title 32, Idaho Code;
+12 (m) Medicaid providers who are categorized by the department as high-
+13 risk pursuant to 42 CFR 455.450;
+14 (n) Home-based and community-based services;
+15 (o) The Idaho behavioral health plan under department rule;
+16 (p) Children's mental health services under chapter 24, title 16, Idaho
+17 Code;
+18 (q) Substance use disorder services under chapter 3, title 39, Idaho
+19 Code;
+20 (r) Adult behavioral health services under chapter 31, title 39, Idaho
+21 Code;
+22 (s) Developmental disabilities agencies;
+23 (t) Service coordinators and paraprofessionals under department rule;
+24 (u) Support brokers and community support workers under department
+25 rule;
+26 (v) Contracted nonemergency medical transport providers;
+27 (w) Emergency medical services personnel licensed under chapter 9, ti-
+28 tle 46, Idaho Code;
+29 (x) Court-appointed guardians and conservators under chapter 12, title
+30 15, Idaho Code, or chapter 4, title 66, Idaho Code;
+31 (y) Designated examiners and dispositioners under chapter 3, title 66,
+32 Idaho Code; and
+33 (z) Any other specific categories of individuals or classes of indi-
+34 viduals for whom the department requires a background check pursuant to
+35 Idaho law.
+36 (2) Employees, contractors, and volunteers of the department who re-
+37 quire a background check include those who:
+38 (a) Provide direct care services or have access to children, elderly,
+39 or vulnerable adults;
+40 (b) Are permitted access to federal tax information;
+41 (c) Conduct background checks; or
+42 (d) Are permitted access to confidential information or systems within
+43 the scope of their duties while investigating fraud, waste, or abuse.
+44 56-2505. APPLICATION. The department shall conduct a finger-
+45 print-based background check on any applicant required to undergo a back-
+46 ground check pursuant to this chapter who submits an application and pays
+47 the accompanying fee. An applicant must disclose any pertinent information
+48 regarding disqualifying crimes or disqualifying records.
+
+4
+1 56-2506. SUITABILITY FOR EMPLOYMENT. An applicant's clearance
+2 through a background check pursuant to this chapter is not a determination
+3 of suitability for employment.
+4 56-2507. LIMITATION ON LIABILITY. The department or an employer that
+5 acts in reasonable reliance on the clearance determination of a background
+6 check of an applicant in making an employment decision is immune from liabil-
+7 ity for that decision when it is based on such clearance determination.
+8 SECTION 2. That Section 56-1004A, Idaho Code, be, and the same is hereby
+9 repealed.
+10 SECTION 3. That Section 32-1805, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 32-1805. TEMPORARY CARE ASSISTANCE PROGRAM REQUIREMENTS. (1) A For
+13 a temporary care assistance program, the department of health and welfare
+14 shall check against the state's sex offender registry operated by the Idaho
+15 state police and against the national sex offender public website operated
+16 by the United States department of justice that checks names and addresses
+17 in the registries before allowing someone to become a temporary caregiver
+18 within the program's service. The process must include a criminal history
+19 and background check conducted by the department of health and welfare
+20 comparable to the background check processed for foster parents. The back-
+21 ground check shall be fingerprint-based, requiring that the fingerprints
+22 of temporary caregivers be submitted to the federal bureau of investigation
+23 and the Idaho state police bureau of criminal identification to complete a
+24 national criminal history background check., pursuant to chapter 25, title
+25 56, Idaho Code, which shall be conducted in the same manner as background
+26 checks for foster parents. The background check shall be fingerprint-based
+27 and shall require that the fingerprints of temporary caregivers be submitted
+28 to the Idaho state police to process the background check through the state
+29 criminal history repository and the federal bureau of investigation for
+30 a national criminal history search. The department of health and welfare
+31 shall not charge a fee for background checks required by this section.
+32 (2) The temporary caregiver's residence must be inspected annually by
+33 the affiliated temporary care assistance program.
+34 (3) The temporary care assistance program must disclose to any parent
+35 or guardian using its services that any delegation of parental rights and re-
+36 sponsibilities shall be made to a temporary caregiver, not to the temporary
+37 care assistance program itself.
+38 SECTION 4. That Section 15-5-308, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 15-5-308. VISITOR IN GUARDIANSHIP PROCEEDING. (1) A visitor is, with
+41 respect to guardianship proceedings, an individual with no personal inter-
+42 est in the proceedings and who meets the qualifications identified in Idaho
+43 supreme court rule. A visitor may either be an employee of or appointed by
+44 the court. If appointed, a visitor becomes an officer of the court.
+
+5
+1 (2) A visitor must report to the court on the status of the person pro-
+2 posed to be under guardianship. All reports must be under oath or affirma-
+3 tion and must comply with Idaho supreme court rules.
+4 (3) A visitor shall be personally immune from any liability for acts,
+5 omissions or errors in the same manner as if such visitor were a volunteer or
+6 director under the provisions of section 6-1605, Idaho Code.
+7 (4) A visitor cannot serve as guardian ad litem. The visitor and the
+8 guardian ad litem for the person proposed to be under guardianship may not be
+9 members or employees of the same entity.
+10 (5) The visitor may request to order a criminal history and background
+11 check at the proposed guardian's expense on any individual who resides in or
+12 may frequent the residence of the person proposed to be under guardianship.
+13 Any such check shall be conducted pursuant to section 56-1004A(2) and (3)
+14 chapter 25, title 56, Idaho Code.
+15 SECTION 5. That Section 15-5-311, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 15-5-311. WHO MAY BE GUARDIAN -- PRIORITIES. (1) Any competent person,
+18 except as set forth hereafter, or a suitable institution may be appointed
+19 guardian of an incapacitated person.
+20 (2) The person preferred by the incapacitated person shall be appointed
+21 guardian unless good cause be shown why appointment of such person is con-
+22 trary to the best interests of the incapacitated person. If the incapaci-
+23 tated person is unable to express a preference, any previous expression, in-
+24 cluding a durable power of attorney for health care, may be considered by the
+25 court.
+26 (3) Persons who are not disqualified have priority for appointment as
+27 guardian in the following order:
+28 (a) The person preferred by the incapacitated person. The court shall
+29 always consider the wishes expressed by an incapacitated person as to
+30 who shall be appointed guardian;
+31 (b) The person(s) nominated as health care agent in a durable power of
+32 attorney for health care by the incapacitated person, in the order of
+33 priority set forth in such power;
+34 (c) The spouse of the incapacitated person;
+35 (d) An adult child of the incapacitated person;
+36 (e) A parent of the incapacitated person, including a person nominated
+37 by will or other writing signed by a deceased parent;
+38 (f) Any relative of the incapacitated person with whom he has resided
+39 for more than six (6) months prior to the filing of the petition;
+40 (g) A person nominated by the person who is caring for him or paying ben-
+41 efits to him.
+42 (4) No convicted felon, or person whose residence is the incapacitated
+43 person's proposed residence or will be frequented by the incapacitated per-
+44 son and is frequented by a convicted felon, shall be appointed as a guardian
+45 of an incapacitated person unless the court finds by clear and convincing ev-
+46 idence that such appointment is in the best interests of the incapacitated
+47 person.
+48 (5) No individual shall be appointed as guardian of an incapacitated
+49 person unless all of the following first occurs:
+
+6
+1 (a) The proposed guardian has submitted to and paid for a criminal his-
+2 tory and background check conducted pursuant to section 56-1004A(2) and
+3 (3) chapter 25, title 56, Idaho Code;
+4 (b) Pursuant to an order of the court so requiring, any individual who
+5 resides in the incapacitated person's proposed residence has submit-
+6 ted, at the proposed guardian's expense, to a criminal history and back-
+7 ground check conducted pursuant to section 56-1004A(2) and (3) chapter
+8 25, title 56, Idaho Code;
+9 (c) The findings of such criminal history and background checks have
+10 been made available to the visitor and guardian ad litem by the depart-
+11 ment of health and welfare; and
+12 (d) The proposed guardian provided a report of his or her civil judg-
+13 ments and bankruptcies to the visitor, the guardian ad litem and all
+14 others entitled to notice of the guardianship proceeding pursuant to
+15 section 15-5-309, Idaho Code.
+16 (6) The provisions of paragraphs (a) and (d) of subsection (5) of this
+17 section shall not apply to an institution nor to a legal or commercial en-
+18 tity.
+19 (7) Each proposed guardian and each appointed guardian shall imme-
+20 diately report any change in his or her criminal history and any material
+21 change in the information required by subsection (5) of this section to the
+22 visitor, guardian ad litem, all others entitled to notice of the guardian-
+23 ship proceeding pursuant to section 15-5-309, Idaho Code, and to the court.
+24 SECTION 6. That Section 15-5-316, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 15-5-316. GUARDIAN AD LITEM -- RIGHTS AND POWERS. The guardian ad
+27 litem has the following rights and powers to fulfill the duties set forth in
+28 section 15-5-315, Idaho Code, which shall continue until the resignation of
+29 the guardian ad litem or until the court removes the guardian ad litem or no
+30 longer has jurisdiction, whichever occurs first.
+31 (1) The guardian ad litem shall have the right and power to file plead-
+32 ings, motions, memoranda and briefs on behalf of the ward, and to have all of
+33 the rights of the ward, whether conferred by statute, rule of court, or oth-
+34 erwise.
+35 (2) All parties to any proceeding under this chapter shall promptly no-
+36 tify the guardian ad litem, and the guardian's attorney, if any, of all hear-
+37 ings, staff hearings or meetings, investigations, depositions, and signifi-
+38 cant changes of circumstances of the ward.
+39 (3) Except to the extent prohibited or regulated by federal law, upon
+40 presentation of a copy of the order appointing the guardian ad litem, any
+41 person or agency, including, without limitation, any hospital, school or-
+42 ganization, department of health and welfare, doctor, nurse or other health
+43 care provider, psychologist, psychiatrist, police department, or mental
+44 health clinic, shall permit the guardian ad litem to inspect and copy perti-
+45 nent records relating to the ward necessary for the proceeding for which the
+46 guardian ad litem has been appointed.
+47 (4) The guardian ad litem may request, and the court may order whether
+48 in response to such request or otherwise, a criminal history and background
+49 check to be conducted at the proposed guardian's expense on any individual
+
+7
+1 who resides in the ward's proposed residence. Any such check shall be con-
+2 ducted pursuant to section 56-1004A(2) and (3) chapter 25, title 56, Idaho
+3 Code.
+4 SECTION 7. That Section 39-1105, Idaho Code, be, and the same is hereby
+5 amended to read as follows:
+6 39-1105. CRIMINAL HISTORY CHECKS. (1) All owners, operators, and em-
+7 ployees of a daycare facility who have direct contact with children and all
+8 other individuals thirteen (13) years of age or older who have unsupervised
+9 direct contact with children or are regularly on the premises of a daycare
+10 facility shall complete and pass a criminal history and background check in
+11 conformance with section 56-1004A chapter 25, title 56, Idaho Code, at least
+12 every five (5) years.
+13 (2) Criminal history checks on those persons under eighteen (18) years
+14 of age shall include a check of the juvenile justice records of adjudications
+15 of the magistrate division of the district court, county probation services
+16 and department records as authorized by the minor and his parent or guardian.
+17 (3) Notwithstanding the provisions of section 39-1103, Idaho Code,
+18 which provide for exemption from the provisions of this chapter, any per-
+19 son who owns, operates or is employed by a private school for educational
+20 purposes for children four (4) through six (6) years of age or a private
+21 kindergarten shall comply with the provisions of this section.
+22 SECTION 8. That Section 66-404, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 66-404. PROCEEDINGS FOR APPOINTMENT OF GUARDIANS AND CONSERVA-
+25 TORS. (1) A person with a developmental disability or any person interested
+26 in his welfare may petition for a finding of legal disability or partial le-
+27 gal disability and appointment of a guardian or co-guardians, or conservator
+28 or co-conservators, or both.
+29 (2) The petition shall:
+30 (a) State the names and addresses of the persons entitled to notice un-
+31 der subsection (4) of this section;
+32 (b) Describe the impairments showing the respondent is developmentally
+33 disabled, the respondent's ability to receive, evaluate and communi-
+34 cate information, and the respondent's ability to manage financial re-
+35 sources and meet essential requirements for physical health or safety;
+36 (c) State the nature and scope of guardianship and/or conservatorship
+37 services sought;
+38 (d) Describe the respondent's financial condition, including signif-
+39 icant assets, income and ability to pay for the costs of judicial pro-
+40 ceedings; and
+41 (e) State if the appointment is made by will pursuant to section 15-5-
+42 301, Idaho Code, and the name(s) and address(es) of the person(s) named
+43 in the will to be guardian.
+44 (3) Upon filing of a petition, the court shall set a date for a hearing,
+45 appoint an attorney to represent the respondent in the proceedings unless
+46 the respondent has an attorney, and authorize an evaluation committee to ex-
+47 amine the respondent, interview the proposed guardians and/or conservators
+
+8
+1 and report to the court in writing. All reports shall be under oath or affir-
+2 mation and shall comply with Idaho supreme court rules.
+3 (4) Notice of the time and place of the hearing on the petition together
+4 with a copy of the petition shall be served no less than fourteen (14) days
+5 before the hearing on:
+6 (a) The respondent;
+7 (b) The respondent's spouse, parents and adult children, or, if none,
+8 the respondent's closest relative, if any can be found; and
+9 (c) Any person who is currently serving as guardian, or conservator or
+10 who is providing care for the respondent.
+11 Notice shall be served personally if the person to be served can be found
+12 within the state. If the person to be served cannot be found within the
+13 state, service shall be accomplished by registered mail to such person's
+14 last known address.
+15 (5) The respondent is entitled to be present at the hearing in person,
+16 to present evidence, to call and cross-examine witnesses, and to see or hear
+17 all evidence in the proceeding.
+18 (6) At the hearing, the court shall:
+19 (a) Determine whether the respondent has a developmental disability;
+20 (b) Evaluate the respondent's ability to meet essential requirements
+21 for physical health or safety and manage financial resources;
+22 (c) Evaluate the ability of the proposed guardian and/or conservator
+23 to act in the respondent's best interests to manage the respondent's fi-
+24 nancial resources and meet essential requirements for the respondent's
+25 physical health or safety;
+26 (d) Determine the nature and scope of guardianship or conservatorship
+27 services necessary to protect and promote the respondent's well-being;
+28 (e) Evaluate the ability of the respondent or those legally responsible
+29 to pay the costs associated with the judicial proceedings and fix re-
+30 sponsibility therefor; and
+31 (f)(i) As an alternative to appointing one (1) guardian or
+32 one (1) conservator, the court may appoint no more than two (2)
+33 co-guardians or no more than two (2) co-conservators if the court
+34 finds:
+35 1. The appointment of co-guardians or co-conservators will
+36 best serve the interests of the person with a developmental
+37 disability; and
+38 2. The persons to be appointed as co-guardians or co-con-
+39 servators will work together cooperatively to serve the best
+40 interests of the person with a developmental disability.
+41 (ii) The parents of a person with a developmental disability
+42 shall have preference over all other persons for appointment as
+43 co-guardians or co-conservators, unless the court finds that the
+44 parents are unwilling to serve as co-guardians or co-conserva-
+45 tors, or are not capable of adequately serving the best interests
+46 of the person with a developmental disability; and
+47 (iii) If the court appoints co-guardians or co-conservators, the
+48 court shall also determine whether the co-guardians or co-conser-
+49 vators:
+50 1. May act independently;
+
+9
+1 2. May act independently but must act jointly in specified
+2 matters; or
+3 3. Must act jointly.
+4 The determination by the court must be stated in the order of appointment and
+5 in the letters of guardianship or conservatorship.
+6 (7) No individual shall be appointed as guardian or conservator of an
+7 incapacitated person unless all of the following first occurs:
+8 (a) The proposed guardian or conservator has submitted to and paid for
+9 a criminal history and background check conducted pursuant to section
+10 56-1004A(2) and (3) chapter 25, title 56, Idaho Code;
+11 (b) In the case of a petition for guardianship and pursuant to an order
+12 of the court so requiring, any individual who resides in the inca-
+13 pacitated person's proposed residence has submitted, at the proposed
+14 guardian's expense, to a criminal history and background check con-
+15 ducted pursuant to section 56-1004A(2) and (3) chapter 25, title 56,
+16 Idaho Code;
+17 (c) The findings of such criminal history and background checks have
+18 been made available to the evaluation committee by the department of
+19 health and welfare; and
+20 (d) The proposed guardian or conservator provided a report of his or
+21 her civil judgments and bankruptcies to the evaluation committee and
+22 all others entitled to notice of the guardianship or conservatorship
+23 proceeding pursuant to subsection (4) of this section.
+24 (8) The provisions of paragraphs (a) and (d) of subsection (7) of this
+25 section shall not apply to an institution nor or to a legal or commercial en-
+26 tity.
+27 (9) Each proposed guardian and conservator and each appointed guardian
+28 and conservator shall immediately report any change in his or her criminal
+29 history and any material change in the information required by subsection
+30 (7) of this section to the evaluation committee, to all others entitled to
+31 notice of the guardianship or conservatorship proceeding pursuant to sub-
+32 section (4) of this section and to the court.
+33 SECTION 9. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2026.

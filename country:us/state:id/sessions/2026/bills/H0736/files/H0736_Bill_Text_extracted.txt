@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 736
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 34-903, IDAHO CODE, TO REVISE PROVI-
+3 SIONS REGARDING THE SECRETARY OF STATE TO PRESCRIBE FORM AND CONTENTS OF
+4 ALL BALLOTS AND RELATED DOCUMENTS; AND DECLARING AN EMERGENCY AND PRO-
+5 VIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 34-903, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 34-903. SECRETARY OF STATE TO PRESCRIBE FORM AND CONTENTS OF ALL BAL-
+10 LOTS AND RELATED DOCUMENTS. (1) The secretary of state shall, in a manner
+11 consistent with the election laws of this state, prescribe the form for all
+12 ballots, absentee ballots, diagrams, sample ballots, voting machine labels
+13 or booklets, certificates, notices, declarations of candidacy, affidavits
+14 of all types, lists, applications, poll books, tally sheets, registers,
+15 rosters, statements, and abstracts if required by the election laws of this
+16 state.
+17 (2) The secretary of state shall prescribe the arrangement of the mat-
+18 ter to be printed on each kind of ballot and label, including:
+19 (a) The placement and listing of all offices, candidates, and issues
+20 upon which voting is statewide, which shall be uniform throughout the
+21 state.; and
+22 (b) The listing of all other candidates required to file with him, and
+23 the order of listing all offices, candidates, and issues upon which vot-
+24 ing is not statewide.
+25 (3) The names of candidates for legislative or special district offices
+26 shall be printed only on the ballots furnished to voters of such district.
+27 (4)(a) The order of the names of candidates that appear on election bal-
+28 lots for federal, state, county, and city local offices shall be rotated
+29 in the manner determined by the secretary of state for any political en-
+30 tity whose number of registered voters at the last general election ex-
+31 ceeded twenty-five thousand (25,000).
+32 (b) The names of candidates that appear on election ballots for other
+33 offices shall be rotated in the manner determined by the secretary of
+34 state for any political entity whose number of registered voters at the
+35 last general election exceeds one hundred thousand (100,000).
+36 (c) (b) The order of names of candidates for office in all other elec-
+37 tions shall be determined by applying the first letter of each candi-
+38 date's last name to a random alphabet selected prior to each election by
+39 the secretary of state.
+40 (5) No candidate's name may appear on a ballot for more than one (1) par-
+41 tisan office or one (1) judicial office, except that a candidate for precinct
+42 committeeman may seek one (1) additional office upon the same ballot. The
+
+2
+1 provisions of this subsection shall not apply to the election of electors of
+2 president and vice president of the United States.
+3 SECTION 2. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after
+5 July 1, 2026.

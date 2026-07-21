@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 541
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO ENTICING A CHILD; AMENDING SECTION 18-1509A, IDAHO CODE, TO RE-
+3 VISE A PROVISION REGARDING ENTICING A CHILD THROUGH USE OF THE INTER-
+4 NET OR OTHER COMMUNICATION DEVICE, TO DEFINE A TERM, AND TO MAKE TECHNI-
+5 CAL CORRECTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 18-1509A, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 18-1509A. ENTICING A CHILD THROUGH USE OF THE INTERNET OR OTHER
+11 COMMUNICATION DEVICE -- PENALTIES -- JURISDICTION. (1) A person aged eigh-
+12 teen (18) years of age or older shall be guilty of a felony if such person
+13 knowingly uses the internet or any device that provides transmission of
+14 messages, signals, facsimiles, video images, or other communication to
+15 solicit, seduce, lure, persuade, or entice by words or actions, or both, a
+16 person under the age of sixteen (16) years child or a person the defendant
+17 believes to be under the age of sixteen (16) years a child to engage in any
+18 sexual act with or against the person where such act would be a violation of
+19 chapter 15, 61, or 66, title 18, Idaho Code.
+20 (2) Any person who is convicted of a violation of this section shall be
+21 punished by imprisonment in the state prison for a period not to exceed fif-
+22 teen (15) years.
+23 (3) It shall not constitute a defense against any charge or violation of
+24 this section that a law enforcement officer, peace officer, or other person
+25 working at the direction of law enforcement was involved in the detection or
+26 investigation of a violation of this section.
+27 (4) In a prosecution under this section, it is not necessary for the
+28 prosecution to show that an act described in chapter 15, 61, or 66, title 18,
+29 Idaho Code, actually occurred.
+30 (5) The offense is committed in the state of Idaho for purposes of de-
+31 termining jurisdiction if the transmission that constitutes the offense ei-
+32 ther originates in or is received in the state of Idaho.
+33 (6) As used in this section, "child" means:
+34 (a) A person under sixteen (16) years of age; or
+35 (b) A person who is sixteen (16) or seventeen (17) years of age when the
+36 perpetrator is at least five (5) years of age older.
+37 SECTION 2. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 925
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE JUDICIAL BRANCH; APPROPRIATING ADDI-
+3 TIONAL MONEYS TO THE JUDICIAL BRANCH FOR FISCAL YEAR 2027; AND DECLARING
+4 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. In addition to any other appropriation provided by law,
+7 there is hereby appropriated to the Judicial Branch the following amounts to
+8 be expended according to the designated programs and expense classes from
+9 the listed funds for the period July 1, 2026, through June 30, 2027:
+10 FOR
+11 FOR TRUSTEE AND
+12 OPERATING BENEFIT
+13 EXPENDITURES PAYMENTS TOTAL
+14 I. COURT OPERATIONS:
+15 A. DISTRICT COURTS:
+16 FROM:
+17 Court Technology
+18 Fund $2,000,000 $2,000,000
+19 DrugCourt, MentalHealthCourtandFamilyCourtServices
+20 Fund 0 $700,000 700,000
+21 TOTAL $2,000,000 $700,000 $2,700,000
+22 B. MAGISTRATE DIVISION:
+23 FROM:
+24 Senior Magistrate Judges
+25 Fund $800,700 $800,700
+26 C. COMMUNITY-BASED SUBSTANCE USE TREATMENT SERVICES:
+27 FROM:
+28 Substance Abuse Treatment
+29 Fund $400,000 $400,000
+30 DIVISION TOTAL $2,800,700 $1,100,000 $3,900,700
+
+2
+1 FOR
+2 FOR TRUSTEE AND
+3 OPERATING BENEFIT
+4 EXPENDITURES PAYMENTS TOTAL
+5 II. GUARDIAN AD LITEM PROGRAM:
+6 FROM:
+7 General
+8 Fund $165,300 $165,300
+9 GRAND TOTAL $2,800,700 $1,265,300 $4,066,000
+10 SECTION 2. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2026.

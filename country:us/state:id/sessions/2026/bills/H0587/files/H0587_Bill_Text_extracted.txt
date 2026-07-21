@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 587
+BY RESOURCES AND CONSERVATION COMMITTEE
+1 AN ACT
+2 RELATING TO RANGELAND IMPROVEMENT; AMENDING SECTION 58-1504, IDAHO CODE,
+3 TO ALLOW FOR CONTINUOUS APPROPRIATION OF THE RANGELAND IMPROVEMENT
+4 ACCOUNT AND TO PROVIDE FOR REPORTING REQUIREMENTS; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 58-1504, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 58-1504. RANGELAND IMPROVEMENT ACCOUNT -- ADMINISTERED BY DEPART-
+10 MENT. (1) There is hereby established in the state treasury an account to
+11 be known as the rangeland improvement account. Moneys in the rangeland im-
+12 provement account are hereby continuously appropriated to be used solely for
+13 the purposes provided by this chapter.
+14 (2) The account shall consist of moneys received by the state from
+15 sales, leases, fees, grants, or appropriations from the state or federal
+16 government, and grants from private foundations. Interest earned on moneys
+17 in the account shall be retained in the account.
+18 (3) The department shall administer the account and distribute account
+19 moneys in accordance with section 58-1505, Idaho Code.
+20 (4) The department shall provide an annual report to the joint finance-
+21 appropriations committee, senate resources and environment committee, and
+22 house resources and conservation committee. The report shall provide for
+23 all sources and uses of the moneys in the rangeland improvement account for
+24 the preceding fiscal year.
+25 SECTION 2. An emergency existing therefor, which emergency is hereby
+26 declared to exist, this act shall be in full force and effect on and after
+27 July 1, 2026.

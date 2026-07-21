@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 695
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO FORCIBLE ENTRY AND UNLAWFUL DETAINER; AMENDING SECTION 6-310A,
+3 IDAHO CODE, TO REVISE A PROVISION REGARDING A FEE FOR SERVICE; AND
+4 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 6-310A, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 6-310A. LIMITED ALTERNATIVE REMEDY TO REMOVE UNAUTHORIZED PERSONS
+9 FROM RESIDENTIAL REAL PROPERTY. (1) The legislature finds that the right
+10 to exclude others from entering, and the right to direct others to immedi-
+11 ately vacate, residential real property are the most important real property
+12 rights. The legislature further finds that existing remedies regarding
+13 unauthorized persons who unlawfully remain on residential real property
+14 fail to adequately protect the rights of the property owner and fail to ad-
+15 equately discourage theft and vandalism. The intent of this section is to
+16 quickly restore possession of residential real property to the lawful owner
+17 of the property when the property is being unlawfully occupied and to thereby
+18 preserve property rights while limiting the opportunity for criminal activ-
+19 ity.
+20 (2) A property owner or the owner's authorized agent may request from
+21 the sheriff of the county in which the property is located the immediate
+22 removal of a person or persons unlawfully occupying a residential dwelling
+23 pursuant to this section if all of the following conditions are met:
+24 (a) The requesting person is the property owner or authorized agent of
+25 the property owner;
+26 (b) The real property that is being occupied includes a residential
+27 dwelling;
+28 (c) An unauthorized person or persons have unlawfully entered and re-
+29 main or continue to reside on the property owner's property;
+30 (d) The real property was not open to members of the public at the time
+31 the unauthorized person or persons entered;
+32 (e) The property owner has directed the unauthorized person to leave
+33 the property;
+34 (f) The unauthorized person or persons are not current or former ten-
+35 ants pursuant to a written or oral rental agreement authorized by the
+36 property owner;
+37 (g) The unauthorized person or persons are not immediate family members
+38 of the property owner; and
+39 (h) There is no pending litigation related to the real property between
+40 the property owner and any known unauthorized person.
+41 (3) To request the immediate removal of an unlawful occupant of a res-
+42 idential dwelling, the property owner or the owner's authorized agent must
+
+2
+1 submit a complaint by presenting a completed and verified "Complaint to Re-
+2 move Persons Unlawfully Occupying Residential Real Property" to the sheriff
+3 of the county in which the real property is located. The submitted complaint
+4 must be in substantially the following form:
+5 COMPLAINT TO REMOVE PERSONS UNLAWFULLY OCCUPYING
+6 RESIDENTIAL REAL PROPERTY
+7 I, the owner or authorized agent of the owner of the real property
+8 located at......, declare under the penalty of perjury that (ini-
+9 tial each box):
+10 1..... I am the owner of the real property or the authorized agent
+11 of the owner of the real property.
+12 2..... I purchased the property on.....
+13 3..... The real property is a residential dwelling.
+14 4..... An unauthorized person or persons have unlawfully entered
+15 and are remaining or residing unlawfully on the real property.
+16 5..... The real property was not open to members of the public at
+17 the time the unauthorized person or persons entered.
+18 6..... I have directed the unauthorized person or persons to leave
+19 the real property, but they have not done so.
+20 7..... The person or persons are not current or former tenants pur-
+21 suant to any valid lease authorized by the property owner, and any
+22 lease that may be produced by an occupant is fraudulent.
+23 8..... The unauthorized person or persons sought to be removed are
+24 not owners or co-owners of the property and have not been listed on
+25 the title to the property unless the person or persons have engaged
+26 in title fraud.
+27 9..... The unauthorized person or persons are not immediate family
+28 members of the property owner.
+29 10..... There is no litigation related to the real property pending
+30 between the property owner and any person sought to be removed.
+31 11..... I understand that a person or persons removed from the
+32 property pursuant to this procedure may bring a cause of action
+33 against me for any false statements made in this complaint, or for
+34 wrongfully using this procedure, and that as a result of such action
+35 I may be held liable for actual damages, penalties, costs, and rea-
+36 sonable attorney's fees.
+37 12..... I am requesting the sheriff to immediately remove the unau-
+38 thorized person or persons from the residential property.
+39 13..... A copy of my valid government-issued identification is at-
+40 tached, or I am an agent of the property owner, and documents evi-
+41 dencing my authority to act on the property owner's behalf are at-
+42 tached.
+43 I HAVE READ EVERY STATEMENT MADE IN THIS PETITION AND EACH STATEMENT
+44 IS TRUE AND CORRECT. I UNDERSTAND THAT THE STATEMENTS MADE IN THIS
+45 PETITION ARE BEING MADE UNDER PENALTY OF PERJURY.
+46 ...(Signature of Property Owner or Agent of Owner)...
+47 (4) Upon receipt of the complaint, the sheriff shall verify that the
+48 person submitting the complaint is the record owner of the real property or
+49 the authorized agent of the owner and appears otherwise entitled to relief
+50 pursuant to the provisions of this section. If verified, the sheriff shall,
+
+3
+1 without delay, serve a notice to immediately vacate on all the unlawful occu-
+2 pants and shall put the owner in possession of the real property. Service may
+3 be accomplished by hand delivery of the notice to an occupant or by posting
+4 the notice on the front door or entrance of the dwelling. The sheriff shall
+5 also attempt to verify the identities of all persons occupying the dwelling
+6 and note the identities on the return of service. If appropriate, the sher-
+7 iff may arrest any person found in the dwelling for trespass, outstanding
+8 warrants, or any other legal cause.
+9 (5) The sheriff is entitled to the same fee for service of the notice
+10 to immediately vacate as if the sheriff were serving a writ of possession
+11 restitution. After the sheriff serves the notice to immediately vacate, the
+12 property owner or authorized agent may request that the sheriff stand by to
+13 keep the peace while the property owner or agent of the owner changes the
+14 locks and removes the personal property of the unlawful occupants from the
+15 premises to or near the property line. When such a request is made, the sher-
+16 iff may charge a reasonable hourly rate, and the person requesting the sher-
+17 iff to stand by and keep the peace is responsible for paying the reasonable
+18 hourly rate set by the sheriff. The sheriff is not liable to the unlawful oc-
+19 cupant or any other party for loss, destruction, or damage of property. The
+20 property owner or the owner's authorized agent is not liable to an unlawful
+21 occupant or any other party for the loss, destruction, or damage to the per-
+22 sonal property unless the removal was wrongful.
+23 (6) A person may bring a civil cause of action for wrongful removal un-
+24 der this section. A person harmed by a wrongful removal under this section
+25 may be restored to possession of the real property and may recover actual
+26 costs and damages incurred, statutory damages equal to triple the fair mar-
+27 ket rent of the dwelling, court costs, and reasonable attorney's fees. The
+28 court shall advance the cause on the calendar.
+29 (7) The provisions of this section shall not limit the rights of a prop-
+30 erty owner or limit the authority of a law enforcement officer to arrest an
+31 unlawful occupant for trespassing, vandalism, theft, or other crimes.
+32 SECTION 2. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after
+34 July 1, 2026.

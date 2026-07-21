@@ -1,0 +1,340 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1226
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO SAMPLE COLLECTIONS; AMENDING CHAPTER 25, TITLE 19, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 19-2512A, IDAHO CODE, TO PROVIDE FOR
+4 THE COLLECTION OF A DNA SAMPLE AND THUMBPRINT IMPRESSION IN CERTAIN IN-
+5 STANCES; AMENDING SECTION 19-5501, IDAHO CODE, TO REVISE LEGISLATIVE
+6 FINDINGS; AMENDING SECTION 19-5502, IDAHO CODE, TO DEFINE A TERM AND TO
+7 MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 19-5506, IDAHO CODE, TO
+8 REVISE PROVISIONS REGARDING OFFENDERS SUBJECT TO SAMPLE COLLECTION;
+9 REPEALING SECTION 19-5507, IDAHO CODE, RELATING TO THE RESPONSIBILITY
+10 FOR, TIMING OF, AND SITE FOR A SAMPLE COLLECTION; AMENDING CHAPTER 55,
+11 TITLE 19, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 19-5507, IDAHO
+12 CODE, TO ESTABLISH PROVISIONS REGARDING THE RESPONSIBILITY FOR, TIMING
+13 OF, AND SITE FOR A SAMPLE COLLECTION; REPEALING SECTION 19-5510, IDAHO
+14 CODE, RELATING TO APPLICABILITY; AND DECLARING AN EMERGENCY AND PROVID-
+15 ING AN EFFECTIVE DATE.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. That Chapter 25, Title 19, Idaho Code, be, and the same is
+18 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+19 ignated as Section 19-2512A, Idaho Code, and to read as follows:
+20 19-2512A. COLLECTION OF DNA SAMPLE AND THUMBPRINT IMPRESSION. At the
+21 time of a guilty plea, conviction, or sentencing, the court shall order the
+22 collection of a DNA sample and thumbprint impression from any person who is
+23 convicted of, or pleads guilty to, any serious crime, as defined in section
+24 19-5502(10), Idaho Code, according to the process set forth in this chapter.
+25 SECTION 2. That Section 19-5501, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 19-5501. LEGISLATIVE FINDINGS -- STATEMENT OF PURPOSE. The legis-
+28 lature finds that DNA (deoxyribonucleic acid) identification analysis is
+29 a useful law enforcement tool for identifying and prosecuting felony of-
+30 fenders who have committed serious crimes, as defined in this chapter. The
+31 legislature further finds that it is in the best interest of justice and the
+32 protection of the public that the collection of DNA samples and thumbprint
+33 impressions from qualifying offenders takes place as expeditiously as pos-
+34 sible following a conviction or guilty plea and that the duties of those
+35 responsible for collection be clearly defined. The purpose of this act is
+36 to assist federal, state, and local criminal justice and law enforcement
+37 agencies within and outside the state in the detection and prosecution of
+38 individuals responsible for felony such serious crimes, as well as in the
+39 exclusion of suspects who are being investigated for such crimes.
+
+2
+1 SECTION 3. That Section 19-5502, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 19-5502. DEFINITIONS. (1) "CODIS" means the federal bureau of inves-
+4 tigation's combined DNA index system that allows the storage and exchange of
+5 DNA records submitted by state and local forensic laboratories.
+6 (2) "Director" means the director of the Idaho state police.
+7 (3) "DNA" means deoxyribonucleic acid.
+8 (4) "DNA analysis" means the scientific test of a DNA sample for the
+9 purpose of obtaining a DNA profile.
+10 (5) "DNA profile" means the list of one (1) or more genetic types deter-
+11 mined for an individual based on variations in DNA sequence.
+12 (6) "DNA record" means DNA information stored in the statewide DNA
+13 database system of the bureau of forensic services or CODIS and includes
+14 information commonly referred to as a DNA profile.
+15 (7) "DNA sample" means a body fluid or tissue sample provided by any
+16 person convicted of a felony crime or any body fluid or tissue sample submit-
+17 ted to the statewide DNA database system for analysis pursuant to a criminal
+18 investigation or missing person investigation.
+19 (8) "Forensic laboratory" means the bureau of forensic services of the
+20 Idaho state police.
+21 (9) "Law enforcement purpose" means to assist federal, state, or local
+22 criminal justice and law enforcement agencies within and outside the state
+23 of Idaho in identification or prosecution of felony crimes or other crimes
+24 and the identification and location of missing and unidentified persons.
+25 (10) "Serious crime" means, for purposes of this chapter, any felony
+26 crime; the attempt to commit any felony crime; any crime that requires
+27 sex offender registration pursuant to sections 18-8304 and 18-8410, Idaho
+28 Code; misdemeanor domestic violence (18-918, Idaho Code); or sexual battery
+29 (18-924, Idaho Code).
+30 (10) (11) "Statewide DNA databank" or "databank" means the state repos-
+31 itory of DNA samples collected under this chapter and administered by the
+32 Idaho bureau of forensic services.
+33 (11) (12) "Statewide DNA database system" or "database" means the DNA
+34 record system administered by the Idaho bureau of forensic services.
+35 SECTION 4. That Section 19-5506, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 19-5506. SCOPE OF LAW -- OFFENDERS SUBJECT TO SAMPLE COLLECTION --
+38 EARLY COLLECTION OF SAMPLES -- RESTITUTION. (1) Any person, including any
+39 juvenile tried as an adult, who is convicted of, or pleads guilty to, any
+40 felony crime, the attempt to commit any felony crime or any crime that re-
+41 quires sex offender registration pursuant to sections 18-8304 and 18-8410,
+42 Idaho Code, regardless of the form of judgment or withheld judgment, and
+43 regardless of the sentence imposed or disposition rendered serious crime, as
+44 defined in section 19-5502(10), Idaho Code, shall be required to provide to
+45 the Idaho state police a DNA sample and a right thumbprint impression, as set
+46 forth in this chapter.
+47 (2) Absent consent or a warrant authorizing DNA collection based upon
+48 on probable cause, no person shall be required to provide a DNA sample unless
+
+3
+1 the person has been convicted of, or pleads guilty to, any felony crime, the
+2 attempt to commit any felony crime or any crime that requires sex offender
+3 registration pursuant to sections 18-8304 and 18-8410, Idaho Code a serious
+4 crime, as defined in section 19-5502(10), Idaho Code.
+5 (3)(a) This chapter's requirements for submission to tests and pro-
+6 cedures for obtaining a DNA sample and thumbprint impression from the
+7 persons who are convicted of, or who plead guilty to, any felony crime,
+8 the attempt to commit any felony crime or any crime that requires sex
+9 offender registration pursuant to sections 18-8304 and 18-8410, Idaho
+10 Code, regardless of the form of judgment or withheld judgment, and re-
+11 gardless of the sentence imposed or disposition rendered, are mandatory
+12 and apply to those persons convicted of, or who plead guilty to, such
+13 felony crimes, the attempt to commit such felony crimes or any crime
+14 that requires sex offender registration pursuant to sections 18-8304
+15 and 18-8410, Idaho Code, covered in this chapter prior to its the ef-
+16 fective date of this chapter, and who, as a result of the conviction or
+17 plea, are incarcerated in a county jail facility or a penal facility,
+18 are under probation or parole supervision or are required to register
+19 as a sex offender pursuant to sections 18-8304 and 18-8410, Idaho Code,
+20 after the effective date of this chapter.
+21 (b) This chapter's requirements for submission to tests and procedures
+22 for obtaining a DNA sample and thumbprint impression from the persons
+23 who are convicted of, or who plead guilty to, any misdemeanor crime
+24 that qualifies as a serious crime, regardless of the form of judgment or
+25 withheld judgement, and regardless of the sentence imposed or disposi-
+26 tion rendered, are mandatory and shall apply to those persons convicted
+27 of, or who plead guilty to, such qualifying misdemeanor serious crimes
+28 on or after July 1, 2026.
+29 (4) The collection of samples and impressions specified in this chap-
+30 ter are required, regardless of whether the person previously has supplied a
+31 DNA sample to law enforcement agencies in any other jurisdiction. The col-
+32 lection facility is not required to collect a DNA sample if it can be verified
+33 that a sample already exists for the individual such person in the Idaho DNA
+34 database.
+35 (5) The requirements of this chapter are mandatory and apply, regard-
+36 less of whether a court advises a person that samples and impressions must be
+37 provided to the databank and database as a condition of probation or parole.
+38 (6) Unless the court determines that an order of restitution would be
+39 inappropriate or undesirable, it shall order any person subject to the pro-
+40 visions of this section to pay restitution to help offset costs incurred by
+41 law enforcement agencies for the expense of DNA analysis.
+42 (7) The court may order such person to pay restitution for DNA analysis
+43 in an amount not to exceed five hundred dollars ($500) per DNA sample analy-
+44 sis, or in the aggregate not more than two thousand dollars ($2,000), regard-
+45 less of whether:
+46 (a) The source of the sample is the person, the victim, or other persons
+47 of interest in the case;
+48 (b) Results of the analysis are entered into evidence in the person's
+49 criminal case;
+
+4
+1 (c) The DNA sample was previously analyzed for another criminal case;
+2 or
+3 (d) Restitution for that DNA sample analysis was ordered in any other
+4 criminal case.
+5 (8) Law enforcement agencies entitled to restitution under this sec-
+6 tion include the Idaho state police, county and city law enforcement agen-
+7 cies, the office of the attorney general, county prosecuting attorneys, and
+8 city attorneys.
+9 (9) In the case of reimbursement for DNA analysis performed by the Idaho
+10 state police, those moneys shall be paid to the Idaho state police and de-
+11 posited in the law enforcement fund. In the case of reimbursement to the of-
+12 fice of the attorney general, those moneys shall be paid to the general fund.
+13 (10) Persons who have been sentenced to death, or life without the pos-
+14 sibility of parole, or to any life or indeterminate term are not exempt from
+15 the requirements of this chapter.
+16 SECTION 5. That Section 19-5507, Idaho Code, be, and the same is hereby
+17 repealed.
+18 SECTION 6. That Chapter 55, Title 19, Idaho Code, be, and the same is
+19 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+20 ignated as Section 19-5507, Idaho Code, and to read as follows:
+21 19-5507. RESPONSIBILITY FOR SAMPLE COLLECTION -- TIMING OF SAMPLE
+22 COLLECTION -- SITE FOR SAMPLE COLLECTION. (1) Process for collection. The
+23 process for collection of DNA samples and thumbprint impressions from per-
+24 sons subject to the provisions of this chapter shall be as provided in this
+25 section.
+26 (2) Order for collection prior to sentencing. Where a person subject
+27 to the provisions of this chapter has been convicted of or pleaded guilty
+28 to a serious crime but has not yet been sentenced, the prosecuting attor-
+29 ney, attorney general, or Idaho state police may, at the time of conviction
+30 or guilty plea or thereafter, apply to the court for an order requiring the
+31 person to submit a DNA sample and thumbprint impression prior to sentencing.
+32 The court shall order a sample and impression to be taken prior to sentencing
+33 upon a showing that early collection is in the best interest of justice. The
+34 DNA sample and thumbprint impression shall be collected in accordance with
+35 procedures established by the bureau of forensic services. The director may
+36 designate a state correctional facility or county jail for such collection.
+37 (3) Order for collection at sentencing. Except as otherwise provided
+38 in this section, in every case in which any person, including any juvenile
+39 tried as an adult, who has been convicted of or pleaded guilty to a serious
+40 crime, the court shall, at the time of sentencing, order the person to submit
+41 a DNA sample and thumbprint impression to the bureau of forensic services,
+42 and order the collection of such sample and impression as set forth in this
+43 section.
+44 (a) Persons to be released following sentencing.
+45 (i) The court shall order any person subject to the provisions of
+46 this chapter who is incarcerated at the time of sentencing and who
+47 has not previously provided a DNA sample and thumbprint impres-
+48 sion to provide such sample and impression at an Idaho state po-
+
+5
+1 lice-designated sample collection location prior to physical re-
+2 lease from custody.
+3 (ii) At the time of sentencing, the court shall order any person
+4 subject to the provisions of this chapter who is not incarcerated,
+5 who has not previously provided a DNA sample and thumbprint im-
+6 pression, and who is granted probation or other supervised or con-
+7 ditional release following sentencing to report before the end of
+8 the following business day to provide a DNA sample and thumbprint
+9 impression at an Idaho state police-designated sample collection
+10 location.
+11 (b) Persons committed to county jails or other local detention facili-
+12 ties at sentencing. At the time of sentencing, the court shall order any
+13 person subject to the provisions of this chapter who has not previously
+14 submitted a DNA sample and thumbprint impression and who is sentenced to
+15 a period of incarceration in a county jail or other local detention fa-
+16 cility to provide a DNA sample and thumbprint impression, and the court
+17 shall order the chief administrative officer of such jail or facility
+18 to cause a DNA sample and thumbprint impression to be collected from the
+19 person as soon as possible during the intake process at the facility, or
+20 immediately thereafter at another facility designated for such collec-
+21 tions, but in all cases, no later than ten (10) days after the person's
+22 arrival at the jail or facility.
+23 (c) Persons committed to the department of correction or department
+24 of juvenile corrections at sentencing. At the time of sentencing,
+25 the court shall order any person subject to the provisions of this
+26 chapter who has not previously submitted a DNA sample and thumbprint
+27 impression and who is committed to the custody of the department of cor-
+28 rection or department of juvenile corrections to submit a DNA sample and
+29 thumbprint impression as directed by the director of the department of
+30 correction or department of juvenile corrections, and the court shall
+31 order the chief administrative officer at the designated reception cen-
+32 ter to cause a DNA sample and thumbprint impression to be collected from
+33 the person during the intake process at the reception center designated
+34 by the director of the department of correction or department of juve-
+35 nile corrections as soon as possible, but no later than ten (10) days
+36 after the person's arrival at the facility.
+37 (4) Incarcerated persons who have not submitted a DNA sample or
+38 thumbprint impression. Any person subject to the provisions of this chapter
+39 who is serving a term of imprisonment or confinement in a local, county, or
+40 state jail, prison, or other correctional facility and who did not, for any
+41 reason, including oversight or error, provide a DNA sample and thumbprint
+42 impression to the bureau of forensic services shall provide such sample and
+43 impression, and the administrator of the jail, prison, or other correctional
+44 facility in which such person is confined shall cause the sample and impres-
+45 sion to be collected as soon as practicable, but in any event no later than
+46 ten (10) days following notice from the bureau of forensic services that the
+47 person has not previously submitted the sample and impression, or prior to
+48 final discharge, probation, parole, or release from imprisonment or con-
+49 finement, whichever is earlier. A person who was convicted of any felony
+50 crime, the attempt to commit any felony crime, or any crime that requires
+
+6
+1 sex offender registration pursuant to sections 18-8304 and 18-8410, Idaho
+2 Code, prior to the effective date of this chapter is not exempt from these
+3 requirements.
+4 (5) Persons on parole following incarceration. Prior to release on pa-
+5 role, any person subject to the provisions of this chapter must have sub-
+6 mitted a DNA sample and thumbprint impression to the bureau of forensic ser-
+7 vices. It shall be a condition of parole that any person subject to the pro-
+8 visions of this chapter who has not, for any reason, including oversight or
+9 error, previously provided a DNA sample and thumbprint impression and who is
+10 released on parole shall, upon notice by the bureau of forensic services,
+11 a law enforcement agency, or an agent of the department of correction, be
+12 required to provide a DNA sample and thumbprint impression if such sample
+13 and thumbprint impression are not in the possession of the bureau of foren-
+14 sic services. Such person shall be required to have the sample and impres-
+15 sion taken within ten (10) working days of such notice at an Idaho state po-
+16 lice-designated sample collection location.
+17 (6) Persons returned to state or local correctional facilities, jails,
+18 or other detention facilities following supervised or conditional release.
+19 Any person subject to the provisions of this chapter who was released on pa-
+20 role, probation, furlough, or other supervised or conditional release, who
+21 is returned to a state or local juvenile or adult correctional facility for
+22 any reason, and who has not previously provided a DNA sample and thumbprint
+23 impression shall provide a sample and impression upon returning to the state
+24 or local correctional facility. The chief administrative officer of such
+25 facility shall cause the sample and impression to be taken as soon as pos-
+26 sible, but no later than ten (10) days following notice from the bureau of
+27 forensic services or discovery that the person has not yet provided a sample
+28 and impression, or prior to final discharge, parole, or release from impris-
+29 onment or confinement, whichever is earlier.
+30 (7)(a) Persons in Idaho pursuant to interstate agreement. When the
+31 state accepts an offender from another state under any interstate com-
+32 pact or under any other reciprocal agreement with any county, state, or
+33 federal agency, or any other provision of law, whether or not the of-
+34 fender is confined or released, the acceptance is conditional on the of-
+35 fender providing a DNA sample and thumbprint impression if the offender
+36 was convicted of or pleaded guilty to an offense that would qualify as
+37 a serious crime, as defined in section 19-5502(10), Idaho Code, or if
+38 the offender was convicted of an equivalent offense in any other juris-
+39 diction, regardless of the form of judgement or withheld judgement, and
+40 regardless of the sentence imposed or disposition rendered.
+41 (b) If the offender from another state is not confined, the offender
+42 must provide the sample and impression required by this chapter within
+43 ten (10) days after the offender reports to the supervising agent or
+44 within ten (10) days of notice to the offender from the bureau of foren-
+45 sic services, any law enforcement agency, or the offender's supervising
+46 agency, whichever occurs first. The offender shall report to an Idaho
+47 state police-designated sample collection facility or facilities to
+48 have the sample and impression taken.
+49 (c) If the offender from another state is confined in a state, county,
+50 or local correctional facility, jail, or other detention facility, the
+
+7
+1 offender shall provide, and the administrative officer of such facility
+2 shall cause to be collected, the DNA sample and thumbprint impression as
+3 soon as practicable but no later than ten (10) days after the offender is
+4 received into such jail or facility, or ten (10) days following notice
+5 from the bureau of forensic services that the person has not yet pro-
+6 vided a sample and impression, whichever is earlier, and in all cases,
+7 before completion of the offender's term of imprisonment or discharge
+8 from that facility, whichever is earlier.
+9 (8) Persons previously convicted of or pleading guilty to a serious
+10 crime. Any person, including any juvenile tried as an adult, who was pre-
+11 viously convicted of or pleaded guilty to a serious crime, as defined in
+12 section 19-5502(10), Idaho Code, whether or not that person is incarcerated,
+13 who has not provided a DNA sample and thumbprint impression for any reason,
+14 including the person's release prior to the enactment of this chapter, an
+15 oversight or error, or because of the person's transfer from another juris-
+16 diction, shall provide a DNA sample and thumbprint impression for inclusion
+17 in the state's DNA database and databank within ten (10) working days of such
+18 person being notified of this requirement by the Idaho state police, the
+19 department of correction, any law enforcement officer, or an officer of the
+20 court. The samples and impressions shall be collected in a facility desig-
+21 nated by the Idaho state police.
+22 (9) Verification. The collection facility and sex offender registra-
+23 tion location shall verify that the individual's DNA sample has been col-
+24 lected in Idaho. The collection facility shall not be required to collect a
+25 DNA sample if it can be verified that a sample already exists for the individ-
+26 ual in the Idaho DNA database.
+27 SECTION 7. That Section 19-5510, Idaho Code, be, and the same is hereby
+28 repealed.
+29 SECTION 8. An emergency existing therefor, which emergency is hereby
+30 declared to exist, this act shall be in full force and effect on and after
+31 July 1, 2026.

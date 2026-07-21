@@ -1,0 +1,185 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1429
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO DEPARTMENT OF HEALTH AND WELFARE; APPROPRI-
+3 ATING ADDITIONAL MONEYS TO THE DEPARTMENT OF HEALTH AND WELFARE FOR THE
+4 DIVISIONS OF SUBSTANCE ABUSE TREATMENT AND PREVENTION, MENTAL HEALTH
+5 SERVICES, AND PSYCHIATRIC HOSPITALIZATION FOR FISCAL YEAR 2027; REDUC-
+6 ING THE APPROPRIATION TO THE DEPARTMENT OF HEALTH AND WELFARE FOR THE
+7 DIVISIONS OF SUBSTANCE ABUSE TREATMENT AND PREVENTION, MENTAL HEALTH
+8 SERVICES, AND PSYCHIATRIC HOSPITALIZATION FOR FISCAL YEAR 2027; AUTHO-
+9 RIZING ADDITIONAL FULL-TIME EQUIVALENT POSITIONS FOR THE DIVISION OF
+10 MENTAL HEALTH SERVICES; PROVIDING A TRANSFER LIMITATION EXEMPTION FOR
+11 MENTAL HEALTH SERVICES AND PSYCHIATRIC HOSPITALIZATION; REQUIRING A
+12 REPORT ON THE IDAHO BEHAVIORAL HEALTH PLAN; PROVIDING FOR CONDITIONS,
+13 LIMITATIONS, AND RESTRICTIONS; APPROPRIATING ADDITIONAL MONEYS TO
+14 THE DEPARTMENT OF HEALTH AND WELFARE FOR THE DIVISION OF PSYCHIATRIC
+15 HOSPITALIZATION FOR FISCAL YEAR 2026; REDUCING THE APPROPRIATION TO
+16 THE DEPARTMENT OF HEALTH AND WELFARE FOR THE DIVISION OF PSYCHIATRIC
+17 HOSPITALIZATION FOR FISCAL YEAR 2026; AND DECLARING AN EMERGENCY AND
+18 PROVIDING EFFECTIVE DATES.
+19 Be It Enacted by the Legislature of the State of Idaho:
+20 SECTION 1. In addition to any other appropriation provided by law,
+21 there is hereby appropriated to the Department of Health and Welfare the
+22 following amounts to be expended according to the designated programs and
+23 expense classes from the listed funds for the period July 1, 2026, through
+24 June 30, 2027:
+25 FOR
+26 FOR FOR FOR TRUSTEE AND
+27 PERSONNEL OPERATING CAPITAL BENEFIT
+28 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+29 I. SUBSTANCE ABUSE TREATMENT & PREVENTION:
+30 FROM:
+31 Cooperative Welfare (Dedicated)
+32 Fund $533,900 $116,100 $650,000
+33 II. MENTAL HEALTH SERVICES:
+34 A. CHILDREN'S MENTAL HEALTH:
+35 FROM:
+36 Cooperative Welfare (General)
+37 Fund $840,900 $2,505,200 $3,346,100
+
+2
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Cooperative Welfare (Federal)
+6 Fund 1,055,100 $266,500 1,780,700 3,102,300
+7 TOTAL $1,896,000 $266,500 $4,285,900 $6,448,400
+8 B. ADULT MENTAL HEALTH:
+9 FROM:
+10 Cooperative Welfare (General)
+11 Fund $134,000 $100,000 $351,800 $585,800
+12 State-Directed Opioid Settlement
+13 Fund 0 0 992,600 992,600
+14 TOTAL $134,000 $100,000 $1,344,400 $1,578,400
+15 DIVISIONTOTAL $2,030,000 $366,500 $5,630,300 $8,026,800
+16 III. PSYCHIATRIC HOSPITALIZATION:
+17 A. STATE HOSPITAL NORTH:
+18 FROM:
+19 Cooperative Welfare (Dedicated)
+20 Fund $1,136,600 $441,400 $95,000 $126,300 $1,799,300
+21 State Hospital North Endowment Income
+22 Fund 0 212,900 0 0 212,900
+23 TOTAL $1,136,600 $654,300 $95,000 $126,300 $2,012,200
+24 B. STATE HOSPITAL SOUTH:
+25 FROM:
+26 Cooperative Welfare (Dedicated)
+27 Fund $5,540,500 $5,540,500
+28 Mental Hospital Endowment Income
+29 Fund 0 $216,100 216,100
+30 TOTAL $5,540,500 $216,100 $5,756,600
+31 DIVISIONTOTAL $6,677,100 $654,300 $311,100 $126,300 $7,768,800
+32 GRANDTOTAL $9,241,000 $1,020,800 $311,100 $5,872,700 $16,445,600
+33 SECTION 2. Notwithstanding any other provision of law to the contrary,
+34 the appropriation made to the Department of Health and Welfare is hereby
+35 reduced by the following amounts from the designated programs and expense
+
+3
+1 classes from the listed funds for the period July 1, 2026, through June 30,
+2 2027:
+3 FOR
+4 FOR FOR TRUSTEE AND
+5 PERSONNEL OPERATING BENEFIT
+6 COSTS EXPENDITURES PAYMENTS TOTAL
+7 I. SUBSTANCE ABUSE TREATMENT & PREVENTION:
+8 FROM:
+9 Liquor Control
+10 Fund $533,900 $116,100 $650,000
+11 II. MENTAL HEALTH SERVICES:
+12 A. CHILDREN'S MENTAL HEALTH:
+13 FROM:
+14 Cooperative Welfare (General)
+15 Fund $288,400 $288,400
+16 B. ADULT MENTAL HEALTH:
+17 FROM:
+18 Cooperative Welfare (General)
+19 Fund $496,300 $496,300
+20 DIVISION TOTAL $288,400 $496,300 $784,700
+21 III. PSYCHIATRIC HOSPITALIZATION:
+22 A. STATE HOSPITAL NORTH:
+23 FROM:
+24 Cooperative Welfare (General)
+25 Fund $212,900 $212,900
+26 Cooperative Welfare (Federal)
+27 Fund $1,699,300 0 1,699,300
+28 TOTAL $1,699,300 $212,900 $1,912,200
+29 B. STATE HOSPITAL SOUTH:
+30 FROM:
+31 Mental Hospital Endowment Income
+32 Fund $43,900 $43,900
+
+4
+1 FOR
+2 FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING BENEFIT
+4 COSTS EXPENDITURES PAYMENTS TOTAL
+5 Cooperative Welfare (Federal)
+6 Fund 5,496,600 5,496,600
+7 TOTAL $5,540,500 $5,540,500
+8 DIVISION TOTAL $7,239,800 $212,900 $7,452,700
+9 GRAND TOTAL $7,773,700 $501,300 $612,400 $8,887,400
+10 SECTION 3. FTP AUTHORIZATION. In addition to any other authorization
+11 provided by law, the full-time equivalent position authorization provided
+12 to the Department of Health and Welfare for the Mental Health Services Di-
+13 vision is hereby increased by fifteen (15.00) for the period July 1, 2026,
+14 through June 30, 2027.
+15 SECTION 4. TRANSFER LIMITATION EXEMPTION. Notwithstanding any other
+16 provisions of law to the contrary, the Department of Health and Welfare Divi-
+17 sion of Mental Health Services and Division of Psychiatric Hospitalization
+18 may transfer moneys appropriated for personnel costs and trustee and bene-
+19 fit payments pursuant to Section 67-3511, Idaho Code, for the period July 1,
+20 2026, through June 30, 2027.
+21 SECTION 5. REQUIRING A REPORT ON THE IDAHO BEHAVIORAL HEALTH PLAN. The
+22 Department of Health and Welfare Division of Mental Health Services shall
+23 provide a report on fiscal year 2025 and fiscal year 2026 expenditures for
+24 the Idaho Behavioral Health Plan. The report shall include actual expendi-
+25 tures for services provided to the adults' population and services provided
+26 to the children's population under the Idaho Behavioral Health Plan. The
+27 format of the report and the type of information included therein shall be
+28 determined by the Legislative Services Office Budget and Policy Analysis Di-
+29 vision. The report shall be submitted to the Joint Finance-Appropriations
+30 Committee and the Legislative Services Office Budget and Policy Analysis Di-
+31 vision no later than December 1, 2026.
+32 SECTION 6. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+33 made pursuant to this act are subject to the conditions, limitations, and re-
+34 strictions specified in this act.
+35 SECTION 7. In addition to the appropriation made in Section 1, Chap-
+36 ter 209, Laws of 2025, and any other appropriation provided by law, there is
+37 hereby appropriated to the Department of Health and Welfare for the Division
+38 of Psychiatric Hospitalization the following amounts to be expended accord-
+39 ing to the designated programs and expense classes from the Cooperative Wel-
+40 fare (Dedicated) Fund for the period July 1, 2025, through June 30, 2026:
+
+5
+1 FOR
+2 FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING BENEFIT
+4 COSTS EXPENDITURES PAYMENTS TOTAL
+5 StateHospitalNorth $700,000 $436,400 $46,000 $1,182,400
+6 StateHospitalSouth 4,871,600 0 0 4,871,600
+7 TOTAL $5,571,600 $436,400 $46,000 $6,054,000
+8 SECTION 8. Notwithstanding any other provision of law to the contrary,
+9 the appropriation made to the Department of Health and Welfare in Section 1,
+10 Chapter 209, Laws of 2025, is hereby reduced by the following amounts for the
+11 Division of Psychiatric Hospitalization from the designated programs from
+12 personnel costs from the Cooperative Welfare (Federal) Fund for the period
+13 July 1, 2025, through June 30, 2026:
+14 State Hospital North $1,182,400
+15 State Hospital South 4,871,600
+16 TOTAL $6,054,000
+17 SECTION 9. An emergency existing therefor, which emergency is hereby
+18 declared to exist, Sections 7 and 8 of this act shall be in full force and ef-
+19 fect on and after passage and approval, and Sections 1 through 6 of this act
+20 shall be in full force and effect on and after July 1, 2026.

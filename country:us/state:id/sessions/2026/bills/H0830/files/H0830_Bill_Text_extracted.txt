@@ -1,0 +1,505 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 830
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO UNIFORM CONTROLLED SUBSTANCES; AMENDING SECTION 37-2705, IDAHO
+3 CODE, TO PROVIDE THAT ALKALOIDS FOUND IN OR DERIVED FROM MITRAGYNA
+4 SPECIOSA SHALL BE A SCHEDULE I CONTROLLED SUBSTANCE; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 37-2705, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 37-2705. SCHEDULE I. (a) The controlled substances listed in this sec-
+10 tion are included in schedule I.
+11 (b) Any of the following opiates, including their isomers, esters,
+12 ethers, salts, and salts of isomers, esters, and ethers, unless specifically
+13 excepted, whenever the existence of these isomers, esters, ethers and salts
+14 is possible within the specific chemical designation:
+15 (1) Acetyl-alpha-methylfentanyl (N-[1-(1-methyl-2-phenethyl)-4-pip-
+16 eridinyl]-N-phenylacetamide);
+17 (2) Acetylmethadol;
+18 (3) Acetyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylac-
+19 etamide);
+20 (4) Acryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylacry-
+21 lamide);
+22 (5) Allylprodine;
+23 (6) Alphacetylmethadol (except levo-alphacetylmethadol also known as
+24 levo-alpha-acetylmethadol, levomethadyl acetate or LAAM);
+25 (7) Alphameprodine;
+26 (8) Alphamethadol;
+27 (9) Alpha'-methyl butyryl fentanyl (2-methyl-N-(1-phenethylpiperidi-
+28 n-4-yl)-N-phenylbutanamide);
+29 (10) Alpha-methylfentanyl;
+30 (11) Alpha-methylthiofentanyl (N-[1-methyl-2-(2-thienyl)ethyl-4-
+31 piperidinyl]-N-phenylpropanamide);
+32 (12) Benzethidine;
+33 (13) Betacetylmethadol;
+34 (14) Beta-hydroxyfentanyl (N-[1-(2-hydroxy-2-phenethyl)-4-piperid-
+35 inyl]-N-phenylpropanamide);
+36 (15) Beta-hydroxythiofentanyl;
+37 (16) Beta-hydroxy-3-methylfentanyl (N-(1-(2-hydroxy-2-phenethyl)-3-
+38 methyl-4-piperidinyl)-N-phenylpropanamide);
+39 (17) Betameprodine;
+40 (18) Betamethadol;
+41 (19) Beta-methyl fentanyl;
+42 (20) Beta'-phenyl fentanyl;
+
+2
+1 (21) Betaprodine;
+2 (22) Brorphine (1-(1-(1-(4-Bromophenyl)ethyl)piperidin-4-yl)-1,3-
+3 dihydro-2H-benzo[D]imidazol-2-one);
+4 (23) Butonitazene (2-(2-(4-butoxybenzyl)-5-nitro-1hbenzimida-
+5 zol-1-yl)-N,N-diethylethan-1-amine);
+6 (24) Clonitazene;
+7 (25) Crotonyl fentanyl ((E)-N-(1-phenethylpiperidin-4-yl)-N-phenyl-
+8 but-2-enamide);
+9 (26) Cyclopentyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylcy-
+10 clopentanecarboxamide);
+11 (27) Cyclopropyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylcy-
+12 clopropanecarboxamide);
+13 (28) Dextromoramide;
+14 (29) Diampromide;
+15 (30) Diethylthiambutene;
+16 (31) Difenoxin;
+17 (32) Dimenoxadol;
+18 (33) Dimepheptanol;
+19 (34) 2',5'-Dimethoxyfentanyl (N-(1-(2,5-dimethoxyphenethyl)piperi-
+20 din-4-yl)-N-phenylpropionamide);
+21 (35) Dimethylthiambutene;
+22 (36) Dioxaphetyl butyrate;
+23 (37) Dipipanone;
+24 (38) Ethylmethylthiambutene;
+25 (39) Etodesnitazene; Etazene (2-(2-(4-ethoxybenzyl)-1hbenzimida-
+26 zol-1-yl)-N,N-diethylethan-1-amine);
+27 (40) Etonitazene;
+28 (41) Etoxeridine;
+29 (42) Fentanyl-related substances. "Fentanyl-related substances"
+30 means any substance not otherwise listed and for which no exemption or
+31 approval is in effect under section 505 of the federal food, drug, and
+32 cosmetic act, 21 U.S.C. 355, and that is structurally related to fen-
+33 tanyl by one (1) or more of the following modifications:
+34 i. Replacement of the phenyl portion of the phenethyl group by any
+35 monocycle, whether or not further substituted in or on the monocy-
+36 cle;
+37 ii. Substitution in or on the phenethyl group with alkyl, alkenyl,
+38 alkoxyl, hydroxyl, halo, haloalkyl, amino, or nitro groups;
+39 iii. Substitution in or on the piperidine ring with alkyl,
+40 alkenyl, alkoxyl, ester, ether, hydroxyl, halo, haloalkyl, amino,
+41 or nitro groups;
+42 iv. Replacement of the aniline ring with any aromatic monocycle,
+43 whether or not further substituted in or on the aromatic monocy-
+44 cle; and/or
+45 v. Replacement of the N-propionyl group by another acyl group;
+46 (43) Fentanyl carabamate;
+47 (44) Flunitazene (N,N-diethyl-2-(2-(4-fluorobenzyl)-5-nitro-1h-ben-
+48 zimidazol-1-yl)ethan-1-amine);
+49 (45) 4-Fluoroisobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-
+50 phenethylpiperidin-4-yl)isobutyramide);
+
+3
+1 (46) 2'-fluoro ortho-fluorofentanyl;
+2 (47) Furanyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylfu-
+3 ran-2-carboxamide);
+4 (48) 3-Furanyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylfu-
+5 ran-3-carboxamide);
+6 (49) Furethidine;
+7 (50) Hydroxypethidine;
+8 (51) Isobutyryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-
+9 phenylisobutyramide);
+10 (52) Isovalery fentanyl (3-methyl-N-(1-phenethylpiperidin-4-yl)-N-
+11 phenylbutanimide);
+12 (53) Isotonitazene (N,N-diethyl-2-(2-(4isopropoxybenzyl)-5-ni-
+13 tro-1h-benzimidazol-1-yl)ethan-1-amine);
+14 (54) Ketobemidone;
+15 (55) Levomoramide;
+16 (56) Levophenacylmorphan;
+17 (57) Meta-fluorofentanyl (N-(3-fluorophenyl)-N-(1-phenethylpiperi-
+18 din-4-yl)isobutyramide);
+19 (58) Meta-fluoroisobutyryl fentanyl (N-(3-fluorophenyl)-N-(1-
+20 phenethylpiperidin-4-yl)isobutyramide);
+21 (59) Methoxyacetyl fentanyl (2-methoxy-N-(1-phenethylpiperidin-4-
+22 yl)-N-phenylacetamide);
+23 (60) 2-Methyl AP-237 (1-(2-methyl-4-(3-phenylprop-2-en-1-yl)piper-
+24 azin-1-yl)butan-1-one);
+25 (61) 4'-methyl acetyl fentanyl;
+26 (62) 3-Methylfentanyl;
+27 (63) 3-methylthiofentanyl (N-[(3-methyl-1-(2-thienyl)ethyl-4-pip-
+28 eridinyl]-N-phenylpropanamide);
+29 (64) Metodesnitazene (N,N-diethyl-2-(2-(4-methoxybenzyl)-1h-benzim-
+30 idazol-1-yl)ethan-1-amine);
+31 (65) Metonitazene (N,N-diethyl-2-(2-(4-methoxybenzyl)-5-nitro-
+32 1hbenzimidazol-1-yl)ethan-1-amine);
+33 (66) Morpheridine;
+34 (67) MPPP (1-methyl-4-phenyl-4-propionoxypiperidine);
+35 (68) MT-45 (1-cyclohexyl-4- (1,2-diphenylethyl)piperazine);
+36 (69) N-(4-chlorophenyl)-N-(1-phenethylpiperdin-4-yl)Isobutyramide
+37 (para-chloroisobutyrl fentanyl);
+38 (70) Noracymethadol;
+39 (71) Norlevorphanol;
+40 (72) Normethadone;
+41 (73) Norpipanone;
+42 (74) N-pyrrolidino etonitazene (2-(4-ethoxybenzyl)-5-nitro-1-(2-
+43 (pyrrolidin-1-yl)ethyl)1hbenzimidazole);
+44 (75) Ocfentanil (N-(2-fluorophenyl)-2-methoxy-N-(1-phenethyl-
+45 piperidin-4-yl)acetamide);
+46 (76) Ortho-fluoroacryl fentanyl;
+47 (77) Ortho-fluorobutyrl fentanyl;
+48 (78) Ortho-fluorofentanyl;
+49 (79) Ortho-fluorofuranyl fentanyl (N-(2-fluorophenyl)-N-(1-
+50 phenethylpiperidin-4-yl)furan-2-carboxamide);
+
+4
+1 (80) Ortho-fluoroisobutyryl fentanyl;
+2 (81) Ortho-methyl acetylfentanyl;
+3 (82) Ortho-methyl methoxyacetyl fentanyl;
+4 (83) Para-chloroisobutyryl fentanyl (N-(4-chlorophenyl)-N-(1-
+5 phenethylpiperidin-4-yl) isobutyramide);
+6 (84) Para-fluorobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-
+7 phenethylpiperidin-4-yl) butyramide);
+8 (85) Para-fluorofentanyl (N-(4-fluorophenyl)-N-[1-(2-phenethyl)-4-
+9 piperidinyl] propanamide);
+10 (86) Para-fluoro furanyl fentanyl;
+11 (87) Para-methoxybutyryl fentanyl (N-(4-methoxyphenyl)-N-(1-
+12 phenethylpiperidin-4-yl) butyramide);
+13 (88) Para-methoxyfuranyl fentanyl (N-(4-methoxyphenyl)-N-(1-
+14 phenethylpiperidin-4-yl)furan-2-carboxamide);
+15 (89) Para-methylcyclopropyl fentanyl (N-(4-methylphenyl)-N-(1-
+16 phenylpiperidin-4-yl)cyclopropanecarboxamide);
+17 (90) Para-methylfentanyl;
+18 (91) PEPAP (1-(-2-phenethyl)-4-phenyl-4-acetoxypiperidine);
+19 (92) Phenadoxone;
+20 (93) Phenampromide;
+21 (94) Phenomorphan;
+22 (95) Phenoperidine;
+23 (96) Phenyl fentanyl;
+24 (97) Piritramide;
+25 (98) Proheptazine;
+26 (99) Properidine;
+27 (100) Propiram;
+28 (101) Protonitazene (N,N-diethyl-2-(5-nitro-2-(4-propoxyben-
+29 zyl)-1h-benzimidazol-1-yl)ethan-1-amine);
+30 (102) Racemoramide;
+31 (103) Tetrahydrofuranyl fentanyl (N-(1-phenethylpiperidine-4-yl)-N-
+32 phenyltetrahydrofuran-2-carboxamide);
+33 (104) Thiofentanyl (N-phenyl-N-[1-(2-thienyl)ethyl-4-piperidinyl]-
+34 propanamide);
+35 (105) Tilidine;
+36 (106) Trimeperidine;
+37 (107) u-47700 (3,4-Dichloro-N-[2-(dimethylamino)cyclohexyl]-N-
+38 methylbenzamide);
+39 (108) Valeryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenyl-
+40 pentanamide);
+41 (109) Zipeprol (1-methoxy-3-[4-(2-methoxy-2-phenylethyl)piper-
+42 azin-1-yl]-1-phenylpropan-2-ol).
+43 (c) Any of the following opium derivatives, their salts, isomers and
+44 salts of isomers, unless specifically excepted, whenever the existence of
+45 these salts, isomers and salts of isomers is possible within the specific
+46 chemical designation:
+47 (1) Acetorphine;
+48 (2) Acetyldihydrocodeine;
+49 (3) Benzylmorphine;
+50 (4) Codeine methylbromide;
+
+5
+1 (5) Codeine-N-Oxide;
+2 (6) Cyprenorphine;
+3 (7) Desomorphine;
+4 (8) Dihydromorphine;
+5 (9) Drotebanol;
+6 (10) Etorphine (except hydrochloride salt);
+7 (11) Heroin;
+8 (12) Hydromorphinol;
+9 (13) Methyldesorphine;
+10 (14) Methyldihydromorphine;
+11 (15) Morphine methylbromide;
+12 (16) Morphine methylsulfonate;
+13 (17) Morphine-N-Oxide;
+14 (18) Myrophine;
+15 (19) Nicocodeine;
+16 (20) Nicomorphine;
+17 (21) Normorphine;
+18 (22) Pholcodine;
+19 (23) Thebacon.
+20 (d) Hallucinogenic substances. Any material, compound, mixture or
+21 preparation that contains any quantity of the following hallucinogenic
+22 substances, their salts, isomers and salts of isomers, unless specifically
+23 excepted, whenever the existence of these salts, isomers, and salts of iso-
+24 mers is possible within the specific chemical designation (for purposes of
+25 this subsection only, the term "isomer" includes the optical, position and
+26 geometric isomers):
+27 (1) Dimethoxyphenethylamine, or any compound not specifically
+28 excepted or listed in another schedule that can be formed from
+29 dimethoxyphenethylamine by replacement of one (1) or more hydrogen
+30 atoms with another atom(s), functional group(s) or substructure(s)
+31 including, but not limited to, compounds such as DOB, DOC, 2C-B,
+32 25B-NBOMe;
+33 (2) Methoxyamphetamine or any compound not specifically excepted or
+34 listed in another schedule that can be formed from methoxyamphetamine
+35 by replacement of one (1) or more hydrogen atoms with another atom(s),
+36 functional group(s) or substructure(s) including, but not limited to,
+37 compounds such as PMA and DOM;
+38 (3) 5-methoxy-3,4-methylenedioxy-amphetamine;
+39 (4) 5-methoxy-N,N-diisopropyltryptamine;
+40 (5) Amphetamine or methamphetamine with a halogen substitution on the
+41 benzyl ring, including compounds such as fluorinated amphetamine and
+42 fluorinated methamphetamine;
+43 (6) 3,4-methylenedioxy amphetamine;
+44 (7) 3,4-methylenedioxymethamphetamine (MDMA);
+45 (8) 3,4-methylenedioxy-N-ethylamphetamine (also known as N-et-
+46 hyl-alpha-methyl-3,4 (methylenedioxy) phenethylamine, and N-et-
+47 hyl MDA, MDE, MDEA);
+48 (9) N-hydroxy-3,4-methylenedioxyamphetamine (also known as N-hyd-
+49 roxy-alpha-methyl-3,4(methylenedioxy) phenethylamine, and N-hyd-
+50 roxy MDA);
+
+6
+1 (10) 3,4,5-trimethoxy amphetamine;
+2 (11) 5-methoxy-N,N-dimethyltryptamine (also known as 5-methoxy-3-2[2-
+3 (dimethylamino)ethyl]indole and 5-MeO-DMT);
+4 (12) Alpha-ethyltryptamine (some other names: etryptamine, 3-(2-am-
+5 inobutyl) indole);
+6 (13) Alpha-methyltryptamine;
+7 (14) Bufotenine;
+8 (15) Diethyltryptamine (DET);
+9 (16) Dimethyltryptamine (DMT);
+10 (17) Ibogaine;
+11 (18) Lysergic acid diethylamide;
+12 (19) Marihuana;
+13 (20) Mescaline;
+14 (21) Methoxetamine;
+15 (22) Parahexyl;
+16 (23) Peyote;
+17 (24) N-ethyl-3-piperidyl benzilate;
+18 (25) N-methyl-3-piperidyl benzilate;
+19 (26) Para-methoxymethamphetamine (PMMA), 1-(4-methoxyphenyl)-N-
+20 methylpropan-2-amine;
+21 (27) Psilocybin;
+22 (28) Psilocyn;
+23 (29) Tetrahydrocannabinols or synthetic equivalents of the substances
+24 contained in the plant, or in the resinous extractives of Cannabis, sp.
+25 and/or synthetic substances, derivatives, and their isomers with simi-
+26 lar chemical structure such as the following:
+27 i. Tetrahydrocannabinols, except for the permitted amount of
+28 tetrahydrocannabinol found in industrial hemp, or nabiximols in a
+29 drug product approved by the United States food and drug adminis-
+30 tration:
+31 a. ∆ 1 cis or trans tetrahydrocannabinol, and their opti-
+32 cal isomers, excluding dronabinol in sesame oil and encapsu-
+33 lated in either a soft gelatin capsule or in an oral solution
+34 in a drug product approved by the U.S. Food and Drug Adminis-
+35 tration.
+36 b. ∆ 6 cis or trans tetrahydrocannabinol, and their optical
+37 isomers.
+38 c. ∆ 3,4 cis or trans tetrahydrocannabinol, and its optical
+39 isomers. (Since nomenclature of these substances is not in-
+40 ternationally standardized, compounds of these structures,
+41 regardless of numerical designation of atomic positions are
+42 covered.)
+43 d. [(6aR,10aR)-9-(hydroxymethyl)-6,6-dimethyl-3-(2methy-
+44 loctan-2-yl)-6a,7,10,10a-tetrahydrobenzo[c]chromen-
+45 1-o1)], also known as 6aR-trans-3-(1,1-dimethylhep-
+46 tyl)-6a,7,10,10a-tetrahydro-1-hydroxy-6,6-dimethyl-6H-
+47 dibenzo[b,d]pyran-9-methanol (HU-210) and its geometric
+48 isomers (HU211 or dexanabinol).
+49 ii. The following synthetic drugs:
+
+7
+1 a. Any compound structurally derived from (1H-indole-3-
+2 yl)(cycloalkyl, cycloalkenyl, aryl)methanone, or (1H-in-
+3 dole-3-yl)(cycloalkyl, cycloalkenyl, aryl)methane, or
+4 (1H-indole-3-yl)(cycloalkyl, cycloalkenyl, aryl), methyl
+5 or dimethyl butanoate, amino-methyl (or dimethyl)-1-oxobu-
+6 tan-2-yl) carboxamide by substitution at the nitrogen atoms
+7 of the indole ring or carboxamide to any extent, whether or
+8 not further substituted in or on the indole ring to any ex-
+9 tent, whether or not substituted to any extent in or on the
+10 cycloalkyl, cycloalkenyl, aryl ring(s) (substitution in the
+11 ring may include, but is not limited to, heteroatoms such as
+12 nitrogen, sulfur and oxygen).
+13 b. N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluo-
+14 ropentyl)-1 H-indazole-3-carboxamide (5F-AB-PINACA).
+15 c. 1-(1.3-benzodioxol-5-yl)-2-(ethylamino)-pentan-1-one
+16 (N-ethylpentylone, ephylone).
+17 d. 1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1 H-inda-
+18 zole-3-carboxamide (4-cn-cumyl-BUTINACA).
+19 e. 5-pentyl-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-
+20 one (Cumyl PeGACLONE).
+21 f. Ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3carboxam-
+22 ido)-3,3-dimethylbutanoate * (5F-EDMB-PINACA).
+23 g. Ethyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxamido)-
+24 3,3-dimethylbutanoate (5F-EDMB-PICA).
+25 h. (1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3tetram-
+26 ethylcyclopropyl)methanone ( FUB-144).
+27 i. 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-inda-
+28 zole-3-carboxamide (5f-cumyl-pinaca; SGT-25).
+29 j. (1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1
+30 H-pyrrolo[2.3-B]pyridine-3-carboxamide(5fcumyl-P7AICA).
+31 k. FUB-AMB, MMB- FUBINACA (Methyl 2-(1-(4-fluoroben-
+32 zyl)-1H-indazole-3-carboxamido)-3-methylbutanoate.
+33 l. MMB-FUBICA (Methyl 2-(1-(4-Fluorobenzyl)-1H-Indole-3-
+34 carboxamido)-3-methyl butanoate).
+35 m. Methyl 3,3-dimethyl-2-((1-(pent-4-en-1-yl)-1H-inda-
+36 zol-3-yl)formamido)butanoate (MDMB-4EN-PINACA).
+37 n. Methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxam-
+38 ido)-3-methylbutanoate (MMB-CHMICA, AMB-CHMICA).
+39 o. Methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxam-
+40 ido)-3,3-dimethylbutanoate (MDMB-CHMICA).
+41 p. Methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxam-
+42 ido-3,3-dimethylbutanoate (MDMB-FUBINACA).
+43 q. Methyl 2-[[1-(4-Fluorobutyl)Indole-3-Carbonyl]Amino]-
+44 3,3-Dimethyl-Butanoate (4F-MDMB-BUTICA).
+45 r. Methyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxam-
+46 ido)-3,3-dimethylbutanoate (5F-MDMBPICA).
+47 s. Methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxam-
+48 ido)-3,3-dimethylbutanoate (5F-ADB, 5FMDMB-PINACA).
+49 t. Methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxam-
+50 ido)-3-methylbutanoate (5FAMB).
+
+8
+1 u. N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1H-
+2 Indazole-3-carboxamide (ADB-BUTINACA).
+3 v. N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluo-
+4 robenzyl)-1H-indazole-3-carboxamide (ADB-FUBINACA).
+5 w. N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(pent-4-
+6 en-1-yl)-1H-indazole-3-carboxamide (ADB-4EN-PINACA).
+7 x. N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-
+8 carboxamide (FUB-AKB48; FUB-APINACA).
+9 y. N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-
+10 carboxamide (5F-APINACA, 5F-AKB48).
+11 z. N-(1-amino-3-methyl-1-oxobutan-2-yl)1-(Cyclohexyl-
+12 methyl)-1H-indazole-3-carboxamide (AB-CHMINACA).
+13 aa. Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-car-
+14 boxylate (NM2201; CBL2201).
+15 bb. Any compound structurally derived from 3-(1-naph-
+16 thoyl)pyrrole by substitution at the nitrogen atom of the
+17 pyrrole ring to any extent, whether or not further sub-
+18 stituted in the pyrrole ring to any extent, whether or not
+19 substituted in the naphthyl ring to any extent.
+20 cc. Any compound structurally derived from 1-(1-naphthyl-
+21 methyl)indene by substitution at the 3-position of the in-
+22 dene ring to any extent, whether or not further substituted
+23 in the indene ring to any extent, whether or not substituted
+24 in the naphthyl ring to any extent.
+25 dd. Any compound structurally derived from 3-pheny-
+26 lacetylindole by substitution at the nitrogen atom of the
+27 indole ring to any extent, whether or not further substi-
+28 tuted in the indole ring to any extent, whether or not sub-
+29 stituted in the phenyl ring to any extent.
+30 ee. Any compound structurally derived from 2-(3-hydroxy-
+31 cyclohexyl)phenol by substitution at the 5-position of the
+32 phenolic ring to any extent, whether or not substituted in
+33 the cyclohexyl ring to any extent.
+34 ff. Any compound structurally derived from 3-(benzoyl)in-
+35 dole structure with substitution at the nitrogen atom of
+36 the indole ring to any extent, whether or not further sub-
+37 stituted in the indole ring to any extent and whether or not
+38 substituted in the phenyl ring to any extent.
+39 gg. [2,3-dihydro-5-methyl-3-(4-morpholinyl-
+40 methyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl]-1-
+41 napthalenylmethanone (WIN-55,212-2).
+42 hh. 3-dimethylheptyl-11-hydroxyhexahydrocannabinol (HU-
+43 243).
+44 ii. [(6S, 6aR, 9R, 10aR)-9-hydroxy-6-methyl-3-[(2R)-
+45 5-phenylpentan-2-yl]oxy-5,6,6a,7,8,9,10,10a-octahy-
+46 drophenanthridin-1-yl]acetate (CP 50,5561).
+47 (30) Ethylamine analog of phencyclidine: N-ethyl-1-phenylcy-
+48 clohexylamine (1-phenylcyclohexyl) ethylamine; N-(1-phenylcy-
+49 clohexyl) ethylamine, cyclohexamine, PCE;
+
+9
+1 (31) Pyrrolidine analog of phencyclidine: 1-(phenylcyclohexyl) -
+2 pyrrolidine, PCPy, PHP;
+3 (32) Thiophene analog of phencyclidine 1-[1-(2-thienyl)-cyclohexyl]-
+4 piperidine, 2-thienylanalog of phencyclidine, TPCP, TCP;
+5 (33) Thiofuranyl fentanyl;
+6 (34) 1-[1-(2-thienyl) cyclohexyl] pyrrolidine another name: TCPy;
+7 (35) Spores or mycelium capable of producing mushrooms that contain
+8 psilocybin or psilocin.
+9 (e) Unless specifically excepted or unless listed in another schedule,
+10 any material, compound, mixture or preparation which contains any quantity
+11 of the following substances having a depressant effect on the central ner-
+12 vous system, including its salts, isomers, and salts of isomers whenever the
+13 existence of such salts, isomers, and salts of isomers is possible within the
+14 specific chemical designation:
+15 (1) Clonazolam;
+16 (2) Diclazepam;
+17 (3) Gamma hydroxybutyric acid (some other names include GHB; gam-
+18 ma-hydroxybutyrate, 4-hydroxybutyrate; 4-hyroxybutanoic acid; sod-
+19 ium oxybate; sodium oxybutyrate);
+20 (4) Etizolam;
+21 (5) Flualprazolam;
+22 (6) Flubromazolam;
+23 (7) Flunitrazepam (also known as R2, Rohypnol);
+24 (8) Mecloqualone;
+25 (9) Methaqualone.
+26 (f) Stimulants. Unless specifically excepted or unless listed in an-
+27 other schedule, any material, compound, mixture, or preparation which con-
+28 tains any quantity of the following substances having a stimulant effect on
+29 the central nervous system, including its salts, isomers, and salts of iso-
+30 mers:
+31 (1) Amineptine (7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-
+32 yl)amino]heptanoic acid);
+33 (2) Aminorex (some other names: aminoxaphen, 2-amino-5-phenyl-2-ox-
+34 azoline, or 4,5-dihydro-5-phenyl-2-oxazolamine), 4,4'-dimethylam-
+35 inorex (4,4'-DMAR; 4,5-dihydro-4-methyl-5-(4-methylphenyl)-2-oxazo-
+36 lamine) or (4,5-dihydro-5-phenyl-2-oxazolamine);
+37 (3) Cathinone (some other names: 2-amino-1-phenol-1-propanone, alp-
+38 ha-aminopropiophenone, 2-aminopropiophenone and norephedrone);
+39 (4) Substituted cathinones. Any compound, except bupropion or com-
+40 pounds listed under a different schedule, structurally derived from
+41 2-aminopropan-1-one by substitution at the 1-position with either
+42 phenyl, naphthyl or thiophene ring systems, whether or not the compound
+43 is further modified in any of the following ways:
+44 i. By substitution in the ring system to any extent with alkyl,
+45 alkylenedioxy, alkoxy, haloalkyl, hydroxyl or halide sub-
+46 stituents, whether or not further substituted in the ring system
+47 by one (1) or more other univalent substituents;
+48 ii. By substitution at the 3-position with an acyclic alkyl sub-
+49 stituent;
+
+10
+1 iii. By substitution at the 2-amino nitrogen atom with alkyl,
+2 dialkyl, benzyl or methoxybenzyl groups, or by inclusion of the
+3 2-amino nitrogen atom in a cyclic structure.
+4 (5) Alpha-pyrrolidinoheptaphenone* (PV8);
+5 (6) Alpha-pyrrolidinohexanophenone* (A-PHP);
+6 (7) 4-chloro-alpha-pyrrolidinovalerophenone* (4chloro-a-pvp);
+7 (8) Eutylone (1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-1-one);
+8 (9) Fenethylline;
+9 (10) Mesocarb (N-phenyl-N'-(3-(1-phenylpropan-2-yl)-1,2,3-oxadia-
+10 zol-3-ium-5-yl)carbamimidate);
+11 (11) Methcathinone (some other names: 2-(methyl-amino)-propioph-
+12 enone, alpha-(methylamino)-propiophenone, N-methylcathinone, AL-
+13 464, AL-422, AL-463 and UR1423);
+14 (12) Methiopropamine (N-methyl-1-(thiophen-2-yl)propan-2-amine);
+15 (13) (+/-)cis-4-methylaminorex [(+/-)cis-4,5-dihydro-4-meth-
+16 yl-5-phenyl-2-oxazolamine];
+17 (14) 4-methyl-alpha-ethylaminopentiophenone* (4-MEAP);
+18 (15) 4'-methyl-alpha-pyrrolidinohexiophenone* (MPHP);
+19 (16) 2-(methylamino)-1-(3-methylphenyl)propan-1-one (3-MMC);
+20 (17) 4-methyl-1-phenyl-2-(pyrrolidine-1-yl)pent-1-one) (ALPHA-
+21 PIHP);
+22 (18) N-benzylpiperazine (also known as: BZP, 1-benzylpiperazine);
+23 (19) N-ethylamphetamine;
+24 (20) N-ethylhexedrone*;
+25 (21) N,N-dimethylamphetamine (also known as: N,N-alpha-trimethyl-
+26 benzeneethanamine).
+27 (g) Unless specifically excepted or unless listed in another schedule,
+28 any alkaloids found in or derived from Mitragyna speciosa, including syn-
+29 thetic alkaloids, homologs, analogs, isomers, esters, ethers, salts, and
+30 salts of isomers, esters, and ethers, when the existence of the isomers, es-
+31 ters, ethers, and salts is possible within the specific chemical designa-
+32 tion.
+33 SECTION 2. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2026.

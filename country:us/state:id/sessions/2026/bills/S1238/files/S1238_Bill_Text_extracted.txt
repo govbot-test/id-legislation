@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1238
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO FISH AND GAME; AMENDING SECTION 36-105, IDAHO CODE, TO PROVIDE
+3 FOR PUBLIC PARTICIPATION PRIOR TO THE IDAHO FISH AND GAME COMMISSION
+4 SETTING OF ANY SEASON OR LIMIT ON THE TAKING OF FISH AND WILDLIFE AND TO
+5 MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN
+6 EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 36-105, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 36-105. COMMISSION ORDERS, RULES AND PROCLAMATIONS. (1) Adoption and
+11 Publication of Rules and Orders. All rules and orders adopted pursuant to
+12 the provisions of this title shall be made in accordance with chapter 52, ti-
+13 tle 67, Idaho Code. Said rules and orders may also be given such other pub-
+14 licity as the commission may deem desirable.
+15 (2) Violation of Rules, Proclamations and Orders. All rules, proclama-
+16 tions and orders made as herein provided shall have full force and effect as
+17 law and any person violating any such rule, proclamation or order of the com-
+18 mission, adopted and published as herein set forth, shall be found guilty as
+19 set forth in section 36-1401, Idaho Code.
+20 (3) Notwithstanding any other provision of chapter 52, title 67, Idaho
+21 Code, the Idaho fish and game commission and the director of the Idaho fish
+22 and game department shall be excepted from the requirements of rulemaking
+23 when adopting, repealing, or amending any proclamation relating to setting
+24 of any season or limit on numbers, size, sex, or species of wildlife clas-
+25 sified by the commission as game animals, game birds, furbearers, migratory
+26 birds, salmon, steelhead, and resident fish which that may be taken in this
+27 state if:
+28 (a) Notice of the proposed proclamation is published in the Idaho ad-
+29 ministrative bulletin and is provided in the same manner as an open
+30 meeting under section 74-204, Idaho Code;
+31 (b) A minimum of a thirty (30) day public comment period is provided
+32 when adopting, repealing, or amending any season-setting proclamation.
+33 Emergency proclamations are exempt from the public comment period re-
+34 quirement;
+35 (b) (c) Notice is given to the director of the legislative services of-
+36 fice for review by the germane joint subcommittee as soon as possible
+37 after adoption by the commission; and
+38 (c) (d) The proclamation shall be is published in a pamphlet or brochure
+39 as provided in section 59-1012, Idaho Code, and distributed without
+40 charge to the public. The text of the proclamation published in a pam-
+41 phlet or brochure shall be the official text of the proclamation. Judi-
+42 cial notice shall be taken of the proclamation pamphlet or brochure.
+
+2
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

@@ -1,0 +1,197 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1247
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO EMPLOYMENT; AMENDING TITLE 44, IDAHO CODE, BY THE ADDITION OF A
+3 NEW CHAPTER 3, TITLE 44, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO DEFINE
+4 TERMS, TO REQUIRE COVERED EMPLOYERS TO USE THE E-VERIFY PROGRAM, TO PRO-
+5 VIDE FOR ENFORCEMENT AND VIOLATIONS, TO ESTABLISH DEFENSES, TO PROVIDE
+6 FOR EXCLUSIONS, TO PROVIDE FOR INTERPRETATION, AND TO PROVIDE RULEMAK-
+7 ING AUTHORITY; AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Title 44, Idaho Code, be, and the same is hereby amended
+10 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+11 ter 3, Title 44, Idaho Code, and to read as follows:
+12 CHAPTER 3
+13 IDAHO E-VERIFY ACT
+14 44-301. SHORT TITLE. This chapter shall be known and may be cited as
+15 the "Idaho E-Verify Act."
+16 44-302. DEFINITIONS. As used in this chapter:
+17 (1) "Alien" means any person who is not a citizen or national of the
+18 United States as described in 8 U.S.C. 1101 et seq.
+19 (2) "Covered employer" means:
+20 (a) Every public agency;
+21 (b) Every employer that employs, or has employed, more than one hun-
+22 dred fifty (150) employees during more than twenty-six (26) consecutive
+23 weeks over the immediate past twenty-four (24) month period and that is
+24 party to a contract with a public agency in a manner subject to the re-
+25 quirements of chapter 28, title 67, Idaho Code; and
+26 (c) Every employer that employs, or has employed, more than one hun-
+27 dred fifty (150) employees during more than twenty-six (26) consecutive
+28 weeks over the immediate past twenty-four (24) month period and that is
+29 party to a contract with an agency, as defined in section 67-9203(3),
+30 Idaho Code, if such contract:
+31 (i) Has a value that is equal to or greater than one hundred thou-
+32 sand dollars ($100,000); and
+33 (ii) Is paid wholly or in part with public funds.
+34 (3) "Director" means the director of the Idaho department of labor.
+35 (4) "E-verify" or "e-verify program" means the electronic verifica-
+36 tion of federal employment authorization program of the illegal immigration
+37 reform and immigrant responsibility act, 8 U.S.C. 1324a, operated by the
+38 United States department of homeland security.
+39 (5) "Employee" means any person directed, allowed, or permitted to
+40 perform labor or service of any kind in the state of Idaho by an employer.
+
+2
+1 For the purposes of this chapter, the employees of an independent contractor
+2 working for a business entity shall not be regarded as the employees of the
+3 business entity.
+4 (6) "Employer" means any individual, person, corporation, company,
+5 firm, partnership, or other business entity that has employees.
+6 (7) "Federal work authorization program" means any of the electronic
+7 verification of work authorization programs operated by the United States
+8 department of homeland security or an equivalent federal work authorization
+9 program operated by the United States department of homeland security to
+10 verify information of newly hired employees pursuant to 8 U.S.C. 1324a.
+11 (8) "Knowingly" means, with respect to conduct or to a circumstance
+12 described by a statute defining an offense, that a person is aware by docu-
+13 mentation or action that the person's conduct is of that nature or that the
+14 circumstance exists. "Knowingly" includes the failure to request or review
+15 documentation of an employee's federal work authorization. The following
+16 documentation creates a presumption that a person is not an unauthorized
+17 worker:
+18 (a) A valid, unexpired Idaho driver's license;
+19 (b) A valid, unexpired Idaho identification card issued pursuant to the
+20 provisions of section 49-2442, Idaho Code;
+21 (c) A valid tribal enrollment card or other form of tribal identifica-
+22 tion bearing a photograph or other biometric identifier;
+23 (d) Any valid United States federal or state government-issued identi-
+24 fication document bearing a photograph or other biometric identifier,
+25 if issued by an entity that requires proof of lawful presence in the
+26 United States before issuance;
+27 (e) A foreign passport with an unexpired United States visa and a corre-
+28 sponding stamp or notation by the United States department of homeland
+29 security indicating the bearer's admission to the United States; or
+30 (f) A foreign passport issued by a visa waiver program-designated coun-
+31 try with the corresponding entry stamp and unexpired duration of stay
+32 annotation or an I-94W form by the United States department of homeland
+33 security indicating the bearer's admission to the United States.
+34 (9) "Public agency" means any state, county, city, school district,
+35 municipal corporation, independent public body corporate and politic, dis-
+36 trict, public health district, public benefit corporation, public author-
+37 ity, political subdivision, or any agency, department, bureau, commission,
+38 office, council or committee thereof, or any combination thereof.
+39 (10) "Unauthorized worker" means an alien who is not authorized to work
+40 in the United States as defined in 8 U.S.C. 1324a(h)(3).
+41 44-303. COVERED EMPLOYERS REQUIRED TO USE E-VERIFY PROGRAM. (1) On and
+42 after January 1, 2027, every covered employer in Idaho shall enroll in the
+43 e-verify program and shall thereafter, according to the federal statutes and
+44 regulations governing e-verify, verify the employment eligibility of new
+45 hires through e-verify. A covered employer that uses e-verify to verify the
+46 work authorization of an employee shall not be considered to have knowingly
+47 violated this chapter with respect to the employment of such employee.
+48 (2) On and after January 1, 2027, it shall be unlawful for any covered
+49 employer to knowingly hire, recruit, or refer, either for the employer it-
+
+3
+1 self or on behalf of another, for private or public employment within the
+2 state, an employee whose work authorization has not been verified through
+3 the e-verify program. Covered employers are required to verify an em-
+4 ployee's federal work authorization through the e-verify program within
+5 the first three (3) days after the employee's first day of work for pay has
+6 elapsed or by no later than the first day of work for pay if the employee will
+7 work for fewer than three (3) days.
+8 44-304. ENFORCEMENT -- VIOLATIONS. (1) If the director determines
+9 that a covered employer is not in compliance with section 44-303, Idaho Code,
+10 the director shall notify, in writing, the covered employer of the facts
+11 demonstrating noncompliance and provide the noncomplying covered employer
+12 with at least thirty (30) days to become compliant and provide evidence of
+13 such compliance to the director. If the notified covered employer does not
+14 comply within the time allowed, then the director may pursue an enforcement
+15 action pursuant to this chapter.
+16 (2) The director may bring a civil complaint to enforce the provisions
+17 of this chapter in the district court for the county where the covered em-
+18 ployer resides or has its principal place of business within the state of
+19 Idaho. Such action may only be initiated after the director has complied
+20 with the notice provisions of subsection (1) of this section and where com-
+21 pliance is not achieved within the time allowed.
+22 (3) In any court proceedings pursuant to this section, the determina-
+23 tion of whether an employee is an unauthorized worker shall be made by the
+24 federal government, pursuant to 8 U.S.C. 1373(c). The court shall consider
+25 only the federal government's determination when deciding whether an em-
+26 ployee is an unauthorized worker. The court may take judicial notice of
+27 any verification of an individual's federal work authorization previously
+28 provided by the federal government and may request the federal government to
+29 provide further automated or testimonial verification. No officer of the
+30 state or any political subdivision of the state shall attempt to indepen-
+31 dently make a final determination of an alien's federal work authorization.
+32 (4) Upon a finding or determination by clear and convincing evidence
+33 that a covered employer has knowingly violated the provisions of section
+34 44-303, Idaho Code, a court shall:
+35 (a) Order the covered employer to terminate the employment of every
+36 unauthorized worker;
+37 (b) Subject the covered employer to a one (1) year probationary period,
+38 applicable throughout the state of Idaho, during which time the covered
+39 employer shall file quarterly reports with the director identifying
+40 each new employee who is hired by the covered employer in the state of
+41 Idaho; and
+42 (c) Order the covered employer to file a signed, sworn affidavit with
+43 the director within three (3) days after an order is issued by the court
+44 stating that the covered employer has terminated the employment of ev-
+45 ery unauthorized worker and that the covered employer will not there-
+46 after knowingly or intentionally employ an unauthorized worker in the
+47 state of Idaho.
+48 (5) If a covered employer that is not a public agency but that is a party
+49 to a contract with a public agency is found or determined by a court by clear
+
+4
+1 and convincing evidence to have knowingly violated the provisions of section
+2 44-303, Idaho Code, for a second or subsequent time within a three (3) year
+3 period, the court may find that the covered employer is in breach of its con-
+4 tract with the applicable public agency. Upon a finding of a breach of con-
+5 tract pursuant to this subsection, the court may declare such contract to be
+6 terminated.
+7 44-305. DEFENSES. (1) This chapter may not be construed to deny any
+8 procedural mechanisms or legal defenses included in the e-verify program or
+9 any other federal work authorization program.
+10 (2) A covered employer that establishes that it has complied, or at-
+11 tempted to comply, with this chapter shall establish an affirmative defense
+12 that such covered employer did not knowingly hire or employ an unauthorized
+13 worker.
+14 (3) It is an affirmative defense to a violation of this chapter that a
+15 covered employer was entrapped. To establish a claim of entrapment, a cov-
+16 ered employer must establish the following by clear and convincing evidence:
+17 (a) The idea of committing the violation started with law enforcement
+18 officers or their agents rather than with the covered employer;
+19 (b) The law enforcement officers or their agents urged and induced the
+20 covered employer to commit the violation; and
+21 (c) The covered employer was not already predisposed to commit the vio-
+22 lation before the law enforcement officers or their agents urged and in-
+23 duced the covered employer to commit the violation.
+24 44-306. EXCLUSIONS. (1) A contractor of any tier shall not be liable
+25 under this chapter when its direct subcontractor violates this chapter.
+26 (2) This chapter does not apply to the relationship between a party and
+27 the employees of an independent contractor performing work for the party.
+28 44-307. INTERPRETATION. (1) The provisions of this chapter relating
+29 to immigration terminology and definitions shall be construed to have the
+30 same meanings as provided under federal immigration law, unless otherwise
+31 defined in this chapter.
+32 (2) The provisions of this chapter shall be construed and implemented
+33 in a manner consistent with federal laws, federal regulations, and interpre-
+34 tive case law governing immigration and civil rights.
+35 44-308. RULEMAKING AUTHORITY. The director may promulgate rules, sub-
+36 ject to legislative approval, in accordance with the provisions of chapter
+37 52, title 67, Idaho Code, as necessary to carry out the provisions of this
+38 chapter.
+39 SECTION 2. This act shall be in full force and effect on and after Jan-
+40 uary 1, 2027.

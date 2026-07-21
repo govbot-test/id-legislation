@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1365
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTION CAMPAIGN CONTRIBUTIONS AND EXPENDITURES; AMENDING SEC-
+3 TION 67-6606, IDAHO CODE, TO PROVIDE AN EXEMPTION FOR RELIGIOUS ORGANI-
+4 ZATIONS IN CERTAIN INSTANCES; AND DECLARING AN EMERGENCY AND PROVIDING
+5 AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 67-6606, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 67-6606. EXPENDITURES BY NONBUSINESS ENTITY. (1) Any nonbusiness en-
+10 tity that is not a political committee as defined in section 67-6602, Idaho
+11 Code, making expenditures in or directed to voters in the state of Idaho in
+12 an amount exceeding one thousand dollars ($1,000) in any calendar year for
+13 the purpose of supporting or opposing one (1) or more candidates or measures
+14 shall file a statement with the secretary of state. The statement shall in-
+15 clude:
+16 (a) The name and address of the nonbusiness entity and the name and ad-
+17 dress of its principal officer or directors.
+18 (b) The name and address of each person whose fees, dues, payments
+19 or other consideration paid to such nonbusiness entity during either
+20 of the prior two (2) calendar years has exceeded five hundred dollars
+21 ($500) or who has paid or has agreed to pay fees, dues, payments or other
+22 consideration exceeding five hundred dollars ($500) to such entity dur-
+23 ing the current year.
+24 (2) This statement shall be filed within thirty (30) days of when the
+25 one thousand dollar ($1,000) threshold mentioned in subsection (1) of this
+26 section is exceeded.
+27 (3) The provisions of this section shall not apply to a religious or-
+28 ganization for any action taken to support or oppose any measure if the reli-
+29 gious organization's expenditures or contributions in support or opposition
+30 are in an amount less than ten percent (10%) of its total receipts for the
+31 prior calendar year.
+32 SECTION 2. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after
+34 July 1, 2026.

@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 850
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAID; AMENDING SECTION 31-3502, IDAHO CODE, TO REMOVE A CODE
+3 REFERENCE; REPEALING SECTION 56-267, IDAHO CODE, RELATING TO MEDICAID
+4 ELIGIBILITY EXPANSION; REPEALING SECTION 56-2205, IDAHO CODE, RELATING
+5 TO LEGISLATIVE APPROVAL AND MEDICAID EXPANSION LIMITS; AND PROVIDING AN
+6 EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 31-3502, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 31-3502. ELIGIBILITY FOR FINANCIAL ASSISTANCE. (1) Notwithstanding
+11 any provision of law or rule to the contrary, no person eligible for medic-
+12 aid pursuant to section 56-254 or 56-267, Idaho Code, shall be eligible for
+13 financial assistance pursuant to this chapter as it existed on March 1, 2022.
+14 (2) Notwithstanding any provision of law or rule to the contrary, no
+15 person eligible for health insurance shall be eligible for financial assis-
+16 tance pursuant to this chapter as it existed on March 1, 2022.
+17 (3) Notwithstanding any provision of law or rule to the contrary, no
+18 person in a commitment proceeding pursuant to chapter 3, title 66, Idaho
+19 Code, who is eligible for medicaid or eligible for health insurance shall be
+20 eligible for financial assistance pursuant to this chapter as it existed on
+21 March 1, 2022.
+22 (4) A board of county commissioners, the board of the catastrophic
+23 health care cost program, or the department of health and welfare receiving
+24 an application for assistance for services received through March 31, 2022,
+25 shall process such application pursuant to this chapter as it existed on
+26 March 1, 2022.
+27 (5) It is the intent of the legislature that moneys saved by counties
+28 pursuant to this section may be used for additional county aid to public
+29 health districts as required by section 39-424A, Idaho Code.
+30 SECTION 2. That Section 56-267, Idaho Code, be, and the same is hereby
+31 repealed.
+32 SECTION 3. That Section 56-2205, Idaho Code, be, and the same is hereby
+33 repealed.
+34 SECTION 4. This act shall be in full force and effect on and after Jan-
+35 uary 1, 2028.

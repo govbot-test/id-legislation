@@ -1,0 +1,337 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1378
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PARKS AND RECREATION; AMENDING SECTION 57-1901, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING THE OFF-ROAD MOTOR VEHICLE ACCOUNT; AMEND-
+4 ING SECTION 67-7106, IDAHO CODE, TO REVISE PROVISIONS REGARDING SNOWMO-
+5 BILES; AMENDING SECTION 67-7107A, IDAHO CODE, TO REVISE PROVISIONS RE-
+6 GARDING THE STATE SNOWMOBILE AVALANCHE FUND; AMENDING SECTION 67-7113,
+7 IDAHO CODE, TO REVISE PROVISIONS REGARDING VIOLATIONS AND LIABILITY;
+8 AMENDING SECTION 67-7126, IDAHO CODE, TO REVISE PROVISIONS REGARD-
+9 ING OFF-HIGHWAY VEHICLES AND THE ASSOCIATED ACCOUNT; AMENDING SECTION
+10 67-7127, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE USE OF MONEYS
+11 IN THE OFF-HIGHWAY VEHICLES ACCOUNT; AMENDING SECTION 67-7128, IDAHO
+12 CODE, TO REVISE PROVISIONS REGARDING THE OFF-HIGHWAY VEHICLE ADVISORY
+13 COMMITTEE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That Section 57-1901, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 57-1901. CREATION OF OFF-ROAD MOTOR VEHICLE ACCOUNT -- PURPOSE. (1)
+18 There is hereby created and established in the state treasury an account to
+19 be known as the "off-road motor vehicle account" to which shall be credited
+20 or deposited all moneys accruing for the purposes of the account.
+21 (2) The purposes for which moneys in the account may be used shall be to:
+22 (a) acquire Acquire, purchase, improve, repair, maintain, furnish, and
+23 equip off-road motor vehicle facilities and sites or areas used by off-
+24 road vehicles on public or private land, and to assist;
+25 (b) Assist with the enforcement of laws and regulations governing the
+26 use of off-road vehicles in the state of Idaho.;
+27 (c) Secure special leases, use licenses, or recreation easements or
+28 permits, or to purchase land under private, state, or federal ownership
+29 to be used for public recreational off-road vehicle activity;
+30 (d) Secure, maintain, construct, or develop trails and other public
+31 recreational facilities for off-road vehicle use on private, state, and
+32 federal lands;
+33 (e) Finance the formulation and implementation under the park and
+34 recreation board's direction of an off-the-road rider education pro-
+35 gram; and
+36 (f) Acquire applicable federal matching funds.
+37 (3) The park and recreation board is charged with the administration of
+38 the account for the purposes specified herein.
+39 (4) The provisions of section 67-4228, Idaho Code, are made applicable
+40 for the provisions of to this section.
+41 (5) All claims against the account shall be examined, audited, and al-
+42 lowed in the same manner now or hereafter provided by law for claims against
+
+2
+1 the state, except that the board is hereby empowered to enter into agreements
+2 with legal governmental agencies in Idaho and Idaho nonprofit entities, for
+3 the disbursement of funds to them on a project by project basis.
+4 (6) For the purposes of this section, "off-road vehicle" has the same
+5 meaning as "off-highway vehicle," defined in section 67-7101, Idaho Code.
+6 SECTION 2. That Section 67-7106, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 67-7106. SNOWMOBILES -- DISTRIBUTION OF MONEYS COLLECTED -- COUNTY
+9 SNOWMOBILE FUND -- STATE SNOWMOBILE FUND -- DEPARTMENT OF LANDS ALLOCATION
+10 -- STATE SNOWMOBILE SEARCH AND RESCUE FUND -- STATE SNOWMOBILE AVALANCHE
+11 FUND. (1) Each vendor shall, not later than the fifteenth day of each month,
+12 remit all moneys collected under the provisions of sections 67-7103 and
+13 67-7104, Idaho Code, to the state treasurer for credit to the state snow-
+14 mobile fund, established in the dedicated fund, to be administered by the
+15 director, except that the amounts designated in this subsection from each
+16 snowmobile certificate of number fee, each rental certificate of number
+17 fee, and each nonresident snowmobile user certificate issued by the vendor
+18 shall be credited by the state treasurer to each of the following funds or
+19 entities:
+20 (a) Two dollars ($2.00) One dollar ($1.00) to the state snowmobile
+21 search and rescue fund created in section 67-2913A, Idaho Code;
+22 (b) One dollar ($1.00) to the state snowmobile avalanche fund created
+23 in section 67-7107A, Idaho Code; and
+24 (c) One dollar ($1.00) to the Idaho department of lands to provide snow-
+25 mobile opportunities and to repair damage directly related to snowmo-
+26 bile use, provided that:
+27 (i) the The Idaho department of lands shall annually publish a
+28 report specifically identifying the uses of moneys allocated pur-
+29 suant to this subsection.; and
+30 (ii) Any funds so credited that remain or are unencumbered by the
+31 department of lands after three (3) fiscal years shall be returned
+32 to the state treasurer for deposit in the state snowmobile fund.
+33 (2) Each county with a bona fide snowmobile program shall be entitled to
+34 receive from the department eighty-five percent (85%) of the moneys gener-
+35 ated for that county during that certificate of number period. Counties with
+36 a bona fide snowmobile program may use up to fifteen percent (15%) of their
+37 county snowmobile moneys upon recommendation by their county snowmobile ad-
+38 visory committee for snowmobile law enforcement purposes.
+39 (3) Up to fifteen percent (15%) of the revenue generated from snowmo-
+40 bile certificates of number each year may be used by the department to defray
+41 administrative costs. Any moneys unused at the end of the fiscal year shall
+42 be returned to the state treasurer for deposit in the state snowmobile fund.
+43 (4) Vendors shall be entitled to retain a handling fee of one dollar and
+44 fifty cents ($1.50) per certificate of number or nonresident user certifi-
+45 cate. Handling fees collected by the department shall be deposited to the
+46 state snowmobile fund.
+47 (5) For those certificates of number not designated to a bona fide
+48 county snowmobile program, the moneys generated shall be deposited to the
+
+3
+1 state snowmobile fund, and such fund shall be available to the department for
+2 snowmobile-related expenses.
+3 SECTION 3. That Section 67-7107A, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 67-7107A. STATE SNOWMOBILE AVALANCHE FUND -- STATE SNOWMOBILE
+6 AVALANCHE FUND COMMITTEE. (1) There is hereby established in the state
+7 treasurer's office an account to be known and designated as the "state snow-
+8 mobile avalanche fund." This fund shall receive one dollar ($1.00) from each
+9 snowmobile certificate of number fee, one dollar ($1.00) from each rental
+10 certificate of number fee, and one dollar ($1.00) from each nonresident
+11 snowmobile user certificate issued by vendors, as provided for in section
+12 67-7106, Idaho Code. Any amounts credited to this fund that remain or are
+13 unencumbered after three (3) fiscal years shall be returned to the state
+14 treasurer for deposit in the state snowmobile fund. This fund shall be man-
+15 aged by the state snowmobile avalanche fund committee.
+16 (2) The board shall appoint a state snowmobile avalanche fund committee
+17 (SSAFC) of five (5) members. The membership of the SSAFC shall consist of the
+18 director of the United States forest service national avalanche center, or
+19 his designee, who shall chair the SSAFC, and one (1) active snowmobiler from
+20 each of the following districts: north Idaho, central Idaho, south Idaho,
+21 and east Idaho. These four (4) regional members of the SSAFC shall be ap-
+22 pointed by the board from a list of no fewer than two (2) persons nominated by
+23 the Idaho state snowmobile association, and said members shall serve a term
+24 of four (4) years, except that the term of the initial appointees shall com-
+25 mence on the date of appointment and shall be staggered such that at least
+26 one (1) position is up for appointment each year. Each member of the SSAFC
+27 must be a qualified elector of the state, maintaining a residence and domi-
+28 cile within the district of appointment. For purposes of SSAFC membership
+29 and representation, the four (4) districts shall be as follows:
+30 (a) North Idaho consists of Boundary, Bonner, Kootenai, Benewah,
+31 Latah, Shoshone, Clearwater, Nez Perce, Lewis, and Idaho counties.
+32 (b) Central Idaho consists of Adams, Washington, Valley, Payette, Gem,
+33 Boise, Canyon, Ada, Elmore, and Owyhee counties.
+34 (c) South Idaho consists of Lemhi, Custer, Butte, Camas, Blaine, Good-
+35 ing, Lincoln, Jerome, Minidoka, Twin Falls, and Cassia counties.
+36 (d) East Idaho consists of Clark, Fremont, Jefferson, Madison, Teton,
+37 Bonneville, Bingham, Power, Bannock, Caribou, Bear Lake, Franklin, and
+38 Oneida counties.
+39 (3) The duties of the SSAFC include:
+40 (a) Determining and directing distributions from the state snowmobile
+41 avalanche fund, at least annually, to avalanche centers within the
+42 state of Idaho or avalanche centers providing reporting services within
+43 the state of Idaho operated and administered by the national avalanche
+44 center, United States forest service, or United States department of
+45 agriculture. The SSAFC may require that applications or proposals be
+46 submitted for review and consideration from avalanche centers seeking
+47 funds from the state snowmobile avalanche fund. The SSAFC must require
+48 the funds so distributed be used for existing avalanche center oper-
+49 ations and maintenance within or for the benefit of areas within the
+
+4
+1 state of Idaho, which include: avalanche forecaster labor; website
+2 and information technology improvements and maintenance; snowmobiles
+3 and related equipment; remote weather station installation and upkeep;
+4 avalanche education costs; and safety equipment;
+5 (b) Representing the best interests of the snowmobile users in the dis-
+6 trict from which each member is appointed; and
+7 (c) Advising existing avalanche centers in Idaho and registered non-
+8 profit organizations that support them as to whether current projects
+9 meet the needs of snowmobile users in that area.
+10 (4) The SSAFC shall be compensated as provided in section 59-509(b),
+11 Idaho Code.
+12 SECTION 4. That Section 67-7113, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 67-7113. VIOLATIONS -- ACCOUNTABLE FOR PROPERTY DAMAGE. (1) Unless
+15 otherwise provided in this chapter, any person who violates any provision
+16 of this chapter, or any rule promulgated by the department pursuant to this
+17 chapter, shall be guilty of an infraction and shall be punished by a fine of
+18 one hundred dollars ($100).
+19 (2) In addition thereto, the operator and/or owner of the snowmobile or
+20 OHV shall be responsible and held accountable to the owner of any lands where
+21 trees, shrubs, or other property have been damaged as the result of travel
+22 over their premises.
+23 (3) Whenever any owner of public or private land gives notice of and
+24 imposes closures, restrictions, rules, or prohibitions in relation to the
+25 use of the owner's land by snowmobile or OHV operators, any person who vio-
+26 lates the same shall be guilty of trespass, punishable as provided by section
+27 18-7008, Idaho Code. For the purposes of this subsection, "notice" means ac-
+28 tual or constructive notice.
+29 SECTION 5. That Section 67-7126, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 67-7126. OFF-HIGHWAY VEHICLES -- ESTABLISHMENT OF ACCOUNT -- DISTRI-
+32 BUTION OF FEES. (1) There is hereby established in the state treasurer's of-
+33 fice an account to be known and designated as the "OHV recreation account."
+34 (2) The fee of twelve-dollars ($12.00) fee collected for off-highway
+35 vehicle certificates of number and nonresident user certificates under the
+36 provisions of pursuant to sections 67-7122 and 67-7124, Idaho Code, shall be
+37 allocated as follows:
+38 (1) (a) Vendors shall charge and retain one dollar and fifty cents
+39 ($1.50) for a handling fee;
+40 (2) (b) Up to fifteen percent (15%) of the revenue generated from OHV
+41 certificates may be used by the department to defray administrative
+42 costs and the production of certificates of number, nonresident user
+43 certificates, and validation stickers. Any moneys unused at the end
+44 of the fiscal year shall be returned to the Idaho state treasurer for
+45 deposit in the OHV recreation account;
+46 (3) (c) One dollar ($1.00) shall be deposited into the off-highway ve-
+47 hicle law enforcement fund. Moneys in said fund shall be paid and used
+
+5
+1 as follows: used only for off-highway-related law enforcement activi-
+2 ties and allocated pursuant to this paragraph.
+3 (a) (i) Sheriffs of counties with a current or an actively de-
+4 veloping bona fide off-highway vehicle law enforcement program
+5 that is recognized by the department shall receive moneys from the
+6 fund based upon a formula as provided in rule promulgated by the
+7 board; and be allocated a minimum of twenty-five hundred dollars
+8 ($2,500).
+9 (ii) Moneys remaining in the fund shall be allocated among such
+10 counties as follows:
+11 1. Fifty percent (50%) based on the use area designation
+12 made by purchasers of off-highway vehicle certificates;
+13 2. Twenty-five percent (25%) based on the number of
+14 off-highway vehicle education certificates awarded for com-
+15 pleting off-highway vehicle rider safety classes;
+16 3. Twelve and one-half percent (12.5%) based on the total
+17 number of off-highway vehicle inspections performed; and
+18 4. Twelve and one-half percent (12.5%) based on the total
+19 number of off-highway vehicle citations issued;
+20 (b) Moneys from the fund shall be used only for off-highway-related law
+21 enforcement activities; and
+22 (4) (d) One dollar ($1.00) shall be allocated to the Idaho department of
+23 lands to provide off-highway vehicle opportunities and to repair damage
+24 directly related to off-highway vehicle use. Any funds so credited that
+25 remain or are unencumbered by the department of lands after three (3)
+26 fiscal years shall be returned to the state treasurer for deposit in the
+27 OHV recreation account. The department of lands shall annually publish
+28 a report specifically identifying the uses of moneys allocated pursuant
+29 to this subsection; and
+30 (5) (e) The remaining funds shall be transmitted to the state trea-
+31 surer's office for deposit to the credit of the OHV recreation account,
+32 all such moneys to be transmitted to the state treasurer on or before the
+33 tenth day of each month.
+34 (3) An off-highway vehicle law enforcement program shall be bona fide
+35 if it is sponsored by a county sheriff to promote off-highway vehicle safety,
+36 education, and law enforcement and is overseen by an advisory committee
+37 of three (3) or more individuals that includes at least one (1) sheriff or
+38 deputy sheriff and two (2) representatives of active off-highway vehicle
+39 users that reside in the applicable county and who are not law enforcement
+40 officers.
+41 (a) The department may withhold recognition of a bona fide off-highway
+42 vehicle law enforcement program if a county failed to perform its off-
+43 highway vehicle enforcement duties within the past calendar year.
+44 (b) A bona fide off-highway vehicle law enforcement program shall sub-
+45 mit an annual report documenting the previous year's accomplishments to
+46 the department by March 1 of each year. The report shall include:
+47 (i) The names of the advisory committee members;
+48 (ii) The number of off-highway vehicle safety class certificates
+49 awarded;
+50 (iii) The number of off-highway vehicle inspections completed;
+
+6
+1 (iv) The number of off-highway vehicle accidents reported; and
+2 (v) The number of off-highway vehicle citations issued.
+3 (c) The department may require such report be submitted using certain
+4 forms.
+5 (4) Off-highway vehicle certificates' use area designations shall be
+6 collected and reported from January 1 through December 31 of the preceding
+7 year.
+8 (5) The department shall annually publish a report specifically iden-
+9 tifying the use of revenues generated from OHV certificates of number and
+10 nonresident user certificates. Collection of fees for off-highway vehicle
+11 certificates of number and nonresident user certificates shall not impose
+12 any additional liability on the state of Idaho or any of its political sub-
+13 divisions or upon the employees of the state and or of its political subdi-
+14 visions, and those entities and persons shall retain the limitations of lia-
+15 bility provided by section 36-1604, Idaho Code, regardless of the use of such
+16 fees.
+17 SECTION 6. That Section 67-7127, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 67-7127. OFF-HIGHWAY VEHICLES -- USE OF MONEYS IN ACCOUNT. The board
+20 shall administer the OHV recreation account. The moneys derived from this
+21 account shall be used as follows:
+22 (1) For the securing of special leases, use licenses, or recreation
+23 easements or permits, or for the actual purchase of land under private,
+24 state, or federal ownership to be used for public recreational off-highway
+25 vehicle activity;
+26 (2) For the securing, maintenance, construction or development of
+27 trails and other public recreational facilities for off-highway vehicle use
+28 on private, state, and federal lands;
+29 (3) To finance the formulation and implementation under the board's di-
+30 rection of an off-the-road rider education program; and
+31 (4) To acquire applicable federal matching funds.; and
+32 (5) To acquire, purchase, improve, repair, maintain, furnish, and
+33 equip off-highway vehicle facilities and sites or areas used by off-highway
+34 vehicles on public or private land.
+35 SECTION 7. That Section 67-7128, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 67-7128. OFF-ROAD MOTOR OFF-HIGHWAY VEHICLE ADVISORY COMMITTEE --
+38 CREATION -- SELECTION -- TERM OF OFFICE -- DUTY. (1) The park and recre-
+39 ation board shall appoint an off-road motor off-highway vehicle advisory
+40 committee (ORMV) (OHVAC) of nine (9) members. The membership of the advi-
+41 sory committee shall consist of three (3) members each from northern Idaho,
+42 southwestern Idaho, and southeastern Idaho. Two (2) members from each area
+43 shall represent the following groups: motorbikes, ATV or UTV riders and
+44 snowmobilers. One (1) member interested in ORMV projects shall be appointed
+45 from each area without regard to the recreational activity in which that
+46 member participates and shall represent interests other than motorbike, ATV
+47 or UTV riders and snowmobilers.
+
+7
+1 (a) One (1) member from each area shall represent motorbike riders.
+2 (b) One (1) member from each area shall represent ATV riders.
+3 (c) One (1) member from each area shall represent UTV or specialty off-
+4 highway vehicle riders.
+5 (2) Each member of the advisory committee shall be chosen by the park
+6 and recreation board to serve a term of three (3) years, except that the term
+7 of the initial appointees shall commence on the date of appointment and shall
+8 be of staggered lengths. Each member of the advisory committee shall be a
+9 qualified elector of the state.
+10 (3) Duties of the committee shall include:
+11 (a) Representing the best interests of the ORMV off-highway vehicle
+12 users and activities which they represent in the district from which
+13 they are appointed;
+14 (b) Advising the department as to whether proposed ORMV OHVAC projects
+15 meet the needs of ORMV off-highway vehicle users in that area;
+16 (c) Advising the department as to how funds can be used to rehabilitate
+17 areas on public or private lands and how the department can assist in the
+18 enforcement of laws and regulations governing the use of off-road off-
+19 highway vehicles in the state of Idaho; and
+20 (d) The three (3) motorbike, all-terrain vehicle or utility type ve-
+21 hicle representatives from the ORMV advisory committee shall advise
+22 Advising the department on matters relating to the use of moneys in the
+23 motorbike OHV recreation account as provided for in section 67-7127,
+24 Idaho Code.
+25 (2) (4) The committee shall be compensated as provided in section
+26 59-509(f), Idaho Code, and authorized by the department.
+27 SECTION 8. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2026.

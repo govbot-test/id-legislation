@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 738
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO FORMATION OF LIMITED LIABILITY COMPANIES; AMENDING SECTION
+3 30-25-201, IDAHO CODE, TO PROVIDE THAT AN ORGANIZER MAY USE THE STREET
+4 AND MAILING ADDRESSES OF A COMPANY'S COMMERCIAL REGISTERED AGENT IN
+5 CERTAIN CIRCUMSTANCES; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+6 FECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 30-25-201, Idaho Code, be, and the same is
+9 hereby amended to read as follows:
+10 30-25-201. FORMATION OF LIMITED LIABILITY COMPANY -- CERTIFICATE OF
+11 ORGANIZATION. (a) One (1) or more persons may act as organizers to form a lim-
+12 ited liability company by delivering to the secretary of state for filing a
+13 certificate of organization.
+14 (b) A certificate of organization must state:
+15 (1) The name of the limited liability company that must comply with sec-
+16 tions 30-21-301 and 30-21-302(d), Idaho Code;
+17 (2)(i) The street and mailing addresses of the company's principal
+18 office; or
+19 (ii) The street and mailing addresses of the company's commercial
+20 registered agent if:
+21 1. The limited liability company attests that it has no
+22 physical location other than a residential address; and
+23 2. The commercial registered agent maintaining the regis-
+24 tered office consents to the use of its address as the lim-
+25 ited liability company's principal office;
+26 (3) The information required by section 30-21-404(a), Idaho Code;
+27 (4) The name and mailing address of at least one (1) governor of the com-
+28 pany; and
+29 (5) If the company is a professional entity, a statement that the com-
+30 pany is a professional limited liability company and the principal
+31 profession or professions for which the company's members are duly
+32 licensed or otherwise legally authorized to render professional ser-
+33 vices.
+34 (c) A certificate of organization may contain statements as to matters
+35 other than those required by subsection (b) of this section, but may not
+36 vary or otherwise affect the provisions specified in section 30-25-105(c)
+37 and (d), Idaho Code, in a manner inconsistent with that section. However, a
+38 statement in a certificate of organization is not effective as a statement
+39 of authority. The secretary of state shall not accept operating agreements
+40 for filing.
+41 (d) A limited liability company is formed when the certificate of or-
+42 ganization becomes effective.
+
+2
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

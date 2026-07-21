@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1442
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO REFUGEE AND ILLEGAL ALIEN ACCOUNTABILITY ACT; PROVID-
+3 ING A SHORT TITLE; AMENDING CHAPTER 4, TITLE 67, IDAHO CODE, BY THE AD-
+4 DITION OF A NEW SECTION 67-467, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+5 GARDING AN AUDIT OF THE RESETTLEMENT OF REFUGEES; AMENDING CHAPTER 30,
+6 TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 67-3015, IDAHO
+7 CODE, TO ESTABLISH PROVISIONS REGARDING THE IMMIGRATION STATUS AND NA-
+8 TIONALITY OF ARRESTED INDIVIDUALS; AND DECLARING AN EMERGENCY AND PRO-
+9 VIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. SHORT TITLE. This act shall be known and may be cited as the
+12 "Idaho Refugee and Illegal Alien Accountability Act."
+13 SECTION 2. That Chapter 4, Title 67, Idaho Code, be, and the same is
+14 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+15 ignated as Section 67-467, Idaho Code, and to read as follows:
+16 67-467. AUDIT OF REFUGEE RESETTLEMENT. (1) As used in this section:
+17 (a) "Entity" means any corporation and foreign corporation; business
+18 corporation and foreign business corporation; for-profit and nonprofit
+19 unincorporated association; corporation sole; business trust, estate,
+20 partnership, trust, and two (2) or more persons having a joint or common
+21 economic interest; and a state, the United States, and a foreign govern-
+22 ment.
+23 (b) "Illegal alien" means a person who is not lawfully present in the
+24 United States.
+25 (c) "Refugee" is as defined in 8 U.S.C. 1101(42).
+26 (d) "Resettlement services" means any service provided by an entity
+27 that entered into a grant, contract, or cooperative agreement with the
+28 United States department of state or other appropriate federal agency
+29 to provide for the reception and initial placement of refugees in the
+30 United States.
+31 (2) Any entity incorporated under the laws of the state of Idaho pro-
+32 viding resettlement services for refugees shall provide the legislature an
+33 annual audit of such services in accordance with the provisions of sections
+34 67-466 and 67-705, Idaho Code.
+35 (3) Such audit shall detail the following:
+36 (a) The total number of refugees served;
+37 (b) The nationality and gender of refugees served;
+38 (c) The language abilities of refugees served;
+39 (d) The successful rate of participation in language remediation pro-
+40 gramming for refugees served;
+41 (e) The counties and municipalities where refugees served are housed;
+
+2
+1 (f) The housing units taken by refugees served; and
+2 (g) The vital statistics, including the rates of communicable disease,
+3 among refugees served.
+4 (4) Any entity incorporated under the laws of the state of Idaho pro-
+5 viding resettlement services for refugees is prohibited from harboring or
+6 concealing an illegal alien, transporting an illegal alien in furtherance of
+7 remaining unlawfully in the United States, or encouraging or inducing an il-
+8 legal alien to remain in the United States unlawfully.
+9 (5) Any entity providing refugee resettlement services to illegal
+10 aliens shall account for the names and identifying demographics of such
+11 aliens for the purposes of providing a catalog of names that may be matched
+12 against federal immigration databases at the department of homeland secu-
+13 rity, department of health and human services, and department of state.
+14 SECTION 3. That Chapter 30, Title 67, Idaho Code, be, and the same is
+15 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+16 ignated as Section 67-3015, Idaho Code, and to read as follows:
+17 67-3015. IMMIGRATION STATUS AND NATIONALITY OF ARRESTED INDIVIDU-
+18 ALS. (1) As used in this section:
+19 (a) "Administration of criminal justice" means performance of any
+20 of the following activities: detection, apprehension, detention,
+21 pretrial release, post-trial release, prosecution, adjudication,
+22 correctional supervision, or rehabilitation of accused persons or
+23 criminal offenders. The administration of criminal justice shall in-
+24 clude criminal identification activities and the collection, storage,
+25 and dissemination of criminal history record information.
+26 (b) "Arrest" is as defined in section 19-601, Idaho Code.
+27 (c) "Illegal alien" means a person who is not lawfully present in the
+28 United States.
+29 (d) "Immigration status" means a person's legal right to be in the
+30 United States or lack thereof.
+31 (e) "Law enforcement agency" means any law enforcement agency of the
+32 state or any political subdivision of the state, including the Idaho
+33 state police and any municipal police department or county sheriff's
+34 office.
+35 (2) In the performance of the administration of criminal justice, all
+36 law enforcement agencies shall, consistent with the provisions of section
+37 18-9008, Idaho Code, verify and record the immigration status and national-
+38 ity of any arrested individual.
+39 (3) No later than October 1, 2026, each local, county, and state law
+40 enforcement agency shall record and publish a biannual report containing:
+41 the immigration status and nationality of persons arrested; crime statis-
+42 tics related to illegal aliens arrested in Idaho, including the number of
+43 illegal aliens investigated, apprehended, detained, and transferred to fed-
+44 eral officials; the crimes for which such persons were arrested, if any; and
+45 any reason for noncompliance with the provisions of this section, if appli-
+46 cable.
+47 (4) Local, county, and state law enforcement agencies that fail to
+48 comply with the provisions of this section may be subject to withholding of
+49 state funding.
+
+3
+1 SECTION 4. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

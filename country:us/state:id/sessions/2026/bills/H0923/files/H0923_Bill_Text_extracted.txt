@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 923
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE DEPARTMENT OF ADMINISTRATION; APPRO-
+3 PRIATING ADDITIONAL MONEYS TO THE DEPARTMENT OF ADMINISTRATION FOR FIS-
+4 CAL YEAR 2027; REDUCING THE APPROPRIATION TO THE DEPARTMENT OF ADMINIS-
+5 TRATION FOR FISCAL YEAR 2027; AUTHORIZING ADDITIONAL FULL-TIME EQUIVA-
+6 LENT POSITIONS FOR FISCAL YEAR 2027; AND DECLARING AN EMERGENCY AND PRO-
+7 VIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. In addition to any other appropriation provided by law,
+10 there is hereby appropriated to the Department of Administration the follow-
+11 ing amounts to be expended according to the designated programs and expense
+12 classes from the listed funds for the period July 1, 2026, through June 30,
+13 2027:
+14 FOR FOR FOR
+15 PERSONNEL OPERATING CAPITAL
+16 COSTS EXPENDITURES OUTLAY TOTAL
+17 I. MANAGEMENT SERVICES:
+18 FROM:
+19 Administration and Accounting Services
+20 Fund $77,600 $10,500 $88,100
+21 Employee Group Insurance
+22 Fund 1,900 1,900
+23 Retained Risk
+24 Fund 0 1,900 1,900
+25 TOTAL $77,600 $14,300 $91,900
+26 II. PUBLIC WORKS:
+27 FROM:
+28 Permanent Building
+29 Fund $43,500 $43,500
+30 Administration and Accounting Services
+31 Fund 656,100 $270,900 927,000
+32 TOTAL $699,600 $270,900 $970,500
+
+2
+1 FOR FOR FOR
+2 PERSONNEL OPERATING CAPITAL
+3 COSTS EXPENDITURES OUTLAY TOTAL
+4 III. PURCHASING:
+5 FROM:
+6 Administration and Accounting Services
+7 Fund $146,400 $10,700 $2,400 $159,500
+8 IV. INSURANCE MANAGEMENT:
+9 FROM:
+10 Employee Group Insurance
+11 Fund $1,900 $1,900
+12 Retained Risk
+13 Fund 1,900 1,900
+14 Industrial Special Indemnity
+15 Fund 1,900 1,900
+16 TOTAL $5,700 $5,700
+17 V. DOCUMENT SERVICES:
+18 FROM:
+19 General
+20 Fund $2,000 $2,000
+21 GRAND TOTAL $226,000 $730,300 $273,300 $1,229,600
+22 SECTION 2. Notwithstanding any other provision of law to the contrary,
+23 the appropriation made to the Department of Administration is hereby reduced
+24 by the following amounts according to the designated programs and expense
+25 classes from the listed funds for the period July 1, 2026, through June 30,
+26 2027.
+27 FOR FOR
+28 PERSONNEL OPERATING
+29 COSTS EXPENDITURES TOTAL
+30 I. PUBLIC WORKS:
+31 FROM:
+32 General
+33 Fund $365,000 $365,000
+
+3
+1 FOR FOR
+2 PERSONNEL OPERATING
+3 COSTS EXPENDITURES TOTAL
+4 II. DOCUMENT SERVICES:
+5 FROM:
+6 AdministrationandAccountingServices
+7 Fund $77,600 $5,000 $82,600
+8 GRAND TOTAL $77,600 $370,000 $447,600
+9 SECTION 3. FTP AUTHORIZATION. In addition to any other authorization
+10 provided by law, the full-time equivalent position authorization provided
+11 to the Department of Administration is hereby increased by one (1.00) for the
+12 period July 1, 2026, through June 30, 2027.
+13 SECTION 4. An emergency existing therefor, which emergency is hereby
+14 declared to exist, this act shall be in full force and effect on and after
+15 July 1, 2026.

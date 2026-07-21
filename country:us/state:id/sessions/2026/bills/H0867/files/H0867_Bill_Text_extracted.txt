@@ -1,0 +1,555 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 867
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO APPROPRIATIONS TO GENERAL GOVERNMENT; APPROPRIATING MONEYS TO
+3 THE DEPARTMENT OF ADMINISTRATION, THE CAPITOL COMMISSION, THE COMMIS-
+4 SION ON AGING, THE COMMISSION ON THE ARTS, THE COMMISSION FOR THE BLIND
+5 AND VISUALLY IMPAIRED, THE OFFICE OF DRUG POLICY, THE OFFICE OF ENERGY
+6 AND MINERAL RESOURCES, THE DIVISION OF FINANCIAL MANAGEMENT, THE DIVI-
+7 SION OF HUMAN RESOURCES, THE OFFICE OF INFORMATION TECHNOLOGY SERVICES,
+8 THE STATE LIQUOR DIVISION, THE MILITARY DIVISION, THE PUBLIC EMPLOYEE
+9 RETIREMENT SYSTEM, THE OFFICE OF SPECIES CONSERVATION, THE STEM ACTION
+10 CENTER, THE WOLF DEPREDATION CONTROL BOARD, THE WORKFORCE DEVELOPMENT
+11 COUNCIL, THE BOARD OF TAX APPEALS, AND THE STATE TAX COMMISSION FOR FIS-
+12 CAL YEAR 2027; LIMITING THE NUMBER OF AUTHORIZED FULL-TIME EQUIVALENT
+13 POSITIONS; APPROPRIATING AND TRANSFERRING MONEYS FROM THE PERMANENT
+14 BUILDING FUND TO THE ADMINISTRATION AND ACCOUNTING SERVICES FUND;
+15 APPROPRIATING AND TRANSFERRING MONEYS FROM THE CAPITOL MAINTENANCE RE-
+16 SERVE FUND TO THE CAPITOL COMMISSION OPERATING FUND; PROVIDING REAPPRO-
+17 PRIATION AUTHORITY FOR THE IDAHO STATE CAPITOL COMMISSION; PROVIDING
+18 A CASH TRANSFER TO THE GOVERNOR'S RESIDENCE FUND; PROVIDING REAPPRO-
+19 PRIATION AUTHORITY FOR ENERGY RESILIENCY GRANTS; PROVIDING CONTINUOUS
+20 APPROPRIATION FOR CERTAIN EXPENDITURES BY THE MILITARY DIVISION; PRO-
+21 VIDING CONTINUOUS APPROPRIATION FOR CERTAIN EXPENDITURES BY THE PUBLIC
+22 EMPLOYEE RETIREMENT SYSTEM OF IDAHO; PROVIDING REAPPROPRIATION AUTHOR-
+23 ITY FOR THE ARPA STATE FISCAL RECOVERY FUND; PROVIDING REAPPROPRIATION
+24 AUTHORITY FOR THE IN-DEMAND CAREERS FUND; PROVIDING REAPPROPRIATION
+25 AUTHORITY FOR THE WORKFORCE DEVELOPMENT TRAINING FUND; PROVIDING FOR
+26 PLAN STRUCTURE OF THE GROUP HEALTH INSURANCE PLAN; PROVIDING FOR GROUP
+27 INSURANCE PREMIUMS; REQUIRING AN ACCOUNTABILITY REPORT FOR TAX COL-
+28 LECTIONS AND DISTRIBUTIONS; PROVIDING FOR ACCOUNTABILITY REPORTS;
+29 PROVIDING FOR CONDITIONS, LIMITATIONS, AND RESTRICTIONS; AND DECLARING
+30 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+31 Be It Enacted by the Legislature of the State of Idaho:
+32 SECTION 1. There is hereby appropriated to the programs listed in Gen-
+33 eral Government the following amounts to be expended according to the desig-
+34 nated programs and expense classes from the listed funds for the period July
+35 1, 2026, through June 30, 2027:
+
+2
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 I. DEPARTMENT OF ADMINISTRATION:
+6 A. MANAGEMENT SERVICES:
+7 FROM:
+8 General
+9 Fund $214,500 $148,800 $363,300
+10 Permanent Building
+11 Fund 161,400 18,100 $60,600 240,100
+12 Administration and Accounting Services
+13 Fund 761,900 118,000 879,900
+14 Federal Surplus Property Revolving
+15 Fund 25,200 25,200
+16 Employee Group Insurance
+17 Fund 89,800 100 89,900
+18 Retained Risk
+19 Fund 38,200 38,200
+20 Industrial Special Indemnity
+21 Fund 24,400 0 0 24,400
+22 TOTAL $1,315,400 $285,000 $60,600 $1,661,000
+23 B. PUBLIC WORKS:
+24 FROM:
+25 General
+26 Fund $1,660,400 $1,660,400
+27 Permanent Building
+28 Fund $3,508,700 929,300 4,438,000
+29 Administration and Accounting Services
+30 Fund 3,250,900 12,529,400 15,780,300
+31 TOTAL $6,759,600 $15,119,100 $21,878,700
+32 C. PURCHASING:
+33 FROM:
+34 Administration and Accounting Services
+35 Fund $1,988,600 $397,600 $2,386,200
+36 Federal Surplus Property Revolving
+37 Fund 249,000 415,600 664,600
+38 TOTAL $2,237,600 $813,200 $3,050,800
+
+3
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 D. INSURANCE MANAGEMENT:
+6 FROM:
+7 Employee Group Insurance
+8 Fund $839,500 $449,800 $1,289,300
+9 Retained Risk
+10 Fund 938,200 251,500 1,189,700
+11 Industrial Special Indemnity
+12 Fund 232,700 103,100 335,800
+13 TOTAL $2,010,400 $804,400 $2,814,800
+14 E. DOCUMENT SERVICES:
+15 FROM:
+16 General
+17 Fund $765,800 $765,800
+18 Administration and Accounting Services
+19 Fund 441,100 $716,200 1,157,300
+20 TOTAL $1,206,900 $716,200 $1,923,100
+21 DIVISION
+22 TOTAL $13,529,900 $17,737,900 $60,600 $31,328,400
+23 II. CAPITOL COMMISSION:
+24 FROM:
+25 Capitol Commission Operating
+26 Fund $142,000 $142,000
+27 Capitol Maintenance Reserve
+28 Fund 0 $2,200,000 2,200,000
+29 TOTAL $142,000 $2,200,000 $2,342,000
+30 III. COMMISSION ON AGING:
+31 FROM:
+32 General
+33 Fund $785,800 $347,200 $5,056,800 $6,189,800
+34 Federal Grant
+35 Fund 930,800 497,300 $74,700 9,021,900 10,524,700
+36 TOTAL $1,716,600 $844,500 $74,700 $14,078,700 $16,714,500
+
+4
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 IV. COMMISSION ON THE ARTS:
+6 FROM:
+7 General
+8 Fund $438,900 $156,300 $20,700 $310,200 $926,100
+9 Miscellaneous Revenue
+10 Fund 39,800 66,500 106,300
+11 Federal Grant
+12 Fund 525,900 193,500 29,200 500,200 1,248,800
+13 TOTAL $964,800 $389,600 $49,900 $876,900 $2,281,200
+14 V. COMMISSION FOR THE BLIND AND VISUALLY IMPAIRED:
+15 FROM:
+16 General
+17 Fund $1,073,800 $141,100 $200 $521,800 $1,736,900
+18 Randolph Sheppard
+19 Fund 27,600 100,100 127,700
+20 Rehabilitation Revenue and Refunds
+21 Fund 34,300 13,000 47,300
+22 Miscellaneous Revenue
+23 Fund 28,100 56,300 84,400
+24 Adaptive Aids and Appliances
+25 Fund 28,600 62,900 91,500
+26 Federal Grant
+27 Fund 2,995,800 718,900 0 470,300 4,185,000
+28 TOTAL $4,098,200 $1,012,900 $200 $1,161,500 $6,272,800
+29 VI. OFFICE OF DRUG POLICY:
+30 FROM:
+31 General
+32 Fund $316,500 $66,200 $382,700
+33 Miscellaneous Revenue
+34 Fund 24,500 24,500
+35 Federal Grant
+36 Fund 338,400 989,700 $3,209,800 4,537,900
+37 TOTAL $654,900 $1,080,400 $3,209,800 $4,945,100
+
+5
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 VII. OFFICE OF ENERGY AND MINERAL RESOURCES:
+6 FROM:
+7 Indirect Cost Recovery
+8 Fund $274,700 $62,000 $336,700
+9 Renewable Energy Resources
+10 Fund 206,900 42,500 249,400
+11 Miscellaneous Revenue
+12 Fund 21,800 12,000 33,800
+13 Petroleum Price Violation
+14 Fund 266,400 178,600 $15,900 $58,000 518,900
+15 Federal Grant
+16 Fund 776,400 467,200 0 10,398,900 11,642,500
+17 TOTAL $1,546,200 $762,300 $15,900 $10,456,900 $12,781,300
+18 VIII. DIVISION OF FINANCIAL MANAGEMENT:
+19 FROM:
+20 General
+21 Fund $2,075,400 $180,000 $2,255,400
+22 Indirect Cost Recovery
+23 Fund 117,900 10,000 127,900
+24 Miscellaneous Revenue
+25 Fund 141,300 48,000 189,300
+26 Administrative Code
+27 Fund 480,000 201,600 681,600
+28 American Rescue Plan
+29 Fund $20,589,700 20,589,700
+30 ARPA Homeowner Assistance
+31 Fund 20,000,000 20,000,000
+32 ARPA State Fiscal Recovery
+33 Fund 0 1,000,000 0 1,000,000
+34 TOTAL $2,814,600 $1,439,600 $40,589,700 $44,843,900
+35 IX. DIVISION OF HUMAN RESOURCES:
+36 FROM:
+37 Division of Human Resources
+38 Fund $18,170,300 $1,450,600 $19,620,900
+
+6
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 X. OFFICE OF INFORMATION TECHNOLOGY SERVICES:
+6 FROM:
+7 General
+8 Fund $1,880,800 $1,800,600 $3,681,400
+9 Administration and Accounting Services
+10 Fund 28,014,800 8,881,400 $463,300 37,359,500
+11 TOTAL $29,895,600 $10,682,000 $463,300 $41,040,900
+12 XI. STATE LIQUOR DIVISION, OPERATIONS:
+13 FROM:
+14 Liquor Control
+15 Fund $21,110,200 $5,585,700 $4,902,000 $31,597,900
+16 XII. MILITARY DIVISION:
+17 A. MILITARY MANAGEMENT:
+18 FROM:
+19 General
+20 Fund $2,814,800 $895,100 $273,300 $3,983,200
+21 Indirect Cost Recovery
+22 Fund 467,300 36,500 503,800
+23 Emergency Medical Services
+24 Fund 261,900 261,900
+25 Miscellaneous Revenue
+26 Fund 765,900 765,900
+27 Administration and Accounting Services
+28 Fund 3,563,500 1,137,600 $28,800 0 4,729,900
+29 TOTAL $7,107,500 $2,835,100 $28,800 $273,300 $10,244,700
+30 B. FEDERAL/STATE AGREEMENTS:
+31 FROM:
+32 General
+33 Fund $1,425,600 $1,071,000 $2,496,600
+34 Miscellaneous Revenue
+35 Fund 2,211,000 435,200 2,646,200
+
+7
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Federal Grant
+6 Fund 36,186,000 32,396,300 68,582,300
+7 TOTAL $39,822,600 $33,902,500 $73,725,100
+8 C. OFFICE OF EMERGENCY MANAGEMENT:
+9 FROM:
+10 General
+11 Fund $2,532,000 $251,900 $2,783,900
+12 Federal Grant
+13 Fund 3,566,300 5,148,600 $2,500,000 $11,225,600 22,440,500
+14 TOTAL $6,098,300 $5,400,500 $2,500,000 $11,225,600 $25,224,400
+15 D. EMERGENCY MEDICAL SERVICES:
+16 FROM:
+17 General
+18 Fund $71,400 $145,000 $216,400
+19 Emergency Medical Services
+20 Fund 2,253,900 1,156,000 3,409,900
+21 Emergency Medical Services III
+22 Fund $1,700,000 1,700,000
+23 TSE Registry
+24 Fund 132,800 327,000 459,800
+25 Miscellaneous Revenue
+26 Fund 824,800 551,400 1,376,200
+27 Federal Grant
+28 Fund 60,000 120,000 0 180,000
+29 TOTAL $3,342,900 $2,299,400 $1,700,000 $7,342,300
+30 DIVISION
+31 TOTAL $56,371,300 $44,437,500 $2,528,800 $13,198,900 $116,536,500
+32 XIII. PUBLIC EMPLOYEE RETIREMENT SYSTEM:
+33 A. RETIREMENT ADMINISTRATION:
+34 FROM:
+35 PERSI Administrative
+36 Fund $7,189,500 $2,567,200 $9,756,700
+
+8
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Judges' Retirement
+6 Fund 84,600 1,000 85,600
+7 TOTAL $7,274,100 $2,568,200 $9,842,300
+8 B. PORTFOLIO INVESTMENT:
+9 FROM:
+10 PERSI Special
+11 Fund $1,033,500 $200,500 $1,234,000
+12 DIVISION
+13 TOTAL $8,307,600 $2,768,700 $11,076,300
+14 XIV. OFFICE OF SPECIES CONSERVATION:
+15 FROM:
+16 General
+17 Fund $1,001,000 $760,100 $1,761,100
+18 Miscellaneous Revenue
+19 Fund 50,000 50,000
+20 Federal Grant
+21 Fund 812,100 174,100 $29,000 $17,140,000 18,155,200
+22 TOTAL $1,813,100 $984,200 $29,000 $17,140,000 $19,966,300
+23 XV. STEM ACTION CENTER:
+24 FROM:
+25 General
+26 Fund $774,400 $1,195,700 $90,500 $1,000,000 $3,060,600
+27 STEM Education
+28 Fund 0 100,000 0 2,829,900 2,929,900
+29 TOTAL $774,400 $1,295,700 $90,500 $3,829,900 $5,990,500
+30 XVI. WOLF DEPREDATION CONTROL BOARD:
+31 FROM:
+32 General
+33 Fund $372,400 $372,400
+
+9
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 XVII. WORKFORCE DEVELOPMENT COUNCIL:
+6 FROM:
+7 Workforce Development Training
+8 Fund $569,200 $457,600 $7,684,500 $8,711,300
+9 In-Demand Careers
+10 Fund 1,050,900 3,038,300 70,766,700 74,855,900
+11 ARPA State Fiscal Recovery
+12 Fund 197,200 637,200 834,400
+13 Federal Grant
+14 Fund 134,000 50,000 0 184,000
+15 TOTAL $1,951,300 $4,183,100 $78,451,200 $84,585,600
+16 XVIII. BOARD OF TAX APPEALS:
+17 FROM:
+18 General
+19 Fund $549,600 $55,800 $51,900 $657,300
+20 XIX. STATE TAX COMMISSION:
+21 A. GENERAL SERVICES:
+22 FROM:
+23 General
+24 Fund $8,763,300 $5,554,300 $95,500 $14,413,100
+25 Multistate Tax Compact
+26 Fund 148,500 604,800 2,500 755,800
+27 Administration and Accounting
+28 Fund 42,500 28,800 2,500 73,800
+29 Administration Services for Transportation
+30 Fund 822,800 1,130,400 5,000 1,958,200
+31 Seminars and Publications
+32 Fund 0 21,500 0 21,500
+33 TOTAL $9,777,100 $7,339,800 $105,500 $17,222,400
+34 B. AUDIT DIVISION:
+35 FROM:
+36 General
+37 Fund $8,471,900 $559,200 $114,000 $9,145,100
+
+10
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Multistate Tax Compact
+6 Fund 2,136,900 507,200 2,644,100
+7 Administration and Accounting
+8 Fund 19,400 24,400 43,800
+9 Administration Services for Transportation
+10 Fund 2,237,500 360,400 0 2,597,900
+11 TOTAL $12,865,700 $1,451,200 $114,000 $14,430,900
+12 C. COMPLIANCE DIVISION:
+13 FROM:
+14 General
+15 Fund $8,954,500 $1,109,100 $114,000 $10,177,600
+16 Administration Services for Transportation
+17 Fund 270,600 29,600 0 300,200
+18 TOTAL $9,225,100 $1,138,700 $114,000 $10,477,800
+19 D. REVENUE OPERATIONS:
+20 FROM:
+21 General
+22 Fund $4,407,700 $1,318,000 $5,725,700
+23 Multistate Tax Compact
+24 Fund 4,000 4,000
+25 Administration and Accounting
+26 Fund 100,500 17,100 117,600
+27 Administration Services for Transportation
+28 Fund 816,400 262,100 $2,300 1,080,800
+29 Seminars and Publications
+30 Fund 0 26,400 0 26,400
+31 TOTAL $5,324,600 $1,627,600 $2,300 $6,954,500
+32 E. PROPERTY TAX:
+33 FROM:
+34 General
+35 Fund $4,502,400 $265,300 $4,767,700
+
+11
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Seminars and Publications
+6 Fund 0 201,000 201,000
+7 TOTAL $4,502,400 $466,300 $4,968,700
+8 DIVISION
+9 TOTAL $41,694,900 $12,023,600 $335,800 $54,054,300
+10 GRANDTOTAL $205,963,500 $107,248,500 $10,742,000 $183,054,100 $507,008,100
+11 SECTION 2. FTP AUTHORIZATION. In accordance with Section 67-3519,
+12 Idaho Code, each of the programs in General Government is authorized no more
+13 than the following number of full-time equivalent positions at any point
+14 during the period July 1, 2026, through June 30, 2027, unless specifically
+15 authorized by the Governor. The Joint Finance-Appropriations Committee
+16 will be notified promptly of any increased positions so authorized.
+17 Department of Administration .................................136.00
+18 Commission on Aging ...........................................15.00
+19 Commission on the Arts .........................................8.00
+20 Commission for the Blind and Visually Impaired ..................43.12
+21 Office of Drug Policy ..........................................6.00
+22 Office of Energy and Mineral Resources .........................11.00
+23 Division of Financial Management ..............................20.00
+24 Division of Human Resources ..................................166.00
+25 Office of Information Technology Services .....................243.00
+26 State Liquor Division ........................................253.25
+27 Military Division ...........................................460.64
+28 Public Employee Retirement System of Idaho .....................81.00
+29 Office of Species Conservation ................................16.00
+30 STEM Action Center .............................................7.00
+31 Workforce Development Council .................................14.00
+32 Board of Tax Appeals ...........................................4.00
+33 State Tax Commission .........................................445.00
+34 SECTION 3. CASH TRANSFER TO THE ADMINISTRATION AND ACCOUNTING SERVICES
+35 FUND. There is hereby appropriated and the Office of the State Controller
+36 shall transfer $1,737,500 from the Permanent Building Fund to the Adminis-
+37 tration and Accounting Services Fund on July 1, 2026, or as soon thereafter
+38 as practicable, for the Capitol Mall Facilities payment in the Division of
+39 Public Works due in fiscal year 2027.
+40 SECTION 4. CASH TRANSFER TO THE CAPITOL COMMISSION OPERATING FUND.
+41 There is hereby appropriated to the Department of Administration for the
+42 Idaho State Capitol Commission and the Office of the State Controller shall
+43 transfer $250,000 from the Capitol Maintenance Reserve Fund to the Capitol
+
+12
+1 Commission Operating Fund on July 1, 2026, or as soon thereafter as practica-
+2 ble, for the period July 1, 2026, through June 30, 2027.
+3 SECTION 5. REAPPROPRIATION AUTHORITY FOR THE IDAHO STATE CAPITOL COM-
+4 MISSION. There is hereby reappropriated to the Department of Administration
+5 for the Idaho State Capitol Commission any unexpended and unencumbered bal-
+6 ances appropriated or reappropriated to the Department of Administration
+7 for the Idaho State Capitol Commission from the Capitol Commission Operating
+8 Fund and the Capitol Maintenance Reserve Fund for fiscal year 2026 to be used
+9 for nonrecurring expenditures for the period July 1, 2026, through June 30,
+10 2027. The Office of the State Controller shall confirm the reappropriation
+11 amount, by fund, expense class, and program, with the Legislative Services
+12 Office prior to processing the reappropriation authorized herein.
+13 SECTION 6. CASH TRANSFER TO THE GOVERNOR'S RESIDENCE FUND. Notwith-
+14 standing the provisions of Section 57-1108, Idaho Code, and any other
+15 provision of law to the contrary, of the amount appropriated in Section 1
+16 of this act to the Department of Administration for the Management Services
+17 Program from the Permanent Building Fund, the Office of the State Controller
+18 shall transfer $60,600 to the Governor's Residence Fund on July 1, 2026, or
+19 as soon thereafter as practicable, for the period July 1, 2026, through June
+20 30, 2027, to be used for the Governor's housing stipend.
+21 SECTION 7. REAPPROPRIATION AUTHORITY FOR ENERGY RESILIENCY GRANTS.
+22 There is hereby reappropriated to the Office of Energy and Mineral Resources
+23 any unexpended and unencumbered balances appropriated or reappropriated to
+24 the Office of Energy and Mineral Resources from the Miscellaneous Revenue
+25 Fund for the purpose of the Energy Resiliency Grant Program for fiscal year
+26 2026, in an amount not to exceed $10,609,800 from the Miscellaneous Revenue
+27 Fund, to be used for nonrecurring expenditures related to the Energy Re-
+28 siliency Grant Program for the period July 1, 2026, through June 30, 2027.
+29 The Office of the State Controller shall confirm the reappropriation amount,
+30 by fund, expense class, and program, with the Legislative Services Office
+31 prior to processing the reappropriation authorized herein.
+32 SECTION 8. CONTINUOUS APPROPRIATION FOR THE MILITARY DIVISION. The
+33 Military Division is hereby granted continuous appropriation authority for
+34 the Idaho Office of Emergency Management's Miscellaneous Revenue Fund for
+35 the period July 1, 2026, through June 30, 2027, for the purpose of covering
+36 incurred costs arising out of hazardous substance incidents.
+37 SECTION 9. CONTINUOUS APPROPRIATION FOR THE PUBLIC EMPLOYEE RETIREMENT
+38 SYSTEM OF IDAHO. Notwithstanding the provisions of Section 59-1311(4)(d),
+39 Idaho Code, moneys appropriated in Section 1 of this act for the Portfolio
+40 Investment Program within the Public Employee Retirement System of Idaho are
+41 for administrative costs of the Portfolio Investment Program as provided in
+42 Section 59-1311(3), Idaho Code. Amounts necessary to pay all other invest-
+43 ment expenses related to the Portfolio Investment Program are perpetually
+44 appropriated to the Retirement Board as provided in Section 59-1311(4)(a),
+45 (b) and (c), Idaho Code.
+
+13
+1 SECTION 10. REAPPROPRIATION AUTHORITY FOR THE ARPA STATE FISCAL RE-
+2 COVERY FUND. There is hereby reappropriated to the Workforce Development
+3 Council any unexpended and unencumbered balances appropriated or reappro-
+4 priated to the Workforce Development Council from the ARPA State Fiscal
+5 Recovery Fund for fiscal year 2026, to be used for workforce training grants
+6 and childcare infrastructure grants for the period July 1, 2026, through
+7 June 30, 2027. The Office of the State Controller shall confirm the reappro-
+8 priation amount, by fund, expense class, and program, with the Legislative
+9 Services Office prior to processing the reappropriation authorized herein.
+10 SECTION 11. REAPPROPRIATION AUTHORITY FOR THE IN-DEMAND CAREERS FUND.
+11 There is hereby reappropriated to the Workforce Development Council any
+12 unexpended and unencumbered balances appropriated or reappropriated to the
+13 Workforce Development Council from the In-Demand Careers Fund for fiscal
+14 year 2026, to be used for Idaho Launch grants for the period July 1, 2026,
+15 through June 30, 2027. The Office of the State Controller shall confirm the
+16 reappropriation amount, by fund, expense class, and program, with the Leg-
+17 islative Services Office prior to processing the reappropriation authorized
+18 herein.
+19 SECTION 12. REAPPROPRIATION AUTHORITY FOR THE WORKFORCE DEVELOPMENT
+20 TRAINING FUND. There is hereby reappropriated to the Workforce Development
+21 Council any unexpended and unencumbered balances appropriated or reappro-
+22 priated to the Workforce Development Council from the Workforce Development
+23 Training Fund for fiscal year 2026, to be used for semiconductor grants for
+24 the period July 1, 2026, through June 30, 2027. The Office of the State Con-
+25 troller shall confirm the reappropriation amount, by fund, expense class,
+26 and program, with the Legislative Services Office prior to processing the
+27 reappropriation authorized herein.
+28 SECTION 13. PLAN STRUCTURE. The Office of Group Insurance shall main-
+29 tain the current health insurance plan structure and benefit package for
+30 state employees. Adherence with the plan structure shall not preclude the
+31 Office of Group Insurance from implementing positive plan changes as iden-
+32 tified.
+33 SECTION 14. GROUP INSURANCE PREMIUMS. The Office of Group Insurance
+34 shall maintain the current structure of the state of Idaho Group Health In-
+35 surance Plan's offerings and shall not increase employee premiums, copays,
+36 and deductibles from the fiscal year 2026 rates. The Department of Admin-
+37 istration may use any reserve accounts in the Employee Group Insurance Fund
+38 to pay the employee premium increases planned for fiscal year 2027. The Of-
+39 fice of Group Insurance shall maintain a reduced employee share of covered
+40 charges for fiscal year 2027 with no reduction in benefits. Adherence with
+41 the plan structure shall not preclude the Office of Group Insurance from
+42 adopting any administrative or other cost-savings initiatives it has iden-
+43 tified.
+44 SECTION 15. ACCOUNTABILITY REPORT FOR TAX COLLECTIONS AND DISTRIBU-
+45 TIONS. As provided for in Section 67-702 (1)(c), Idaho Code, the Legislative
+
+14
+1 Audits Division of the Legislative Services Office will perform a review of
+2 the State Tax Commission's comparative statement of receipts and distribu-
+3 tions for fiscal years 2021, 2022, 2023, 2024, and 2025. This review will
+4 include an evaluation of the accuracy of reported collections and distri-
+5 butions for each tax type the commission is responsible for administering.
+6 Specifically, the review will evaluate whether distributions are in accor-
+7 dance with Idaho Code. The report will indicate whether there were material
+8 anomalies regarding distributions.
+9 SECTION 16. ACCOUNTABILITY REPORTS. Funds specifically identified in
+10 statute or in an appropriation act as intended for a certain purpose may
+11 be used only for that purpose. Funds provided in this act are subject to
+12 accountability reports and management reviews in accordance with Section
+13 67-702, Idaho Code, provided the Legislative Services Office auditor has
+14 sufficient resources to conduct those reports. State agencies who are au-
+15 thorized to contract for outside audits shall submit those reports to the
+16 Joint Finance-Appropriations Committee when those reports become avail-
+17 able.
+18 SECTION 17. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+19 made pursuant to this act are subject to the conditions, limitations, and re-
+20 strictions in this act.
+21 SECTION 18. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2026.

@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 760
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO PROPERTY TAXES; AMENDING SECTION 63-602GG, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING PROPERTY TAX EXEMPTIONS FOR LOW-INCOME HOUSING
+4 OWNED BY NONPROFIT ORGANIZATIONS; AND DECLARING AN EMERGENCY AND PRO-
+5 VIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 63-602GG, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 63-602GG. PROPERTY EXEMPT FROM TAXATION -- LOW-INCOME HOUSING OWNED
+10 BY NONPROFIT ORGANIZATIONS. (1) As provided in this section, the board of
+11 county commissioners may, at its discretion, exempt all or a portion of low-
+12 income housing owned by nonprofit organizations shall be exempt from taxa-
+13 tion.
+14 (2) In order to qualify as a nonprofit organization under this section,
+15 an organization must demonstrate that:
+16 (a) It is organized as a nonprofit corporation pursuant to chapter 30,
+17 title 30, Idaho Code, or pursuant to equivalent laws in the applicable
+18 state of incorporation; and
+19 (b) It has received an exemption from taxation from the internal rev-
+20 enue service pursuant to section 501(c)(3) of the Internal Revenue
+21 Code; and.
+22 (c) No proceeds or tax benefits of the organization or from the low-in-
+23 come housing property owned by the organization shall inure to any indi-
+24 vidual or for-profit entity other than normal employee compensation.
+25 (3) In order to qualify for the exemption provided in this section,
+26 the low-income housing property shall meet the following qualifications:
+27 provided in this subsection.
+28 (a) Both legal and equitable title to the property is solely owned by
+29 the nonprofit organization seeking the exemption and is managed by the
+30 owner or a related nonprofit organization qualifying for the exemption
+31 set forth in section 63-602C, Idaho Code; and The property shall be
+32 owned and operated by, or shall be a wholly owned subsidiary of, a quali-
+33 fied nonprofit organization pursuant to subsection (2) of this section,
+34 or shall be owned by a limited partnership, limited liability limited
+35 partnership, or limited liability company in which a general partner or
+36 a managing member, as applicable, is a qualified nonprofit organization
+37 pursuant to subsection (2) of this section or a single-purpose entity
+38 that is wholly owned by one (1) or more qualified nonprofit organiza-
+39 tions pursuant to subsection (2) of this section.
+40 (b) Tenants shall not be evicted based upon on their inability to pay
+41 for a period of three (3) months if such inability is due to a cata-
+42 strophic event that is not under the tenant's control. For purposes
+
+2
+1 of this subsection, "catastrophic event" means a medical condition or
+2 injury in which sudden, serious and unexpected symptoms of illness or
+3 injury are sufficiently severe to render the tenant unable to partici-
+4 pate in employment and such illness or injury has been certified by one
+5 (1) or more licensed physicians and/or psychiatrists or psychologists.
+6 The term "catastrophic event" does not apply to individuals who volun-
+7 tarily remove themselves from the workforce; and.
+8 (c) Except for a the manager's unit units, all of the housing units in
+9 the low-income housing property are shall be dedicated to low-income
+10 housing in the following manner: Fifty-five percent (55%) of the units
+11 and shall be rented to those earning an average of sixty percent (60%) or
+12 less of the area median gross income for the county in which the housing
+13 is located; twenty percent (20%) of the units shall be rented to those
+14 earning fifty percent (50%) or less of the median income of the county in
+15 which the housing is located; and twenty-five percent (25%) of the units
+16 shall be rented to those earning thirty percent (30%) or less of the me-
+17 dian income for the county in which the housing is located as determined
+18 in a manner consistent with 26 U.S.C. 42(g), and rents on such housing
+19 units shall meet the requirements of 26 U.S.C. 42 (g)(2).
+20 (d) In each year following a year in which the exemption was allowed un-
+21 der this section, the owner of a low-income housing property shall sub-
+22 mit to the county assessor of the county in which such property is lo-
+23 cated a statement certifying that the low-income housing property is in
+24 compliance with the provisions of paragraph (c) of this subsection. If
+25 the owner of such low-income housing property fails to submit the state-
+26 ment required by this paragraph, the low-income housing property shall
+27 not be eligible for the exemption provided in this section for the imme-
+28 diately succeeding tax year.
+29 (4) An application for the low-income property tax exemption provided
+30 for in this section shall be filed no later than April 15 pursuant to section
+31 63-602, Idaho Code, and shall include, at a minimum, the following informa-
+32 tion:
+33 (a) A general description of the low-income housing property project,
+34 including but not limited to the number of low-income housing units
+35 available and the number of units, if any, offered at market rate;
+36 (b) A description of the ownership interest of the applicants and the
+37 nonprofit organization partnering with the applicants; and
+38 (c) The duration of the affordability period. For the purposes of this
+39 section "affordability period" means the period of time in which the
+40 housing units in the low-income housing property are required to comply
+41 with the restrictions on tenant eligibility and rent levels set forth
+42 in a land use restrictive agreement executed with the Idaho housing
+43 and finance association for the purpose of qualifying for the federal
+44 low-income housing tax credit pursuant to 26 U.S.C. 42.
+45 (5)(a) In addition to the application required pursuant to subsection
+46 (4) of this section, the owner of a proposed low-income housing property
+47 project that has not received all required local land use or zoning ap-
+48 provals may request from the county a written preliminary determination
+49 as to whether the project, if developed as proposed, will qualify for
+
+3
+1 the exemption authorized by this section. Such request may be submitted
+2 prior to filing any land use or zoning application.
+3 (b) A request for preliminary determination shall include sufficient
+4 information to demonstrate compliance with the requirements of this
+5 section, including the information described in subsection (4)(a)
+6 through (c) of this section.
+7 (c) A written preliminary determination issued pursuant to this sub-
+8 section shall be binding on the county, provided the project is devel-
+9 oped substantially in accordance with the materials submitted with the
+10 request. Any material change to the project, other than modifications
+11 required or approved through the applicable local land use approval
+12 process, shall require a new request for preliminary determination.
+13 (d) A preliminary determination issued pursuant to this subsection
+14 shall not relieve the owner of the obligation to file a timely appli-
+15 cation pursuant to subsection (4) of this section in order to receive
+16 the exemption for any tax year after the low-income housing property
+17 project is complete.
+18 (6)(a) Nothing in this section shall be construed to require a board of
+19 county commissioners to grant a property tax exemption pursuant to this
+20 section for low-income housing property.
+21 (b) A decision of the board of county commissioners to deny an applica-
+22 tion for the exemption provided for in this section shall be final and
+23 shall not be subject to judicial review.
+24 (c) If at any time the use of the property no longer meets the criteria
+25 of the exemption or the affordability period on the low-income housing
+26 property changes, the board of county commissioners shall remove the
+27 property tax exemption provided for in this section.
+28 (4) (7) The exemption provided in this section shall not apply: to any
+29 property on which financing has already closed as of July 1, 2026, or to a
+30 property that is already in service and housing tenants as of July 1, 2026,
+31 unless such property is being rehabilitated pursuant to 26 U.S.C. 42 or is
+32 already receiving the exemption pursuant to this section on or before July 1,
+33 2026.
+34 (a) If the project is financed after the effective date of this act and
+35 applicable law permits the payment of property taxes with federal or
+36 state funds, grants, loans or subsidies; or
+37 (b) If the property is receiving federal project-based assistance,
+38 as provided by 42 U.S.C. sections 1437f(d)(2), 1437f(f)(6) and
+39 1437f(o)(13); or
+40 (c) To any property used by a taxpayer to qualify for tax credits under
+41 the provisions of 26 U.S.C. chapter 42 or any successor programs until
+42 such time as the property is solely owned by a nonprofit organization as
+43 defined in this section and is no longer utilized to receive federal tax
+44 credits.
+45 (5) (8) Notwithstanding any other provision of this section, a low-in-
+46 come housing property shall be exempt from taxation due to undue hardship if:
+47 (a) The property was financed prior to the effective date of this act;
+48 and
+49 (b) Such financing was dependent upon the tax-exempt status of the
+50 property; and
+
+4
+1 (c) The law does not allow additional federal or state revenues to be
+2 available for the payment of property taxes.
+3 (6) (9) Nothing in this section shall affect the qualification of prop-
+4 erties for tax-exempt status under other provisions of title 63, Idaho Code.
+5 (10) Property exempt under this section shall not be included on any new
+6 construction roll prepared by the county assessor in accordance with sec-
+7 tion 63-301A, Idaho Code, unless the exemption is removed or the property no
+8 longer qualifies for the exemption.
+9 SECTION 2. An emergency existing therefor, which emergency is hereby
+10 declared to exist, this act shall be in full force and effect on and after
+11 July 1, 2026.

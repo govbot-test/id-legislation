@@ -1,0 +1,340 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1336
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1602, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING CIVICS INSTRUCTION; AMENDING CHAPTER 1, TITLE 33,
+4 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 33-118C, IDAHO CODE, TO ES-
+5 TABLISH PROVISIONS REGARDING CURRICULAR MATERIALS FOR AMERICAN HISTORY
+6 AND CIVICS INSTRUCTION; AND DECLARING AN EMERGENCY AND PROVIDING AN
+7 EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 33-1602, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 33-1602. UNITED STATES CONSTITUTION -- NATIONAL FLAG AND COLORS -- NA-
+12 TIONAL ANTHEM -- "AMERICA" -- CITIZENSHIP -- CIVICS TEST. (1) The legisla-
+13 ture finds that a somber reflection on the history of mankind shows that no
+14 free government or the blessings of liberty can be preserved by any people
+15 except through an adherence to moral virtue and by frequent recurrence to
+16 fundamental principles. The legislature finds and declares that the pri-
+17 mary purpose of this state's system of public schools is to equip the youth
+18 of the state with the virtue and intelligence necessary for self-government
+19 through a liberal program of education that inspires a love of nation, fellow
+20 countrymen, and common history and culture.
+21 (2) Upon high school graduation, every student at an Idaho public
+22 school shall:
+23 (a) Exemplify the cardinal virtues necessary for self-government and
+24 human flourishing, including:
+25 (i) Prudence;
+26 (ii) Justice;
+27 (iii) Fortitude;
+28 (iv) Moderation; and
+29 (v) Patriotism;
+30 (b) Understand the fundamental principles of the nation's republican
+31 form of government, including:
+32 (i) The supremacy of the natural law over civil institutions;
+33 (ii) That virtue or morality is a necessary spring of popular gov-
+34 ernment;
+35 (iii) The self-evident truth that all men are created equal and
+36 endowed by their creator with inalienable rights;
+37 (iv) That civil society is a social compact, by which the whole
+38 people covenants with each citizen and each citizen with the whole
+39 people, and that all shall be governed by certain laws for the com-
+40 mon good;
+41 (v) That as members of the body-politic, every citizen has a duty
+42 to promote the common good of the whole;
+
+2
+1 (vi) That the people are the original fountain of all legitimate
+2 authority, denoting that just government is contingent upon the
+3 consent of the governed;
+4 (vii) That the first aim of every political constitution is to ob-
+5 tain for rulers men who possess the most wisdom to discern and most
+6 virtue to pursue the common good of the society, and that this is
+7 most effectually accomplished through a system of representation;
+8 (viii) The concept of the rule of law and not of men;
+9 (ix) Reverence for the constitutional order and the importance
+10 of the separation of powers as a bulwark against arbitrary and
+11 despotic government;
+12 (x) The security that exists in the liberties provided by the
+13 system of federalism and by the value of the union as the source of
+14 national prosperity and independence; and
+15 (xi) That the preservation of the republic depends, above all
+16 else, on the vigilant and manly spirit of the American people; and
+17 (c) Understand the content, history, meaning, significance, and effect
+18 of key historical documents, including:
+19 (i) The magna carta;
+20 (ii) The mayflower compact;
+21 (iii) The Massachusetts body of liberties;
+22 (iv) The English bill of rights and act of toleration;
+23 (v) The declaration of independence;
+24 (vi) The articles of confederation;
+25 (vii) The Virginia declaration of rights of 1776;
+26 (viii) The Massachusetts constitution of 1780;
+27 (ix) The Northwest ordinance;
+28 (x) The constitution of the United States and the bill of rights;
+29 (xi) The federalist papers;
+30 (xii) George Washington's farewell address;
+31 (xiii) Thomas Jefferson's first inaugural address;
+32 (xiv) The Monroe doctrine;
+33 (xv) The emancipation proclamation;
+34 (xvi) The Gettysburg address;
+35 (xvii) The constitution of the state of Idaho; and
+36 (xviii) Other similar documents that are important to the history
+37 and heritage of the United States and Idaho.
+38 (3) All secondary pupils in grades 9 through 12 shall be required to
+39 complete two (2) credits in American history and two (2) credits in Ameri-
+40 can government, encompassing a strong emphasis on civics. By the 2030-2031
+41 school year, all secondary pupils in grade 8 shall be required to take a full
+42 year course in the history and cultural heritage of Western civilization.
+43 (4) Western civilization curricula adopted or developed by school dis-
+44 tricts and public charter schools shall emphasize instruction on ancient
+45 Athens and the Greek polis, the Roman republic, the rise and fall of the Roman
+46 empire, the history and influence of Christianity, the Carolingian empire,
+47 medieval western Europe, the reformation, the renaissance, the scientific
+48 revolution, the development of the English constitution and parliamentary
+49 system, and the enlightenment.
+
+3
+1 (5) United States history curricula adopted or developed by school dis-
+2 tricts and public charter schools shall include instruction on the American
+3 revolution and the American founding, with attention given to the following,
+4 at a minimum:
+5 (a) How the American founding was the culmination of the Western tra-
+6 dition, including the influence of Christianity, the enlightenment,
+7 Greek democracy, Roman republicanism, and the English legal tradition;
+8 (b) The fundamental principles of the American revolution as articu-
+9 lated in the declaration of independence, including liberty, equality,
+10 natural rights, national sovereignty, republican virtue, and self-gov-
+11 ernment;
+12 (c) The contribution of America's original Anglo-American heritage and
+13 colonial experience to the development of the nation's republican in-
+14 stitutions;
+15 (d) The political and military narrative of the causes and progress of
+16 the American revolution;
+17 (e) The deeds and civic virtues exemplified in the lives of America's
+18 founding fathers;
+19 (f) The United States' founding documents and their original intent;
+20 (g) Instruction on the symbols associated with America's national
+21 heritage originating from the American revolution, including the min-
+22 uteman, the liberty bell, the liberty tree, lady Columbia, "e pluribus
+23 unum," the pine tree flag, the Gadsden flag, "join or die," the Betsy
+24 Ross flag, and the bald eagle;
+25 (h) The historical development of the United States' republican form of
+26 government, including the proceedings of the Philadelphia convention
+27 and ratification debates that led to the adoption of the United States
+28 constitution and the bill of rights, and the significance of the histor-
+29 ical documents outlined in subsection (2)(c) of this section; and
+30 (i) The political narrative of the early republic under the founding
+31 presidents.
+32 (6) Corresponding with the term in which instruction in the American
+33 revolution and American founding occurs, all school districts and public
+34 charter schools shall develop complimentary English language arts and com-
+35 munications curricula that shall include:
+36 (a) Reading of core documents from the American revolution, includ-
+37 ing Patrick Henry's "Give Me Liberty or Give Me Death!," Samuel Adams'
+38 "Speech on American Independence," and Thomas Paine's "Common Sense"
+39 and "The Crisis, No. 1"; and
+40 (b) Reading of literature from or about the American founding, includ-
+41 ing Phillis Wheatley's "Liberty and Peace" and "His Excellency General
+42 Washington," Thomas Paine's "Liberty Tree," John Dickinson's "The Lib-
+43 erty Song," and Joseph Hopkinson's "Hail, Columbia."
+44 (7) United States history curricula adopted or developed by school dis-
+45 tricts and public charter schools shall include instruction on how totali-
+46 tarian ideologies, such as communism, are antithetical to the fundamental
+47 principles of America's republican form of government, with attention given
+48 to, at a minimum:
+49 (a) America's triumph over totalitarian regimes in the second world war
+50 and cold war; and
+
+4
+1 (b) The failures and atrocities of the Soviet Union and People's Repub-
+2 lic of China, including the red terror, dekulakization, Stalin's great
+3 purge, the five-year plan, the holodomor, the great leap forward, and
+4 the cultural revolution.
+5 (8) Civics curricula adopted or developed by school districts and pub-
+6 lic charter schools shall ensure that students understand the fundamental
+7 principles of America's republican form of government outlined in subsec-
+8 tion (2)(b) of this section, and shall include instruction on:
+9 (a) Primary documents articulating the importance of maintaining Amer-
+10 ica's constitutional republic, including George Washington's farewell
+11 address and Thomas Jefferson's first inaugural address;
+12 (b) The influence of the Western intellectual tradition on the United
+13 States constitution, including the political philosophy of John Locke
+14 and Montesquieu, Greek democracy, Roman republicanism, and British
+15 constitutionalism;
+16 (c) Primary documents articulating the fundamental principles of Amer-
+17 ica's constitutional system of government, including excerpts from the
+18 declaration of independence, "Brutus II," "Federalist 9," "Federalist
+19 10," "Federalist 39," "Federalist 51," "Federalist 63," "Federalist
+20 70," and "Federalist 78;" and
+21 (d) How the constitution of the state of Idaho embodies the principles
+22 of the American founding, including section 1, article I, regarding the
+23 inalienable rights of man; section 2, article I, regarding the polit-
+24 ical power inherent in the people; section 3, article I, regarding the
+25 state as an inseparable part of the union; section 1, article II, re-
+26 garding the departments of government; section 24, article III, regard-
+27 ing the promotion of temperance and morality; section 1, article IX, re-
+28 garding the legislature's duty to establish a system of free schools;
+29 and section 1, article XIV, regarding persons subject to military duty.
+30 (9) Corresponding with the term in which the civics course occurs, all
+31 school districts and public charter schools shall develop complimentary
+32 English language arts curricula that includes selections from Alexis de
+33 Tocqueville's "Democracy in America."
+34 (1) (10) Instruction in the United States constitution, the fundamental
+35 principles of America's republican form of government, and the virtues nec-
+36 essary for good citizenship shall be given in all elementary and secondary
+37 schools. The state board of education shall adopt any materials as may be
+38 deemed necessary for such purpose and shall also determine the grades in
+39 which such instruction shall be given.
+40 (2) (11) Instruction in the proper use, display, and history of and re-
+41 spect for the American flag and the national colors shall be given in all ele-
+42 mentary and secondary schools. Such instruction shall include the pledge of
+43 allegiance to the flag and the words and music of the national anthem and of
+44 "America."
+45 (3) (12) Every school board of trustees shall cause the United States
+46 flag to be displayed in every classroom during the school hours of each
+47 school day.
+48 (13) Every school board of trustees is encouraged to display histori-
+49 cal portraits of George Washington in a conspicuous place in each classroom
+50 that is used for history, civics, or social studies instruction and in each
+
+5
+1 kindergarten through grade 5 classroom. The state superintendent of public
+2 instruction shall select the portraits.
+3 (4) (14) Every public school shall offer the pledge of allegiance or the
+4 national anthem in grades 1 through 12 at the beginning of each school day.
+5 (5) (15) No pupil shall be compelled, against the pupil's objections or
+6 those of the pupil's parent or guardian, to recite the pledge of allegiance
+7 or to sing the national anthem.
+8 (6) (16) Instruction in citizenship shall be given in all elementary
+9 and secondary schools. Citizenship instruction shall include lessons on
+10 the role of a citizen in a constitutional republic, how laws are made, how
+11 officials are elected, and the importance of voting and of participating in
+12 government. Such instruction shall also include the importance of respect-
+13 ing and obeying statutes that are validly and lawfully enacted by the Idaho
+14 legislature and the congress of the United States.
+15 (7) (17) Starting with the 2016-2017 school year, all secondary pupils
+16 shall show that they have met the state civics and government standards for
+17 such instruction through the successful completion of the civics test, par-
+18 ticipation in a course in United States government and politics, and par-
+19 ticipation in an associated college credit-bearing examination or alternate
+20 path established by the local school district or charter school that shows
+21 the student has met the standards. Assessment of standards shall be included
+22 as part of the course at the secondary level. Students graduating prior to
+23 January 1, 2029, who have satisfied the requirement outlined in this subsec-
+24 tion prior to the start of the 2026-2027 school year are exempt from complet-
+25 ing the requirement provided for in subsection (8) (18) of this section.
+26 (8) (18) Beginning with the 2026-2027 2027-2028 school year, all sec-
+27 ondary pupils shall show that they have met the state civics and government
+28 standards for such instruction through the successful completion of the
+29 civics test and participation in a course in United States government and
+30 history, or participation in an associated college credit-bearing course
+31 or examination. Assessment of standards shall be included as part of the
+32 course at the secondary level. A school district or public charter school
+33 shall document on the pupil's transcript that the pupil has passed the civics
+34 test pursuant to this subsection. The school district or governing body of
+35 the charter school may state superintendent of public instruction or the
+36 superintendent's designee shall determine the method and manner in which
+37 to administer the civics test. A pupil may take the civics test at any time
+38 after enrolling in grade 9 and may repeat the test as often as necessary to
+39 pass the test. The applicability of this subsection to a pupil who receives
+40 special education services shall be governed by such pupil's individualized
+41 education plan. For the purposes of this subsection, "civics test" means
+42 an assessment developed by the state department of education state super-
+43 intendent of public instruction or the superintendent's designee with the
+44 approval of the state board of education that includes but is not limited
+45 to the following components from the Idaho content standards in American
+46 government:
+47 (a) The influence of the history of Western civilization on the found-
+48 ing of the American republic, including Greek democracy, Roman republi-
+49 canism, and the English political and legal tradition;
+50 (b) The arguments presented in the declaration of independence;
+
+6
+1 (c) The governing principles at the foundation of the United States
+2 constitution, including popular sovereignty, rule of law, federalism,
+3 separation of powers, checks and balances, judicial review, and major-
+4 ity rule and protection of minority rights;
+5 (d) The role of the bill of rights in limiting the powers of government
+6 and protecting individual rights;
+7 (e) The enumerated powers of the United States congress, including ap-
+8 propriations, declarations of war, commerce, confirmations, necessary
+9 and proper clauses, and oversight and impeachment;
+10 (f) The legislative process of how a bill becomes law;
+11 (g) Article II of the United States constitution as it relates to the
+12 executive branch and the powers of the president, along with the devel-
+13 opment and growth of administrative agencies;
+14 (h) The function and development of the electoral college;
+15 (i) The power of the judiciary as conferred by article III of the United
+16 States constitution and legal precedents that developed these powers;
+17 (j) The functions, powers, interactions, and dynamic relationships
+18 among federal, state, local, and tribal governments, including the
+19 tenth amendment to the United States constitution and legal precedent;
+20 and
+21 (k) The organization and powers of state and local government as de-
+22 scribed in the constitution of the state of Idaho, including the leg-
+23 islative, executive, and judicial branches.
+24 (9) (19) Components of the assessment developed pursuant to subsection
+25 (8) (18) of this section shall be reviewed concurrently with the review of
+26 the Idaho content standards in American government. The state board of edu-
+27 cation may promulgate rules, subject to legislative approval, implementing
+28 the provisions of subsection (8) (18) of this section.
+29 (10) (20) Subject to state-appropriated funds, the state department
+30 of education shall make available funding for high quality professional
+31 development focused on advanced high school civics or government courses,
+32 including those with college credit-bearing civics or government examina-
+33 tions Western civilization, or United States history courses. Allowable
+34 expenses include summer institutes offered at different sites throughout
+35 the state and workshops to help high school teachers prepare students for
+36 success in college-level courses.
+37 SECTION 2. That Chapter 1, Title 33, Idaho Code, be, and the same is
+38 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+39 ignated as Section 33-118C, Idaho Code, and to read as follows:
+40 33-118C. CURRICULAR MATERIALS -- HISTORY AND CIVICS. (1) Notwith-
+41 standing the provisions of section 33-118, Idaho Code, the legislature finds
+42 that to promote the stability of America's republican form of government and
+43 to establish and maintain a general, uniform, and thorough system of public,
+44 free common schools, as provided in section 1, article IX of the constitution
+45 of the state of Idaho, all curricular materials adopted by school districts
+46 or public charter schools in the subjects of history, American government
+47 and civics, and social studies shall:
+48 (a) Align with the provisions of section 33-1602, Idaho Code;
+
+7
+1 (b) Align with state content standards established by the state board
+2 of education;
+3 (c) Be academically rigorous;
+4 (d) Be historically and factually accurate;
+5 (e) Directly utilize or otherwise promote engagement with primary
+6 sources and documents;
+7 (f) Encourage pupils to believe what is true, love what is good, and ad-
+8 mire what is beautiful;
+9 (g) Inspire patriotism;
+10 (h) Contribute to the cultivation of good moral character and the
+11 virtues necessary for self-government and human flourishing;
+12 (i) Cultivate knowledge and appreciation for the nation's history and
+13 cultural heritage as derived from the tradition of Western civiliza-
+14 tion; and
+15 (j) Foster an appreciation for and attachment to America's republican
+16 form of government, along with a proper understanding of the pupils'
+17 rights and duties as citizens of the state of Idaho and the United
+18 States.
+19 (2) School districts and public charter schools shall have the discre-
+20 tion to utilize other supplementary instructional materials, such as pri-
+21 mary sources, documents, maps, or other resources, provided that such ma-
+22 terials align with the requirements provided in subsection (1) of this sec-
+23 tion.
+24 SECTION 3. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

@@ -1,0 +1,327 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 910
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO STATE LANDS; AMENDING TITLE 58, IDAHO CODE, BY THE ADDITION OF A
+3 NEW CHAPTER 16, TITLE 58, IDAHO CODE, TO ESTABLISH PROVISIONS FOR DEVEL-
+4 OPING MANAGED RECREATION OPPORTUNITIES ON ENDOWMENT LAND; AND DECLAR-
+5 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Title 58, Idaho Code, be, and the same is hereby amended
+8 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+9 ter 16, Title 58, Idaho Code, and to read as follows:
+10 CHAPTER 16
+11 MANAGED RECREATION OPPORTUNITIES ON ENDOWMENT LAND
+12 58-1601. LEGISLATIVE FINDINGS AND INTENT. (1) The legislature finds
+13 that:
+14 (a) Upon statehood, Idaho was endowed with certain land to be held and
+15 used exclusively for the purposes provided by the admission act, in such
+16 a manner as the legislature of the state may provide, thereby creating
+17 a "sacred-trust" between the general government, as trustor, the state,
+18 as trustee, and the various beneficiaries;
+19 (b) Such lands became known as endowment lands and are actively man-
+20 aged by the Idaho department of lands, under the direction of the board
+21 of land commissioners, in accordance with its constitutional mandate
+22 to "secure the maximum long term financial return to the institution to
+23 which granted", of which there are nine (9), the most prominent being
+24 public schools;
+25 (c) To generate revenue, endowment lands are leased for various pur-
+26 poses, such as timber harvests, grazing, and commercial uses, and are
+27 generally open to the public, free of charge, provided such public ac-
+28 cess does not interfere with the execution of a valid, existing lease,
+29 or is not otherwise incompatible with the trust purposes of the endow-
+30 ment land;
+31 (d) Idaho law requires that all state-owned lands classified as chiefly
+32 valuable for forestry, reforestation, recreation, and watershed pro-
+33 tection be set aside as state forests, thereby ensuring that endowment
+34 lands classified as such, while they may be reclassified from time to
+35 time, provide future beneficiaries with suitable revenue-generating
+36 land while also ensuring ecologically sensitive areas and rural commu-
+37 nities with single-source watersheds are protected;
+38 (e) The Idaho park and recreation board and the Idaho department of
+39 parks and recreation successfully manage state parks, trails, and other
+40 attractions throughout every region of Idaho, giving them the ability,
+41 expertise, and experience necessary to design, construct, operate,
+
+2
+1 maintain, and administer public recreation infrastructure and activi-
+2 ties within and across Idaho;
+3 (f) In 1989, the Idaho legislature recognized "that in order to obtain
+4 the maximum long-term benefits to the people of Idaho, it is necessary
+5 for lands of outstanding park and recreation potential to be acquired
+6 and incorporated into the state park system in the most economical man-
+7 ner possible.";
+8 (g) The department of parks and recreation, under the direction of the
+9 park board, is statutorily charged with acquiring or leasing areas of
+10 scenic beauty, recreational utility, or historic, archaeological, or
+11 scientific interest to ensure that the health, happiness, availability
+12 of recreational opportunities, and overall wholesome enjoyment of life
+13 by the people will be furthered; and
+14 (h) Both boards and departments are uniquely positioned to collabora-
+15 tively fulfill the land board's constitutional mandate, meet statutory
+16 requirements, and promote the park board's duties all while ensuring
+17 future generations of beneficiaries and citizens have access to endow-
+18 ment lands, the outdoors, and a healthy environment.
+19 (2) Therefore, it is the intent of the legislature to:
+20 (a) Maximize the long-term benefit to the endowment beneficiaries by
+21 providing a variety of long-term, consistent revenue sources;
+22 (b) Protect traditional uses of endowment land and valid, existing
+23 rights;
+24 (c) Conserve existing public access to lands historically open to the
+25 public; and
+26 (d) Preserve, establish, and promote outdoor recreation and education
+27 opportunities.
+28 58-1602. DEFINITIONS. As used in this chapter:
+29 (1) "Endowment land" means any and all land granted or acquired pur-
+30 suant to sections 4 through 14 of the Idaho admission act, including in-lieu
+31 and indemnity lands and such other lands as may have been acquired by the
+32 state through the exchange of such lands or the sale of such lands and pur-
+33 chase of additional lands, and such other lands that may have been acquired
+34 by the state board of land commissioners through gift, grant, or donation
+35 pursuant to section 58-133(1), Idaho Code.
+36 (2) "IDL fee" means the fee set by and paid to the Idaho department of
+37 lands for each managed recreation opportunity.
+38 (3) "IDPR fee" means the fee that may be set by the Idaho department of
+39 parks and recreation for a managed recreation opportunity.
+40 (4) "Managed recreation opportunity" means a specific, defined site or
+41 area of endowment land that is developed and operated for fee-based recre-
+42 ation opportunities, including the associated infrastructure. A managed
+43 recreation opportunity may include providing, promoting, and expanding
+44 outdoor education and research opportunities, similar to the McCall outdoor
+45 science school. A managed recreation opportunity may also include but is not
+46 limited to:
+47 (a) Camp, tent, recreational vehicle, yurt, park-and-ski, and picnic
+48 sites;
+49 (b) Bike, equestrian, off-highway vehicle, and snowmobile parks; and
+
+3
+1 (c) Development of the land for hiking, backpacking, fishing, hunting,
+2 and other such recreational uses as may be desired by the departments.
+3 (5) "Managed recreation plan" or "plan" means a site-specific develop-
+4 ment and management plan containing site-specific terms for a managed recre-
+5 ation opportunity.
+6 (6) "Recreation advisor" means the designated representative from the
+7 department of lands or the designated representative from the department
+8 and parks and recreation who serves as that department's primary point of
+9 contact for managed recreation opportunities established pursuant to this
+10 chapter.
+11 58-1603. MANAGED RECREATION OPPORTUNITIES. (1) A managed recreation
+12 opportunity shall be approved by the board of land commissioners and the park
+13 and recreation board prior to its implementation.
+14 (2) A managed recreation opportunity shall not terminate, effectively
+15 terminate, or interfere with, harm, or impede any bona fide right or valid,
+16 existing right that precedes the use of the land for a managed recreation op-
+17 portunity without written consent of the affected right-holder.
+18 (3) For the purposes of this chapter only, any lease or other land use
+19 agreement executed for a managed recreation opportunity shall not be consid-
+20 ered a disposal of endowment land subject to requirements regarding conflict
+21 auctions.
+22 58-1604. DUTIES OF THE DEPARTMENTS. (1) The director of the department
+23 of lands and the director of the department of parks and recreation, and the
+24 boards, departments, and recreation advisors associated therewith, shall
+25 collaboratively work together to execute the provisions of this chapter.
+26 (2) The department of lands and the department of parks and recreation
+27 shall:
+28 (a) Mutually identify endowment lands that can be developed to offer
+29 managed recreation opportunities to generate revenue, protect endow-
+30 ment land assets, and promote public recreational values;
+31 (b) Appoint a recreation advisor; and
+32 (c) To the maximum extent possible, facilitate multiple simultaneous
+33 leases or uses on endowment lands to maximize revenue, including work-
+34 ing with existing lessees or right-holders, if any, to ensure that a
+35 managed recreation opportunity does not substantially interfere with,
+36 harm, or impede any bona fide right or valid, existing right.
+37 (3) The department of lands shall:
+38 (a) Compile, keep, periodically update, and make available to the de-
+39 partment of parks and recreation an inventory of endowment lands from
+40 which the departments may identify and select mutually agreeable lands
+41 for managed recreation opportunities;
+42 (b) Provide technical assistance on the development, design, con-
+43 struction, implementation, maintenance, and management of the managed
+44 recreation opportunity; and
+45 (c) Provide guidance for each managed recreation opportunity to
+46 assist, coordinate, and consult with the department of parks and recre-
+47 ation.
+48 (4) The department of parks and recreation shall:
+
+4
+1 (a) Design, manage, maintain, operate, and administer all managed
+2 recreation opportunities on endowment lands;
+3 (b) Prepare, solicit, contract, and procure goods and services nec-
+4 essary to construct, develop, maintain, operate, and manage managed
+5 recreation opportunities; and
+6 (c) Incorporate all managed recreation opportunities into its regular
+7 operations and management, including use of its reservation system and
+8 concessionaires or vendors.
+9 58-1605. MANAGED RECREATION PLAN. (1) The departments shall develop a
+10 managed recreation plan after identifying endowment land suitable for a man-
+11 aged recreation opportunity.
+12 (2) The management plan shall include, at a minimum:
+13 (a) An explanation of the recreation opportunity sought to be developed
+14 and the need for it in the community;
+15 (b) The projected monetary benefit to the beneficiary and impact to ex-
+16 isting users of the land, if any; and
+17 (c) Site-specific terms for the managed recreation opportunity that
+18 may include provisions governing use, construction, maintenance, oper-
+19 ation, marketing, funding, revenue distribution, and other such terms
+20 as the boards may deem necessary for the respective managed recreation
+21 opportunity.
+22 (3) Once a managed recreation plan is completed, the departments shall
+23 present the plan to their respective board for review and approval. The plan
+24 shall be approved by:
+25 (a) The board of land commissioners if it finds that:
+26 (i) The IDL fee associated with the managed recreation oppor-
+27 tunity is reasonably likely to compensate the beneficiary in an
+28 amount equal to the fair market value for a similar recreation op-
+29 portunity on the specific area of endowment land sought to be used
+30 for the managed recreation opportunity; and
+31 (ii) The managed recreation opportunity will not actually and
+32 substantially interfere with, harm, or impede any bona fide right
+33 or valid, existing right that precedes the use of the land for a
+34 managed recreation opportunity, unless written consent of the af-
+35 fected right-holder is obtained and presented to the board; and
+36 (b) The park and recreation board if it finds that:
+37 (i) The managed recreation opportunity aligns with its strategic
+38 plan and that it will preserve, protect, or promote the overall en-
+39 joyment of life for the people through outdoor recreation and re-
+40 source stewardship; and
+41 (ii) The managed recreation opportunity will not actually and
+42 substantially interfere with, harm, or impede any bona fide right
+43 or valid, existing right that precedes the use of the land for a
+44 managed recreation opportunity, unless written consent of the af-
+45 fected right-holder is obtained and presented to the board.
+46 (4) Upon the approval of the plan by both boards, the departments shall
+47 implement the plan and take the necessary actions to open the managed recre-
+48 ation opportunity to the public as soon as is practicable.
+
+5
+1 (5) The directors of the departments may use any power and duty granted
+2 to them pursuant to Idaho law to develop a managed recreation opportunity or
+3 associated plan or to otherwise effectuate the provisions of this chapter.
+4 58-1606. REVENUE GENERATION AND DISTRIBUTION. (1) For each managed
+5 recreation opportunity, the department of lands shall set an IDL fee.
+6 (a) The IDL fee shall be based on the fair market value for a similar
+7 recreation opportunity on the specific area of endowment land sought to
+8 be used for the managed recreation opportunity.
+9 (b) When setting the fee, the department of lands shall consider mul-
+10 tiple fair market factors, including local and regional recreation mar-
+11 ket conditions and consistency with fiduciary obligations to endowment
+12 beneficiaries and with the provisions of this chapter.
+13 (c) The IDL fee may be periodically reviewed and adjusted as the board
+14 of land commissioners may see fit but no more frequently than on an an-
+15 nual basis. Prior to adjusting the IDL fee, the land board shall consult
+16 with the park and recreation board and shall attempt to adjust the fee to
+17 a mutually agreeable amount but does not need the park board's consent
+18 prior to adjusting the IDL fee.
+19 (2) The department of parks and recreation shall remit all IDL fees to
+20 the department of lands at the end of each fiscal year for deposit into the
+21 earnings reserve fund of the respective endowment beneficiary for which the
+22 land was used for a managed recreation opportunity.
+23 (3) The department of parks and recreation may charge an IDPR fee.
+24 (a) The IDPR fee shall be determined according to the fee schedule ap-
+25 proved by the park and recreation board.
+26 (b) IDPR fees shall be deposited into the park and recreation fund es-
+27 tablished in section 67-4225, Idaho Code, and used solely by the depart-
+28 ment of parks and recreation for managed recreation opportunities.
+29 (4) The department of parks and recreation may utilize funds, as appli-
+30 cable, provided pursuant to:
+31 (a) Section 67-7126(4), Idaho Code, for off-highway vehicle opportuni-
+32 ties and related facilities and management; and
+33 (b) Section 67-7106(1)(c), Idaho Code, for snowmobile opportunities
+34 and related facilities and management.
+35 (5) Any proceeds from the operation of a managed recreation opportunity
+36 shall be deposited into the park and recreation fund to be used by the direc-
+37 tor of the department of parks and recreation, subject to legislative appro-
+38 priation, solely for the purposes provided for by this chapter, along with
+39 such other moneys as may be provided by legislative appropriation to further
+40 effectuate the purposes of this chapter.
+41 (a) IDL fees shall not be considered proceeds.
+42 (b) Up to fifteen percent (15%) of the proceeds may be used for admin-
+43 istrative costs related to managed recreation opportunities, includ-
+44 ing providing compensation to the departments' recreation advisors for
+45 their work effectuating the provisions of this chapter.
+46 (c) The remaining proceeds may be used by the department of parks and
+47 recreation to cover the costs of developing, designing, constructing,
+48 implementing, maintaining, managing, and operating managed recreation
+
+6
+1 opportunities, acquiring managed recreation opportunities, and other-
+2 wise implementing the provisions of this chapter.
+3 (d) Such proceeds shall not be used toward:
+4 (i) Expenses incurred to manage endowment lands for purposes or
+5 uses other than a managed recreation opportunity; or
+6 (ii) Expenses incurred to manage lands under the direction or con-
+7 trol of the department of parks and recreation for purposes or uses
+8 other than a managed recreation opportunity.
+9 (6) Any proceeds from managed recreation opportunities over five hun-
+10 dred thousand dollars ($500,000) that remain unencumbered in the fund at the
+11 end of each fiscal year shall be transferred by the state treasurer to the de-
+12 partments as follows:
+13 (a) Fifty percent (50%), along with any interest collected on such mon-
+14 eys, shall be deposited into the park and recreation fund established in
+15 section 67-4225, Idaho Code; and
+16 (b) Fifty percent (50%), along with any interest collected on such mon-
+17 eys, shall be deposited in the earnings reserve fund of the respective
+18 endowment beneficiary for which the land was used for a managed recre-
+19 ation opportunity.
+20 58-1607. REPORTING BY THE DEPARTMENTS. (1) No later than June 30 of
+21 each year, beginning in 2027, the directors of the department of lands and
+22 department of parks and recreation shall jointly prepare and submit to the
+23 governor and the legislature an annual report concerning endowment lands
+24 used for managed recreation opportunities and the departments' performance
+25 administering such lands, the managed recreation opportunities associated
+26 with such lands, and the provisions of this chapter.
+27 (2) The departments' annual report shall, at a minimum:
+28 (a) Provide a detailed accounting of all active endowment land leases
+29 that are categorized for recreation purposes, including the total
+30 acreage under such lease, the lease terms, and the revenue generated
+31 thereunder;
+32 (b) Provide the inventory of endowment lands required to be kept by this
+33 chapter and an overview of potential future managed recreation opportu-
+34 nities, including total acreage, recreation opportunity, and potential
+35 revenue;
+36 (c) Provide a detailed accounting of each active managed recreation op-
+37 portunity that includes:
+38 (i) The total proceeds generated at that managed recreation op-
+39 portunity;
+40 (ii) The associated IDL fee amount and the total distribution, or
+41 anticipated distribution, to the endowment beneficiaries; and
+42 (iii) The total expenditures related to that managed recreation
+43 opportunity;
+44 (d) Provide an overview of the total proceeds generated by all managed
+45 recreation opportunities throughout the state, including the antici-
+46 pated distributions to the departments pursuant to section 58-1606(5),
+47 Idaho Code;
+
+7
+1 (e) Provide comprehensive operational details for both departments for
+2 the preceding fiscal year, including budgetary expenditures, staffing,
+3 and progress toward mutually planned strategic milestones; and
+4 (f) Be made publicly available on the respective departments' official
+5 websites.
+6 (3) The department of lands may request for its accounting purposes, no
+7 more frequently than once per fiscal quarter, and the department of parks and
+8 recreation shall provide, within ten (10) business days of receiving such
+9 request in writing, an accurate report containing the information required
+10 by subsection (2)(c) and (d) of this section.
+11 58-1608. APPLICABILITY. Nothing in this chapter shall be construed to
+12 require, permit, or approve the transfer of endowment land from the depart-
+13 ment of lands to the department of parks and recreation or to otherwise di-
+14 vest the state board of land commissioners of title to or management author-
+15 ity over endowment lands, regardless of the endowment land's use as a man-
+16 aged recreation opportunity. Endowment land may be disposed of or otherwise
+17 transferred to the department of parks and recreation only pursuant to a sale
+18 or exchange made in accordance with applicable law.
+19 SECTION 2. An emergency existing therefor, which emergency is hereby
+20 declared to exist, this act shall be in full force and effect on and after
+21 July 1, 2026.

@@ -1,0 +1,177 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 554
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO ABATEMENT DISTRICTS; AMENDING SECTION 39-2804, IDAHO CODE,
+3 TO REVISE PROVISIONS REGARDING THE POWERS AND DUTIES OF ABATEMENT
+4 DISTRICTS; AMENDING SECTION 39-2812, IDAHO CODE, TO ESTABLISH PROVI-
+5 SIONS REGARDING AERIAL ABATEMENT AND TO MAKE TECHNICAL CORRECTIONS;
+6 AMENDING CHAPTER 28, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW
+7 SECTION 39-2814, IDAHO CODE, TO ESTABLISH PROVISIONS ALLOWING INDI-
+8 VIDUAL LANDOWNERS TO OPT OUT OF ABATEMENT ACTIVITIES; AMENDING SECTION
+9 39-2814, IDAHO CODE, TO REDESIGNATE THE SECTION; AND DECLARING AN EMER-
+10 GENCY.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 39-2804, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 39-2804. POWERS AND DUTIES OF ABATEMENT DISTRICTS. (1) The abatement
+15 district board of trustees is authorized:
+16 (1) (a) To appoint a director to direct the activities of the district,
+17 in accordance with training and experience necessary to fulfill the du-
+18 ties of the position.;
+19 (2) (b) To appoint such other persons as necessary, determine their du-
+20 ties and compensation, and make rules and regulations respecting them.;
+21 (3) To take all necessary and proper steps for the control of mosquitoes
+22 and other vermin of public health and welfare importance in the district and
+23 for these purposes shall have the right to enter upon any and all lands.
+24 (4) (c) To sue and be sued.;
+25 (5) (d) To contract to purchase, hold, dispose of, and acquire by gift
+26 real and personal property in the name of the district. To exercise the
+27 right of eminent domain and for these purposes to condemn any necessary
+28 land or rights-of-way in accordance with general law.;
+29 (6) (e) To abate as nuisance breeding places of mosquitoes or other
+30 vermin of public health and welfare importance within the district or
+31 within migrating distance of the district by use of chemicals or per-
+32 manent control measures and in this connection have the right to enter
+33 upon any and all lands.;
+34 (7) (f) To work with the lateral ditch water users associations, ir-
+35 rigation, drainage and flood control districts and other cooperating
+36 organizations. The board of trustees of the abatement district may
+37 supplement funds of cooperating organizations for improvement, repair,
+38 maintenance, and cleaning of ditches which that will temporarily or
+39 permanently eliminate mosquito breeding or for other activities which
+40 that will benefit the district.;
+41 (8) (g) To file annually with the board of county commissioners for
+42 their approval an estimate of funds required for the next year, a plan
+
+2
+1 of the work to be done, and methods to be employed. No procedure, work,
+2 or contract for any year of operation shall be done or entered upon into
+3 until plans and budget have been jointly approved by the board of county
+4 commissioners.;
+5 (9) (h) To file, annually or by February 1 of the succeeding year, with
+6 the board of county commissioners a report setting forth the moneys ex-
+7 pended during the previous year, methods employed, and work accomplish-
+8 ments.; and
+9 (10) To approve a written mosquito or other vermin management plan
+10 submitted by a landowner requesting that their property be excluded from
+11 treatment by the abatement district. Such plan must be specific to the
+12 landowner's property, provide adequate control measures, and be implemented
+13 by the landowner. The abatement district shall refrain from treatment of
+14 property included in the approved plan, but shall maintain monitoring and
+15 surveillance activities. If the landowner fails to follow the plan or does
+16 not provide adequate control measures, the abatement district may abate the
+17 mosquitoes or other vermin.
+18 (11) (i) To cooperate with other entities. At its discretion, a dis-
+19 trict may cooperate with and enter into annual agreements or contract
+20 with governmental agencies of this state, other states, agencies of the
+21 federal government, private associations, and private individuals in
+22 order to carry out the purposes and provisions of this chapter.
+23 (2) The abatement district board of trustees shall obtain written
+24 permission annually from a landowner before entering or flying above the
+25 landowner's property to conduct abatement-related activities, including
+26 treating the property aerially or by ground and monitoring and surveilling
+27 the property, regardless of whether an emergency has been declared pursuant
+28 to section 39-2812, Idaho Code.
+29 SECTION 2. That Section 39-2812, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 39-2812. PESTS -- PUBLIC HEALTH AND WELFARE -- DISASTERS -- EMERGEN-
+32 CIES -- INTERIM ABATEMENT DISTRICTS. (1) To provide for the timely response
+33 to an elevated or anticipated pest population that may constitute a risk
+34 to public health and welfare, the board of county commissioners of each
+35 county of this state, in collaboration with duly recognized local and state
+36 officials, and after a public hearing is called for such purpose as a spe-
+37 cial meeting pursuant to the provisions of section 74-204(2), Idaho Code,
+38 is hereby granted full power and authority to declare such pests as public
+39 health and welfare pests, and to initiate activities to hinder in the poten-
+40 tial spread of disease, or adverse economic impact, caused by these pests by
+41 taking appropriate steps to intervene in the natural biological cycle of the
+42 pests or disease.
+43 (2) Boards of county commissioners are further authorized and empow-
+44 ered, in the event of a disaster or emergency declared by such boards, to
+45 make direct appropriations for the purpose of controlling public health and
+46 welfare pests as declared pursuant to this section. All moneys raised by
+47 direct appropriation shall be placed in a county public health and welfare
+48 pest fund, which shall be used exclusively for the control of pests of public
+49 health and welfare significance and for payment of all necessary expenses
+
+3
+1 incurred in such control program. In addition, the county may impose an an-
+2 nual property tax assessment pursuant to section 39-2805, Idaho Code, and
+3 in accordance with the provisions of sections 63-802 and 63-803, Idaho Code,
+4 for the term of the disaster or emergency or until all expenses incurred dur-
+5 ing the disaster or emergency have been recovered. Such fund shall be a re-
+6 volving fund and all moneys returned to the fund under any of the provisions
+7 of this chapter shall continue to be available for the operation of the con-
+8 trol program.
+9 (3) The disaster or emergency declaration of a pest of public health
+10 and welfare significance within a county and subsequent pest management
+11 activity shall, except as provided herein, place the whole county into an
+12 interim abatement district for administrative purposes for no more than two
+13 (2) years. The transition of an interim abatement district into a formally
+14 defined abatement district, shall be brought to a vote of the electorate
+15 within twenty-four (24) months of the declaration, subject to the notifica-
+16 tion and establishment requirements provided in this chapter, and conducted
+17 during a general election held on the first Tuesday following the first Mon-
+18 day in November of even-numbered years, and if passed, the district shall be
+19 recognized and the provisions of this chapter shall be implemented. If the
+20 measure fails, the balance of revolving fund moneys shall be distributed as
+21 required by state law. In the event the disaster or emergency exceeds the
+22 county's capacity or resources, provisions should be made to request state
+23 or federal disaster or emergency funds to address the evolving situation.
+24 If the interim abatement district provides the same service as an existing
+25 abatement district, the interim abatement district shall exclude any area
+26 within an existing abatement district.
+27 (4) Aerial abatement methods shall be used within an abatement district
+28 only when the respective board of county commissioners has declared an emer-
+29 gency. In such cases, aerial abatement methods shall be used only to treat
+30 property within the abatement district that has not been exempted pursuant
+31 to section 39-2814, Idaho Code.
+32 SECTION 3. That Chapter 28, Title 39, Idaho Code, be, and the same is
+33 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+34 ignated as Section 39-2814, Idaho Code, and to read as follows:
+35 39-2814. PARTICIPATION IN ABATEMENT DISTRICTS BY PROPERTY OWNERS. (1)
+36 An individual who owns property within an abatement district may submit a
+37 written notice that includes the physical address of the property to the
+38 board of county commissioners for the county in which the property is located
+39 requesting that the property be exempted from any and all abatement-related
+40 activities. The notice shall remain in effect until the owner of the prop-
+41 erty rescinds the notice in writing.
+42 (2) Upon receiving such written request, the board of county commis-
+43 sioners shall notify every abatement district within the state of Idaho that
+44 the property is exempted from abatement-related activities, and the dis-
+45 tricts and county shall strictly adhere to the requested exemption.
+46 (3)(a) In the event that abatement related-activities occurs on, over,
+47 or above an exempted property, the owner may:
+48 (i) Submit evidence of the violation to the respective board of
+49 county commissioners; and
+
+4
+1 (ii) Initiate a civil action against the respective board of
+2 county commissioners and abatement district.
+3 (b) If a court determines a violation occurred:
+4 (i) The board of county commissioners shall be subject to a five
+5 thousand dollar ($5,000) fine for each violation, which shall be
+6 paid to the aggrieved owner; and
+7 (ii) The court shall award reasonable attorney's fees and costs to
+8 the prevailing party.
+9 SECTION 4. That Section 39-2814, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 39-2814 39-2815. SEVERABILITY. The provisions of this chapter are
+12 hereby declared to be severable and if any provision of this chapter or the
+13 application of such provision to any person or circumstance is declared in-
+14 valid for any reason, such declaration shall not affect the validity of the
+15 remaining portions of this chapter.
+16 SECTION 5. An emergency existing therefor, which emergency is hereby
+17 declared to exist, this act shall be in full force and effect on and after its
+18 passage and approval.

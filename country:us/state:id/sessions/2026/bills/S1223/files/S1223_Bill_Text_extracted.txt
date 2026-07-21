@@ -1,0 +1,103 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1223
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO WATER DISTRICTS; AMENDING SECTION 42-612, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING WATER DISTRICT BUDGETS AND TO PROVIDE THAT WATER
+4 USERS MAY AUTHORIZE A WATER DISTRICT TO CHARGE A FIXED FEE TO COVER AD-
+5 MINISTRATIVE COSTS ASSOCIATED WITH PROPERTY OWNERSHIP TRANSFERS; AND
+6 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 42-612, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 42-612. PROPOSED WATER DISTRICT BUDGET FOR SUCCEEDING YEAR -- ADOP-
+11 TION AND CONTENTS OF BUDGET -- DEBT OF WATER USER. (1) Each watermaster
+12 shall, at least fourteen (14) days prior to the annual meeting of the water
+13 users of the water district, prepare a proposed budget for the succeeding
+14 year, together with a distribution of the pro rata amounts of the budget as-
+15 sessed to the respective water users or water delivery organizations using
+16 the actual volume of water delivered for the past season or seasons. The
+17 proposed budget and distribution of pro rata assessments shall be presented
+18 to the water users for consideration and approval at the next annual meeting.
+19 (2) At any annual meeting, the water users must shall adopt a budget
+20 covering the estimated expenses of delivering the water of the district for
+21 the ensuing succeeding year and shall, by resolution, determine that how the
+22 moneys composing the budget shall be collected. The compensation of the wa-
+23 termaster and the watermaster's assistants and any other expenses of deliv-
+24 ering the water of the district to the users thereof, including the costs
+25 of the advisory committee in implementing resolutions adopted by the water
+26 users of the district for activities other than the payment of the salary and
+27 operating expenses of the watermaster and assistants, shall be paid in the
+28 manner hereinafter, in this section, provided for by this section.
+29 (3) To the extent possible, funding for advisory committee expenses
+30 associated with implementing resolutions adopted by the water users for
+31 activities other than the payment of the salary and operating expenses of the
+32 watermaster and assistants shall come from funds available pursuant to sec-
+33 tion 42-613A, Idaho Code. If funds available pursuant to section 42-613A,
+34 Idaho Code, are not sufficient to cover expenses incurred in implementing
+35 resolutions adopted by the water users, then such expenses shall come from
+36 assessments.
+37 (4) The budget shall show the aggregate amount to be collected from all
+38 the water users in the district and the amount to be paid by each water de-
+39 livery organization or other water user. For the purpose of computing the
+40 respective amounts to be paid by each water user, the actual volume of water
+41 delivered to each water delivery organization or other water user during the
+42 past season or seasons, not exceeding five (5) seasons, shall be used as a ba-
+
+2
+1 sis. If a right has not previously been assessed or if past season delivery
+2 records are not available, the watermaster may, by resolution of the water
+3 users, estimate the volume of water delivered or reasonably used when water
+4 was available under the priority of the right during the past season or sea-
+5 sons. Notwithstanding other provisions of this section, if a water delivery
+6 organization or water user diverts water pursuant to a valid water right from
+7 a natural waterway that is regulated and assessed by one water district, and
+8 that water is then conveyed through and rediverted from a different natural
+9 waterway pursuant to section 42-105(1), Idaho Code, that is regulated by a
+10 second water district, the second water district may, by resolution of the
+11 water users, charge a fee instead of an assessment for the water that is redi-
+12 verted sufficient to pay the costs and expenses for watermaster services for
+13 data collection, water measurement, conveyance of water, and record keeping
+14 directly attributable to the conveyance of the water that is rediverted. A
+15 fee charged pursuant to this subsection is not an assessment. A water deliv-
+16 ery organization or a water user that is charged a fee is not eligible to vote
+17 at an annual water district meeting as set forth in section 42-605, Idaho
+18 Code, unless the water delivery organization or water user holds other water
+19 rights that are assessed by the water district and voting is based upon those
+20 assessed water rights.
+21 (5) Upon the adoption of the budget, the amount payable by each water
+22 delivery organization or other water user, as shown by the budget, shall
+23 become the debt of each respectively and shall become due and payable as
+24 hereinafter provided. Other provisions of chapter 6, title 42, Idaho Code,
+25 notwithstanding, water users may at the annual meeting by resolution provide
+26 for an annual minimum charge not to exceed two hundred fifty dollars ($250)
+27 per water user for watermaster services. The minimum charge is applicable
+28 whenever the prorated charge against any water delivery organization or
+29 other water user is less than the minimum charge.
+30 (6) At the annual meeting, water users may, by resolution, authorize
+31 the water district to charge a fixed fee, the amount of which shall be set
+32 in the resolution, to be used exclusively to cover administrative costs as-
+33 sociated with collaborating with title companies during property ownership
+34 transfers. Such collaboration may include but is not limited to notifying
+35 title companies of outstanding balances, confirming payment receipts, and
+36 transferring relevant water right documentation between the water district
+37 and the title company.
+38 (6) (7) Other provisions of chapter 6, title 42, Idaho Code, notwith-
+39 standing, water users at the annual meeting may provide, by resolution, that
+40 the respective amounts owed by each water user as shown in the adopted budget
+41 shall constitute a final determination of the amount due for that year with-
+42 out the need to carry forward any water user debits or credits to the follow-
+43 ing year.
+44 SECTION 2. An emergency existing therefor, which emergency is hereby
+45 declared to exist, this act shall be in full force and effect on and after
+46 July 1, 2026.

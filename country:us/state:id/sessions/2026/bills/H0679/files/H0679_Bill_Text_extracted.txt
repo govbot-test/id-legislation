@@ -1,0 +1,133 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 679
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO DEFENSE OF SELF OR OTHERS, MOTOR VEHICLES, AND PUBLIC ASSEMBLIES
+3 ON ROADS; AMENDING SECTION 19-202A, IDAHO CODE, TO REVISE A PROVISION
+4 REGARDING DEFENSE OF SELF OR OTHERS AND TO PROVIDE FOR OPERATORS OF A
+5 MOTOR VEHICLE; AMENDING TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW
+6 CHAPTER 34, TITLE 67, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+7 PUBLIC ASSEMBLIES ON ROADS; AND DECLARING AN EMERGENCY AND PROVIDING AN
+8 EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 19-202A, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 19-202A. DEFENSE OF SELF, OTHERS AND CERTAIN PLACES. (1) No person in
+13 this state shall be placed in legal jeopardy of any kind whatsoever for pro-
+14 tecting himself or his family others by reasonable means necessary, or when
+15 coming to the aid of another whom he reasonably believes to be in imminent
+16 danger of or the victim of aggravated assault, robbery, rape, murder or other
+17 heinous crime.
+18 (2) The defense of self or of another does not require a person to wait
+19 until he or she ascertains whether the danger is apparent or real. A person
+20 confronted with such danger has a clear right to act upon appearances such as
+21 would influence the action of a reasonable person.
+22 (3) In the exercise of the right of self-defense or defense of another,
+23 a person need not retreat from any place that person has a right to be. A per-
+24 son may stand his ground and defend himself or another person by the use of
+25 all force and means which would appear to be necessary to a reasonable per-
+26 son in a similar situation and with similar knowledge without the benefit of
+27 hindsight. The provisions of this subsection shall not apply to a person in-
+28 carcerated in jail or prison facilities when interacting with jail or prison
+29 staff who are acting in their official capacities.
+30 (4) In exercising the right of self-defense or defense of another, a mo-
+31 tor vehicle operator shall have no criminal liability for injuries to, death
+32 of, or damage to property of any person the operator reasonably believes is
+33 attempting, or is aiding and abetting an attempt, to commit aggravated as-
+34 sault, robbery, rape, kidnapping, murder, or other heinous crime on the op-
+35 erator or any occupants of the vehicle. The operator in such a situation may
+36 use the vehicle as a means of defense and escape in any way that would appear
+37 to be necessary to a reasonable person in a similar situation and with simi-
+38 lar knowledge without the benefit of hindsight.
+39 (4) (5) In any prosecution for the unlawful use of force, including
+40 deadly force, or the attempted or threatened use of force contrary to title
+41 18, Idaho Code, the burden is on the prosecution to prove beyond a reasonable
+
+2
+1 doubt that the use of force, attempted use of force or threat to use force was
+2 not justifiable.
+3 (5) (6) A person using force or deadly force in defense of a habitation,
+4 place of business or employment or occupied vehicle as defined in section
+5 18-4009(3), Idaho Code, is presumed to have acted reasonably and had a rea-
+6 sonable fear of imminent peril of death or serious bodily injury if the force
+7 is used against a person whose entry or attempted entry therein is unlaw-
+8 ful and is made or attempted by use of force, or in a violent and tumultuous
+9 manner, or surreptitiously or by stealth, or for the purpose of committing a
+10 felony.
+11 SECTION 2. That Title 67, Idaho Code, be, and the same is hereby amended
+12 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+13 ter 34, Title 67, Idaho Code, and to read as follows:
+14 CHAPTER 34
+15 PUBLIC ASSEMBLIES ON ROADS
+16 67-3401. LEGISLATIVE PURPOSE AND INTENT. The legislature affirms that
+17 the right of the public to peacefully assemble is among the most fundamen-
+18 tal of all rights and necessary in a free society. At the same time, the
+19 legislature recognizes that assemblies on roads, especially high-traffic
+20 or high-speed roads, may create safety hazards both for those assembling
+21 and for other users of the road. In enacting this chapter, the legislature
+22 intends to protect public safety while upholding the importance of public
+23 roads as a traditional forum for public assembly.
+24 67-3402. DEFINITIONS. As used in this chapter:
+25 (1) "Public assembly" means a group of persons organized and united for
+26 a common purpose in a public setting.
+27 (2) "Public entity" means the state of Idaho or any political subdi-
+28 vision thereof, including all boards, commissions, agencies, institutions,
+29 authorities, and bodies corporate and politic of the state, created by or in
+30 accordance with state law or regulations.
+31 (3) "Public street" or "highway" is as described in section 49-109(4),
+32 Idaho Code.
+33 (4) "Spontaneous assembly" means a public assembly on or alongside a
+34 public road for which a permit was not issued in accordance with a policy
+35 adopted pursuant to the provisions of this chapter.
+36 (5) "Traffic" is as defined in section 49-121, Idaho Code.
+37 67-3403. PERMIT POLICY. (1) Each public entity with authority to close
+38 public streets or highways shall establish a policy under which a person may
+39 apply for a permit to close a public street or highway for the purpose of a
+40 public assembly.
+41 (2) A policy adopted pursuant to this section may establish reasonable
+42 time, place, and manner restrictions on road closures but may not discrimi-
+43 nate based on the purpose of the public assembly or the viewpoint of a permit
+44 applicant, except as provided in subsections (3) and (4) of this section.
+45 (3) A public entity may inquire as to the purpose or nature of a public
+46 assembly to determine:
+
+3
+1 (a) Whether an assembly would be unlawful for purposes of chapter 64,
+2 title 18, Idaho Code; and
+3 (b) Whether peace officers may need to be present to protect the safety
+4 of assembly participants or to preserve public order.
+5 (4) Nothing in this section shall be construed to:
+6 (a) Require a public entity to provide a permit for an unlawful assem-
+7 bly;
+8 (b) Prevent a public entity with authority to do so from dispersing an
+9 unlawful assembly; or
+10 (c) Prevent a public entity with authority to do so from detaining, ar-
+11 resting, or prosecuting participants in an unlawful assembly.
+12 67-3404. SPONTANEOUS ASSEMBLIES. A policy adopted pursuant to section
+13 67-3403, Idaho Code, shall provide that participants in spontaneous assem-
+14 blies:
+15 (1) May not block or otherwise obstruct traffic; and
+16 (2) Shall comply with all applicable laws, ordinances, and regulations
+17 for persons on or alongside a public road.
+18 67-3405. PENALTIES. (1) A participant in a public assembly who fails
+19 to comply with the terms of a permit shall be guilty of a misdemeanor punish-
+20 able by imprisonment in the county jail for up to six (6) months, a fine of up
+21 to one thousand dollars ($1,000), or both such imprisonment and fine.
+22 (2) A participant in a spontaneous assembly who fails to comply with an
+23 applicable law, ordinance, or regulation for persons on or alongside a pub-
+24 lic street or highway shall, in addition to any other penalty prescribed by
+25 law, ordinance, or regulation, be guilty of a misdemeanor punishable by a
+26 fine of up to one thousand dollars ($1,000).
+27 SECTION 3. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2026.

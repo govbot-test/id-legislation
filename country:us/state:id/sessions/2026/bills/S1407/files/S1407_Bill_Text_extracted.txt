@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1407
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE DIVISION OF OCCUPATIONAL AND PROFES-
+3 SIONAL LICENSES; APPROPRIATING ADDITIONAL MONEYS TO THE DIVISION OF OC-
+4 CUPATIONAL AND PROFESSIONAL LICENSES FOR FISCAL YEAR 2027; AND DECLAR-
+5 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. In addition to any other appropriation provided by law,
+8 there is hereby appropriated to the Division of Occupational and Pro-
+9 fessional Licenses the following amounts to be expended according to the
+10 designated programs and expense classes from the State Regulatory Fund for
+11 the period July 1, 2026, through June 30, 2027:
+12 FOR FOR
+13 OPERATING CAPITAL
+14 EXPENDITURES OUTLAY TOTAL
+15 BuildingConstruction&RealEstate $99,500 $310,000 $409,500
+16 Occupational Licenses 15,300 15,300
+17 Health Professions 47,900 0 47,900
+18 TOTAL $162,700 $310,000 $472,700
+19 SECTION 2. An emergency existing therefor, which emergency is hereby
+20 declared to exist, this act shall be in full force and effect on and after
+21 July 1, 2026.

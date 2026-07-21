@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Galloway
+Seconded by Lakey
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1330
+1 AMENDMENT TO THE BILL
+2 On page 1 of the printed bill, following line 21, insert:
+3 "SECTION 2. That Section 1-2311, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 1-2311. APPEAL TO LAWYER MAGISTRATE. If either party is dissatisfied,
+6 he may, within thirty (30) days from the entry of said judgment against him,
+7 appeal to a lawyer magistrate other than the magistrate who entered said
+8 judgment; and if the final judgment is rendered against him by such lawyer
+9 magistrate, then he shall pay, in addition to any judgment rendered in the
+10 magistrate's division, an attorney's fee to the prevailing party in the sum
+11 of twenty-five dollars ($25.00) as provided in section 12-120(6), Idaho
+12 Code, provided, however, that appeals from such small claims department
+13 shall be allowed only in such cases as appeals would be allowed if the action
+14 were instituted in the magistrate's division as is now provided, and further
+15 provided that the appeal shall be heard in the county wherein the original
+16 small claim was filed. A fee of twenty dollars ($20.00) shall be paid by
+17 the party taking the appeal, which shall be paid to the county treasurer who
+18 shall, within fifteen (15) days after the end of the month, pay such fees to
+19 the state treasurer for deposit into the court technology fund.";
+20 and in line 22, delete "2" and insert: "3".
+21 CORRECTION TO TITLE
+22 On page 1, in line 4, following "CLAIM;" insert: "AMENDING SECTION
+23 1-2311, IDAHO CODE, TO REVISE A PROVISION REGARDING ATTORNEY'S FEES;".

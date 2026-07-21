@@ -1,0 +1,139 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 853
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO HOSPITALS; PROVIDING LEGISLATIVE FINDINGS AND INTENT; AMENDING
+3 SECTION 39-1359, IDAHO CODE, TO REVISE PROVISIONS REGARDING CONVEYANCE
+4 OF HOSPITAL DISTRICT PROPERTY TO A NONPROFIT CORPORATION; AMENDING TI-
+5 TLE 48, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 21, TITLE 48, IDAHO
+6 CODE, TO DEFINE TERMS, TO ESTABLISH PROVISIONS REGARDING NOTICE AND
+7 PUBLIC PROCESS, AND TO ESTABLISH PROVISIONS REGARDING STATE REVIEW; AND
+8 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. (1) The Legislature finds
+11 that:
+12 (a) Public hospital districts were created and funded by local taxpay-
+13 ers to ensure access to essential health care services and to maintain
+14 local governance authority;
+15 (b) When hospital district assets are conveyed to nonprofit corpora-
+16 tions pursuant to section 39-1359, Idaho Code, such conveyances are
+17 conditioned upon continued nonprofit operation for the benefit of the
+18 community;
+19 (c) The transfer or control of such hospitals to multistate or distant
+20 systems without public notice or meaningful review may materially re-
+21 duce local governance authority and undermine community accountabil-
+22 ity; and
+23 (d) Transparency, public participation, and state review of control
+24 transfers are necessary to protect public assets, preserve access to
+25 essential services, and maintain public trust.
+26 (2) It is the intent of the Legislature to operate prospectively and to
+27 clarify conditions attached to the conveyance of public hospital assets.
+28 SECTION 2. That Section 39-1359, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 39-1359. CONVEYANCE OF HOSPITAL DISTRICT PROPERTY TO NONPROFIT CORPO-
+31 RATION. (1) As an alternative to the procedure set forth in section 39-1358,
+32 Idaho Code, the board of trustees of a hospital district may convey or lease
+33 hospital district real property, facilities, and the personal property and
+34 equipment therein subject to the following conditions:
+35 (a) The conveyance or lease shall be to a nonprofit corporation;
+36 (b) No lease term shall exceed ninety-nine (99) years;
+37 (c) The governing body of the nonprofit corporation must be composed
+38 initially of the incumbent trustees of the hospital district board of
+39 trustees as individuals;
+40 (d) The articles of incorporation must provide for a membership of the
+41 corporation that is:
+
+2
+1 (i) Broadly representative of the public it serves; or
+2 (ii) A single nonprofit corporate member having articles of in-
+3 corporation that provide for a membership of the corporation that
+4 is broadly representative of the public it serves. The articles
+5 must further provide for the selection of the governing body by the
+6 membership of the corporation or exclusively by a parent corpora-
+7 tion that is a corporate member, with voting power, and not by the
+8 governing body itself, except to fill a vacancy for an unexpired
+9 term. The articles must further provide that no member of the gov-
+10 erning body shall serve more than two (2) consecutive three (3)
+11 year terms;
+12 (e) The nonprofit corporation must provide care for indigent patients
+13 and receive any person falling sick or maimed within the hospital dis-
+14 trict;
+15 (f) The conveyance or lease agreement must provide for the transfer of
+16 patients, staff, and employees and for the continuing administration of
+17 any trusts or bequests or maintenance of records pertaining to the ex-
+18 isting hospital district; and
+19 (g) The conveyance or lease agreement shall provide for a price that is
+20 either of the following:
+21 (i) The acceptance of all assets and assumption of all liabili-
+22 ties; or
+23 (ii) Such other price to which the hospital district board of
+24 trustees and the nonprofit corporation agree.
+25 (2) If any hospital that has been conveyed pursuant to this section
+26 ceases to be used as a nonprofit hospital, then the hospital so conveyed
+27 shall revert to the ownership of the hospital district, unless the premises
+28 so conveyed are sold and the proceeds used to erect or enlarge another non-
+29 profit hospital. If any hospital that has been leased pursuant to this
+30 section ceases to be used as a nonprofit hospital, then the lease shall ter-
+31 minate.
+32 (3) A hospital shall be deemed to have ceased to be used as a nonprofit
+33 hospital if:
+34 (a) Control of the hospital is transferred to another entity without
+35 approval pursuant to chapter 21, title 48, Idaho Code; or
+36 (b) The hospital enters into a transaction that materially eliminates
+37 local governance authority.
+38 (4) As used in this section, "materially eliminates local governance
+39 authority" means the transfer of decision-making authority over hospital
+40 budgets, service lines, facility closures, executive leadership selection,
+41 or strategic planning to an entity that is not locally governed within the
+42 county or counties primarily served by the hospital.
+43 SECTION 3. That Title 48, Idaho Code, be, and the same is hereby amended
+44 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+45 ter 21, Title 48, Idaho Code, and to read as follows:
+46 CHAPTER 21
+47 HEALTH CARE CONTROL TRANSFER TRANSPARENCY
+48 48-2101. DEFINITIONS. As used in this chapter:
+
+3
+1 (1) "Control transfer" means any transaction or arrangement that re-
+2 sults in:
+3 (a) A change in majority voting power of the governing board;
+4 (b) Substitution of a parent or controlling entity; or
+5 (c) Delegation of material governance authority through management,
+6 affiliation, or similar agreement.
+7 (2) "Covered hospital" means any hospital located in Idaho that:
+8 (a) Is organized as a nonprofit corporation; and
+9 (b) Has received public hospital district assets pursuant to section
+10 39-1359, Idaho Code.
+11 48-2102. NOTICE AND PUBLIC PROCESS REQUIRED. (1) A covered hospital
+12 shall provide written notice to the attorney general and the department of
+13 health and welfare at least ninety (90) days prior to entering into any con-
+14 trol transfer.
+15 (2) A covered hospital shall conduct, with no less than thirty (30)
+16 days' public notice, at least one (1) public hearing within the county it
+17 primarily serves prior to entering into any control transfer.
+18 (3) The notice required pursuant to subsection (2) of this section
+19 shall include a summary of the proposed transaction and its anticipated im-
+20 pact on governance, services, and community benefit obligations.
+21 48-2103. STATE REVIEW. (1) The attorney general shall review any
+22 proposed control transfer of a covered hospital to determine whether such
+23 transfer is consistent with the public interest, including effects on:
+24 (a) Local governance and accountability;
+25 (b) Access to essential services; and
+26 (c) Community benefit obligations.
+27 (2) The attorney general may approve, condition, or disapprove a con-
+28 trol transfer pursuant to subsection (1) of this section.
+29 (3) No control transfer shall take effect without written approval of
+30 the attorney general.
+31 SECTION 4. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after
+33 July 1, 2026.

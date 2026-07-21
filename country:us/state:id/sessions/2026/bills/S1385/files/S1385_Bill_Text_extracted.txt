@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1385
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE INDUSTRIAL COMMISSION; APPROPRIATING
+3 ADDITIONAL MONEYS TO THE INDUSTRIAL COMMISSION FOR FISCAL YEAR 2027;
+4 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. In addition to any other appropriation provided by law,
+7 there is hereby appropriated to the Industrial Commission the following
+8 amounts to be expended according to the designated programs and expense
+9 classes from the listed funds for the period July 1, 2026, through June 30,
+10 2027:
+11 FOR
+12 FOR FOR TRUSTEE AND
+13 OPERATING CAPITAL BENEFIT
+14 EXPENDITURES OUTLAY PAYMENTS TOTAL
+15 I. COMPENSATION:
+16 FROM:
+17 Industrial Administration
+18 Fund $252,000 $24,200 $276,200
+19 PeaceOfficerandDetentionOfficerTemporaryDisability
+20 Fund $68,900 68,900
+21 Miscellaneous Revenue
+22 Fund 20,000 0 0 20,000
+23 TOTAL $272,000 $24,200 $68,900 $365,100
+24 II. REHABILITATION:
+25 FROM:
+26 Industrial Administration
+27 Fund $39,500 $39,500
+28 III. CRIME VICTIMS COMPENSATION:
+29 FROM:
+30 Crime Victims Compensation
+31 Fund $36,000 $36,000
+32 GRAND TOTAL $308,000 $63,700 $68,900 $440,600
+
+2
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

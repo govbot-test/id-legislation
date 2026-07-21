@@ -1,0 +1,136 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 612
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO SOLAR ENERGY; AMENDING CHAPTER 1, TITLE 61, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 61-122, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING PORTABLE SOLAR GENERATION DEVICES; AMENDING SECTION 61-129,
+5 IDAHO CODE, TO REVISE PROVISIONS REGARDING PUBLIC UTILITIES; AMENDING
+6 SECTION 48-1802, IDAHO CODE, TO REVISE A DEFINITION; AMENDING SECTION
+7 48-1803, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE APPLICABILITY
+8 OF THE RESIDENTIAL SOLAR ENERGY SYSTEM DISCLOSURE ACT; AND DECLARING AN
+9 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Chapter 1, Title 61, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 61-122, Idaho Code, and to read as follows:
+14 61-122. PORTABLE SOLAR GENERATION DEVICES. (1) "Portable solar gener-
+15 ation device" means a moveable photovoltaic generation device that:
+16 (a) Is designed to be connected to a building's electrical system
+17 through a standard electrical outlet;
+18 (b) Is intended to offset part or all of a customer's electricity con-
+19 sumption;
+20 (c) Is limited to supplying a maximum power output of not more than one
+21 thousand two hundred (1,200) watts to the utility electric grid;
+22 (d) Is certified by underwriters laboratories or an equivalent nation-
+23 ally recognized testing laboratory; and
+24 (e) Meets the standards of the most recent version of the national elec-
+25 trical code.
+26 (2) Notwithstanding any other provision of law, a portable solar gener-
+27 ation device shall be exempt from interconnection and net metering require-
+28 ments.
+29 (3) An electric corporation:
+30 (a) Shall not require a customer using a portable solar generation de-
+31 vice to:
+32 (i) Obtain the electric corporation's approval before installing
+33 or using the device;
+34 (ii) Pay any fee or charge related to the device or for feeding en-
+35 ergy back into the utility electric grid; or
+36 (iii) Install any additional controls or equipment beyond what is
+37 integrated into the device; and
+38 (b) Shall not be liable for any damage or injury caused by a portable
+39 solar generation device.
+40 SECTION 2. That Section 61-129, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+
+2
+1 61-129. PUBLIC UTILITY. (1) The term "public utility" when used in
+2 this act includes every common carrier, pipeline corporation, gas corpora-
+3 tion, electrical corporation, telephone corporation, and water corpora-
+4 tion, as those terms are defined in this chapter and each thereof is hereby
+5 declared to be a public utility and to be subject to the jurisdiction, con-
+6 trol and regulation of the commission and to the provisions of this act. The
+7 term "public utility" as used in this act shall cover cases:
+8 (1) (a) Where the service is performed and the commodity delivered
+9 directly to the public or some portion thereof, and where the service
+10 is performed or the commodity delivered to any corporation or cor-
+11 porations, or any person or persons, who in turn, either directly or
+12 indirectly or mediately or immediately, performs the services or deliv-
+13 ers such commodity to or for the public or some portion thereof; and
+14 (2) (b) Where a pipeline corporation delivers the commodity to any
+15 corporation, person, their lessees, receivers or trustees regardless
+16 of whether it offers the pipeline service or commodity to the public or
+17 some portion thereof. Such pipeline shall be subject to the safety su-
+18 pervision and regulation of the commission only, unless and until such
+19 pipeline corporation makes application to the commission to be regu-
+20 lated generally as a public utility.
+21 (2) The term "public utility" shall not include portable solar genera-
+22 tion devices.
+23 SECTION 3. That Section 48-1802, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 48-1802. DEFINITIONS. As used in this chapter:
+26 (1) "Consumer" means a person who, for primarily personal, family, or
+27 household purposes:
+28 (a) Purchases a residential solar energy system under a solar agree-
+29 ment; or
+30 (b) Leases a residential solar energy system under a system lease
+31 agreement.
+32 (2) "Residential solar energy system" means a solar energy system that:
+33 (a) Is installed on or in real property in the state of Idaho;
+34 (b) Generates electricity primarily for on-site consumption for pri-
+35 marily personal, family, or household purposes; and
+36 (c) Has an electricity delivery capacity that exceeds one (1) kilowatt
+37 thousand two hundred (1,200) watts.
+38 (3) "Solar agreement" means a system purchase agreement or a system
+39 lease agreement.
+40 (4) "Solar energy system" means a system or configuration of energy de-
+41 vices that collects and uses solar energy to generate electricity to be used
+42 by a consumer.
+43 (5) "Solar retailer" means a person who:
+44 (a) Sells or proposes to sell a residential solar energy system to a
+45 consumer under a system purchase agreement; or
+46 (b) Owns the residential solar energy system that is the subject of a
+47 system lease agreement or proposed system lease agreement.
+48 (6) "System lease agreement" means an agreement:
+
+3
+1 (a) Under which a consumer leases a residential solar energy system
+2 from a solar retailer; and
+3 (b) That provides for the consumer to make payments over a term for the
+4 lease of the residential solar energy system.
+5 (7) "System purchase agreement" means an agreement under which a con-
+6 sumer purchases a residential solar energy system, or the energy created
+7 from a residential solar energy system, from a solar retailer either out-
+8 right or through installment payments.
+9 SECTION 4. That Section 48-1803, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 48-1803. APPLICABILITY. (1) The provisions of this chapter shall ap-
+12 ply to any solar agreement entered into on or after October 1, 2019, between a
+13 solar retailer and a consumer, including, but not limited to, a solar agree-
+14 ment that accompanies the transfer of ownership or lease of real property.
+15 (2) The provisions of this chapter shall not apply to:
+16 (a) The transfer or rental of real property on which a residential so-
+17 lar energy system is, or is expected to be, located if the presence of
+18 the residential solar energy system is incidental to the transfer or
+19 rental;
+20 (b) A lender, governmental entity, or other third party that enters
+21 into an agreement with a consumer to finance a residential solar energy
+22 system but is not a party to a system purchase agreement or lease agree-
+23 ment; or
+24 (c) A sale or lease of, or the purchase of electricity from, a solar en-
+25 ergy system that is not a residential solar energy system.; or
+26 (d) Portable solar generation devices as that term is defined in sec-
+27 tion 61-122, Idaho Code.
+28 SECTION 5. An emergency existing therefor, which emergency is hereby
+29 declared to exist, this act shall be in full force and effect on and after
+30 July 1, 2026.

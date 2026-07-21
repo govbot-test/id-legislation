@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1254
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE CHIROPRACTIC PRACTICE ACT; PROVIDING LEGISLATIVE INTENT;
+3 AMENDING SECTION 54-716, IDAHO CODE, REGARDING THE PRESCRIBING OF
+4 CERTAIN PRESCRIPTION DRUG PRODUCTS; AND DECLARING AN EMERGENCY AND PRO-
+5 VIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature to
+8 clarify the existing right of persons licensed to practice chiropractic in
+9 this state to prescribe certain prescription drug products.
+10 SECTION 2. That Section 54-716, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 54-716. ADMINISTERING PRESCRIPTION DRUG PRODUCTS. (1) A licensee un-
+13 der this chapter who is certified in clinical nutrition may prescribe, ob-
+14 tain, and independently administer, during chiropractic practice, the fol-
+15 lowing prescription drug products:
+16 (a) Vitamins:
+17 (i) Vitamin A;
+18 (ii) All B vitamins; and
+19 (iii) Vitamin C;
+20 (b) Minerals:
+21 (i) Ammonium molybdate;
+22 (ii) Calcium;
+23 (iii) Chromium;
+24 (iv) Copper;
+25 (v) Iodine;
+26 (vi) Magnesium;
+27 (vii) Manganese;
+28 (viii) Potassium;
+29 (ix) Selenium;
+30 (x) Sodium; and
+31 (xi) Zinc;
+32 (c) Fluids:
+33 (i) Dextrose;
+34 (ii) Lactated ringers;
+35 (iii) Plasma lyte;
+36 (iv) Saline; and
+37 (v) Sterile water;
+38 (d) Epinephrine; and
+39 (e) Oxygen for use during an emergency or allergic reaction.
+40 (2) The prescription drug products listed in subsection (1) of this
+41 section may be administered through oral, topical, intravenous, intramuscu-
+
+2
+1 lar or subcutaneous routes. The route of administration and dosing shall be
+2 in accordance with the product's labeling as approved by the federal food and
+3 drug administration or with the manufacturer's instructions.
+4 (3) The prescription drug products listed in subsection (1) of this
+5 section shall be obtained from a wholesale distributor, manufacturer, phar-
+6 macy or outsourcing facility licensed under chapter 17, title 54, Idaho
+7 Code.
+8 (4) No vitamin or mineral may be compounded, as defined in section
+9 54-1704, Idaho Code, by a chiropractic physician. A compounded drug product
+10 containing two (2) or more of the approved vitamins or minerals shall be ob-
+11 tained for office use from either an outsourcing facility or a compounding
+12 pharmacy licensed under chapter 17, title 54, Idaho Code.
+13 (5) Nothing herein would remove or impact the ability of a chiropractic
+14 physician who does not obtain a clinical nutrition certification to continue
+15 to utilize nonprescriptive nutritional supplements.
+16 SECTION 3. An emergency existing therefor, which emergency is hereby
+17 declared to exist, this act shall be in full force and effect on and after
+18 July 1, 2026.

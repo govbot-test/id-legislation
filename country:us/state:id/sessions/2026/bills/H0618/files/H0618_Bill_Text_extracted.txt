@@ -1,0 +1,106 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 618
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO INSURANCE; AMENDING CHAPTER 24, TITLE 41, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 41-2402, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING TRANSPARENCY REQUIREMENTS FOR FIRE INSURERS; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 24, Title 41, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 41-2402, Idaho Code, and to read as follows:
+10 41-2402. FIRE INSURERS -- TRANSPARENCY REQUIREMENTS. (1) A fire in-
+11 surer shall submit complete rate filings to the director of the department
+12 of insurance at least sixty (60) days prior to use. If the fire insurer uses
+13 a wildfire risk model, catastrophe model, or wildfire risk scoring method to
+14 assign risk, the insurer's filing shall not be considered complete unless
+15 such wildfire risk model, catastrophe model, or wildfire risk scoring method
+16 used to assign risk is included, along with a description of the model, the
+17 impact of the model on rates, an actuarial justification for all rating
+18 factors, mitigation discounts offered, and an explanation of the use of the
+19 model in underwriting decisions.
+20 (2) A fire insurer shall make available and readily accessible on its
+21 public website information on any premium discounts, incentives, or other
+22 premium adjustments that are available to policyholders who undertake prop-
+23 erty-specific mitigation actions or provide evidence of community-level
+24 mitigation actions and the process for appealing a wildfire risk score. The
+25 website shall identify, as applicable:
+26 (a) Property-specific mitigation actions for the policyholder to un-
+27 dertake and community-level mitigation actions that could result in a
+28 discount, incentive, or other premium adjustment; and
+29 (b) The amount of the discount, incentive, or other premium adjustment
+30 associated with each action.
+31 (3) An insurer that provides a mitigation discount or that uses a wild-
+32 fire risk model or risk score to underwrite, nonrenew, price, create a rate
+33 differential, or surcharge the premium based on the policyholder's or ap-
+34 plicant's wildfire risk shall provide an annual written notice to each pol-
+35 icyholder or applicant upon application for property insurance of the ap-
+36 plicable mitigation discounts, the wildfire risk score, and any other wild-
+37 fire risk classification used by the insurer to underwrite, nonrenew, price,
+38 create a rate differential, or surcharge the premium based on the policy-
+39 holder's or applicant's wildfire risk. Such notice shall include:
+40 (a) A plain-language explanation of the wildfire risk score or other
+41 wildfire risk classification, including an explanation that insurers
+
+2
+1 may use different models and have different risk score ranges that could
+2 result in different risk scores from other insurers;
+3 (b) The range of scores or classifications that could potentially be
+4 assigned to the property;
+5 (c) The relative position of the score or classification assigned to
+6 the property within that range of possible scores or classifications
+7 provided by the insurer's risk model;
+8 (d) A written explanation of why the policyholder or applicant received
+9 the assigned score or classification that identifies the primary fea-
+10 tures of the property that influenced the assignment of the score or
+11 classification; and
+12 (e) The impact, if any, that each property-specific or community-level
+13 mitigation action could have on a wildfire risk score or classification
+14 assigned to the property.
+15 (4) An insurer shall provide the wildfire risk score or classification:
+16 (a) To an applicant, no later than fifteen (15) days after the submis-
+17 sion of the applicant's completed application to the insurer;
+18 (b) To a policyholder, in the offer of renewal;
+19 (c) To a policyholder that is not being offered a renewal, with the non-
+20 renewal notice; and
+21 (d) To a policyholder or applicant, if that policyholder or applicant
+22 has completed a property-specific mitigation action or provides evi-
+23 dence of a community-level mitigation action in sufficient proximity to
+24 the property to reduce the risk of loss since the time of the application
+25 to or renewal by the insurer, no later than thirty (30) days after the
+26 submission to the insurer of the policyholder's or applicant's request
+27 that the insurer provide a revised wildfire risk score or classifica-
+28 tion.
+29 (5)(a) The department of insurance shall annually collect informa-
+30 tion from fire insurers regarding Idaho-specific exposures, premiums,
+31 claims, and related information. The department shall determine the
+32 applicability, scope, method, and exact data requested for such annual
+33 data collection.
+34 (b) Any documents created from the data collected by the department of
+35 insurance pursuant to this section that are not anonymized and aggre-
+36 gated shall be exempt from disclosure under public records law as pro-
+37 prietary information.
+38 (6) No later than January 1, 2027, the department shall make available
+39 on its public website information to educate consumers, including but not
+40 limited to:
+41 (a) Anonymized and aggregated data from the annual data collection pur-
+42 suant to subsection (5) of this section; and
+43 (b) Basic information regarding fire or property insurance, such
+44 as coverage availability, exclusions, premiums, and mitigation dis-
+45 counts.
+46 (7) The department of insurance may promulgate rules, subject to leg-
+47 islative approval, to carry out the provisions of this section.
+48 SECTION 2. An emergency existing therefor, which emergency is hereby
+49 declared to exist, this act shall be in full force and effect on and after
+50 July 1, 2026.

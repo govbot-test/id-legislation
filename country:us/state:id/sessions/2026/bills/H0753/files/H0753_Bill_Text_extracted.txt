@@ -1,0 +1,335 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 753
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO ASSERTIVE COMMUNITY TREATMENT; PROVIDING LEGISLATIVE INTENT;
+3 AMENDING CHAPTER 22, TITLE 56, IDAHO CODE, BY THE ADDITION OF A NEW
+4 SECTION 56-2208, IDAHO CODE, TO PROVIDE LEGISLATIVE APPROVAL FOR STATE
+5 PLAN AMENDMENTS REGARDING ASSERTIVE COMMUNITY TREATMENT; AMENDING TI-
+6 TLE 56, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 25, TITLE 56, IDAHO
+7 CODE, TO DEFINE TERMS, TO ESTABLISH PROVISIONS REGARDING OBJECTIVES
+8 AND ELIGIBILITY FOR ASSERTIVE COMMUNITY TREATMENT, TO PROVIDE FOR THE
+9 ESTABLISHMENT OF ASSERTIVE COMMUNITY TREATMENT PROGRAMS AND TEAMS, TO
+10 ESTABLISH PROVISIONS REGARDING MEASURES AND OUTCOMES, TO ESTABLISH
+11 PROVISIONS REGARDING FIDELITY STANDARDS AND PAYMENT FOR SERVICES, AND
+12 TO PROVIDE RULEMAKING AUTHORITY; AND DECLARING AN EMERGENCY.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature that
+15 assertive community treatment services be generally targeted to individuals
+16 with serious and persistent mental illness who experience significant func-
+17 tional impairment and who have not been adequately served by less intensive
+18 clinic-based or episodic services.
+19 SECTION 2. That Chapter 22, Title 56, Idaho Code, be, and the same is
+20 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+21 ignated as Section 56-2208, Idaho Code, and to read as follows:
+22 56-2208. LEGISLATIVE APPROVAL -- ASSERTIVE COMMUNITY TREATMENT. The
+23 department of health and welfare is authorized to seek and shall submit a
+24 state plan amendment to the centers for medicare and medicaid services no
+25 later than March 1, 2026, to provide assertive community treatment as a re-
+26 habilitative service in accordance with the provisions of chapter 25, title
+27 56, Idaho Code.
+28 SECTION 3. That Title 56, Idaho Code, be, and the same is hereby amended
+29 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+30 ter 25, Title 56, Idaho Code, and to read as follows:
+31 CHAPTER 25
+32 ASSERTIVE COMMUNITY TREATMENT
+33 56-2501. DEFINITIONS. As used in this chapter:
+34 (1) "Assertive community treatment" or "ACT" means a multidisci-
+35 plinary, community-based behavioral health service model that provides
+36 intensive, comprehensive, and individualized treatment and support ser-
+37 vices to eligible participants with serious and persistent mental illness.
+38 An ACT team shall:
+
+2
+1 (a) Be available to provide services twenty-four (24) hours per day,
+2 seven (7) days per week;
+3 (b) Deliver services primarily in community-based settings as clini-
+4 cally appropriate;
+5 (c) Provide a full range of treatment, rehabilitation, and support ser-
+6 vices through a team based approach;
+7 (d) Address complex behavioral health needs through integrated psychi-
+8 atric, medical, substance use, rehabilitative, and peer support ser-
+9 vices;
+10 (e) Operate in accordance with applicable state requirements and the
+11 adopted fidelity model; and
+12 (f) Include an interdisciplinary team composed of, at a minimum, or as
+13 otherwise determined by the adopted fidelity model:
+14 (i) Licensed nursing staff;
+15 (ii) Licensed practitioners practicing within the scope of their
+16 licensure;
+17 (iii) Master's or doctoral level mental health professionals;
+18 (iv) Clinical supervision provided by a master's or doctoral
+19 level mental health professional within the scope of their licen-
+20 sure;
+21 (v) Paraprofessional staff qualified to provide skills-build-
+22 ing, psychosocial rehabilitation, and case management services;
+23 (vi) Certified peer support specialists;
+24 (vii) Staff trained and qualified to provide assessment and
+25 treatment for substance use disorders; and
+26 (viii) Administrative support staff.
+27 (2) "Department" means the Idaho department of health and welfare.
+28 56-2502. ASSERTIVE COMMUNITY TREATMENT -- OBJECTIVES -- ELIGIBIL-
+29 ITY. (1) Assertive community treatment is intensive nonresidential treat-
+30 ment and rehabilitative mental health services provided to eligible par-
+31 ticipants with serious and persistent mental illness. Assertive community
+32 treatment is delivered through a single, fixed entity per region responsible
+33 for treatment, rehabilitation, and support needs for participants. Ser-
+34 vices are offered twenty-four (24) hours per day, seven (7) days per week,
+35 in community-based settings or other settings as clinically appropriate and
+36 consistent with the state's chosen assertive community treatment fidelity
+37 model. The objectives of assertive community treatment include:
+38 (a) Preventing or reducing symptoms or behaviors that may result in the
+39 need for recurrent use of inpatient services or high-cost intervention
+40 systems, including law enforcement or emergency medical systems inter-
+41 actions, or incarceration; and
+42 (b) Increasing the skills and behaviors that enhance the participant's
+43 ability to remain in the community.
+44 (2) To ensure efficient use of public resources and appropriate target-
+45 ing of services, a participant is eligible for assertive community treatment
+46 services only if the participant meets the eligibility criteria listed in
+47 the state's chosen assertive community treatment fidelity model and:
+
+3
+1 (a) Has a pattern of frequent use of crisis services, repeated hospi-
+2 talizations, incarceration, or other high-cost services related to the
+3 diagnosed disorder;
+4 (b) Has a primary diagnosis of serious and persistent mental illness,
+5 as defined in section 39-3122, Idaho Code, consistent with the most
+6 recent diagnostic and statistical manual of mental disorders, and
+7 demonstrates significant functional impairment that substantially in-
+8 terferes with the individual's ability to function independently in one
+9 (1) or more major life activities; and
+10 (c) Has symptoms and behaviors as evidenced by one (1) or more of the
+11 following:
+12 (i) A history of alcohol and drug abuse in combination with psy-
+13 chiatric symptoms or other serious medical or physical problems;
+14 (ii) A pattern of isolation with extremely poor or nonexistent so-
+15 cial or family support;
+16 (iii) A pattern of inability to provide for basic needs for food,
+17 clothing, and shelter;
+18 (iv) A pattern of urgent and severe psychiatric and other concomi-
+19 tant medical difficulties; or
+20 (v) Has failed to remain engaged in or respond to conventional
+21 services, such as case management, medication, outpatient treat-
+22 ment, or day programs.
+23 (3) Additional requirements in selecting participants for assertive
+24 community treatment shall include at least one (1) of the following:
+25 (a) A written opinion by a licensed mental health professional that the
+26 participant needs mental health services that cannot be met with other
+27 available community-based services or is likely to experience a mental
+28 health crisis or require a more restrictive setting if assertive commu-
+29 nity treatment is not provided; or
+30 (b) Whether or not other community-based services that are appropriate
+31 to the participant's needs and reasonably available would be equally or
+32 more effective in treating the participant, as evidenced by consistent
+33 and extensive efforts to treat the participant.
+34 (4) Assertive community treatment services shall be provided as a re-
+35 habilitative service under the state medicaid plan, consistent with federal
+36 medicaid law and implementing regulations. The purpose of the service is to
+37 restore, maintain, and improve functional capacity, reduce reliance on in-
+38 stitutional care, and support individuals in living successfully in inte-
+39 grated community settings.
+40 (5)(a) Assertive community treatment services shall be available to
+41 eligible individuals who meet medical necessity and program eligibil-
+42 ity criteria established consistent with the state medicaid plan and
+43 applicable federal requirements.
+44 (b) The department of health and welfare or its designee shall adminis-
+45 ter assertive community treatment services in a manner consistent with
+46 the adopted fidelity model, including required staffing ratios and team
+47 composition, to ensure program integrity and effectiveness.
+48 (c) The number of participants served by assertive community treatment
+49 teams shall be determined based on demonstrated clinical need, provider
+
+4
+1 capacity, and compliance with fidelity standards and shall not be sub-
+2 ject to statutory enrollment caps.
+3 56-2503. ASSERTIVE COMMUNITY TREATMENT PROGRAM -- TEAM. (1) The de-
+4 partment of health and welfare or its designee shall establish an assertive
+5 community treatment program consistent with a standardized, nationally rec-
+6 ognized assertive community treatment framework and the state's adopted fi-
+7 delity model and shall adopt rules, subject to legislative approval, regard-
+8 ing staffing and service provision that address:
+9 (a) Team composition and staffing patterns based on the anticipated
+10 participant population and in accordance with the requirements of this
+11 section;
+12 (b) Training and supervision, including initial and ongoing cross-dis-
+13 ability training, if applicable;
+14 (c) Communication among team members regarding participant condition,
+15 supported by the assignment of daily staff responsibilities and regu-
+16 lar, frequent staffing;
+17 (d) Days and hours of operation;
+18 (e) An after-hours plan, including on-call coverage and linkages with
+19 appropriate emergency services;
+20 (f) Participant selection procedures and criteria consistent with the
+21 provisions of section 56-2502, Idaho Code;
+22 (g) Description of service provision by an assertive community treat-
+23 ment team that aligns with the adopted assertive community treatment
+24 fidelity model; and
+25 (h) Policies regarding quality assurance and quality improvement, in-
+26 cluding outcome measures.
+27 (2) The assertive community treatment team shall provide service
+28 twenty-four (24) hours per day, seven (7) days per week, and be prepared to
+29 carry out a full range of treatment functions. The team shall be interdis-
+30 ciplinary and structured to meet the complex needs of participants wherever
+31 and whenever clinically appropriate and shall include the staffing roles re-
+32 quired pursuant to section 56-2501, Idaho Code, unless otherwise determined
+33 by the fidelity model.
+34 (3) Each member of the assertive community treatment team shall meet
+35 applicable Idaho licensure and qualification requirements and shall be su-
+36 pervised consistent with their role and scope of practice.
+37 (4) The participant-to-staff ratio shall be based on the needs of the
+38 participants for whom the team is assigned responsibility. The participant-
+39 to-staff ratio shall be ten (10) participants to one (1) staff person. In no
+40 event shall the ratio exceed twelve (12) participants to one (1) staff per-
+41 son. Staffing levels and team roles shall be consistent with the adopted as-
+42 sertive community treatment fidelity model chosen by the state.
+43 (5) The team shall provide at least two (2) contacts per week to partic-
+44 ipants experiencing severe symptoms or significant problems in daily liv-
+45 ing. When a participant is unable to be located or declines contact, the team
+46 shall make and document reasonable outreach efforts consistent with the par-
+47 ticipant's individualized treatment plan. Each participant shall be seen
+48 face-to-face by an employee or contractor in accordance with the schedule
+49 specified in the participant's individualized treatment plan.
+
+5
+1 (6) Assertive community treatment services shall be delivered as a dis-
+2 tinct, integrated service model by a single interdisciplinary team that as-
+3 sumes primary responsibility for the assessment, planning, coordination,
+4 and delivery of all assertive community treatment services, consistent with
+5 the adopted fidelity model. Assertive community treatment services shall be
+6 delivered through the integrated team based model and shall not be provided
+7 across multiple provider entities or delivery systems in a manner that un-
+8 dermines model fidelity. When a participant requires specialized services
+9 that are not available through the assigned assertive community treatment
+10 team, such services may be obtained through other licensed or medicaid-en-
+11 rolled providers; provided that the delivery of individual service compo-
+12 nents outside the integrated assertive community treatment model does not
+13 constitute assertive community treatment.
+14 56-2504. MEASURES AND OUTCOMES. (1) Assertive community treatment ob-
+15 jectives for a participant shall be addressed by activities designed to:
+16 (a) Promote symptom stability and the appropriate use of medication;
+17 (b) Restore personal, community living, and social skills necessary
+18 for independent functioning;
+19 (c) Promote and maintain physical health;
+20 (d) Establish access to public benefits, housing, work, and social op-
+21 portunities; and
+22 (e) Promote and maintain the highest practicable level of functioning
+23 in the community.
+24 (2) Assertive community treatment services shall be delivered in a re-
+25 covery-oriented manner and shall focus on rehabilitative outcomes, includ-
+26 ing:
+27 (a) Improved functional capacity;
+28 (b) Increased housing stability;
+29 (c) Reduced hospitalizations and justice system involvement;
+30 (d) Enhanced community integration; and
+31 (e) Improved quality of life.
+32 (3) Assertive community treatment services shall be delivered primar-
+33 ily in community settings where participants live, work, or receive support
+34 and shall not be dependent on clinic-based or office-based service deliv-
+35 ery. Services shall be provided through mobile, in-person outreach and
+36 engagement that meets participants where they are, in accordance with the
+37 standards set forth in this section, to promote engagement, participation in
+38 services, and participation in community life.
+39 (4) If a participant's needs can be adequately and appropriately ad-
+40 dressed with an average of fewer than seven (7) face-to-face contacts per
+41 month during any three (3) consecutive month period, the participant's indi-
+42 vidualized treatment plan shall be reviewed to determine whether less inten-
+43 sive service alternatives may be appropriate in lieu of assertive community
+44 treatment services. If it is determined that less intensive services can
+45 meet the participant's needs over the long term, the clinical basis for that
+46 determination shall be documented, a plan for continuity of care shall be
+47 established, and the participant shall no longer be eligible for assertive
+48 community treatment services.
+
+6
+1 (5) Providers shall report standardized outcome measures as specified
+2 by the adopted assertive community treatment fidelity model, as determined
+3 by the department or its designee, which may include reductions in psychi-
+4 atric hospitalizations, reductions in days of incarceration, improvements
+5 in participant housing stability, and increased engagement with family and
+6 community supports.
+7 (6) A participant shall not be discharged from assertive community
+8 treatment services solely for failure to comply with a treatment plan or
+9 other expectations, except as otherwise provided in this section. A partic-
+10 ipant may be discharged only upon meeting at least one (1) of the following
+11 criteria:
+12 (a) A change in the participant's residence to a location out of the
+13 service area;
+14 (b) Incarceration or long-term hospitalization of the participant for
+15 a period exceeding thirty (30) days. In such cases, the provider shall
+16 prioritize the participant for re-enrollment in assertive community
+17 treatment services upon the participant's anticipated return to the
+18 community if the participant requests services and the level of care
+19 remains appropriate;
+20 (c) The participant elects to withdraw from services, and documented
+21 attempts by the program to re-engage the participant have not been suc-
+22 cessful;
+23 (d) The participant and the team determine that assertive community
+24 treatment services are no longer necessary based on the attainment of
+25 the individual treatment plan goals and that a less intensive level of
+26 care would adequately address the participant's current needs; or
+27 (e) The participant has engaged in documented threats, acts of vio-
+28 lence, or abusive conduct toward members of the assertive community
+29 treatment team or its contractors that jeopardize staff safety.
+30 56-2505. FIDELITY STANDARDS AND PAYMENT FOR SERVICES. (1) To ensure
+31 accountability for state funding and measurable program performance, as-
+32 sertive community treatment provider teams shall achieve an initial minimum
+33 score of 3.0 on the tool for measurement of assertive community treatment
+34 or another nationally recognized assertive community treatment fidelity
+35 instrument approved by the department or its designee. Provider teams shall
+36 achieve a minimum score of 4.0 within three (3) years of initial certifi-
+37 cation. The department or its designee may grant time-limited variances
+38 from fidelity thresholds for newly established teams or teams operating in
+39 regions with documented workforce shortages, provided that a corrective ac-
+40 tion plan is implemented and progress toward full fidelity is demonstrated.
+41 Any variance granted under this subsection shall not exceed six (6) months,
+42 unless extended by the department or its designee upon a showing of substan-
+43 tial progress toward the corrective action plan. Variances shall not be
+44 renewed without demonstrated compliance with fidelity requirements.
+45 (2) Assertive community treatment services reimbursed under the state
+46 medicaid plan shall be reimbursed using a single monthly assertive com-
+47 munity treatment service unit per enrolled participant, inclusive of all
+48 rehabilitative services, outreach, coordination, travel time, and crisis
+49 response furnished during the applicable billing month, with all covered
+
+7
+1 services aggregated into a single unit of reimbursement. The aggregated
+2 amount may be billed on service or non-service days for up to thirty (30) days
+3 following the last successful contact, provided that continued outreach
+4 efforts are documented and consistent with the state's adopted assertive
+5 community treatment fidelity model. Services and interventions reimbursed
+6 pursuant to this subsection shall be consistent with the participant's in-
+7 dividualized treatment plan and may include direct services, collateral
+8 contacts, crisis response, or assertive outreach. Rates shall be reviewed
+9 and adjusted annually using the centers for medicare and medicaid services
+10 medicare economic index to maintain provider network stability and fiscal
+11 predictability. One (1) assertive community treatment provider shall be
+12 selected per region to provide assertive community treatment services.
+13 (3) For services reimbursed under the state medicaid plan, all services
+14 furnished as part of assertive community treatment shall be reimbursed only
+15 through the assertive community treatment aggregated rate and shall not be
+16 separately billed or reimbursed under any other medicaid benefit or service
+17 category. Nothing in this subsection shall be construed to prohibit the use
+18 of other state or non-medicaid funding sources to support assertive commu-
+19 nity treatment services for individuals not eligible for medicaid, provided
+20 that duplicate payment for the same service does not occur.
+21 56-2506. RULEMAKING AUTHORITY. The department of health and welfare
+22 shall promulgate rules, subject to legislative approval, pursuant to chap-
+23 ter 52, title 67, Idaho Code, as necessary to implement the provisions of
+24 this chapter, including provider certification standards, reimbursement
+25 rates, reporting requirements, and compliance monitoring, consistent with
+26 federal medicaid requirements and the adopted assertive community treatment
+27 fidelity model.
+28 SECTION 4. An emergency existing therefor, which emergency is hereby
+29 declared to exist, this act shall be in full force and effect on and after its
+30 passage and approval.

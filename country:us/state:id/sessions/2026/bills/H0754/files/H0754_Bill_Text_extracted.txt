@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 754
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO DIRECT PRIMARY CARE ACT; AMENDING SECTION 39-9203,
+3 IDAHO CODE, TO REVISE A DEFINITION; AND DECLARING AN EMERGENCY AND PRO-
+4 VIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 39-9203, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 39-9203. DEFINITIONS. For purposes of this chapter, the following
+9 definitions apply:
+10 (1) "Direct fee" means an agreed-upon fee charged by a primary care
+11 provider as consideration for providing and being available to provide di-
+12 rect primary care services described in a direct primary care agreement.
+13 (2) "Direct primary care agreement" means a written contract between a
+14 primary care provider and an individual patient or a patient's representa-
+15 tive in which the primary care provider agrees to provide direct primary care
+16 services to the patient over a specified period of time for payment of a di-
+17 rect fee.
+18 (3) "Direct primary care services" means those services that a primary
+19 care provider is licensed or otherwise legally authorized to provide and may
+20 include, but are not limited to, such services as screening, assessment, di-
+21 agnosis and treatment for the purpose of promoting health; detection, man-
+22 agement and care of disease or injury; or routine preventive or diagnostic
+23 dental treatment. Such services may be provided in a primary care provider's
+24 office, the patient's home or other locations where a patient visit with the
+25 primary care provider needs to occur.
+26 (4) "Patient" means a person who is entitled to receive direct primary
+27 care services under a direct care agreement.
+28 (5) "Patient's representative" means a person identified in section
+29 39-4504(1)(a) through (g), Idaho Code.
+30 (6) "Primary care provider" means a natural person licensed or other-
+31 wise legally authorized to provide health care services in the state of Idaho
+32 in the field of pediatrics, family medicine, internal medicine, physical
+33 therapy, or dentistry, who provides such services either alone or in profes-
+34 sional association with others in a form and within a scope permitted by such
+35 licensure or legal authorization for the provision of such services, and who
+36 enters into a direct primary care agreement.
+37 SECTION 2. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 551
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-301A, IDAHO CODE, TO REVISE A PRO-
+3 VISION REGARDING THE ASSESSMENT OF CERTAIN PROPERTY; AND DECLARING AN
+4 EMERGENCY AND PROVIDING RETROACTIVE APPLICATION.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 63-301A, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 63-301A. NEW CONSTRUCTION ROLL. (1) The county assessor shall prepare
+9 a new construction roll, which shall be in addition to the property roll,
+10 which new construction roll shall show:
+11 (a) The name of the taxpayer;
+12 (b) The description of the new construction, suitably detailed to meet
+13 the requirements of the individual county;
+14 (c) The amount of taxable market value added to the property on the cur-
+15 rent year's property roll that is directly the result of new construc-
+16 tion;
+17 (d) The amount of taxable market value added as provided in subsection
+18 (3)(f) of this section as a result of dissolution of any revenue alloca-
+19 tion area; and
+20 (e) The amount of taxable market value to be deducted to reflect the ad-
+21 justments required in this paragraph:
+22 (i) Any board of tax appeals or court-ordered value change, if
+23 property has a taxable value lower than that shown on any new con-
+24 struction roll in any one (1) of the immediate five (5) tax years
+25 preceding the current tax year;
+26 (ii) Any reduction in value resulting from correction of value im-
+27 properly included on any previous new construction roll as a re-
+28 sult of double or otherwise erroneous assessment;
+29 (iii) Any reduction in value resulting from the exemption provided
+30 in section 63-602W(4), Idaho Code, in any one (1) of the immediate
+31 five (5) tax years preceding the current tax year; and
+32 (iv) Any voluntary reduction in value reflecting a portion of
+33 certain homestead exemptions as provided in section 63-602G(10),
+34 Idaho Code.
+35 (2) As soon as possible, but in any event by no later than the first Mon-
+36 day in June, the new construction roll shall be certified to the county audi-
+37 tor and a listing showing the amount of value on the new construction roll in
+38 each taxing district or unit shall be forwarded to the state tax commission
+39 on or before the fourth Monday in July. Provided however, the value shown
+40 in subsection (3)(e) of this section shall be reported to the appropriate
+41 county auditor by the state tax commission by the third Monday in July and the
+42 value sent by the county auditor to each taxing district. The value estab-
+
+2
+1 lished pursuant to subsection (3)(e) of this section is subject to correc-
+2 tion by the state tax commission until the first Monday in September, and any
+3 such corrections shall be sent to the appropriate county auditor, who shall
+4 notify any affected taxing districts.
+5 (3) Except as otherwise provided in this subsection, the value shown on
+6 the new construction roll shall include ninety percent (90%) of the taxable
+7 market value increase from:
+8 (a) Construction of any new structure that previously did not exist,
+9 once it is completed and taxable;
+10 (b) Additions or alterations to existing nonresidential structures;
+11 (c) Installation of new or used manufactured housing that did not pre-
+12 viously exist within the county;
+13 (d) Property newly taxable as a result of loss of the exemption provided
+14 by section 63-602W(3) or (4), Idaho Code;
+15 (e) The construction of any improvement or installation of any equip-
+16 ment used for or in conjunction with the generation of electricity and
+17 the addition of any improvement or equipment intended to be so used, ex-
+18 cept property that has a value allocated or apportioned pursuant to sec-
+19 tion 63-405, Idaho Code, or that is owned by a cooperative or municipal-
+20 ity as those terms are defined in section 61-332A, Idaho Code, or that
+21 is owned by a public utility as that term is defined in section 61-332A,
+22 Idaho Code, owning any other property that is allocated or apportioned.
+23 No replacement equipment or improvements may be included;
+24 (f) Provided such increases do not include increases already reported
+25 on the new construction roll as permitted in paragraphs (i) and (j) of
+26 this subsection, increases in value over the base value of property
+27 on the base assessment roll within an urban renewal revenue alloca-
+28 tion area that has been terminated pursuant to section 50-2914, Idaho
+29 Code, to the extent that this increment exceeds the incremental value
+30 as of December 31, 2006, or, for revenue allocation areas formed af-
+31 ter December 31, 2006, eighty percent (80%) of the increment value.
+32 Notwithstanding other provisions of this section, the new construction
+33 roll shall not include new construction located within an urban renewal
+34 district's revenue allocation area, except as provided in this para-
+35 graph or paragraph (k) of this subsection;
+36 (g) New construction, in any one (1) of the immediate five (5) tax years
+37 preceding the current tax year, allowable but never included on a new
+38 construction roll, provided however, that for such property the value
+39 on the new construction roll shall reflect the taxable value that would
+40 have been included on the new construction roll for the first year in
+41 which the property should have been included;
+42 (h) Formerly exempt improvements on state college-owned or state uni-
+43 versity-owned land for student dining, housing, or other education-re-
+44 lated purposes approved by the state board of education and board of
+45 regents of the university of Idaho as proper for the operation of such
+46 state college or university, provided such improvements were never in-
+47 cluded on any previous new construction roll;
+48 (i) Increases in base value when due to previously determined incre-
+49 ment value added to the base value as required in sections 50-2903 and
+50 50-2903A, Idaho Code, due to a modification of the urban renewal plan.
+
+3
+1 In this case, the amount added to the new construction roll will equal
+2 eighty percent (80%) of the amount by which the increment value in the
+3 year immediately preceding the year in which the base value adjustment
+4 described in this subsection occurs exceeds the incremental value as of
+5 December 31, 2006, or, for revenue allocation areas formed after Decem-
+6 ber 31, 2006, the entire increment value; and
+7 (j) Increases in base value when due to previously determined incre-
+8 ment value added to the base value as a result of a de-annexation within
+9 a revenue allocation area as defined in section 50-2903, Idaho Code.
+10 In this case, the amount added to the new construction roll will equal
+11 eighty percent (80%) of the amount by which the increment value in the
+12 year immediately preceding the year in which the de-annexation de-
+13 scribed in this subsection occurs exceeds the incremental value as of
+14 December 31, 2006, or, for revenue allocation areas formed after Decem-
+15 ber 31, 2006, the entire increment value within the area subject to the
+16 de-annexation.
+17 (k) In the case of a fire protection district or ambulance service
+18 district that encompasses all or part of any urban renewal revenue
+19 allocation area that such district withdrew from pursuant to section
+20 50-2906(5), Idaho Code, eighty percent (80%) of the increment value may
+21 be included on the new construction roll for the year in which the dis-
+22 trict withdrew from such urban renewal revenue allocation area. Each
+23 year thereafter, ninety percent (90%) of the taxable value of otherwise
+24 qualifying new construction shall be included in the new construction
+25 roll for such fire protection district or ambulance service district
+26 and for fire protection districts and ambulance service districts that
+27 are not subject to the financing provisions of an urban renewal revenue
+28 allocation area pursuant to section 50-2906(4), Idaho Code, even if
+29 such new construction would not otherwise qualify because it was lo-
+30 cated within a revenue allocation area.
+31 (4) The amount of taxable market value of new construction shall be the
+32 change in net taxable market value that is attributable directly to the new
+33 construction or loss of the exemption provided by section 63-602W(3) or (4),
+34 Idaho Code. It shall not include any change in value of existing property
+35 that is due to external market forces such as general or localized inflation,
+36 except as provided in subsection (3)(f) of this section.
+37 (5) The amount of taxable market value of new construction shall not in-
+38 clude any new construction of property that has been granted a provisional
+39 property tax exemption, pursuant to section 63-1305C, Idaho Code. A prop-
+40 erty owner may apply to the board of county commissioners, if an application
+41 is required pursuant to section 63-602, Idaho Code, for an exemption from
+42 property tax at the time the initial building permits are applied for or at
+43 the time construction of the property has begun, whichever is earlier, or at
+44 any time thereafter.
+45 (6) The amount of taxable market value of new construction shall not in-
+46 clude any new construction of property for which an exemption from sales and
+47 use tax has been granted pursuant to section 63-3622VV, Idaho Code.
+48 SECTION 2. An emergency existing therefor, which emergency is hereby
+49 declared to exist, this act shall be in full force and effect on and after its
+50 passage and approval, and retroactively to January 1, 2026.

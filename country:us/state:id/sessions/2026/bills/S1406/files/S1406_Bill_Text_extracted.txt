@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1406
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE OFFICE OF THE STATE PUBLIC DEFENDER;
+3 APPROPRIATING ADDITIONAL MONEYS TO THE OFFICE OF THE STATE PUBLIC DE-
+4 FENDER FOR FISCAL YEAR 2027; AUTHORIZING ADDITIONAL FULL-TIME EQUIVA-
+5 LENT POSITIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. In addition to any other appropriation provided by law,
+9 there is hereby appropriated to the Office of the State Public Defender the
+10 following amounts to be expended according to the designated expense classes
+11 from the listed funds for the period July 1, 2026, through June 30, 2027:
+12 FOR FOR FOR
+13 PERSONNEL OPERATING CAPITAL
+14 COSTS EXPENDITURES OUTLAY TOTAL
+15 FROM:
+16 General
+17 Fund $48,800 $48,800
+18 Public Defense
+19 Fund 202,100 $250,500 $3,700 456,300
+20 TOTAL $250,900 $250,500 $3,700 $505,100
+21 SECTION 2. FTP AUTHORIZATION. In addition to any other authorization
+22 provided by law, the full-time equivalent position authorization provided
+23 to the Office of the State Public Defender is hereby increased by six (6.00)
+24 for the period July 1, 2026, through June 30, 2027.
+25 SECTION 3. An emergency existing therefor, which emergency is hereby
+26 declared to exist, this act shall be in full force and effect on and after
+27 July 1, 2026.

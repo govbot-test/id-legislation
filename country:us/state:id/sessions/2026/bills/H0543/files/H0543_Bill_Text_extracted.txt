@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 543
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO THE PUBLIC EMPLOYEE RETIREMENT SYSTEM; AMENDING SECTION
+3 59-1308, IDAHO CODE, TO REVISE PROVISIONS REGARDING QUALIFIED PRE-TAX
+4 CONTRIBUTIONS AND INVESTMENT EARNINGS AND CERTAIN QUALIFIED ROTH CON-
+5 TRIBUTIONS AND INVESTMENT EARNINGS; AND DECLARING AN EMERGENCY AND
+6 PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 59-1308, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 59-1308. SUPPLEMENTAL BENEFIT PLAN -- CONTRIBUTIONS AND EXPENSES
+11 OF THE SUPPLEMENTAL BENEFIT PLAN -- INDEMNIFICATION. (1) The state shall
+12 sponsor and the board shall administer one (1) or more supplemental benefit
+13 plans to be used for allocation of extraordinary gains as provided in section
+14 59-1309, Idaho Code, and for voluntary contributions of active members.
+15 The supplemental plans may be established under the qualified requirements
+16 of section 401(a) of the Internal Revenue Code and with the qualified cash
+17 or deferred arrangements under section 401(k) of the Internal Revenue Code
+18 or any other tax-deferred plan permitted by law, as determined by the re-
+19 tirement board. The board is authorized to secure such qualified staff and
+20 consultants as it determines necessary to establish and administer such
+21 plans. Employee and employer contributions shall be permitted according to
+22 the provisions of these plans as established by the board. For purposes of
+23 this section, "employee" shall mean a participant as defined in the supple-
+24 mental benefit plan documents or board rules.
+25 (2) The board is authorized, but not required, to establish separate
+26 trust funds to hold the assets of the supplemental benefit plans created un-
+27 der this section. The investment options available under supplemental bene-
+28 fit plans shall be determined by the board and may include but are not limited
+29 to investment in all or part of the public employee retirement fund and use of
+30 private vendor options.
+31 (3) Supplemental benefit plans shall be available to all active members
+32 and shall be in addition to any other retirement or tax-deferred compensa-
+33 tion system established by the employer. The board may provide educational
+34 opportunities related to supplemental benefit plans and retirement savings,
+35 as determined by the board.
+36 (4) Accounts shall be established in supplemental benefit plans for all
+37 active members eligible for an extraordinary gains transfer under section
+38 59-1309, Idaho Code. After the initial transfer of extraordinary gains,
+39 any active member may make additional voluntary contributions to his/her
+40 account, subject to applicable limitations, by authorizing his/her employer
+41 to contribute an amount by payroll deduction to the supplemental benefit
+42 plan in lieu of receiving such amount as salary. The amount of such contribu-
+
+2
+1 tions shall be subject to any limitations established by the board or state
+2 or federal law. The employer shall provide coordination of contributions
+3 between multiple plans to assure that contribution limits are not exceeded.
+4 Should aggregate contributions to multiple plans exceed applicable lim-
+5 its, excess contributions shall be deemed to apply exclusively to plans not
+6 created by this chapter. In the event a preexisting plan is used as a sup-
+7 plemental plan, voluntary contributions may continue to be made to that plan
+8 despite the absence of extraordinary gains transfers.
+9 (5) For purposes of this section, the employer is authorized to make
+10 such deductions from salary for any employee who has authorized such deduc-
+11 tions in writing. The employer shall forward all contributions under this
+12 section to the board by the fifth working day after each payroll, in addi-
+13 tion to reports as directed by the board. Any costs incurred by the board,
+14 whether direct or indirect, due to an employer's failure to properly with-
+15 hold, transfer, limit and report contributions, shall be the responsibil-
+16 ity of the employer and shall be immediately due and payable upon notice from
+17 the board. This includes but is not limited to costs associated with plan
+18 corrections. Such costs shall be treated as delinquent contributions under
+19 section 59-1325, Idaho Code.
+20 (6) The board may enter into agreements with employers or require par-
+21 ticipation to implement the supplemental benefit plans, and the board may
+22 designate administrative agents to execute all necessary agreements per-
+23 taining to the supplemental benefit plans.
+24 (7) All contributions received from participants in the supplemental
+25 benefit plans shall be deposited with a trustee designated by the board. All
+26 such funds are hereby perpetually appropriated to the board, shall not be in-
+27 cluded in the department's budget, and may be invested or used to pay for in-
+28 vestment and administrative expenses of the supplemental benefit plans. In-
+29 active members may be required to transfer supplemental benefit plan account
+30 balances as determined by the board.
+31 (8) The board may establish rules to implement and administer supple-
+32 mental benefit plans. Costs of administration shall be appropriated by the
+33 legislature and may be paid from the interest earnings of the funds accrued
+34 as a result of the deposits or as an assessment against each account, to be
+35 decided by the board. Investment-related expenses are exempt from appropri-
+36 ation.
+37 (9)(a) Qualified pre-tax contributions and investment earnings under
+38 the supplemental benefit plans shall be in compliance with the require-
+39 ments of sections 401(a) and 401(k) of the Internal Revenue Code, as now
+40 in effect and as hereafter amended, or any other tax-deferred plan per-
+41 mitted by law.
+42 (b) Qualified after-tax contributions Roth contributions and invest-
+43 ment earnings shall be in compliance with the requirements of section
+44 401(k) sections 401(a), 401(k), and 402A of the Internal Revenue Code as
+45 now in effect and as hereafter amended.
+46 (c) Distributions of funds held in supplemental benefit plan accounts
+47 are subject to federal law limitations. The board may provide for re-
+48 tirement disbursement options other than lump sum payments.
+49 (10) All additional contributions made by the employee under this sec-
+50 tion shall continue to be included as regular compensation for the purpose
+
+3
+1 of computing the employer and employee retirement contributions and pension
+2 benefits earned by an employee under this chapter, but such sum shall not be
+3 included in the computation of any income taxes withheld on behalf of any em-
+4 ployee. However, funds accrued in a supplemental benefit plan account shall
+5 not be considered in determining any other benefits under this chapter.
+6 (11) The provisions of sections 59-1316 and 59-1317(1), (2) and (5),
+7 Idaho Code, shall also apply to the supplemental benefit plans created under
+8 this section. Should a court order that an assignment be made to a partici-
+9 pant's spouse or former spouse of all or part of an account created under this
+10 section, the assignment shall be separate and distinct from any approved
+11 domestic retirement order required by section 59-1317(4), Idaho Code. Re-
+12 quirements for assignments of supplemental accounts may be set forth in rule
+13 or other plan documents.
+14 (12) Members of the retirement board or retirement system staff shall,
+15 jointly or individually, be provided a defense and indemnified against all
+16 claims, demands, judgments, costs, charges and expenses, including court
+17 costs and attorney's fees, and against all liability losses and damages of
+18 any nature whatsoever arising out of and in the course and scope of their
+19 official duties and functions in administering any plans created pursuant
+20 to the provisions of this section to the same extent as provided in section
+21 59-1305(1), Idaho Code. The venue of all actions in which the retirement
+22 board or retirement staff is a party shall be in Ada county, Idaho.
+23 SECTION 2. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after
+25 July 1, 2026.

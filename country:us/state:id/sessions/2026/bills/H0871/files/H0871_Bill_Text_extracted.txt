@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 871
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO FUNDING FOR THE STATE TAX COMMISSION; APPROPRIATING ADDITIONAL
+3 MONEYS TO THE STATE TAX COMMISSION FOR FISCAL YEAR 2027; DIRECTING THE
+4 USE OF APPROPRIATIONS; PROVIDING CONDITIONS, LIMITATIONS, AND RESTRIC-
+5 TIONS; APPROPRIATING ADDITIONAL MONEYS TO THE STATE TAX COMMISSION FOR
+6 FISCAL YEAR 2026; AND DECLARING AN EMERGENCY AND PROVIDING EFFECTIVE
+7 DATES.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. In addition to any other appropriation provided by law,
+10 there is hereby appropriated to the State Tax Commission the following
+11 amounts to be expended according to the designated programs and expense
+12 classes from the listed funds for the period July 1, 2026, through June 30,
+13 2027:
+14 FOR FOR FOR
+15 PERSONNEL OPERATING CAPITAL
+16 COSTS EXPENDITURES OUTLAY TOTAL
+17 I. GENERAL SERVICES:
+18 FROM:
+19 General
+20 Fund $550,000 $550,000
+21 Multistate Tax Compact
+22 Fund $109,400 109,400
+23 Administration Services for Transportation
+24 Fund 400,000 590,400 990,400
+25 Seminars and Publications
+26 Fund 0 291,600 291,600
+27 TOTAL $950,000 $991,400 $1,941,400
+28 II. COMPLIANCE DIVISION:
+29 FROM:
+30 General
+31 Fund $353,000 $353,000
+
+2
+1 FOR FOR FOR
+2 PERSONNEL OPERATING CAPITAL
+3 COSTS EXPENDITURES OUTLAY TOTAL
+4 III. PROPERTY TAX:
+5 FROM:
+6 Seminars and Publications
+7 Fund $50,000 $50,000
+8 GRAND TOTAL $353,000 $1,000,000 $991,400 $2,344,400
+9 SECTION 2. USE OF APPROPRIATIONS. Of the moneys appropriated from the
+10 General Fund in section 1 of this bill, $550,000 may only be used for FAST Tax
+11 Collection vendor payments. Any portion of this appropriation not utilized
+12 for this purpose shall revert to the General Fund and be reported to Legisla-
+13 tive Services Office.
+14 SECTION 3. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+15 made pursuant to this act are subject to the conditions, limitations, and re-
+16 strictions specified in this act.
+17 SECTION 4. In addition to the appropriation made in Section 1, Chap-
+18 ter 338, Laws of 2025, and any other appropriation provided by law, there is
+19 hereby appropriated to the State Tax Commission the following amounts to be
+20 expended according to the designated programs for personnel costs from the
+21 General Fund for the period July 1, 2025, through June 30, 2026:
+22 TO:
+23 Compliance Division $210,300
+24 General Services 555,000
+25 TOTAL $765,300
+26 SECTION 5. An emergency existing therefor, which emergency is hereby
+27 declared to exist, Section 4 of this act shall be in full force and effect on
+28 and after passage and approval, and Sections 1, 2, and 3 of this act shall be
+29 in full force and effect on and after July 1, 2026.

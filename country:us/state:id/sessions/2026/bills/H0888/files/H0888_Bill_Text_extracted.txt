@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 888
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO INFORMATION TECHNOLOGY; AMENDING SECTION 67-827A, IDAHO CODE,
+3 TO REVISE PROVISIONS REGARDING THE OFFICE OF INFORMATION TECHNOLOGY
+4 SERVICES AND TO MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMERGENCY
+5 AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 67-827A, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 67-827A. POWERS AND DUTIES. (1) The office of information technology
+10 services is hereby authorized and directed:
+11 (1)(a)(i) To control and approve the acquisition, purchase, and instal-
+12 lation of all information technology and telecommunications equipment
+13 and facilities for all departments and institutions of state gov-
+14 ernment, except as provided in subparagraphs (ii), (iii) and (iv)
+15 paragraphs (b), (c), and (d) of this paragraph subsection;
+16 (ii) (b) To coordinate the acquisition, purchase, and installation of
+17 all information technology and telecommunications equipment and facil-
+18 ities for the institutions of higher education and the elected officers
+19 in the executive branch;
+20 (iii) (c) To coordinate the acquisition, purchase, and installation of
+21 all information technology and telecommunications equipment and facil-
+22 ities for the legislative and judicial branches;
+23 (iv) (d) Provided however, that the acquisition, purchase, and in-
+24 stallation of all public safety and microwave equipment shall be under
+25 the control of the military division. The military division is autho-
+26 rized to charge and receive payment for actual and necessary expenses
+27 incurred in providing services to any unit of state government under the
+28 provisions of this subparagraph.
+29 (b) (2)(a) In approving or directing the acquisition, purchase, or in-
+30 stallation of information technology or telecommunications equipment
+31 or facilities, the office shall first consult with and consider the
+32 recommendations and advice of the directors or executive heads of the
+33 various departments or institutions. For each purchase of information
+34 technology or telecommunications equipment or facilities, the office
+35 shall conduct a technical and financial analysis that best meets the
+36 needs of the departments and institutions of state government. The of-
+37 fice, in its discretion, may use a third-party broker for the technical
+38 and financial analysis as long as:
+39 (i) The third-party broker has a fiduciary duty to the office for
+40 the analysis being performed;
+41 (ii) The third-party broker is not also a direct vendor of the in-
+42 formation technology being procured;
+
+2
+1 (iii) The third-party broker does not accept gifts, gratuities, or
+2 favors from vendors and is prohibited from unauthorized ex parte
+3 communications during the analysis;
+4 (iv) The analysis being conducted is neutral, transparent, and
+5 documented; and
+6 (v) Fees are not charged to the office, except that the third-
+7 party broker may charge a reasonable commission to the vendors en-
+8 gaged by the office for its services.
+9 (b) The office, in its discretion, may also use and enter into a
+10 memorandum of understanding with the division of purchasing in the de-
+11 partment of administration for procurements. Except when using the
+12 division of purchasing for procurements, the office's purchase of in-
+13 formation technology and telecommunications equipment and facilities
+14 is exempt from the provisions of chapter 92, title 67, Idaho Code. Any
+15 procurements less than fifteen thousand dollars ($15,000) shall be
+16 exempt from the provisions of this section and may be purchased di-
+17 rectly by the departments and institutions of state government. Any
+18 acquisition, purchase, or installation of any information technology
+19 or telecommunications equipment or facilities that is contrary to the
+20 office's direction or is not in harmony with the state's overall plan
+21 for telecommunications and information sharing shall be reported in
+22 writing to the governor and the legislature.
+23 (2) (3) To provide a system of information technology and telecommu-
+24 nications for all departments and institutions of state government. Funds
+25 received pursuant to this subsection shall be appropriated for payment of
+26 any charges related to information technology and telecommunications and
+27 telephone charges incurred by the various agencies and institutions of state
+28 government.
+29 (3) (4) To provide a means whereby political subdivisions of the state
+30 may use the state telecommunications system, on such terms and under such
+31 conditions as the office of information technology services may establish.
+32 (4) (5) To accept federal funds granted by congress or by executive or-
+33 der for all or any of the purposes of this chapter, as well as gifts and dona-
+34 tions from individuals and private organizations or foundations.
+35 (5) (6) To oversee implementation of cybersecurity policies that fos-
+36 ter risk and cybersecurity management telecommunications and decision-mak-
+37 ing with both internal and external organizational stakeholders.
+38 (6) (7) To consult with and direct state agencies and officials regard-
+39 ing information security needs.
+40 (7) (8) To direct state agencies and officials on penetration tests and
+41 vulnerability scans of state technology systems in order to identify steps
+42 to mitigate identified risks.
+43 (8) (9) To direct state agencies and officials to ensure that state
+44 agencies implement mandatory education and training of state employees and
+45 provide guidance on appropriate levels of training for various classifica-
+46 tions of state employees.
+47 (9) (10) To direct appropriate state agencies to create, coordinate,
+48 publish, routinely update and market a statewide cybersecurity website as
+49 an information repository for intelligence-sharing and cybersecurity best
+50 practices.
+
+3
+1 (10) (11) To ensure that all state agencies implement and maintain cy-
+2 bersecurity best practices.
+3 (11) (12) To require all state agencies to implement and use multifac-
+4 tor identification to access information technology devices or services,
+5 including but not limited to local and remote network access to any email
+6 accounts, cloud storage accounts, web applications, networks, databases, or
+7 servers.
+8 (12) (13) To coordinate public and private entities to develop, create
+9 and promote statewide public outreach efforts to protect personal informa-
+10 tion and sensitive data from cyber threats.
+11 (11) (14)(a) To obtain a criminal history check on prospective employ-
+12 ees and contractors with the Idaho office of information technology
+13 services who provide information technology (IT) services to external
+14 state agency customers and who work in one (1) or more of the following
+15 disciplines:
+16 (i) IT network engineering;
+17 (ii) IT operations and support;
+18 (iii) IT software engineering;
+19 (iv) Geographic information systems;
+20 (v) IT information management;
+21 (vi) IT database administration;
+22 (vii) IT systems and infrastructure engineering;
+23 (viii) IT information security engineering;
+24 (ix) IT architecture;
+25 (x) IT management;
+26 (xi) Remote sensing analysis; and
+27 (xii) Data science.
+28 (b) The criminal history check done pursuant to paragraph (a) of this
+29 subsection shall be based on a completed ten (10) finger fingerprint
+30 card or scan and shall include, at a minimum, information from the Idaho
+31 bureau of criminal identification database and the federal bureau of
+32 investigation's criminal history database.
+33 (c) For the purposes of this section, "information technology" shall
+34 have the same meaning as provided for in section 67-831, Idaho Code.
+35 (12)(13) (15) To promulgate and adopt reasonable rules, subject to leg-
+36 islative approval, for effecting the purposes of this act pursuant to the
+37 provisions of chapter 52, title 67, Idaho Code.
+38 SECTION 2. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2026.

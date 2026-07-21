@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 742
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO VEHICLE TITLES; AMENDING SECTION 49-504, IDAHO CODE, TO PROVIDE
+3 FOR ELECTRONIC RECORDS OF OWNERSHIP; AMENDING SECTION 49-511, IDAHO
+4 CODE, TO ESTABLISH PROVISIONS REGARDING CANCELLATION OR DISCHARGE OF
+5 LIENS OR ENCUMBRANCES BY IDAHO DEALERS; AND DECLARING AN EMERGENCY AND
+6 PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 49-504, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 49-504. APPLICATIONS TO DEPARTMENT FOR CERTIFICATES -- PROCEDURE --
+11 IDENTIFICATION NUMBERS. (1) Application for a certificate of title shall be
+12 made upon a form furnished by the department and shall contain the owner's
+13 Idaho driver's license number, Idaho identification card number or social
+14 security number or individual taxpayer identification number. In the case
+15 of a business, the employer tax identification number is required. Every
+16 application shall also contain the owner's true and full legal name. In
+17 the event that the owner does not possess a social security number, Idaho
+18 driver's license number, Idaho identification card number or individual
+19 taxpayer identification number, the owner shall present written documenta-
+20 tion sufficient to the department to determine that no social security num-
+21 ber has been issued. In the event that a business, trust, or other statuto-
+22 rily created entity is not required to have and does not possess an employer
+23 tax identification number, the applicant shall provide a written statement
+24 certifying that the entity does not possess an employer tax identification
+25 number. The form must contain the owner's physical domicile address or,
+26 in the case of a business, trust or other statutorily created entity, such
+27 entity's physical address and any mailing address if different from the
+28 physical address. If the owner has submitted an application pursuant to the
+29 provisions of chapter 58, title 19, Idaho Code, then the owner may state, in
+30 the application required pursuant to this section, the applicant's alterna-
+31 tive Idaho mailing address in place of his or her physical domicile address.
+32 Such application must be signed by the owner and contain a full description
+33 of the vehicle, including the make, identification numbers, and the odometer
+34 reading at the time of sale or transfer, and whether the vehicle is new or
+35 used, together with a statement of the applicant's title and of any liens or
+36 encumbrances upon the vehicle, and the name and address of the person to whom
+37 the certificate of title shall be delivered, and any other information as the
+38 department may require. The application shall be filed with the department
+39 and, if a certificate of title has previously been issued for that vehicle in
+40 this state, shall be accompanied by the certificate of title duly assigned,
+41 unless otherwise provided for in this chapter. The department may promul-
+42 gate rules to provide for exceptions to the odometer requirement. Social
+
+2
+1 security numbers collected shall not appear on certificates of title, and
+2 all applications on file shall be exempt from disclosure, except as provided
+3 in sections 49-202, 49-203 and 49-203A, Idaho Code.
+4 (2) If the current certificate of title was not issued for the vehicle
+5 in this state, the application, unless otherwise provided for in this chap-
+6 ter, shall be accompanied by a certificate of title, bill of sale, electronic
+7 motor vehicle record, or other evidence of ownership required by the law of
+8 any other jurisdiction from which the vehicle was brought into this state and
+9 a vehicle identification number inspection completed by any city, county or
+10 state peace officer or other special agent authorized by the department.
+11 (3) In the case of a new vehicle being titled for the first time, no cer-
+12 tificate of title or registration shall be issued unless the application is
+13 endorsed by a franchised new vehicle dealer licensed to sell a new vehicle.
+14 Each application shall be accompanied by a statement completed by the fran-
+15 chised new car dealer that it is authorized to transfer the vehicle to the
+16 purchaser. The dealer shall retain in its records a manufacturer's certifi-
+17 cate of origin or manufacturer's statement of origin executed by the manu-
+18 facturer and delivered to his agent or his franchised vehicle dealer. The
+19 certificate or statement of origin shall be in a form prescribed by the board
+20 and shall contain the year of manufacture or the model year of the vehicle,
+21 the manufacturer's vehicle identification number, the name of the manufac-
+22 turer, the number of cylinders, a general description of the body, if any,
+23 and the type or model. Upon sale of a new vehicle, the manufacturer or his
+24 agent or franchised dealer shall execute and deliver to the purchaser an as-
+25 signment of the certificate or statement, together with any lien or encum-
+26 brance to which the vehicle is subject. The certificate or statement will be
+27 retained by the dealer for five (5) years so that it is available for inspec-
+28 tion by the department.
+29 (4) The department shall retain the evidence of title presented by
+30 the applicant and on which the certificate of title is issued. The depart-
+31 ment shall maintain an identification numbers index of registered vehicles
+32 except that said index is not required to include operators who have been
+33 issued a certificate of number or nonresident user certificate pursuant to
+34 sections 67-7122 and 67-7124, Idaho Code, and, upon receiving an applica-
+35 tion for a certificate of title shall first check the identification number
+36 shown in the application against the index. The department, when satisfied
+37 that the applicant is the owner of the vehicle and that the application is in
+38 proper form, shall issue in the name of the owner of the vehicle a certificate
+39 of title bearing a title number, the date issued and a description of the
+40 vehicle as determined by the department, together with a statement of the
+41 owner's title and of all liens or encumbrances upon the vehicle, and whether
+42 possession is held by the owner under a lease, contract or conditional sale,
+43 or other like agreement.
+44 (5) In all cases of transfer of vehicles, the application for certifi-
+45 cates of title shall be filed within thirty (30) calendar days after the de-
+46 livery of the vehicles. Licensed dealers need not apply for certificate of
+47 title for vehicles in stock or when they are acquired for stock purposes.
+48 (6) In the case of the sale of a vehicle by a dealer to a general pur-
+49 chaser or user, the certificate of title shall be obtained in the name of the
+50 purchaser by the dealer upon application signed by the purchaser. If a lien
+
+3
+1 is to be recorded, the title documentation as required in this section shall
+2 be submitted to the department by the dealer or the lienholder upon appli-
+3 cation signed by the purchaser. A copy of this application shall be given
+4 to the purchaser to be used as a seventy-two (72) hour temporary permit,
+5 unless the application is submitted by an electronic means approved by the
+6 department, in which case a forty-five (45) calendar day temporary permit
+7 may be issued. In all other cases, the certificates shall be obtained by the
+8 purchaser and the certificate of title properly assigned and dated by the
+9 seller, or the seller's bill of sale shall serve as a seventy-two (72) hour
+10 permit. The seventy-two (72) hour time period for temporary permits shall
+11 be calculated excluding weekend days and legal holidays observed by the
+12 state of Idaho. These temporary permits allow operation of any noncommer-
+13 cial vehicle or unladened commercial vehicle or vehicle combination without
+14 license plates for the period of time specified in the permit. A ladened
+15 commercial vehicle or vehicle combination may also operate without license
+16 plates for the period of time specified in the temporary permit, provided
+17 that the owner or operator has also obtained a permit issued under the provi-
+18 sions of section 49-432, Idaho Code.
+19 (7) If the vehicle has no identification number, then the department
+20 shall designate an identification number for that vehicle at the time of is-
+21 suance of the certificate of title. The identification number shall be per-
+22 manently affixed to or indented upon the frame of the vehicle and legibly
+23 maintained by the owner at all times while a certificate of title to the vehi-
+24 cle shall be issued and outstanding.
+25 (8) An EVC provider authorized pursuant to section 49-401C, Idaho Code,
+26 may act on behalf of the department in receiving, processing, and transmit-
+27 ting applications for title and any related fees to the department. The se-
+28 curity, oversight, and processing requirements in chapter 4, title 49, Idaho
+29 Code, shall also apply to titling transactions conducted by an EVC provider.
+30 (9) The department may allow a person to submit a required document by
+31 using electronic media deemed feasible by the department instead of requir-
+32 ing an original document. If a signature on a document is required by law and
+33 the document is submitted electronically, the signature requirement will
+34 be satisfied by an authenticated electronically submitted signature. An
+35 electronically submitted document, once accepted by the department, shall
+36 be deemed the same as an original document and shall be admissible in all
+37 administrative, quasi-judicial, and judicial proceedings.
+38 SECTION 2. That Section 49-511, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 49-511. CANCELLATION OR DISCHARGE OF LIEN OR ENCUMBRANCE. (1) When a
+41 lien or encumbrance is canceled or discharged, the lienholder shall provide
+42 notice of such cancellation or discharge to the department within thirty
+43 (30) days. If the lienholder was holding the paper certificate of title,
+44 he shall note the cancellation or discharge on the certificate of title in
+45 the space provided, over his signature, or by some other legal document,
+46 discharging the encumbrance, and shall deliver the paper certificate of
+47 title to the owner within thirty (30) days of receipt of payoff of the encum-
+48 brance. If the lienholder was holding an electronic title, he shall send the
+49 department an electronic transaction that directs the department to provide
+
+4
+1 a paper title to the owner free of the lienholder's lien within thirty (30)
+2 days of receipt of payoff of the encumbrance.
+3 (2)(a) Notwithstanding the provisions of subsection (1) of this sec-
+4 tion, when an Idaho vehicle dealer licensed pursuant to chapter 16,
+5 title 49, Idaho Code, cancels or discharges a lien or encumbrance, the
+6 lienholder shall provide notice of such cancellation or discharge to
+7 the department within ten (10) business days of receipt of verified
+8 funds. If the lienholder was holding the paper certificate of title,
+9 such lienholder shall note the cancellation or discharge on the cer-
+10 tificate of title in the space provided, over his signature, or by some
+11 other legal document, discharging the encumbrance. If the lienholder
+12 has received authorization from the current owner to do so, by personal
+13 notification from the current owner, by power of attorney, or by other
+14 legal document granted to a dealer, the lienholder shall send the paper
+15 certificate of title to the dealer within ten (10) business days of re-
+16 ceipt of verified funds to pay off the encumbrance.
+17 (b) For the purposes of this subsection, "verified funds" means funds
+18 when such funds credit to the lienholder's account and become final in
+19 accordance with the law or rules applicable to the method by which the
+20 funds were transmitted to the lienholder.
+21 SECTION 3. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2026.

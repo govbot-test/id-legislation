@@ -1,0 +1,111 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1321
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE STATE CONTROLLER; AMENDING SECTION 67-1085A, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING REPORTING REQUIREMENTS AND TO ESTABLISH
+4 PROVISIONS REGARDING NONCOMPLIANCE; AND DECLARING AN EMERGENCY AND
+5 PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 67-1085A, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 67-1085A. STATE AGENCY AGREEMENT REPORTING REQUIREMENTS. (1) As used
+10 in this section:
+11 (a) "Agency" means any state officer, department, division, bureau, or
+12 agency of the state of Idaho.
+13 (b) "Agreement" includes any legally binding contract, MOU, or MOA en-
+14 tered into by an agency with external entities.
+15 (c) "Master agreement" means a contract outlining general terms for a
+16 business relationship with specific sub-agreements that are subject to
+17 the master agreement's terms.
+18 (d) "Memorandum of agreement" or "MOA" means a legally binding agree-
+19 ment defining the terms, obligations, and responsibilities of the par-
+20 ties.
+21 (e) "Memorandum of understanding" or "MOU" means a non-binding agree-
+22 ment outlining a common understanding or objective between two (2) or
+23 more parties.
+24 (f) "Sub-agreement" means a contract subordinate to a master agreement
+25 that outlines specific terms or obligations.
+26 (2) Agencies shall report any executed MOU, MOA, or agreement, in-
+27 cluding sub-agreements, regardless of fund source, to the state controller
+28 within ten (10) business days of execution.
+29 (3) Reports required pursuant to subsection (2) of this section shall
+30 be submitted through the designated state controller reporting portal and
+31 must include:
+32 (a) A document title;
+33 (b) The date of execution and end date, if applicable;
+34 (c) A list of participating entities;
+35 (d) A brief summary or purpose;
+36 (e) An agency contact person's name, email, and phone number;
+37 (f) Any amendments or modifications to the agreement; and
+38 (g) The monetary value of the agreement, including total contract cost,
+39 funding sources, and payment schedule, if applicable.
+40 (4) Amendments to existing agreements shall not require separate re-
+41 porting but shall be updated in the original submission, including the date
+
+2
+1 of the last amendment and updated end date if the amendment extended the term
+2 of the agreement.
+3 (5)(a) The following agreements are exempt from the provisions of this
+4 section and are not required to be reported:
+5 (i) Employment-related agreements with state employees, exclud-
+6 ing settlement agreements;
+7 (ii) Routine financial documents such as invoices and purchase
+8 orders used in the ordinary course of business;
+9 (iii) Student housing and financial aid agreements between insti-
+10 tutions and students; and
+11 (iv) Template agreements with standard terms used for short-term
+12 incidental purposes.
+13 (b) Statewide contracts executed by the department of administration,
+14 division of purchasing, shall be reported by the department of admin-
+15 istration, except that sub-agreements executed by individual agencies
+16 shall be reported by the agency executing the sub-agreement.
+17 (6) Each agency shall annually review, update, and certify the accuracy
+18 and completeness of its reported agreements by January 1 of each year. The
+19 certification must be signed or acknowledged by the agency head or an autho-
+20 rized representative.
+21 (7)(a) The state controller shall maintain and publish a centralized
+22 publicly accessible list of reported agreements, subject to public
+23 records exemptions under chapter 1, title 74, Idaho Code. At a minimum,
+24 the publicly available information shall include the information re-
+25 quired to be reported under subsection (3) of this section.
+26 (b) The state controller shall monitor agency compliance, and may pro-
+27 vide assistance to agencies, and may report non-compliance to the gov-
+28 ernor and legislature an agency in meeting the requirements of this sec-
+29 tion.
+30 (c) Should the state controller become aware of an agency's failure
+31 to report as required pursuant to subsection (2) of this section, the
+32 state controller shall provide prompt written notice to the agency of
+33 such failure, whereupon the agency shall cure the noncompliance within
+34 thirty (30) days of the date of receipt of such written notice or notify
+35 the state controller it will comply by a time certain, not to exceed
+36 sixty (60) days from the date of notice of noncompliance.
+37 (d) The state controller shall prepare an annual report of any agency
+38 that fails to cure its noncompliance as provided in paragraph (c) of
+39 this subsection. Such report shall be provided to the legislative ser-
+40 vices office on or before January 5 of each year.
+41 (e) An agency that remains noncompliant after an opportunity to cure
+42 its noncompliance may be subject to potential budgetary holdbacks for
+43 the following fiscal year at the discretion of the joint finance-appro-
+44 priations committee, upon the approval of the budget by the legislature
+45 and subject to the final approval of the governor.
+46 (f) The state controller shall have authority to develop and maintain
+47 a guidance policy to carry out the provisions and requirements of this
+48 section, including the manner of reporting agreements to its report-
+49 ing portal, and shall publish such policy in the same location where the
+50 list of reported agreements is published.
+
+3
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

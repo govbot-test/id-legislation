@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1420
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAL EDUCATION; AMENDING SECTION 33-3731, IDAHO CODE, TO PRO-
+3 VIDE FOR THE MEDICAL EDUCATION FUND AND TO PROVIDE FOR A SOURCE OF FUND-
+4 ING; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-3731, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-3731. CONTRACT REQUIREMENTS FOR STATE-SUPPORTED MEDICAL STUDENTS
+9 -- MEDICAL EDUCATION REIMBURSEMENT FUND. (1) An individual who qualifies as
+10 an Idaho resident pursuant to section 33-3717B, Idaho Code, and who is ac-
+11 cepted into a medical education program enrolling Idaho students supported
+12 by Idaho state funds in slots reserved for Idaho students shall, before
+13 confirming enrollment in such program or school, enter into a contract with
+14 the state board of education or the board's designee, which contract shall
+15 specify that the individual will commit to entering active full-time profes-
+16 sional practice in Idaho for a period of four (4) years within one (1) year
+17 of:
+18 (a) Obtaining a license to practice medicine;
+19 (b) Finishing a residency or subspecialty residency; or
+20 (c) Finishing a medical education fellowship as defined by the state
+21 board of education or the board's designee.
+22 (2) Each year of a residency served in Idaho, up to four (4) years, will
+23 be credited as one-half (1/2) year of the practice requirement provided in
+24 subsection (1) of this section. After the fourth year, no credit shall be
+25 given for any additional residency years.
+26 (3) An individual who fails to abide by the contract described in sub-
+27 section (1) of this section shall reimburse the state for the state's finan-
+28 cial obligation in supporting the individual's medical education, as deter-
+29 mined by the state board of education or the board's designee. Reimbursement
+30 must:
+31 (a) Begin within one (1) year of:
+32 (i) Obtaining a license to practice medicine;
+33 (ii) Finishing a residency or subspecialty residency; or
+34 (iii) Finishing a medical education fellowship as defined by the
+35 state board of education or the board's designee;
+36 (b) Be paid according to an amortized schedule established by the state
+37 board of education or the board's designee; and
+38 (c) Be completed within eight (8) years of the date the reimbursement
+39 requirement began.
+40 (4) The reimbursement obligation described in subsection (3) of this
+41 section:
+42 (a) Shall not accrue any interest; and
+
+2
+1 (b) May, by act of the state board of education or the board's designee,
+2 be:
+3 (i) Suspended if reimbursement is temporarily impossible or
+4 would create extreme hardship for a temporary period, including
+5 but not limited to suspension for medical reasons, personal rea-
+6 sons, parental leave, or call to active duty in the armed forces;
+7 or
+8 (ii) Waived if:
+9 1. Reimbursement is permanently impossible or would create
+10 extreme hardship, including but not limited to death, in-
+11 ability to complete the program, or inability to obtain a li-
+12 cense to practice medicine; or
+13 2. The individual owing reimbursement is participating in
+14 a program of the federal government or United States armed
+15 forces that has a service requirement.
+16 (5) The provisions of this section shall apply to individuals matric-
+17 ulating in a medical education program enrolling Idaho students supported
+18 by Idaho state funds in slots reserved for Idaho students in fall 2023 and
+19 thereafter.
+20 (6) There is hereby established in the state treasury a medical educa-
+21 tion reimbursement fund, which shall be administered by the state board of
+22 education or the board's designee. Moneys in the fund shall:
+23 (a) Consist of:
+24 (i) Reimbursement paid pursuant to subsection (3) of this sec-
+25 tion;
+26 (ii) On and after July 1, 2028, one percent (1%) of the gross re-
+27 ceipts by the state of the tax on health insurance premiums, as
+28 provided by section 41-402, Idaho Code, hereby perpetually appro-
+29 priated to the medical education fund;
+30 (ii) (iii) Legislative appropriations;
+31 (iii) (iv) Donations; and
+32 (iv) (v) Interest earned on idle moneys in the fund; and
+33 (b) Be used for, subject to availability:
+34 (i) The costs of administering and enforcing the provisions of
+35 this section; and
+36 (ii) Incentive grants in an amount and according to a program
+37 established under state board of education policy. Such grants
+38 shall be awarded to licensed physicians who practice medicine in
+39 Idaho and who meet other criteria provided in board policy.
+40 (7) The state board of education is authorized to take such actions as
+41 are necessary to effectuate the provisions of this section.
+42 SECTION 2. An emergency existing therefor, which emergency is hereby
+43 declared to exist, this act shall be in full force and effect on and after
+44 July 1, 2026.

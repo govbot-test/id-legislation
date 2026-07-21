@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1269
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO CLOUD SEEDING; AMENDING SECTION 42-4301, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING CLOUD SEEDING; AMENDING CHAPTER 43, TITLE 42,
+4 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 42-4302, IDAHO CODE, TO DE-
+5 FINE TERMS; AMENDING CHAPTER 43, TITLE 42, IDAHO CODE, BY THE ADDITION
+6 OF A NEW SECTION 42-4303, IDAHO CODE, TO ESTABLISH AUTHORIZATION AND
+7 REPORTING REQUIREMENTS; AMENDING CHAPTER 43, TITLE 42, IDAHO CODE, BY
+8 THE ADDITION OF A NEW SECTION 42-4304, IDAHO CODE, TO PROVIDE FOR THE USE
+9 OF STATE FUNDS AND LIABILITY; AND DECLARING AN EMERGENCY AND PROVIDING
+10 AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 42-4301, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 42-4301. CLOUD SEEDING -- LEGISLATIVE FINDINGS. (1) The legislature
+15 finds that:
+16 (a) Idaho's economy and the welfare of its citizens depend upon a reli-
+17 able and sustainable water supply. It is essential, therefore, that the
+18 state continues to identify, develop, and implement projects that aug-
+19 ment and sustain the state's water resources.
+20 (b) The cloud seeding program developed and implemented by the Idaho
+21 water resource board, in cooperation with interested stakeholders,
+22 presents a unique and innovative opportunity to augment and sustain the
+23 water resources of the state.
+24 (c) Augmenting water supplies through cloud seeding is in the public
+25 interest. Public benefits of cloud seeding include drought mitigation,
+26 protection of water rights, protection of municipal and business ac-
+27 tivities dependent on water, water quality, recreation, and fish and
+28 wildlife.
+29 (d) Data accumulated and analysis undertaken since the initiation of
+30 the cloud seeding program demonstrates that cloud seeding has resulted
+31 in an annual increase in the water supplies in the basins in which cloud
+32 seeding has been performed. However, additional research and analy-
+33 sis is necessary to determine the precise nature and extent of those in-
+34 creases. The legislature recommends that such research be continued as
+35 the cloud seeding program progresses and that annual reports on such re-
+36 search be provided to the legislature.
+37 (e) (2) The legislature recognizes that expansion of the cloud seeding
+38 program may benefit basins throughout the state that experience depleted or
+39 insufficient water supplies, and the legislature recommends that the wa-
+40 ter resource board complete an assessment of basins and work with affected
+41 stakeholders to implement the cloud seeding program in basins that would
+42 benefit from the program.
+
+2
+1 (2) As used in this chapter, "cloud seeding" means all acts undertaken
+2 to artificially distribute or create nuclei in cloud masses for the purposes
+3 of inducing precipitation, cloud forms, or other meteorological parameters.
+4 Cloud seeding for the suppression of fog and frost prevention measures for
+5 the protection of orchards and crops are excluded from the coverage of this
+6 chapter.
+7 (3) The water resource board shall authorize, and may sponsor or de-
+8 velop, local or statewide cloud seeding programs and may contract any indi-
+9 vidual or organization for consultation and assistance in developing cloud
+10 seeding programs or in furthering research related to cloud seeding.
+11 (4) State funds may be used or expended on cloud seeding programs only
+12 in basins where the water resource board finds that existing water supplies
+13 are not sufficient to support existing water rights, water quality, recre-
+14 ation, or fish and wildlife uses dependent on those water supplies. Water
+15 generated through cloud seeding shall be distributed in accordance with the
+16 prior appropriation doctrine.
+17 (5) The act of cloud seeding pursuant to a project funded in whole or
+18 in part by the state of Idaho or authorized by the state water resource board
+19 shall not be the basis of any claim of liability, including but not limited
+20 to trespass or public or private nuisance, and shall not require any state or
+21 local permits.
+22 (3) Nothing in this chapter shall be construed to affect any permitting
+23 or reporting requirements that may exist pursuant to federal law or regula-
+24 tion.
+25 SECTION 2. That Chapter 43, Title 42, Idaho Code, be, and the same is
+26 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+27 ignated as Section 42-4302, Idaho Code, and to read as follows:
+28 42-4302. DEFINITIONS. As used in this chapter:
+29 (1) "Board" means the Idaho water resource board.
+30 (2) "Cloud seeding" means all acts undertaken to artificially distrib-
+31 ute or create nuclei in cloud masses for the purposes of inducing precipi-
+32 tation, cloud forms, or other meteorological parameters. Cloud seeding for
+33 the suppression of fog and frost prevention measures for the protection of
+34 orchards and crops are excluded from the coverage of this chapter.
+35 (3) "Methods used for cloud seeding" means methods to distribute or
+36 create nuclei in cloud masses, including ground generators, airplanes,
+37 drones, or other application methods.
+38 (4) "Operational period" means the dates during which cloud seeding
+39 activities are authorized and conducted within a defined basin or project
+40 area, as approved by the board, typically October 1 through April 30.
+41 SECTION 3. That Chapter 43, Title 42, Idaho Code, be, and the same is
+42 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+43 ignated as Section 42-4303, Idaho Code, and to read as follows:
+44 42-4303. AUTHORIZATION AND REPORTING REQUIREMENTS. (1) The board
+45 shall authorize, and may sponsor or develop, local or statewide cloud seed-
+46 ing programs. The board may contract any individual or organization for
+
+3
+1 consultation and assistance in developing cloud seeding programs or in fur-
+2 thering research related to cloud seeding.
+3 (2) The board shall conduct public meetings, in accordance with chapter
+4 2, title 74, Idaho Code, when discussing or acting on cloud seeding programs
+5 in Idaho. Such meetings shall include an opportunity for written and oral
+6 public comment.
+7 (3) The board shall compile and publish an annual report detailing:
+8 (a) Operational data, including dates, locations, and methods used for
+9 cloud seeding operations conducted during the reporting period;
+10 (b) The state of the science, including Idaho-specific analysis, as
+11 it relates to water, soil, or air quality, and other environmental im-
+12 pacts, including cumulative impacts, associated with cloud seeding ac-
+13 tivities;
+14 (c) Public meetings related to cloud seeding and associated documen-
+15 tation, including public comments or other feedback received regarding
+16 cloud seeding operations; and
+17 (d) The effectiveness of outcomes achieved, such as increases in snow-
+18 pack due to cloud seeding.
+19 (4) During the operational period, each operator shall submit a monthly
+20 report on cloud seeding operations to the board. The report shall include:
+21 (a) Locations of ground generators;
+22 (b) Flight paths;
+23 (c) Amount and type of cloud seeding activities that occurred;
+24 (d) Amount and type of seeding materials used;
+25 (e) Any suspension periods; and
+26 (f) Methods of operation.
+27 (5) Any individual, organization, or entity that independently con-
+28 ducts cloud seeding operations within the state of Idaho shall adhere to the
+29 requirements and conditions of the authorization issued by the board.
+30 (6) Water generated through cloud seeding shall be distributed in ac-
+31 cordance with the prior appropriation doctrine.
+32 (7) Cloud seeding conducted to enhance rainfall, mitigate hail, dis-
+33 perse fog, or prevent frost is excluded from the provisions of this chapter.
+34 (8) Failure to comply with the reporting or disclosure requirements,
+35 as provided by this chapter, shall result in suspension of authorization for
+36 cloud seeding activities until compliance is achieved, as determined by the
+37 board.
+38 SECTION 4. That Chapter 43, Title 42, Idaho Code, be, and the same is
+39 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+40 ignated as Section 42-4304, Idaho Code, and to read as follows:
+41 42-4304. USE OF STATE FUNDS -- LIABILITY. (1) State funds may be used
+42 or expended on cloud seeding programs only in basins where the board finds
+43 that existing water supplies are not sufficient to support existing water
+44 rights, water quality, recreation, or fish and wildlife uses dependent on
+45 those water supplies.
+46 (2) The act of cloud seeding pursuant to a project funded in whole or in
+47 part by the state of Idaho or authorized by the board shall:
+
+4
+1 (a) Not be the basis of any claim of liability, including trespass or
+2 public or private nuisance, except when such claims arise from acts of
+3 gross negligence or willful misconduct; and
+4 (b) Not require any state or local permits.
+5 SECTION 5. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2026.

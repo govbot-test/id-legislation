@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1393
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD CUSTODY; AMENDING SECTION 32-717C, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING ALLEGATIONS OF ABUSE AND INVESTIGATIONS; AMEND-
+4 ING CHAPTER 7, TITLE 32, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+5 32-717F, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING TEMPORARY AND
+6 EX PARTE ORDERS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+7 DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 32-717C, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 32-717C. ALLEGATIONS OF ABUSE -- INVESTIGATION. (1) When, in any
+12 divorce proceeding or upon request for modification of a divorce decree, an
+13 proceeding affecting child custody or parenting time, a credible allegation
+14 of child abuse or child sexual abuse, neglect, or other criminal acts is
+15 made, implicating either party, the court shall order by a written notice
+16 and request that an investigation be conducted by the department of health
+17 and welfare, or by the appropriate law enforcement agency, if applicable. A
+18 final award of custody, parenting time, or visitation may shall not be ren-
+19 dered until a written report on that investigation is received by the court.
+20 That investigation shall be conducted by the department within thirty (30)
+21 days of the court's notice and request for investigation. The investigating
+22 agency shall make reasonable efforts to complete the investigation and sub-
+23 mit a written report within forty-two (42) calendar days unless extended by
+24 the court upon documented reasonable cause.
+25 (2) If an investigation extends beyond forty-two (42) calendar days,
+26 the investigating agency shall provide written status updates to the court
+27 every fourteen (14) calendar days. Upon receipt of the investigative re-
+28 port, the court shall review whether continued restriction meets the clear
+29 and convincing standard.
+30 (3) During the investigation, the court may issue temporary protective
+31 measures only for good cause and in compliance with 32-717F, Idaho Code. Any
+32 ex parte or temporary order shall state an expiration date and create no pre-
+33 sumption for or against either parent.
+34 (4) Findings regarding allegations shall not be based solely on the
+35 opinions or recommendations of guardians ad litem, evaluators, or other
+36 court-appointed professionals.
+37 (5) A safety plan is a nonbinding, nonadjudicative, temporary proposal
+38 initiated by a governmental entity or government-affiliated actor and shall
+39 be considered solely as protective in nature.
+
+2
+1 SECTION 2. That Chapter 7, Title 32, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 32-717F, Idaho Code, and to read as follows:
+4 32-717F. TEMPORARY AND EX PARTE ORDERS. (1) A court may enter a tem-
+5 porary custody order, but such order shall not remain in effect longer than
+6 forty-nine (49) calendar days, shall create no presumption regarding the
+7 child's best interests, and shall not operate as a de facto permanent modi-
+8 fication.
+9 (2) Any temporary restriction shall expire on the forty-ninth calen-
+10 dar day unless continued by written findings supported by clear and convinc-
+11 ing evidence. Nothing in this subsection shall require repeated evidentiary
+12 hearings where the parties stipulate to continuation or where no party seeks
+13 modification.
+14 (3) An ex parte order restricting custody, parenting time, or contact
+15 may be issued only upon sworn admissible evidence establishing probable
+16 cause of imminent physical danger to the child or a parent. Speculation,
+17 generalized fear, or uncorroborated assertions are insufficient. The court
+18 shall consider known inculpatory and exculpatory evidence.
+19 (4) An ex parte order shall expire fourteen (14) calendar days from is-
+20 suance, shall state on its face the date and time of expiration, and shall not
+21 be extended or converted into a temporary order without a full evidentiary
+22 hearing and written findings.
+23 (5) A court shall not delay resolution of a custody matter such that a
+24 temporary or ex parte order functions as a long-term deprivation of parental
+25 rights.
+26 SECTION 3. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

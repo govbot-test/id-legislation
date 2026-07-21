@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 530
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HEALTH INSURANCE; AMENDING CHAPTER 18, TITLE 41, IDAHO CODE, BY
+3 THE ADDITION OF A NEW SECTION 41-1854, IDAHO CODE, TO ESTABLISH PROVI-
+4 SIONS REGARDING ANTICANCER MEDICATIONS; AND DECLARING AN EMERGENCY AND
+5 PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 18, Title 41, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 41-1854, Idaho Code, and to read as follows:
+10 41-1854. ANTICANCER MEDICATIONS. (1) For purposes of this section:
+11 (a) "Anticancer medication" means a drug or biologic used to kill,
+12 slow, or prevent the growth of cancerous cells, whether administered
+13 orally, intravenously, or by injection.
+14 (b) "Health benefit plan" shall have the same meaning as provided in
+15 section 41-5903, Idaho Code.
+16 (2) A health benefit plan covering food and drug administration-ap-
+17 proved anticancer medications shall ensure that either:
+18 (a) The copayment, deductible, or coinsurance amount for prescribed
+19 orally administered anticancer medication is not higher than that for
+20 an injected or intravenously administered anticancer medication; or
+21 (b) Out-of-pocket costs to a covered person for an orally administered
+22 anticancer medication do not exceed two hundred fifty dollars ($250)
+23 per thirty (30) day supply.
+24 (3) A health benefit plan covering an anticancer medication is not re-
+25 quired to classify the anticancer medication as a medical benefit.
+26 (4) A health benefit plan that provides coverage of anticancer medica-
+27 tions shall not be considered in compliance with the provisions of subsec-
+28 tion (2) of this section by:
+29 (a) Increasing the copayment, deductible, or coinsurance amount re-
+30 quired for an anticancer medication covered under the health benefit
+31 plan; or
+32 (b) Reclassifying benefits with respect to anticancer medications.
+33 SECTION 2. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2026.

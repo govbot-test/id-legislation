@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 602
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO FOREIGN LAWS; AMENDING TITLE 73, IDAHO CODE, BY THE ADDITION OF
+3 A NEW CHAPTER 6, TITLE 73, IDAHO CODE, TO PROVIDE LEGISLATIVE INTENT,
+4 TO DEFINE TERMS, TO PROVIDE FOR THE UNENFORCEABILITY OF FOREIGN LAWS,
+5 TO PROVIDE FOR CHOICE OF LAW IN CERTAIN INSTANCES, TO PROVIDE FOR JU-
+6 RISDICTION IN CERTAIN INSTANCES, TO PROVIDE FOR FORUM NON CONVENIENS IN
+7 CERTAIN INSTANCES, TO PROVIDE APPLICABILITY, AND TO PROVIDE FOR CERTAIN
+8 CONFLICTS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Title 73, Idaho Code, be, and the same is hereby amended
+11 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+12 ter 6, Title 73, Idaho Code, and to read as follows:
+13 CHAPTER 6
+14 APPLICATION OF FOREIGN LAWS
+15 73-601. LEGISLATIVE INTENT. It shall be the public policy of this
+16 state to protect its citizens from the application of foreign laws when the
+17 application of a foreign law will result in the violation of a fundamental
+18 right guaranteed by the constitution of the United States or the constitu-
+19 tion of the state of Idaho, including but not limited to due process, freedom
+20 of religion, speech, or the press, and any right of privacy or marriage em-
+21 bodied in the constitution of the state of Idaho.
+22 73-602. DEFINITIONS. As used in this chapter:
+23 (1) "Court" means any court, board, tribunal, arbitration, administra-
+24 tive agency, or other adjudicative or enforcement authority of this state.
+25 (2) "Foreign law" means any law, legal code, or system adopted by a ju-
+26 risdiction outside of any state or territory of the United States, including
+27 but not limited to international organizations and tribunals, and applied by
+28 that jurisdiction's courts, administrative bodies, or other formal or in-
+29 formal tribunals. For the purposes of this chapter, "foreign law" shall not
+30 mean, nor shall it include, any laws of the Indian tribes in this state or the
+31 English common law.
+32 (3) "Religious organization" means any church, seminary, synagogue,
+33 temple, mosque, religious order, or religious corporation, association, or
+34 society whose identity is distinctive in terms of common religious creed,
+35 beliefs, doctrines, practices, or rituals of any faith or denomination, in-
+36 cluding any organization qualifying as a church or religious organization
+37 under section 501(c)(3) or 501(d) of the Internal Revenue Code.
+38 73-603. USE OF FOREIGN LAWS -- UNENFORCEABILITY. Any court ruling or
+39 decision that violates the public policy of this state shall be void and un-
+
+2
+1 enforceable to the extent that the court bases its ruling or decision in the
+2 matter at issue, in whole or in part, on any foreign law that would not grant
+3 the parties affected by the ruling or decision similar fundamental liber-
+4 ties, rights, and privileges guaranteed under the constitution of the United
+5 States and the constitution of the state of Idaho, including but not limited
+6 to due process, freedom of religion, speech, or the press, and any right of
+7 privacy or marriage embodied in the constitution of the state of Idaho.
+8 73-604. CHOICE OF LAW. A contract or contractual provision that pro-
+9 vides for the choice of foreign law to govern some or all of the disputes
+10 between the parties adjudicated by a court or by an arbitration panel arising
+11 from the contract mutually agreed on that violates the public policy of this
+12 state shall be void and unenforceable if the foreign law chosen includes or
+13 incorporates substantive or procedural law, as applied to the dispute at is-
+14 sue, that would not grant the parties similar fundamental liberties, rights,
+15 and privileges guaranteed under the constitution of the United States and
+16 the constitution of the state of Idaho, including but not limited to due
+17 process, freedom of religion, speech, or the press, and any right of privacy
+18 or marriage embodied in the constitution of the state of Idaho.
+19 73-605. JURISDICTION. A contract or contractual provision that pro-
+20 vides for jurisdiction for the purpose of granting the courts or arbitration
+21 panels in personam jurisdiction over the parties to adjudicate any disputes
+22 between the parties arising from the contract mutually agreed on shall vio-
+23 late the public policy of this state and be void and unenforceable if the ju-
+24 risdiction or arbitration panel chosen includes or incorporates substantive
+25 or procedural foreign law, as applied to the dispute at issue, that would not
+26 guarantee the parties similar fundamental liberties, rights, and privileges
+27 guaranteed under the constitution of the United States and the constitution
+28 of the state of Idaho, including but not limited to due process, freedom of
+29 religion, speech, or the press, and any right of privacy or marriage embodied
+30 in the constitution of the state of Idaho.
+31 73-606. FORUM NON CONVENIENS. If a person, subject to personal juris-
+32 diction in this state, seeks to maintain litigation, arbitration, agency, or
+33 similarly binding proceedings in this state and if the courts of this state
+34 find that granting a claim of forum non conveniens violates or would likely
+35 violate a fundamental right guaranteed under the constitution of the United
+36 States or the constitution of the state of Idaho of the nonclaimant in the
+37 foreign forum with respect to the matter in dispute, the claim shall be de-
+38 nied.
+39 73-607. APPLICABILITY. (1) This chapter shall not apply to a corpo-
+40 ration, partnership, limited liability company, business association, or
+41 other legal entity to the extent that it contracts to subject itself to for-
+42 eign law in a jurisdiction other than this state or the United States.
+43 (2) This chapter shall not apply to a contract entered into prior to the
+44 effective date of this act.
+45 (3) The provisions of this chapter shall not be construed to limit the
+46 right of any person to the free exercise of religion as guaranteed by the
+
+3
+1 first amendment to the constitution of the United States and section 4, ar-
+2 ticle I of the constitution of the state of Idaho. The provisions of this
+3 chapter shall not be construed to require or authorize any court to adjudi-
+4 cate or prohibit any religious organization from adjudicating ecclesiasti-
+5 cal matters, including but not limited to the appointment, calling, disci-
+6 pline, dismissal, removal, or excommunication of a member, officer, offi-
+7 cial, priest, nun, monk, pastor, rabbi, imam, or other member of the clergy
+8 of the religious organization, or the determination or interpretation of the
+9 doctrine of the religious organization where adjudication by a court would
+10 violate the establishment or free exercise clause of the first amendment to
+11 the constitution of the United States and section 4, article I of the consti-
+12 tution of the state of Idaho.
+13 73-608. CONFLICT. This chapter shall not be construed to conflict with
+14 any federal treaty or other international agreement to which the United
+15 States is a party, to the extent that such treaty or international agreement
+16 is valid and preempts or is superior to state law on the matter at issue.
+17 SECTION 2. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after
+19 July 1, 2026.

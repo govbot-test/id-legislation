@@ -1,0 +1,344 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 860, As Amended in the Senate
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO PARENTAL RIGHTS ACT; AMENDING SECTION 32-1010, IDAHO
+3 CODE, TO PROVIDE CORRECT CODE REFERENCES AND TO MAKE A TECHNICAL COR-
+4 RECTION; AMENDING SECTION 32-1013, IDAHO CODE, TO ESTABLISH PROVISIONS
+5 REGARDING CIVIL ACTIONS AND TO MAKE A TECHNICAL CORRECTION; AMENDING
+6 SECTION 32-1015, IDAHO CODE, TO REVISE PROVISIONS REGARDING PARENTAL
+7 RIGHTS IN MEDICAL DECISION-MAKING; AMENDING SECTION 16-2424, IDAHO
+8 CODE, TO REVISE PROVISIONS REGARDING PROVISION OF TREATMENT; REPEALING
+9 SECTION 16-2428, IDAHO CODE, RELATING TO CONFIDENTIALITY AND DISCLO-
+10 SURE OF INFORMATION; REPEALING CHAPTER 38, TITLE 39, IDAHO CODE, RELAT-
+11 ING TO MINOR CONSENT TO TREATMENT; AMENDING SECTION 66-318, IDAHO CODE,
+12 TO REVISE PROVISIONS REGARDING AUTHORITY TO ADMIT VOLUNTARY PATIENTS
+13 AND DENIAL OF ADMISSION; AMENDING SECTION 66-320, IDAHO CODE, TO REVISE
+14 PROVISIONS REGARDING RIGHT TO RELEASE ON APPLICATION AND EXCEPTIONS;
+15 AND DECLARING AN EMERGENCY.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. That Section 32-1010, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 32-1010. IDAHO PARENTAL RIGHTS ACT. (1) This section through section
+20 32-1014 32-1015, Idaho Code, shall be known and may be cited as the "Idaho
+21 Parental Rights Act."
+22 (2) The interests and role of parents in the care, custody and control
+23 of their children are both implicit in the concept of ordered liberty and
+24 deeply rooted in our nation's history and tradition. They are also among the
+25 unalienable rights retained by the people under the ninth amendment to the
+26 constitution of the United States.
+27 (3) The interests of the parents include the high duty and right to nur-
+28 ture and direct their children's destiny, including their upbringing and ed-
+29 ucation.
+30 (4) The state of Idaho has independent authority to protect its par-
+31 ents' fundamental right to nurture and direct their children's destiny, up-
+32 bringing and education.
+33 (5) The protections and rights recognized in sections 32-1011 through
+34 32-1014 32-1015, Idaho Code, are rooted in the due process of law guaranteed
+35 pursuant to section 13, article I, of the constitution of the state of Idaho.
+36 (6) Governmental efforts that restrict or interfere with these funda-
+37 mental rights are only permitted if that restriction or interference satis-
+38 fies the strict scrutiny standard provided in section 32-1013, Idaho Code.
+39 (7) Nothing in this act shall be construed as altering the established
+40 presumption in favor of the constitutionality of statutes and regulations.
+41 (8) The provisions of the Idaho parental rights act are hereby declared
+42 to be severable, and if any provision of the act or the application of such
+
+2
+1 provision to any person or circumstance is declared invalid for any reason,
+2 such declaration shall not affect the validity of the remaining portions of
+3 the act.
+4 SECTION 2. That Section 32-1013, Idaho Code, be, and the same is hereby
+5 amended to read as follows:
+6 32-1013. INTERFERENCE WITH FUNDAMENTAL PARENTAL RIGHTS RE-
+7 STRICTED. (1) Neither the state of Idaho, nor any political subdivision
+8 thereof, may violate a parent's fundamental and established rights pro-
+9 tected by this act, and any restriction of or interference with such rights
+10 shall not be upheld unless it demonstrates by clear and convincing evidence
+11 that the restriction or interference is both:
+12 (a) Essential to further a compelling governmental interest; and
+13 (b) The least restrictive means available for the furthering of that
+14 compelling governmental interest.
+15 (2) The foregoing principles apply to any interference whether now ex-
+16 isting or hereafter enacted.
+17 (3) Nothing in this act shall be construed as invalidating the provi-
+18 sions of the child protective act in chapter 16, title 16, Idaho Code, or
+19 modify modifying the burden of proof at any stage of proceedings under the
+20 child protective act.
+21 (4) When a parent's fundamental rights protected by this act are vio-
+22 lated, a parent may assert that violation as a claim or defense in a judicial
+23 proceeding and may obtain appropriate relief against the governmental en-
+24 tity.
+25 (5) If a parent prevails in a civil action against the state, or a polit-
+26 ical subdivision thereof, as provided in subsection (4) of this section, the
+27 parent is entitled to reasonable attorney's fees and costs.
+28 (6) All civil actions brought pursuant to sections 32-1010 through
+29 32-1015, Idaho Code, shall be initiated within two (2) years after the harm
+30 occurred or two (2) years after the discovery, by the parent, of the facts
+31 constituting the claim, whichever is later.
+32 SECTION 3. That Section 32-1015, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 32-1015. PARENTAL RIGHTS IN MEDICAL DECISION-MAKING. (1) As used in
+35 this section:
+36 (a) "Governmental entity" means the state and its political subdivi-
+37 sions.
+38 (b) "Health care provider" means:
+39 (i) A physician, health care practitioner, or other individ-
+40 ual licensed, accredited, or certified to perform health care
+41 services or provide counseling consistent with state law, or any
+42 agent or third-party representative thereof; or
+43 (ii) A health care facility or its agent.
+44 (c) "Health care service" means a service for the diagnosis, screening,
+45 examination, prevention, treatment, cure, care, or relief of any physi-
+46 cal or mental health condition, illness, injury, defect, or disease.
+
+3
+1 (d) "Health information" means information or data, collected or
+2 recorded in any form or medium, and personal facts of information about
+3 events or relationships that relates to:
+4 (i) The past, present, or future physical, mental, or behavioral
+5 health or condition of an individual or member of the individual's
+6 family;
+7 (ii) The provision of health care services to an individual; or
+8 (iii) Payment for the provision of health care services to an indi-
+9 vidual.
+10 (e) "Minor child" means an individual under eighteen (18) years of age
+11 but does not include an individual who is an emancipated minor.
+12 (f) "Parent" means a biological parent of a child, an adoptive parent
+13 of a child, or an individual who has been granted exclusive right and au-
+14 thority over the welfare of a child under state law.
+15 (2) Parents who have legal custody of any minor child have the fundamen-
+16 tal right and duty to make decisions concerning the furnishing of health care
+17 services to the minor child.
+18 (3) Except as otherwise provided by this section or court order, an in-
+19 dividual, health care provider, or governmental entity shall not furnish a
+20 health care service or solicit to furnish a health care service to a minor
+21 child without obtaining the prior informed consent of the minor child's par-
+22 ent. When interpreting this subsection:
+23 (a) No individual acting reasonably under the circumstances shall be
+24 found in violation of this subsection by furnishing nonemergency first
+25 aid services and care to a minor child appearing or represented to be
+26 sick or injured. Such services and care may include dressing minor
+27 wounds, applying topical agents, providing fluids or ice, and perform-
+28 ing checks to identify minor illnesses; and
+29 (b) This subsection shall not be construed to invalidate any protec-
+30 tions or immunities granted to any individual administering first aid
+31 services and care pursuant to any provision of Idaho Code.
+32 (4) Subsection (3) of this section shall not apply, and a health care
+33 provider may authorize or furnish a health care service without obtaining
+34 the informed consent of the minor child's parent, if:
+35 (a)(i) A parent of the minor child has given blanket consent au-
+36 thorizing the health care provider to furnish the health care ser-
+37 vice; or, provided that:
+38 1. Such consent must be in writing on a form provided by the
+39 health care provider. The form shall be titled "Blanket Con-
+40 sent Form for Health Care Services for Minor." The title must
+41 be in bold, 30-point font. On the first page, the form shall
+42 state in bold, 24-point font: "Providing blanket consent is
+43 optional and may, instead, be given on a case-by-case basis.
+44 Blanket consent may be withdrawn by a parent at any time.";
+45 2. No parent shall be required or pressured to sign a blanket
+46 consent form as a condition of the minor child enrolling in
+47 public school or participating in any school-sponsored ac-
+48 tivity; and
+49 3. A parent may revoke consent to furnish any further health
+50 care service to a minor child at any time.
+
+4
+1 (ii) A blanket consent written by a parent or guardian for the
+2 child shall be valid if signed by the parent or guardian even
+3 though it does not meet the requirements of paragraph (a)(i) of
+4 this subsection.
+5 (b) The health care provider reasonably determines that a medical emer-
+6 gency exists and:
+7 (i) Furnishing the health care service is necessary in order to
+8 prevent death or imminent, irreparable physical injury address a
+9 serious bodily harm to the minor child; or
+10 (ii) After a reasonably diligent effort, the health care provider
+11 cannot locate or contact a parent of the minor child and the minor
+12 child's life or health would be seriously endangered by further
+13 delay in the furnishing of health care services. health care ser-
+14 vice is furnished to prevent loss of life or serious physical ill-
+15 ness or injury to the minor child;
+16 (c) A minor child is seeking health care or medical treatment that
+17 is directly related to an allegation of a crime of physical violence
+18 against the minor child or to collect evidence related to such crime
+19 when the collection of such evidence is time-sensitive;
+20 (d) The service is limited to nonemergency first aid services and care
+21 to a minor appearing or represented to be sick or injured;
+22 (e) A minor child utilizes the 988 Idaho crisis and suicide hotline
+23 and receives immediate crisis and suicide prevention services. If the
+24 Idaho crisis and suicide hotline determines that the minor child is ex-
+25 periencing suicidal ideation, it may offer and conduct a follow-up call
+26 within forty-eight (48) hours solely for the purposes of reassessing
+27 safety, reviewing the safety plan, and encouraging communication with
+28 the child's parent or guardian; or
+29 (f) The health care provider is furnishing the health care service for
+30 the purpose of detecting or diagnosing pregnancy or providing prenatal
+31 or peripartum care, which shall not include abortion or performing or
+32 facilitating an abortion as that term is defined in section 18-8702,
+33 Idaho Code.
+34 (5) Nothing in this section or any other provision of Idaho Code shall
+35 prevent a health care provider from screening and treating a newborn infant
+36 for illegal drugs or substances if a reasonable suspicion suggests their
+37 presence, provided that the results of the test or the fact of treatment may
+38 not be used against the parent in any criminal proceeding.
+39 (5) (6) No health care provider or governmental entity shall deny a mi-
+40 nor child's parent access to health information that is:
+41 (a) In such health care provider's or governmental entity's control;
+42 and
+43 (b) Requested by the minor child's parent.
+44 (6) (7) Subsection (5) (6) of this section shall not apply if:
+45 (a) Parent's The parent's access to the requested health information is
+46 prohibited by a court order; or
+47 (b) The health information is a record that relates to physical
+48 abuse, abandonment, or neglect by the parent, as provided in section
+49 33-6001(3), Idaho Code; or
+
+5
+1 (b) (c) The parent is a subject of an investigation related to a crime
+2 committed against the child, and a law enforcement officer requests
+3 that the information not be released to the parent.
+4 (7) (8) This section shall be construed in favor of a broad protection
+5 of parents' fundamental right to make decisions concerning the furnishing of
+6 health care services to minor children.
+7 (8) (9) This section does not make legal and in no way condones any
+8 abuse, abandonment, or neglect, including any act or omission described in
+9 section 16-1602, Idaho Code.
+10 (9) (10) This section does not make legal and in no way condones eu-
+11 thanasia, mercy killing, or assisted suicide, or permit an affirmative
+12 or deliberate act or omission to end life, including any act or omission
+13 described in section 18-4017, Idaho Code, other than to allow the natural
+14 process of dying.
+15 (10) (11) If a minor child does not have an affirmative right of access
+16 to a specific treatment, service, or procedure, this section shall not be
+17 construed to grant the parent a right to access such treatment, service, or
+18 procedure.
+19 (11) (12) This section shall not be construed to prohibit a court from
+20 issuing an order that is otherwise permitted by law.
+21 (12) (13)(a) Subject to the limitations of chapter 9, title 6, Idaho
+22 Code, any parent who is deprived of a right as a result of a violation of
+23 this section shall have a private right of action against the individ-
+24 ual, health care provider, or governmental entity.
+25 (b) A parent may raise this section as a defense in any judicial or
+26 administrative proceeding without regard to whether the proceeding is
+27 brought by or in the name of the state, any private person, or any other
+28 party.
+29 (c) A parent who successfully asserts a claim or defense under this sec-
+30 tion may recover declaratory relief, injunctive relief, compensatory
+31 damages, reasonable attorney's fees, and any other relief available un-
+32 der law.
+33 (d) All civil actions shall be initiated within two (2) years after the
+34 harm occurred.
+35 SECTION 4. That Section 16-2424, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 16-2424. PROVISION OF TREATMENT. (1) Every child subject to an invol-
+38 untary treatment order under this chapter shall be provided with appropri-
+39 ate treatment in accordance with the least restrictive alternative princi-
+40 ple that offers him a realistic prospect of improvement. Children shall be
+41 afforded treatment in facilities that conform to the applicable rules of the
+42 department, and that are able to adequately care for and treat the persons
+43 they serve.
+44 (2) A written individual treatment plan shall be prepared, with the
+45 participation of the parents, the child (to the extent he is able),his family
+46 and any other persons of his such parents' choice, during voluntary admis-
+47 sion or emergency psychiatric evaluation or, within seven (7) days of the
+48 signing of an order for involuntary treatment. The individual treatment
+
+6
+1 plan shall be approved by the responsible physician, and the course of treat-
+2 ment actually administered shall conform to the plan.
+3 (3) The child's progress in attaining the objectives in the treatment
+4 plan shall be noted in his records, and the revisions to the plan shall be
+5 made as necessary. The child and the child's parent, custodian, or guardian
+6 shall be afforded an opportunity to participate in any substantial revision
+7 of the treatment plan.
+8 (4) A copy of the individual treatment plan shall be given to the child,
+9 his parents and to any other person designated by him such parents, provided
+10 that the responsible physician may preclude disclosure of the individual
+11 treatment plan to the child if he states in writing why disclosure would be
+12 harmful to the child.
+13 SECTION 5. That Section 16-2428, Idaho Code, be, and the same is hereby
+14 repealed.
+15 SECTION 6. That Chapter 38, Title 39, Idaho Code, be, and the same is
+16 hereby repealed.
+17 SECTION 7. That Section 66-318, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 66-318. AUTHORITY TO ADMIT VOLUNTARY PATIENTS -- DENIAL OF ADMIS-
+20 SION. (1) The director of any facility or a practitioner granted admitting
+21 privileges pursuant to chapter 13, title 39, Idaho Code, may admit as a
+22 voluntary patient the following persons for observation, diagnosis, evalua-
+23 tion, care or treatment of mental illness:
+24 (a) Any person who is eighteen (18) years of age or older;
+25 (b) Any individual fourteen (14) to eighteen (18) years of age who may
+26 apply to be admitted for observation, diagnosis, evaluation, care or
+27 treatment and the facility director will notify the parent, parents or
+28 guardian of the individual of the admission; a parent or guardian may
+29 apply for the individual's release and the facility director will re-
+30 lease the patient within three (3) days, excluding Saturdays, Sundays
+31 and legal holidays, of the application for discharge, unless the time
+32 period for diagnosis, evaluation, care or treatment is extended pur-
+33 suant to section 66-320, Idaho Code;
+34 (c) (b) Any emancipated minor;
+35 (d) (c) Any individual under fourteen (14) eighteen (18) years of age
+36 upon application of the individual's parent or guardian;
+37 (e) (d) Any individual who lacks capacity to make informed decisions
+38 about treatment upon application of the individual's guardian; or
+39 (f) (e) Any individual confined for examination pursuant to section
+40 18-211, Idaho Code.
+41 (2) The director of any facility or a practitioner granted admitting
+42 privileges pursuant to chapter 13, title 39, Idaho Code, must refuse admis-
+43 sion to any applicant under this section whenever:
+44 (a) The applicant is determined not to be in need of observation, diag-
+45 nosis, evaluation, care or treatment at the facility;
+
+7
+1 (b) The applicant is determined to lack capacity to make informed deci-
+2 sions about treatment unless the application is made by a guardian with
+3 authority to consent to treatment; or
+4 (c) The applicant's welfare or the welfare of society, or both, are bet-
+5 ter protected by the provisions of section 66-329, Idaho Code.
+6 SECTION 8. That Section 66-320, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 66-320. RIGHT TO RELEASE ON APPLICATION -- EXCEPTIONS. (1) A volun-
+9 tary patient admitted in accordance with the procedure outlined in section
+10 66-318, Idaho Code, who requests his release or whose release is requested,
+11 in writing, by his legal guardian, parent, spouse, or adult next of kin shall
+12 be released except that:
+13 (a) If the patient was admitted on his own application and the request
+14 for release is made by a person other than the patient, release may be
+15 conditioned upon the agreement of the patient thereto;
+16 (b) If the patient, by reason of his age, was admitted on the applica-
+17 tion of another person, his release prior to becoming sixteen (16) years
+18 of age may be conditioned upon the consent of his parent or guardian; or
+19 (b) Any patient under eighteen (18) years of age must be released with
+20 the consent of the patient's parent or guardian; or
+21 (c) If the director of the facility determines that the patient should
+22 be hospitalized under the provisions of this chapter, the patient may be
+23 detained up to three (3) days, excluding Saturdays, Sundays and legal
+24 holidays, for the purpose of examination by a designated examiner and
+25 the filing of an application for continued care and treatment.
+26 (2) Notwithstanding any other provision of this chapter, judicial pro-
+27 ceedings authorized by this chapter shall not be commenced with respect to
+28 a voluntary patient unless release of the patient has been requested by him-
+29 self or the individual who applied for his admission.
+30 (3) The date and time of any request for release under this section
+31 shall be entered in the patient's clinical record. If the request for
+32 release is denied, the reasons for denial also shall be entered in the pa-
+33 tient's clinical record.
+34 (4) A patient admitted for examination pursuant to section 18-211,
+35 Idaho Code, may not be released except for purposes of transportation back to
+36 the court ordering, or party authorizing, the examination.
+37 SECTION 9. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after its
+39 passage and approval.

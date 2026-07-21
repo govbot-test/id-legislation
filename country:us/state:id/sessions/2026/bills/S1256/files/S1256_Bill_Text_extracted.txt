@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1256
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE COMMISSION FOR THE BLIND AND VISUALLY IMPAIRED; PROVIDING
+3 LEGISLATIVE INTENT; REPEALING SECTION 67-5414, IDAHO CODE, RELATING TO
+4 REPORTS OF MEDICAL AUTHORITIES ESTABLISHING BLINDNESS; AND DECLARING
+5 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+8 of the Legislature to ensure that the state laws provided in Idaho Code are
+9 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+10 serving the public health, safety, and welfare. In accordance with the Idaho
+11 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+12 tified the provisions of this act as obsolete, outdated, or unnecessary.
+13 SECTION 2. That Section 67-5414, Idaho Code, be, and the same is hereby
+14 repealed.
+15 SECTION 3. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

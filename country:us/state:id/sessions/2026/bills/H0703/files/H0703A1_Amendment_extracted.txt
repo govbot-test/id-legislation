@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Lakey
+Seconded by Foreman
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 703
+1 AMENDMENT TO THE BILL
+2 On page 8 of the printed bill, following line 25, insert:
+3 "SECTION 5. That Section 54-1220, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 54-1220. DISCIPLINARY ACTION -- PROCEDURES. (1) Any affected party
+6 may prefer charges of fraud, deceit, gross negligence, incompetence, mis-
+7 conduct or violation of any provision of this chapter, or violation of any
+8 of the rules promulgated by the board, against any individual licensee or
+9 certificate holder or against any business entity holding a certificate of
+10 authorization or against a person applying for a license or against a busi-
+11 ness entity applying for a certificate of authorization. Repeated acts of
+12 negligence may be considered as a gross act for disciplinary action. Such
+13 charges shall be in writing and shall be sworn to by the person or persons
+14 making them and shall be filed with the executive director of the board. The
+15 executive director of the board shall be considered an affected party and may
+16 be the person making and filing the charges.
+17 (2) All charges, unless dismissed by the board as unfounded or de min-
+18 imis, or unless settled informally, shall be heard by the board within six
+19 (6) months after the date they were received at the board office unless such
+20 time is extended by the board for justifiable cause.
+21 (3) Administrative proceedings shall be governed by the provisions of
+22 chapter 52, title 67, Idaho Code.
+23 (4) (1) If, after After an administrative hearing, the board votes in
+24 favor of sustaining the charges, the board may, in its discretion, impose
+25 an administrative penalty, not to exceed five thousand dollars ($5,000) for
+26 deposit in the general fund of the state of Idaho. In addition, the board, in
+27 its discretion, may admonish, reprimand, suspend, revoke, refuse to renew,
+28 refuse to grant, or any combination thereof, the individual's license or
+29 certificate or a business entity's certificate of authorization. The board
+30 may also, in its discretion, require the an individual to practice under the
+31 supervision of another licensee or require the individual to successfully
+32 complete continuing education courses as may be prescribed by the board.
+33 (5) (2) Notwithstanding the provisions of subsection (4) (1) of this
+34 section, any person who has violated the recordkeeping or continuing pro-
+35 fessional development requirements imposed by the rules of the board may, in
+36 lieu of disciplinary proceedings under this chapter or chapter 52, title 67,
+37 Idaho Code, elect to pay the board a penalty in the amount of four hundred
+38 dollars ($400) for a first-time violation. Upon successful completion of
+39 the recordkeeping or continuing professional development requirements and
+40 payment of the penalty, the violation shall not be considered disciplinary
+
+2
+1 action under the provisions of this section and shall not be reported to any
+2 national disciplinary database.
+3 (6) The board shall have jurisdiction over licensees and certificate
+4 holders whose licenses and certificates are not current, provided the action
+5 relates to services performed when the license was current and valid.";
+6 and renumber subsequent sections accordingly.
+7 On page 40, delete lines 3 and 4.
+8 CORRECTION TO TITLE
+9 On page 1, in line 10, following "SURVEYORS;" insert: "AMENDING SEC-
+10 TION 54-1220, IDAHO CODE, TO REVISE PROVISIONS REGARDING DISCIPLINARY AC-
+11 TIONS AND PROCEDURES;".
+12 On page 2, in line 28, delete "REPEALING SECTION 54-1220, IDAHO CODE,
+13 RELATING TO DISCI-"; and in line 29, delete "PLINARY ACTIONS AND PROCE-
+14 DURES;".

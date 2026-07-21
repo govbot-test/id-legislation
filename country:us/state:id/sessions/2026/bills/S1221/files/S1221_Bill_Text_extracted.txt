@@ -1,0 +1,407 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1221
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO PERSI; AMENDING SECTION 59-1302, IDAHO CODE, TO REVISE A DEFI-
+3 NITION REGARDING WHO IS NOT CONSIDERED AN EMPLOYEE AND TO MAKE TECHNI-
+4 CAL CORRECTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+5 DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 59-1302, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 59-1302. DEFINITIONS. (1) As used in this chapter, each of the terms
+10 defined in this section shall have the meaning given in this section unless a
+11 different meaning is clearly required by the context.
+12 (2) "Active member" means any employee who is not establishing the
+13 right to receive benefits through his or her employer's participation in any
+14 other retirement system established for Idaho public employees, if such par-
+15 ticipation is mandated by applicable Idaho statutes other than this chapter.
+16 In no case will an employee be entitled to any benefit under this chapter
+17 for public service if such employee is establishing retirement benefit en-
+18 titlements by other Idaho statutes or federal statutes other than military
+19 service or social security for that same service.
+20 (3) "Accumulated contributions" means the sum of amounts contributed
+21 by a member of the system, together with regular interest credit thereon.
+22 (4) "Actuarial equivalent" means a benefit equal in value to another
+23 benefit, when computed on the basis of the actuarial tables in use by the sys-
+24 tem.
+25 (5) "Actuarial tables" means such tables as shall have been adopted by
+26 the board in accordance with recommendations of the actuary.
+27 (5A) "Alternate payee" means a spouse or former spouse of a member who is
+28 recognized by an approved domestic retirement order as having a right to all
+29 or a portion of the accrued benefits in the retirement system with respect to
+30 such member.
+31 (5B) "Approved domestic retirement order" means a domestic retirement
+32 order that creates or recognizes the existence of an alternate payee's right
+33 or assigns to an alternate payee the right to all or a portion of the accrued
+34 benefits of a member under the retirement system, that directs the system to
+35 establish a segregated account or disburse benefits to an alternate payee,
+36 and that the executive director of the retirement system has determined
+37 meets the requirements of sections 59-1319 and 59-1320, Idaho Code.
+38 (5C) "Average monthly salary" means the member's average salary during
+39 the base period as calculated pursuant to rules adopted by the retirement
+40 board.
+41 (5D) (a) "Base period" means the period of fifty-four (54) consecutive
+42 calendar months during which the member earned:
+
+2
+1 (i) The highest average salary; and
+2 (ii) Membership service of at least one-half (1/2) the number of
+3 months in the period, excluding months of service attributable to:
+4 A. Military service;
+5 B. Service qualifying as minimum benefit pursuant to sec-
+6 tion 59-1342(5), Idaho Code; and
+7 C. Worker's compensation income benefits.
+8 (b) Effective October 1, 1993, the consecutive calendar months shall be
+9 forty-eight (48). Effective October 1, 1994, the consecutive calendar
+10 months shall be forty-two (42).
+11 (c) Entitlement to a base period shall not vest until the effective date
+12 of that base period. The retirement benefits shall be calculated on the
+13 amounts, terms and conditions in effect at the date of the final contri-
+14 bution by the member.
+15 (d) If no base period exists for a member, the member's average monthly
+16 salary shall be determined by the board, using standards not inconsis-
+17 tent with those established in this subsection.
+18 (e) To assure equitable treatment for all members, salary increments
+19 inconsistent with usual compensation patterns may be disallowed by the
+20 board in determining average monthly salary and base period.
+21 (6) "Beneficiary" means the person who is nominated by the written des-
+22 ignation of a member, duly executed and filed with the board, to receive the
+23 death benefit.
+24 (7) "Calendar year" means twelve (12) calendar months commencing on the
+25 first day of January.
+26 (7A) "Contingent annuitant" means the person designated by a member un-
+27 der certain retirement options to receive benefit payments upon the death of
+28 the member. The person so designated must be born and living on the effective
+29 date of retirement.
+30 (8) "Credited service" means the aggregate of membership service,
+31 prior service and disabled service.
+32 (9) "Date of establishment" means July 1, 1965, or a later date estab-
+33 lished by the board or statute.
+34 (10) "Death benefit" means the amount, if any, payable upon the death of
+35 a member.
+36 (11) "Disability retirement allowance" means the periodic payment be-
+37 coming payable to a member who meets all applicable eligibility requirements
+38 for disability retirement.
+39 (12) "Disabled" means:
+40 (a) That the member is prevented from engaging in any occupation or em-
+41 ployment for remuneration or profit as a result of bodily injury or dis-
+42 ease, either occupational or nonoccupational in cause, but excluding
+43 disabilities resulting from service in the armed forces of any country
+44 other than the United States, or from an intentionally self-inflicted
+45 injury; and
+46 (b) That the member will likely remain so disabled permanently and con-
+47 tinuously during the remainder of the member's life.
+48 It is not necessary that a person be absolutely helpless or entirely unable
+49 to do anything worthy of compensation to be considered disabled. If the per-
+50 son is so disabled that substantially all the avenues of employment are rea-
+
+3
+1 sonably closed to the person, that condition is within the meaning of "dis-
+2 abled." In evaluating whether a person is disabled, medical factors and non-
+3 medical factors, including but not limited to education, economic and social
+4 environment, training, and usable skills, may be considered.
+5 Refusal to submit to a medical examination ordered by the board before the
+6 commencement of a disability retirement allowance or at any reasonable time
+7 thereafter shall constitute proof that the member is not disabled. The board
+8 shall be empowered to select for such medical examination one (1) or more
+9 physicians or surgeons who are licensed to practice medicine and perform
+10 surgery. The fees and expenses of such examination shall be paid from the
+11 administration account of the fund. No member shall be required to undergo
+12 such examination more often than once each year after he has received a dis-
+13 ability retirement allowance continuously for two (2) years.
+14 (12A) "Disabled service" means the total number of months elapsing from
+15 the first day of the month next succeeding the final contribution of a member
+16 prior to receiving a disability retirement allowance to the first day of the
+17 month following the date of termination of such disability retirement al-
+18 lowance. During such period, the member shall remain classified in the mem-
+19 bership category held during the month of final contribution. The total num-
+20 ber of months of disabled service credited for a person first becoming dis-
+21 abled after the effective date of this chapter shall not exceed the excess,
+22 if any, of three hundred sixty (360) over the total number of months of prior
+23 service and membership service.
+24 (12B) "Domestic retirement order" means any judgment, decree, or order,
+25 including approval of a property settlement agreement, that relates to the
+26 provision of marital property rights to a spouse or former spouse of a mem-
+27 ber and is made pursuant to a domestic relations law, including the community
+28 property law of the state of Idaho or of another state.
+29 (13) "Early retirement allowance" means the periodic payment becoming
+30 payable to a member who meets all applicable eligibility requirements for
+31 early retirement.
+32 (13A) "Early retirement" means retirement by a member prior to age sixty
+33 (60) years for police officer members or age sixty-five (65) years for gen-
+34 eral members.
+35 (14)(A) "Employee" means:
+36 (a) Any person who normally works twenty (20) hours or more per week for
+37 an employer, or a schoolteacher who works half-time or more for an em-
+38 ployer and who receives salary for services rendered for such employer;
+39 (b) Elected officials or appointed officials of an employer who receive
+40 a salary;
+41 (c) A person who is separated from service with fewer than five (5)
+42 consecutive months of employment and who is reemployed or reinstated by
+43 an employer participating in the public employee retirement system of
+44 Idaho (PERSI) within thirty (30) days; or
+45 (d) A person receiving differential wage payments as defined in 26
+46 U.S.C. 3401(h) on or after July 1, 2009. A differential wage payment
+47 generally refers to an employer payment to an employee called to active
+48 duty in the uniformed services for more than thirty (30) days that rep-
+49 resents all or a portion of the compensation he would have received from
+50 the employer if he were performing services for the employer.
+
+4
+1 (B) "Employee" does not include employment as:
+2 (a) A person rendering service to an employer in the capacity of an in-
+3 dependent business, trade or profession; or
+4 (b) A person whose employment with any employer does not total five (5)
+5 consecutive months; or
+6 (c) A person provided sheltered employment or make-work employment by
+7 a public employer in an employment or industries program maintained for
+8 the benefit of such person; or
+9 (d) An inmate of a state institution, whether or not receiving compen-
+10 sation for services performed for the institution; or
+11 (e) A student enrolled in an undergraduate, graduate, or career tech-
+12 nical program at and employed by a state college, university, community
+13 college or career technical center when such employment is predicated
+14 on student status; or
+15 (f) A person making contributions to the director of the office of per-
+16 sonnel management under the United States civil service system retire-
+17 ment act, except that a person who receives separate remuneration for
+18 work currently performed for an employer and the United States govern-
+19 ment may elect to be a member of the retirement system, in accordance
+20 with rules of the board; or
+21 (g) A person not under contract with a school district or charter school
+22 who on a day-to-day basis works as a substitute teacher replacing a con-
+23 tracted teacher and is paid a substitute wage as established by district
+24 policy or who on a day-to-day basis works as a substitute assistant re-
+25 placing a staff instruction assistant or a staff library assistant and
+26 is paid a substitute wage as established by district policy; or
+27 (h) A person occupying a position that does not exceed eight (8) consec-
+28 utive months in a calendar year with a city, county, irrigation district
+29 or drainage entity, cemetery district, soil and water conservation dis-
+30 trict, or mosquito abatement district when the city, county, irrigation
+31 district or drainage entity, cemetery district, soil and water conser-
+32 vation district, or mosquito abatement district has certified, in writ-
+33 ing to the system, the position is: (i) seasonal or casual; and (ii)
+34 affected by weather, including parks positions, golf course positions,
+35 invasive species inspection positions, and irrigation positions; or
+36 (i) A person in a position that: (i) is eligible for participation in
+37 an optional retirement program established under section 33-107A or
+38 33-107B, Idaho Code; or (ii) would be eligible for participation in
+39 an optional retirement program established under section 33-107A or
+40 33-107B, Idaho Code, if the person was not working less than half-time
+41 or fewer than twenty (20) hours per week.
+42 (15) "Employer" means the state of Idaho or any political subdivision
+43 or governmental entity, provided such subdivision or entity has elected to
+44 come into the system. Governmental entity means any organization composed
+45 of units of government of Idaho or organizations funded only by government
+46 or employee contributions or organizations that discharge governmental re-
+47 sponsibilities or proprietary responsibilities that would otherwise be per-
+48 formed by government. All governmental entities are deemed to be political
+49 subdivisions for the purpose of this chapter. Provided however, that on and
+50 after the effective date of this act, all new employers added to the public
+
+5
+1 employee retirement system PERSI must be in compliance with internal revenue
+2 regulations governing governmental retirement plans.
+3 (15A) "Final contribution" means the final contribution made by a mem-
+4 ber pursuant to sections 59-1331 through 59-1334, Idaho Code.
+5 (16) "Firefighter" means:
+6 (a) An employee, including paid firefighters hired on or after October
+7 1, 1980, whose primary occupation is that of preventing and extinguish-
+8 ing fires as determined by the rules of the board; or
+9 (b) The state fire marshal or the state fire marshal's deputies.
+10 (17) "Fiscal year" means the period beginning on July 1 in any year and
+11 ending on June 30 of the next succeeding year.
+12 (18) "Fund" means the public employee retirement fund established by
+13 this chapter.
+14 (19) "Funding agent" means any bank or banks, trust company or trust
+15 companies, legal reserve life insurance company or legal reserve life insur-
+16 ance companies, or combinations thereof, any thrift institution or credit
+17 union or any investment management firm or individual investment manager
+18 selected by the board to hold and/or invest the employers' and members' con-
+19 tributions and to pay certain benefits granted under this chapter.
+20 (20) "Inactive member" means a former active member who is not an em-
+21 ployee and is not receiving any form of retirement allowance, who has not re-
+22 quested a separation benefit, or for whom a separation benefit has not become
+23 payable.
+24 (20A) "Ineligible" means:
+25 (a) Not eligible to participate and not required to contribute as an em-
+26 ployee when:
+27 (i) The employer is not a current member of the public employee
+28 retirement system of Idaho (PERSI) PERSI;
+29 (ii) The employee is not an employee as defined in subsection (14)
+30 of this section; or
+31 (iii) The employee is participating in the judges retirement fund,
+32 the firefighters retirement fund or the optional retirement plan;
+33 (b) Not eligible for retirement where there has been no termination of
+34 employment from an employer participating in PERSI, the judges retire-
+35 ment fund, the firefighters retirement fund or the optional retirement
+36 plan or where there has been a withdrawn employer; or
+37 (c) Not eligible to receive a separation benefit where there has been
+38 no termination of employment from an employer participating in PERSI,
+39 the judges retirement fund, the firefighters retirement fund or the op-
+40 tional retirement plan or where there has been a withdrawn employer.
+41 All state agencies, political subdivisions or governmental entities
+42 that qualify as an employer as defined in subsection (15) of this section
+43 or prior to April 4, 2017, were considered an employer and are currently
+44 participating in PERSI are, for purposes of PERSI, deemed one (1) employer
+45 beginning on the effective date of this act.
+46 (20B) "Lifetime annuity" means periodic monthly payments of income by
+47 the retirement system to an alternate payee.
+48 (20C) "Lump sum distribution" means a payment by the retirement system
+49 of the entire balance in the alternate payee's segregated account, together
+50 with regular interest credited thereon.
+
+6
+1 (21) "Member" means an active member, inactive member or a retired mem-
+2 ber.
+3 (22) "Membership service" means military service that occurs after
+4 the commencement of contributions payable under sections 59-1331 through
+5 59-1334, Idaho Code, and service with respect to which contributions are
+6 payable under sections 59-1331 through 59-1334, Idaho Code, which, except
+7 for benefit calculations described in sections 59-1342 and 59-1353, Idaho
+8 Code, includes service transferred to a segregated account under an approved
+9 domestic retirement order.
+10 (23) "Military service" means any period of active duty service in the
+11 armed forces of the United States, including the national guard and re-
+12 serves, under the provisions of titles 10, 32, and 37, U.S.C., that commences
+13 fewer than ninety (90) days after the person ceases to be an employee and
+14 ends fewer than ninety (90) days before the person again becomes an employee.
+15 Provided, if a member fails to again become an employee as a result of his
+16 death while in active duty service, the member shall be entitled to military
+17 service through the date of death. Provided further, if a member fails to
+18 again become an employee due to a disability retirement resulting from ser-
+19 vice in the armed forces of the United States, the member shall be entitled to
+20 military service through the date the disability allowance becomes payable.
+21 In no event shall military service include:
+22 (a) Any period ended by dishonorable discharge or during which termina-
+23 tion of such service is available but not accepted; or
+24 (b) Any active duty service in excess of five (5) years if at the conve-
+25 nience of the United States government, or in excess of four (4) years
+26 if not at the convenience of the United States government, provided
+27 additional membership service may be purchased as provided in section
+28 59-1362, Idaho Code.
+29 (24)(a) "Police officer" for retirement purposes shall be as defined in
+30 section 59-1303, Idaho Code.
+31 (b) "POST" means the Idaho peace officer standards and training council
+32 established in chapter 51, title 19, Idaho Code.
+33 (25) "Prior service" means any period prior to July 1, 1965, of military
+34 service or of employment for the state of Idaho or any political subdivision
+35 or other employer of each employee who is an active member or in military ser-
+36 vice or on leave of absence on the date of establishment, provided, however,
+37 an employee who was not an active member or in military service or on leave
+38 of absence on the date of establishment shall receive credit for the member's
+39 service prior to July 1, 1965, on the basis of recognizing two (2) months of
+40 such service for each month of membership service. For the purpose of com-
+41 puting such service, no deduction shall be made for any continuous period of
+42 absence from service or military service of six (6) months or less.
+43 (26) "Regular interest" means interest at the rate set from time to time
+44 by the board.
+45 (27) "Retired member" means a former active member receiving a retire-
+46 ment allowance.
+47 (28) "Retirement" means the acceptance of a retirement allowance under
+48 this chapter upon termination of employment and, unless otherwise provided
+49 by law, requires a termination of employment from an employer participating
+
+7
+1 in PERSI, the judges retirement fund, the firefighters retirement fund or
+2 the optional retirement plan.
+3 (29) "Retirement board" or "board" means the board provided for in sec-
+4 tions 59-1304 and 59-1305, Idaho Code, that administers the retirement sys-
+5 tem.
+6 (30) "Retirement system" or "system" means the public employee retire-
+7 ment system of Idaho.
+8 (31)(A) "Salary" means:
+9 (a) The total salary or wages paid to a person who meets the definition
+10 of employee by an employer for personal services performed and reported
+11 by the employer for income tax purposes, including the cash value of all
+12 remuneration in any medium other than cash.
+13 (b) The total amount of any voluntary reduction in salary agreed to by
+14 the member and employer where the reduction is used as an alternative
+15 form of remuneration to the member.
+16 (B) Salary in excess of the compensation limitations set forth in sec-
+17 tion 401(a)(17) of the Internal Revenue Code shall be disregarded for any
+18 person who becomes a member of the system on or after July 1, 1996. The sys-
+19 tem had no limitations on compensation in effect on July 1, 1993. The compen-
+20 sation limitations set forth in section 401(a)(17) of the Internal Revenue
+21 Code shall not apply for an eligible employee. For purposes of this subsec-
+22 tion, "eligible employee" is an individual who was a member of the system be-
+23 fore July 1, 1996.
+24 (C) "Salary" does not include:
+25 (a) Contributions by employers to employee-held medical savings ac-
+26 counts, as those accounts are defined in section 63-3022K, Idaho Code.
+27 (b) Lump sum payments inconsistent with usual compensation patterns
+28 made by the employer to the employee only upon termination from service,
+29 including, but not limited to, vacation payoffs, sick leave payoffs,
+30 early retirement incentive payments and bonuses.
+31 (c) Differential wage payments as defined in 26 U.S.C. 3401(h). A dif-
+32 ferential wage payment generally refers to an employer payment to an
+33 employee called to active duty in the uniformed services for more than
+34 thirty (30) days that represents all or a portion of the compensation he
+35 would have received from the employer if he were performing services for
+36 the employer.
+37 (d) Employer payments to employees for or related to travel, mileage,
+38 meals, lodging or subsistence expenses without regard to the taxabil-
+39 ity of such payments for federal income tax purposes and without regard
+40 to the form of payment, including payment made as reimbursement of an
+41 itemized expense voucher and payment made of an unvouchered expense al-
+42 lowance.
+43 (31A) "School employee" means any employee of any school district or
+44 charter school employed as instructional staff, pupil service staff, or pro-
+45 fessionally endorsed staff and any staff holding a certificate pursuant to
+46 section 33-1201A, Idaho Code, and school bus drivers and resource officers,
+47 subject to the provisions of subsection (14) of this section.
+48 (31B) "Segregated account" means the account established by the retire-
+49 ment system for the alternate payee of a member who is not a retired member.
+
+8
+1 It shall include the months of credited service and accumulated contribu-
+2 tions transferred from the member's account.
+3 (32) "Separation benefit" means the amount, if any, pursuant to section
+4 59-1359, Idaho Code.
+5 (33) "Service" means being shown on an employer's payroll as an employee
+6 receiving a salary. For each calendar month, service is credited only when a
+7 member is an employee as defined in subsection (14)(A) of this section and is
+8 employed for fifteen (15) days or more during the calendar month. Employment
+9 of fourteen (14) days or less during any calendar month shall not be cred-
+10 ited. No more than one (1) month of service shall be credited for all service
+11 in any month.
+12 (34) "Service retirement allowance" means the periodic payment becom-
+13 ing payable upon an active member's ceasing to be an employee while eligible
+14 for service retirement.
+15 (34A) "Service retirement" means retirement by a member at or after age
+16 sixty (60) years for police officer members or at or after age sixty-five
+17 (65) years for general members.
+18 (35) "State" means the state of Idaho.
+19 (35A) "Termination from employment" means the employee has separated
+20 from employment, the employee has ended service with the employer and the em-
+21 ployer has notified PERSI of the termination.
+22 (36) "Vested member" means an active or inactive member who has at least
+23 five (5) years of credited service, except that a member who at the time of
+24 his separation from service:
+25 (a) Held an office to which he had been elected by popular vote or having
+26 a term fixed by the constitution, statute or charter or was appointed to
+27 such office by an elected official; or
+28 (b) Was the head or director of a department, division, agency, statu-
+29 tory section or bureau of the state; or
+30 (c) Was employed on or after July 1, 1965, by an elected official of
+31 the state of Idaho and occupied a position exempt from the provisions of
+32 chapter 53, title 67, Idaho Code; and
+33 (d) Was not covered by a merit system for employees of the state of
+34 Idaho;
+35 is vested without regard to the length of credited service.
+36 (37) The masculine pronoun, wherever used, shall include the feminine
+37 pronoun.
+38 SECTION 2. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2026.

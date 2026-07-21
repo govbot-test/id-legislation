@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1369
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO PLACE OF TRIAL OF CIVIL ACTIONS; REPEALING SECTION 5-404, IDAHO
+3 CODE, RELATING TO OTHER ACTIONS, VENUE, AND CERTAIN EXCEPTIONS; AMEND-
+4 ING CHAPTER 4, TITLE 5, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+5 5-404, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING OTHER ACTIONS,
+6 VENUE, AND CERTAIN EXCEPTIONS; AND DECLARING AN EMERGENCY AND PROVIDING
+7 AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 5-404, Idaho Code, be, and the same is hereby
+10 repealed.
+11 SECTION 2. That Chapter 4, Title 5, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 5-404, Idaho Code, and to read as follows:
+14 5-404. OTHER ACTIONS -- VENUE -- EXCEPTIONS. (1) Except as otherwise
+15 provided by this chapter or other provisions of law, a plaintiff shall bring
+16 an action in the county in which:
+17 (a) The cause of action arises; or
+18 (b) Any defendant resides at the commencement of the action.
+19 (2) If none of the defendants reside in the state of Idaho at the time of
+20 the cause of the action, or prior to the filing of the complaint, the action
+21 may be brought in any county, which the plaintiff may designate in the com-
+22 plaint.
+23 (3) Actions against life or fire insurance companies may be filed in the
+24 county where the death occurred or the loss was sustained.
+25 (4) Actions against any corporation organized under the laws of the
+26 state of Idaho shall be filed in any county where the defendant has its prin-
+27 cipal place of business or in the county in which the cause of action arose.
+28 (5) Nothing in this chapter shall limit the power of the court to change
+29 the place of trial, as otherwise provided by law.
+30 SECTION 3. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after
+32 July 1, 2026.

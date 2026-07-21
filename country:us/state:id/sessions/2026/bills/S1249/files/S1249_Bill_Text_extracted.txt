@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1249
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO JUVENILE CORRECTIONS; PROVIDING LEGISLATIVE INTENT; AMENDING
+3 SECTION 20-524A, IDAHO CODE, TO REMOVE OUTDATED LANGUAGE; AND DECLARING
+4 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+7 of the Legislature to ensure that the state laws provided in Idaho Code are
+8 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+9 serving the public health, safety, and welfare. In accordance with the Idaho
+10 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+11 tified the provisions of this act as obsolete, outdated, or unnecessary.
+12 SECTION 2. That Section 20-524A, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 20-524A. DEPARTMENT'S PAYMENT OF DETENTION COSTS. If the juvenile of-
+15 fender is committed to the custody of the department of juvenile corrections
+16 pursuant to chapter 5, title 20, Idaho Code, the department shall reimburse
+17 the county for the period of time in excess of five (5) calendar days during
+18 which the juvenile offender is housed at a detention center. This time pe-
+19 riod shall begin to run on the first business day the department receives a
+20 copy of the order of commitment, executed by the court. Orders received by
+21 the department after 3 o'clock p.m., mountain standard time, on a business
+22 day, will be considered to have been received the next business day. Facsim-
+23 ile transmissions of the order are acceptable.
+24 SECTION 3. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

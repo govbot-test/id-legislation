@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 595
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 1, TITLE 33, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 33-144, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING CARDIAC EMERGENCY RESPONSE PROGRAMS; AND DECLARING AN EMER-
+5 GENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 1, Title 33, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 33-144, Idaho Code, and to read as follows:
+10 33-144. CARDIAC EMERGENCY RESPONSE PROGRAM. (1) As used in this sec-
+11 tion:
+12 (a) "Automated external defibrillator" or "AED" means a lightweight,
+13 portable device that delivers an electric shock through the chest to the
+14 heart. The shock can potentially stop an irregular heartbeat and allow
+15 a normal rhythm to resume following cardiac arrest.
+16 (b) "Cardiac arrest" means any event that occurs when the heart mal-
+17 functions and stops beating unexpectedly, which if not treated within
+18 minutes quickly leads to death.
+19 (c) "Cardiac emergency response plan" or "CERP" means a written docu-
+20 ment that establishes the specific steps to reduce death from cardiac
+21 arrest in any setting.
+22 (d) "School" means all public school districts and public charter
+23 schools in the state of Idaho.
+24 (2) The state department of education shall collaborate with school
+25 district leadership and the Idaho high school activities association to
+26 develop and provide guidelines for a cardiac emergency response plan and
+27 incorporation of cardiac emergency response plans into current emergency
+28 response policies.
+29 (3)(a) Beginning in the 2026-2027 school year, each school shall de-
+30 velop a CERP addressing the appropriate use of school personnel to re-
+31 spond to incidents involving an individual experiencing cardiac arrest
+32 or similar life-threatening emergencies on school grounds.
+33 (b) All CERPs shall incorporate evidence-based standards and core ele-
+34 ments recommended by nationally recognized bodies, such as those recom-
+35 mended by the american heart association or other organizations focused
+36 on emergency cardiovascular care.
+37 (c) AEDs shall be placed in accordance with the CERP on school grounds
+38 and facilities in an unlocked and accessible location so as to have the
+39 ability to be placed on a victim within three (3) minutes of recognition
+40 of sudden cardiac arrest.
+41 (d) AEDs shall be tested and maintained in accordance with manufacturer
+42 guidelines, and all maintenance records and information regarding the
+
+2
+1 device may be provided to emergency medical services and other first re-
+2 sponders and emergency response workers.
+3 (e) Appropriate school staff shall be trained in first aid, CPR, and
+4 AED use that follows evidence-based guidelines set forth by the ameri-
+5 can heart association or an organization focused on emergency cardio-
+6 vascular care. Staff trained shall be determined by the CERP, including
+7 but not limited to coaches, school nurses, health and physical educa-
+8 tion instructors, athletic trainers, and administrators.
+9 (4)(a) Beginning in the 2026-2027 school year, each school with an
+10 athletic department or organized athletic program or participating in
+11 organized athletics shall develop a CERP that addresses the appropriate
+12 use of school personnel to respond to incidents involving an individual
+13 experiencing cardiac arrest or a similar life-threatening emergency
+14 while attending or participating in an athletic practice or event while
+15 on school grounds or school athletic facilities that are venue-spe-
+16 cific.
+17 (b) An AED shall be clearly marked and easily accessible in an unlocked
+18 location at each school athletic venue and event. The AED shall be ac-
+19 cessible during any school-sponsored athletic event or team practice in
+20 which pupils of the school are participating.
+21 (c) AEDs shall be tested and maintained in accordance with manufacturer
+22 guidelines, and all maintenance records and information regarding the
+23 device may be provided to emergency medical services and other first re-
+24 sponders and emergency response workers.
+25 (d) All coaches shall obtain and maintain training in CPR, first aid,
+26 and the use of AEDs. Certification in CPR and AED use shall be consis-
+27 tent with national evidence-based emergency cardiovascular care guide-
+28 lines.
+29 (5) The state department of education or local school board may estab-
+30 lish a procedure for monitoring adherence to the requirements set forth in
+31 this section.
+32 (6) A local school board may accept gifts, grants, and donations, in-
+33 cluding in-kind donations, designated for the purchase of an AED that meets
+34 the standards established by the United States food and drug administration
+35 and for the costs incurred to inspect and maintain such device and train
+36 staff in the use of such device.
+37 (7) All persons administering or adhering to this section shall be im-
+38 mune from civil liability in accordance with chapter 7, title 39, Idaho Code.
+39 SECTION 2. An emergency existing therefor, which emergency is hereby
+40 declared to exist, this act shall be in full force and effect on and after
+41 July 1, 2026.

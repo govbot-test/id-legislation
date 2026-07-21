@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 690
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO THE ATTORNEY GENERAL; AMENDING SECTION 67-1401, IDAHO CODE, TO
+3 REMOVE A PROVISION REGARDING SOBRIETY AND DRUG MONITORING PROGRAMS;
+4 REPEALING SECTIONS 67-1412 THROUGH 67-1416, IDAHO CODE, RELATING TO
+5 SOBRIETY AND DRUG MONITORING PROGRAMS; AND DECLARING AN EMERGENCY AND
+6 PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 67-1401, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 67-1401. DUTIES OF ATTORNEY GENERAL. Except as otherwise provided in
+11 this chapter, it is the duty of the attorney general:
+12 (1) To perform all legal services for the state and to represent the
+13 state and all departments, agencies, offices, officers, boards, commis-
+14 sions, institutions and other state entities in all courts and before all
+15 administrative tribunals or bodies of any nature. Representation shall be
+16 provided to those entities exempted pursuant to the provisions of section
+17 67-1406, Idaho Code. Whenever required to attend upon any court or adminis-
+18 trative tribunal, the attorney general shall be allowed necessary and actual
+19 expenses, all claims for which shall be audited by the state board of exam-
+20 iners.
+21 (2) To advise all departments, agencies, offices, officers, boards,
+22 commissions, institutions and other state entities in all matters involving
+23 questions of law.
+24 (3) After judgment in any of the causes referred to in this chapter, to
+25 direct the issuing of such process as may be necessary to carry the same into
+26 execution.
+27 (4) To account for and pay over to the proper officer all moneys re-
+28 ceived that belong to the state.
+29 (5) To enforce the Idaho charitable solicitation act, chapter 12, ti-
+30 tle 48, Idaho Code, and the Idaho nonprofit hospital sale or conversion act,
+31 chapter 15, title 48, Idaho Code; to supervise charitable organizations, as
+32 such term is defined in section 48-1903(4), Idaho Code; and to enforce when-
+33 ever necessary any noncompliance or departure from the charitable purpose of
+34 such charitable organizations as set forth and provided in chapter 19, title
+35 48, Idaho Code.
+36 (6) To give an opinion in writing, without fee, to the legislature or
+37 either house thereof or any senator or representative and to the governor,
+38 secretary of state, treasurer, state controller, and the superintendent of
+39 public instruction, when requested, on any question of law relating to their
+40 respective offices. The attorney general shall keep a record of all written
+41 opinions rendered by the office and such opinions shall be compiled annually
+42 and made available for public inspection. All costs incurred in the prepara-
+
+2
+1 tion of said opinions shall be borne by the office of the attorney general. A
+2 copy of the opinions shall be furnished to the supreme court and to the state
+3 librarian.
+4 (7) When required by the public service, to repair to any county in the
+5 state and assist the prosecuting attorney thereof in the discharge of du-
+6 ties.
+7 (8) To bid on and purchase, when necessary, in the name of the state and
+8 under the direction of the state controller, any property offered for sale
+9 under execution issued upon judgments in favor of or for the use of the state
+10 and to enter satisfaction in whole or in part of such judgments as the consid-
+11 eration for such purchases.
+12 (9) Whenever the property of a judgment debtor in any judgment men-
+13 tioned in subsection (8) of this section has been sold under a prior judg-
+14 ment, or is subject to any judgment, lien, or encumbrance, taking precedence
+15 of the judgment in favor of the state, under the direction of the state
+16 controller, to redeem such property from such prior judgment, lien, or en-
+17 cumbrance; and all sums of money necessary for such redemption must, upon the
+18 order of the board of examiners, be paid out of any money appropriated for
+19 such purposes.
+20 (10) When necessary for the collection or enforcement of any judgment
+21 hereinbefore mentioned, to institute and prosecute, on behalf of the state,
+22 such suits or other proceedings as may be necessary to set aside and annul all
+23 conveyances fraudulently made by such judgment debtors; the cost necessary
+24 to the prosecution must, when allowed by the board of examiners, be paid out
+25 of any appropriations for the prosecution of delinquents.
+26 (11) To exercise all the common law power and authority usually apper-
+27 taining to the office and to discharge the other duties prescribed by law.
+28 (12) To report to the governor the condition of the affairs of the attor-
+29 ney general's office and of the reports received from prosecuting attorneys.
+30 (13) To appoint deputy attorneys general and special deputy attorneys
+31 general and other necessary staff to assist in the performance of the du-
+32 ties of the office. Such deputies and staff shall be nonclassified employees
+33 within the meaning of section 67-5302, Idaho Code.
+34 (14) To establish a medicaid fraud control unit pursuant to the provi-
+35 sions of section 56-226, Idaho Code, and to exercise concurrent investiga-
+36 tive and prosecutorial authority and responsibility with county prosecutors
+37 to prosecute persons for the violation of the criminal provisions of chap-
+38 ter 2, title 56, Idaho Code, and for criminal offenses that are not defined in
+39 chapter 2, title 56, Idaho Code, but that involve or are directly related to
+40 the use of medicaid program funds or services provided through the medicaid
+41 program.
+42 (15) To seek injunctive and any other appropriate relief as expedi-
+43 tiously as possible to preserve the rights and property of the residents
+44 of the state of Idaho and to defend as necessary the state of Idaho, its
+45 officials, employees, and agents in the event that any law or regulation
+46 violating the public policy set forth in the Idaho health freedom act, chap-
+47 ter 90, title 39, Idaho Code, is enacted by any government, subdivision, or
+48 agency thereof.
+49 (16) To establish an internet crimes against children unit (ICAC) pur-
+50 suant to the provisions of section 67-1410, Idaho Code, and to exercise con-
+
+3
+1 current investigative and prosecutorial authority and responsibility with
+2 county prosecutors to prosecute persons for the violation of the criminal
+3 provisions of sections 18-1507, 18-1507A, 18-1507C, 18-1509A, 18-1513 and
+4 18-1515, Idaho Code.
+5 (17) To respond to allegations of any violation of state criminal law by
+6 elected county or city officers acting in their official capacity, to inves-
+7 tigate such claims, to issue appropriate findings, and to retain such cases
+8 for further investigation and prosecution pursuant to sections 31-2002 and
+9 50-238, Idaho Code.
+10 (18) To establish a sobriety and drug monitoring program to reduce the
+11 number of people on Idaho's highways who drive under the influence of alco-
+12 hol or drugs, to reduce the number of repeat offenders for certain offenses
+13 in which the abuse of alcohol or drugs was a contributing factor, and to in-
+14 crease pretrial and posttrial options for prosecutors and judges in respond-
+15 ing to repeat DUI offenders and offenders for certain crimes in which the
+16 abuse of alcohol or drugs was a contributing factor in the commission of the
+17 crime; and to adopt such rules and establish such fees as are necessary for
+18 the operation of said program, as set forth by law.
+19 SECTION 2. That Section 67-1412, Idaho Code, be, and the same is hereby
+20 repealed.
+21 SECTION 3. That Section 67-1413, Idaho Code, be, and the same is hereby
+22 repealed.
+23 SECTION 4. That Section 67-1414, Idaho Code, be, and the same is hereby
+24 repealed.
+25 SECTION 5. That Section 67-1415, Idaho Code, be, and the same is hereby
+26 repealed.
+27 SECTION 6. That Section 67-1416, Idaho Code, be, and the same is hereby
+28 repealed.
+29 SECTION 7. An emergency existing therefor, which emergency is hereby
+30 declared to exist, this act shall be in full force and effect on and after
+31 July 1, 2026.

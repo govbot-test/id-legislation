@@ -1,0 +1,391 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1314
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE DEPARTMENT OF HEALTH AND WELFARE; AMENDING SECTION 56-1001,
+3 IDAHO CODE, TO REMOVE A CODE REFERENCE; AMENDING SECTION 56-1002, IDAHO
+4 CODE, TO REMOVE A PROVISION REGARDING SUBSTATE ADMINISTRATIVE REGIONS;
+5 REPEALING SECTION 56-1005, IDAHO CODE, RELATING TO THE BOARD OF HEALTH
+6 AND WELFARE; AMENDING SECTION 56-1006, IDAHO CODE, TO PROVIDE THAT
+7 CERTAIN REFERENCES TO THE BOARD OF HEALTH AND WELFARE SHALL MEAN THE
+8 DEPARTMENT OF HEALTH AND WELFARE AND TO PROVIDE THAT CERTAIN RULES SHALL
+9 REMAIN IN FULL FORCE AND EFFECT; AMENDING SECTION 59-904, IDAHO CODE,
+10 TO REVISE PROVISIONS REGARDING THE FILLING AND CONFIRMATION OF CERTAIN
+11 STATE OFFICES; AMENDING SECTION 39-3123, IDAHO CODE, TO REMOVE OBSOLETE
+12 LANGUAGE; REPEALING SECTION 39-3124, IDAHO CODE, RELATING TO THE IDAHO
+13 BEHAVIORAL HEALTH COOPERATIVE; AMENDING SECTION 39-3125, IDAHO CODE,
+14 TO REVISE PROVISIONS REGARDING THE STATE BEHAVIORAL HEALTH PLANNING
+15 COUNCIL AND TO REMOVE OBSOLETE LANGUAGE; AMENDING SECTION 39-3127,
+16 IDAHO CODE, TO REMOVE OBSOLETE LANGUAGE; AMENDING SECTION 39-3129,
+17 IDAHO CODE, TO REMOVE OBSOLETE LANGUAGE; AMENDING SECTION 39-3131,
+18 IDAHO CODE, TO REMOVE A PROVISION REGARDING REGIONAL BEHAVIORAL HEALTH
+19 BOARDS; REPEALING SECTION 39-3132, IDAHO CODE, RELATING TO ESTABLISH-
+20 MENT OF REGIONAL BEHAVIORAL HEALTH BOARDS; REPEALING SECTION 39-3133,
+21 IDAHO CODE, RELATING TO THE EXECUTIVE COMMITTEE OF THE REGIONAL BEHAV-
+22 IORAL HEALTH BOARDS; REPEALING SECTION 39-3134, IDAHO CODE, RELATING TO
+23 MEMBERS, TERMS, AND APPOINTMENT OF REGIONAL BEHAVIORAL HEALTH BOARDS;
+24 REPEALING SECTION 39-3135, IDAHO CODE, RELATING TO POWERS AND DUTIES;
+25 AND DECLARING AN EMERGENCY.
+26 Be It Enacted by the Legislature of the State of Idaho:
+27 SECTION 1. That Section 56-1001, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 56-1001. DEFINITIONS. Whenever used or referred to in this chapter,
+30 unless a different meaning clearly appears from the context, the following
+31 terms shall have the following meanings:
+32 (1) "Biological agent" means a bacterium, virus, fungus, protozoan,
+33 parasite, or other microorganism and associated toxins with the ability to
+34 adversely affect human health or cause death.
+35 (2) "Board" means the board of health and welfare as created in section
+36 56-1005, Idaho Code.
+37 (3) "Chemical agent" means any chemical that through its chemical ac-
+38 tion on life processes can cause death, temporary incapacitation, or perma-
+39 nent harm to humans or animals.
+40 (4) "Department" means the department of health and welfare.
+41 (5) "Director" means the director of the department of health and wel-
+42 fare.
+
+2
+1 (6) "Isolation" means the separation of a person diagnosed with an in-
+2 fectious or a communicable disease, presenting medically unknown symptoms,
+3 or contaminated from a chemical, nuclear, or biological agent for a period of
+4 time limited to when the person is infectious, displaying medically unknown
+5 symptoms, or contaminated.
+6 (7) "Laboratory" means not only facilities for biological, serologi-
+7 cal, biophysical, cytological and pathological tests but also facilities
+8 for the chemical or other examination of materials from water, air or other
+9 substances.
+10 (8) "Medically unknown symptoms" means symptoms that are or could be
+11 suggestive of an infectious or communicable disease and that do not suffi-
+12 ciently reveal the structural or other specified pathology of an illness on
+13 initial examination.
+14 (9) "Person" means any individual, association, partnership, firm,
+15 joint stock company, trust, estate, political subdivision, public or pri-
+16 vate corporation, state or federal governmental department, agency or
+17 instrumentality, or any other legal entity recognized by law as the subject
+18 of rights and duties.
+19 (10) "Public swimming pool" means an artificial structure, and its ap-
+20 purtenances, that contains water more than two (2) feet deep that is used or
+21 intended to be used for swimming or recreational bathing, and that is for the
+22 use of any segment of the public pursuant to a general invitation but not an
+23 invitation to a specific occasion or occasions. The term does not include
+24 a swimming pool operated solely for and in conjunction with a hotel, motel
+25 or other place of lodging, or a trailer park, apartment, condominium or any
+26 other residential facility containing multiple dwellings.
+27 (11) "Quarantine" means the separation of a person exposed to:
+28 (a) An infectious or a communicable disease;
+29 (b) Another person displaying medically unknown symptoms; or
+30 (c) Another person exposed to contamination from a chemical, nuclear,
+31 or biological agent;
+32 under circumstances likely to result in the spread of the disease, symptoms,
+33 or contaminant to the person who had such contact. The separation may last
+34 only for a reasonable period of time sufficient to determine whether or not
+35 the exposed person will become sick.
+36 (12) "Restricted access" means limited or disallowed access to an area:
+37 (a) That has been cordoned off;
+38 (b) At which signs have been posted limiting or disallowing access; or
+39 (c) To which entry or exit has in some other way been limited or blocked.
+40 (13) "State" means the state of Idaho.
+41 (14) "Substantive" means that which creates, defines or regulates the
+42 rights of any person or implements, interprets or prescribes law or policy,
+43 but does not include statements concerning only the internal management of
+44 the department and not affecting private rights or procedures available to
+45 the public.
+46 SECTION 2. That Section 56-1002, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+48 56-1002. DEPARTMENT OF HEALTH AND WELFARE -- CREATION -- ADMINISTRA-
+49 TIVE REGIONS. (1) There is created and established in the state government a
+
+3
+1 department of health and welfare which shall, for the purposes of section 20,
+2 article IV of the constitution of the state of Idaho, be an executive depart-
+3 ment of the state government. The executive and administrative power of this
+4 department shall be vested in the director of the department who shall be ap-
+5 pointed by and serve at the pleasure of the governor, with the advice and con-
+6 sent of the senate.
+7 (2) The department shall be organized into such administrative and gen-
+8 eral services divisions as may be necessary in order to efficiently adminis-
+9 ter the department. Each division shall be headed by a division administra-
+10 tor who shall be appointed by and serve at the pleasure of the director with
+11 the concurrence of the board. Any new bureau chief hired to head a bureau
+12 shall be appointed by and serve at the pleasure of the director with the con-
+13 currence of the board.
+14 (3) In order to provide more effective and economical access to the
+15 state health and social services by the people of Idaho, the governor is
+16 hereby authorized to establish substate administrative regions. In the
+17 designation of these regions specific consideration shall be given to the
+18 geographic and economic convenience of the citizens included therein. Each
+19 substate administrative region shall be headed by a regional director who
+20 shall be appointed by and serve at the pleasure of the director with the con-
+21 currence of the board.
+22 SECTION 3. That Section 56-1005, Idaho Code, be, and the same is hereby
+23 repealed.
+24 SECTION 4. That Section 56-1006, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 56-1006. TITLE SUPERSEDED. Except with respect to environmental pro-
+27 tection functions, wherever the words "board of health" or "board of health
+28 and welfare" appear in the Idaho Code, they shall mean the board department
+29 of health and welfare, and wherever the words "administrator of health"
+30 appear in the Idaho Code, they shall mean the director of the department of
+31 health and welfare, and wherever the words "department of health" appear
+32 in the Idaho Code, they shall mean the department of health and welfare.
+33 Notwithstanding any other provision of law to the contrary, all rulemaking
+34 vested in the board of health and welfare shall now be vested in the depart-
+35 ment. Nothing in this section shall be construed to invalidate or otherwise
+36 require repromulgation of any existing rules promulgated by the board of
+37 health and welfare. All existing rules promulgated by the board of health
+38 and welfare shall continue in full force and effect as if adopted by the
+39 department and shall remain in effect until amended or repealed by the de-
+40 partment, rejected by the legislature, or otherwise changed pursuant to law.
+41 SECTION 5. That Section 59-904, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 59-904. STATE OFFICES -- VACANCIES, HOW FILLED AND CONFIRMED. (a) All
+44 vacancies in any state office, and in the supreme and district courts, unless
+45 otherwise provided for by law, shall be filled by appointment by the gover-
+46 nor. Appointments to fill vacancies pursuant to this section shall be made
+
+4
+1 as provided in subsections (b), (c), (d), (e), (f) and (g) of this section,
+2 subject to the limitations prescribed in those subsections.
+3 (b) Nominations and appointments to fill vacancies occurring in the of-
+4 fice of lieutenant governor, state controller, state treasurer, superinten-
+5 dent of public instruction, attorney general and secretary of state shall be
+6 made by the governor, subject to the advice and consent of the senate, for
+7 the balance of the term of office to which the predecessor of the person ap-
+8 pointed was elected.
+9 (c) Nominations and appointments to and vacancies in the following
+10 listed offices shall be made or filled by the governor subject to the advice
+11 and consent of the senate for the terms prescribed by law, or in case such
+12 terms are not prescribed by law, then to serve at the pleasure of the gover-
+13 nor:
+14 Director of the department of administration,
+15 Director of the department of finance,
+16 Director of the department of insurance,
+17 Director, department of agriculture,
+18 Director of the department of water resources,
+19 Director of the Idaho state police,
+20 Director of the department of commerce,
+21 Director of the department of labor,
+22 Director of the department of environmental quality,
+23 Director of the department of juvenile corrections,
+24 Director of the department of health and welfare,
+25 Executive director of the commission of pardons and parole,
+26 The state historic preservation officer,
+27 The administrator of the division of human resources,
+28 Member of the state tax commission,
+29 Members of the board of regents of the university of Idaho and the state
+30 board of education,
+31 Members of the Idaho water resource board,
+32 Members of the state fish and game commission,
+33 Members of the Idaho transportation board,
+34 Voting members of the state board of health and welfare,
+35 Members of the board of environmental quality,
+36 Members of the board of directors of state parks and recreation,
+37 Members of the board of correction,
+38 Members of the industrial commission,
+39 Members of the Idaho public utilities commission,
+40 Members of the Idaho personnel commission,
+41 Members of the board of directors of the Idaho state retirement system,
+42 Members of the board of directors of the state insurance fund,
+43 Members of the commission of pardons and parole.
+44 (d) Appointments made by the state board of land commissioners to the
+45 office of director, department of lands, and appointments to fill vacancies
+46 occurring in those offices shall be submitted by the president of the state
+47 board of land commissioners to the senate for the advice and consent of the
+48 senate in accordance with the procedure prescribed in this section.
+49 (e) Appointments made pursuant to this section while the senate is in
+50 session shall be submitted along with the letter of appointment to the sen-
+
+5
+1 ate forthwith for the advice and consent of that body. Appointments made
+2 pursuant to this section while the senate is not in session shall be submit-
+3 ted along with the letter of appointment to the senate pursuant to section
+4 67-803, Idaho Code. Should the senate adjourn without granting its consent
+5 to an appointment the appointment shall thereupon become void and a vacancy
+6 in the office to which the appointment was made shall exist, and the office
+7 shall be deemed vacant upon the date of adjournment. It is the duty of the ap-
+8 pointing authority to supply the senate with the letter of appointment. The
+9 appointee shall supply the senate with the documentation it requests.
+10 All appointments made pursuant to subsection (c) of this section, ex-
+11 cept those appointments for which a term of office is fixed by law, shall ter-
+12 minate at the expiration of any gubernatorial term. Appointments to fill the
+13 vacancies thus created by the expiration of the term of office of the gover-
+14 nor shall be forthwith submitted to the senate for the advice and consent of
+15 that body, and when so submitted shall be as expeditiously considered as pos-
+16 sible.
+17 Upon receipt of an appointment along with the letter of appointment in
+18 the senate for the purpose of securing the advice and consent of the sen-
+19 ate, the appointment shall be referred by the presiding officer to the appro-
+20 priate committee of the senate for consideration and report prior to action
+21 thereon by the full senate.
+22 (f) Excepting the appointments made pursuant to subsection (c) of this
+23 section, whenever an appointee's term has expired as prescribed by law,
+24 the governor or the authorized appointing authority must fill the position
+25 within twelve (12) months of the expiration of the term. However, an of-
+26 fice will be vacant if the governor or the authorized appointing authority:
+27 (i) fails to timely appoint a qualified person at the earlier of the time
+28 required by law or required in this subsection; or (ii) fails to provide
+29 the senate with an appropriate letter or document of appointment by the
+30 thirty-sixth legislative day of the subsequent legislative session. All
+31 letters or documents of appointment must, as reasonably possible, accompany
+32 the additional documentation required by the senate. At the request of the
+33 secretary of the senate, the governor or the authorized appointing authority
+34 must provide the additional documentation.
+35 (g) It is the intent of the legislature that the provisions of this sec-
+36 tion as amended by this chapter shall not apply to appointments which have
+37 been made prior to the effective date of this chapter. It is the further in-
+38 tent of the legislature that the provisions of this section shall apply to
+39 the offices listed in this section and to any office created by law or exec-
+40 utive order which succeeds to the powers, duties, responsibilities and au-
+41 thorities of any of the offices listed in subsections (c) and (d) of this sec-
+42 tion.
+43 SECTION 6. That Section 39-3123, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 39-3123. DESIGNATION OF STATE MENTAL HEALTH AUTHORITY AND STATE SUB-
+46 STANCE USE DISORDER AUTHORITY. The Idaho department of health and welfare is
+47 hereby designated the state mental health authority and the state substance
+48 use disorder authority, hereinafter referred to as the state behavioral
+49 health authority. The state behavioral health authority is responsible
+
+6
+1 for overseeing the state of Idaho's behavioral health system of care. The
+2 department shall fulfill this role through a collaborative process, taking
+3 into consideration and incorporating whenever reasonably possible the rec-
+4 ommendations and evaluations of the state behavioral health planning coun-
+5 cil and the regional behavioral health boards in all statewide efforts to
+6 expand, improve, modify or transform the behavioral health service delivery
+7 system of the state. The provisions of this section shall not prohibit ap-
+8 propriations to executive agencies or the judiciary to fund community-based
+9 behavioral health treatment within their target population. The behavioral
+10 health authority shall report utilization, performance, outcome and other
+11 quality assurance data to the state behavioral health planning council and
+12 the regional behavioral health board on an annual basis.
+13 SECTION 7. That Section 39-3124, Idaho Code, be, and the same is hereby
+14 repealed.
+15 SECTION 8. That Section 39-3125, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 39-3125. STATE BEHAVIORAL HEALTH PLANNING COUNCIL. (1) A state be-
+18 havioral health planning council, hereinafter referred to as the planning
+19 council, shall be established to serve as an advocate for children and adults
+20 with behavioral health disorders; to advise the state behavioral health
+21 authority on issues of concern, on policies and on programs and to provide
+22 guidance to the state behavioral health authority in the development and
+23 implementation of the state behavioral health systems plan; to monitor and
+24 evaluate the allocation and adequacy of behavioral health services within
+25 the state on an ongoing basis; to monitor and evaluate the effectiveness of
+26 state laws that address behavioral health services; to ensure that individ-
+27 uals with behavioral health disorders have access to prevention, treatment
+28 and rehabilitation services; to serve as a vehicle for policy and program
+29 development; and to present to the governor, the judiciary and the legis-
+30 lature by June 30 of each year a report on the council's activities and an
+31 evaluation of the current effectiveness of the behavioral health services
+32 provided directly or indirectly by the state to adults and children. The
+33 planning council shall establish readiness and performance criteria for the
+34 regional boards to accept and maintain responsibility for family support and
+35 recovery support services. The planning council shall evaluate regional
+36 board adherence to the readiness criteria and make a determination if the
+37 regional board has demonstrated readiness to accept responsibility over the
+38 family support and recovery support services for the region. The planning
+39 council shall report to the behavioral health authority if it determines a
+40 regional board is not fulfilling its responsibility to administer the fam-
+41 ily support and recovery support services for the region and recommend the
+42 regional behavioral health centers assume responsibility over the services
+43 until the board demonstrates it is prepared to regain the responsibility.
+44 (2) The planning council shall be appointed by the governor and be
+45 comprised of no more than fifty percent (50%) state employees or providers
+46 of behavioral health services. Membership shall also reflect to the extent
+47 possible the collective demographic characteristics of Idaho's citizens.
+48 The planning council membership shall include representation from con-
+
+7
+1 sumers; families of adults with serious mental illness or substance use
+2 disorders; behavioral health advocates; prevention specialists; principal
+3 state agencies and the judicial branch with respect to behavioral health,
+4 education, vocational rehabilitation, adult correction, juvenile justice
+5 and law enforcement, title XIX of the social security act and other enti-
+6 tlement programs; and public and private entities concerned with the need,
+7 planning, operation, funding and use of mental health services or substance
+8 use disorders, and related support services; and the regional behavioral
+9 health board in each department of health and welfare region as provided for
+10 in section 39-3134, Idaho Code. The planning council may include members of
+11 the legislature.
+12 (3) The planning council members will serve a term of two (2) years or
+13 at the pleasure of the governor, provided however, that of the members first
+14 appointed, one-half (1/2) of the appointments shall be for a term of one (1)
+15 year and one-half (1/2) of the appointments shall be for a term of two (2)
+16 years. The governor will appoint a chair and a vice-chair whose terms will be
+17 two (2) years.
+18 (4) The council may establish subcommittees at its discretion.
+19 SECTION 9. That Section 39-3127, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 39-3127. COORDINATION OF SERVICES BETWEEN REGIONS AND STATE. The di-
+22 rector of the department of health and welfare shall coordinate services
+23 between the regional behavioral health centers, regional behavioral health
+24 boards and the state psychiatric hospitals.
+25 SECTION 10. That Section 39-3129, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 39-3129. DIVISION ADMINISTRATOR FOR REGIONAL BEHAVIORAL HEALTH CEN-
+28 TERS -- DUTIES. The director of the department of health and welfare shall
+29 appoint a division administrator to manage the regional behavioral health
+30 centers and shall supervise its program; shall prescribe uniform standards
+31 of treatment, services and care provided by the regional behavioral health
+32 centers and regional behavioral health boards; shall set the professional
+33 qualifications for staff positions; and make such other policy as are neces-
+34 sary and proper to carry out the purposes and intent of this chapter.
+35 SECTION 11. That Section 39-3131, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 39-3131. BEHAVIORAL HEALTH SERVICES TO BE OFFERED. The regional be-
+38 havioral health center shall provide or arrange for the delivery of services
+39 that, combined with community family support and recovery support services
+40 provided through the regional behavioral health boards, medicaid and ser-
+41 vices delivered through a private provider network, will lead to the estab-
+42 lishment of a comprehensive regional behavioral health system of care that
+43 incorporates patient choice and family involvement to the extent reasonably
+44 practicable and medically and professionally appropriate. The regional be-
+
+8
+1 havioral health center shall provide or arrange for the delivery of the fol-
+2 lowing services:
+3 (1) Treatment services for individuals who do not have other benefits
+4 available to meet their behavioral health needs as resources allow includ-
+5 ing, but not limited to, psychiatric services, medication management, re-
+6 habilitative and community-based services, outpatient and intensive outpa-
+7 tient services, assertive community treatment, case management and residen-
+8 tial care;
+9 (2) Community family support and recovery support services as defined
+10 in section 39-3135(7), Idaho Code, until the regional behavioral health
+11 board can meet the initial readiness criteria and voluntarily accepts re-
+12 sponsibility for these services or if the regional behavioral health board
+13 fails to sustain criteria to maintain responsibility for these services;
+14 (3) (2) Evaluation and intervention for individuals experiencing a be-
+15 havioral health emergency;
+16 (4) (3) Hospital precare and postcare services, in cooperation with
+17 state and community psychiatric hospitals, for individuals who have been
+18 committed to the custody of the director of health and welfare pursuant
+19 to sections 18-212 and 66-329, Idaho Code, or who are under an involuntary
+20 treatment order pursuant to chapter 24, title 16, Idaho Code;
+21 (5) (4) Evaluation and securing mental health treatment services as
+22 ordered by a court for individuals pursuant to section 19-2524, 20-511A or
+23 20-519B, Idaho Code; and
+24 (6) (5) Evaluation and securing treatment services for individuals who
+25 are accepted into mental health courts.
+26 SECTION 12. That Section 39-3132, Idaho Code, be, and the same is hereby
+27 repealed.
+28 SECTION 13. That Section 39-3133, Idaho Code, be, and the same is hereby
+29 repealed.
+30 SECTION 14. That Section 39-3134, Idaho Code, be, and the same is hereby
+31 repealed.
+32 SECTION 15. That Section 39-3135, Idaho Code, be, and the same is hereby
+33 repealed.
+34 SECTION 16. An emergency existing therefor, which emergency is hereby
+35 declared to exist, this act shall be in full force and effect on and after its
+36 passage and approval.

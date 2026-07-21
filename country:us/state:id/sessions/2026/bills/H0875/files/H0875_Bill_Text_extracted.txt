@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 875
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE STATE BUDGET; AMENDING CHAPTER 35, TITLE 67, IDAHO CODE, BY
+3 THE ADDITION OF A NEW SECTION 67-3512B, IDAHO CODE, TO PROVIDE FOR A CAL-
+4 CULATED REDUCTION FROM THE GOVERNOR'S BUDGET DOCUMENT; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 35, Title 67, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 67-3512B, Idaho Code, and to read as follows:
+10 67-3512B. CALCULATED REDUCTION FROM THE GOVERNOR'S BUDGET DOCU-
+11 MENT. The legislative services office shall provide the joint finance-ap-
+12 propriations committee with a calculated reduction from the governor's bud-
+13 get document provided for in section 67-3506, Idaho Code. The calculated re-
+14 duction shall include each of the changes for employee benefit costs, health
+15 insurance costs, and employee compensation for all entities that receive an
+16 appropriation by the legislature pursuant to 67-3514, Idaho Code, and that
+17 are authorized to have fifty (50) or more full-time equivalent positions. A
+18 reduction shall be calculated using a five (5) year average of actual person-
+19 nel cost expenditures divided by total personnel costs originally appropri-
+20 ated. If the entity has been in existence for less than five (5) years, the
+21 reduction shall be an average of all years in existence. The joint committee
+22 may include the calculated reductions as part of each entity's appropriation
+23 bill. The calculated reduction shall be applied to all fund types.
+24 SECTION 2. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

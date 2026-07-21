@@ -1,0 +1,211 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 613
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO POLLING PLACES; AMENDING SECTION 6-1605, IDAHO CODE, TO PROVIDE
+3 A LIMITATION ON LIABILITY FOR WORKERS OR VOLUNTEERS AT CERTAIN POLLING
+4 PLACES; AMENDING SECTION 34-302, IDAHO CODE, TO PROVIDE FOR STATE FUND-
+5 ING OF COMMERCIAL LIABILITY INSURANCE FOR CERTAIN PRIVATE FACILITIES
+6 USED AS POLLING PLACES; AMENDING SECTION 63-602, IDAHO CODE, TO ESTAB-
+7 LISH A PROVISION REGARDING PROPERTY EXEMPT FROM TAXATION; AMENDING SEC-
+8 TION 67-5773, IDAHO CODE, TO PROVIDE THAT THE DIRECTOR OF THE DEPARTMENT
+9 OF ADMINISTRATION SHALL PURCHASE CERTAIN COMMERCIAL LIABILITY INSUR-
+10 ANCE FOR CERTAIN PRIVATE FACILITIES DESIGNATED AS POLLING PLACES; AND
+11 DECLARING AN EMERGENCY.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. That Section 6-1605, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 6-1605. LIMITATION ON LIABILITY OF VOLUNTEERS, OFFICERS AND DIREC-
+16 TORS OF NONPROFIT CORPORATIONS AND ORGANIZATIONS AND TRUSTEES OF CHARITABLE
+17 TRUSTS. (1) In any nonprofit corporation or organization or charitable
+18 trust as defined in section 6-1601(6), Idaho Code, officers, directors,
+19 and volunteers who serve the nonprofit corporation or organization without
+20 compensation and trustees of the charitable trust who serve without compen-
+21 sation shall be personally immune from civil liability arising out of their
+22 conduct as an officer, director, trustee or volunteer, if such conduct is
+23 within the course and scope of the duties and functions of the individual
+24 officer, director, trustee or volunteer and at the direction of the corpo-
+25 ration or organization or charitable trust. The provisions of this section
+26 shall not eliminate or limit, and no immunity is hereby granted for the lia-
+27 bility of an officer, director, trustee or volunteer:
+28 (a) For conduct which is willful, wanton, or which involves fraud or
+29 knowing violation of the law;
+30 (b) To the extent of coverage for such conduct under a policy of li-
+31 ability insurance, whether the policy is purchased by the corporation
+32 or organization or charitable trust, the individual officer, director,
+33 trustee, volunteer or some third party;
+34 (c) For any intentional breach of a fiduciary duty or duty of loyalty
+35 owed by the officer, director or volunteer to the corporation, organi-
+36 zation or the members thereof, or owed by the trustee to the charitable
+37 trust or the members thereof;
+38 (d) For acts or omissions not in good faith or which involve intentional
+39 misconduct, fraud or a knowing violation of law;
+40 (e) For any transaction from which the officer, director, trustee or
+41 volunteer derived an improper personal benefit;
+
+2
+1 (f) For any violation of the provisions of section 30-3-82, Idaho Code;
+2 or
+3 (g) For damages which result from the operation of a motor vehicle.
+4 (2) Reimbursement of an officer, director or volunteer of a nonprofit
+5 corporation or organization or of a trustee of a charitable trust for costs
+6 and expenses actually incurred shall not be considered compensation.
+7 (3) Nothing in this section shall be construed to supersede, abrogate,
+8 or limit any immunities or limitation of liability otherwise provided by
+9 law.
+10 (4) The provisions of this section shall apply to any election worker or
+11 volunteer conducting an election pursuant to the provisions of chapter 11,
+12 title 34, Idaho Code, at a private, nonprofit polling place, to any entity
+13 providing such location as a polling place, and to any election-related ac-
+14 tivity during the duration of the workers or volunteers on the premises.
+15 SECTION 2. That Section 34-302, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 34-302. DESIGNATION OF PRECINCT POLLING PLACES -- POLLING PLACE EX-
+18 PENSES. (1) The board shall, by the fifth Friday before any election, des-
+19 ignate a suitable polling place for each election precinct. Insofar as pos-
+20 sible, the board shall designate the same polling place for the general elec-
+21 tion that it designated for the primary election. The physical arrangements
+22 of the polling place shall be sufficient to guarantee all voters the right
+23 to cast a secret ballot. Public school facilities shall be made available
+24 to the board as precinct polling places. All polling places designated as
+25 provided herein shall conform to the accessibility standards adopted by the
+26 secretary of state pursuant to the voting accessibility for the elderly and
+27 handicapped act, 52 U.S.C. 20101 et seq.
+28 (2)(a) The expense of providing such polling places shall be a public
+29 charge and paid out of the county treasury, except as provided in para-
+30 graph (b) of this subsection.
+31 (b) For private facilities designated as polling places under this sec-
+32 tion, the secretary of state shall establish in coordination with the
+33 department of administration a program to provide proof of self-funded
+34 liability coverage for such private facilities used as polling places
+35 on election day. Each county shall submit a list of private facilities
+36 designated as polling places that require proof of liability insurance
+37 at least sixty (60) days prior to the election. The secretary of state
+38 shall verify the eligibility of the private facilities as a qualified
+39 polling place under this section and forward the verified list of pri-
+40 vate facilities to the director of the department of administration,
+41 requesting proof of self-funded liability coverage for those locations
+42 at least forty-five (45) days prior to the election.
+43 SECTION 3. That Section 63-602, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 63-602. PROPERTY EXEMPT FROM TAXATION. (1) Property shall be exempt
+46 from taxation as provided in titles 21, 22, 25, 26, 31, 33, 39, 41, 42, 49, 50,
+47 67 and 70, Idaho Code, and in chapters 6, 24, 30, 35 and 45, title 63, Idaho
+
+3
+1 Code; provided, that no deduction shall be made in assessment of shares of
+2 capital stock of any corporation or association for exemptions claimed under
+3 this section, and provided further, that the term "full cash value" wherever
+4 used in this act shall mean the actual assessed value of the property as to
+5 which an exemption is claimed.
+6 (2) The use of the word "exclusive" or "exclusively" in this chapter
+7 shall mean used exclusively for any one (1) or more, or any combination, of
+8 the exempt purposes provided hereunder and property used for more than one
+9 (1) exempt purpose, pursuant to the provisions of sections 63-602A through
+10 63-602OO, Idaho Code, shall be exempt from taxation hereunder as long as the
+11 property is used exclusively for one (1) or more or any combination of the ex-
+12 empt purposes provided hereunder.
+13 (3) All exemptions from property taxation claimed shall be approved an-
+14 nually by the board of county commissioners or unless otherwise provided:
+15 (a) Exemptions pursuant to sections 63-602A, 63-602F, 63-602I,
+16 63-602J, 63-602L(1), 63-602M, 63-602N, 63-602R, 63-602S, 63-602U,
+17 63-602V, 63-602W, 63-602Z, 63-602DD(1), 63-602EE, 63-602OO, 63-2431,
+18 63-3502, 63-3502A and 63-3502B, Idaho Code, do not require application
+19 or approval by the board of county commissioners. For all other exemp-
+20 tions in title 63, Idaho Code, the process of applying is as specified in
+21 the exemption statutes or, if no process is specified and application is
+22 necessary to identify the property eligible for the exemption, annual
+23 application is required. Exemptions in other titles require no appli-
+24 cation.
+25 (b) For exemptions that require an application, provided such exemp-
+26 tions are for property otherwise subject to assessment by the county
+27 assessor, the application must be made to the county commissioners by
+28 April 15 and the taxpayer and county assessor must be notified of any de-
+29 cision by May 15, unless otherwise provided by law. The decision of the
+30 county commissioners and any subsequent assessment notices sent to the
+31 taxpayer may be appealed to the county board of equalization pursuant to
+32 sections 63-501 and 63-501A, Idaho Code.
+33 (c) For exemptions that require an application, provided such exemp-
+34 tions are for property otherwise subject to assessment by the state tax
+35 commission, application for exemption shall be included with the an-
+36 nual operator's statement as required pursuant to section 63-404, Idaho
+37 Code. Notice of the decision and its effect on the assessment will be
+38 provided in accordance with procedures specified in chapter 4, title
+39 63, Idaho Code. Appeals shall be made to the state tax commission in ac-
+40 cordance with section 63-407, Idaho Code.
+41 (4) An owner of property that is intended for a tax-exempt purpose may
+42 apply to the board of county commissioners for a provisional property tax ex-
+43 emption, pursuant to section 63-1305C, Idaho Code.
+44 (5) The use of any property receiving an exemption provided in section
+45 63-602B, 63-602C, or 63-602E, Idaho Code, as a polling place pursuant to sec-
+46 tion 34-302, Idaho Code, or for other election-related purposes authorized
+47 by law, shall not be deemed inconsistent with the property's tax-exempt sta-
+48 tus and shall not affect, impair, or disqualify the property from receiving
+49 or maintaining such exemption.
+
+4
+1 SECTION 4. That Section 67-5773, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 67-5773. POWERS AND DUTIES -- RISK MANAGEMENT. (1) The director of the
+4 department of administration shall:
+5 (a) Determine the nature and extent of needs for surety bonds and
+6 insurance coverages of all kinds, other than life and disability insur-
+7 ances, as to risks and property of all offices, departments, divisions,
+8 boards, commissions, institutions, agencies, officers, agents, em-
+9 ployees, and operations of the government of the state of Idaho, the
+10 premiums on which are payable in whole or in part from funds of the
+11 state.
+12 (b) Determine the character, terms, and amounts of coverage required by
+13 such needs.
+14 (c) Within funds available therefor from each respective office, de-
+15 partment, division, board, commission, institution, agency or opera-
+16 tion with respect to coverage to be provided to it, negotiate for, pro-
+17 cure, purchase, and have placed or continued in effect all such cover-
+18 ages and services as may reasonably be obtainable, whether from insur-
+19 ers or brokers duly authorized to transact business in this state.
+20 (d) Administer all such coverages on behalf of the insured, including
+21 making and settlement of loss claims arising thereunder. The director,
+22 with the advice of the attorney general, may cause suit to be brought
+23 with respect to any such coverage or loss.
+24 (e) Within available funds and personnel, make periodic inspection or
+25 appraisal of premises, property and risks as to conditions affecting
+26 insurability, risk, and premium rate and submit a written report of each
+27 such inspection or appraisal together with recommendations, if any, to
+28 the officer, department, or agency in direct charge of such premises,
+29 property or risks.
+30 (f) Perform such other duties and exercise such other powers as are pro-
+31 vided by law.
+32 (g) Establish a risk management advisory committee. The director shall
+33 consult with the advisory committee in the performance of those duties
+34 enumerated in this subsection.
+35 (h) Upon notification from the secretary of state of any private facil-
+36 ities that have been designated as polling places and that require proof
+37 of self-funded liability coverage for their use as polling places on
+38 election day pursuant to section 34-302, Idaho Code, add these polling
+39 places to the secretary of state's self-funded liability coverage.
+40 Such coverage shall extend only to general liability for risks aris-
+41 ing from election-related activities from a private facility's use on
+42 election day during elections held pursuant to title 34, Idaho Code, and
+43 shall cover activities only from the time election workers are granted
+44 access to the private facility until the time they exit the private fa-
+45 cility.
+46 (2) As to all such needs and coverages, the director shall give due con-
+47 sideration to information furnished by and recommendations of any office,
+48 department, division, board, commission, institution or agency, including
+
+5
+1 the secretary of state for polling place coverage additions under subsection
+2 (1)(h) of this section.
+3 SECTION 5. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after its
+5 passage and approval.

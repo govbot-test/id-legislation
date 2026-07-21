@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 593
+BY ENVIRONMENT, ENERGY AND TECHNOLOGY COMMITTEE
+1 AN ACT
+2 RELATING TO THE DEPARTMENT OF ENVIRONMENTAL QUALITY; PROVIDING LEGISLATIVE
+3 INTENT; AMENDING SECTION 39-5803, IDAHO CODE, TO REMOVE AN OBSOLETE
+4 DEFINITION; AMENDING SECTION 39-5804, IDAHO CODE, TO REMOVE AN OUT-
+5 DATED REFERENCE; REPEALING SECTION 39-5805, IDAHO CODE, RELATING TO THE
+6 STATE HAZARDOUS WASTE MANAGEMENT PLANNING COMMITTEE; REPEALING SECTION
+7 39-5806, IDAHO CODE, RELATING TO THE STATE HAZARDOUS WASTE MANAGEMENT
+8 PLAN; REPEALING SECTION 39-5807, IDAHO CODE, RELATING TO THE AMENDMENT
+9 OR REJECTION OF THE PLAN; REPEALING SECTION 39-5809, IDAHO CODE, RE-
+10 LATING TO ISSUANCE OF PERMITS AND LICENSES; AMENDING SECTION 39-5810,
+11 IDAHO CODE, TO REMOVE AN OUTDATED REFERENCE; REPEALING CHAPTER 66,
+12 TITLE 39, IDAHO CODE, RELATING TO BIG PAYETTE LAKE WATER QUALITY; AND
+13 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+16 of the Legislature to ensure that the state laws provided in Idaho Code are
+17 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+18 serving the public health, safety, and welfare. In accordance with the Idaho
+19 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+20 tified the provisions of this act as obsolete, outdated, or unnecessary.
+21 SECTION 2. That Section 39-5803, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 39-5803. DEFINITIONS. As used in this chapter:
+24 (1) "Panel" means the site review panel created in section 39-5812,
+25 Idaho Code.
+26 (2) "Committee" means the state hazardous waste management planning
+27 committee created in section 39-5805, Idaho Code.
+28 (3) (2) "Department" means the department of environmental quality.
+29 (4) (3) "Designated facility" means a hazardous waste treatment, stor-
+30 age or disposal facility that has received a permit or has interim status un-
+31 der title II of the solid waste disposal act or has a permit from the state
+32 authorized under section 3006 of title II of the solid waste disposal act (42
+33 U.S.C. 6926).
+34 (5) (4) "Director" means the director of the department of environmen-
+35 tal quality.
+36 (6) (5) "Disposal" is defined in section 39-4403, Idaho Code.
+37 (7) (6) "Disposal facility" means a facility or a part of a facility at
+38 which managed hazardous waste, as defined by rule, is intentionally placed
+39 into or on any land or water and at which hazardous waste will remain after
+40 closure.
+41 (8) (7) "Generator" is defined in section 39-4403, Idaho Code.
+
+2
+1 (9) (8) "Hazardous waste" is defined in section 39-4403, Idaho Code.
+2 (10) (9) "Hazardous waste management" is defined in section 39-4403,
+3 Idaho Code.
+4 (11) (10) "On-site" means on the same or geographically contiguous
+5 property that may be divided by a public or private right-of-way if the
+6 entrance and exit between the pieces of property are at a crossroads inter-
+7 section and access is by crossing rather than going along the right-of-way.
+8 Noncontiguous pieces of property owned by the same person but connected by
+9 a right-of-way that the owner controls and to which the public does not have
+10 access is also considered on-site property.
+11 (12) (11) "Operator" means the person responsible for the overall oper-
+12 ation of a disposal, treatment or storage facility with approval of the di-
+13 rector either by contract or permit.
+14 (13) (12) "Person" is defined in section 39-4403, Idaho Code.
+15 (14) (13) "Plan" means the state hazardous waste management plan
+16 prepared under the provisions of section 39-5806, Idaho Code.
+17 (15) (14) "Storage" is defined in section 39-4403, Idaho Code.
+18 (16) (15) "Storage facility" means a facility or part of a facility at
+19 which managed hazardous waste, as defined by rule and regulation, is subject
+20 to storage.
+21 (17) (16) "Title II of the solid waste disposal act" means sections 1001
+22 through 8006 of public law 89-272, 42 U.S.C. 6901, 6902 through 6910, 6912
+23 through 6940, and 6942 through 6986.
+24 For purposes of this chapter, words and phrases defined in section
+25 39-4403, Idaho Code, shall carry the same meaning when used in this chapter
+26 unless the context clearly denotes otherwise.
+27 SECTION 3. That Section 39-5804, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 39-5804. METHODS OF HAZARDOUS WASTE MANAGEMENT. The department and
+30 the committee in the conduct of their its duties under the provisions of this
+31 chapter and under the provisions of chapter 44, title 39, Idaho Code, shall
+32 assist in encouraging, developing and implementing methods of hazardous
+33 waste management which are environmentally sound, which maximize the uti-
+34 lization of valuable resources and which encourage resource conservation
+35 including source separation and waste reduction.
+36 SECTION 4. That Section 39-5805, Idaho Code, be, and the same is hereby
+37 repealed.
+38 SECTION 5. That Section 39-5806, Idaho Code, be, and the same is hereby
+39 repealed.
+40 SECTION 6. That Section 39-5807, Idaho Code, be, and the same is hereby
+41 repealed.
+42 SECTION 7. That Section 39-5809, Idaho Code, be, and the same is hereby
+43 repealed.
+
+3
+1 SECTION 8. That Section 39-5810, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 39-5810. LICENSES -- ISSUANCE AFTER ADOPTION OF PLAN. After the plan
+4 has been adopted by the committee, the The director shall not issue a license
+5 under the provisions of this chapter for a hazardous waste treatment, stor-
+6 age or disposal facility until the director has made a determination that
+7 the action is consistent with the adopted hazardous waste management plan.
+8 The director may exempt classes or categories of hazardous waste treatment,
+9 storage or disposal facilities from complying with the hazardous waste man-
+10 agement plan if the exemption is in the public interest and consistent with
+11 state and federal law. If the director exempts classes or categories of haz-
+12 ardous waste treatment, storage or disposal facilities from complying with
+13 the hazardous waste management plan, rules and regulations shall be promul-
+14 gated in compliance with chapter 52, title 67, Idaho Code, specifically in-
+15 dicating the exemption.
+16 SECTION 9. That Chapter 66, Title 39, Idaho Code, be, and the same is
+17 hereby repealed.
+18 SECTION 10. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after
+20 July 1, 2026.

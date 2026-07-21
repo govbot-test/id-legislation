@@ -1,0 +1,170 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1444
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE PUBLIC SCHOOLS EDUCATIONAL SUPPORT
+3 PROGRAM; APPROPRIATING ADDITIONAL MONEYS TO THE PUBLIC SCHOOLS ED-
+4 UCATIONAL SUPPORT PROGRAM'S DIVISION OF STUDENT SUPPORT FOR FISCAL
+5 YEAR 2027; CLARIFYING THE ORIGINAL FUND SOURCE FOR ADDITIONAL EXPEN-
+6 DITURES FOR THE PUBLIC SCHOOLS EDUCATIONAL SUPPORT PROGRAM'S DIVISION
+7 OF STUDENT SUPPORT FOR FISCAL YEAR 2027; REDUCING THE APPROPRIATION TO
+8 THE PUBLIC SCHOOLS EDUCATIONAL SUPPORT PROGRAM'S DIVISION OF STUDENT
+9 SUPPORT FOR FISCAL YEAR 2027; REDUCING THE TRANSFER FROM THE GENERAL
+10 FUND TO THE PUBLIC SCHOOL INCOME FUND; CLARIFYING THE ORIGINAL FUND
+11 SOURCE FOR REDUCED EXPENDITURES FOR THE PUBLIC SCHOOLS EDUCATIONAL
+12 SUPPORT PROGRAM'S DIVISION OF STUDENT SUPPORT FOR FISCAL YEAR 2027;
+13 REDUCING THE PER-SUPPORT UNIT DISCRETIONARY DISTRIBUTION FOR FULLY
+14 VIRTUAL SCHOOLS FOR FISCAL YEAR 2027; REDUCING TRANSPORTATION REIM-
+15 BURSEMENTS FOR FISCAL YEAR 2027; PROVIDING FOR REPORTING ON VIRTUAL
+16 ENROLLMENTS AND ATTENDANCE; PROVIDING FOR THE TRANSFER AND ALTERNA-
+17 TIVE DISTRIBUTION OF ENGLISH LANGUAGE LEARNER FUNDS; AMENDING SECTION
+18 27, AS ADDED BY SENATE BILL NO. 1362, IF ENACTED BY THE SECOND REGULAR
+19 SESSION OF THE SIXTY-EIGHTH IDAHO LEGISLATURE, TO REVISE TECHNOLOGY
+20 CURRICULUM REQUIREMENTS; PROVIDING FOR A REPORT ON SPECIAL EDUCATION
+21 REVENUES AND EXPENDITURES; PROVIDING FOR CONDITIONS, LIMITATIONS, AND
+22 RESTRICTIONS; APPROPRIATING ADDITIONAL MONEYS TO THE PUBLIC SCHOOLS
+23 EDUCATIONAL SUPPORT PROGRAM'S DIVISION OF STUDENT SUPPORT FOR FISCAL
+24 YEAR 2026; CLARIFYING THE ORIGINAL FUND SOURCE FOR ADDITIONAL EXPEN-
+25 DITURES FOR THE PUBLIC SCHOOLS EDUCATIONAL SUPPORT PROGRAM'S DIVISION
+26 OF STUDENT SUPPORT FOR FISCAL YEAR 2026; AND DECLARING AN EMERGENCY AND
+27 PROVIDING EFFECTIVE DATES.
+28 Be It Enacted by the Legislature of the State of Idaho:
+29 SECTION 1. In addition to any other appropriation provided by law,
+30 there is hereby appropriated to the Public Schools Educational Support
+31 Program's Division of Student Support the following amounts to be expended
+32 according to the designated programs from the listed funds for the period
+33 July 1, 2026, through June 30, 2027:
+34 I. OPERATIONS DIVISION:
+35 FROM:
+36 Public School Income Fund $4,141,200
+
+2
+1 II. CHILDREN'S PROGRAMS DIVISION:
+2 FROM:
+3 Federal Grant Fund 7,800,000
+4 TOTAL $11,941,200
+5 SECTION 2. Of the additional amounts appropriated in Section 1 of this
+6 act for the Public Schools Educational Support Program's Division of Student
+7 Support, the following amounts shall be considered expended from the listed
+8 funds for the period July 1, 2026, through June 30, 2027:
+9 FROM:
+10 Public School Endowment Income Fund $4,141,200
+11 Federal Grant Fund 7,800,000
+12 TOTAL $11,941,200
+13 SECTION 3. Notwithstanding any other provision of law to the contrary,
+14 the appropriation made to the Public Schools Educational Support Program's
+15 Division of Student Support is hereby reduced by the following amounts from
+16 the designated programs from the Public School Income Fund for the period
+17 July 1, 2026, through June 30, 2027:
+18 FROM:
+19 Administrators Division $1,767,300
+20 Operations Division 7,141,200
+21 Children's Programs Division 843,100
+22 TOTAL $9,751,600
+23 SECTION 4. Notwithstanding any other provision of law to the contrary,
+24 the transfer made from the General Fund to the Public School Income Fund in
+25 Section 32 of Senate Bill No. 1362, if enacted by the Second Regular Session
+26 of the Sixty-eighth Idaho Legislature, is hereby reduced by $9,751,600 for
+27 the period July 1, 2026, through June 30, 2027.
+28 SECTION 5. Of the amounts reduced in Section 3 of this act from the
+29 Public Schools Educational Support Program's Division of Student Support,
+30 $9,751,600 shall be reduced from the amounts considered expended from the
+31 General Fund for the period July 1, 2026, through June 30, 2027.
+32 SECTION 6. VIRTUAL SCHOOL BUDGET REDUCTION. Notwithstanding Section 10
+33 of Senate Bill No. 1362, if enacted by the Second Regular Session of the
+34 Sixty-eighth Idaho Legislature, for the period July 1, 2026, through June
+35 30, 2027, the distribution factor for discretionary funds for fully virtual
+36 schools shall be $19,723 per support unit.
+37 SECTION 7. TRANSPORTATION FUNDING. Notwithstanding Section 33-1006,
+38 Idaho Code, and any other law to the contrary, for the period July 1, 2026,
+39 through June 30, 2027, the total moneys paid to school districts and charter
+40 schools for eligible transportation costs shall be reduced by $7,500,000.
+
+3
+1 The State Department of Education shall adjust the distribution proportion-
+2 ately across all eligible schools.
+3 SECTION 8. VIRTUAL ENROLLMENT AND ATTENDANCE REQUIREMENTS. School dis-
+4 tricts and public charter schools not authorized as a public virtual school
+5 that provide instruction to students through an online platform for any
+6 class, excluding those offered through the Idaho Digital Learning Academy,
+7 shall report to the State Department of Education and the Office of the State
+8 Board of Education which classes are online-based and the number of stu-
+9 dents enrolled in and attendance of students for each online class. School
+10 districts and public charter schools that offer classes through an online
+11 option must register those programs as virtual buildings in the Idaho System
+12 for Education Excellence longitudinal data system and record the students in
+13 those buildings accordingly.
+14 SECTION 9. ENGLISH LANGUAGE LEARNER DISTRIBUTIONS. For the period July
+15 1, 2026, through June 30, 2027, only, of the moneys appropriated in Section
+16 5 of Senate Bill No. 1362, if enacted by the Second Regular Session of the
+17 Sixty-eighth Idaho Legislature, and set to be distributed pursuant to Sec-
+18 tion 26 of Senate Bill No. 1362, if enacted by the Second Regular Session of
+19 the Sixty-eighth Idaho Legislature, $2,250,000 shall instead be transferred
+20 one time from the Central Services Division to the Children's Programs Di-
+21 vision by the State Department of Education and distributed pursuant to the
+22 requirements in Section 17 of Senate Bill No. 1362, if enacted by the Second
+23 Regular Session of the Sixty-eighth Idaho Legislature.
+24 SECTION 10. That Section 27 as added by Senate Bill No. 1362, if enacted
+25 by the Second Regular Session of the Sixty-eighth Idaho Legislature, be, and
+26 the same is hereby amended to read as follows:
+27 SECTION 27. CONTENT AND CURRICULUM -- TECHNOLOGY. Of the mon-
+28 eys appropriated in Section 5 of this act, an amount not to exceed
+29 $1,570,000 from the Public School Income Fund may be expended by the
+30 State Department of Education to contract for services that pro-
+31 vide technology education opportunities and/or information tech-
+32 nology certifications to students, including faculty that prepare
+33 students for college, career, or the workplace. Funding shall be
+34 awarded for projects that include three two or more of the following
+35 components:
+36 (1) Certification of skills and competencies;
+37 (2) Professional development for teachers;
+38 (3) Integration with curriculum standards;
+39 (4) Online access to research-based content and curriculum; or
+40 (5) Instructional software for classroom use.
+41 The State Department of Education shall provide a report to the
+42 Joint Finance-Appropriations Committee, the Senate Education Com-
+43 mittee, and the House Education Committee by January 5, 2027, re-
+44 garding the number and type of certificates earned by students and
+45 faculty.
+
+4
+1 SECTION 11. SPECIAL EDUCATION DATA. The State Department of Education
+2 shall compile and report aggregate information regarding special educa-
+3 tion expenditures and Medicaid reimbursements for local education agencies
+4 (LEAs)in Idaho. The report shall include, to the extent practicable un-
+5 der federal guidelines and using existing data sources, the total special
+6 education expenditures and revenues reported by LEAs, including state, lo-
+7 cal, and federal funds, and the total Medicaid reimbursements received by
+8 LEAs for special education services. To the extent practicable using ex-
+9 isting data sources, the State Department of Education shall consult with
+10 the Legislative Services Office Budget and Policy Analysis Division on ad-
+11 ditional information to include in the report to best support legislative
+12 decision-making. The department shall submit the report to the Joint Fi-
+13 nance-Appropriations Committee and the Legislative Services Office Budget
+14 and Policy Analysis Division no later than December 15, 2026.
+15 SECTION 12. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+16 made pursuant to this act are subject to the conditions, limitations, and re-
+17 strictions specified in this act.
+18 SECTION 13. In addition to the appropriation made in Section 2, Chap-
+19 ter 43, Laws of 2025, and any other appropriation provided by law, there is
+20 hereby appropriated to the Public Schools Educational Support Program's Di-
+21 vision of Student Support $7,800,000 from the Federal Grant Fund to be ex-
+22 pended for the period July 1, 2025, through June 30, 2026.
+23 SECTION 14. Of the additional amounts appropriated in Section 13 of
+24 this act for the Public Schools Educational Support Program's Division of
+25 Student Support, $7,800,000 shall be considered expended from the Federal
+26 Grant Fund for the period July 1, 2025, through June 30, 2026.
+27 SECTION 15. An emergency existing therefor, which emergency is hereby
+28 declared to exist, Sections 13 and 14 of this act shall be in full force and
+29 effect on and after passage and approval, and Sections 1 through 12 of this
+30 act shall be in full force and effect on and after July 1, 2026.

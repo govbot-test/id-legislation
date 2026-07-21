@@ -1,0 +1,241 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 608
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-909, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE PUBLIC SCHOOL FACILITIES COOPERATIVE FUNDING
+4 PROGRAM; AND DECLARING AN EMERGENCY AND PROVIDING RETROACTIVE APPLICA-
+5 TION.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 33-909, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 33-909. PUBLIC SCHOOL FACILITIES COOPERATIVE FUNDING PROGRAM -- FUND
+10 CREATED. (1) In fulfillment of the constitutional requirement to provide a
+11 general, uniform and thorough system of public, free common schools, it is
+12 the intent of the state of Idaho to advance its responsibility for providing
+13 a safe environment conducive to learning by providing a public school facil-
+14 ities funding program to enable qualifying school districts to address un-
+15 safe facilities identified as unsafe under the standards of the Idaho uni-
+16 form school building safety act.
+17 (2) Participation in the program, for the purpose of obtaining state
+18 financial support to abate identified school building safety hazards, re-
+19 quires submission of an application to the public school facilities coopera-
+20 tive funding program panel. Application can be made by:
+21 (a) Any school district that has failed to approve at least one (1) or
+22 more bond or plant facility levies for the repair, renovation, or re-
+23 placement of existing unsafe facilities within the two (2) year period
+24 immediately preceding submission of the application;
+25 (b) The administrator of the division of occupational and professional
+26 licenses for a school district that has failed to address identified un-
+27 safe facilities as provided in chapter 80, title 39, Idaho Code; or
+28 (c) Any school district that has approved one (1) or more bond or plant
+29 facility levies, within the two (2) year period immediately preceding
+30 submission of the application, for the repair, renovation, or replace-
+31 ment of existing unsafe facilities, where the cost of such abatement ex-
+32 ceeds the amount of moneys available from such levy or levies.
+33 (3) There is hereby created within the state department of education
+34 the Idaho public school facilities cooperative funding program panel, here-
+35 after referred to as the panel. The panel shall consist of the administra-
+36 tor of the division of occupational and professional licenses, the adminis-
+37 trator of the division of public works, and the superintendent of public in-
+38 struction, or a designee appointed by a panel member. It shall be the duty
+39 of the panel to consider all applications made to it and to approve, modify
+40 or reject an application based upon the most economical solution to the prob-
+41 lem, as analyzed within a projected twenty (20) year time frame.
+42 (4) The application shall contain the following information:
+
+2
+1 (a) The identified school building safety hazards and such other infor-
+2 mation necessary to document the deficiencies;
+3 (b) The school district's plan for abating the defects, including costs
+4 and sources and amounts of revenue available to the school district;
+5 (c) The market value for assessment purposes of the school district;
+6 and
+7 (d) A detailed accounting of all bond and plant facility levies of the
+8 school district and the revenues raised by such levies.
+9 For applications initiated by the administrator of the division of occu-
+10 pational and professional licenses pursuant to subsection (2)(b) of this
+11 section, the school district shall provide the information required in this
+12 subsection if such information is not available to the administrator.
+13 (5)(a) If the panel determines that it requires additional plans and
+14 information, it may authorize the expenditure of up to one hundred fifty
+15 thousand dollars ($150,000) per application from the public school fa-
+16 cilities cooperative fund for the procurement thereof. In considering
+17 an application, the panel shall determine whether the plan as proposed
+18 is acceptable, is acceptable with modifications as determined by the
+19 panel, or should be rejected. If the application is approved or ap-
+20 proved with modifications, any expenditures authorized by the panel
+21 pursuant to this subsection shall be added to the project. The panel
+22 shall notify the applicant of its decision, in writing, within ninety
+23 (90) days of receiving the application. At the same time the panel no-
+24 tifies the applicant, the panel shall send notification of an approved
+25 application or a modified application to the state department of edu-
+26 cation, along with the panel's specifications for the project and its
+27 cost.
+28 (b) The panel may authorize modifications to the approved plan at any
+29 time prior to the completion of the project, giving consideration to the
+30 interests of the school district, the students and the electors in its
+31 determination. Such modification may alter the scope of work or ter-
+32 minate the approved plan. All modifications must meet the standards as
+33 outlined in this section.
+34 (6) If either an application received pursuant to subsection (2)(b) of
+35 this section is accepted or modified by the panel or the amount approved by
+36 the panel is less than the smallest levy amount rejected pursuant to subsec-
+37 tion (2)(a) of this section, then the local board of trustees of that school
+38 district, at the next election held pursuant to section 34-106, Idaho Code,
+39 shall submit the question to the qualified electors of the school district of
+40 whether to approve a bond or plant facility levy in the amount of the cost of
+41 the project as approved by the panel. If the question to the qualified elec-
+42 tors is not approved at the election, the department shall remit payment to
+43 the district pursuant to subsection (9)(a) of this section.
+44 (7) For applications approved or modified by the panel that are submit-
+45 ted pursuant to subsection (2)(b) of this section or those that exceed five
+46 million dollars ($5,000,000) in cost, within thirty-five (35) calendar days
+47 of receiving notification from the panel that an application submitted by
+48 the administrator of the division of occupational and professional licenses
+49 pursuant to subsection (2)(b) of this section has been approved or modified
+50 by the panel, or within thirty-five (35) calendar days of receiving certifi-
+
+3
+1 cation from the panel that the question submitted to the electorate pursuant
+2 to subsection (6) of this section was not approved in the election, the su-
+3 perintendent of public instruction shall appoint a district supervisor for
+4 interim state supervision of the local school district. The district super-
+5 visor shall be responsible for ensuring that the project, as approved by the
+6 panel, is completed and shall regularly report to the panel in a manner as de-
+7 termined by the panel upon approval of the project. The district supervisor
+8 shall also have the authority granted to said position by the provisions of
+9 section 6-2212, Idaho Code. A district supervisor's term of service shall
+10 continue for the duration of the project, and such person appointed as a dis-
+11 trict supervisor shall serve at the pleasure of the superintendent of public
+12 instruction.
+13 (8) The abatement of unsafe public school facilities through the pub-
+14 lic school facilities cooperative funding program shall be performed exclu-
+15 sively in accordance with the regular permitting, plan review and inspection
+16 requirements of the division of occupational and professional licenses. The
+17 state fire marshal shall have exclusive authority to perform the powers and
+18 duties prescribed in section 41-254, Idaho Code, for such facilities while
+19 the unsafe condition is being abated. The Idaho building code board shall
+20 function as a board of appeals for the division of occupational and profes-
+21 sional licenses for such construction in accordance with the provisions of
+22 section 39-4107, Idaho Code. Upon successful completion of the construc-
+23 tion in accordance with applicable building codes, a certificate of occu-
+24 pancy shall be issued by the administrator of the division of occupational
+25 and professional licenses. Upon issuance of a certificate of occupancy, re-
+26 sponsibility for ensuring the safety of the facility or portion thereof so
+27 constructed will then be returned to the school district and responsibility
+28 for ensuring subsequent compliance with building codes returned to the au-
+29 thority having jurisdiction.
+30 (9) Upon approval of an application or a modified application submitted
+31 by the administrator of the division of occupational and professional li-
+32 censes pursuant to subsection (2)(b) of this section, or upon receipt of
+33 certification from the county that the question submitted to the electorate
+34 pursuant to subsection (6) of this section was not approved in the election,
+35 the panel shall certify the cost of the project, as approved by the panel, to
+36 the state department of education.
+37 (a) The total cost of the project, less any school district funds being
+38 provided, including bond or plant facility funds available pursuant
+39 to an application made under subsection (2)(c) of this section, shall
+40 initially be paid by the state from the public school facilities co-
+41 operative fund. If the panel determines that the amount it approved
+42 is insufficient to complete the project in a satisfactory manner, the
+43 panel may request a legislative appropriation of additional moneys from
+44 the public school facilities cooperative fund. If such an appropria-
+45 tion is approved, these additional moneys shall be added to the cost of
+46 the project.
+47 (b) The district's share of costs shall be based upon actual funds ex-
+48 pended. The district's share of costs that may be repaid through the
+49 payment provisions of this section shall not exceed the district's
+50 share of bond payment costs as would have been calculated for the bond
+
+4
+1 levy equalization support program, as if such program still existed,
+2 in the fiscal year in which the application is made. Interest If the
+3 bond levy equalization fund index for the district is less than 1.00,
+4 the district share shall be discounted by the percentage difference
+5 between the index value and 1.00. However, if the index value is 1.50 or
+6 below, the discount shall be no less than ten percent (10%) of the sim-
+7 ple interest, as calculated by the department over a term not to exceed
+8 twenty (20) years based on the interest rate charged pursuant to the
+9 provisions of this paragraph. Simple interest shall be charged on the
+10 unpaid balance of the district's share of costs, as such balance exists
+11 at the end of each fiscal year, at the average rate of interest earned by
+12 the state treasurer on the investment of idle funds in that the fiscal
+13 year in which the application is made. For the first year, the simple
+14 interest calculation shall be based on the actual number of days since
+15 the initial payment to the district.
+16 (c) It shall be the responsibility of the state department of educa-
+17 tion to calculate a payment in accordance with the provisions of subsec-
+18 tion (10) of this section, which, when imposed over a maximum period not
+19 to exceed twenty (20) years, may yield the revenues needed to repay the
+20 school district's share of the cost of the project. The provisions of
+21 this paragraph shall not apply to owed payments that are not made by the
+22 district pursuant to subsection (10)(a) of this section.
+23 (d) The payment calculated by the state department of education shall
+24 be certified by the department to the school district. The revenues
+25 collected by imposition of the payment from the school district facili-
+26 ties fund in section 33-911, Idaho Code, shall be remitted to the state
+27 treasurer for deposit to the public school facilities cooperative fund.
+28 (10)(a) The annual payment shall be the amount received by the school
+29 district pursuant to section 33-911, Idaho Code, that is applied pur-
+30 suant to section 33-911(2)(b), Idaho Code. This payment shall be remit-
+31 ted annually by September 15 of each year. If payments are not made by
+32 the district pursuant to section 33-911(2)(b), Idaho Code, the twenty
+33 (20) year term outlined in subsection (9)(b) of this section shall be
+34 extended by the number of annual payments not made by the district if
+35 there was a distribution made pursuant to section 33-911(2)(b), Idaho
+36 Code.
+37 (b) The amount calculated for the initial payment pursuant to paragraph
+38 (a) of this subsection shall be established as the minimum payment that
+39 payment shall be made for the amount of time required to reimburse the
+40 state for the school district's share of the project cost, but not to
+41 exceed twenty (20) years, unless payments are not made as outlined in
+42 subsection (9)(a) of this section, even if this period would not provide
+43 reimbursement of the entire amount of the school district's share of
+44 the cost of the project, including any appropriate interest. The state
+45 department of education is authorized and directed to recalculate the
+46 payment on an annual basis and is authorized to increase or decrease the
+47 payment according to the payment schedule, but the payment shall not be
+48 less than the payment initially imposed. Provided however, if the pay-
+49 ment calculated is estimated to raise more money than would be necessary
+50 to repay the district's share of costs, then the state department of
+
+5
+1 education shall certify to the school district the moneys necessary to
+2 repay the district's share of costs.
+3 (c) Within sixty (60) days of the issuance of the certificate of occu-
+4 pancy pursuant to subsection (8) of this section, the school district
+5 shall report to the state department of education the total amount of
+6 any project savings based on the difference between the amount origi-
+7 nally paid pursuant to subsection (9)(a) of this section for the project
+8 and the actual costs incurred, including any contracted costs not yet
+9 paid. The state department of education shall verify the reported
+10 savings. Upon verification, project savings shall be returned by the
+11 school district to the public school facilities cooperative fund within
+12 thirty (30) days of receiving notice of verification from the state
+13 department of education. The amount returned shall then be applied to
+14 reduce the school district's remaining unpaid share of costs pursuant
+15 to the payment schedule calculated in subsection (10) of this section.
+16 (11) There is hereby created in the state treasury a public school fa-
+17 cilities cooperative fund. The fund shall contain such moneys as may be
+18 directed pursuant to appropriation. Moneys in the fund shall be used exclu-
+19 sively to finance the public school facilities cooperative funding program,
+20 except as provided in subsection (9)(a) of this section, and are hereby
+21 continuously appropriated for such purposes as authorized by this section.
+22 Moneys in the fund shall be invested by the state treasurer in the same manner
+23 as provided under section 67-1210, Idaho Code, with respect to other idle
+24 moneys in the state treasury. Interest earned on the investments shall be
+25 retained by the fund.
+26 SECTION 2. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after its
+28 passage and approval, and retroactively to June 1, 2025.

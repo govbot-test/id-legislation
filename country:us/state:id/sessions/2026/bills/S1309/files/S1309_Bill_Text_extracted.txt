@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1309
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO JUVENILE CORRECTIONS; AMENDING CHAPTER 32, TITLE 31, IDAHO CODE,
+3 BY THE ADDITION OF A NEW SECTION 31-3201K, IDAHO CODE, TO ESTABLISH PRO-
+4 VISIONS REGARDING THE DISTRIBUTION OF PAYMENTS IN CASES UNDER THE JU-
+5 VENILE CORRECTIONS ACT; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+6 FECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 32, Title 31, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 31-3201K, Idaho Code, and to read as follows:
+11 31-3201K. DISTRIBUTION OF PAYMENTS IN CASES UNDER THE JUVENILE COR-
+12 RECTIONS ACT. When ordered by the court to make one (1) of the following pay-
+13 ments in a case filed under the juvenile corrections act, chapter 5, title
+14 20, Idaho Code, the person so ordered shall make the payment to the clerk
+15 of the court in which the judgment was entered. The judgment shall be sat-
+16 isfied accordingly by entry in the electronic docket of the court, and the
+17 clerk of the court shall remit daily all such payments to the county auditor,
+18 who shall, at least monthly, distribute the payments received as required by
+19 statute. The distributions shall first completely satisfy the amounts due
+20 in the following order before distribution of payments for any other amounts
+21 owed to the court, and any payment applied to a category as provided in this
+22 section in which more than one (1) payment was ordered shall be distributed
+23 in proportion to the relative amounts of such ordered payments:
+24 (1) Restitution to or making whole any victim who suffers an economic
+25 loss as a result of the juvenile offender's conduct paid pursuant to section
+26 20-520(3), Idaho Code;
+27 (2) Detention/probation training academy fee paid pursuant to section
+28 20-520(1)(q), Idaho Code;
+29 (3) Juvenile drug court or mental health court fee paid pursuant to sec-
+30 tion 31-3201E, Idaho Code;
+31 (4) Juvenile pretrial supervision fee paid pursuant to section
+32 20-516A, Idaho Code;
+33 (5) County juvenile probation supervision fee paid pursuant to section
+34 20-520(1)(s), Idaho Code;
+35 (6) Court-ordered tests of breath or bodily fluids pursuant to section
+36 19-2608, Idaho Code;
+37 (7) Community service fee paid pursuant to section 20-520(1)(r), Idaho
+38 Code;
+39 (8) Probationary contract violation assessment paid pursuant to sec-
+40 tion 20-522, Idaho Code;
+41 (9) Detention costs paid pursuant to section 20-524(2), Idaho Code;
+
+2
+1 (10) Costs of support and treatment of a juvenile paid pursuant to sec-
+2 tion 20-524(1), Idaho Code;
+3 (11) Reimbursement of public defender costs paid pursuant to section
+4 20-514(7), Idaho Code;
+5 (12) Reimbursement for costs of toxicology testing paid pursuant to
+6 section 37-2732C(g), Idaho Code;
+7 (13) Reimbursement for costs incurred by law enforcement agencies in
+8 investigating controlled substance violations pursuant to chapter 27, ti-
+9 tle 37, Idaho Code, violations of the racketeering act pursuant to section
+10 18-7804, Idaho Code, or money laundering and illegal investment provisions
+11 of section 18-8201, Idaho Code, paid pursuant to 37-2732(k), Idaho Code;
+12 (14) Reimbursement for costs paid by a county for psychosexual evalua-
+13 tions paid pursuant to section 18-8318, Idaho Code; and
+14 (15) Any other amounts paid pursuant to any statutory section not refer-
+15 enced in this section.
+16 SECTION 2. An emergency existing therefor, which emergency is hereby
+17 declared to exist, this act shall be in full force and effect on and after
+18 July 1, 2026.

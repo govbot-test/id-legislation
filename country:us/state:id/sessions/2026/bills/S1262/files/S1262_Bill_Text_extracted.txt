@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1262
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO INSURER INVESTMENTS; AMENDING SECTION 41-735, IDAHO CODE, TO RE-
+3 VISE PROVISIONS REGARDING MISCELLANEOUS INVESTMENTS; AND DECLARING AN
+4 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 41-735, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 41-735. MISCELLANEOUS INVESTMENTS. (1) An insurer may loan or invest
+9 its funds in kinds of loans or investments not otherwise specifically made
+10 eligible for investment and not specifically prohibited or made ineligi-
+11 ble by this or other provisions of the Idaho Code in an aggregate amount
+12 not exceeding the lesser of ten percent (10%) of an insurer's assets, or
+13 seventy-five percent (75%) of an insurer's capital and surplus excluding
+14 surplus notes. Investments under this subsection are limited to five per-
+15 cent (5%) of an insurer's assets in a single investment or in a single entity,
+16 its affiliates, and subsidiaries as defined by the first six (6) digits of
+17 the committee on uniform security identification procedures (CUSIP) number.
+18 (2) The insurer shall keep a separate record of all investments ac-
+19 quired under this section.
+20 SECTION 2. An emergency existing therefor, which emergency is hereby
+21 declared to exist, this act shall be in full force and effect on and after
+22 July 1, 2026.

@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 773
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO THE DEPARTMENT OF FINANCE; PROVIDING LEGISLATIVE INTENT; AMEND-
+3 ING SECTION 26-2128, IDAHO CODE, TO REMOVE AN OBSOLETE PROVISION; RE-
+4 PEALING SECTION 26-2170, IDAHO CODE, RELATING TO DEFINITIONS, PURPOSE,
+5 AND RESTRICTIONS OF THE IDAHO CORPORATE CREDIT UNION; REPEALING SECTION
+6 26-2171, IDAHO CODE, RELATING TO ORGANIZATION OF THE IDAHO CORPORATE
+7 CREDIT UNION; REPEALING SECTION 26-2172, IDAHO CODE, RELATING TO AMEND-
+8 MENTS OF THE IDAHO CORPORATE CREDIT UNION; REPEALING SECTION 26-2173,
+9 IDAHO CODE, RELATING TO CORPORATE POWERS OF THE IDAHO CORPORATE CREDIT
+10 UNION; REPEALING SECTION 26-2174, IDAHO CODE, RELATING TO MEMBERSHIP
+11 IN THE IDAHO CORPORATE CREDIT UNION; REPEALING SECTION 26-2175, IDAHO
+12 CODE, RELATING TO EXPULSION AND WITHDRAWAL FROM THE FIELD OF MEMBERSHIP
+13 OF THE IDAHO CORPORATE CREDIT UNION; REPEALING SECTION 26-2176, IDAHO
+14 CODE, RELATING TO MEETINGS AND ELECTIONS OF THE IDAHO CORPORATE CREDIT
+15 UNION; REPEALING SECTION 26-2177, IDAHO CODE, RELATING TO THE BOARD
+16 OF DIRECTORS OF THE IDAHO CORPORATE CREDIT UNION; REPEALING SECTION
+17 26-2178, IDAHO CODE, RELATING TO OFFICERS OF THE IDAHO CORPORATE CREDIT
+18 UNION; REPEALING SECTION 26-2179, IDAHO CODE, RELATING TO THE BOARD
+19 OF DIRECTORS OF THE IDAHO CORPORATE CREDIT UNION; REPEALING SECTION
+20 26-2180, IDAHO CODE, RELATING TO LOANS TO MEMBER CREDIT UNIONS BY THE
+21 IDAHO CORPORATE CREDIT UNION; REPEALING SECTION 26-2181, IDAHO CODE,
+22 RELATING TO COMPENSATION FOR CORPORATE OFFICERS; REPEALING SECTION
+23 26-2182, IDAHO CODE, RELATING TO SHARES AND DEPOSITS; REPEALING SECTION
+24 26-2183, IDAHO CODE, RELATING TO RESERVE ALLOCATIONS OF THE IDAHO COR-
+25 PORATE CREDIT UNION; REPEALING SECTION 26-2184, IDAHO CODE, RELATING
+26 TO DIVIDENDS OF THE IDAHO CORPORATE CREDIT UNION; REPEALING SECTION
+27 26-2185, IDAHO CODE, RELATING TO APPLICABLE PROVISIONS OF THE IDAHO
+28 CREDIT UNION ACT; REPEALING SECTION 26-2186, IDAHO CODE, RELATING TO
+29 TAXATION OF THE IDAHO CORPORATE CREDIT UNION; REPEALING SECTION 27-406,
+30 IDAHO CODE, RELATING TO THE DUTY OF AN OWNER OF A CEMETERY; REPEALING
+31 SECTION 27-409, IDAHO CODE, RELATING TO CEMETERIES AND APPLICATION OF
+32 LAW; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+33 Be It Enacted by the Legislature of the State of Idaho:
+34 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+35 of the Legislature to ensure that the state laws provided in Idaho Code are
+36 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+37 serving the public health, safety, and welfare. In accordance with the Idaho
+38 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+39 tified the provisions of this act as obsolete, outdated, or unnecessary.
+40 SECTION 2. That Section 26-2128, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+
+2
+1 26-2128. LIQUIDITY REQUIREMENTS. (a) Every credit union shall have
+2 on hand as a liquidity reserve an amount equal to four percent (4%) of its
+3 outstanding shares, certificates of deposit, and certificates of indebted-
+4 ness. Share or deposit accounts from which a member may withdraw funds by
+5 the use of a negotiable instrument shall be subject to the liquidity reserve
+6 requirements of subsection (b) of this section and not to the liquidity re-
+7 serve requirements of this subsection. Said liquidity reserves, except as
+8 hereinafter otherwise provided, shall be kept in cash on hand or on deposit
+9 subject to check or draft, with any bank or banks or corporate credit union
+10 located in the state of Idaho, which shall have been approved by the director
+11 as liquidity reserve depositories and shall be computed monthly as follows:
+12 on the basis of average daily bank deposits and average daily cash on hand.
+13 (b) Every credit union which provides for its member's share or deposit
+14 accounts from which the member may withdraw funds by the use of negotiable
+15 instrument shall have on hand as a liquidity reserve in addition to the liq-
+16 uidity reserve required by subsection (a) of this section an amount equal
+17 to ten percent (10%) of its share and deposit accounts which are subject to
+18 withdrawal by the use of negotiable instrument. Said liquidity reserves
+19 shall be kept in cash on hand or on deposit subject to check or draft, with any
+20 bank or banks or corporate credit union located in the state of Idaho which
+21 shall have been approved by the director as liquidity reserve depositories
+22 and shall be computed monthly as follows: on the basis of average daily bank
+23 or corporate credit union deposits, and average daily cash on hand.
+24 (c) Certificates of deposit issued by the Idaho Corporate Credit Union
+25 may be included in meeting the requirements of this section. To the extent a
+26 credit union is required to maintain reserves pursuant to the monetary con-
+27 trol act of 1980 and the implementing regulations of the board of governors
+28 of the federal reserve system, as the same is presently enacted and as it may
+29 be amended in the future, the reserves required to be so maintained shall be
+30 considered as a part of, and not in addition to, the liquidity reserves re-
+31 quired by this section.
+32 SECTION 3. That Section 26-2170, Idaho Code, be, and the same is hereby
+33 repealed.
+34 SECTION 4. That Section 26-2171, Idaho Code, be, and the same is hereby
+35 repealed.
+36 SECTION 5. That Section 26-2172, Idaho Code, be, and the same is hereby
+37 repealed.
+38 SECTION 6. That Section 26-2173, Idaho Code, be, and the same is hereby
+39 repealed.
+40 SECTION 7. That Section 26-2174, Idaho Code, be, and the same is hereby
+41 repealed.
+42 SECTION 8. That Section 26-2175, Idaho Code, be, and the same is hereby
+43 repealed.
+44 SECTION 9. That Section 26-2176, Idaho Code, be, and the same is hereby
+45 repealed.
+
+3
+1 SECTION 10. That Section 26-2177, Idaho Code, be, and the same is hereby
+2 repealed.
+3 SECTION 11. That Section 26-2178, Idaho Code, be, and the same is hereby
+4 repealed.
+5 SECTION 12. That Section 26-2179, Idaho Code, be, and the same is hereby
+6 repealed.
+7 SECTION 13. That Section 26-2180, Idaho Code, be, and the same is hereby
+8 repealed.
+9 SECTION 14. That Section 26-2181, Idaho Code, be, and the same is hereby
+10 repealed.
+11 SECTION 15. That Section 26-2182, Idaho Code, be, and the same is hereby
+12 repealed.
+13 SECTION 16. That Section 26-2183, Idaho Code, be, and the same is hereby
+14 repealed.
+15 SECTION 17. That Section 26-2184, Idaho Code, be, and the same is hereby
+16 repealed.
+17 SECTION 18. That Section 26-2185, Idaho Code, be, and the same is hereby
+18 repealed.
+19 SECTION 19. That Section 26-2186, Idaho Code, be, and the same is hereby
+20 repealed.
+21 SECTION 20. That Section 27-406, Idaho Code, be, and the same is hereby
+22 repealed.
+23 SECTION 21. That Section 27-409, Idaho Code, be, and the same is hereby
+24 repealed.
+25 SECTION 22. An emergency existing therefor, which emergency is hereby
+26 declared to exist, this act shall be in full force and effect on and after
+27 July 1, 2026.

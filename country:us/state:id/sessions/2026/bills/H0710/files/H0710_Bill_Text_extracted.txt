@@ -1,0 +1,428 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 710
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-512, IDAHO CODE, TO PROVIDE THAT
+3 INSTRUCTIONAL HOURS IN A SCHOOL DISTRICT'S ACADEMIC YEAR SHALL NOT BE-
+4 GIN PRIOR TO THE TUESDAY FOLLOWING LABOR DAY; AMENDING SECTION 33-5206,
+5 IDAHO CODE, TO PROVIDE THAT INSTRUCTIONAL HOURS IN A PUBLIC CHARTER
+6 SCHOOL'S ACADEMIC YEAR SHALL NOT BEGIN PRIOR TO THE TUESDAY FOLLOWING
+7 LABOR DAY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 33-512, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 33-512. GOVERNANCE OF SCHOOLS. The board of trustees of each school
+12 district shall have the following powers and duties:
+13 (1) To fix the days of the year and the hours of the day when schools
+14 shall be in session. However:
+15 (a) Each school district shall annually adopt and implement a school
+16 calendar that provides its students at each grade level with the follow-
+17 ing minimum number of instructional hours:
+18 Grades Hours
+19 9-12 990
+20 4-8 900
+21 1-3 810
+22 K 450
+23 Alternative schools
+24 (any grades) 900
+25 (b) School assemblies, testing and other instructionally related ac-
+26 tivities involving students directly may be included in the required
+27 instructional hours.
+28 (c) When approved by a local school board, annual instructional hour
+29 requirements stated in paragraph (a) of this subsection may be reduced
+30 as follows:
+31 (i) Up to a total of twenty-two (22) hours to accommodate staff
+32 development activities conducted on such days as the local school
+33 board deems appropriate.
+34 (ii) Up to a total of eleven (11) hours of emergency school clo-
+35 sures due to adverse weather conditions and facility failures.
+36 However, transportation to and from school, passing times between
+37 classes, recess and lunch periods shall not be included.
+38 (d) Student and staff activities related to the opening and closing of
+39 the school year, grade reporting, program planning, staff meetings, and
+40 other classroom and building management activities shall not be counted
+
+2
+1 as instructional time or in the reductions provided in paragraph (c)(i)
+2 of this subsection.
+3 (e) For multiple shift programs, this rule applies to each shift (i.e.,
+4 each student must have access to the minimum annual required hours of
+5 instruction).
+6 (f) The instructional time requirement for grade 12 students may be re-
+7 duced by action of a local school board for an amount of time not to ex-
+8 ceed eleven (11) hours of instructional time.
+9 (g) The state superintendent of public instruction may grant an ex-
+10 emption from the provisions of this section for an individual building
+11 within a district, when the closure of that building, for unforeseen
+12 circumstances, does not affect the attendance of other buildings within
+13 the district.
+14 (h) The state board of education may grant a waiver of the minimum
+15 number of instructional hours for a school district when districtwide
+16 school closures are necessary as a result of natural occurrences cre-
+17 ating unsafe conditions for students. A county or state disaster
+18 declaration must have been issued for one (1) or more of the counties
+19 in which the school district is located. A waiver request to the state
+20 board of education must describe the efforts by the school district to
+21 make up lost instructional hours, the range of grades impacted, and the
+22 number of hours the school district is requesting be waived.
+23 (i) The reduction of instructional hours allowed in paragraphs (f)
+24 through (h) of this subsection may not be combined in a single school
+25 year.
+26 (j) Instructional hours shall not begin prior to the Tuesday following
+27 Labor Day in any academic year.
+28 (2) To adopt and carry on and to provide for the financing of a total ed-
+29 ucational program for the district. Such programs in other than elementary
+30 school districts may include education programs for out-of-school youth and
+31 adults, and such districts may provide classes in kindergarten;
+32 (3) To provide, or require pupils to be provided with, suitable text-
+33 books and supplies and, for advice on textbook selections, may appoint a cur-
+34 ricular materials adoption committee as provided in section 33-512A, Idaho
+35 Code;
+36 (4) To protect the morals and health of the pupils;
+37 (5) To exclude from school children not of school age;
+38 (6) To prescribe rules for the disciplining of unruly or insubordinate
+39 pupils, including rules on student harassment, intimidation and bullying,
+40 such rules to be included in a district discipline code adopted by the board
+41 of trustees and a summarized version thereof to be provided in writing at the
+42 beginning of each school year to the teachers and students in the district
+43 in a manner consistent with the student's age, grade and level of academic
+44 achievement;
+45 (7) To exclude from school pupils with contagious or infectious dis-
+46 eases who are diagnosed or suspected as having a contagious or infectious
+47 disease or those who are not immune and have been exposed to a contagious or
+48 infectious disease; and to close school if the board determines that condi-
+49 tions warrant such closure, based on consultation with the district health
+
+3
+1 department of the public health district in which the school district is lo-
+2 cated;
+3 (8) To equip and maintain a suitable library or libraries in the school
+4 or schools and to exclude therefrom, and from the schools, all books, tracts,
+5 papers, and catechisms of sectarian nature;
+6 (9) To determine school holidays. Any listing of school holidays shall
+7 include not less than the following: New Year's Day, Memorial Day, Indepen-
+8 dence Day, Thanksgiving Day, and Christmas Day. Other days listed in section
+9 73-108, Idaho Code, if the same shall fall on a school day, shall be observed
+10 with appropriate ceremonies; and any days the state board of education may
+11 designate, following the proclamation by the governor, shall be school holi-
+12 days;
+13 (10) To erect and maintain on each schoolhouse or school grounds a suit-
+14 able flagstaff or flagpole and display thereon the flag of the United States
+15 of America on all days, except during inclement weather, when the school is
+16 in session; and for each Veterans Day, each school in session shall conduct
+17 and observe an appropriate program of at least one (1) class period remember-
+18 ing and honoring American veterans;
+19 (11) To prohibit entrance to each schoolhouse or school grounds, to pro-
+20 hibit loitering in schoolhouses or on school grounds and to provide for the
+21 removal from each schoolhouse or school grounds of any individual or indi-
+22 viduals who disrupt the educational processes or whose presence is detrimen-
+23 tal to the morals, health, safety, academic learning or discipline of the
+24 pupils. A person who disrupts the educational process or whose presence is
+25 detrimental to the morals, health, safety, academic learning or discipline
+26 of the pupils, or who loiters in schoolhouses or on school grounds, is guilty
+27 of a misdemeanor;
+28 (12) To supervise and regulate, including by contract with established
+29 entities, those extracurricular activities that are by definition outside
+30 of or in addition to the regular academic courses or curriculum of a public
+31 school, and which extracurricular activities shall not be considered to be a
+32 property, liberty or contract right of any student, and such extracurricular
+33 activities shall not be deemed a necessary element of a public school educa-
+34 tion but shall be considered to be a privilege. For the purposes of extracur-
+35 ricular activities, any secondary school located in this state that is ac-
+36 credited by an organization approved through a process defined by the state
+37 department of education shall be able to fully participate in all extracur-
+38 ricular activities described in and governed by the provisions of this sub-
+39 section;
+40 (13) To govern the school district in compliance with state law and
+41 rules of the state board of education;
+42 (14) To submit to the superintendent of public instruction not later
+43 than July 1 of each year documentation that meets the reporting requirements
+44 of the federal gun-free schools act of 1994 as contained within the federal
+45 improving America's schools act of 1994;
+46 (15) To require that all certificated and noncertificated employees
+47 hired on or after July 1, 2008, and other individuals who are required by
+48 the provisions of section 33-130, Idaho Code, to undergo a criminal history
+49 check shall submit a completed ten (10) finger fingerprint card or scan to
+50 the department of education no later than five (5) days following the first
+
+4
+1 day of employment or unsupervised contact with students in a K-12 setting,
+2 whichever is sooner. Such employees and other individuals shall pay the cost
+3 of the criminal history check. If the criminal history check shows that the
+4 employee has been convicted of a felony crime enumerated in section 33-1208,
+5 Idaho Code, it shall be grounds for immediate termination, dismissal or
+6 other personnel action of the district, except that it shall be the right
+7 of the school district to evaluate whether an individual convicted of one
+8 of these crimes and having been incarcerated for that crime shall be hired.
+9 Provided however, that any individual convicted of any felony offense listed
+10 in section 33-1208(2), Idaho Code, shall not be hired. For the purposes of
+11 criminal history checks, a substitute teacher is any individual who tem-
+12 porarily replaces a certificated classroom educator and is paid a substitute
+13 teacher wage for one (1) day or more during a school year. A substitute
+14 teacher who has undergone a criminal history check at the request of one (1)
+15 district in which he has been employed as a substitute shall not be required
+16 to undergo an additional criminal history check at the request of any other
+17 district in which he is employed as a substitute if the teacher has obtained
+18 a criminal history check within the previous five (5) years. If the district
+19 next employing the substitute still elects to require another criminal his-
+20 tory check within the five (5) year period, that district shall pay the cost
+21 of the criminal history check or reimburse the substitute teacher for such
+22 cost. To remain on the statewide substitute teacher list maintained by the
+23 state department of education, the substitute teacher shall undergo a crimi-
+24 nal history check every five (5) years;
+25 (16) To develop and maintain a safe environment for students and employ-
+26 ees by:
+27 (a) Developing a system of background checks for all persons who have
+28 unsupervised contact with students in a kindergarten through grade 12
+29 setting, which shall include but shall not be limited to a check of the
+30 Idaho sex offender central registry provided in chapter 83, title 18,
+31 Idaho Code;
+32 (b) Requiring each school in the school district to create and maintain
+33 an emergency operations plan for each school that is approved by the
+34 board. The board shall ensure plans are developed in coordination with
+35 local school staff and local emergency response agencies and reviewed
+36 at least annually for updates and changes. Plans shall meet the guide-
+37 lines adopted by the Idaho school safety and security advisory board;
+38 and
+39 (c) Requiring all school district staff to receive initial and an-
+40 nual emergency operations training that provides instruction on how to
+41 conduct exercises in order to respond to emergencies according to the
+42 guidelines established by the Idaho school safety and security advisory
+43 board; and
+44 (17) To provide support for teachers in their first two (2) years in the
+45 profession in the areas of: administrative and supervisory support, mentor-
+46 ing, peer assistance and professional development.
+47 SECTION 2. That Section 33-5206, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+5
+1 33-5206. REQUIREMENTS FOR OPERATING A PUBLIC CHARTER SCHOOL. (1) A
+2 public charter school shall be nonsectarian in its programs, affiliations,
+3 admission policies, employment practices, and all other operations, shall
+4 not charge tuition, levy taxes, or issue bonds, and shall not discriminate
+5 against any student on any basis prohibited by the federal or state consti-
+6 tution or any federal, state, or local law. Public charter schools shall
+7 comply with the federal individuals with disabilities education act. Ad-
+8 mission to a public charter school shall not be determined according to the
+9 place of residence of the student or of the student's parent or guardian
+10 within the district.
+11 (2) No board of trustees of a public school district may require:
+12 (a) Any employee of the school district to be involuntarily assigned to
+13 work in a public charter school; or
+14 (b) Any student enrolled in the school district to attend a public char-
+15 ter school.
+16 (3) Employment of charter school teachers and administrators shall be
+17 on written contract.
+18 (4) Administrators may be certified pursuant to the requirements set
+19 forth in chapter 12, title 33, Idaho Code, pertaining to traditional public
+20 schools or may hold a charter school administrator certificate, which re-
+21 quires that the administrator:
+22 (a) Holds a bachelor's degree from an accredited four (4) year institu-
+23 tion;
+24 (b) Submits to a criminal history check as described in section 33-130,
+25 Idaho Code;
+26 (c) Completes a course consisting of a minimum of three (3) semester
+27 credits in the statewide framework for teacher evaluations, which shall
+28 include a laboratory component;
+29 (d) Submits a letter of support from a charter holder; and
+30 (e) Has one (1) or more of the following:
+31 (i) Four (4) or more years of experience administering a public
+32 charter school;
+33 (ii) A postbaccalaureate degree and a minimum of five (5) years
+34 of experience in school administration, public administration,
+35 business administration, or military administration;
+36 (iii) Successful completion of a nationally recognized charter
+37 school leaders fellowship; or
+38 (iv) Four (4) or more years of teaching experience and a commit-
+39 ment from an administrator at a charter school in academic, op-
+40 erational, and financial good standing, according to its autho-
+41 rizer's most recent review, to mentor the applicant for a minimum
+42 of one (1) year.
+43 (5) A charter school administrator certificate is valid for five (5)
+44 years and renewable thereafter. Administrators shall be subject to over-
+45 sight by the professional standards commission. Certificates may be revoked
+46 pursuant to the provisions of section 33-1208, Idaho Code. Issuance of a
+47 certificate to any applicant may be refused for such reason as would have
+48 constituted grounds for revocation.
+49 (6) Certified teachers in a public charter school shall be considered
+50 public school teachers. Educational experience shall accrue for service in
+
+6
+1 a public charter school and be counted by any school district for any teacher
+2 who has been employed in a public charter school. The staff of the public
+3 charter school shall be considered a separate unit for the purposes of col-
+4 lective bargaining.
+5 (7) Charter school teachers may be certified pursuant to the require-
+6 ments set forth in chapter 12, title 33, Idaho Code, pertaining to tradi-
+7 tional public school districts or may hold a charter school-specific teach-
+8 ing certificate.
+9 (a) Criteria for a charter school-specific teaching certificate shall
+10 be in writing and require that teachers satisfy the provisions set forth
+11 in section 33-1202 1., 3., and 4., Idaho Code, and meet the following
+12 minimum educational or professional qualifications:
+13 (i) Hold a bachelor's degree from an accredited institution; or
+14 (ii) If instructing students in the fields of career technical
+15 education, satisfy the provisions of section 33-2205(6)(a), Idaho
+16 Code. Career technical education programs taught by teachers
+17 with a charter school-specific teaching certificate shall receive
+18 added-cost funding set forth in section 33-2215, Idaho Code, in an
+19 amount equal to programs taught by teachers with an occupational
+20 specialist teaching certificate.
+21 (b) Teachers with a charter school-specific teaching certificate shall
+22 receive mentoring and professional development as approved by the char-
+23 ter holder.
+24 (c) The state board of education shall issue charter school-specific
+25 teaching certificates to teachers upon recommendation of the individ-
+26 ual charter school, unless denied on the grounds set forth in section
+27 33-1208, Idaho Code.
+28 (d) For teachers holding a charter school-specific teaching certifi-
+29 cate, a charter school may substitute its own ongoing education and pro-
+30 fessional development requirements in place of those set forth in rule
+31 by the state board of education if the same number of credit hours is
+32 required as that of teachers holding a standard instructional certifi-
+33 cate.
+34 (8) Public charter schools may contract with educational services
+35 providers subject to the following provisions:
+36 (a) Educational services providers shall be third-party entities sepa-
+37 rate from the public charter schools with which they contract and shall
+38 not be considered governmental entities, provided that such contracts
+39 may be evaluated by the authorizer;
+40 (b) No more than one-third (1/3) of the public charter school's board
+41 membership may be comprised of nonprofit educational services provider
+42 representatives. Nonprofit educational services provider repre-
+43 sentatives may not be employees of the public charter school or the
+44 educational services provider and may not hold office as president or
+45 treasurer on the public charter school's board. For-profit educational
+46 services providers may not have representatives on the public charter
+47 school's board of directors;
+48 (c) Charter holders shall annually disclose any existing and potential
+49 conflicts of interest, pecuniary or otherwise, with affiliated educa-
+50 tional services providers;
+
+7
+1 (d) Charter holders shall retain accountability for academic, fiscal,
+2 and organizational operations and outcomes of the school and may not re-
+3 linquish this responsibility to any other entity;
+4 (e) Contracts must ensure that school boards retain the right to termi-
+5 nate the contract for failure to meet defined performance standards af-
+6 ter notice and a reasonable cure period has expired and if material de-
+7 ficiencies have not been cured prior to that time period expiring;
+8 (f) Contracts must ensure that assets purchased by educational ser-
+9 vices providers on behalf of the school, using public funds, shall
+10 remain assets of the school. The provisions of this paragraph shall
+11 not prevent educational services providers from acquiring assets using
+12 revenue acquired through management fees;
+13 (g) Charter holders shall consult legal counsel independent of the
+14 party with whom they are contracting for purposes of reviewing the
+15 school's management contract and facility lease or purchase agreements
+16 to ensure compliance with applicable state and federal law, including
+17 requirements that state entities not enter into contracts that obligate
+18 them beyond the terms of any appropriation of funds by the state legis-
+19 lature;
+20 (h) Charter holders must ensure that their facility contracts are sepa-
+21 rate from management contracts; and
+22 (i) A virtual school shall be deemed financially sufficient if there is
+23 an agreement that requires an educational services provider to assume
+24 the virtual school's financial risk when it does not have sufficient
+25 residual funds to pay the educational services provider. Where this
+26 paragraph is applicable, the educational services provider shall make
+27 its audited financial statements available, unless the educational
+28 services provider already makes such audited financial statements pub-
+29 licly available for compliance with other federal or state laws.
+30 (9) Admission procedures, including provision for over-enrollment,
+31 shall provide that the initial admission procedures for a public charter
+32 school will be determined by lottery or other random method, except as oth-
+33 erwise provided in this section. A charter holder shall strive to ensure
+34 that citizens in the primary attendance area are made aware of the enrollment
+35 opportunities and deadline. The public notice must include the enrollment
+36 deadline, the public charter school's total enrollment capacity for the next
+37 school year, and an advisory that all prospective students will be given
+38 the opportunity to enroll in the public charter school regardless of race,
+39 color, national origin, ethnicity, religion, gender, socioeconomic status,
+40 or special needs.
+41 (a) If initial capacity is insufficient to enroll all pupils who submit
+42 a timely application, then the admission procedures may provide that
+43 preference shall be given in the following order: first, to children
+44 of founders, provided that this admission preference shall be limited
+45 to not more than ten percent (10%) of the capacity of the public charter
+46 school; second, to siblings of pupils already selected by the lottery
+47 or other random method; third, to pupils seeking to transfer from an-
+48 other Idaho public charter school or authorizer at which they have been
+49 enrolled for at least one (1) year, provided that this admission prefer-
+50 ence shall be subject to an existing written agreement for such prefer-
+
+8
+1 ence between the subject charter schools or authorizer; fourth, to stu-
+2 dents residing within the primary attendance area of the public charter
+3 school; and fifth, by an equitable selection process such as a lottery
+4 or other random method. A public charter school may weight the school's
+5 lottery to preference admission for the following educationally dis-
+6 advantaged students: students living at or below one hundred eighty-
+7 five percent (185%) of the federal poverty level, students who are home-
+8 less or in foster care, children with disabilities as defined in sec-
+9 tion 33-2001, Idaho Code, students with limited English proficiency,
+10 and students who are at-risk as defined in section 33-1001, Idaho Code.
+11 A public charter school may include the children of full-time employees
+12 of the public charter school within the first priority group, subject to
+13 the limitations therein.
+14 (b) If capacity is insufficient to enroll all pupils who submit a timely
+15 application for subsequent school terms, then the admission procedures
+16 may provide that preference shall be given in the following order:
+17 first, to pupils returning to the public charter school in the second
+18 or any subsequent year of its operation; and then as provided in para-
+19 graph (a) of this subsection. The sibling preference in subsequent
+20 school years applies to siblings of a returning pupil and of a pupil
+21 selected by the lottery or other random method. A new lottery shall be
+22 conducted each year to fill vacancies that become available. A public
+23 charter school may weight the school's lottery to preference admission
+24 as provided in this paragraph and paragraph (a) of this subsection and
+25 for children who attended the public charter school within the previous
+26 three (3) school years but withdrew as a result of the relocation of a
+27 parent or guardian due to an academic sabbatical or an employer or mili-
+28 tary transfer or reassignment.
+29 (c) Each public charter school shall establish a process under which a
+30 child may apply for enrollment or register for courses, regardless of
+31 where such child resides at the time of application or registration, if
+32 the child is a dependent of a member of the United States armed forces
+33 who has received transfer orders to a location in Idaho and will, upon
+34 such transfer, reside in an area served by the public charter school.
+35 If capacity is insufficient as described in paragraph (a) or (b) of this
+36 subsection, a child described in this paragraph shall be treated as a
+37 student residing within the primary attendance area of the public char-
+38 ter school for purposes of preference. Otherwise, such children shall
+39 be included in the highest priority group for which they would otherwise
+40 be eligible.
+41 (d) Admission to a public charter school shall be determined by a selec-
+42 tion process held within seven (7) days of the enrollment deadlines es-
+43 tablished by the charter holder. The selection process must take place
+44 in a public setting, the date and time of which must be noticed to the
+45 public at least forty-eight (48) hours in advance.
+46 (e) Within seven (7) days after conducting the selection process, the
+47 charter holder shall send an offer to the legal guardian who submitted a
+48 written request for admission on behalf of a student notifying such per-
+49 son that the student has been selected for admission to the public char-
+50 ter school. An offer must be signed by such student's parent or guardian
+
+9
+1 and returned to the public charter school by the date designated in such
+2 offer letter. Remaining students shall be notified that they may be el-
+3 igible for admission at a later date if a seat becomes available.
+4 (f) If a school exceeds its projected student count in a lottery and
+5 a sufficient wait list exists, the school may increase enrollment by
+6 adding additional students per grade, not to exceed the total amount of
+7 students authorized by the charter.
+8 (10) Instructional hours for a public charter school shall not begin
+9 prior to the Tuesday following Labor Day in any academic year.
+10 SECTION 3. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2026.

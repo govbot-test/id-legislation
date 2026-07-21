@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1335
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-3731, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING STATE-SUPPORTED MEDICAL STUDENTS AND THE HUMAN MEDI-
+4 CAL EDUCATION REIMBURSEMENT FUND; AND DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-3731, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-3731. CONTRACT REQUIREMENTS FOR STATE-SUPPORTED MEDICAL STUDENTS
+9 -- HUMAN MEDICAL EDUCATION REIMBURSEMENT FUND.
+10 (1)(a) An individual who qualifies as an Idaho resident pursuant to
+11 section 33-3717B, Idaho Code, and who is accepted into a human medical
+12 or veterinary education program enrolling Idaho students supported by
+13 Idaho state funds in slots reserved for Idaho students shall, before
+14 confirming enrollment in such program or school, enter into a contract
+15 with the state board of education or the board's designee, which.
+16 (b) For human medical and veterinary students, such contract shall
+17 specify that the individual will commit to entering active full-time
+18 professional practice in Idaho for a period of four (4) years within one
+19 (1) year of:
+20 (a) (i) Obtaining a license to practice medicine;
+21 (b) (ii) Finishing a residency or subspecialty residency; or
+22 (c) (iii) Finishing a human medical or veterinary education fel-
+23 lowship as defined by the state board of education or the board's
+24 designee.
+25 (c) For veterinary education students beginning the 2027 academic
+26 year, the contract shall specify that the individual will commit to a
+27 course of study and subsequent service that includes mixed practice
+28 agricultural animal veterinary medicine. The contract shall also re-
+29 quire that no less than six hundred (600) hours of annual full-time
+30 clinical practice shall be devoted to providing veterinary services to
+31 agricultural animals. Compliance with this requirement shall be re-
+32 viewed on an annual basis.
+33 (d) For purposes of this section, the term "agricultural animal" shall
+34 include cattle, sheep, goats, and swine.
+35 (2) Each year of a human medical or veterinary medicine residency
+36 served in Idaho, up to four (4) years, will be credited as one-half (1/2) year
+37 of the practice requirement provided in subsection (1) of this section. For
+38 veterinary education students, such residency training shall require that a
+39 majority of time be devoted to mixed practice agricultural animal veterinary
+40 medicine. After the fourth year, no credit shall be given for any additional
+41 residency years.
+
+2
+1 (3) An individual who fails to abide by the contract described in sub-
+2 section (1) of this section shall reimburse the state for the state's fi-
+3 nancial obligation in supporting the individual's human medical or veteri-
+4 nary medicine education, as determined by the state board of education or the
+5 board's designee. Reimbursement must:
+6 (a) Begin within one (1) year of:
+7 (i) Obtaining a license to practice medicine;
+8 (ii) Finishing a residency or subspecialty residency; or
+9 (iii) Finishing a human medical or veterinary education fellow-
+10 ship as defined by the state board of education or the board's de-
+11 signee;
+12 (b) Be paid according to an amortized schedule established by the state
+13 board of education or the board's designee; and
+14 (c) Be completed within eight (8) years of the date the reimbursement
+15 requirement began.
+16 (4) The reimbursement obligation described in subsection (3) of this
+17 section:
+18 (a) Shall not accrue any interest; and
+19 (b) May, by act of the state board of education or the board's designee,
+20 be:
+21 (i) Suspended if reimbursement is temporarily impossible or
+22 would create extreme hardship for a temporary period, including
+23 but not limited to suspension for medical reasons, personal rea-
+24 sons, parental leave, or call to active duty in the armed forces;
+25 or
+26 (ii) Waived if:
+27 1. Reimbursement is permanently impossible or would create
+28 extreme hardship, including but not limited to death, in-
+29 ability to complete the program, or inability to obtain a li-
+30 cense to practice medicine; or
+31 2. The individual owing reimbursement is participating in
+32 a program of the federal government or United States armed
+33 forces that has a service requirement.
+34 (5) The provisions of this section shall apply to individuals matricu-
+35 lating in a medical education program enrolling Idaho students supported by
+36 Idaho state funds in slots reserved for Idaho human medical students in fall
+37 2023 and thereafter and to individuals matriculating in a veterinary edu-
+38 cation program enrolling Idaho students supported by Idaho state funds in
+39 slots reserved for Idaho veterinary students in fall 2027 and thereafter.
+40 (6) There is hereby established in the state treasury a human medical
+41 education reimbursement fund, which shall be administered by the state board
+42 of education or the board's designee. Moneys in the fund shall:
+43 (a) Consist of:
+44 (i) Reimbursement paid pursuant to subsection (3) of this sec-
+45 tion;
+46 (ii) Legislative appropriations;
+47 (iii) Donations; and
+48 (iv) Interest earned on idle moneys in the fund; and
+49 (b) Be used for, subject to availability:
+
+3
+1 (i) The costs of administering and enforcing the provisions of
+2 this section; and
+3 (ii) Incentive grants in an amount and according to a pro-
+4 gram established under state board of education policy. Such
+5 grants shall be awarded to licensed physicians who practice human
+6 medicine in Idaho and who meet other criteria provided in board
+7 policy.
+8 (7) The state board of education is authorized to take such actions as
+9 are necessary to effectuate the provisions of this section.
+10 SECTION 2. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after its
+12 passage and approval.

@@ -1,0 +1,299 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 669
+BY CAYLER
+1 AN ACT
+2 RELATING TO CLOUD SEEDING; REPEALING SECTION 42-4301, IDAHO CODE, RELATING
+3 TO CLOUD SEEDING; AMENDING CHAPTER 43, TITLE 42, IDAHO CODE, BY THE AD-
+4 DITION OF A NEW SECTION 42-4301, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+5 GARDING CLOUD SEEDING; AMENDING SECTION 42-605, IDAHO CODE, TO REMOVE A
+6 REFERENCE TO CLOUD SEEDING AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+7 SECTION 42-1805, IDAHO CODE, TO REMOVE REFERENCES TO CLOUD SEEDING AND
+8 WEATHER MODIFICATION AND TO MAKE TECHNICAL CORRECTIONS; REPEALING SEC-
+9 TION 46-1015, IDAHO CODE, RELATING TO WEATHER MODIFICATION; AND DECLAR-
+10 ING AN EMERGENCY.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 42-4301, Idaho Code, be, and the same is hereby
+13 repealed.
+14 SECTION 2. That Chapter 43, Title 42, Idaho Code, be, and the same is
+15 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+16 ignated as Section 42-4301, Idaho Code, and to read as follows:
+17 42-4301. CLOUD SEEDING. (1) The legislature finds that:
+18 (a) Idaho's economy and the welfare of its citizens depend on a reliable
+19 and clean water supply;
+20 (b) Data accumulated and analysis undertaken since the initiation of
+21 the cloud seeding program demonstrates that cloud seeding lacks prov-
+22 able outcomes. In 2024, the government accountability office found,
+23 "when uncertainty was considered in estimates of cloud seeding effec-
+24 tiveness, the estimated effect was not distinguishable from zero with
+25 a high degree of statistical confidence (e.g., with 95 percent confi-
+26 dence)"; and
+27 (c) Cloud seeding, weather modification, and other forms of geo-en-
+28 gineering violate the Idaho constitution, section 1, article I, which
+29 provides for the inalienable rights of man, and that all men are by na-
+30 ture free and equal, and have certain inalienable rights, among which
+31 are enjoying and defending life and liberty, acquiring, possessing and
+32 protecting property, and pursuing happiness and securing safety.
+33 (2) All cloud seeding programs along with all other weather modifi-
+34 cation activities are hereby prohibited and banned from occurring in the
+35 state of Idaho. Any and all aerial or ground-based cloud seeding projects
+36 or programs or any other form of weather modification shall be ceased indef-
+37 initely.
+38 (3) Any person, including any public or private entity, who conducts
+39 cloud seeding or attempts a weather modification activity in violation of
+40 the provisions of this section shall be guilty of a felony punishable by five
+
+2
+1 (5) years in prison and a one-hundred-thousand-dollar ($100,000) fine per
+2 violation.
+3 SECTION 3. That Section 42-605, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 42-605. DISTRICT MEETINGS -- WATERMASTER AND ASSISTANTS -- ELECTION
+6 -- REMOVAL -- OATH AND BOND -- ADVISORY COMMITTEE. (1) There shall be held
+7 on the first Monday in March in each year, except as provided in subsection
+8 (2) of this section, a meeting of persons owning or having the use of a water
+9 right in the waters of the stream or water supply comprising such district
+10 that is assessed or proposed to be assessed by such district, which right has
+11 been adjudicated or decreed by the court or is represented by valid permit or
+12 license issued by the department of water resources.
+13 (2) Such meeting shall be held at some a place within the water dis-
+14 trict, or at some a nearby location convenient to a majority of those en-
+15 titled to vote thereat. The director of the department of water resources
+16 shall, at least twenty-one (21) days prior to the meeting date, send noti-
+17 fication by regular mail to all persons, companies, corporations, or other
+18 entities known by the director to hold rights that are assessed or proposed
+19 to be assessed by such district, which right has been adjudicated or decreed
+20 by the court or is represented by valid permit or license issued by the de-
+21 partment of water resources, of the time, date, location, and purpose of the
+22 annual meeting. At any annual meeting, the water users may vote to waive the
+23 requirement for notice by mail and provide for notice to be given for future
+24 meetings by publication of the time, date, location, and purpose of the meet-
+25 ing in a newspaper or newspapers in general circulation in the district or on
+26 the department of water resources website. Published notice in a newspaper
+27 or newspapers shall be made once per week for two (2) consecutive weeks with
+28 the second notice appearing at least fourteen (14) and not more than thirty
+29 (30) days prior to the meeting. Notice on the department of water resources
+30 website shall be posted at least twenty-one (21) days prior to the meeting
+31 date. At any annual meeting, the water users may vote to change the date for
+32 annual meetings in subsequent years to any day, except Saturday and Sunday,
+33 between the second Monday of January and the fourth Tuesday of May. At an an-
+34 nual meeting, the water users may adopt resolutions to assure or improve the
+35 distribution of the waters of the district within state law and may provide
+36 that such resolutions shall continue from year to year.
+37 (3) At the meeting of the water users of a district, there shall be
+38 elected a watermaster for such water district, who may be authorized to em-
+39 ploy such other regular assistants as the water users shall deem necessary,
+40 and who, upon appointment by the director, shall be responsible for distri-
+41 bution of water within said water district. Notwithstanding any personnel
+42 classification assigned to the watermaster and assistants pursuant to the
+43 provisions of chapter 53, title 67, Idaho Code, the water users shall, prior
+44 to the election of such watermaster and approval of the employment of as-
+45 sistants, fix the compensation to be paid to them during the time actually
+46 engaged in the performance of their duties.
+47 (4) Voting shall be by majority vote of the water users present at the
+48 meeting unless one (1) or more water users requests voting using the proce-
+49 dure which that follows in this subsection. In such case, the meeting chair-
+
+3
+1 man shall appoint a credentials committee to determine the number of votes
+2 each water user present is authorized to cast. If requested, each person
+3 present who owns or has the use for the ensuing season of any water right in
+4 the stream or water supply comprising such water district that is assessed or
+5 proposed to be assessed by such district, which right has been adjudicated
+6 or decreed by the court or is represented by valid permit or license issued
+7 by the department of water resources, shall be entitled to a number of votes
+8 equal to the average annual dollar amount and any fraction thereof assessed
+9 for that person's qualifying water right for the previous five (5) years, or
+10 such lesser number of years as the right has been assessed. If a right has
+11 not previously been assessed, a person present who owns or has the use of the
+12 right for the ensuing season shall be entitled to a number of votes equal to
+13 the dollar amount and any fraction thereof that the right would have been as-
+14 sessed had it existed and been reasonably used when water was available under
+15 the priority of the right during the previous season. Absentee voting and
+16 voting by proxy are prohibited.
+17 (5) At such meeting, the water users shall choose a meeting chairman and
+18 meeting secretary. The water users of any water district that collects or
+19 pays district expenses in accordance with section 42-613(3) or 42-619, Idaho
+20 Code, shall also elect a water district treasurer. Within five (5) business
+21 days after such meeting, the meeting chairman and meeting secretary shall
+22 forward a certified copy of the minutes of such meeting to the department of
+23 water resources. The meeting chairman, or the meeting secretary if the meet-
+24 ing chairman is not present, from the immediately preceding annual meeting
+25 shall call the meeting to order and preside over the election of officers for
+26 the meeting.
+27 (6) At such meeting, the water users may choose an advisory committee
+28 to be composed of members selected as may be determined at the meeting, which
+29 committee shall serve as advisors to the director and the watermaster in mat-
+30 ters pertaining to the distribution of water within the district. The advi-
+31 sory committee may be authorized to carry out policies as set forth in reso-
+32 lutions duly adopted by the water users at the annual meeting or at a special
+33 meeting. The advisory committee may also serve as the local committee to fa-
+34 cilitate the rental of stored water if appointed by the water resource board
+35 for such purpose under pursuant to the provisions of section 42-1765, Idaho
+36 Code.
+37 (7) A corporation or a water delivery organization, including but not
+38 limited to a water company, an irrigation district, an irrigation company,
+39 or a canal company, shall be considered a person for the purpose of this sec-
+40 tion and shall designate someone to cast its vote.
+41 (8) Should said meeting not be held, or should said watermaster not be
+42 elected or the watermaster's compensation not be fixed as above provided in
+43 this section, then the director is authorized to appoint a watermaster and
+44 fix the watermaster's compensation.
+45 (9) The director may remove any watermaster whenever such watermaster
+46 fails to perform the watermaster's duty, upon complaint made to the director
+47 in writing, by one (1) person owning or having the right to the use of a wa-
+48 ter right that is assessed by such district, which right has been adjudicated
+49 or decreed by the court or is represented by valid permit or license issued
+50 by the department of water resources, provided, that upon investigation, the
+
+4
+1 director, after a hearing with the other water users of said district, which
+2 shall be held in the district or at some a location convenient to the water
+3 users of the district, finds such charge to be true, and the director may ap-
+4 point a successor for the unexpired term.
+5 (10) Before entering upon undertaking the duties of the watermaster's
+6 office, said watermaster shall take and subscribe to an oath before some an
+7 officer authorized by the laws of the state to administer oaths, to faith-
+8 fully perform the duties of the watermaster's office, as provided in section
+9 42-607, Idaho Code, and shall file that oath with the department of water re-
+10 sources. Upon appointment by the director, the actions taken by a watermas-
+11 ter in fulfillment of the duties of the office are covered by the state group
+12 surety bond as provided by sections 59-801 through 59-804, Idaho Code. A
+13 duly appointed watermaster that who is reelected in consecutive years shall
+14 not be required to take and file additional oaths with the department of wa-
+15 ter resources for each consecutive year the watermaster is reelected. If a
+16 duly elected or appointed watermaster resigns, dies, or is physically un-
+17 able to perform the duties of the office during the remainder of the elected
+18 or appointed watermaster term of service, then the director is authorized to
+19 appoint a successor for the unexpired term as provided in paragraphs (a) and
+20 (b) of this subsection.
+21 (a) If a water district advisory committee has been chosen as provided
+22 in subsection (6) of this section, the water district advisory commit-
+23 tee shall meet to either nominate a successor watermaster or request a
+24 special meeting as provided in subsection (11) of this section to elect
+25 a new watermaster. Upon receipt of a nomination from a majority of the
+26 members of the water district advisory committee, the director is au-
+27 thorized to appoint the nominated successor watermaster for the unex-
+28 pired term.
+29 (b) If a water district advisory committee has not been chosen, the
+30 director of the department of water resources is authorized to appoint
+31 a temporary successor watermaster. The temporary appointment extends
+32 through the unexpired term unless a special meeting is requested as
+33 provided in subsection (11) of this section and water users elect a new
+34 watermaster.
+35 (11) The director shall call a special meeting of the water district
+36 upon receipt of a written request for such meeting from a majority of the mem-
+37 bers of the advisory committee for a district, a written request from water
+38 users representing thirty percent (30%) or more of the votes cast at the last
+39 regular annual meeting, a written request from the watermaster, or on the
+40 director's own motion if the director determines a meeting is necessary to
+41 address matters that cannot be delayed until the next regular annual meet-
+42 ing. Notice of the time, place, and purpose of the special meeting shall be
+43 given by the director in the manner provided in subsection (2) of this sec-
+44 tion, provided however, that a special meeting notice shall be sent at least
+45 fourteen (14) days prior to the meeting date.
+46 (12) The water users may, by resolution, authorize the watermaster to
+47 acquire, hold, and dispose of such real and personal property, equipment,
+48 and facilities in the name of the water district as necessary for the proper
+49 distribution of water, administration of the water district, and enhance-
+50 ment of water supplies and shall provide that all such real and personal
+
+5
+1 property shall remain in the custody of the watermaster and the watermas-
+2 ter's successor.
+3 (13) The water users may, by resolution, authorize the watermaster to
+4 develop, coordinate or provide, through contract or by other means, for
+5 weather modification projects involving cloud seeding that are designed to
+6 increase the water supplies of the water district by enhancing natural pre-
+7 cipitation and which conform to state water planning objectives.
+8 SECTION 4. That Section 42-1805, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 42-1805. ADDITIONAL DUTIES. In addition to other duties prescribed by
+11 law, the director of the department of water resources shall have the follow-
+12 ing powers and duties:
+13 (1) To represent the state in all matters pertaining to interstate and
+14 international water rights affecting Idaho water resources; and to cooper-
+15 ate with all agencies, now existing or hereafter to be formed, within the
+16 state or within other jurisdictions, in matters affecting the development of
+17 the water resources of this state.
+18 (2) To prepare a present and continuing inventory of the water re-
+19 sources of this state, ascertain means and methods of conserving and
+20 augmenting these and determine as accurately as possible the most effective
+21 means by which these water resources may be applied for the benefit of the
+22 people of this state.
+23 (3) To conduct surveys, tests, investigations, research, examina-
+24 tions, studies, and estimates of cost relating to availability of unappro-
+25 priated water, effective use of existing supply, conservation, storage,
+26 distribution, and use of water.
+27 (4) To prepare and compile information and data obtained and to make the
+28 same available to interested individuals or agencies.
+29 (5) To cooperate with and coordinate activities with the director of
+30 the department of environmental quality as such activities relate to the
+31 functions of either or both departments concerning water quality. Such co-
+32 operation and coordination shall specifically require that:
+33 (a) The director meet at least quarterly with the director of the de-
+34 partment of environmental quality and his staff to discuss water qual-
+35 ity programs. A copy of the minutes of such meeting shall be transmitted
+36 to the governor.
+37 (b) The director transmit to the director of the department of envi-
+38 ronmental quality reports and information prepared by him pertaining to
+39 water quality programs and proposed rules pertaining to water quality
+40 programs.
+41 (c) The director shall make available to the director of the department
+42 of environmental quality and the director of the department of envi-
+43 ronmental quality shall make available to the director all notices of
+44 hearings relating to the promulgation of rules relating to water qual-
+45 ity, waste discharge permits, and stream channel alteration, as such
+46 directly affect water quality, and notices of any other hearings and
+47 meetings which that relate to water quality.
+
+6
+1 (6) To perform administrative duties and such other functions as the
+2 board may, from time to time, assign to the director to enable the board to
+3 carry out its powers and duties.
+4 (7) After notice, to suspend the issuance or further action on permits
+5 or applications, including permits or applications for domestic purposes or
+6 uses as defined in section 42-111, Idaho Code, required pursuant to section
+7 42-227, Idaho Code, as necessary to protect existing vested water rights or
+8 to ensure compliance with the provisions of chapter 2, title 42, Idaho Code,
+9 or to prevent violation of minimum flow provisions of the state water plan.
+10 (8) To promulgate, adopt, modify, repeal, and enforce rules implement-
+11 ing or effectuating the powers and duties of the department.
+12 (9) To seek a preliminary or permanent injunction, or both, or a tempo-
+13 rary restraining order restraining any person from violating or attempting
+14 to violate:
+15 (a) Those provisions of law relating to all aspects of the appropria-
+16 tion of water, distribution of water, headgates, and measuring devices;
+17 or
+18 (b) The administrative or judicial orders entered in accordance with
+19 the provisions of law.
+20 (10) To develop, coordinate and provide, through contract or by other
+21 means, for weather modification projects involving cloud seeding that are
+22 designed to increase the water supplies of the state by enhancing natural
+23 precipitation and that conform to state water planning objectives. To ac-
+24 complish these purposes, the director is authorized to accept and use funds
+25 acquired through legislative appropriation or by gift, grant, contribution
+26 or funding received from any private or public individual or entity. All
+27 funds accepted under this provision shall be transmitted to the state trea-
+28 surer for deposit in the water administration account and shall be reserved
+29 and made available until expended as ordered by the director for weather mod-
+30 ification purposes determined by the director to be beneficial.
+31 (11) To develop and implement a plan for data gathering to determine any
+32 effect of the weather modification efforts in which the department is in-
+33 volved.
+34 (12) (10) To receive, file, record, or retain documents of record on me-
+35 dia other than paper.
+36 SECTION 5. That Section 46-1015, Idaho Code, be, and the same is hereby
+37 repealed.
+38 SECTION 6. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after its
+40 passage and approval.

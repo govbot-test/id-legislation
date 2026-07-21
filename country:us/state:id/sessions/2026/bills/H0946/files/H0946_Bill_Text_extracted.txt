@@ -1,0 +1,413 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 946
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO THE LITIGATION FINANCING TRANSPARENCY, NATIONAL SECURITY, AND
+3 CONSUMER PROTECTION ACT; AMENDING TITLE 48, IDAHO CODE, BY THE ADDITION
+4 OF A NEW CHAPTER 21, TITLE 48, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO
+5 DEFINE TERMS, TO REQUIRE CERTAIN REGISTRATION, TO ESTABLISH LITIGATION
+6 FINANCING PROTECTIONS, TO PROVIDE FOR LITIGATION FINANCING CONTRACTS
+7 AND DISCLOSURES, TO PROVIDE FOR DISCLOSURE AND DISCOVERY OF LITIGATION
+8 FINANCING CONTRACTS, TO ESTABLISH EXEMPTIONS, TO PROVIDE CERTAIN AP-
+9 PLICABILITY REGARDING CLASS ACTIONS, TO PROHIBIT LITIGATION FUNDING
+10 BY FOREIGN ADVERSARIES, TO RESTRICT DISCLOSURE OF PROPRIETARY INFOR-
+11 MATION, TO ESTABLISH LIMITATIONS ON FOREIGN LITIGATION FUNDING, TO
+12 PROVIDE FOR THE REGISTRATION AND TRANSPARENCY OF FOREIGN PERSONS, TO
+13 ESTABLISH PROVISIONS REGARDING CHAPTER VIOLATIONS, AND TO PROVIDE FOR
+14 CHAPTER APPLICABILITY; PROVIDING SEVERABILITY; AND DECLARING AN EMER-
+15 GENCY AND PROVIDING AN EFFECTIVE DATE.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. That Title 48, Idaho Code, be, and the same is hereby amended
+18 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+19 ter 21, Title 48, Idaho Code, and to read as follows:
+20 CHAPTER 21
+21 LITIGATION FINANCING TRANSPARENCY, NATIONAL SECURITY, AND CONSUMER
+22 PROTECTION ACT
+23 48-2101. SHORT TITLE. This act shall be known and may be cited as the
+24 "Litigation Financing Transparency, National Security, and Consumer Pro-
+25 tection Act."
+26 48-2102. DEFINITIONS. As used in this chapter:
+27 (1) "Consumer" means any person who is or may become a plaintiff,
+28 claimant, or complainant in conjunction with or in pursuit of a legal claim.
+29 (2) "Entity" means any domestic or foreign corporation, partnership,
+30 limited partnership, limited liability company, trust, fund, plan, or any
+31 other business, enterprise, association, or organization of any kind or na-
+32 ture.
+33 (3) "Foreign adversary" means:
+34 (a) A foreign government of a foreign country identified or designated
+35 as a foreign adversary pursuant to 15 CFR 791.4, as in effect on July 1,
+36 2026;
+37 (b) Any political subdivision, agency, department, or political party
+38 of a foreign government identified or designated as a foreign adversary
+39 pursuant to 15 CFR 791.4, as in effect on July 1, 2026; or
+
+2
+1 (c) A foreign nongovernment person identified or designated as a for-
+2 eign adversary pursuant to 15 CFR 791.4, as in effect on July 1, 2026.
+3 (4) "Foreign person" means:
+4 (a) An individual who is not a citizen of the United States or is not an
+5 alien lawfully admitted for permanent residence in the United States;
+6 (b) An entity that is not formed, organized, incorporated, or created
+7 in the United States;
+8 (c) An entity of which a majority of the persons who own or control the
+9 entity are not citizens of the United States or are not aliens lawfully
+10 admitted for permanent residence in the United States;
+11 (d) The government, a political subdivision, an agency, a department,
+12 or a political party of a country other than the United States;
+13 (e) An entity that has a place of business in a country other than the
+14 United States and that has shares or other ownership interest held by
+15 the government or a government official of a country other than the
+16 United States; or
+17 (f) An employee, officer, director, official, or member of an entity
+18 described in this subsection.
+19 (5) "Foreign person of concern" means a person that:
+20 (a) Is formed, organized, incorporated, or created in a foreign country
+21 identified as a foreign adversary;
+22 (b) Is formed, organized, incorporated, owned, controlled, or affili-
+23 ated, directly or indirectly, with a foreign adversary;
+24 (c) Maintains a personal residence or place of business in a foreign
+25 country identified as a foreign adversary; or
+26 (d) Is formed, organized, incorporated, owned, controlled, or affili-
+27 ated, directly or indirectly, with a foreign person that has been:
+28 (i) Placed on the federal office of foreign assets control's spe-
+29 cially designated nationals and blocked persons list, also known
+30 as the SDN list, as amended; or
+31 (ii) Designated by the United States secretary of state as a for-
+32 eign terrorist person or organization.
+33 (6) "Legal claim" means a civil action, administrative proceeding,
+34 claim, or cause of action to recover damages or any form of monetary or in-
+35 junctive relief in this state.
+36 (7) "Legal representative" means an attorney or attorneys engaged to
+37 represent a consumer in conjunction with or in pursuit of a legal claim.
+38 (8)(a) "Litigation financier" means any person or group of persons en-
+39 gaged in, or formed, created, or established for the purpose of engaging
+40 in, the business of litigation financing or any other business or eco-
+41 nomic activity in which a person or group of persons receive considera-
+42 tion of any kind in exchange for providing litigation financing.
+43 (b) "Litigation financier" does not include:
+44 (i) A party to the legal claim;
+45 (ii) A legal representative engaged directly, or indirectly
+46 through another legal representative, to represent a party in con-
+47 junction with or in pursuit of the legal claim; or
+48 (iii) An entity or insurer with a preexisting contractual obliga-
+49 tion to indemnify or defend a party to a legal claim.
+50 (9) "Litigation financing" means:
+
+3
+1 (a) The financing, funding, advancing, or loaning of money to a legal
+2 representative or to any person who has or may pursue or assert a legal
+3 claim or who is or may become a plaintiff in pursuit of a legal claim if:
+4 (i) The legal obligation to repay all or a portion of the amount
+5 financed, funded, advanced, or loaned is contingent on the outcome
+6 of a legal claim or group of legal claims;
+7 (ii) Repayment is required only if the person prevails in conjunc-
+8 tion with or in pursuit of a legal claim or group of legal claims;
+9 or
+10 (iii) The money or funds for the repayment of any amount financed,
+11 funded, advanced, or loaned is derived or sourced, directly or
+12 indirectly, from the proceeds of or other consideration realized
+13 from a judgment, award, settlement, verdict, or other form of
+14 monetary relief the person or legal representative may receive or
+15 recover in conjunction with or in pursuit of a legal claim or group
+16 of legal claims; or
+17 (b) Any agreement or arrangement involving the financing, funding, ad-
+18 vancing, or loaning of money to a legal representative if the repayment
+19 of all or a portion of the amount financed, funded, advanced, or loaned
+20 is contingent on the outcome of any single legal claim or group of legal
+21 claims in which the legal representative represents one (1) or more con-
+22 sumers.
+23 (10)(a) "Litigation financing contract" means a written contract in
+24 which a person agrees to provide litigation financing to any person in
+25 consideration for:
+26 (i) The payment of interest, fees, or other consideration to the
+27 person providing the litigation financing; or
+28 (ii) Granting or assigning to the person providing the litigation
+29 financing a right to receive payment from the value of any proceeds
+30 or other consideration realized from any judgment, award, settle-
+31 ment, verdict, or other form of monetary relief any consumer, le-
+32 gal representative, or other person may receive or recover in re-
+33 lation to the legal claim.
+34 (b) "Litigation financing contract" does not include any agreement,
+35 contract, or engagement of a legal representative to render legal ser-
+36 vices to a consumer on a contingency fee basis, including the advance-
+37 ment of legal costs by the legal representative, in which the services
+38 or costs are provided to or on behalf of a consumer by the legal repre-
+39 sentative representing the consumer in the legal claim.
+40 (11) "Person" means an individual or an entity.
+41 (12) "Proprietary information" means any documents, records, or infor-
+42 mation received by a party in conjunction with or in pursuit of a legal claim
+43 that has economic or commercial value in any person's business and is:
+44 (a) Designated as proprietary information by a party to the legal
+45 claim; or
+46 (b) Subject to a court order to protect, seal, or otherwise restrict the
+47 disclosure or sharing of the documents, records, or information.
+48 (13) "Regulated lender" has the same meaning as provided for in section
+49 28-41-301, Idaho Code.
+
+4
+1 48-2103. REGISTRATION REQUIRED. (1) A person shall not engage in liti-
+2 gation financing in this state unless such person is registered with the sec-
+3 retary of state as a litigation financier pursuant to the provisions of this
+4 chapter.
+5 (2) To register as a litigation financier, if the person registering is
+6 an entity, the entity shall be active and in good standing as reflected in the
+7 office of the secretary of state.
+8 (3) To register as a litigation financier, a person shall file a reg-
+9 istration statement with the secretary of state setting forth the following
+10 information:
+11 (a) The legal name of the litigation financier;
+12 (b) The physical street address and mailing address of the litigation
+13 financier; and
+14 (c) The name, physical street address, and mailing address of the lit-
+15 igation financier's registered agent in this state who is authorized to
+16 accept service of process on behalf of the litigation financier.
+17 (4) If the person seeking to register as a litigation financier is an
+18 entity, the following information shall be set forth in the registration
+19 statement with respect to each person that owns, controls, or holds with the
+20 power to vote five percent (5%) or more of the beneficial interests or voting
+21 interests of the litigation financier:
+22 (a) The legal name, physical street address, and mailing address of
+23 each person;
+24 (b) If the person is an individual, a disclosure of any conviction of a
+25 felony involving theft, fraud, deception, or dishonesty during the past
+26 ten (10) years;
+27 (c) If the person is an entity, and if such information is not other-
+28 wise disclosed in the entity's filing with the secretary of state for
+29 authorization to do business in this state, a list of all individuals
+30 who are directors, officers, trustees, partners, members, or managers
+31 of the entity and each subsidiary of the entity, if any. Such list shall
+32 include, for each individual, the information required to be provided
+33 pursuant to this subsection.
+34 (5) A litigation financier subject to registration pursuant to this
+35 chapter shall file an updated registration:
+36 (a) Annually; and
+37 (b) Within thirty (30) days of any change in ownership, control, or man-
+38 agement of the entity that causes the information required to be pro-
+39 vided pursuant to subsection (4) of this section to become inaccurate.
+40 (6) The secretary of state is authorized to prescribe the forms and the
+41 filing fees the secretary of state considers necessary for the purposes of
+42 this chapter.
+43 48-2104. LITIGATION FINANCING PROTECTIONS. (1) A litigation fi-
+44 nancier shall not:
+45 (a) Pay or offer commissions, referral fees, rebates, or other forms
+46 of consideration to any person in exchange for referring a consumer or a
+47 consumer's legal representative to a litigation financier;
+
+5
+1 (b) Accept any commissions, referral fees, rebates, or other forms of
+2 consideration from any person providing any goods or rendering any ser-
+3 vices to the consumer;
+4 (c) Receive or recover any payment that exceeds twenty-five percent
+5 (25%) of the amount of any judgment, award, settlement, verdict, or
+6 other form of monetary relief obtained in the legal claim that is the
+7 subject of the litigation contract;
+8 (d) Advertise false or misleading information regarding its products
+9 or services;
+10 (e) Refer or require any consumer to hire or engage any person providing
+11 any goods or rendering any services to the consumer;
+12 (f) Fail to promptly deliver a fully completed and signed litigation
+13 financing contract to the consumer and the consumer's legal representa-
+14 tive;
+15 (g) Attempt to secure a remedy or obtain a waiver of any remedy, includ-
+16 ing but not limited to compensatory, statutory, or punitive damages,
+17 that the consumer may or may not be entitled to pursue or recover other-
+18 wise;
+19 (h) Offer or provide legal advice to the consumer;
+20 (i) Assign, including securitizing, a litigation financing contract in
+21 whole or in part;
+22 (j) Make, influence, or direct a decision regarding a legal claim, in-
+23 cluding decisions in appointing or changing counsel, choice or use of
+24 expert witnesses, litigation strategy, and settlement or other resolu-
+25 tion; or
+26 (k) Demand, request, receive, or exercise any right to influence, af-
+27 fect, or otherwise make any decision in the handling, conduct, admin-
+28 istration, litigation, settlement, or resolution of any legal claim in
+29 which the litigation financier has provided litigation financing. All
+30 rights remain solely with the consumer and the consumer's legal repre-
+31 sentative.
+32 (2) A person who provides any goods or renders any services to the con-
+33 sumer that are related to the litigation being financed shall not have a fi-
+34 nancial interest in litigation financing for the consumer and shall not re-
+35 ceive any commissions, referral fees, rebates, or other forms of considera-
+36 tion from any litigation financier or the litigation financier's employees,
+37 owners, or affiliates.
+38 (3) A party, attorney or law firm representing a party, or affiliated
+39 attorney or law firm shall not disclose or share any proprietary information
+40 with a litigation financier.
+41 48-2105. LITIGATION FINANCING CONTRACT -- DISCLOSURES. (1) The terms
+42 and conditions of a litigation financing contract shall be set forth in a
+43 fully completed written contract with no terms or conditions omitted. The
+44 litigation financing contract shall contain all terms and conditions at the
+45 time it is signed by any party to the litigation financing contract.
+46 (2) Upon execution of a litigation financing contract, a litigation fi-
+47 nancier shall not amend the terms or conditions of the litigation financing
+48 contract without full disclosure to and the prior written consent of all par-
+49 ties to the litigation financing contract.
+
+6
+1 (3) A litigation financing contract shall set forth the name, physical
+2 street address, and mailing address of the litigation financier on page one
+3 (1) of the litigation financing contract.
+4 (4) A litigation financing contract shall contain clear and conspicu-
+5 ous disclosures immediately above the consumer's signature line informing
+6 the consumer that:
+7 (a) The contract may be canceled by sending written notice to the liti-
+8 gation financier within five (5) days after signing the contract or re-
+9 ceiving funds from the litigation financier, whichever is later;
+10 (b) The fee amount shall be disclosed and may not exceed twenty-five
+11 percent (25%) of the monetary amount received from a verdict, judgment,
+12 or settlement;
+13 (c) A litigation financier shall not seek to influence any aspect of the
+14 litigation, as such right shall belong only to the consumer and its le-
+15 gal representative; and
+16 (d) If there is no recovery of money in the litigation or if the recov-
+17 ery is insufficient to pay the litigation financier's full fee, the con-
+18 sumer shall owe nothing in excess of its monetary recovery.
+19 (5) If the consumer's legal representative is a party to a litigation
+20 financing contract related to the consumer's legal claim that is the subject
+21 of the litigation financing contract, the legal representative shall dis-
+22 close and deliver the litigation financing contract to the consumer.
+23 48-2106. DISCLOSURE AND DISCOVERY OF LITIGATION FINANCING CON-
+24 TRACTS. (1) Except as otherwise stipulated or ordered by a court of competent
+25 jurisdiction, a consumer or the consumer's legal representative shall,
+26 without awaiting a discovery request, disclose and deliver to the following
+27 persons the litigation financing contract:
+28 (a) Each party to the legal claim, or to each party's legal representa-
+29 tive; and
+30 (b) The court, agency, or tribunal in which the legal claim may be pend-
+31 ing.
+32 (2) If a demand for payment is made before a suit is filed, a party who
+33 makes that demand shall, upon request of the party on whom demand is made,
+34 disclose and deliver any litigation financing contract to the party on whom
+35 demand is made.
+36 (3) The disclosure obligations pursuant to subsections (1) and (2) of
+37 this section are continuing obligations, and within thirty (30) days of en-
+38 tering into a litigation financing contract or amending an existing litiga-
+39 tion financing contract, the consumer or the consumer's legal representa-
+40 tive shall disclose and deliver any new or amended litigation financing con-
+41 tract.
+42 (4) The existence of a litigation financing contract and all partici-
+43 pants or parties to the litigation financing contract are permissible sub-
+44 jects of discovery in any legal claim to which litigation financing is pro-
+45 vided under the litigation financing contract.
+46 48-2107. EXEMPTIONS. This chapter does not apply to the following:
+47 (1) A nonprofit entity that is exempt from federal income taxation pur-
+48 suant to section 501(c)(3) of the Internal Revenue Code or a nonprofit entity
+
+7
+1 that provides litigation financing, funding, or money to a legal representa-
+2 tive to represent a consumer on a pro bono basis, provided that the nonprofit
+3 entity does not receive in consideration for the litigation financing the
+4 payment of interest, fees, or other consideration in excess of the amount of
+5 attorney's fees and litigation expenses incurred in conjunction with or in
+6 pursuit of the legal claim;
+7 (2) Any litigation financing provided by an entity engaged in commerce
+8 or business activity, but only if the entity does not:
+9 (a) Charge or collect any interest, fees, or other consideration;
+10 (b) Obtain or receive any financial interest in the outcome of the legal
+11 claim; or
+12 (c) Receive any right to recovery or payment from the amount of any
+13 judgment, award, settlement, verdict, or other form of monetary relief
+14 obtained in conjunction with or in pursuit of the legal claim; or
+15 (3) A regulated lender that does not receive, in consideration for
+16 loaning money to any person, a right to receive payment pursuant to a litiga-
+17 tion financing contract.
+18 48-2108. CLASS ACTIONS. In addition to all other actions to which this
+19 chapter applies, this chapter shall also apply to any civil action filed or
+20 certified as a class action in which litigation financing is provided. A
+21 litigation financier owes a fiduciary duty to all class members or intended
+22 beneficiaries of a certified class and shall act in a manner consistent with
+23 the litigation financier's fiduciary duty throughout the civil action. In
+24 addition to the disclosure requirements set forth in this chapter, the legal
+25 representative of the putative class shall disclose to all parties, putative
+26 class members, and the court any legal, financial, or other relationship be-
+27 tween the legal representative and the litigation financier. A class member
+28 is entitled to receive from the class counsel a true and correct copy of the
+29 litigation financing contract on request.
+30 48-2109. PROHIBITION ON LITIGATION FUNDING BY FOREIGN ADVERSARIES OR
+31 FOREIGN PERSONS OF CONCERN. (1) A foreign adversary or a foreign person of
+32 concern may not engage in litigation financing in this state.
+33 (2) A foreign adversary or a foreign person of concern may not, directly
+34 or indirectly, invest in, finance, fund, or loan money to a litigation fi-
+35 nancier engaged in litigation financing in this state.
+36 (3) A litigation financier engaged in litigation financing in this
+37 state may not, directly or indirectly:
+38 (a) Become affiliated with or maintain an affiliation with a foreign
+39 adversary or a foreign person of concern;
+40 (b) Receive or accept money or funds from a foreign adversary or a for-
+41 eign person of concern; or
+42 (c) Allow a foreign adversary or a foreign person of concern to invest
+43 in, maintain an ownership interest in, or exercise any control over the
+44 litigation financier.
+45 48-2110. RESTRICTION ON DISCLOSURE OF PROPRIETARY INFORMATION. A
+46 party to a legal claim in this state shall not disclose to or share with a
+
+8
+1 foreign person, a foreign adversary, or a foreign person of concern any pro-
+2 prietary information.
+3 48-2111. LIMITATIONS ON FOREIGN LITIGATION FUNDING. A foreign person
+4 who, directly or indirectly: engages in litigation financing; becomes af-
+5 filiated with or maintains an affiliation with a litigation financier; fi-
+6 nances, funds, or loans money to a litigation financier; or invests in, main-
+7 tains an ownership interest in, or exercises any control over a litigation
+8 financier shall not:
+9 (1) Become affiliated with or maintain an affiliation with a foreign
+10 adversary or a foreign person of concern;
+11 (2) Receive or accept money or funds from a foreign adversary or a for-
+12 eign person of concern; or
+13 (3) Allow a foreign adversary or a foreign person of concern to invest
+14 in, maintain an ownership interest in, or exercise control over the foreign
+15 person.
+16 48-2112. REGISTRATION AND TRANSPARENCY OF FOREIGN PERSONS. (1) A for-
+17 eign person who is qualified to engage in litigation financing in this state
+18 shall comply with this chapter if the foreign person engages in litigation
+19 financing in this state.
+20 (2) A litigation financier shall disclose in writing to the secretary
+21 of state the information set forth in subsection (3) of this section if the
+22 litigation financier engages in any of the following:
+23 (a) Becomes affiliated with or maintains affiliation with a foreign
+24 person;
+25 (b) Receives or accepts money or funds from a foreign person for any
+26 purpose; or
+27 (c) Allows a foreign person to invest in, maintain an ownership inter-
+28 est in, or exercise any control over the litigation financier.
+29 (3) The following information shall be disclosed in writing to the sec-
+30 retary of state:
+31 (a) The name and address of the foreign person and the citizenship of
+32 the foreign person or the country of incorporation, formation, or reg-
+33 istration of the foreign person; and
+34 (b) A copy of each litigation financing contract in which the foreign
+35 person is entitled to receive any payment under the contract.
+36 (4) The litigation financier shall provide the written notice required
+37 pursuant to subsection (2) of this section within thirty (30) days after the
+38 date on which any litigation financing agreement is executed by the con-
+39 sumer.
+40 48-2113. ACT VIOLATION -- UNENFORCEABLE CONTRACT. (1) Any violation
+41 of this chapter by a litigation financier shall render the litigation fi-
+42 nancing contract unenforceable by the litigation financier or any succes-
+43 sor-in-interest to the litigation financing contract.
+44 (2) The prevailing party in any litigation under this chapter shall be
+45 entitled to costs and reasonable attorney's fees as awarded by the court.
+
+9
+1 48-2114. APPLICABILITY. This chapter shall apply both to any legal
+2 claim commenced on or after July 1, 2026 and to any litigation financing con-
+3 tract executed on or after that date.
+4 SECTION 2. SEVERABILITY. The provisions of this act are hereby declared
+5 to be severable and if any provision of this act or the application of such
+6 provision to any person or circumstance is declared invalid for any reason,
+7 such declaration shall not affect the validity of the remaining portions of
+8 this act.
+9 SECTION 3. An emergency existing therefor, which emergency is hereby
+10 declared to exist, this act shall be in full force and effect on and after
+11 July 1, 2026.

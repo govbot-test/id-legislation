@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 759
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC ASSISTANCE; PROVIDING LEGISLATIVE INTENT; AMENDING SEC-
+3 TION 56-265, IDAHO CODE, TO REVISE PROVISIONS REGARDING PROVIDER PAY-
+4 MENT; PROVIDING THAT CERTAIN ADMINISTRATIVE RULES CONTAINED IN IDAPA
+5 16.03.26 SHALL BE NULL, VOID, AND OF NO FORCE AND EFFECT; AND DECLARING
+6 AN EMERGENCY.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. The Legislature seeks to
+9 increase transparency for taxpayers and to support appropriation reductions
+10 for Medicaid rates paid to residential habilitation providers. Medicaid
+11 pays more than $176.5 million in general funds to help people with disabil-
+12 ities live independently with residential habilitation and other home and
+13 community-based services. The Governor's recommendation calls for the Leg-
+14 islature to pursue policy changes to support the Department of Health and
+15 Welfare in achieving budget reductions for Medicaid, including an option
+16 to reduce rates for residential habilitation. In 2022, the Legislature ap-
+17 propriated funds pursuant to Chapter 252, Laws of 2022, to increase payment
+18 rates for these services to implement a new service array and budget tool
+19 associated with the K.W. v. Armstrong lawsuit, but these funds are no longer
+20 appropriate since a court order halted implementation of the new services
+21 and budget tool. To support ongoing accountability for taxpayer dollars and
+22 ensure the Legislature has the needed information to effectuate its appro-
+23 priation responsibilities, this act requires the department to report how
+24 those funds are used.
+25 SECTION 2. That Section 56-265, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 56-265. PROVIDER PAYMENT. (1) Where there is an equivalent, the pay-
+28 ment to medicaid providers:
+29 (a) May be up to but shall not exceed one hundred percent (100%) of the
+30 current medicare rate for primary care procedure codes as defined by the
+31 centers for medicare and medicaid services; and
+32 (b) Shall be ninety percent (90%) of the current medicare rate for all
+33 other procedure codes.
+34 (2) Where there is no medicare equivalent, the payment rate to med-
+35 icaid providers shall be prescribed by rule. All home and community-based
+36 services without a medicare equivalent rate shall be cost-surveyed annu-
+37 ally with fifteen percent (15%) or more of responses being audited. The
+38 department shall use information from the cost surveys and other sources
+39 to evaluate rate adequacy. Payment rates shall be developed to include
+40 allocations to direct care worker wages, employee-related expenses, pro-
+41 gram-related expenses, and general and administrative costs.
+
+2
+1 (a) On an annual basis, providers are required to expend at least the
+2 amount allocated to direct care worker wages and employee-related ex-
+3 penses to these categories.
+4 (b) Failure of the provider to meet the requirement in paragraph (a) of
+5 this subsection may result in a department-approved corrective action
+6 plan, closure of intake, or termination of the provider agreement.
+7 (c) The department shall summarize this audited cost survey work by
+8 provider type and service in a publicly available report no later than
+9 December 31 of each calendar year.
+10 (3) Notwithstanding any other provision of this chapter, if the
+11 services are provided by a private, freestanding mental health hospital
+12 facility that is an institution for mental disease as defined in 42 U.S.C.
+13 1396d(i), the department shall reimburse for inpatient services at a rate
+14 not to exceed ninety-one percent (91%) of the current medicare rate within
+15 federally allowed reimbursement under the medicaid program. The reimburse-
+16 ment provided for in this subsection shall be effective until July 1, 2021.
+17 (4) The department shall, through the annual budget process, include
+18 a line-item request for adjustments to provider rates. All changes to
+19 provider payment rates shall be subject to approval of the legislature by
+20 appropriation.
+21 (5) Notwithstanding any other provision of this chapter, the depart-
+22 ment may enter into agreements with providers to pay for services based on
+23 their value in terms of measurable health care quality and positive impacts
+24 to participant health.
+25 (a) Any such agreement shall be designed to be cost-neutral or cost-
+26 saving compared to other payment methodologies.
+27 (b) The department is authorized to pursue waiver agreements with the
+28 federal government as needed to support value-based payment arrange-
+29 ments, up to and including fully capitated provider-based managed care.
+30 (c) Beginning with the 2024 performance period and for all future per-
+31 formance periods thereafter, federally qualified health centers and
+32 any organization owned and controlled by a federally qualified health
+33 center shall be exempt from any financial risk in value-based payment
+34 agreements created pursuant to this section.
+35 (6) Medicaid reimbursement for critical access, out-of-state, and
+36 state-owned hospitals shall be as follows:
+37 (a) In-state, critical access hospitals as designated according to 42
+38 U.S.C. 1395i-4(c)(2)(B) shall be reimbursed at one hundred one percent
+39 (101%) of cost;
+40 (b) Out-of-state hospitals shall be reimbursed at eighty-seven percent
+41 (87%) of cost;
+42 (c) State-owned hospitals shall be reimbursed at one hundred percent
+43 (100%) of cost; and
+44 (d) Out-of-state hospital institutions for mental disease as defined
+45 in 42 U.S.C. 1396d(i) shall be reimbursed at a per diem equivalent to
+46 ninety-five percent (95%) of cost.
+47 (7) The department shall equitably reduce net reimbursements for all
+48 hospital services, including in-state institutions for mental disease but
+49 excluding all hospitals and institutions described in subsection (6) of
+50 this section, by amounts targeted to reduce general fund needs for hospital
+
+3
+1 payments by three million one hundred thousand dollars ($3,100,000) in state
+2 fiscal year 2020 and eight million seven hundred twenty thousand dollars
+3 ($8,720,000) in state fiscal year 2021.
+4 (8) The department shall work with all Idaho hospitals, including in-
+5 stitutions for mental disease as defined in 42 U.S.C. 1396d(i), to establish
+6 value-based payment methods for inpatient and outpatient hospital services
+7 to replace existing cost-based reimbursement methods for in-state hospi-
+8 tals, other than those hospitals and institutions described in subsection
+9 (6) of this section, effective July 1, 2021. Budgets for hospital payments
+10 shall be subject to prospective legislative approval.
+11 (9) The department shall work with Idaho hospitals to establish a
+12 quality payment program for inpatient and outpatient adjustment payments
+13 described in section 56-1406, Idaho Code. Inpatient and outpatient adjust-
+14 ment payments shall be subject to increase or reduction based on hospital
+15 service quality measures established by the department in consultation with
+16 Idaho hospitals.
+17 SECTION 3. The rules contained in IDAPA 16.03.26, Department of Health
+18 and Welfare, relating to Medicaid Plan Benefits, Section 051.; and Section
+19 052., shall be null, void, and of no force and effect on and after July 1,
+20 2026.
+21 SECTION 4. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after its
+23 passage and approval.

@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 648
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO HEALTH INSURANCE; AMENDING CHAPTER 18, TITLE 41, IDAHO CODE, BY
+3 THE ADDITION OF A NEW SECTION 41-1854, IDAHO CODE, TO ESTABLISH PROVI-
+4 SIONS REGARDING ANTICANCER MEDICATIONS; AND DECLARING AN EMERGENCY AND
+5 PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 18, Title 41, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 41-1854, Idaho Code, and to read as follows:
+10 41-1854. ANTICANCER MEDICATIONS. (1) For purposes of this section:
+11 (a) "Anticancer medication" means a drug or biologic used to kill,
+12 slow, or prevent the growth of cancerous cells, whether administered
+13 orally, intravenously, or by injection.
+14 (b) "Health benefit plan" shall have the same meaning as provided in
+15 section 41-5903, Idaho Code.
+16 (2) A health benefit plan issued or renewed on or after January 1, 2027,
+17 covering food and drug administration-approved anticancer medications
+18 shall ensure that coverage for prescribed orally administered anticancer
+19 medication is subject to the same plan design cost sharing with respect to
+20 copayment, coinsurance, and deductible of an injected or intravenously ad-
+21 ministered anticancer medication.
+22 (3) Nothing in this section may be interpreted to prohibit a health ben-
+23 efit plan from administering a formulary or preferred drug list, requiring
+24 prior authorization, or imposing other appropriate utilization controls in
+25 approving coverage for any anticancer medication.
+26 SECTION 2. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

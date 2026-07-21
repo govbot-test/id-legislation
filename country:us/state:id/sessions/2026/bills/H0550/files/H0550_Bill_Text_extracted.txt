@@ -1,0 +1,280 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 550
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO MIDWIFERY; AMENDING SECTION 54-5504, IDAHO CODE, TO REVISE CER-
+3 TAIN RULEMAKING AUTHORITY; AMENDING CHAPTER 55, TITLE 54, IDAHO CODE,
+4 BY THE ADDITION OF A NEW SECTION 54-5504A, IDAHO CODE, TO PROVIDE THAT A
+5 LICENSED MIDWIFE MAY OBTAIN AND ADMINISTER ANY MEDICATION INDICATED FOR
+6 MATERNAL CARE OR NEONATAL CARE FOR WHICH THE MIDWIFE POSSESSES THE REQ-
+7 UISITE EDUCATION, TRAINING, AND EXPERIENCE; AMENDING SECTION 54-5510,
+8 IDAHO CODE, TO PROVIDE CORRECT CODE REFERENCES; PROVIDING THAT CERTAIN
+9 ADMINISTRATIVE RULES CONTAINED IN IDAPA 24.26.01. SHALL BE NULL, VOID,
+10 AND OF NO FORCE AND EFFECT; AND DECLARING AN EMERGENCY AND PROVIDING AN
+11 EFFECTIVE DATE.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. That Section 54-5504, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 54-5504. RULEMAKING. (1) The rules adopted by the board shall:
+16 (a) Allow a midwife to obtain and administer, during the practice of
+17 midwifery, the following:
+18 (i) Oxygen;
+19 (ii) Oxytocin, misoprostol, and methylergonovine as postpartum
+20 antihemorrhagic agents;
+21 (iii) Injectable local anesthetic for the repair of lacerations
+22 that are no more extensive than second degree;
+23 (iv) Antibiotics to the mother for group b streptococcus prophy-
+24 laxis consistent with guidelines of the United States centers for
+25 disease control and prevention;
+26 (v) Epinephrine to the mother administered for anaphylactic
+27 shock;
+28 (vi) Intravenous fluids for stabilization of the mother;
+29 (vii) Rho (D) immune globulin;
+30 (viii) Phytonadione; and
+31 (ix) Eye prophylactics to the child.
+32 (b) Prohibit the use of other legend drugs, except those of a similar
+33 nature and character as determined by the board to be consistent with
+34 the practice of midwifery; provided that at least one hundred twenty
+35 (120) days' advance notice of the proposal to allow the use of such drugs
+36 is given to the board of pharmacy and the board of medicine and neither
+37 board objects to the addition of such drugs to the midwifery formulary;
+38 (c) (a) Define a protocol for use by licensed midwives of drugs approved
+39 in paragraphs (a) and (b) of this subsection indicated for maternal
+40 care or neonatal care, as provided for in section 54-5504A, Idaho Code,
+41 that shall include methods of obtaining, storing, and disposing of such
+
+2
+1 drugs and an indication for use, dosage, route of administration, and
+2 duration of treatment;
+3 (d) (b) Define a protocol for medical waste disposal; and
+4 (e) (c) Establish scope and practice standards for antepartum, intra-
+5 partum, postpartum, and newborn care that shall, at a minimum:
+6 (i) Prohibit a licensed midwife from providing care for a client
+7 with a history of disorders, diagnoses, conditions, or symptoms
+8 that include:
+9 1. Placental abnormality;
+10 2. Multiple gestation, except that midwives may provide an-
+11 tepartum care that is supplementary to the medical care of
+12 the physician overseeing the pregnancy, as long as it does
+13 not interfere with the physician's recommended schedule of
+14 care;
+15 3. Noncephalic presentation at the onset of labor or rupture
+16 of membranes, whichever occurs first;
+17 4. Birth under thirty-seven and zero-sevenths (37 0/7)
+18 weeks and beyond forty-two and zero-sevenths (42 0/7) weeks
+19 gestational age;
+20 5. A history of more than one (1) prior cesarean section,
+21 a cesarean section within eighteen (18) months of the esti-
+22 mated due date or any cesarean section that was surgically
+23 closed with a classical or vertical uterine incision;
+24 6. Platelet sensitization, hematological, or coagulation
+25 disorders;
+26 7. A body mass index of forty (40.0) or higher at the time of
+27 conception;
+28 8. Prior chemotherapy and/or radiation treatment for a ma-
+29 lignancy;
+30 9. Previous preeclampsia resulting in premature delivery;
+31 10. Cervical insufficiency;
+32 11. HIV positive status; or
+33 12. Opiate use that places the infant at risk of neonatal ab-
+34 stinence syndrome.
+35 (ii) Prohibit a licensed midwife from providing care for a client
+36 with a history of the following disorders, diagnoses, conditions,
+37 or symptoms, unless such disorders, diagnoses, conditions, or
+38 symptoms are being treated, monitored, or managed by a licensed
+39 health care provider:
+40 1. Diabetes;
+41 2. Thyroid disease;
+42 3. Epilepsy;
+43 4. Hypertension;
+44 5. Cardiac disease;
+45 6. Pulmonary disease;
+46 7. Renal disease;
+47 8. Gastrointestinal disorders;
+48 9. Previous major surgery of the pulmonary system, cardio-
+49 vascular system, urinary tract, or gastrointestinal tract;
+50 10. Abnormal cervical cytology;
+
+3
+1 11. Sleep apnea;
+2 12. Previous bariatric surgery;
+3 13. Hepatitis;
+4 14. History of illegal drug use or excessive prescription
+5 drug use; or
+6 15. Rh or other blood group disorders and a physician deter-
+7 mines the pregnancy can safely be attended by a midwife.
+8 (iii) Require a licensed midwife to recommend that a client see
+9 a physician licensed pursuant to chapter 18, title 54, Idaho
+10 Code, or an equivalent provision of the law of a state bordering
+11 Idaho and to document and maintain a record as required by section
+12 54-5510, Idaho Code, if such client has a history of disorders,
+13 diagnoses, conditions, or symptoms that include:
+14 1. Previous complicated pregnancy;
+15 2. Previous cesarean section;
+16 3. Previous pregnancy loss in second or third trimester;
+17 4. Previous spontaneous premature labor;
+18 5. Previous preterm rupture of membranes;
+19 6. Previous preeclampsia;
+20 7. Previous hypertensive disease of pregnancy;
+21 8. Parvo;
+22 9. Toxo;
+23 10. CMV;
+24 11. HSV;
+25 12. Previous maternal/newborn group b streptococcus infec-
+26 tion;
+27 13. A body mass index of at least thirty-five (35.0) but less
+28 than forty (40.0) at the time of conception;
+29 14. Underlying family genetic disorders with potential for
+30 transmission; or
+31 15. Psychosocial situations that may complicate pregnancy.
+32 (iv) Require that a licensed midwife facilitate the immediate
+33 transfer to a hospital for emergency care for disorders, diag-
+34 noses, conditions, or symptoms that include:
+35 1. Maternal fever in labor;
+36 2. Suggestion of fetal jeopardy, such as bleeding or meco-
+37 nium or abnormal fetal heart tones;
+38 3. Noncephalic presentation at the onset of labor or rup-
+39 ture of membranes, whichever occurs first, unless imminent
+40 delivery is safer than transfer;
+41 4. Second-stage labor after two (2) hours of initiation of
+42 pushing when the mother has had a previous cesarean section;
+43 5. Current spontaneous premature labor;
+44 6. Current preterm premature rupture of membranes;
+45 7. Current preeclampsia;
+46 8. Current hypertensive disease of pregnancy;
+47 9. Continuous uncontrolled bleeding;
+48 10. Bleeding that necessitates the administration of more
+49 than two (2) doses of oxytocin or other antihemorrhagic
+
+4
+1 agent does not respond to the administration of antihemor-
+2 rhagic agents;
+3 11. Delivery injuries to the bladder or bowel;
+4 12. Grand mal seizure;
+5 13. Uncontrolled vomiting;
+6 14. Coughing or vomiting of blood;
+7 15. Severe chest pain; or
+8 16. Sudden onset of shortness of breath and associated la-
+9 bored breathing.
+10 A transfer of care shall be accompanied by the client's medical
+11 record, the licensed midwife's assessment of the client's current
+12 condition, and a description of the care provided by the licensed
+13 midwife prior to transfer;
+14 (v) Establish a written plan for the emergency transfer and
+15 transport required in subparagraph (iv) of this paragraph and for
+16 notifying the hospital to which a client will be transferred in
+17 the case of an emergency. If a client is transferred in an emer-
+18 gency, the licensed midwife shall notify the hospital when the
+19 transfer is initiated and accompany the client to the hospital if
+20 feasible, or communicate by telephone with the hospital if unable
+21 to be present personally, and shall provide the client's medi-
+22 cal record. The record shall include the client's name, address,
+23 list of diagnosed medical conditions, list of prescription or
+24 over-the-counter medications regularly taken, history of previ-
+25 ous allergic reactions to medications, if feasible, the client's
+26 current medical condition and description of the care provided by
+27 the midwife, and next-of-kin contact information. A midwife who
+28 deems it necessary to transfer or terminate care pursuant to this
+29 section and any rules promulgated pursuant to this section or for
+30 any other reason shall transfer or terminate care and shall not be
+31 regarded as having abandoned care or wrongfully terminated ser-
+32 vices. Before nonemergent discontinuing of services, the midwife
+33 shall notify the client in writing, provide the client with names
+34 of licensed physicians and contact information for the nearest
+35 hospital emergency room, and offer to provide copies of medical
+36 records regardless of whether copying costs have been paid by the
+37 client.
+38 (f) (d) Establish and operate a system of peer review for licensed
+39 midwives that shall include but not be limited to the appropriateness,
+40 quality, utilization, and ethical performance of midwifery care.
+41 (2) The rules adopted by the board may not:
+42 (a) Require a licensed midwife to have a nursing degree or diploma;
+43 (b) Except as a condition imposed by disciplinary proceedings by the
+44 board, require a licensed midwife to practice midwifery under the su-
+45 pervision of another health care provider;
+46 (c) Except as a condition imposed by disciplinary proceedings by the
+47 board, require a licensed midwife to enter into an agreement, written or
+48 otherwise, with another health care provider;
+49 (d) Limit the location where a licensed midwife may practice midwifery;
+
+5
+1 (e) Allow a licensed midwife to use vacuum extraction or forceps as an
+2 aid in the delivery of a newborn;
+3 (f) Grant a licensed midwife prescriptive privilege; or
+4 (g) Allow a licensed midwife to perform abortions.
+5 SECTION 2. That Chapter 55, Title 54, Idaho Code, be, and the same is
+6 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+7 ignated as Section 54-5504A, Idaho Code, and to read as follows:
+8 54-5504A. MEDICATIONS. A licensed midwife may obtain and administer
+9 any medication indicated for maternal care or neonatal care for which the
+10 midwife possesses the requisite education, training, and experience. Ad-
+11 ministration of such medication shall be performed within the acceptable
+12 community standard of care.
+13 SECTION 3. That Section 54-5510, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 54-5510. DISCLOSURE AND RECORDKEEPING -- LICENSE RENEWAL. (1) Before
+16 initiating care, a licensed midwife shall obtain a signed informed consent
+17 agreement from each client, acknowledging receipt, at a minimum, of the fol-
+18 lowing:
+19 (a) The licensed midwife's training and experience;
+20 (b) Instructions for obtaining a copy of the rules adopted by the board
+21 pursuant to this chapter;
+22 (c) Instructions for obtaining a copy of the NACPM essential documents
+23 and NARM job description;
+24 (d) Instructions for filing complaints with the board;
+25 (e) Notice of whether or not the licensed midwife has professional lia-
+26 bility insurance coverage;
+27 (f) A written protocol for emergencies, including hospital transport,
+28 that is specific to each individual client;
+29 (g) A description of the procedures, benefits, and risks of home birth,
+30 primarily those conditions that may arise during delivery; and
+31 (h) Any other information required by board rule.
+32 (2) All licensed midwives shall maintain a record of all signed in-
+33 formed consent agreements for each client for a minimum of nine (9) years
+34 after the last day of care for such client.
+35 (3) Before providing care for a client who has a history of disorders,
+36 diagnoses, conditions, or symptoms identified in section 54-5504(1)(e)(ii)
+37 54-5504(1)(c)(ii), Idaho Code, the licensed midwife shall provide writ-
+38 ten notice to the client that the client must obtain care from a physician
+39 licensed pursuant to chapter 18, title 54, Idaho Code, as a condition
+40 to her eligibility to obtain maternity care from the licensed midwife.
+41 Before providing care for a client who has a history of disorders, diag-
+42 noses, conditions, or symptoms identified in section 54-5504(1)(e)(iii)
+43 54-5504(1)(c)(iii), Idaho Code, or who has had a previous cesarean section,
+44 the licensed midwife shall provide written notice to the client that the
+45 client is advised to consult with a physician licensed pursuant to chapter
+46 18, title 54, Idaho Code, during her pregnancy. The midwife shall obtain the
+47 client's signed acknowledgment of receipt of said notice.
+
+6
+1 (4) Any licensed midwife submitting an application to renew a license
+2 shall compile and submit to the board complete practice data for the calendar
+3 year preceding the date of the application. Such information shall be pro-
+4 vided in form and content as prescribed by rule of the board and shall include
+5 but not be limited to:
+6 (a) The number of clients to whom care has been provided by the licensed
+7 midwife;
+8 (b) The number of deliveries performed by the licensed midwife;
+9 (c) The apgar scores of the infants delivered by the licensed midwife;
+10 (d) The number of prenatal transfers;
+11 (e) The number of transfers during labor, during delivery, and immedi-
+12 ately following birth;
+13 (f) Any perinatal deaths; and
+14 (g) Other morbidity statistics as required by the board.
+15 SECTION 4. The rules contained in IDAPA 24.26.01., Idaho Board of Mid-
+16 wifery, relating to Protocols for the Use of Formulary Drugs, Section 200.,
+17 Subsection 01., shall be null, void, and of no force and effect on and after
+18 July 1, 2026.
+19 SECTION 5. An emergency existing therefor, which emergency is hereby
+20 declared to exist, this act shall be in full force and effect on and after
+21 July 1, 2026.

@@ -1,0 +1,20 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Galloway
+Seconded by VanOrden
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1294
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 15, following "loss" insert: "or
+3 is referred to a hearing screening facility to be screened for hearing loss";
+4 and delete lines 21 through 23, and insert:
+5 "(3) The screening facility or provider shall report the results of all
+6 failed hearing screenings to the IESDB within seven (7) days and all other
+7 results monthly to ensure appropriate follow-up and early intervention.".

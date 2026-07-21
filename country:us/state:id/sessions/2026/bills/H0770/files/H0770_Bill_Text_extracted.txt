@@ -1,0 +1,217 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 770
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLE FINANCIAL RESPONSIBILITY; AMENDING SECTION
+3 49-117, IDAHO CODE, TO REVISE THE AMOUNT OF REQUIRED MOTOR VEHICLE IN-
+4 SURANCE RELATING TO PROPERTY DAMAGE; AMENDING SECTION 49-1229, IDAHO
+5 CODE, TO REVISE THE AMOUNT OF REQUIRED MOTOR VEHICLE INSURANCE RELATING
+6 TO PROPERTY DAMAGE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+7 TIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 49-117, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 49-117. DEFINITIONS -- P. (1) "Park" or "parking" means the standing
+12 of a vehicle, whether occupied or not, other than temporarily for the pur-
+13 pose of and while actually engaged in loading or unloading property or pas-
+14 sengers.
+15 (2) "Park model recreational vehicle" means a recreational vehicle
+16 that is designed to provide temporary accommodations for recreational,
+17 camping or seasonal use, is built on a single chassis, was originally mounted
+18 on wheels, has a gross trailer area not exceeding four hundred (400) square
+19 feet in the set-up mode and is certified by its manufacturer as complying
+20 with the American National Standards Institute (ANSI) A119.5 Standard for
+21 Recreational Park Trailers, and includes park models, park trailers and
+22 recreational park trailers.
+23 (3) "Part-time salesman" means any person employed as a vehicle sales-
+24 man on behalf of a dealer fewer than thirty (30) hours per week.
+25 (4) "Peace officer." (See section 19-5101(d), Idaho Code)
+26 (5) "Pedestrian" means any person afoot and any person operating a
+27 wheelchair or a motorized wheelchair or an electric personal assistive mo-
+28 bility device.
+29 (6) "Pedestrian path" means any path, sidewalk or way set aside and used
+30 exclusively by pedestrians.
+31 (7)(a) "Person" means every natural person, firm, fiduciary, copart-
+32 nership, association, corporation, trustee, receiver or assignee for
+33 the benefit of creditors, political subdivision, state or federal gov-
+34 ernmental department, agency, or instrumentality and, for the purposes
+35 of chapter 22, title 49, Idaho Code, shall include a private, common or
+36 contract carrier operating a vehicle on any highway of this state.
+37 (b) "Person with a disability" means:
+38 (i) A person who is unable to walk two hundred (200) feet or more
+39 unassisted by another person;
+40 (ii) A person who is unable to walk two hundred (200) feet or more
+41 without the aid of a walker, cane, crutches, braces, prosthetic
+42 device or a wheelchair; or
+
+2
+1 (iii) A person who is unable to walk two hundred (200) feet or
+2 more without great difficulty or discomfort due to the following
+3 impairments: neurological, orthopedic, respiratory, cardiac,
+4 arthritic disorder, blindness, or the loss of function or absence
+5 of a limb.
+6 (iv) For the purposes of chapters 3 and 4, title 49, Idaho Code,
+7 a person with a permanent disability is one whose physician certi-
+8 fies that the person qualifies as a person with a disability pur-
+9 suant to this paragraph and further certifies that there is no ex-
+10 pectation for a fundamental or marked change in the person's con-
+11 dition at any time in the future.
+12 (8) "Personal delivery device" means an electrically powered device
+13 that is operated on sidewalks, crosswalks, and the sides or berms of high-
+14 ways and is intended primarily to transport property; weighs less than five
+15 hundred fifty (550) pounds, excluding cargo; operates at a maximum speed of
+16 ten (10) miles per hour when on sidewalks; and is equipped with technology to
+17 allow for operation of the device with or without the active control or moni-
+18 toring of a natural person. A personal delivery device shall not be defined
+19 as a vehicle or motor vehicle in any section of the law, unless expressly so
+20 stated.
+21 (9) "Personal delivery device operator" means an entity or its agent
+22 that exercises direct physical control or monitoring over the navigation
+23 system and operation of a personal delivery device. For the purposes of this
+24 subsection, the term "agent" means a person charged by the entity with the
+25 responsibility of navigating, monitoring, or operating the personal deliv-
+26 ery device. The term "personal delivery device operator" does not include
+27 an entity or person who requests the services of a personal delivery device
+28 for the purpose of transporting property or an entity, nor does it include
+29 a person who merely arranges for and dispatches the requested services of a
+30 personal delivery device.
+31 (10) "Personal information" means information that identifies an indi-
+32 vidual, including an individual's photograph or computerized image, social
+33 security number, driver identification number, name, address, telephone
+34 number, and medical or disability information, but does not include infor-
+35 mation on vehicular accidents, driving or equipment-related violations,
+36 the five-digit zip code of the person's address, or status of the driver's
+37 license or motor vehicle registration.
+38 (11) "Pneumatic tire." (See "tires," section 49-121, Idaho Code)
+39 (12) "Pole trailer." (See "trailer," section 49-121, Idaho Code)
+40 (13) "Possessory lien" means a lien dependent upon possession for com-
+41 pensation to which a person is legally entitled for making repairs or per-
+42 forming labor upon, and furnishing supplies or materials for, and for the
+43 towing, storage, repair, or safekeeping of any vehicle of a type subject to
+44 registration.
+45 (14) "Possessory lienholder" means any person claiming a lien, which
+46 lien claimed to have accrued on a basis of services rendered to the vehicle
+47 that is the subject of the lien.
+48 (15) "Preceding year" means, for the purposes of section 49-434, Idaho
+49 Code, a period of twelve (12) consecutive months fixed by the department,
+50 prior to July 1 of the year immediately preceding the commencement of the
+
+3
+1 registration or license year for which proportional registration is sought.
+2 The department in fixing the period shall make it conform to the terms, con-
+3 ditions and requirements of any applicable agreement or arrangement for the
+4 proportional registration of vehicles.
+5 (16) "Pressure regulator valve" means a device or system that governs
+6 the load distribution and controls the weight borne by a variable load sus-
+7 pension axle in accordance with a predetermined valve setting.
+8 (17) "Principal place of business" means an enclosed commercial struc-
+9 ture located within the state, easily accessible and open to the public at
+10 all reasonable times, with an improved display area large enough to display
+11 five (5) or more vehicles of the type the dealer is licensed to sell, imme-
+12 diately adjoining the building, and at which the business of a dealership,
+13 including the display and repair of vehicles, may be lawfully carried on
+14 in accordance with the terms of all applicable building codes, zoning and
+15 other land-use regulatory ordinances, and in which building the public shall
+16 be able to contact the dealer or his salesmen in person or by telephone at
+17 all reasonable times. The books, records and files necessary to conduct
+18 the business of the dealership must be kept or reproduced electronically at
+19 the dealership's licensed location(s). A dealership keeping its physical
+20 books, records and files at an off-site location must notify the department
+21 in writing of such location at least thirty (30) days in advance of moving
+22 such books, records and files off-site. Physical books, records and files
+23 must be made available to the department upon request within three (3) busi-
+24 ness days of such request. The principal place of business shall display
+25 an exterior sign permanently affixed to the land or building, with letters
+26 clearly visible to the major avenue of traffic. In no event shall a room or
+27 rooms in a hotel, rooming house, or apartment house building or a part of any
+28 single or multiple unit dwelling house be considered a "principal place of
+29 business" within the terms and provisions of this title unless the entire
+30 ground floor of that hotel, apartment house, or rooming house building or
+31 dwelling house be devoted principally to and occupied for commercial pur-
+32 poses, and the office or offices of the dealer be located on the ground floor.
+33 (18) "Private property open to the public" means real property not owned
+34 by the federal government or the state of Idaho or any of its political sub-
+35 divisions, but is available for vehicular traffic or parking by the general
+36 public with the permission of the owner or agent of the real property.
+37 (19) "Private road" means every way or place in private ownership and
+38 used for vehicular travel by the owner and those having express or implied
+39 permission from the owner, but not by other persons.
+40 (20) "Proof of financial responsibility" means proof of ability to re-
+41 spond in damages for liability, on account of accidents occurring subsequent
+42 to the effective date of the proof, arising out of the ownership, mainte-
+43 nance or use of a motor vehicle, in the amount of twenty-five thousand dol-
+44 lars ($25,000) because of bodily injury to or death of one (1) person in any
+45 one (1) accident and, subject to the limit for one (1) person, in the amount
+46 of fifty thousand dollars ($50,000) because of bodily injury to or death of
+47 two (2) or more persons in any one (1) accident, and in the amount of fifteen
+48 thousand dollars ($15,000) twenty-five thousand dollars ($25,000) because
+49 of injury to or destruction of property of others in any one (1) accident.
+50 (21) "Proper authority" means a public highway agency.
+
+4
+1 (22) "Public highway agency" means the state transportation depart-
+2 ment, any city, county, highway district or any other state agency that has
+3 jurisdiction over public highway systems and public rights-of-way.
+4 (23) "Public right-of-way" means a right-of-way open to the public and
+5 under the jurisdiction of a public highway agency, where the public highway
+6 agency has no obligation to construct or maintain said right-of-way for ve-
+7 hicular traffic.
+8 (24) "Public road jurisdiction" means a public highway agency.
+9 (25) "Purchase." (See "sell," "sold," and "buy," section 49-120, Idaho
+10 Code)
+11 SECTION 2. That Section 49-1229, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 49-1229. REQUIRED MOTOR VEHICLE INSURANCE. (1) Every owner of a mo-
+14 tor vehicle which is registered and operated in Idaho by the owner or with
+15 his permission shall continuously, except as provided in section 41-2516,
+16 Idaho Code, provide insurance against loss resulting from liability imposed
+17 by law for bodily injury or death or damage to property suffered by any per-
+18 son caused by maintenance or use of motor vehicles described therein in an
+19 amount not less than that required by section 49-117, Idaho Code, and shall
+20 demonstrate the existence of any other coverage required by this title or a
+21 certificate of self-insurance issued by the department pursuant to section
+22 49-1224, Idaho Code, for each motor vehicle to be registered.
+23 (2) A motor vehicle owner who prefers to post an indemnity bond with the
+24 director of the department of insurance in lieu of obtaining a policy of lia-
+25 bility insurance may do so. Such bond shall guarantee that any loss result-
+26 ing from liability imposed by law for bodily injury, death or damage to prop-
+27 erty suffered by any person caused by accident and arising out of the opera-
+28 tion, maintenance and use of the motor vehicle sought to be registered shall
+29 be paid within thirty (30) days. The indemnity bonds shall guarantee payment
+30 in an amount no less than fifty thousand dollars ($50,000) for any one (1)
+31 accident of which fifteen thousand dollars ($15,000) twenty-five thousand
+32 dollars ($25,000) is for property damage, for each vehicle registered up to
+33 a maximum of one hundred twenty thousand dollars ($120,000) for five (5) or
+34 more vehicles.
+35 (3) Any bond given in connection with this chapter shall be, and shall
+36 be construed to be, a continuing instrument and shall cover the period for
+37 which the motor vehicle is to be registered and operated. Such bond shall be
+38 on a form approved by the director of insurance with a surety company autho-
+39 rized to do business in the state.
+40 (4) A motor carrier shall continuously provide insurance against loss
+41 resulting from liability imposed by law or by rule of the department and
+42 shall comply with the insurance requirements of section 49-1233, Idaho Code.
+43 (5) It is an infraction punishable by a fine of seventy-five dollars
+44 ($75.00) for any person to violate the provisions of this section for the
+45 first time. A second and any subsequent conviction for a violation of the
+46 provisions of this section or the provisions of section 49-1232 or 49-1428,
+47 Idaho Code, within a period of five (5) years shall be a misdemeanor, punish-
+48 able by a fine not exceeding one thousand dollars ($1,000), or by imprison-
+49 ment in the county jail not exceeding six (6) months, or both. The depart-
+
+5
+1 ment shall notify any person convicted of a violation of this section of the
+2 penalties which may be imposed for a second and any subsequent conviction.
+3 SECTION 3. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after
+5 July 1, 2026.

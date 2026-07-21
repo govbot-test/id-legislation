@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1436
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO STATE PROCUREMENT; AMENDING SECTION 67-9224, IDAHO CODE, TO RE-
+3 VISE PROVISIONS REGARDING COOPERATIVE AND GROUP DISCOUNT PURCHASING;
+4 AND DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 67-9224, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 67-9224. COOPERATIVE AND GROUP DISCOUNT PURCHASING. (1) The
+9 Notwithstanding any provision of this chapter to the contrary, the adminis-
+10 trator may authorize an agency to:
+11 (a) Become a participating member of a group discount purchasing organ-
+12 ization;
+13 (b) Participate in, sponsor, conduct or administer a cooperative pur-
+14 chasing agreement for property with one (1) or more public agencies, in-
+15 dependent of the requirements of section 67-2329, Idaho Code; or
+16 (c) Utilize contracts of other public agencies within this state upon
+17 determining that the contract was let in a manner that constitutes com-
+18 petitive bidding consistent with the requirements of this chapter and
+19 is otherwise in the best interest of the state.
+20 (2) Any contracts entered into pursuant to subsection (1) of this sec-
+21 tion may include modifications to address additional needs of the state if
+22 the administrator determines the modifications are in the best interest of
+23 the state. The administrator shall inform the vendor of the manner in which
+24 the state may request modifications prior to entering such contract.
+25 (2) (3) The state's participation in a cooperative purchase or group
+26 discount purchasing organization must be formalized by a written agreement.
+27 (3) (4) The state's entrance fee or participation fee in a group dis-
+28 count purchasing organization must be based on criteria applied to all other
+29 members of the organization.
+30 (4) (5) Any agreement entered into pursuant to subsection (2) (3) of
+31 this section shall be maintained on file with the division as well as with the
+32 agency entering into the agreement.
+33 (6) The legislature finds and declares that group discount purchasing,
+34 cooperative purchasing, and shared contracts reduce administrative burden
+35 to the state by requiring fewer solicitations. The legislature further
+36 finds and declares that group discount purchasing, cooperative purchasing,
+37 and shared contracts may enable the state to procure property for reduced
+38 cost. It is the intent of the legislature to authorize such activities in a
+39 manner that allows flexibility to modify underlying contracts when the modi-
+40 fication, in the administrator's judgment, would serve the best interest of
+41 the state.
+
+2
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after its
+3 passage and approval.

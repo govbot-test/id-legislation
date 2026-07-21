@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 680
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO INTERVIEWS OF ALLEGED CHILD ABUSE VICTIMS; AMENDING SECTION
+3 16-1618, IDAHO CODE, TO PROVIDE THAT ALL INTERVIEWS OF ALLEGED VICTIMS
+4 OF CHILD ABUSE SHALL BE DOCUMENTED BY AUDIO OR VIDEO TAPING; AND DECLAR-
+5 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 16-1618, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 16-1618. INVESTIGATIVE INTERVIEWS OF ALLEGED CHILD ABUSE VICTIMS. Un-
+10 less otherwise demonstrated by good cause, all investigative or risk
+11 assessment interviews of alleged victims of child abuse will, including
+12 but not limited to safety assessments, investigative interviews, and risk
+13 assessment interviews, shall be documented by audio or video taping whether
+14 conducted by personnel of law enforcement entities, the department of health
+15 and welfare or child advocacy centers. The absence of such audio or video
+16 taping shall not limit the admissibility of such evidence in any related
+17 court proceeding.
+18 SECTION 2. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after
+20 July 1, 2026.

@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1451
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 34-1203, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE COUNTING OF BALLOTS; AMENDING SECTION 34-1203A,
+4 IDAHO CODE, TO ESTABLISH A PROVISION REGARDING POSTELECTION AUDIT OF
+5 SELECTED BALLOTS; AMENDING SECTION 34-2313, IDAHO CODE, TO ESTABLISH A
+6 PROVISION REGARDING RECOUNT PROCEDURES FOR AUTOMATED TABULATION SYS-
+7 TEMS; AND DECLARING AN EMERGENCY.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 34-1203, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 34-1203. COUNTING OF BALLOTS -- CERTIFICATES OF JUDGES -- BALLOT ADJU-
+12 DICATION. (1) The ballots and polls lists agreeing, the election personnel
+13 shall then proceed to tally the votes cast. Under each office title, the num-
+14 ber of votes for each candidate and such other information required by the
+15 secretary of state shall be entered in the tally books together with the to-
+16 tal of the above figures in the manner prescribed by the secretary of state.
+17 Any ballot or part of a ballot from which it is impossible to determine the
+18 elector's choice shall be void and shall not be counted. When a ballot is
+19 sufficiently plain to determine therefrom a part of the voter's intention,
+20 it shall be the duty of the judges to count such part.
+21 (2) Following the counting, the judges must transmit a copy of the re-
+22 sults to the county clerk.
+23 (3)(a) For any election in which at least one (1) office election or
+24 ballot question in the county occurs in both time zones in Idaho, the
+25 county clerk shall release no election results to the public until all
+26 voting places in the state have closed on election day.
+27 (b) If no office election or ballot question in the county occurs in
+28 both time zones in Idaho, the county clerk may release the election re-
+29 sults to the public at any time after all voting places in the county
+30 have closed on election day.
+31 (4) The secretary of state shall issue directives or promulgate admin-
+32 istrative rules adopting standards that define what constitutes a vote and
+33 what will be counted as a vote for each category of voting system used in this
+34 state.
+35 (5) Each voter at a polling place shall have the ability to adjudicate
+36 such voter's ballot in the case of an overvote. When using a vote tally sys-
+37 tem pursuant to chapter 24, title 34, Idaho Code, to process and tabulate
+38 marked paper ballots, if a ballot is found to have an overvote, that bal-
+39 lot shall be reviewed and adjudicated as if it were counted by hand for that
+40 race or question for which the ballot was cast. The county clerk shall apply
+41 the same standards adopted by the secretary of state for the hand counting
+42 of overvotes when counting overvotes processed by a vote tally system's tab-
+
+2
+1 ulation of ballots. After each ballot with an overvote is reviewed and ad-
+2 judicated, if it is necessary to execute the voter's intent, a clerk may use
+3 the vote tally system's adjudication software process to correct the over-
+4 vote to reflect the voter's intent, or a duplicate ballot shall be produced
+5 to reflect the voter's intent and processed through the vote tally system for
+6 counting and tabulation. The original ballot shall be preserved with appro-
+7 priate notation.
+8 SECTION 2. That Section 34-1203A, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 34-1203A. POSTELECTION AUDIT OF SELECTED BALLOTS.
+11 (1)(a) After the completion of all county canvasses for any primary
+12 or general election, the secretary of state shall identify and order a
+13 postelection audit of certain paper ballots cast in any election, shall
+14 immediately post to the website of the office of the secretary of state a
+15 list of the elections, counties, and precincts selected for audit, and
+16 shall immediately notify each affected county clerk and county sheriff
+17 of the same. Upon receiving such notification, the county sheriff shall
+18 immediately impound and take into custody the affected ballots pursuant
+19 to the procedures in chapter 23, title 34, Idaho Code. Upon completion
+20 of the postelection audit, the ballots shall be resealed and returned
+21 to the custody of the county clerk or, in the event that the ballots are
+22 subject to a recount pursuant to chapter 23, title 34, Idaho Code, to the
+23 county sheriff. The postelection audit shall include, at a minimum, a
+24 hand recount of the ballots subject to the audit and a comparison to the
+25 results reported by the county for any precincts, days, batches, leg-
+26 islative districts, and tabulation machines selected for audit.
+27 (b) A postelection audit authorized pursuant to paragraph (a) of this
+28 subsection may be ordered for:
+29 (i) Any or all federal elections held in Idaho;
+30 (ii) The election for governor;
+31 (iii) The statewide office election having the narrowest percent-
+32 age margin of votes;
+33 (iv) The statewide ballot question election having the narrowest
+34 percentage margin of votes; and
+35 (v) One (1) legislative office election within the county.
+36 (c) The precincts selected for audit pursuant to paragraph (a) of this
+37 subsection shall:
+38 (i) Be selected by lot by the secretary of state without the use of
+39 a computer at an open public meeting governed by the provisions of
+40 chapter 2, title 74, Idaho Code; and
+41 (ii) Not exceed five percent (5%) of the precincts in the county or
+42 one (1) precinct, whichever is greater. Provided, however, that
+43 multiple precincts may be selected in any county if the number of
+44 ballots from the precincts so selected is less than two thousand
+45 one hundred (2,100).
+46 (d) The secretary of state, in lieu of auditing the early or absentee
+47 ballots from any precincts selected for postelection audit, may se-
+48 lect days, batches, legislative districts, and tabulation machines of
+49 early or absentee ballots for audit until the number of ballots selected
+
+3
+1 equals or exceeds the number of early or absentee ballots that were
+2 cast from the precincts selected for postelection audit. Such days,
+3 batches, legislative districts, and tabulation machines shall be se-
+4 lected under the same requirements by which precincts were selected.
+5 The provisions of this paragraph apply only to a county that:
+6 (i) Does not organize the storage of its early or absentee ballots
+7 by precinct;
+8 (ii) Organizes the storage of such ballots by day, batch, legisla-
+9 tive district, or tabulation machine; and
+10 (iii) Publicly reports the election results for early or absen-
+11 tee ballots by day, batch, legislative district, or tabulation ma-
+12 chine on the county's website prior to the secretary of state's se-
+13 lection of precincts to be audited.
+14 (2) The secretary of state shall conduct, and the county clerks shall
+15 facilitate, any postelection audit ordered pursuant to subsection (1) of
+16 this section. Such an audit shall be open to attendance by news media person-
+17 nel. By directive issued at least sixty (60) days prior to the election, the
+18 secretary of state shall determine the procedures by which the postelection
+19 audit is to be conducted. Such procedures shall be developed in consultation
+20 with county clerks and shall include provisions allowing each interested
+21 candidate and political party, and each political committee that publicly
+22 reported expending money on a ballot question for which the results will be
+23 audited, to appoint a designated observer. Within the time specified in the
+24 directive, the secretary of state shall report the results of any postelec-
+25 tion audits on the website of the office of the secretary of state and to the
+26 county clerk of each county in which paper ballots were audited.
+27 (3) The secretary of state may order additional postelection audits,
+28 without regard to the election or precinct limitations provided in subsec-
+29 tion (1) of this section, if he determines that such action is warranted by
+30 the findings of the audits ordered pursuant to subsection (1) of this sec-
+31 tion. The secretary of state shall limit such orders for additional post-
+32 election audits to the types of problems identified by the audits performed
+33 pursuant to subsection (1) of this section.
+34 (4) The office of the secretary of state shall pay for the cost of any
+35 postelection audits conducted pursuant to this section, including reimburs-
+36 ing county clerks for any costs associated with facilitating such audits.
+37 (5) For all ballots that are cast using a voting machine as defined in
+38 section 34-2401, Idaho Code, whether during early voting or on election day,
+39 that have overvotes or undervotes, such ballots shall remain unchanged for
+40 recount purposes.
+41 SECTION 3. That Section 34-2313, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 34-2313. RECOUNT PROCEDURES FOR AUTOMATED TABULATION SYSTEMS. (1) To
+44 ensure the accuracy of automated vote tabulation systems, the county clerk
+45 shall follow the recount procedures provided in this section.
+46 (2) The votes from a random selection of ballots shall be tallied by
+47 hand and the votes from the same ballots shall be tabulated by an electronic
+48 ballot tabulating system. For statewide and federal office or a statewide
+49 measure, the number of ballots to be tallied and tabulated shall be equal to
+
+4
+1 at least two (2) precincts of the ballots cast in each county. For all other
+2 offices or measures, the number of ballots to be tallied and tabulated shall
+3 be equal to the greater of one hundred (100) or five percent (5%) of the bal-
+4 lots cast for the office or measure, distributed by county where applicable.
+5 (3) For a statewide or federal office or a statewide measure, if the
+6 results of the hand-tally and the automated vote tally system tabulation
+7 within the county differ by one-fourth of one percent (.25%) or less, the re-
+8 maining ballots shall be recounted using automated vote tabulating systems.
+9 Otherwise, the remaining ballots shall be recounted by hand.
+10 (4) For other offices and ballot measures, if the results of the hand-
+11 tally and electronic vote tabulating system tabulation differ by less than
+12 one percent (1%), or two (2) votes, whichever is greater, the remaining bal-
+13 lots shall be recounted using automated vote tabulating systems. Otherwise,
+14 the remaining ballots shall be recounted by hand.
+15 (5) For all ballots that are cast using a voting machine as defined in
+16 section 34-2401, Idaho Code, whether during early voting or on election day,
+17 that have overvotes or undervotes, such ballots shall remain unchanged for
+18 recount purposes.
+19 SECTION 4. An emergency existing therefor, which emergency is hereby
+20 declared to exist, this act shall be in full force and effect on and after its
+21 passage and approval.

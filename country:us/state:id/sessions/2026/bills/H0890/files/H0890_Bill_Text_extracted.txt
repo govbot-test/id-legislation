@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 890
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO STATE GOVERNMENT; REPEALING SECTION 67-5709A, IDAHO CODE, RE-
+3 LATING TO THE SALE, TRANSFER, OR DISPOSITION OF STATE ADMINISTRATIVE
+4 FACILITIES; AMENDING SECTION 58-331, IDAHO CODE, TO REMOVE A CODE REF-
+5 ERENCE; AMENDING SECTION 67-2024A, IDAHO CODE, TO REMOVE A PROVISION
+6 REGARDING THE DISPOSAL OF STATE SURPLUS REAL PROPERTY; AND DECLARING AN
+7 EMERGENCY.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 67-5709A, Idaho Code, be, and the same is hereby
+10 repealed.
+11 SECTION 2. That Section 58-331, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 58-331. DESIGNATION OF SURPLUS REAL PROPERTY. Real property of the
+14 state of Idaho, the use of which by any department, officer, board, com-
+15 mission or other administrative agency of the state shall be terminated by
+16 law, and real property in the custody and control of any such agency which
+17 the agency shall declare to be no longer useful to or usable by it, shall be
+18 deemed surplus, and, except as set forth in section 67-5709A, Idaho Code,
+19 custody and control thereof shall thereupon be vested in and title be trans-
+20 ferred to the state board of land commissioners, subject to disposition by
+21 said board in accordance with the provisions of this act.
+22 SECTION 3. That Section 67-2024A, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 67-2024A. AUTHORIZATION FOR DISPOSAL OF STATE SURPLUS PROPERTY. The
+25 state board of examiners shall authorize:
+26 (1) The disposal of state surplus real property classified as "state
+27 administrative facilities" in accordance with section 67-5709A, Idaho Code,
+28 excluding real property as set forth in section 58-331, Idaho Code; and
+29 (2) The the disposal of state surplus personal property in accordance
+30 with section 67-5732A, Idaho Code, and in compliance with the internal
+31 management policies and procedures for state surplus personal property as
+32 adopted by the board.
+33 SECTION 4. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after its
+35 passage and approval.

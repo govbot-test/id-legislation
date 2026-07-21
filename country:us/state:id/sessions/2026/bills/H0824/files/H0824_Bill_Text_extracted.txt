@@ -1,0 +1,709 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 824
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD CUSTODY; PROVIDING LEGISLATIVE FINDINGS AND INTENT;
+3 AMENDING SECTION 32-717, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+4 CHILD CUSTODY; REPEALING SECTION 32-717A, IDAHO CODE, RELATING TO PAR-
+5 ENTS' ACCESS TO RECORDS AND INFORMATION; AMENDING CHAPTER 7, TITLE
+6 32, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 32-717A, IDAHO CODE,
+7 TO ESTABLISH PROVISIONS REGARDING PARENTS' ACCESS TO RECORDS AND IN-
+8 FORMATION; REPEALING SECTION 32-717B, IDAHO CODE, RELATING TO JOINT
+9 CUSTODY; AMENDING CHAPTER 7, TITLE 32, IDAHO CODE, BY THE ADDITION OF
+10 A NEW SECTION 32-717B, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+11 CHILD CUSTODY, PARENTING TIME ORDERS, EVIDENTIARY HEARINGS, AND COURT
+12 FINDINGS AND ORDERS; AMENDING SECTION 32-717C, IDAHO CODE, TO REVISE
+13 PROVISIONS REGARDING ALLEGATIONS OF ABUSE AND INVESTIGATIONS; AMEND-
+14 ING CHAPTER 7, TITLE 32, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+15 32-717F, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING TEMPORARY AND EX
+16 PARTE ORDERS; AMENDING CHAPTER 7, TITLE 32, IDAHO CODE, BY THE ADDITION
+17 OF A NEW SECTION 32-717G, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+18 RESTORATION OF LOST PARENTING TIME; AMENDING CHAPTER 7, TITLE 32, IDAHO
+19 CODE, BY THE ADDITION OF A NEW SECTION 32-717H, IDAHO CODE, TO ESTABLISH
+20 PROVISIONS REGARDING COURT-APPOINTED PROFESSIONALS; AMENDING CHAP-
+21 TER 7, TITLE 32, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 32-717I,
+22 IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING SUPERVISED VISITATION;
+23 AMENDING CHAPTER 7, TITLE 32, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+24 TION 32-721, IDAHO CODE, TO DEFINE TERMS; AMENDING CHAPTER 7, TITLE
+25 32, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 32-722, IDAHO CODE,
+26 TO ESTABLISH PROVISIONS REGARDING VIOLATION OF PARENTAL RIGHTS OR DUE
+27 PROCESS AND REMEDIES; AMENDING SECTION 7-1126, IDAHO CODE, TO PROVIDE
+28 A CORRECT CODE REFERENCE AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+29 SECTION 32-1704, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE AND
+30 TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 32-1705, IDAHO CODE,
+31 TO PROVIDE CORRECT CODE REFERENCES AND TO MAKE TECHNICAL CORRECTIONS;
+32 AMENDING SECTION 39-6306, IDAHO CODE, TO PROVIDE A CORRECT CODE REFER-
+33 ENCE AND TO MAKE TECHNICAL CORRECTIONS; PROVIDING APPLICABILITY; AND
+34 PROVIDING AN EFFECTIVE DATE.
+35 Be It Enacted by the Legislature of the State of Idaho:
+36 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. (1) The Legislature finds
+37 that:
+38 (a) Parenthood is a natural and fundamental relationship from which
+39 inherent parental rights and responsibilities arise, protected by the
+40 United States Constitution and the Constitution of the State of Idaho;
+41 (b) A parent has the right, obligation, responsibility, and authority
+42 to raise, manage, train, educate, provide for, and reasonably disci-
+43 pline the parent's child;
+
+2
+1 (c) The role of the state is secondary and supportive to the primary
+2 role of a parent;
+3 (d) A parent's fundamental rights may be restricted only upon a judi-
+4 cial finding of unfitness or necessity, supported by clear and convinc-
+5 ing evidence; and
+6 (e) The interests of the state favor preservation and not severance of
+7 natural familial bonds in circumstances where a positive, nurturing
+8 parent-child relationship can exist, including extended family associ-
+9 ation and support. The procedural safeguards contained in this act are
+10 essential to the best interests of the child.
+11 (2) The Legislature declares that family court proceedings affecting
+12 the custody, care, or visitation of a child implicate fundamental liberty
+13 interests.
+14 (3) It is the intent of the Legislature to:
+15 (a) Protect children by preserving stable relationships with fit par-
+16 ents;
+17 (b) Ensure that restrictions on parental rights are narrowly tailored,
+18 based on clear and convincing evidence, and are the least restrictive
+19 means available;
+20 (c) Promote transparency, accountability, and timely judicial action
+21 in all custody matters; and
+22 (d) Promote stability, reduce unnecessary litigation, and support
+23 the child's meaningful relationship with fit parents by establishing
+24 clear, uniform standards for custody determinations.
+25 SECTION 2. That Section 32-717, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 32-717. CUSTODY OF CHILDREN -- BEST INTEREST. (1) In an action for di-
+28 vorce When parents cannot reach an agreement regarding custody or parenting
+29 time of a minor child, the court may, before and after judgment, give such di-
+30 rection for the custody, care and education of the children of the marriage
+31 as may seem necessary or proper in the best interests of the children. The
+32 court shall consider all relevant factors which may include:
+33 (a) The wishes of the child's parent or parents as to his or her custody;
+34 (b) The wishes of the child as to his or her custodian;
+35 (c) The interaction and interrelationship of the child with his or her
+36 parent or parents, and his or her siblings;
+37 (d) The child's adjustment to his or her home, school, and community;
+38 and
+39 (e) The character and circumstances of all individuals involved;.
+40 (f) The need to promote continuity and stability in the life of the
+41 child; and
+42 (g) Domestic violence as defined in section 39-6303, Idaho Code,
+43 whether or not in the presence of the child.
+44 (2) If a parent is found, by clear and convincing evidence and supported
+45 by written findings of fact, to have committed domestic violence as defined
+46 in section 39-6303, Idaho Code, such finding shall rebut the presumption
+47 that substantially equal parenting time is in the best interests of the
+48 child.
+
+3
+1 (3) Absent a showing by clear and convincing evidence of real harm or
+2 substantiated potential harm to the minor child, substantially equal par-
+3 enting time shall be presumed to be in the best interest of the child, includ-
+4 ing:
+5 (a) Frequent, meaningful, and continuing access to each parent follow-
+6 ing separation, divorce, paternity, or custody action; and
+7 (b) Active involvement of both parents in parenting the minor child.
+8 (2) (4) If the parent has a disability as defined in this section
+9 32-721, Idaho Code, the parent shall have the right to provide evidence and
+10 information regarding the manner in which the use of adaptive equipment or
+11 supportive services will enable the parent to carry out the responsibilities
+12 of parenting the child. The court shall advise the parent of such right.
+13 Evaluations of parental fitness shall take into account the use of adaptive
+14 equipment and supportive services for parents with disabilities and shall be
+15 conducted by, or with the assistance of, a person who has expertise concern-
+16 ing such equipment and services. Nothing in this section shall be construed
+17 to create any new or additional obligations on state or local governments to
+18 purchase or provide adaptive equipment or supportive services for parents
+19 with disabilities.
+20 (3) (5) In any case where the child is actually residing with a grand-
+21 parent in a stable relationship, the court may recognize the grandparent as
+22 having the same standing as a parent for evaluating what custody arrange-
+23 ments are in the best interests of the child. purposes of presenting evi-
+24 dence regarding the child's best interests, but not for purposes of dimin-
+25 ishing, supplanting, or rebutting the fundamental parental rights or pre-
+26 sumptions established pursuant to this chapter. Nothing in this subsection
+27 shall create a presumption in favor of a de facto custodian over a fit parent.
+28 (4) As used in this chapter:
+29 (a) "Adaptive equipment" means any piece of equipment or any item that
+30 is used to increase, maintain or improve the parenting capabilities of a
+31 parent with a disability.
+32 (b) "Disability" means, with respect to an individual, any mental or
+33 physical impairment which substantially limits one (1) or more ma-
+34 jor life activities of the individual including, but not limited to,
+35 self-care, manual tasks, walking, seeing, hearing, speaking, learn-
+36 ing or working, or a record of such an impairment, or being regarded as
+37 having such an impairment. Disability shall not include transvestism,
+38 transsexualism, pedophilia, exhibitionism, voyeurism, other sexual
+39 behavior disorders, substance use disorders, compulsive gambling,
+40 kleptomania or pyromania. Sexual preference or orientation is not
+41 considered an impairment or disability. Whether an impairment sub-
+42 stantially limits a major life activity shall be determined without
+43 consideration of the effect of corrective or mitigating measures used
+44 to reduce the effects of the impairment.
+45 (c) "Supportive services" means services which assist a parent with a
+46 disability to compensate for those aspects of their disability which
+47 affect their ability to care for their child and which will enable
+48 them to discharge their parental responsibilities. The term includes
+49 specialized or adapted training, evaluations, or assistance with ef-
+50 fective use of adaptive equipment, and accommodations which allow a
+
+4
+1 parent with a disability to benefit from other services, such as braille
+2 texts or sign language interpreters.
+3 (5) Nothing in this chapter shall be construed to allow discrimination
+4 on the basis of disability. In any case where the disability of a parent is
+5 found by the court to be relevant to an award of custody of a child, the court
+6 shall make specific findings concerning the disability and what effect, if
+7 any, the court finds the disability has on the best interests of the child.
+8 (6) With reference to this section, when an active member of the Idaho
+9 national guard has been ordered or called to duty as defined in section
+10 46-409, Idaho Code, or when a member of the military reserve is ordered to
+11 active federal service under title 10, United States Code, such military
+12 service thereunder shall not be a substantial or material and permanent
+13 change in circumstance to modify by reducing the member's previously decreed
+14 child custody and visitation privileges.
+15 (7) For purposes of civil proceedings in which custody and parenting
+16 time of a minor child is at issue, any restriction, suspension, condition, or
+17 diminution of a parent's legal custody, physical custody, parenting time, or
+18 decision-making authority shall be permissible only upon written findings
+19 of fact supported by clear and convincing evidence that the restriction is
+20 necessary to prevent a specific and clearly demonstrated risk of substantial
+21 harm to the child and is narrowly tailored using the least restrictive means
+22 available.
+23 SECTION 3. That Section 32-717A, Idaho Code, be, and the same is hereby
+24 repealed.
+25 SECTION 4. That Chapter 7, Title 32, Idaho Code, be, and the same is
+26 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+27 ignated as Section 32-717A, Idaho Code, and to read as follows:
+28 32-717A. PARENTS' ACCESS TO RECORDS AND INFORMATION. (1) Consistent
+29 with section 32-1015, Idaho Code, and notwithstanding any other provisions
+30 of law, each parent shall have equal access to all records relating to the
+31 parent's minor child, including medical, educational, childcare, law en-
+32 forcement, and court records, regardless of custodial status. Upon written
+33 request, a records custodian shall provide copies within fourteen (14) cal-
+34 endar days unless a shorter period is required by law.
+35 (2) Access may be restricted only by court order with written findings
+36 that the restriction is necessary to prevent substantial harm to the child.
+37 Nothing in this section shall require disclosure in violation of federal
+38 law.
+39 SECTION 5. That Section 32-717B, Idaho Code, be, and the same is hereby
+40 repealed.
+41 SECTION 6. That Chapter 7, Title 32, Idaho Code, be, and the same is
+42 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+43 ignated as Section 32-717B, Idaho Code, and to read as follows:
+44 32-717B. CHILD CUSTODY ORDERS -- EVIDENTIARY HEARING. (1) In any con-
+45 tested custody or parenting time determination in which the parties have not
+
+5
+1 entered a knowing and voluntary written stipulation resolving all issues,
+2 the court shall hold an evidentiary hearing with notice and a meaningful op-
+3 portunity for both parents to be heard if the court is imposing any restric-
+4 tion, suspension, supervision, or diminution of parental rights. This sub-
+5 section shall not apply to stipulated agreements or uncontested matters in
+6 which both parents knowingly and voluntarily consent to the proposed order.
+7 (2) The court may restrict a parent's custody or parenting time only
+8 upon clear and convincing evidence showing a specific and clearly demon-
+9 strated risk of substantial harm to the child or where equal parenting
+10 time is impracticable due to significant geographic distance or other ob-
+11 jective logistical barriers. Uncorroborated or speculative allegations,
+12 extra-statutory theories, or findings that allegations are unproven or in-
+13 conclusive shall not be used to restrict parental rights. The court shall
+14 state on the record the facts relied upon to restrict a parent's custody or
+15 parenting time and why the restriction is necessary.
+16 (3) Within fourteen (14) calendar days after the evidentiary hearing,
+17 the court shall issue a written order with specific findings of fact and con-
+18 clusions of law, unless extended for good cause stated on the record. The
+19 written order shall identify the statutory basis, the evidence relied on,
+20 the party bearing the burden of proof, how the clear and convincing standard
+21 was met, why less restrictive alternatives were insufficient, the scope and
+22 duration of any restriction, and the clear, objective conditions required
+23 for modification.
+24 (4) No police report or medical documentation may serve as the sole
+25 basis for a custody or parenting time restriction beyond fourteen (14) cal-
+26 endar days absent cross-examination and written findings supported by clear
+27 and convincing evidence, and these standards shall apply equally to both
+28 parents.
+29 (5) Absent an adjudicated finding sufficient to overcome the presump-
+30 tion of substantially equal parenting time, the court may deviate from equal
+31 parenting time only upon time-limited conditions supported by specific
+32 findings of fact and shall include in the custody order a restoration plan,
+33 as defined in section 32-721, Idaho Code, providing for automatic return to
+34 equal parenting time or a lawful final custody order upon resolution of the
+35 stated conditions.
+36 (a) The restoration plan shall be incorporated into the order at entry
+37 and shall be self-executing upon satisfaction of clearly defined, ob-
+38 jectively verifiable conditions set forth in the order, without further
+39 court action unless a party files a timely motion.
+40 (b) The order shall specify the objective criteria and method of writ-
+41 ten verification required to establish satisfaction of the conditions,
+42 and upon filing of certification, the court shall review the certifi-
+43 cation and enter the next phase absent written objection filed within
+44 seven (7) days.
+45 (c) A party opposing implementation of the restoration plan shall bear
+46 the burden of filing a motion supported by sworn evidence demonstrating
+47 either that a condition has not occurred or that implementation would
+48 create a specific and clearly demonstrated risk of substantial harm to
+49 the child. Upon satisfaction of the restoration conditions, the burden
+
+6
+1 shall be upon the party that believes that continued deviation remains
+2 necessary, which shall be proven by clear and convincing evidence.
+3 (6) Emergency orders may be issued as otherwise authorized by law but
+4 shall not nullify or suspend a restoration plan absent compliance with this
+5 subsection. Emergency orders shall not remain in effect beyond fourteen
+6 (14) calendar days without written findings supported by clear and convinc-
+7 ing evidence of newly arisen facts demonstrating a specific and clearly
+8 demonstrated risk of substantial harm to the child and shall not be renewed
+9 or reissued to avoid operation of a restoration plan.
+10 SECTION 7. That Section 32-717C, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 32-717C. ALLEGATIONS OF ABUSE -- INVESTIGATION. (1) When, in any di-
+13 vorce proceeding or upon request for modification of a divorce decree, an in
+14 any proceeding affecting child custody or parenting time, a credible alle-
+15 gation of child abuse or child sexual abuse, neglect, or other criminal acts
+16 is made, implicating either party, the court shall order by a written notice
+17 and request that an investigation be conducted by the department of health
+18 and welfare, or by the appropriate law enforcement agency, if applicable. A
+19 final award of custody, parenting time, or visitation may shall not be ren-
+20 dered until a written report on that investigation is received by the court.
+21 That investigation shall be conducted by the department within thirty (30)
+22 days of the court's notice and request for investigation. The investigating
+23 agency shall make reasonable efforts to complete the investigation and sub-
+24 mit a written report within forty-two (42) calendar days unless extended by
+25 the court upon documented reasonable cause.
+26 (2) If an investigation extends beyond forty-two (42) calendar days,
+27 the investigating agency shall provide written status updates to the court
+28 every fourteen (14) calendar days. Upon receipt of the investigative re-
+29 port, the court shall review whether continued restriction meets the clear
+30 and convincing standard set forth in section 32-717B , Idaho Code.
+31 (3) During the investigation, the court may issue temporary protective
+32 measures only for good cause and in compliance with sections 32-717B and
+33 32-717F, Idaho Code. Any ex parte or temporary order shall state an expira-
+34 tion date and create no presumption for or against either parent.
+35 (4) Findings regarding allegations shall not be based solely on the
+36 opinions or recommendations of guardians ad litem, evaluators, or other
+37 court-appointed professionals.
+38 (5) A safety plan recommended by law enforcement or child protective
+39 services, and a parent's compliance with it, shall not be used as evidence of
+40 fault, unfitness, restriction, or risk of harm in any custody or parenting
+41 time proceeding.
+42 (6) A parent acting in good faith to protect a child from credible harm,
+43 including compliance with law enforcement direction that conflicts with an
+44 existing order, shall not be penalized, presumed in contempt, or deemed to
+45 have interfered with custody, and such conduct shall be considered solely as
+46 protective in nature.
+
+7
+1 SECTION 8. That Chapter 7, Title 32, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 32-717F, Idaho Code, and to read as follows:
+4 32-717F. TEMPORARY AND EX PARTE ORDERS. (1) A court may enter a tem-
+5 porary custody or parenting time order prior to the evidentiary hearing re-
+6 quired by section 32-717B, Idaho Code, but such order shall not remain in ef-
+7 fect longer than forty-nine (49) calendar days, shall create no presumption
+8 regarding the child's best interests, and shall not operate as a de facto
+9 permanent modification.
+10 (2) Any temporary restriction shall expire on the forty-ninth calendar
+11 day unless continued by written findings supported by clear and convincing
+12 evidence consistent with section 32-717B. Nothing in this subsection shall
+13 require repeated evidentiary hearings where the parties stipulate to con-
+14 tinuation or where no party seeks modification.
+15 (3) An ex parte order restricting custody, parenting time, or contact
+16 may be issued only upon sworn admissible evidence establishing probable
+17 cause of imminent physical danger to the child or a parent. Speculation,
+18 generalized fear, or uncorroborated assertions are insufficient. The court
+19 shall consider known inculpatory and exculpatory evidence.
+20 (4) An ex parte order shall expire fourteen (14) calendar days from is-
+21 suance, shall state on its face the date and time of expiration, and shall not
+22 be extended or converted into a temporary order without a full evidentiary
+23 hearing and written findings consistent with section 32-717B, Idaho Code.
+24 (5) A court shall not delay resolution of a custody matter such that a
+25 temporary or ex parte order functions as a long-term deprivation of parental
+26 rights.
+27 SECTION 9. That Chapter 7, Title 32, Idaho Code, be, and the same is
+28 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+29 ignated as Section 32-717G, Idaho Code, and to read as follows:
+30 32-717G. RESTORATION OF LOST PARENTING TIME. (1) If a parent's cus-
+31 tody or parenting time is restricted, suspended, or supervised due to an
+32 allegation of abuse that is adjudicated by the court and found to be un-
+33 substantiated or insufficient to meet the clear and convincing evidence
+34 standard required for restriction under section 32-717B, the court shall
+35 order restoration of the lost parenting time. Willful interference with
+36 a restoration order shall result in enforceable remedies, including con-
+37 tempt and compensatory parenting time, and the court shall refer apparent
+38 violations of title 18, Idaho Code, relating to custody interference to the
+39 appropriate prosecuting attorney.
+40 (2) A restoration plan, as defined in section 32-721, Idaho Code, shall
+41 provide for prompt recovery of equivalent parenting time in a manner that
+42 minimizes disruption to the child and preserves stability and continuity,
+43 including comparable time for missed holidays, school breaks, or special pe-
+44 riods.
+45 (3) Restoration of lost parenting time shall occur without undue de-
+46 lay and in compliance with section 32-717B, Idaho Code. When a parent know-
+47 ingly denies court-ordered custody or parenting time without lawful justi-
+48 fication, the court shall award compensatory parenting time equal in type
+
+8
+1 and duration to the time denied. Such compensatory parenting time shall be
+2 exercised as soon as reasonably practicable, unless clear and convincing ev-
+3 idence establishes that immediate restoration would pose a risk of substan-
+4 tial harm to the child.
+5 SECTION 10. That Chapter 7, Title 32, Idaho Code, be, and the same is
+6 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+7 ignated as Section 32-717H, Idaho Code, and to read as follows:
+8 32-717H. COURT-APPOINTED PROFESSIONALS. Court-appointed profes-
+9 sionals shall serve in an advisory capacity only. Final determinations
+10 regarding custody, parenting time, and decision-making authority shall re-
+11 main with the court. Any report relied on by the court shall be disclosed to
+12 both parents, and the author must be made available for cross-examination
+13 upon request.
+14 SECTION 11. That Chapter 7, Title 32, Idaho Code, be, and the same is
+15 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+16 ignated as Section 32-717I, Idaho Code, and to read as follows:
+17 32-717I. SUPERVISED VISITATION -- CHILD CUSTODY. (1) Supervised vis-
+18 itation may be ordered in proceedings between parents in which custody and
+19 parenting time of a minor child is at issue only upon a judicial finding
+20 of probable cause, supported by credible facts, that unsupervised contact
+21 poses an immediate risk of physical harm or abuse to the child and that su-
+22 pervision is the least restrictive means to protect the child. The court
+23 shall not impose conditions that function as supervised visitation without
+24 complying with the procedural safeguards of section 32-717B, Idaho Code.
+25 (2) Supervision shall not be based solely on allegations, parental con-
+26 flict, or lawful parenting disagreements, and the court shall consider all
+27 known exculpatory evidence.
+28 (3) Supervised visitation shall be reviewed within forty-nine (49)
+29 calendar days and may be continued upon written findings supported by clear
+30 and convincing evidence of a specific and articulable risk of substantial
+31 harm.
+32 (4) A continuation of supervised visitation may occur upon written
+33 findings based on a review hearing or stipulations. A full evidentiary hear-
+34 ing shall not be required unless requested by a party.
+35 (5) All supervised visitation orders shall include clear, objective
+36 conditions for transition to unsupervised parenting time and periodic re-
+37 view at intervals not to exceed ninety (90) days unless otherwise ordered by
+38 the court for good cause.
+39 (6) Preference shall be given to unpaid supervisors agreed upon by the
+40 parties. Professional supervision may be ordered only if no suitable un-
+41 paid supervisor is reasonably available, and costs shall be allocated by the
+42 court and reviewable upon motion.
+43 (7) A parent's legitimate inability to attend supervised visitation
+44 shall not be deemed a voluntary relinquishment of time.
+45 (8) Compensated supervised access providers shall complete finger-
+46 print-based statewide and federal criminal history and abuse registry
+47 checks.
+
+9
+1 (9) Nothing in this section shall be construed to permit the use of
+2 supervised visitation as a punitive measure, leverage, or a substitute for
+3 proof of unfitness, nor construed to shift the burden of proof away from the
+4 party seeking restriction.
+5 (10) This section applies only to custody and parenting time determina-
+6 tions between parents and does not modify, limit, or supersede proceedings
+7 under chapter 16, title 16, Idaho Code.
+8 SECTION 12. That Chapter 7, Title 32, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 32-721, Idaho Code, and to read as follows:
+11 32-721. DEFINITIONS. For the purpose of this chapter:
+12 (1) "Adaptive equipment" means equipment used to enhance the parenting
+13 capabilities of a parent with a disability.
+14 (2) "Custodial parent" means a parent awarded more than substantially
+15 equal physical custody of the parent's child, or, if no order exists, the
+16 parent providing the child's principal residence more than fifty-five per-
+17 cent (55%) of the time.
+18 (3) "Custodian" means a parent or other adult recognized by the court
+19 as having standing to exercise care, supervision, or custody of a child, in-
+20 cluding grandparents in stable, ongoing caregiving arrangements.
+21 (4) "Custody" means responsibility for a child, including legal, phys-
+22 ical, joint, or sole custody.
+23 (5) "Disability" means a mental or physical impairment substantially
+24 limiting a major life activity. "Disability" does not include sexual orien-
+25 tation, sexual behavior disorders, substance use disorders, compulsive gam-
+26 bling, kleptomania, or pyromania.
+27 (6) "Equal parental responsibility" means both parents retain full and
+28 equal rights to custody, care, control, supervision, education, and deci-
+29 sion-making for the child, with the child spending substantially equal time
+30 with each parent.
+31 (7) "Joint legal custody" means substantially equal and independent
+32 decision-making authority unless otherwise specified in a court order.
+33 (8) "Joint physical custody" means equal periods of residence or su-
+34 pervision, except for temporary deviations for events such as documented
+35 travel, military deployment, temporary relocation, or medical conditions.
+36 (9) "Legal custody" means the right and responsibility to make major
+37 decisions regarding the child's upbringing, including health, education,
+38 and welfare.
+39 (10) "Non-custodial parent" means a parent with less than forty-five
+40 percent (45%) physical custody of the parent's child.
+41 (11) "Parent" means a biological or adoptive mother or father whose
+42 parental rights are not terminated. "Parent" does not include persons
+43 serving in loco parentis, de facto caregivers, temporary guardians, or
+44 court-ordered visitation-only persons.
+45 (12) "Parentage" means the legal recognition of a person as a parent
+46 through birth, adoption, acknowledgment, or adjudication.
+47 (13) "Parental fitness" means the ability to provide for the child's
+48 health, safety, education, and welfare, including consistent parenting.
+
+10
+1 (14) "Parenthood" means the natural, legal, and fundamental relation-
+2 ship from which inherent parental rights arise, existing independently of
+3 government creation.
+4 (15) "Parenting time" means periods of time during which a parent exer-
+5 cises care of and interaction with the child. Parenting time reflects inher-
+6 ent parental rights and may be structured by court order.
+7 (16) "Physical custody" means the legal allocation of day-to-day care
+8 of the child.
+9 (17) "Restoration plan" means a written plan or schedule that sets forth
+10 the timing, conditions, and process for the restoration or progression of
+11 a parent's custody or parenting time to a parent's lawful entitlement under
+12 the default custody framework established by law or an otherwise lawful fi-
+13 nal custody order.
+14 (18) "Safety plan" means a nonbinding, nonadjudicative, temporary pro-
+15 posal initiated by a governmental entity or government-affiliated actor.
+16 (19) "Sole legal custody" means the exclusive authority to make major
+17 decisions regarding the child's upbringing, including health, education,
+18 and welfare.
+19 (20) "Sole physical custody" means the exclusive right and responsibil-
+20 ity for primary residence and daily care of the child, subject to parenting
+21 time rights of the other parent.
+22 (21) "State" includes the legislative, executive, and judicial
+23 branches of government.
+24 (22) "Substantially equal parenting time" means both parents have
+25 nearly equal physical custody of the child, with each parent having physical
+26 custody of the child at least forty-five percent (45%) of the time.
+27 (23) "Supportive services" means services that aid a parent with a dis-
+28 ability in fulfilling parental responsibilities.
+29 SECTION 13. That Chapter 7, Title 32, Idaho Code, be, and the same is
+30 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+31 ignated as Section 32-722, Idaho Code, and to read as follows:
+32 32-722. VIOLATION OF PARENTAL RIGHTS -- REMEDIES. (1) Any custody,
+33 parenting time, or visitation order entered in violation of sections 32-717
+34 through 32-717I, Idaho Code, including failure to issue required written
+35 findings, constitutes reversible error.
+36 (2) Upon reversal or other appropriate review, the court shall restore
+37 parental rights and parenting time consistent with this chapter and enter a
+38 restoration plan pursuant to section 32-717G, Idaho Code, as necessary.
+39 (3) The provisions of sections 32-717 through 32-717I, Idaho Code,
+40 shall be applied consistently with applicable rules of the court and shall
+41 not be diminished through procedural technicalities inconsistent with
+42 statutory protections.
+43 SECTION 14. That Section 7-1126, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 7-1126. CUSTODY OF CHILDREN -- BEST INTEREST INTERESTS. In any pro-
+46 ceeding to determine custody under the provisions of this chapter, the court
+47 shall apply sections 32-717 through 32-717E 32-717I, Idaho Code. However,
+
+11
+1 the court shall not consider whether or not the mother or father did or did
+2 not voluntarily consent to the adoption of the child or to the relinquishment
+3 of parental rights in determining the best interest interests of the child.
+4 SECTION 15. That Section 32-1704, Idaho Code, be, and the same is hereby
+5 amended to read as follows:
+6 32-1704. COMMENCEMENT OF PROCEEDINGS. (1) A child custody proceeding
+7 may be initiated in any court of this state with jurisdiction to determine
+8 child custody matters, by an individual:
+9 (a) Filing a petition seeking a determination that he or she is a de
+10 facto custodian pursuant to section 32-1703, Idaho Code, and seeking
+11 custody of a child; or
+12 (b) Filing a motion seeking permissive intervention pursuant to rule 24
+13 of the Idaho rules of civil procedure, in a pending custody proceeding
+14 seeking a determination that he or she is a de facto custodian pursuant
+15 to section 32-1703, Idaho Code, and seeking custody of a child.
+16 (2) A petition for custody or a motion to intervene based on the peti-
+17 tioners or intervenors alleged status as a de facto custodian, filed under
+18 pursuant to this section, must state and allege:
+19 (a) The name and address of the petitioner or intervenor and any prior
+20 or other name used by the petitioner or intervenor;
+21 (b) The name of the respondent mother and father or guardian(s) and any
+22 prior or other name used by the respondent(s) and known to the peti-
+23 tioner or intervenor;
+24 (c) The name and date of birth of each child for whom custody is sought;
+25 (d) The relationship of the petitioner or intervenor to each child for
+26 whom custody is sought;
+27 (e) The basis for jurisdiction asserted by the petitioner or inter-
+28 venor;
+29 (f) The current legal and physical custodial status of each child for
+30 whom custody is sought, whether a proceeding involving custody of the
+31 child, including a proceeding for an order or protection pursuant to
+32 section 39-6304, Idaho Code, is pending in a court in this state or else-
+33 where, and a list of all prior orders of custody, including temporary
+34 orders, if known to the petitioner or intervenor;
+35 (g) Whether either parent is a member of the armed services, if known to
+36 the petitioner or intervenor;
+37 (h) The length of time each child has resided with the petitioner or in-
+38 tervenor and the nature of the petitioners petitioner's or intervenors
+39 intervenor's role in caring for each child for whom custody is sought;
+40 (i) The financial support provided by the petitioner or intervenor for
+41 each child for whom custody is sought;
+42 (j) Whether physical and/or legal custody should be granted to and/or
+43 shared with the respondent(s); and
+44 (k) The basis upon on which the petitioner or intervenor is claiming
+45 that it is in the best interests of the child that the petitioner or in-
+46 tervenor have custody of the child.
+47 (3) The petition or motion must be verified by the petitioner or inter-
+48 venor.
+
+12
+1 (4) Written notice of a hearing on a petition or motion to intervene for
+2 custody of a child by a de facto custodian must be given to:
+3 (a) The parent(s) of the child, as defined in section 16-2002(11) and
+4 (12), Idaho Code; and
+5 (b) The guardian or legal custodian, if any, of the child; and
+6 (c) The child's tribe, pursuant to federal law, if the child is an In-
+7 dian child as defined in the Indian child welfare act, 25 U.S.C. 1901, et
+8 seq.
+9 (5) Written notice of a hearing on a petition for custody of a child by
+10 a de facto custodian must be given to the Idaho department of health and wel-
+11 fare if the petitioner has reason to believe that either parent receives pub-
+12 lic assistance, the petitioner receives public assistance on behalf of the
+13 child, or either parent receives child support enforcement services from the
+14 Idaho department of health and welfare or applies for such public assistance
+15 or child support enforcement services after a petition under this section is
+16 filed. Notice to the Idaho department of health and welfare must include a
+17 copy of the petition.
+18 (6) In an action for custody of a child by a de facto custodian, the par-
+19 ties must stipulate to, or the court must find, facts establishing by clear
+20 and convincing evidence that the petitioner or intervenor is a de facto cus-
+21 todian pursuant to the requirements of section 32-1703, Idaho Code, before
+22 the court considers whether custody with the de facto custodian is in the
+23 best interests of the child.
+24 (7) Once a court has found facts supporting the qualification of the pe-
+25 titioner or intervenor as the de facto custodian of a child, the petitioner
+26 or intervenor must prove, by a preponderance of the evidence, that it is in
+27 the best interests of the child to be in the custody of the de facto custo-
+28 dian. In determining the best interests of the child, the court shall ap-
+29 ply the standards as provided in section 32-717(1) sections 32-717 through
+30 32-717I, Idaho Code.
+31 (8) In determining whether the petitioner or intervenor has estab-
+32 lished that it is in the best interests of the child to be in the custody of
+33 the de facto custodian, the court may also consider:
+34 (a) The circumstances under which the child was allowed to remain in the
+35 care of the de facto custodian, including whether the child was placed
+36 with the de facto custodian to allow the parent to seek work or to attend
+37 school; and
+38 (b) Whether the child is currently residing with the de facto custodian
+39 and, if not, the length of time since the petitioner or intervenor last
+40 functioned as the child's de facto custodian.
+41 SECTION 16. That Section 32-1705, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 32-1705. NATURE OF DE FACTO CUSTODIAN ORDER -- ACCESS TO RECORDS --
+44 TERMINATION OF DE FACTO CUSTODIANSHIP. (1) A court may enter an order grant-
+45 ing a de facto custodian sole or joint legal and/or physical custody, as
+46 defined in section 32-717B(1), (2) and (3) 32-721, Idaho Code, in the same
+47 manner as it would grant such custody to a parent.
+48 (2) An order granting custody to a de facto custodian is subject to the
+49 continuing jurisdiction of the court and is modifiable in the same manner as
+
+13
+1 an order establishing parental custody pursuant to section 32-717 sections
+2 32-717 through 32-717I, Idaho Code, or a similar provision.
+3 (3) A de facto custodian who has been granted sole or joint legal cus-
+4 tody of a child shall have access to records pertaining to the child who is
+5 the subject of the de facto custodianship to the same extent as a parent would
+6 have such access pursuant to an order of legal custody.
+7 (4) Any party to the proceeding granting custody to a de facto custodian
+8 may move for the termination of the custody order. A de facto custodian may
+9 move for permission to resign as de facto custodian.
+10 (a) A party moving for termination of the de facto custodian-child re-
+11 lationship must show, by a preponderance of the evidence, that termina-
+12 tion of the relationship would be in the best interests of the child.
+13 (b) A motion for termination or for resignation may, but need not, in-
+14 clude a proposal for the continuing custody of the child.
+15 (c) After notice and hearing on a motion for termination or resigna-
+16 tion, the court may terminate the custody of the de facto custodian and
+17 may make any further orders that may be appropriate in the best inter-
+18 ests of the child.
+19 SECTION 17. That Section 39-6306, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 39-6306. HEARING ON PETITION FOR PROTECTION ORDER -- RELIEF PROVIDED
+22 AND REALIGNMENT OF DESIGNATION OF PARTIES. (1) Upon filing of a petition
+23 based upon on a sworn affidavit for a protection order, the court shall hold
+24 a hearing to determine whether the relief sought shall be granted within
+25 fourteen (14) days. If either party is represented by counsel at a hearing
+26 seeking entry of a protection order, the court shall permit a continuance,
+27 if requested, of the proceedings so that counsel may be obtained by the other
+28 party. If the court finds that it is necessary for both parties to be repre-
+29 sented by counsel, the court shall enter appropriate orders to ensure that
+30 counsel is retained. The order entered may require either the petitioner or
+31 respondent, or both, to pay for costs of counsel. Upon a showing that there
+32 is an immediate and present danger of domestic violence to the petitioner the
+33 court may, if requested, order for a period not to exceed one (1) year that:
+34 (a) Temporary custody of the minor children of the petitioner or of the
+35 parties be awarded to the petitioner or respondent if exercise of such
+36 jurisdiction is consistent with the provisions of section 32-11-204,
+37 Idaho Code, and consistent with prior custody orders entered by a court
+38 of competent jurisdiction, unless grounds exist pursuant to section
+39 32-717 sections 32-717 through 32-717I, Idaho Code;
+40 (b) A party be restrained from committing acts of domestic violence;
+41 (c) Exclude the respondent from the dwelling which the parties share or
+42 from the residence of the petitioner;
+43 (d) The respondent be ordered to participate in treatment or counsel-
+44 ing services. The council on domestic violence, in recognition of the
+45 particular treatment requirements for batterers, shall develop minimal
+46 program and treatment standards to be used as guidelines for recommend-
+47 ing approval of batterer programs to the court;
+
+14
+1 (e) Other relief be ordered as the court deems necessary for the protec-
+2 tion of a family or household member, including orders or directives to
+3 a peace officer, as allowed under this chapter;
+4 (f) The respondent be required to pay service fees, and to reimburse the
+5 petitioner for costs incurred in bringing the action, including a rea-
+6 sonable attorney's fee;
+7 (g) The respondent be restrained from harassing, annoying, disturbing
+8 the peace of, telephoning, contacting, or otherwise communicating,
+9 directly or indirectly, with the petitioner and any designated family
+10 member or specifically designated person of the respondent's house-
+11 hold, including the minor children whose custody is awarded to the
+12 petitioner;
+13 (h) The respondent be restrained from entering any premises when it
+14 appears to the court that such restraint is necessary to prevent the
+15 respondent from contacting, harassing, annoying, disturbing the peace
+16 of, or telephoning the petitioner or the minor children whose custody is
+17 awarded to the petitioner; and/or
+18 (i) The respondent be restrained from coming within one thousand five
+19 hundred (1,500) feet or other appropriate distance of the petitioner,
+20 the petitioner's residence, the school or place of employment of the pe-
+21 titioner, or any specified place frequented by the petitioner and by any
+22 other designated family member or specifically designated person of the
+23 respondent's household, including the minor children whose custody is
+24 awarded to the petitioner.
+25 (2) Immediate and present danger under this section includes, but is
+26 not limited to, situations in which the respondent has recently threatened
+27 the petitioner with bodily harm or engaged in domestic violence against the
+28 petitioner or where there is reasonable cause to believe bodily harm may re-
+29 sult.
+30 (3) No order made under pursuant to this chapter shall in any manner af-
+31 fect title to real property.
+32 (4) Relief shall not be denied because petitioner used reasonable force
+33 in self-defense against respondent, or because petitioner or respondent was
+34 a minor at the time of the incident of domestic violence.
+35 (5) Any relief granted by the protection order, other than a judgment
+36 for costs, shall be for a fixed period not to exceed one (1) year; provided,
+37 that an order obtained pursuant to this chapter may, upon motion and upon
+38 good cause shown, continue for an appropriate time period as directed by the
+39 court or be made permanent if the requirements of this chapter are met, pro-
+40 vided the order may be terminated or modified by further order of the court
+41 either on written stipulation filed with the court or on the motion of a party
+42 and after a hearing on the motion. The motion to renew an order may be granted
+43 without a hearing, if not timely objected to by the party against whom the or-
+44 der was entered.
+45 (6) In providing relief under pursuant to this chapter, the court may
+46 realign the designation of the parties as "petitioner" and "respondent"
+47 where the court finds that the original petitioner is the abuser and the
+48 original respondent is the victim of domestic violence.
+
+15
+1 SECTION 18. APPLICABILITY. The provisions of this act shall apply to
+2 court orders regarding child custody, parenting time, or visitation deter-
+3 minations first entered or modified on and after January 1, 2027.
+4 SECTION 19. This act shall be in full force and effect on and after Jan-
+5 uary 1, 2027.

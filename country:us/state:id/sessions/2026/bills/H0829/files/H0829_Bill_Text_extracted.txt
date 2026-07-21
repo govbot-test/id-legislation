@@ -1,0 +1,366 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 829
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PROMPT PAYMENT OF CLAIMS; AMENDING SECTION 41-5601, IDAHO CODE,
+3 TO DEFINE TERMS; AMENDING SECTION 41-5602, IDAHO CODE, TO REVISE PRO-
+4 VISIONS REGARDING PROMPT PAYMENT OF CLAIMS; AMENDING SECTION 41-5603,
+5 IDAHO CODE, TO REVISE PROVISIONS REGARDING INTEREST PAYMENTS; AMEND-
+6 ING SECTION 41-5605, IDAHO CODE, TO REVISE PROVISIONS REGARDING EXCEP-
+7 TIONS; AMENDING SECTION 41-5606, IDAHO CODE, TO REVISE PROVISIONS RE-
+8 GARDING PENALTIES; AMENDING CHAPTER 56, TITLE 41, IDAHO CODE, BY THE AD-
+9 DITION OF A NEW SECTION 41-5607, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+10 GARDING CIVIL ACTIONS AND PROHIBITED RETALIATORY CONDUCT BY INSURERS;
+11 AMENDING CHAPTER 56, TITLE 41, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+12 TION 41-5608, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING CONTRACT-
+13 ING STANDARDS AND APPLICABILITY; AMENDING CHAPTER 56, TITLE 41, IDAHO
+14 CODE, BY THE ADDITION OF A NEW SECTION 41-5609, IDAHO CODE, TO ESTABLISH
+15 PROVISIONS REGARDING TRANSPARENCY REQUIREMENTS; AND DECLARING AN EMER-
+16 GENCY AND PROVIDING AN EFFECTIVE DATE.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. That Section 41-5601, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 41-5601. DEFINITIONS. As used in this chapter:
+21 (1) "Beneficiary" means a policyholder, subscriber, member, employer
+22 or other person who is eligible for benefits under a contract providing hos-
+23 pital, surgical, or medical expense coverage or a managed care organization
+24 policy or agreement under which a third party payer agrees to reimburse for
+25 covered health care services rendered to beneficiaries in accordance with
+26 the benefits contract.
+27 (2) "Claim" means a request from a beneficiary or a practitioner or fa-
+28 cility for payment for covered health care services submitted to an insurer.
+29 A claim is presumed to be a complete claim unless the insurer provides timely
+30 notice in accordance with the provisions of section 41-5602(4), Idaho Code.
+31 (3)(a) "Complete claim" means a claim that:
+32 (i) Has no material defect or impropriety;
+33 (ii) Includes all information reasonably required by the insurer
+34 to adjudicate the claim;
+35 (iii) Requires no additional information from a third party that
+36 is reasonably necessary to adjudicate the claim; and
+37 (iv) Complies with the insurer's published claim-submission
+38 standards in effect at the time the claim is submitted.
+39 (b) A claim shall not fail to meet the definition of complete claim due
+40 to minor clerical or technical errors or because an insurer requests in-
+41 formation or documentation that is not reasonably necessary to adjudi-
+42 cate the claim.
+
+2
+1 (2) (4) "Date of payment" means the date the payment is sent as indi-
+2 cated by the mail stamp on the envelope, by the insurer to the practitioner or
+3 facility or to the beneficiary in the event there is not a contract for direct
+4 payment by the insurer to the practitioner or facility, or, in the event of
+5 a wire or other electronic funds transfer, upon acceptance by the insurer's
+6 bank of a payment order.
+7 (3) (5) "Department" means the department of insurance.
+8 (4) (6) "Director" means the director of the department of insurance.
+9 (5) (7) "Electronic claim" means a claim that is transmitted through
+10 the use of electronic media, which includes the internet, extranet, leased
+11 lines, dial-up lines, private networks, and those transmissions that are
+12 physically moved from one (1) location to another using magnetic tape, disk
+13 or compact disk media. The claim shall contain the proper format and code
+14 sets in accordance with the applicable implementation specifications under
+15 45 CFR 160 et seq., and 45 CFR 162 et seq submitted to a health insurer through
+16 secure electronic data exchange in a standardized, HIPAA-compliant format,
+17 including the ASC X12N 837 transaction, and that contains all data necessary
+18 for adjudication. Electronic claims shall not include paper, faxed, or
+19 scanned submissions.
+20 (6) (8) "Insurer" means any insurer that sells hospital, medical, long-
+21 term care, or vision insurance policies or certificates and managed care or-
+22 ganizations. For the purpose of this chapter only, "insurer" also includes a
+23 third party administrator who makes payments to beneficiaries, practition-
+24 ers or facilities on behalf of an insurer and a hospital or professional ser-
+25 vice corporation that provides hospital, medical, long-term care or vision
+26 health care services.
+27 (7) (9) "Practitioner or facility" means any physician, hospital or
+28 other person or facility licensed or otherwise authorized to furnish health
+29 care services.
+30 (8) (10) "Receipt of claim" means the date the claim is actually re-
+31 ceived by the insurer from the practitioner or facility or the beneficiary.
+32 (9) (11) "Submission of claim" means the date the claim is sent as indi-
+33 cated by the mail stamp on the envelope, by the beneficiary, practitioner or
+34 facility, to the insurer or the date an electronic claim is transmitted to an
+35 insurer.
+36 SECTION 2. That Section 41-5602, Idaho Code, be, and the same is hereby
+37 amended to read as follows:
+38 41-5602. PROMPT PAYMENT OF CLAIMS. (1) Except as otherwise specifi-
+39 cally provided in this chapter, an insurer shall process a claim for payment
+40 for health care services rendered by a practitioner or facility to a benefi-
+41 ciary in accordance with this section.
+42 (2) If Except as provided in subsection (4) of this section, if a bene-
+43 ficiary, practitioner or facility submits an electronic claim to an insurer
+44 within thirty (30) days of the date on which service was delivered, an, the
+45 insurer shall pay or deny the claim not later than thirty (30) days after re-
+46 ceipt of the claim.
+47 (3) If Except as provided in subsection (4) of this section, if a ben-
+48 eficiary, practitioner or facility submits a paper claim for payment to an
+49 insurer within forty-five (45) days of the date on which service was deliv-
+
+3
+1 ered, an, the insurer shall pay or deny the claim not later than forty-five
+2 (45) days after receipt of the claim.
+3 (4) If an insurer denies the a claim or needs additional information
+4 to process the a claim, the insurer shall notify the practitioner or fa-
+5 cility and the beneficiary in writing within thirty (30) days of receipt
+6 of an electronic claim or within forty-five (45) days of receipt of a paper
+7 claim. The notice shall state why the insurer denied the claim. Such notice
+8 shall specify all known deficiencies reasonably identifiable at the time
+9 of notice, including all defects, omissions, or additional information and
+10 supporting documentation required. Every effort shall be made to inform
+11 the beneficiary, practitioner, or facility of any necessary information in
+12 order to adjudicate the claim. An insurer shall make a good faith effort
+13 to consolidate all requests for information to the extent practicable and
+14 shall avoid making serial requests for information in violation of subsec-
+15 tion (7) of this section. Upon receipt of the requested documentation, the
+16 insurer shall have twenty-one (21) days to pay the claim, deny the claim, or,
+17 if necessary, request further documentation. Upon receipt of the further
+18 requested documentation, the insurer shall have an additional twenty-one
+19 (21) days to either adjudicate and pay or deny the claim. If after this pe-
+20 riod, the insurer has still not paid or denied the claim, the beneficiary,
+21 practitioner, or facility shall have the right to file a complaint with the
+22 department of insurance and begin charging interest on the claim pursuant to
+23 the provisions of section 41-5603, Idaho Code.
+24 (5) If the claim was denied because more information was required to
+25 process the claim, the notice shall specifically describe all information
+26 and supporting documentation needed to evaluate the claim for processing.
+27 If the practitioner or facility submits the information and documentation
+28 identified by the insurer within thirty (30) days of receipt of the written
+29 notice, the insurer shall process and pay the claim within thirty (30) days
+30 of receipt of the additional information or, if appropriate, deny the claim.
+31 An insurer shall make a good faith effort to consolidate all requests for in-
+32 formation to the extent practicable and shall avoid making serial requests
+33 for information in violation of subsection (7) of this section.
+34 (6) An insurer may request medical records or additional documentation
+35 only when such information is reasonably necessary to adjudicate a claim,
+36 investigate fraud, verify medical necessity, coordinate benefits, or comply
+37 with applicable law.
+38 (7) An insurer shall not request information or documentation for the
+39 primary purpose of delaying payment, resetting statutory time frames, or
+40 discouraging submission of claims.
+41 (8) A practitioner or facility shall submit claims in good faith,
+42 within applicable contractual or statutory timely filing requirements, and
+43 using reasonable diligence to include information necessary for adjudica-
+44 tion. Failure to submit a claim in good faith or with reasonable diligence
+45 shall not relieve an insurer of its obligations under this chapter unless
+46 such failure materially prevents the insurer from adjudicating the claim and
+47 the insurer has complied with the notice requirements of subsection (4) of
+48 this section.
+49 (6) (9) Any claim submitted pursuant to this chapter shall use the cur-
+50 rent procedural terminology (CPT) code in effect, as published by the Ameri-
+
+4
+1 can medical association, the international classification of diseases(ICD)
+2 code in effect, as published by the United States department of health and
+3 human services, or the healthcare common procedural coding system (HCPCS)
+4 code in effect, as published by the United States centers for medicare and
+5 medicaid services (CMS).
+6 (7) (10) This chapter shall not apply to claims submitted under policies
+7 or certificates of insurance for specific disease, hospital confinement in-
+8 demnity, accident-only, credit, medicare supplement, disability income in-
+9 surance, student health benefits only coverage issued as a supplement to li-
+10 ability insurance, worker's compensation or similar insurance, automobile
+11 medical payment insurance or nonrenewable short-term coverage issued for a
+12 period of twelve (12) months or less.
+13 (11) For the purposes of this chapter, a third-party administrator
+14 shall be subject to the same provisions that apply to the insurer, practi-
+15 tioner, or facility that the third-party administrator has entered into a
+16 written agreement with.
+17 SECTION 3. That Section 41-5603, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 41-5603. INTEREST PAYMENTS.
+20 (1)(a) An insurer that fails to pay, request additional information
+21 or documentation, or deny a claim from a beneficiary, practitioner or
+22 facility within the time periods established in this chapter shall pay
+23 interest at the contract statutory rate pursuant to section 28-22-104,
+24 Idaho Code, on the unpaid amount of a claim that is determined to be due
+25 and owing. The interest shall accrue from the date payment was due,
+26 pursuant to the provisions of this chapter, until the claim is paid.
+27 Payment of any interest amount of less than four dollars ($4.00) shall
+28 not be required. Insurers may add any interest due to a future payment
+29 to the beneficiary, practitioner or facility shall be required to pay
+30 interest upon payment of the claim if the director, after receiving a
+31 complaint regarding noncompliance with the provisions of this chapter,
+32 determines after investigating and reviewing the complaint that:
+33 (i) The provider has acted in good faith and attempted to provide
+34 all information requested by the insurer in a timely manner; and
+35 (ii) The insurer has not acted in good faith and has not been
+36 forthcoming with all documentation necessary to pay or deny the
+37 claim.
+38 (b) Interest shall begin accruing from the date a complaint is filed
+39 with the department.
+40 (2) Interest shall accrue at the following compounding annual rates:
+41 (a) Ten percent (10%) per annum for the first one hundred eighty (180)
+42 days after the payment deadline; and
+43 (b) Fifteen percent (15%) per annum for any period after the initial one
+44 hundred eighty (180) days following the payment deadline.
+45 (3) Interest owed shall be in addition to the claim amount and may not be
+46 offset against future payments.
+47 SECTION 4. That Section 41-5605, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+5
+1 41-5605. EXCEPTIONS. (1) The time periods set forth in section
+2 41-5602, Idaho Code, shall not apply to claims that the insurer reasonably
+3 believes involve fraud or misrepresentation by the practitioner or facility
+4 or the beneficiary or to instances where the insurer has not been provided
+5 the information necessary to evaluate the claim after notice has been given
+6 requesting additional information by the insurer as required by section
+7 41-5602(5), Idaho Code.
+8 (2) The time periods set forth in section 41-5602, Idaho Code, shall
+9 not apply to claims that the insurer reasonably believes require medical
+10 records, including accident reports, for the purpose of investigating
+11 whether a claim is valid for subrogation, or the coordination of benefits
+12 payable by the insurer with benefits payable by another insurer or payable
+13 under federal or state law.
+14 (3) An insurer is not required to comply with the time periods set forth
+15 in section 41-5602, Idaho Code, if the insurer is in compliance with a con-
+16 tract with the practitioner or facility which specifies different payment
+17 requirements. Payments made within the time periods set forth in section
+18 41-5602, Idaho Code, for the purpose of this chapter, shall be deemed to be
+19 made in a reasonable and timely manner.
+20 (4) (3) An insurer is not required to comply with the periods set forth
+21 in section 41-5602, Idaho Code, if the fee or premium entitling a beneficiary
+22 to insurance benefits has not been paid in full.
+23 (5) (4) An insurer is not required to comply with the time periods set
+24 forth in section 41-5602, Idaho Code, if failure to comply is due to an act of
+25 God, bankruptcy, an act of a governmental authority responding to an act of
+26 God or emergency or the result of a strike, walkout or other labor dispute, or
+27 act of terrorism.
+28 (5) The provisions of this chapter shall not apply to a self-funded
+29 plan, including an employee welfare benefit plan that is self-funded and
+30 governed by the federal employee retirement income security act of 1974,
+31 except to the extent that such plan is insured by an insurer subject to the
+32 jurisdiction of this state.
+33 SECTION 5. That Section 41-5606, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 41-5606. PENALTIES. (1) The director shall enforce the provisions of
+36 this chapter and shall review and, if appropriate, investigate complaints
+37 received by the department related to noncompliance with the provisions of
+38 this chapter.
+39 (2) If the director determines an insurer has violated the provisions
+40 of this chapter, the director may impose an administrative fine not to exceed
+41 five thousand dollars ($5,000) based upon an enforcement action.:
+42 (a) Five thousand dollars ($5,000); or
+43 (b) Ten thousand dollars ($10,000) for a second or subsequent violation
+44 if such violation occurs within thirty-six (36) months of the insurer's
+45 most recent violation.
+46 (3) The director shall not may suspend or revoke an insurer's certifi-
+47 cate of authority for repeated or persistent violations of this chapter.
+48 (4) No administrative penalty shall be imposed against an insurer un-
+49 der this chapter or any other provision of law for failure to comply with
+
+6
+1 this chapter if, in the calendar year it has paid ninety-five percent (95%)
+2 or more of all claims subject to this chapter to or on behalf of beneficia-
+3 ries within the time periods set forth in section 41-5602, Idaho Code Prior
+4 to the imposition of any administrative fine, suspension, or revocation, an
+5 insurer shall be provided notice and an opportunity for a hearing pursuant to
+6 the provisions of chapter 3, title 41, Idaho Code.
+7 (5) This section shall not create a private cause of action by or on be-
+8 half of a beneficiary or practitioner or facility against an insurer.
+9 SECTION 6. That Chapter 56, Title 41, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 41-5607, Idaho Code, and to read as follows:
+12 41-5607. CIVIL ACTIONS -- PROHIBITED RETALIATORY CONDUCT BY INSUR-
+13 ERS. (1) A practitioner or facility may commence a civil action in a court
+14 of competent jurisdiction against an insurer for violations of the provi-
+15 sions of this chapter. If a practitioner or facility proves that an insurer
+16 violated the provisions of this chapter, such practitioner or facility is
+17 entitled to recover:
+18 (a) Injunctive relief;
+19 (b) Actual damages;
+20 (c) Accrued interest; and
+21 (d) Reasonable costs and attorney's fees.
+22 (2)(a) An insurer shall not retaliate against a practitioner or facil-
+23 ity for the exercise of rights pursuant to this chapter.
+24 (b) Prohibited retaliatory actions include reducing reimbursement,
+25 altering network status, increasing administrative burdens, delaying
+26 credentialing, modifying utilization criteria, or any other conduct
+27 reasonably interpretable as dissuading a practitioner or facility from
+28 exercising statutory rights.
+29 (c) Retaliation shall constitute an unfair claim-settlement practice.
+30 SECTION 7. That Chapter 56, Title 41, Idaho Code, be, and the same is
+31 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+32 ignated as Section 41-5608, Idaho Code, and to read as follows:
+33 41-5608. CONTRACTING STANDARDS -- APPLICABILITY TO EXISTING AND FU-
+34 TURE CONTRACTS.
+35 (1)(a) All provider contracts, regardless of the date of execution of
+36 such contract, shall comply with the provisions of this chapter for
+37 claims submitted on or after July 1, 2026.
+38 (b) An insurer shall not require renegotiation of unrelated contract
+39 terms as a condition of implementing the provisions of this section.
+40 (2) No contract executed in this state may waive the provisions of this
+41 chapter.
+42 SECTION 8. That Chapter 56, Title 41, Idaho Code, be, and the same is
+43 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+44 ignated as Section 41-5609, Idaho Code, and to read as follows:
+45 41-5609. TRANSPARENCY REQUIREMENTS.
+
+7
+1 (1)(a) An insurer that uses automated decision tools, algorithms, ar-
+2 tificial intelligence, or similar technologies to assist with claims
+3 intake, review, adjudication, payment determination, or denial, par-
+4 tial denial, or other adverse payment determination shall disclose, in
+5 a standardized manner, whether such tools materially assisted in the
+6 determination of a claim submitted under this chapter.
+7 (b) Disclosure pursuant to this subsection shall be limited to the fact
+8 of use of such tools and the general function for which they were used
+9 and shall not require disclosure of proprietary systems, algorithms,
+10 prompts, models, workflows, thresholds, scoring criteria, or trade se-
+11 crets.
+12 (c) The use of automated decision tools, algorithms, artificial in-
+13 telligence, or similar technologies shall not relieve an insurer of re-
+14 sponsibility for the accuracy, timeliness, and statutory compliance of
+15 any claim determination made under this chapter or excuse noncompliance
+16 with any provision of this chapter.
+17 (d) A disclosure made pursuant to this subsection shall not, by itself:
+18 (i) Constitute evidence of an improper claims practice;
+19 (ii) Create a presumption that a claim determination was incor-
+20 rect, arbitrary, or unlawful;
+21 (iii) Extend or toll any statutory time frames applicable under
+22 this chapter;
+23 (iv) Create a right to appeal; or
+24 (v) Require additional review, reconsideration, or appeal beyond
+25 those otherwise provided by law.
+26 (2)(a) A practitioner or facility that uses automated documentation
+27 tools, coding assistance tools, artificial intelligence, or similar
+28 technologies to assist with clinical dictation, medical record genera-
+29 tion, or claim coding shall disclose, in a standardized manner, whether
+30 such tools materially assisted in the preparation of a claim submitted
+31 under this chapter.
+32 (b) Disclosure pursuant to this subsection shall be limited to the fact
+33 of use of such tools and shall not require disclosure of proprietary
+34 systems, algorithms, prompts, models, workflows, or clinical deci-
+35 sion-making processes.
+36 (c) Use of automated documentation tools, coding assistance tools,
+37 artificial intelligence, or similar technologies shall not relieve a
+38 practitioner or facility of responsibility for the accuracy, complete-
+39 ness, and truthfulness of information submitted in a claim.
+40 (d) An insurer shall not impose additional claim submission require-
+41 ments, prepayment review, audits, or utilization management controls
+42 solely on the basis that a practitioner or facility disclosed use of au-
+43 tomated documentation tools, coding assistance tools, artificial in-
+44 telligence, or similar technologies.
+45 (e) A disclosure made pursuant to this subsection shall not, by itself:
+46 (i) Constitute a material defect or impropriety in a claim;
+47 (ii) Create a presumption of fraud, misrepresentation, or im-
+48 proper billing;
+49 (iii) Justify denial of a claim, delay of payment, or extension of
+50 statutory time frames under this chapter; or
+
+8
+1 (iv) Permit additional documentation requests absent a specific,
+2 articulated inconsistency reasonably necessary to adjudicate the
+3 claim.
+4 SECTION 9. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after
+6 July 1, 2026.

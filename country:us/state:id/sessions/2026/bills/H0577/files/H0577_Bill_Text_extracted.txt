@@ -1,0 +1,163 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 577
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO LICENSE PLATES; AMENDING SECTION 49-443, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING THE EXPIRATION OF LICENSE PLATES AND TO MAKE TECH-
+4 NICAL CORRECTIONS; AMENDING SECTION 49-443B, IDAHO CODE, TO PROVIDE FOR
+5 THE VALIDITY OF CERTAIN LICENSE PLATES ON STATE VEHICLES AND VEHICLES
+6 BELONGING TO TAXING DISTRICTS; AND DECLARING AN EMERGENCY AND PROVIDING
+7 AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 49-443, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 49-443. LICENSE PLATES TO BE FURNISHED BY DEPARTMENT -- FORM AND
+12 CONTENTS. (1) The assessor or the department shall furnish to every owner
+13 whose vehicle is registered or licensed by that office, pursuant to sections
+14 49-402 and 49-402A, Idaho Code, one (1) license plate for vehicles regis-
+15 tered under the provisions of section 49-406, 49-406A or 49-408, Idaho Code,
+16 or a motorcycle, trailer, truck-tractor, or semitrailer; one (1) restricted
+17 vehicle license plate for all-terrain vehicles, utility type vehicles and
+18 motorbikes licensed pursuant to this chapter; and two (2) license plates
+19 for every other motor vehicle. If a vehicle is issued one (1) plate only,
+20 that plate shall be displayed in accordance with the provisions of section
+21 49-428, Idaho Code. For vehicles registered under the provisions of section
+22 49-407, Idaho Code, the applicant shall provide one (1) plate to be displayed
+23 on the rear of the vehicle.
+24 (a) Commencing January 1, 1992, the color and design of the plates shall
+25 be comparable to the color and design of the statehood centennial issue
+26 of license plates with blue numerals and letters on a multicolored red,
+27 white and blue background. Each license plate must bear upon on its face
+28 the inscriptions "Famous Potatoes" and "Scenic Idaho." The restricted
+29 vehicle license plate for all-terrain vehicles, utility type vehicles
+30 and motorbikes shall be a white background with black numerals and let-
+31 ters, with "Idaho Restricted Vehicle" and the year of its expiration on
+32 its face and no other inscription. The restricted vehicle license plate
+33 shall be the same size required for the motorcycle license plate.
+34 (b) Every license plate shall have displayed upon on it the registra-
+35 tion number assigned to the vehicle and its owner and the name "Idaho,"
+36 which may be abbreviated. The plates issued under the provisions of
+37 section 49-402(1), Idaho Code, and the required letters and numerals,
+38 including an identification of the county in which the motor vehicle to
+39 which the plates will be affixed is registered, shall be of sufficient
+40 size to be plainly readable from a distance of seventy-five (75) feet
+41 during daylight, and each license plate and registration sticker shall
+
+2
+1 be treated with a fully reflectorized material according to specifica-
+2 tions prescribed by the board.
+3 (2) License plates shall be valid for a period of ten (10) years begin-
+4 ning with the date of issuance of new plates. At the end of the ninth year,
+5 the registered owner shall receive notice of the date upon which the plates
+6 will expire as long as they are readable and legible and comply with section
+7 49-428, Idaho Code. For specialty license plate programs discontinued pur-
+8 suant to the provisions of section 49-402C, Idaho Code, a registrant with a
+9 specialty license plate currently registered under the program may use such
+10 license plate for up to ten (10) years from the date of issuance as long as the
+11 license plate is readable and legible. This provision is intended to per-
+12 mit the use of the specialty plate by the registrant regardless of the num-
+13 ber of persons who purchase the specialty plate. The registrant shall be re-
+14 quired to pay the special plate program fees provided for specialty plates
+15 pursuant to this chapter. Such fees shall be deposited into the state high-
+16 way account. For purposes of section 49-434, Idaho Code, as it applies to
+17 commercial vehicles, and section 49-435, Idaho Code, the department shall
+18 provide new plates bearing the same number or, upon request from the regis-
+19 tered owner, the next available number.
+20 (3) If a license plate number has expired as provided in subsection (2)
+21 of this section and registration is not renewed within sixty (60) days of its
+22 expiration, the related plate number shall be available for use by another
+23 registrant. To obtain a specific number in the recycled license plate num-
+24 ber file, the owner of a registered vehicle may contact the county regarding
+25 availability. The provisions of this subsection shall apply only to vehi-
+26 cles registered under the provisions of section 49-402(1), Idaho Code, and
+27 section 49-434(1), Idaho Code, as it applies to noncommercial vehicles.
+28 (4) License plates issued for vehicles required to be registered in
+29 accordance with the provisions of sections 49-402 and 49-402A, Idaho Code,
+30 shall be issued color-coded red, white or blue registration validation
+31 stickers showing the year of registration. Each registration validation
+32 sticker shall bear a number from 1 through 12, which number shall correspond
+33 to the month of the calendar year in which the registration of the vehicle
+34 expires and shall be affixed to the lower right-hand corner of the plates
+35 within the outlined rectangular area.
+36 (5) License plates for utility trailers registered under the provi-
+37 sions of section 49-402A, Idaho Code, that are issued for five (5) or ten (10)
+38 years and license plates for rental utility trailers registered under the
+39 provisions of section 49-434, Idaho Code, that are issued for up to five (5)
+40 years shall use the design in effect on the date of manufacture. If a design
+41 change occurs, plates from the effective date of the design change shall be
+42 manufactured using the new design. Unexpired plates need not be reissued to
+43 conform to a design change.
+44 (6) For license plates that are lost, stolen, mutilated, or illegible,
+45 the owner shall apply for a duplicate or substitute. The assessor shall also
+46 furnish for each registration, and to validate the license plate, a pres-
+47 sure-sensitive, uniquely numbered, color-coded red, white or blue regis-
+48 tration sticker, except for trailers and semitrailers registered under the
+49 provisions in section 49-434, Idaho Code. License plates issued for state,
+50 county and city motor vehicles shall be valid for ten (10) years pursuant
+
+3
+1 to subsection (2) of this section and remain on the vehicle for which issued
+2 from year to year and need no renewal or validation sticker.
+3 (7) Whenever a vehicle is completely destroyed by fire or accident and
+4 the operator submits satisfactory proof of that destruction to the depart-
+5 ment or appropriate assessor's office, or the owner wishes to transfer the
+6 remaining registration, use increment and fees shall be transferred to the
+7 replacement vehicle for a service transfer fee of five dollars ($5.00),
+8 which fee shall be retained by the registering authority. None of the orig-
+9 inal fees shall be subject to refund.
+10 (8) The department shall furnish a printed or an electronic copy of the
+11 registration card to every owner whose vehicle is registered under sections
+12 49-434 and 49-435, Idaho Code.
+13 (9) The board shall have authority to require the return to the depart-
+14 ment of all license plates and registration stickers upon termination of the
+15 lawful use of them by the owner.
+16 (10) The board may promulgate such rules as are necessary to implement
+17 the provisions of this section.
+18 SECTION 2. That Section 49-443B, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 49-443B. LICENSE PLATES FOR STATE VEHICLES AND VEHICLES BELONGING TO
+21 TAXING DISTRICTS. (1) License plates for state vehicles and vehicles belong-
+22 ing to taxing districts shall be valid for a period of ten (10) years pursuant
+23 to such time as they are in compliance with section 49-443(2), Idaho Code,
+24 and shall remain on the vehicle to which it is issued until transferred to
+25 another vehicle or until it is canceled by the department. The department
+26 shall be reimbursed by state agencies and the taxing districts for the cost
+27 of providing license plates. The department may develop rules to administer
+28 this license plate program.
+29 (2) Each license plate issued pursuant to this section shall bear a des-
+30 ignator to identify the agency, entity or office to which a vehicle belongs.
+31 The designators shall be as follows:
+32 Designator Agency, entity, office, or plate type
+33 C School district or miscellaneous city or county
+34 agencies, entities or offices
+35 D Highway district
+36 F Fire district
+37 G Fish and game
+38 H Department of health and welfare
+39 ISP Idaho state police
+40 J Department of commerce or department of labor
+41 L Law enforcement
+
+4
+1 P City police
+2 R Department of parks and recreation
+3 SO Sheriff's office
+4 T Department of transportation
+5 X Miscellaneous state agencies, entities or offices
+6 Y Irrigation district
+7 Z Department of lands
+8 (3) Personalized or specialty license plates are exempt from the provi-
+9 sions of subsection (2) of this section.
+10 SECTION 3. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2026.

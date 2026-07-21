@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 599
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-4804, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE PUBLIC SCHOOL DIGITAL CONTENT AND CURRICULUM FUND
+4 AND TO MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMERGENCY AND PRO-
+5 VIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 33-4804, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 33-4804. PUBLIC SCHOOL DIGITAL CONTENT AND CURRICULUM FUND. (1) There
+10 is hereby established in the state treasury the public school digital con-
+11 tent and curriculum fund, to be administered by the state department of edu-
+12 cation, which shall make available moneys in the fund, subject to appropri-
+13 ation, for schools to provide Idaho classrooms, including classrooms at the
+14 Idaho bureau of educational services for the deaf and the blind, with digi-
+15 tal content and curriculum that directly impact student achievement and im-
+16 prove performance. Curriculum programs shall be designed to enhance out-
+17 comes for students in career technical education, character education, en-
+18 richment activities, reading and mathematics, and activities that increase
+19 grade-to-grade promotion and enhance career and college readiness. Moneys
+20 from the fund may also be spent on academic text support systems that in-
+21 clude authentic fiction and nonfiction books, provide reader supports, pro-
+22 vide teaching tools, and promote parent engagement. Moneys in the fund shall
+23 consist of legislative appropriations and are continuously appropriated for
+24 the purposes identified in this section. Any interest earned on idle moneys
+25 in the fund shall be returned to the fund.
+26 (2) Subject to availability, moneys in the fund shall be distributed
+27 at the request of a local education agency (LEA) and shall be based on the
+28 amount requested. A single request must shall not exceed fifty thousand dol-
+29 lars ($50,000). Distributions from the fund shall be made on a first-come,
+30 first-served basis to LEAS that meet the criteria outlined in this subsec-
+31 tion. If an LEA meets such criteria but a distribution cannot be made due
+32 to lack of available moneys, such LEA's request shall be prioritized, in the
+33 order received, once moneys become available to LEAs that meet the require-
+34 ments as outlined in this subsection based on competitive, needs-based cri-
+35 teria established by the state department of education. If distributions
+36 cannot be made due to lack of available moneys, requests by eligible LEAs
+37 shall be prioritized according to the competitive, needs-based criteria es-
+38 tablished by the state department of education pursuant to this subsection
+39 once moneys become available. Two (2) or more LEAs may jointly request a dis-
+40 tribution. To qualify for funding, an LEA must shall:
+41 (a) Have technology infrastructure in place to facilitate usage of the
+42 digital content and curriculum; and
+
+2
+1 (b) Submit an explanation for how the distribution will be used to
+2 improve performance and enhance student achievement. Explanations
+3 should include:
+4 (i) The amount of moneys requested;
+5 (ii) The type of content or curriculum to be purchased;
+6 (iii) How the purchase will assist the LEA in meeting its identi-
+7 fied measurable targets from its continuous improvement plan as
+8 described in section 33-320, Idaho Code; and
+9 (iv) How progress toward those targets will be measured.
+10 (3) Additional distributions shall be granted to an LEA only if, after
+11 the initial distribution, the LEA has met or is making demonstrable progress
+12 toward its measurable targets.
+13 SECTION 2. An emergency existing therefor, which emergency is hereby
+14 declared to exist, this act shall be in full force and effect on and after
+15 July 1, 2026.

@@ -1,0 +1,354 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 667
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO THE NONDOMICILED CDL PROGRAM; AMENDING SECTION 49-115, IDAHO
+3 CODE, TO REMOVE A DEFINITION AND TO MAKE TECHNICAL CORRECTIONS; AMEND-
+4 ING SECTION 49-306, IDAHO CODE, TO REMOVE PROVISIONS REGARDING NON-
+5 DOMICILED LICENSES AND COMMERCIAL LEARNER'S PERMITS; REPEALING SECTION
+6 49-336, IDAHO CODE, RELATING TO NONRESIDENT COMMERCIAL DRIVER'S LI-
+7 CENSES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 49-115, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 49-115. DEFINITIONS -- N. (1) "National network" means highways
+12 available to vehicles authorized by the provisions of the federal surface
+13 transportation assistance act of 1982, as amended, and listed in 23 CFR part
+14 658, appendix A.
+15 (2) "Neighborhood electric vehicle." (See "Vehicle," section 49-123,
+16 Idaho Code)
+17 (3) "Noncommercial vehicle." (See "Vehicle," section 49-123, Idaho
+18 Code)
+19 (4) "Nondomiciled commercial learner's permit" or "nondomiciled com-
+20 mercial driver's license" means a commercial learner's permit or a commer-
+21 cial driver's license, respectively, issued by a state or other jurisdiction
+22 under either of the following conditions:
+23 (a) To an individual domiciled in a foreign country meeting the re-
+24 quirements of 49 CFR 383.23(b)(1); or
+25 (b) To an individual domiciled in another state meeting the require-
+26 ments of 49 CFR 383.23(b)(2).
+27 (5) (4) "Nonresident" means every person who is not a resident of this
+28 state.
+29 (6) (5) "Nonresident's operating privilege" means the privilege con-
+30 ferred upon on a nonresident by the laws of this state pertaining to the oper-
+31 ation by that person of a motor vehicle, or the use of a vehicle owned by that
+32 person, in this state.
+33 SECTION 2. That Section 49-306, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 49-306. APPLICATION FOR DRIVER'S LICENSE, INSTRUCTION PERMIT,
+36 COMMERCIAL LEARNER'S PERMIT OR RESTRICTED SCHOOL ATTENDANCE DRIVING PER-
+37 MIT. (1) Every application for any instruction permit, restricted school
+38 attendance driving permit, or driver's license shall be made on a form
+39 furnished by the department and shall be verified by the applicant before
+40 a person authorized to administer oaths. Officers and employees of the
+
+2
+1 department, agents authorized by the department, and sheriffs and their
+2 deputies are authorized to administer the oaths without charge.
+3 (2) Every application for a permit, extension, driver's license, or
+4 knowledge test shall be accompanied by a nonrefundable fee pursuant to this
+5 subsection. Fee portions identified as going to the current expense fund
+6 shall be retained by the issuing entity. If the issuing entity is the depart-
+7 ment or an agent authorized by the department, other than the county, such
+8 fee portion shall be deposited in the state highway account. All other re-
+9 maining fee portions shall be remitted to the state treasurer. If the fee is
+10 collected by a county, all remaining fee portions shall be paid over to the
+11 county treasurer and the county treasurer shall remit such fees to the state
+12 treasurer not less than monthly. The state treasurer shall immediately al-
+13 locate such fees in accordance with the schedule identified following each
+14 fee:
+15 (a) Class A, B, C (4-year) license with endorsements --
+16 age 21 years and older ........................................$40.00
+17 (i) $5.00 to the current expense fund;
+18 (ii) $2.00 to the emergency medical services fund established in
+19 section 57-829, Idaho Code;
+20 (iii) $4.00 to the emergency medical services vehicle and equip-
+21 ment grant fund established in section 57-830, Idaho Code;
+22 (iv) $28.00 to the state highway account; and
+23 (v) $1.00 to the motorcycle safety program fund;
+24 (b) Class A, B, C (8-year) license with endorsements --
+25 age 21 to 63 years ............................................$60.00
+26 (i) $5.00 to the current expense fund;
+27 (ii) $4.00 to the emergency medical services fund established in
+28 section 57-829, Idaho Code;
+29 (iii) $8.00 to the emergency medical services vehicle and equip-
+30 ment grant fund established in section 57-830, Idaho Code;
+31 (iv) $41.00 to the state highway account; and
+32 (v) $2.00 to the motorcycle safety program fund;
+33 (c) Class A, B, C (3-year) license with endorsements --
+34 age 18 to 21 years ............................................$30.00
+35 (i) $5.00 to the current expense fund;
+36 (ii) $1.50 to the emergency medical services fund established in
+37 section 57-829, Idaho Code;
+38 (iii) $3.00 to the emergency medical services vehicle and equip-
+39 ment grant fund established in section 57-830, Idaho Code;
+40 (iv) $19.50 to the state highway account; and
+41 (v) $1.00 to the motorcycle safety program fund;
+42 (d) Class A, B, C (1-year) license with endorsements -- age
+43 20 years ....................................................$15.00
+44 (i) $5.00 to the current expense fund;
+45 (ii) $0.50 to the emergency medical services fund established in
+46 section 57-829, Idaho Code;
+47 (iii) $1.00 to the emergency medical services vehicle and equip-
+48 ment grant fund established in section 57-830, Idaho Code;
+49 (iv) $8.16 to the state highway account; and
+50 (v) $0.34 to the motorcycle safety program fund;
+
+3
+1 (e) Class D (3-year) license -- age 15 to 18 years or age 18 to 21 years .
+2 $30.00
+3 (i) $10.00 to the current expense fund;
+4 (ii) $1.50 to the emergency medical services fund established in
+5 section 57-829, Idaho Code;
+6 (iii) $3.00 to the emergency medical services vehicle and equip-
+7 ment grant fund established in section 57-830, Idaho Code;
+8 (iv) $4.00 to the driver training fund;
+9 (v) $10.50 to the highway distribution account; and
+10 (vi) $1.00 to the motorcycle safety program fund;
+11 (f) Class D (1-year) license -- age 17 or 20 years ..............$20.00
+12 (i) $10.00 to the current expense fund;
+13 (ii) $0.50 to the emergency medical services fund established in
+14 section 57-829, Idaho Code;
+15 (iii) $1.00 to the emergency medical services vehicle and equip-
+16 ment grant fund established in section 57-830, Idaho Code;
+17 (iv) $1.33 to the driver training fund;
+18 (v) $6.83 to the highway distribution account; and
+19 (vi) $0.34 to the motorcycle safety program fund;
+20 (g) Class D (4-year) license -- age 21 years and
+21 older .......................................................$35.00
+22 (i) $10.00 to the current expense fund;
+23 (ii) $2.00 to the emergency medical services fund established in
+24 section 57-829, Idaho Code;
+25 (iii) $4.00 to the emergency medical services vehicle and equip-
+26 ment grant fund established in section 57-830, Idaho Code;
+27 (iv) $5.30 to the driver training fund;
+28 (v) $12.70 to the highway distribution account; and
+29 (vi) $1.00 to the motorcycle safety program fund;
+30 (h) Class D (8-year) or class A, B, C license with
+31 endorsements -- age 21 to 63 years .............................$60.00
+32 (i) $15.00 to the current expense fund;
+33 (ii) $4.00 to the emergency medical services fund established in
+34 section 57-829, Idaho Code;
+35 (iii) $8.00 to the emergency medical services vehicle and equip-
+36 ment grant fund established in section 57-830, Idaho Code;
+37 (iv) $10.60 to the driver training fund;
+38 (v) $20.40 to the highway distribution account; and
+39 (vi) $2.00 to the motorcycle safety program fund;
+40 (i) Commercial learner's permit ..............................$29.00
+41 (i) $5.00 to the current expense fund;
+42 (ii) $4.00 to the emergency medical services vehicle and equip-
+43 ment grant fund established in section 57-830, Idaho Code; and
+44 (iii) $20.00 to the state highway account;
+45 (j) Class D instruction permit ...............................$20.00
+46 (i) $10.00 to the current expense fund;
+47 (ii) $2.60 to the driver training fund; and
+48 (iii) $7.40 to the highway distribution account;
+49 (k) Duplicate driver's license or permit ......................$20.00
+50 (i) $10.00 to the current expense fund;
+
+4
+1 (ii) $2.60 to the driver training fund; and
+2 (iii) $7.40 to the highway distribution account;
+3 (l) Driver's license extension ...............................$10.00
+4 (i) $2.60 to the driver training account; and
+5 (ii) $7.40 to the state highway account;
+6 (m) License classification change (upgrade)...................$30.00
+7 (i) $10.00 to the current expense fund; and
+8 (ii) $20.00 to the state highway account;
+9 (n) Endorsement addition ....................................$20.00
+10 (i) $10.00 to the current expense fund; and
+11 (ii) $10.00 to the state highway account;
+12 (o) Class A, B, C skills tests .................. not more than $200.00
+13 (i) $10.00 to the state highway account; and
+14 (ii) Remainder retained by entity administering the test;
+15 (p) Class D skills test ......................... not more than $35.00
+16 (i) $6.50 to the state highway account; and
+17 (ii) Remainder retained by entity administering the test;
+18 (q) Motorcycle endorsement skills test (amount charged retained by
+19 entity administering the test).................. not more than $25.00;
+20 (r) Knowledge test (fee retained by the entity administering
+21 the test)....................................................$5.00;
+22 (s) Seasonal driver's license ................................$44.00
+23 (i) $10.00 to the current expense fund;
+24 (ii) $2.00 to the emergency medical services fund established in
+25 section 57-829, Idaho Code;
+26 (iii) $4.00 to the emergency medical services vehicle and equip-
+27 ment grant fund established in section 57-830, Idaho Code; and
+28 (iv) $28.00 to the state highway account;
+29 (t) Onetime motorcycle "M" endorsement .......................$15.00
+30 (i) $2.50 to the current expense fund; and
+31 (ii) $12.50 to the state highway account;
+32 (u) Motorcycle endorsement instruction permit ................$15.00
+33 (i) $2.50 to the current expense fund; and
+34 (ii) $12.50 to the state highway account;
+35 (v) Restricted driving permit or restricted school attendance
+36 driving permit (fee to the state highway account) .............$60.00.
+37 (3) The fee for any electronic driver's license renewal allowed pur-
+38 suant to section 49-319(10), Idaho Code, shall be five dollars ($5.00) less
+39 than the applicable application fee prescribed in subsection (2) of this
+40 section. This fee reduction shall be accounted for by subtracting five dol-
+41 lars ($5.00) from the portion of fees retained by the department.
+42 (4) A person who applies for a driver's license or a driver's license
+43 renewal may designate a voluntary contribution of two dollars ($2.00) for
+44 the purpose of promoting and supporting organ donation. Such a contribution
+45 shall be treated as a voluntary contribution to the organ donation contribu-
+46 tion fund created in section 49-2447, Idaho Code, and not as a driver's li-
+47 cense fee. Each voluntary contribution shall be deposited into the organ do-
+48 nation contribution fund created in section 49-2447, Idaho Code.
+49 (5) Every application shall state the applicant's true and full name,
+50 date of birth, sex, declaration of Idaho residency, Idaho residence address
+
+5
+1 and mailing address if different, height, weight, hair color, eye color, and
+2 social security number as verified by the social security administration.
+3 If an applicant has submitted an application pursuant to the provisions of
+4 chapter 58, title 19, Idaho Code, then the applicant may state, in his or
+5 her application pursuant to this section, the applicant's alternative Idaho
+6 mailing address in place of his or her Idaho residence address and mail-
+7 ing address. Notwithstanding the provisions of section 49-303(13), Idaho
+8 Code, an applicant for a nondomiciled class A, B or C driver's license or
+9 nondomiciled commercial learner's permit having residency in a state that
+10 is prohibited from issuing class A, B or C driver's licenses or commercial
+11 learner's permits, as provided in 49 CFR 384, is excepted from providing
+12 proof of Idaho residency and an Idaho mailing address.
+13 (a) The requirement that an applicant provide a social security number
+14 as verified by the social security administration shall apply only to
+15 applicants who have been assigned a social security number.
+16 (b) An applicant who has not been assigned a social security number
+17 shall:
+18 (i) Present written verification from the social security admin-
+19 istration that the applicant has not been assigned a social secu-
+20 rity number; and
+21 (ii) Submit a birth certificate, passport or other documentary
+22 evidence issued by an entity other than a state or the United
+23 States; and
+24 (iii) Submit such proof as the department may require that the ap-
+25 plicant is lawfully present in the United States.
+26 A driver's license, commercial learner's permit or any instruction
+27 permit issued on and after January 1, 1993, shall not contain an appli-
+28 cant's social security number. Applications on file shall be exempt
+29 from disclosure except as provided in sections 49-202, 49-203, 49-203A
+30 and 49-204, Idaho Code.
+31 (c) Every application for a class A, B or C license shall state where the
+32 applicant has been licensed for the preceding ten (10) years and under
+33 which of the following driving categories the applicant will operate:
+34 (i) Non-excepted interstate. The applicant operates or expects
+35 to operate in interstate commerce and is required to provide a med-
+36 ical examiner's certificate;
+37 (ii) Excepted interstate. The applicant operates or expects to
+38 operate in interstate commerce, but engages exclusively in trans-
+39 portation or operations excepted by the federal motor carrier
+40 safety administration from all or parts of the qualification re-
+41 quirements of federal motor carrier safety regulation 49, part
+42 391, and is therefore not required to provide a medical examiner's
+43 certificate;
+44 (iii) Non-excepted intrastate. The applicant operates only in
+45 intrastate commerce and is subject to and meets all Idaho driver
+46 qualification requirements and the applicable parts of federal
+47 motor carrier safety regulation 49, part 391, and is required to
+48 provide a medical examiner's certificate; or
+49 (iv) Excepted intrastate. The applicant operates in intrastate
+50 commerce, but engages exclusively in exempted transportation or
+
+6
+1 operations as listed in section 67-2901B(2), Idaho Code, and the
+2 applicable parts of federal motor carrier safety regulation 49,
+3 part 391, and is therefore not required to provide a medical exam-
+4 iner's certificate.
+5 All applications shall also state whether the applicant has previously
+6 been licensed as a driver and, if so, when and by what state or country
+7 and whether a driver's license or privileges have ever been suspended,
+8 revoked, denied, disqualified, canceled or refused and, if so, the
+9 date of and reason for the suspension, revocation, denial, disquali-
+10 fication, cancellation or refusal and the applicant's oath that all
+11 information is correct as signified by the applicant's signature.
+12 (d) The applicant must submit proof of identity and citizenship sta-
+13 tus acceptable to the examiner or the department and date of birth as
+14 set forth in a certified copy of his birth certificate or a valid, unex-
+15 pired passport. If the applicant does not possess a certified copy of
+16 his birth certificate or a delayed birth certificate and does not pos-
+17 sess a valid, unexpired passport, another government-issued document
+18 may be submitted that provides satisfactory evidence of a person's full
+19 legal name and date of birth acceptable to the examiner or the depart-
+20 ment.
+21 (e) Every applicant for a class A, B or C driver's license or commer-
+22 cial learner's permit shall provide proof of United States citizenship
+23 or lawful permanent residency in the United States upon application for
+24 issuance, transfer, upgrade or renewal, unless the applicant's driving
+25 record already contains documentation confirming United States citi-
+26 zenship or lawful permanent residency. Every applicant for a nondomi-
+27 ciled class A, B or C driver's license or commercial learner's permit
+28 domiciled in a foreign country must provide an unexpired employment au-
+29 thorization document issued by the department of homeland security or
+30 an unexpired foreign passport accompanied by an approved I-94 form doc-
+31 umenting the applicant's most recent admittance into the United States.
+32 (f) Individuals required to register in compliance with section 3 of
+33 the federal military selective service act, 50 U.S.C. App. 451 et seq.,
+34 as amended, shall be provided an opportunity to fulfill such registra-
+35 tion requirements in conjunction with an application for a driver's li-
+36 cense, commercial learner's permit or instruction permit. Any regis-
+37 tration information so supplied shall be transmitted by the department
+38 to the selective service system.
+39 (6) Whenever an application is received from a person previously li-
+40 censed in another jurisdiction, the department shall request a copy of the
+41 driver's record from the other jurisdiction and shall contact the national
+42 driver register. When received, the driver's record from the previous ju-
+43 risdiction shall become a part of the driver's record in this state with the
+44 same force and effect as though entered on the driver's record in this state
+45 in the original instance.
+46 (7) Whenever the department receives a request for a driver's record
+47 from another licensing jurisdiction, the record shall be forwarded without
+48 charge.
+49 (8) The department shall contact and notify the commercial driver li-
+50 cense information system of the proposed application for a class A, B or C
+
+7
+1 driver's license or commercial learner's permit to ensure identification of
+2 the person and to obtain clearance to issue the license.
+3 (9) The department shall request information from the drug and alco-
+4 hol clearinghouse to determine whether an applicant for any class A, B, or C
+5 driver's license or commercial learner's permit is eligible for the creden-
+6 tial.
+7 (10) A contractor administering a class A, B, or C skills test may col-
+8 lect an additional fee for the use of the contractor's vehicle for the skills
+9 test.
+10 (11) The department may issue seasonal class B or C driver's licenses to
+11 drivers who are employees of agri-chemical businesses, custom harvesters,
+12 farm retail outlets and suppliers, and livestock feeders that:
+13 (a) Will be valid only for driving commercial vehicles that normally
+14 require class B or C commercial driver's licenses;
+15 (b) Will be valid for seasonal periods that begin on the date of is-
+16 suance and that are not to exceed one hundred eighty (180) days in a
+17 twelve (12) month period;
+18 (c) May be obtained only twice in a driver's lifetime;
+19 (d) Are valid only within a one-hundred-fifty (150) mile radius of the
+20 place of business or farm being serviced; and
+21 (e) Will be valid only in conjunction with valid Idaho class D driver's
+22 licenses.
+23 (12) The department may issue seasonal class B or C driver's licenses to
+24 drivers who:
+25 (a) Have not violated the single license provisions of applicable fed-
+26 eral regulations;
+27 (b) Have not had any license suspensions, revocations or cancella-
+28 tions;
+29 (c) Have not had any convictions in any vehicle for any offense listed
+30 in section 49-335(1) or (2), Idaho Code, or any one (1) serious traffic
+31 offense;
+32 (d) Have at least one (1) year of driving experience with a class D or
+33 equivalent license in any type of motor vehicle; and
+34 (e) Are at least sixteen (16) years old.
+35 SECTION 3. That Section 49-336, Idaho Code, be, and the same is hereby
+36 repealed.
+37 SECTION 4. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

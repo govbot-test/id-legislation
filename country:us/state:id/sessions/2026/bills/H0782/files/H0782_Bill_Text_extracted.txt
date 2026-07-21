@@ -1,0 +1,193 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 782
+BY RUBEL
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3024, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING INDIVIDUALS' TAX AND TAX ON ESTATES AND TRUSTS;
+4 AMENDING SECTION 63-3025, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+5 THE TAX ON CORPORATE INCOME; AMENDING SECTION 63-3029L, IDAHO CODE, TO
+6 REVISE A PROVISION REGARDING THE CHILD TAX CREDIT; REPEALING SECTION
+7 63-3029N, IDAHO CODE, RELATING TO THE IDAHO PARENTAL CHOICE TAX CREDIT;
+8 AMENDING SECTION 67-1230, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+9 THE IDAHO PARENTAL CHOICE TAX CREDIT ADVANCE PAYMENT FUND; REPEALING
+10 SECTION 67-1230, IDAHO CODE, RELATING TO THE IDAHO PARENTAL CHOICE TAX
+11 CREDIT ADVANCE PAYMENT FUND; AND DECLARING AN EMERGENCY, PROVIDING
+12 RETROACTIVE APPLICATION, AND PROVIDING AN EFFECTIVE DATE.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. That Section 63-3024, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 63-3024. INDIVIDUALS' TAX AND TAX ON ESTATES AND TRUSTS. (1) For each
+17 taxable year, a tax measured by Idaho taxable income as defined in this chap-
+18 ter is hereby imposed upon every individual, trust, or estate required by
+19 this chapter to file a return.
+20 (2)(a) The tax imposed upon individuals, trusts, and estates shall be
+21 computed at the rate of five and three-tenths percent (5.3%) five and
+22 three hundred twenty-five thousandths percent (5.325%) of taxable in-
+23 come over two thousand five hundred dollars ($2,500).
+24 (b) For taxpayers filing a joint return pursuant to the provisions of
+25 section 63-3031, Idaho Code, the tax imposed shall be computed at the
+26 rate of five and three-tenths percent (5.3%) five and three hundred
+27 twenty-five thousandths percent (5.325%) of taxable income over five
+28 thousand dollars ($5,000). For the purposes of this section, a return
+29 of a surviving spouse, as defined in section 2(a) of the Internal Rev-
+30 enue Code, and a head of household, as defined in section 2(b) of the
+31 Internal Revenue Code, shall be treated as a joint return.
+32 (3) For taxable year 2000 and each year thereafter, the state tax com-
+33 mission shall prescribe a factor that shall be used to compute the Idaho in-
+34 come tax thresholds provided in subsection (2) of this section. The factor
+35 shall provide an adjustment to the Idaho tax thresholds so that inflation
+36 will not result in a tax increase. The Idaho tax thresholds shall be adjusted
+37 as follows: multiply the last threshold amount by the percentage (the con-
+38 sumer price index for the calendar year immediately preceding the calendar
+39 year to which the adjusted threshold amount will apply divided by the con-
+40 sumer price index for calendar year 1998). For the purpose of this computa-
+41 tion, the consumer price index for any calendar year is the average of the
+42 consumer price index as of the close of the twelve (12) month period for the
+
+2
+1 immediately preceding calendar year, without regard to any subsequent ad-
+2 justments, as adopted by the state tax commission. This adoption shall be
+3 exempt from the provisions of chapter 52, title 67, Idaho Code. The consumer
+4 price index shall mean the consumer price index for all U.S. urban consumers
+5 published by the United States department of labor. The state tax commission
+6 shall annually include the factor as provided in this subsection to multiply
+7 against Idaho taxable income using the thresholds in this section to arrive
+8 at that year's Idaho taxable income for tax threshold purposes.
+9 (4) In the case of a trust that is an electing small business trust as
+10 defined in section 1361 of the Internal Revenue Code, the special rules for
+11 taxation of such trusts contained in section 641 of the Internal Revenue Code
+12 shall apply, except that the individual rate provided in subsection (2)(a)
+13 of this section shall apply in computing tax due under this chapter.
+14 (5) The state tax commission may promulgate rules defining the condi-
+15 tions upon which such returns shall be filed.
+16 SECTION 2. That Section 63-3025, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 63-3025. TAX ON CORPORATE INCOME. (1) For each taxable year, a tax is
+19 hereby imposed on the Idaho taxable income of a corporation, other than an
+20 S corporation, that transacts or is authorized to transact business in this
+21 state or has income attributable to this state. The tax rate imposed by this
+22 section shall be as follows:
+23 (a) For each taxable year, commencing on and after January 1, 2001, the
+24 tax imposed by this section shall be equal to seven and six-tenths per-
+25 cent (7.6%) of Idaho taxable income.
+26 (b) For each taxable year, commencing on and after January 1, 2012, the
+27 tax imposed by this section is changed and shall be equal to seven and
+28 four-tenths percent (7.4%) of Idaho taxable income.
+29 (c) For each taxable year, commencing on and after January 1, 2018, the
+30 tax imposed by this section is changed and shall be equal to six and nine
+31 hundred twenty-five thousandths percent (6.925%) of Idaho taxable in-
+32 come.
+33 (d) For each taxable year, commencing on and after January 1, 2021,
+34 the tax imposed by this section is changed and shall be equal to six and
+35 five-tenths percent (6.5%) of Idaho taxable income.
+36 (e) For each taxable year, commencing on and after January 1, 2022, the
+37 tax imposed by this section is changed and shall be equal to six percent
+38 (6%) of Idaho taxable income.
+39 (f) For each taxable year, commencing on and after January 1, 2023, the
+40 tax imposed by this section is changed and shall be equal to five and
+41 eight-tenths percent (5.8%) of Idaho taxable income.
+42 (g) For each taxable year, commencing on and after January 1, 2024, the
+43 tax imposed by this section is changed and shall be equal to five and six
+44 hundred ninety-five thousandths percent (5.695%) of Idaho taxable in-
+45 come.
+46 (h) For each taxable year, commencing on and after January 1, 2025, the
+47 tax imposed by this section is changed and shall be equal to five and
+48 three-tenths percent (5.3%) of Idaho taxable income.
+
+3
+1 (i) For each taxable year, commencing on and after January 1, 2026, the
+2 tax imposed by this section is changed and shall be equal to five and
+3 three hundred twenty-five thousandths percent (5.325%) of Idaho tax-
+4 able income.
+5 (2) In the case of an S corporation that is required to file a return un-
+6 der section 63-3030, Idaho Code, a tax is hereby imposed at the rate provided
+7 in subsection (1) of this section upon both:
+8 (a) Net recognized built-in gain attributable to this state. The
+9 amount of net recognized built-in gain attributable to this state shall
+10 be computed in accordance with section 1374 of the Internal Revenue
+11 Code subject to the apportionment and allocation provisions of section
+12 63-3027, Idaho Code; and
+13 (b) Excess net passive income attributable to this state. The amount of
+14 excess net passive income attributable to this state shall be computed
+15 in accordance with section 1375 of the Internal Revenue Code subject to
+16 the apportionment and allocation provisions of section 63-3027, Idaho
+17 Code.
+18 (3) The tax imposed by subsection (1) or (2) of this section shall not be
+19 less than twenty dollars ($20.00); provided that the twenty-dollar ($20.00)
+20 minimum payment shall not be collected from nonproductive mining corpora-
+21 tions.
+22 (4) The tax imposed by this section shall not apply to corporations
+23 taxed pursuant to the provisions of section 63-3025A, Idaho Code.
+24 SECTION 3. That Section 63-3029L, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 63-3029L. CHILD TAX CREDIT. (1) For taxable years beginning on or af-
+27 ter January 1, 2018, and before January 1, 2026, there shall be allowed to a
+28 taxpayer a nonrefundable credit against the tax imposed by this chapter in
+29 the amount of two hundred five dollars ($205) with respect to each qualifying
+30 child of the taxpayer. For purposes of this section, the term "qualifying
+31 child" has the meaning as defined in section 24(c) of the Internal Revenue
+32 Code. In no event shall more than one (1) taxpayer be allowed this credit for
+33 the same qualifying child. This credit is available only to Idaho residents.
+34 Any part-year resident entitled to a credit under this section shall receive
+35 a proportional credit reflecting the part of the year in which the part-year
+36 resident was domiciled in Idaho.
+37 (2) In the case of divorced parents or parents who do not live together,
+38 if the qualifying child is in the custody of one or both of the child's par-
+39 ents for more than one-half of a calendar year, such child is the qualifying
+40 child of the custodial parent for the taxable year beginning during such cal-
+41 endar year. However, the child may be the qualifying child of the noncusto-
+42 dial parent if either of the following requirements are met:
+43 (a) A court of competent jurisdiction has unconditionally awarded, in
+44 writing, to the noncustodial parent the tax benefits associated with
+45 the child pursuant to section 32-706, Idaho Code, and the noncustodial
+46 parent attaches a copy of the court order to the noncustodial parent's
+47 income tax return for the taxable year; or
+48 (b) The custodial parent signs a written declaration that such custo-
+49 dial parent will not claim the credit of this section with respect to
+
+4
+1 such child for any taxable year beginning in such calendar year and the
+2 noncustodial parent attaches such written declaration to the noncusto-
+3 dial parent's income tax return for the taxable year beginning during
+4 such calendar year.
+5 SECTION 4. That Section 63-3029N, Idaho Code, be, and the same is hereby
+6 repealed.
+7 SECTION 5. That Section 67-1230, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 67-1230. IDAHO PARENTAL CHOICE TAX CREDIT ADVANCE PAYMENT FUND. (1)
+10 There is hereby established in the state treasury the Idaho parental choice
+11 tax credit advance payment fund, to be administered by the state tax commis-
+12 sion.
+13 (2) Moneys in the fund shall:
+14 (a) Consist of the following:
+15 (i) Legislative appropriations and transfers;
+16 (ii) Donations and contributions made to the fund;
+17 (iii) Reversions of unused, paid back, or recovered advance pay-
+18 ment funds; and
+19 (iv) Interest earned on idle moneys in the fund; and
+20 (b) Be continuously appropriated to pay advance payments awarded un-
+21 der the Idaho parental choice tax credit program established in section
+22 63-3029N, Idaho Code.
+23 (3) Notwithstanding any provision of law to the contrary, the state
+24 controller shall transfer the unobligated cash balance remaining in the
+25 Idaho parental choice tax credit advance payment fund to the general fund on
+26 July 1, 2026, or as soon thereafter as practicable but no later than December
+27 1, 2026.
+28 SECTION 6. That Section 67-1230, Idaho Code, be, and the same is hereby
+29 repealed.
+30 SECTION 7. An emergency existing therefor, which emergency is hereby
+31 declared to exist, Sections 1, 2, 3, and 4 of this act shall be in full force
+32 and effect on and after passage and approval, and retroactively to January
+33 1, 2026; Section 5 of this act shall be in full force and effect on and after
+34 passage and approval; and Section 6 of this act shall be in full force and
+35 effect on January 1, 2027.

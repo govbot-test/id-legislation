@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 928
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO THE MERIT-BASED HEALTH CARE ACT; AMENDING TITLE 56, IDAHO CODE,
+3 BY THE ADDITION OF A NEW CHAPTER 25, TITLE 56, IDAHO CODE, TO PROVIDE
+4 A SHORT TITLE, TO PROVIDE LEGISLATIVE FINDINGS AND INTENT, TO DEFINE
+5 TERMS, TO ESTABLISH PROVISIONS REGARDING PROHIBITED ACTS, TO ESTABLISH
+6 PROVISIONS REGARDING MEDICAID CONTRACTUAL COMPLIANCE, TO ESTABLISH
+7 PROVISIONS REGARDING ENFORCEMENT AND PENALTIES, TO ESTABLISH PROVI-
+8 SIONS REGARDING A LIMITED PRIVATE RIGHT OF ACTION, AND TO ESTABLISH
+9 PROVISIONS REGARDING FEDERAL PREEMPTION; AND DECLARING AN EMERGENCY
+10 AND PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Title 56, Idaho Code, be, and the same is hereby amended
+13 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+14 ter 25, Title 56, Idaho Code, and to read as follows:
+15 CHAPTER 25
+16 MERIT-BASED HEALTH CARE ACT
+17 56-2501. SHORT TITLE. This chapter shall be known and may be cited as
+18 the "Merit-Based Health Care Act."
+19 56-2502. LEGISLATIVE FINDINGS AND INTENT. (1) The legislature finds
+20 that:
+21 (a) Medicaid participation is voluntary and subject to reasonable con-
+22 ditions imposed by the state as a steward of public funds;
+23 (b) Employment decisions based on merit and professional qualifica-
+24 tions promote patient trust and high-quality care; and
+25 (c) Employment practices unrelated to job-related qualifications or
+26 business necessity undermine program integrity, workforce competency,
+27 and the efficient use of public funds.
+28 (2) It is the intent of the legislature to:
+29 (a) Ensure that health care employment and contracting decisions
+30 funded by medicaid are based on individual merit, qualifications, and
+31 clinical competency;
+32 (b) Prohibit the use of state medicaid funds to support ideological or
+33 discriminatory employment practices; and
+34 (c) Preserve compliance with all applicable federal civil rights and
+35 medicaid requirements.
+36 (3) Nothing in this chapter is intended to authorize discrimination
+37 prohibited by federal law or to interfere with patient-specific medical
+38 decision-making.
+39 56-2503. DEFINITIONS. As used in this chapter:
+
+2
+1 (1) "Discriminatory hiring" means granting a preference or imposing a
+2 disadvantage in employment or contracting based on race, sex, sexual orien-
+3 tation, gender identity, or national origin, except as expressly required by
+4 federal law.
+5 (2) "Diversity, equity, and inclusion" or "DEI" means the policies com-
+6 monly known and practiced as DEI, critical race theory, or anti-racism, any
+7 form of race or sex stereotyping or scapegoating, or the concepts that:
+8 (a) One race or sex is inherently superior to another race or sex;
+9 (b) The United States is fundamentally racist or sexist;
+10 (c) An individual, by virtue of the individual's race or sex, is in-
+11 herently racist, sexist, or oppressive, whether consciously or uncon-
+12 sciously;
+13 (d) An individual should be discriminated against or receive adverse
+14 treatment solely or partly because of the individual's race or sex;
+15 (e) Members of one race or sex cannot and should not attempt to treat
+16 others without respect to race or sex;
+17 (f) An individual's moral character is necessarily determined by the
+18 individual's race or sex;
+19 (g) An individual, by virtue of the individual's race or sex, bears re-
+20 sponsibility for actions committed in the past by other members of the
+21 same race or sex;
+22 (h) An individual should feel discomfort, guilt, anguish, or any other
+23 form of psychological distress on account of the individual's race or
+24 sex;
+25 (i) Meritocracy or traits such as a hard work ethic are racist or sexist
+26 or were created by a particular race to oppress another race; or
+27 (j) All people should be compelled to believe in and speak in a manner
+28 consistent with the concept that an individual can change the individ-
+29 ual's sex or gender.
+30 (3) "Health care provider" means any individual or entity that volun-
+31 tarily participates in the Idaho medicaid program or receives medicaid reim-
+32 bursements in whole or in part through a state-contracted managed care net-
+33 work.
+34 (4) "Prohibited DEI conduct" means any policy, practice, training, or
+35 requirement that includes:
+36 (a) Consideration of DEI in hiring, promotion, compensation, disci-
+37 pline, termination, or contracting decisions;
+38 (b) Race-based or sex-based preferences, targets, benchmarks, quotas,
+39 or equity goals;
+40 (c) Mandatory bias, implicit bias, systemic bias, or similar training
+41 that assigns responsibility, disadvantage, or professional outcomes
+42 based on protected characteristics rather than individual merit or per-
+43 formance; or
+44 (d) Required statements, pledges, attestations, or affirmations en-
+45 dorsing diversity, equity, and inclusion principles or related ideo-
+46 logical frameworks as a condition of employment or contracting.
+47 (5) "Public-facing communication" means any communication made avail-
+48 able to the public, including marketing materials, websites, mission or
+49 value statements, publicly presented staff trainings, facility signage, or
+50 social media.
+
+3
+1 56-2504. PROHIBITED ACTS. (1) With respect to employment, policies,
+2 training, or communications, a health care provider shall not:
+3 (a) Engage in discriminatory hiring or prohibited DEI conduct;
+4 (b) Adopt or implement internal policies or trainings that constitute
+5 prohibited DEI conduct; or
+6 (c) Use state funds, including medicaid reimbursements, for any pub-
+7 lic-facing communication that promotes prohibited DEI conduct.
+8 (2) Nothing in this section shall be construed to prohibit:
+9 (a) Compliance with title VI of the civil rights act of 1964 or other
+10 applicable federal civil rights laws;
+11 (b) Collection of demographic data for legitimate clinical care, qual-
+12 ity reporting, or public health purposes;
+13 (c) Patient-specific medical discussions related to biological, ge-
+14 netic, or epidemiological risk factors;
+15 (d) Non-ideological training required for clinical competency, licen-
+16 sure, accreditation, or federal program compliance; or
+17 (e) Workforce training, quality improvement initiatives, or dispar-
+18 ity-reduction programs required or encouraged by federal law, centers
+19 for medicare and medicaid services guidance, or accreditation bodies.
+20 56-2505. MEDICAID CONTRACTUAL COMPLIANCE. (1) Compliance with this
+21 chapter shall be a material condition of all Idaho participating medicaid
+22 health care provider agreements as applied to medicaid-funded activities.
+23 (2) This section shall be implemented in a manner consistent with fed-
+24 eral medicaid requirements and centers for medicare and medicaid services
+25 guidance.
+26 56-2506. ENFORCEMENT AND PENALTIES. (1) The attorney general may in-
+27 vestigate alleged violations of this chapter upon receipt of a formal com-
+28 plaint.
+29 (2) Prior to the imposition of civil penalties, the department shall
+30 provide written notice and an opportunity for corrective action.
+31 (3) The attorney general may seek civil penalties for violations of
+32 this chapter as follows:
+33 (a) For a health care provider with fifty (50) or more employees:
+34 (i) A penalty not to exceed ten thousand dollars ($10,000) for a
+35 first violation;
+36 (ii) A penalty not to exceed fifty thousand dollars ($50,000) for
+37 a second violation; and
+38 (iii) A penalty not to exceed one hundred thousand dollars
+39 ($100,000) for a third or subsequent violation; and
+40 (b) For a health care provider with fewer than fifty (50) employees:
+41 (i) A penalty not to exceed five thousand dollars ($5,000) for a
+42 first violation;
+43 (ii) A penalty not to exceed twenty-five thousand dollars
+44 ($25,000) for a second violation; and
+45 (iii) A penalty not to exceed fifty thousand dollars ($50,000) for
+46 a third or subsequent violation.
+
+4
+1 56-2507. LIMITED PRIVATE RIGHT OF ACTION. A health care professional
+2 may bring an action solely for retaliation arising from refusing to partici-
+3 pate in prohibited DEI conduct. Remedies may include reinstatement, injunc-
+4 tive relief, compensatory damages, and reasonable attorney's fees.
+5 56-2508. SAVINGS CLAUSE AND FEDERAL PREEMPTION. Nothing in this chap-
+6 ter shall be construed to restrict conduct required or encouraged by fed-
+7 eral civil rights law, centers for medicare and medicaid services guidance,
+8 or federal conditions of participation. If any provision of this chapter is
+9 preempted by federal law, such provision shall be severed while the remain-
+10 der remains in full force and effect.
+11 SECTION 2. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after
+13 July 1, 2026.

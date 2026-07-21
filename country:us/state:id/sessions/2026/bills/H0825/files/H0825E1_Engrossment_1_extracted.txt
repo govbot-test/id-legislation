@@ -1,0 +1,240 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 825, As Amended in the Senate
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; PROVIDING LEGISLATIVE INTENT; AMENDING SEC-
+3 TION 49-402, IDAHO CODE, TO PROVIDE FOR A CERTAIN FEE AND TO MAKE A
+4 TECHNICAL CORRECTION; AMENDING CHAPTER 4, TITLE 49, IDAHO CODE, BY
+5 THE ADDITION OF A NEW SECTION 49-416A, IDAHO CODE, TO ESTABLISH AMER-
+6 ICA250 LICENSE PLATES; AMENDING SECTION 49-450, IDAHO CODE, TO REVISE
+7 PROVISIONS REGARDING ADDITIONAL FEES FOR EACH PLATE ISSUED; AMENDING
+8 SECTION 67-7602B, IDAHO CODE, TO REVISE PROVISIONS REGARDING FUNDING;
+9 AND DECLARING AN EMERGENCY.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature, in
+12 recognition of Idaho's long-standing relationship with the Idaho Heritage
+13 Trust, to create a specific and limited exception to section 49-402C, Idaho
+14 Code, which prohibits new special license plates or special license plate
+15 programs for the benefit of any entity that is not the state of Idaho or an
+16 agency of the state of Idaho. This legislation discontinues a plate fee that
+17 was being paid to the Idaho Heritage Trust for the use of the red, white, and
+18 blue copyrighted design described in section 49-443(1), Idaho Code. Here-
+19 after, the Idaho Heritage Trust will receive funds from the newly created
+20 America250 license plates.
+21 SECTION 2. That Section 49-402, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 49-402. ANNUAL REGISTRATION. (1) The annual fee for operating each
+24 pickup truck, each neighborhood electric vehicle and each other motor ve-
+25 hicle having a maximum gross weight not in excess of eight thousand (8,000)
+26 pounds and that complies with the federal motor vehicle safety standards as
+27 defined in section 49-107, Idaho Code, shall be:
+28 Vehicles one (1) and two (2) years old .........................$69.00
+29 Vehicles three (3) and four (4) years old ......................$57.00
+30 Vehicles five (5) and six (6) years old ........................$57.00
+31 Vehicles seven (7) and eight (8) years old .....................$45.00
+32 Vehicles over eight (8) years old .............................$45.00
+33 There shall be twelve (12) registration periods, starting in January
+34 for holders of validation registration stickers numbered 1, and proceed-
+35 ing consecutively through December for holders of validation registration
+36 stickers numbered 12, each of which shall start on the first day of a calen-
+37 dar month and end on the last day of the twelfth month from the first day of
+38 the beginning month. Registration periods shall expire at midnight on the
+39 last day of the registration period in the year designated by the validation
+40 registration sticker. The numeral digit on the validation registration
+41 stickers shall, as does the registration card, fix the registration period
+
+2
+1 under the staggered registration system for the purpose of reregistration
+2 and notice of expiration.
+3 A vehicle that has once been registered for any of the above-designated
+4 periods shall, upon reregistration, be registered for the period bearing the
+5 same number, and the registration card shall show and be the exclusive proof
+6 of the expiration date of registration and licensing. Vehicles may be ini-
+7 tially registered for less than a twelve (12) month period, or for more than a
+8 twelve (12) month period, and the fee prorated on a monthly basis if the frac-
+9 tional registration tends to fulfill the purpose of the monthly series reg-
+10 istration system.
+11 (2) For all school buses operated either by a nonprofit, nonpublic
+12 school or operated pursuant to a service contract with a school district for
+13 transporting children to or from school or in connection with school-ap-
+14 proved activities, the annual fee shall be twenty-four dollars ($24.00) and
+15 shall be subject to staggered registration for the purpose of reregistration
+16 and notice of expiration.
+17 (3) For all motorcycles and motor-driven cycles that comply with the
+18 federal motor vehicle safety standards, operated on the public highways, the
+19 annual fee shall be nineteen dollars ($19.00) and shall be subject to stag-
+20 gered registration for the purpose of reregistration and notice of expira-
+21 tion.
+22 (4) For operation of an all-terrain vehicle, utility type vehicle or
+23 motorbike, excluding a motorbike with an engine displacement of fifty (50)
+24 cubic centimeters or less, on city, county or highway district roads or
+25 highways open to such use, a restricted vehicle license plate fee pursuant
+26 to section 49-450, Idaho Code, shall be paid. In addition, the certifi-
+27 cate of number fee specified in section 67-7122, Idaho Code, shall be paid
+28 as provided in section 67-7122, Idaho Code. The certificate of number and
+29 restricted vehicle license plate exemption provided in section 49-426(2),
+30 Idaho Code, applies to all-terrain vehicles, utility type vehicles, motor-
+31 bikes and motorcycles used for the purposes described in section 49-426(2),
+32 Idaho Code. Nonresidents shall be allowed to purchase a restricted vehicle
+33 license plate and validation sticker pursuant to section 67-7124, Idaho
+34 Code, for an all-terrain vehicle, utility type vehicle, or motorbike.
+35 (5) For all motor homes, the fee shall be as specified in subsection (1)
+36 of this section and shall be in addition to the fees provided for in section
+37 49-445, Idaho Code.
+38 (6) Registration fees shall not be subject to refund.
+39 (7) A financial institution or repossession service contracted to
+40 a financial institution repossessing vehicles under the terms of a secu-
+41 rity agreement shall move the vehicle from the place of repossession to the
+42 financial institution's place of business on a repossession plate. The
+43 repossession plate shall also be used for demonstrating the vehicle to a
+44 prospective purchaser for a period not to exceed ninety-six (96) hours. The
+45 registration fees for repossession plates shall be as required in subsection
+46 (1) of this section for a vehicle one (1) and two (2) years old. All other
+47 fees required under chapter 4, title 49, Idaho Code, shall be in addition to
+48 the registration fee. The repossession plate shall be subject to staggered
+49 registration for the purpose of reregistration and notice of expiration.
+
+3
+1 (8) A wrecker or towing business engaged in the process of towing motor-
+2 ized vehicles that have been wrecked, abandoned, salvaged or may be disabled
+3 may apply for a wrecker plate to be displayed on those vehicles being towed,
+4 provided the power unit is properly registered under this chapter. The reg-
+5 istration fees for wrecker plates shall be as required in subsection (1) of
+6 this section for a vehicle one (1) and two (2) years old. All other fees re-
+7 quired under chapter 4, title 49, Idaho Code, shall be in addition to the reg-
+8 istration fee and shall be subject to staggered registration for the purpose
+9 of reregistration and notice of expiration.
+10 (9) In addition to the annual registration fee in this section, there
+11 shall be an initial program fee of twenty-five dollars ($25.00) and an an-
+12 nual program fee of fifteen dollars ($15.00) for all special license plate
+13 programs for those license plates issued pursuant to sections 49-404A,
+14 49-407, 49-408, 49-409, 49-414, 49-416, 49-418 and 49-418D, Idaho Code. For
+15 special plates issued pursuant to section 49-417E, Idaho Code, there shall
+16 be an initial program fee of seventy dollars ($70.00) and an annual program
+17 fee of fifty dollars ($50.00). For special plates issued pursuant to sec-
+18 tions 49-406 and 49-406A, Idaho Code, there shall be an initial program fee
+19 of twenty-five dollars ($25.00) but there shall be no annual renewal fee.
+20 For special plates issued pursuant to sections 49-415D, 49-416A, 49-417,
+21 49-417A, 49-417B, 49-417C, 49-417D, 49-418A, 49-418B, 49-418C, 49-419,
+22 49-419A, 49-419C, 49-419E, 49-420, 49-420A, 49-420B, 49-420C, 49-420D,
+23 49-420E, 49-420J, 49-420K, 49-420L, 49-420M, 49-420N, 49-420O, 49-420P,
+24 49-420Q, 49-420R, 49-420S, and 49-420T, and 49-420T 49-420U, Idaho Code,
+25 and unless otherwise expressly provided for in this chapter, any new special
+26 plate program effective on and after January 1, 2013, pursuant to section
+27 49-402D, Idaho Code, there shall be an initial program fee of thirty-five
+28 dollars ($35.00) and an annual program fee of twenty-five dollars ($25.00).
+29 The fees contained in this subsection shall be applicable to all new special
+30 plate programs and shall be subject to staggered registration for the pur-
+31 pose of reregistration and notice of expiration. The initial program fee
+32 and the annual program fee shall be deposited in the state highway account
+33 and shall be used to fund the cost of administration of special license plate
+34 programs, unless otherwise specified by law.
+35 (10) Any vehicle that does not meet federal motor vehicle safety stan-
+36 dards shall not be registered and shall not be permitted to operate on public
+37 highways of the state, as defined in section 40-117, Idaho Code, unless oth-
+38 erwise specifically authorized.
+39 (11) In addition to annual registration fees as provided in this sec-
+40 tion, registrants may pay a fee to purchase an Idaho state parks passport
+41 authorizing resident motor vehicle entry into all Idaho state parks. Reg-
+42 istrants may pay the fee for a one (1) year or two (2) year period of time.
+43 The fee shall be ten dollars ($10.00) for one (1) year and twenty dollars
+44 ($20.00) for two (2) years. All fees collected pursuant to this subsection
+45 shall be deposited into the park and recreation fund and shall be subject to
+46 appropriation. Fees collected pursuant to this subsection shall not be con-
+47 sidered a motor vehicle registration fee as provided in section 17, article
+48 VII of the constitution of the state of Idaho.
+
+4
+1 SECTION 3. That Chapter 4, Title 49, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 49-416A, Idaho Code, and to read as follows:
+4 49-416A. AMERICA250 PLATES. (1) Notwithstanding the provisions of
+5 section 49-402C, Idaho Code, on and after July 1, 2026, any person who is the
+6 owner of a vehicle registered under the provisions of section 49-402, Idaho
+7 Code, or registered under any other section of law for which the purchase
+8 of special plates is allowed, may apply for and, upon department approval,
+9 receive special America250 license plates in lieu of regular license plates.
+10 (2) The provisions of this section shall not apply to any vehicle with
+11 a registered maximum gross weight over twenty-six thousand (26,000) pounds.
+12 Availability of America250 license plates for other vehicles shall be sub-
+13 ject to the rules, policies, and procedures of the department.
+14 (3) In addition to the regular registration fee, the applicant shall be
+15 charged a fee of thirty-five dollars ($35.00) for the initial issuance of the
+16 plates and twenty-five dollars ($25.00) upon each succeeding annual regis-
+17 tration. Ten dollars ($10.00) of the initial fee and ten dollars ($10.00)
+18 of the renewal fee shall be deposited in the state highway account and shall
+19 be used to fund the cost of the administration of this special license plate
+20 program. Twenty-five dollars ($25.00) of each initial fee and fifteen dol-
+21 lars ($15.00) of each renewal fee shall be transferred by the state treasurer
+22 to the Idaho heritage trust.
+23 (4) Whenever title or interest in a vehicle registered under the pro-
+24 visions of this section is transferred or assigned, the owner may transfer
+25 the special plates to another vehicle upon payment of the required transfer
+26 fees. The owner may only display the plates on another vehicle upon receipt
+27 of the new registration from the department.
+28 (5) The America250 license plate shall have a red, white, and blue back-
+29 ground and display the text "America250" centered on the bottom. The de-
+30 sign shall be acceptable to the Idaho heritage trust and shall be approved
+31 by the department. Beginning January 1, 2027, the text "America250" shall no
+32 longer be required. Initial costs of the plate program, including costs of
+33 plate design, shall be paid by the Idaho heritage trust.
+34 (6) Sample America250 license plates may be purchased for a fee of
+35 thirty dollars ($30.00), ten dollars ($10.00) of which shall be deposited
+36 in the state highway account and twenty dollars ($20.00) of which shall be
+37 transferred to the Idaho heritage trust.
+38 SECTION 4. That Section 49-450, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 49-450. ADDITIONAL FEE FOR EACH PLATE ISSUED. In addition to the vehi-
+41 cle registration fee provided by law, whenever any plate is issued for ve-
+42 hicle registration, there shall be charged a fee of three dollars and sev-
+43 enty-five cents ($3.75) per plate, which shall be deposited into the plate
+44 manufacturing account created in section 49-450A, Idaho Code. The actual
+45 cost of producing and distributing license plates and the fifty cents (50¢)
+46 per plate fee designated to the Idaho heritage trust for the use of the copy-
+47 righted design provided for in section 49-443(1), Idaho Code, shall be paid
+48 from the plate manufacturing account. The difference between deposits into
+
+5
+1 the account and disbursements out of the account not anticipated for future
+2 production cost increases, shall be transferred by the state controller from
+3 the plate manufacturing account to the highway distribution account as es-
+4 tablished in section 40-701, Idaho Code, for apportionment as designated in
+5 that section. Funds designated to the Idaho heritage trust shall be matched
+6 with equal funds from other sources for funding projects designed to pre-
+7 serve Idaho's historic resources.
+8 SECTION 5. That Section 67-7602B, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 67-7602B. FUNDING. The Idaho heritage trust shall receive funds col-
+11 lected in section 49-450 pursuant to section 49-416A, Idaho Code, in the
+12 amount of fifty cents (50¢) per plate for the use of the copyrighted design
+13 provided in section 49-443(10), Idaho Code. The Idaho transportation de-
+14 partment shall collect such funds and distribute them to the Idaho heritage
+15 trust fund quarterly. The role of the heritage trust is to accept proposals
+16 from the public requesting funds for heritage preservation projects. The
+17 proposals are evaluated on established criteria, and if in the opinion of the
+18 heritage trust they qualify, a grant may be awarded subject to the availabil-
+19 ity of funds. The heritage trust shall insure that the following occurs in
+20 respect to the management of funds:
+21 (1) Funds earned from the use of the motor vehicle license plate design
+22 shall be deposited directly into the trust fund where it will earn interest
+23 that will be used for heritage preservation projects. Contributions from
+24 private fund raising efforts may also be deposited to the trust fund.
+25 (2) Only the interest earned from the trust fund shall be expended, and
+26 the trust fund shall remain as a permanent endowment generating income in
+27 perpetuity for heritage preservation.
+28 (3) The Idaho heritage trust shall require project sponsors to match
+29 the funds granted for each project, so that no more than half the monetary
+30 support for any project shall come from the proceeds of the trust fund.
+31 SECTION 6. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after its
+33 passage and approval.

@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 743
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO SPECIAL PROCEEDINGS; AMENDING TITLE 7, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW CHAPTER 17, TITLE 7, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING AN ACTION TO ENFORCE THE LAW; AND DECLARING AN EMERGENCY AND
+5 PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Title 7, Idaho Code, be, and the same is hereby amended
+8 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+9 ter 17, Title 7, Idaho Code, and to read as follows:
+10 CHAPTER 17
+11 ACTION TO ENFORCE THE LAW
+12 7-1701. DEFINITIONS. As used in this chapter:
+13 (1) "Public employee" means a person employed by a public entity or pub-
+14 lic officer.
+15 (2) "Public entity" means:
+16 (a) Any agency, board, bureau, department, division, institution, or
+17 office of the state;
+18 (b) Any public school, public charter school, or school district in the
+19 state;
+20 (c) Any independent public body corporate and politic in the state;
+21 (d) Any political subdivision of the state; or
+22 (e) Any other public organization created by the Idaho constitution or
+23 an Idaho statute.
+24 (3) "Public officer" means a person elected or appointed to an office
+25 created by the Idaho constitution or an Idaho statute.
+26 7-1702. ACTION TO ENFORCE THE LAW. (1) The attorney general may file an
+27 action to enforce the law against a public officer, public employee, or pub-
+28 lic entity when the attorney general has reason to believe that such officer,
+29 employee, or entity:
+30 (a) Failed to perform a duty assigned to the officer, employee, or en-
+31 tity by law; or
+32 (b) Violated a prohibition imposed on the officer, employee, or entity
+33 by law.
+34 (2) The action authorized by this section may be filed only if the law
+35 that the attorney general seeks to enforce does not establish a penalty for
+36 noncompliance or another enforcement mechanism.
+37 7-1703. ORDER TO COMPLY -- ATTORNEY'S FEES. (1) In an action filed pur-
+38 suant to this chapter, a court of competent jurisdiction shall issue an order
+
+2
+1 to comply with the law if the attorney general proves by a preponderance of
+2 the evidence that a public officer, public employee, or public entity:
+3 (a) Failed to perform a duty assigned to the officer, employee, or en-
+4 tity by law; or
+5 (b) Violated a prohibition imposed on the officer, employee, or entity
+6 by law.
+7 (2) A person who fails to comply with an order issued pursuant to this
+8 section shall be guilty of contempt and subject to punishment as provided by
+9 law.
+10 (3) The attorney general shall be entitled to reasonable attorney's
+11 fees in any successful action filed pursuant to this chapter.
+12 7-1704. CIVIL PENALTY FOR FAILURE TO COMPLY WITH THE LAW. (1) In an
+13 action filed pursuant to this chapter, a court of competent jurisdiction
+14 may hold a public officer or public employee personally liable for a civil
+15 penalty of up to fifty thousand dollars ($50,000) if the officer's or em-
+16 ployee's failure to comply with the law was willful.
+17 (2) Penalties paid pursuant to this section shall be deposited in the
+18 state general fund.
+19 7-1705. WITHHOLDING OF REVENUE-SHARING ACCOUNT INSTALLMENTS. After
+20 filing an action pursuant to this chapter against a city or county, the at-
+21 torney general shall order that any installments scheduled to be paid to
+22 the city or county from the revenue-sharing account established in section
+23 63-3638(10), Idaho Code, be withheld until the action is resolved in a court
+24 of competent jurisdiction. If the court finds that the city or county failed
+25 to comply with the law, the withheld moneys shall be distributed to the tax
+26 relief fund established in section 57-811, Idaho Code. If the court finds
+27 that the city or county complied with the law, the withheld moneys shall be
+28 distributed to the city or county.
+29 7-1706. RECOVERY OF STATE MONEYS. After filing an action pursuant to
+30 this chapter against a public entity that receives a general fund appropria-
+31 tion or a distribution from general fund moneys, the attorney general shall
+32 order that any such appropriation or distribution be withheld until the ac-
+33 tion is resolved in a court of competent jurisdiction. If the court finds
+34 that the public entity failed to comply with the law, the withheld moneys
+35 shall be retained in the general fund. If the court finds that the public
+36 entity complied with the law, the appropriation or distribution of the with-
+37 held moneys shall be reinstated.
+38 7-1707. ALTERNATE COUNSEL. (1) A public officer, public employee, or
+39 public entity that would otherwise be entitled to legal representation by
+40 the office of the attorney general may retain other counsel if an action au-
+41 thorized by this chapter is filed against such officer, employee, or entity.
+42 (2) Any alternate counsel employed by a public entity shall be compen-
+43 sated with funds from the entity's appropriation.
+44 SECTION 2. An emergency existing therefor, which emergency is hereby
+45 declared to exist, this act shall be in full force and effect on and after
+46 July 1, 2026.

@@ -1,0 +1,184 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 963
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO HOMEOWNER'S ASSOCIATIONS; AMENDING SECTION 55-3204, IDAHO CODE,
+3 TO REVISE PROVISIONS REGARDING THE ADMINISTRATION OF AN INCORPORATED OR
+4 UNINCORPORATED HOMEOWNER'S ASSOCIATION; AMENDING CHAPTER 32, TITLE 55,
+5 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 55-3204C, IDAHO CODE, TO
+6 ESTABLISH PROVISIONS REGARDING AUTOMATIC CONVERSION OF HOMEOWNER'S AS-
+7 SOCIATIONS TO JOINT OWNERSHIP ASSOCIATIONS; AMENDING CHAPTER 32, TITLE
+8 55, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 55-3214, IDAHO CODE,
+9 TO PROVIDE FOR JOINT OWNERSHIP ASSOCIATIONS; AND PROVIDING AN EFFECTIVE
+10 DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 55-3204, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 55-3204. ADMINISTRATION OF AN INCORPORATED OR UNINCORPORATED HOME-
+15 OWNER'S ASSOCIATION. (1) Board meetings must be open to the members of the
+16 homeowner's association and any representative or agent designated in a
+17 signed writing by a member to represent the member.
+18 (2) An executive session at which members of the homeowner's associa-
+19 tion are excluded may be held upon a majority vote of the board for the fol-
+20 lowing purposes:
+21 (a) To consider matters of personnel, hiring, bid review, or contract
+22 negotiation;
+23 (b) To consider records that are not subject to disclosure under part
+24 11, chapter 30, title 30, Idaho Code;
+25 (c) To consult with an attorney for the purpose of obtaining legal ad-
+26 vice. The mere presence of legal counsel at a board meeting shall not
+27 justify entering into executive session;
+28 (d) To discuss ongoing or potential litigation, mediation, arbitra-
+29 tion, or administrative proceedings; or
+30 (e) To discuss sensitive matters related to an individual member's
+31 property or assessments, such as violations or delinquent assessments.
+32 (3) All homeowner's associations, whether incorporated or unincorpo-
+33 rated, shall:
+34 (a) Hold a meeting of the membership each calendar year. Such meeting
+35 may be conducted in person or, with the approval of a simple majority of
+36 the members, through an electronic or hybrid meeting model;
+37 (b) Be governed by the provisions of sections 30-30-501 and 30-30-505,
+38 Idaho Code, as those provisions relate to notice of meetings of the
+39 homeowner's association. The board may adopt a process for members to
+40 choose to receive notice of any meeting of the homeowner's association
+41 by electronic means rather than by mail. All dates and information of
+42 the notice must remain the same as a mail notice;
+
+2
+1 (c) Take minutes from all meetings of the homeowner's association, in-
+2 cluding membership meetings and board meetings, and preserve such min-
+3 utes for a minimum of ten (10) years; and
+4 (d) Determine and establish the amount of assessments in accordance
+5 with the governing documents or, in the event the governing documents
+6 do not include such language, with the approval of a majority of the
+7 members of the homeowner's association.
+8 (4) At a meeting of the membership, to constitute a quorum on a matter,
+9 ten percent (10%) of the votes entitled to be cast on the matter shall be rep-
+10 resented in person, by proxy, by mailed written ballot, by absentee ballot,
+11 or by means of remote communication to the extent authorized by the board of
+12 directors.
+13 (4) (5) At an annual meeting of the homeowner's association, board mem-
+14 bers shall declare any conflict of interest or familial relationship that
+15 exists with respect to such board member and any person or entity who has pre-
+16 viously entered into or seeks to enter into a service contract with the home-
+17 owner's association.
+18 (5) (6) A board of a homeowner's association may not use its power to
+19 adopt rules governing the common property to expand the provisions of the re-
+20 strictive covenants as they relate to a member's property.
+21 (6) (7) All homeowner's associations, whether incorporated or unincor-
+22 porated, shall be governed by sections 30-30-502 and 30-30-608, Idaho Code,
+23 as those sections relate to the removal of a board member and the process of
+24 calling a special meeting for such removal.
+25 (7) (8) Unincorporated homeowner's associations shall be governed by
+26 bylaws that provide for at least the following:
+27 (a) A requirement that the homeowner's association holds at least one
+28 (1) meeting each calendar year;
+29 (b) A requirement that notice of any meeting of the homeowner's associ-
+30 ation be published and distributed to all members of the homeowner's as-
+31 sociation;
+32 (c) A requirement that the minutes of all homeowner's association meet-
+33 ings be taken and preserved;
+34 (d) A method of adopting and amending fees; and
+35 (e) A provision that no fees or assessments of the homeowner's asso-
+36 ciation may be increased unless a majority of all members of the home-
+37 owner's association vote in favor of the increase.
+38 (8) (9) If a homeowner's association violates any of the provisions of
+39 this chapter and a member prevails in a legal action to protect his rights,
+40 the member shall be entitled to an award of reasonable attorney's fees.
+41 SECTION 2. That Chapter 32, Title 55, Idaho Code, be, and the same is
+42 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+43 ignated as Section 55-3204C, Idaho Code, and to read as follows:
+44 55-3204C. JOINT OWNERSHIP ASSOCIATIONS -- CONVERSION. (1) Any home-
+45 owner's association that has been in existence for ten (10) years or more,
+46 pursuant to the date of the filing of articles of incorporation or the date of
+47 establishing bylaws for unincorporated homeowner's associations, as of Jan-
+48 uary 1, 2027, shall automatically convert to a joint ownership association
+49 (JOA), as provided in section 55-3214, Idaho Code, on January 1, 2030, unless
+
+3
+1 its members vote against such conversion pursuant to the provisions of this
+2 section. Any homeowner's association that has been in existence for less
+3 than ten (10) years as of January 1, 2027, or that is created after January 1,
+4 2027, shall automatically convert to a JOA after ten (10) years from the date
+5 of the filing of articles of incorporation or the date of establishing bylaws
+6 for unincorporated homeowner's associations unless its members vote against
+7 such conversion pursuant to the provisions of this section.
+8 (2) A homeowner's association shall hold a meeting of its membership
+9 before the automatic conversion dates provided for in subsection (1) of this
+10 section to provide an opportunity for its members to vote against the auto-
+11 matic conversion of the homeowner's association to a JOA. A homeowner's as-
+12 sociation shall give notice to its members of the proposed meeting in accor-
+13 dance with the provisions of section 30-30-505, Idaho Code. The notice shall
+14 state that the purpose, or one (1) of the purposes, of the meeting is to con-
+15 sider the automatic conversion of the homeowner's association to a JOA and
+16 shall contain or be accompanied by a copy or summary of a plan of conversion,
+17 including a summary of the proposed JOA governing documents and the impacts
+18 of conversion. The plan of conversion shall provide for the transfer of as-
+19 sets and liabilities from the homeowner's association to the JOA, including
+20 transfer of title to all common property and transfer of all financial as-
+21 sets to the JOA. No automatic conversion of a homeowner's association to a
+22 JOA shall occur if a quorum is present and a majority of the votes represented
+23 and voting vote against such conversion.
+24 (3) If a majority of the members of a homeowner's association do not
+25 vote against the automatic conversion of the homeowner's association to a
+26 JOA, the homeowner's association shall convert to a JOA. Such vote shall con-
+27 stitute authorization to amend or terminate existing governing documents,
+28 to establish a JOA by filing articles of incorporation or by establishing
+29 bylaws for unincorporated JOAs, and to transfer common property and assets
+30 to the JOA. Upon incorporation or establishment of bylaws for unincorporated
+31 JOAs, all covenants, conditions, and restrictions granting the association
+32 authority to regulate anything other than preserving, maintaining, repair-
+33 ing, and managing common property shall be terminated. All terms necessary
+34 to preserving common easements, maintenance obligations, or other related
+35 items shall remain in effect unless expressly amended. All common property,
+36 including common areas, limited common areas, other property or improve-
+37 ments owned or maintained by a homeowner's association, or property owned in
+38 common by the members of a homeowner's association shall remain dedicated to
+39 the common use of the members of the JOA.
+40 (4) If a majority of the members of a homeowner's association vote
+41 against the automatic conversion of the homeowner's association to a JOA,
+42 the homeowner's association shall continue under the same terms. Home-
+43 owner's associations shall automatically convert to JOAs ten (10) years
+44 after the date of the first successful vote against automatic conversion.
+45 Automatic conversion shall occur every ten (10) years thereafter while a
+46 homeowner's association is in existence unless and until the members fail to
+47 vote against such conversion and the homeowner's association is automati-
+48 cally converted as provided in this section.
+
+4
+1 SECTION 3. That Chapter 32, Title 55, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 55-3214, Idaho Code, and to read as follows:
+4 55-3214. JOINT OWNERSHIP ASSOCIATIONS -- CREATION. (1) A joint owner-
+5 ship association may be created as provided in this section in lieu of a home-
+6 owner's association. For purposes of this section, a "joint ownership asso-
+7 ciation" or "JOA" means any incorporated or unincorporated residential as-
+8 sociation in which membership is based on owning or possessing an interest in
+9 real property and that has ownership of common property with the authority to
+10 preserve, maintain, repair, and manage such property. Common property means
+11 any property owned by the JOA that is available to all members of the commu-
+12 nity, including but not limited to private roads, parks, open spaces, recre-
+13 ational facilities, and water rights.
+14 (2) A JOA shall have the authority to:
+15 (a) Levy assessments against lots for the actual and reasonable costs
+16 incurred in the maintenance and management of common property;
+17 (b) Obtain insurance for common property; and
+18 (c) Enter into contracts necessary for the maintenance and management
+19 of common property.
+20 (3) A JOA shall not have the authority to adopt or enforce any rules reg-
+21 ulating conduct that is not directly related to common property. A JOA shall
+22 not have the authority to regulate aesthetic standards, land use restric-
+23 tions beyond those imposed by law, or private covenants unrelated to common
+24 property.
+25 SECTION 4. This act shall be in full force and effect on and after Jan-
+26 uary 1, 2027.

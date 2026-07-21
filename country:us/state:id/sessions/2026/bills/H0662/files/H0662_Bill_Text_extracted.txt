@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 662
+BY AGRICULTURAL AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO MILK TESTING; AMENDING SECTION 37-506, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING THE METHOD OF TESTING MILK AND CREAM; AMENDING
+4 SECTION 37-516, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE RULES
+5 FOR ADMINISTRATION AND DEFINITIONS OF DIRECTOR AND DEPARTMENT; AND
+6 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 37-506, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 37-506. METHOD OF TESTING MILK AND CREAM. (1) All milk and cream pur-
+11 chased or sold in the state of Idaho at a price based upon on or determined
+12 by the milkfat, protein, lactose, solids nonfat, or somatic cell counts
+13 thereof, or by any other quality parameter or other analyte thereof, shall be
+14 tested by methods approved by the director of the department of agriculture
+15 of the state of Idaho.
+16 (2) Samples must be taken from every shipment of milk and cream by a milk
+17 hauler authorized by the department pursuant to chapter 3, title 37, Idaho
+18 Code. Accurate thermometers must be provided at all times. Milk and cream
+19 samples must be protected and in a tamper-proof place between thirty-three
+20 (33) and forty-five (45) degrees Fahrenheit.
+21 (3) Such samples may be examined and tested by the buyer, seller, or de-
+22 partment of agriculture at any time. The department of agriculture is autho-
+23 rized to conduct audits of a person's, corporation's, cooperative's, or com-
+24 pany's payments for milk or cream to determine if such payments comply with
+25 established requirements.
+26 SECTION 2. That Section 37-516, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 37-516. RULES FOR ADMINISTRATION -- "DEPARTMENT" AND "DIRECTOR" DE-
+29 FINED. (1) As used in this chapter:
+30 (a) "Department" means the Idaho state department of agriculture.
+31 (b) "Director" means the director of the department or the director's
+32 authorized designee.
+33 (2) The director of the department of agriculture is empowered to pre-
+34 scribe rules and regulations, subject to legislative approval, in the admin-
+35 istration of this act chapter not inconsistent with its provisions. The term
+36 "department," as used in this act, means the department of agriculture.
+37 SECTION 3. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

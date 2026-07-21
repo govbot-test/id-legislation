@@ -1,0 +1,293 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 519
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3004, IDAHO CODE, TO REVISE A PRO-
+3 VISION REGARDING THE APPLICATION OF THE INTERNAL REVENUE CODE; AMENDING
+4 SECTION 63-3029B, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE IN-
+5 COME TAX CREDIT FOR CAPITAL INVESTMENT; AMENDING SECTION 63-3029G,
+6 IDAHO CODE, TO REVISE PROVISIONS REGARDING CREDITS FOR RESEARCH ACTIV-
+7 ITIES CONDUCTED IN THIS STATE AND CERTAIN CARRYFORWARD PROVISIONS; AND
+8 DECLARING AN EMERGENCY AND PROVIDING RETROACTIVE APPLICATION.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 63-3004, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 63-3004. INTERNAL REVENUE CODE. The term "Internal Revenue Code"
+13 means the Internal Revenue Code as amended and in effect on the first day of
+14 January 2025 2026, except that Internal Revenue Code section 85 is applied
+15 as in effect on January 1, 2020.
+16 SECTION 2. That Section 63-3029B, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 63-3029B. INCOME TAX CREDIT FOR CAPITAL INVESTMENT. (1) At the elec-
+19 tion of the taxpayer, there shall be allowed, subject to the applicable limi-
+20 tations provided herein as a credit against the income tax imposed by chapter
+21 30, title 63, Idaho Code, an amount equal to the sum of:
+22 (a) The tax credit carryovers; and
+23 (b) The tax credit for the taxable year.
+24 (2) The maximum allowable amount of the credit for the current taxable
+25 year shall be three percent (3%) of the amount of qualified investments made
+26 during the taxable year.
+27 (3) As used in this section, "qualified investment" means certain prop-
+28 erty that:
+29 (a)(i) Is eligible for the federal investment tax credit, as de-
+30 fined in sections 46(c) and 48 of the Internal Revenue Code, sub-
+31 ject to the limitations provided for certain regulated companies
+32 in section 46(f) of the Internal Revenue Code, and is not a motor
+33 vehicle under eight thousand (8,000) pounds gross weight; or
+34 (ii) Is qualified broadband equipment, as defined in section
+35 63-3029I, Idaho Code;
+36 (b) Is acquired, constructed, reconstructed, erected or placed into
+37 service after December 31, 1981; and
+38 (c) Has a situs in Idaho, as determined pursuant to subsection (9) of
+39 this section.
+
+2
+1 (4)(a) For qualified investments placed in service in 2003 and there-
+2 after, a taxpayer, other than a person whose rate of charge or rate of
+3 return or both is regulated or limited according to federal or state
+4 law, may elect, in lieu of the credit provided by this section, a two
+5 (2) year exemption from all taxes on personal property on the qualified
+6 investment. The exemption from personal property tax shall apply to the
+7 year the election is filed as provided in this section and the immedi-
+8 ately following year. The election provided by this paragraph is avail-
+9 able only to a taxpayer whose Idaho taxable income, before application
+10 of net operating losses carried back or forward, in the second preceding
+11 taxable year in which the investment is placed in service is negative.
+12 (b) The election shall be made in the form prescribed by the state tax
+13 commission and shall include a specific description and location of
+14 all qualified investments placed into service and located in the ju-
+15 risdiction of the assessing authority, a designation of the specific
+16 assets for which the exemption is claimed, and such other information
+17 as the state tax commission may require. The election must be made
+18 by including the election form with the listing of personal property
+19 required by section 63-302, Idaho Code, or, in the case of operating
+20 property assessed under chapter 4, title 63, Idaho Code, with the op-
+21 erator's statement required by section 63-404, Idaho Code. Once made,
+22 the election is irrevocable. If no election is made, the election is not
+23 otherwise available. A copy of the election form must also be attached
+24 to the original income tax return due for the taxable year in which the
+25 claim was made.
+26 (c) The state tax commission and the various county assessors are au-
+27 thorized to exchange information as necessary to properly coordinate
+28 the exemption provided in this subsection. Information disclosed to
+29 county officials under this subsection may be used only to determine the
+30 validity or amount of a taxpayer's entitlement to the exemption pro-
+31 vided in this section and is not otherwise subject to public disclosure
+32 as provided in section 74-107, Idaho Code.
+33 (d) In the event that an investment in regard to which the election un-
+34 der this subsection was made is determined by the state tax commission:
+35 (i) To not be a qualified investment;
+36 (ii) To have ceased to qualify during the recapture period; or
+37 (iii) To be otherwise not qualified for the election;
+38 the taxpayer shall be subject to recapture of the property tax benefit.
+39 (e) The benefit to be recaptured in paragraph (d) of this subsection
+40 shall be computed in the manner required in subsection (7) of this sec-
+41 tion, and such recapture amount shall be subject to assessment in the
+42 same manner as a deficiency in tax under this chapter. For purposes of
+43 calculating the recapture, the property tax benefit shall be:
+44 (i) In the case of locally assessed property located in a single
+45 county or nonapportioned centrally assessed property, the market
+46 value of exempted property times the average property tax levy
+47 for that county in the year or years for which the exemption was
+48 claimed; or
+49 (ii) In the case of other centrally assessed property and property
+50 located in more than one (1) county, the market value of exempted
+
+3
+1 property times the average urban property tax levy of the state
+2 as determined by the state tax commission in each of the years for
+3 which the exemption was claimed.
+4 (f) In the event that a recapture of the exemption is required under
+5 this subsection, the person claiming the exemption shall report the
+6 event to the state tax commission in the manner the state tax commission
+7 may by rule require. The report shall be due no later than the due date
+8 of that person's income tax return under this chapter for the taxable
+9 year in which the event occurs. The recapture amount is due and payable
+10 with the report. Any amount of recapture not paid is a deficiency within
+11 the meaning of section 63-3044, Idaho Code.
+12 (g) All moneys collected by the state tax commission pursuant to this
+13 subsection, which amounts are continuously appropriated for this pur-
+14 pose, shall be deposited with the state treasurer and placed in the
+15 state refund account, as provided by section 63-3067, Idaho Code, to be
+16 remitted to the county within which the property was located that was
+17 not a qualified investment or ceased to qualify during the recapture
+18 period. The county shall distribute this remittance to all appropriate
+19 taxing districts based on the proportion each appropriate taxing dis-
+20 trict's levy is to the total of all the levies of the taxing districts
+21 for the tax code area where the property was located for each year the
+22 exemption was granted. If any taxing district is dissolved or disincor-
+23 porated, the proportionate share of the remittance to be distributed to
+24 that taxing district shall be deposited in the county current expense
+25 fund.
+26 (h) For purposes of the limitation provided by section 63-802, Idaho
+27 Code, moneys received pursuant to this subsection shall be treated as
+28 property tax revenue by taxing districts.
+29 (5) Notwithstanding the provisions of subsections (1) and (2) of this
+30 section, the amount of the credit allowed shall not exceed fifty percent
+31 (50%) of the tax liability of the taxpayer. The tax liability of the taxpayer
+32 shall be the tax after deducting the credit allowed by section 63-3029, Idaho
+33 Code.
+34 (6) If the sum of credit carryovers from the credit allowed by subsec-
+35 tion (2) of this section and the amount of credit for the taxable year from
+36 the credit allowed by subsection (2) of this section exceed the limitation
+37 imposed by subsection (5) of this section for the current taxable year, the
+38 excess attributable to the current taxable year's credit shall be an invest-
+39 ment credit carryover to the fourteen (14) succeeding taxable years as long
+40 as the qualified investment property for which the unused credit was granted
+41 otherwise remains a qualified investment as determined under subsection (3)
+42 of this section in each of the taxable years during the recapture period.
+43 In the case of a group of corporations filing a combined report under sec-
+44 tion 63-3027, Idaho Code, or sections 63-3027B through 63-3027E, Idaho Code,
+45 credit earned by one (1) member of the group but not used by that member may
+46 be used by another member of the group, subject to the provisions of subsec-
+47 tion (5) of this section, instead of carried over. The entire amount of un-
+48 used credit shall be carried forward to the earliest of the succeeding years,
+49 wherein the oldest available unused credit shall be used first. For a com-
+50 bined group of corporations, credit carried forward may be claimed by any
+
+4
+1 member of the group, unless the member who earned the credit is no longer in-
+2 cluded in the combined group.
+3 (7) Any recapture of the credit allowed by subsection (2) of this sec-
+4 tion on property disposed of or ceasing to qualify, prior to the close of
+5 the recapture period, shall be determined according to the applicable recap-
+6 ture provisions of the Internal Revenue Code. In the case of a unitary group
+7 of corporations, the increase in tax due to the recapture of investment tax
+8 credit must be reported by the member of the group who earned the credit re-
+9 gardless of which member claimed the credit against tax.
+10 (8) For the purpose of determining whether property placed in service
+11 is a "qualified investment" as defined in subsection (3) of this section, the
+12 provisions of section 49 of the Internal Revenue Code shall be disregarded.
+13 "Qualified investment" shall not include any amount for which a deduction is
+14 allowed under section 168(k) or section 179 of the Internal Revenue Code in
+15 computing Idaho taxable income.
+16 (9) For purposes of this section, property has a situs in Idaho during a
+17 taxable year if it is used in Idaho at any time during the taxable year. Prop-
+18 erty not used in Idaho during a taxable year does not have a situs in Idaho
+19 in the taxable year during which the property is not used in Idaho or in any
+20 subsequent taxable year. The Idaho situs of property must be established by
+21 records maintained by the taxpayer that are created reasonably contempora-
+22 neously with the use of the property.
+23 (10) In the case of property used both in and outside Idaho, the taxpayer
+24 electing to claim the credit provided in this section must elect to compute
+25 the qualified investment in property with a situs in Idaho for all such in-
+26 vestments first qualifying during that year in one (1), but only one (1), of
+27 the following ways:
+28 (a) The amount of each qualified investment in a specific asset shall
+29 be separately computed based on the percentage of the actual use of the
+30 property in Idaho by using a measure of the use, such as total miles or
+31 total machine hours, that most accurately reflects the beneficial use
+32 during the taxable year in which it is first acquired, constructed,
+33 reconstructed, erected, or placed into service; provided that the as-
+34 set is placed in service more than ninety (90) days before the end of
+35 the taxable year. In the case of assets acquired, constructed, recon-
+36 structed, erected, or placed into service within ninety (90) days prior
+37 to the end of the taxable year in which the investment first qualifies,
+38 the measure of the use of that asset within Idaho for that year shall be
+39 based on the percentage of use in Idaho during the first ninety (90) days
+40 of use of the asset; or
+41 (b) The investment in qualified property used both inside and out-
+42 side Idaho during the taxable year in which it is first acquired,
+43 constructed, reconstructed, erected, or placed into service shall be
+44 multiplied by the percent of the investment that would be included in
+45 the numerator of the Idaho property factor determined pursuant to sec-
+46 tion 63-3027, Idaho Code, for the same year; provided that the asset is
+47 placed in service more than ninety (90) days before the end of the tax-
+48 able year. In the case of assets acquired, constructed, reconstructed,
+49 erected, or placed into service within ninety (90) days prior to the end
+50 of the taxable year in which the investment first qualifies, the invest-
+
+5
+1 ment in qualified property used both inside and outside Idaho shall be
+2 multiplied by the percent of the investment that would be included in
+3 the numerator of the Idaho property factor determined pursuant to sec-
+4 tion 63-3027, Idaho Code, during the first ninety (90) days of use of the
+5 asset.
+6 (11) Any amounts claimed by a taxpayer as a deduction pursuant to sec-
+7 tion 174 of the Internal Revenue Code that constitute qualified investments,
+8 as defined in subsection (3) of this section, shall not be eligible for the
+9 credit provided in this section.
+10 (11) (12) References to sections 46, 48 and 49 of the Internal Revenue
+11 Code mean those sections as they existed in the Internal Revenue Code of 1986
+12 prior to November 5, 1990.
+13 SECTION 3. That Section 63-3029G, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 63-3029G. CREDITS FOR RESEARCH ACTIVITIES CONDUCTED IN THIS STATE --
+16 CARRYFORWARD.
+17 (1)(a) Subject to the limitations of this section, there shall be al-
+18 lowed to a taxpayer a nonrefundable credit against taxes imposed by sec-
+19 tions 63-3024, 63-3025, and 63-3025A, Idaho Code, for increasing re-
+20 search activities in Idaho.
+21 (b) The credit allowed by paragraph (a) of this subsection shall be the
+22 sum of:
+23 (i) Five percent (5%) of the excess of qualified research expenses
+24 for research conducted in Idaho over the base amount; and
+25 (ii) Five percent (5%) basic research payments allowable under
+26 section 41(e) of the Internal Revenue Code for basic research con-
+27 ducted in Idaho.
+28 (c) The credit allowed by paragraph (a) of this subsection shall be com-
+29 puted without regard to the calculation of the alternative incremental
+30 credit provided for in section 41(c)(4) of the Internal Revenue Code or
+31 the alternative simplified credit provided for in section 41(c)(5) of
+32 the Internal Revenue Code.
+33 (2) As used in this section:
+34 (a) The terms "qualified research expenses," "qualified research,"
+35 "basic research payments" and "basic research" shall be as defined in
+36 section 41 of the Internal Revenue Code, except that the research must
+37 be conducted in Idaho.
+38 (b) The term "base amount" shall mean an amount calculated as provided
+39 in section 41(c) and (h) of the Internal Revenue Code, except that:
+40 (i) A taxpayer's gross receipts include only those gross receipts
+41 attributable to sources within this state as provided in subsec-
+42 tions (12) and (13) of section 63-3027, Idaho Code; and
+43 (ii) Notwithstanding section 41(c) of the Internal Revenue Code,
+44 for purposes of calculating the base amount, a taxpayer:
+45 (A) May elect to be treated as a start-up company as provided
+46 in section 41(c)(3)(B) of the Internal Revenue Code, regard-
+47 less of whether the taxpayer meets the requirements of sec-
+48 tion 41(c)(3)(B)(i)(I) or (II) of the Internal Revenue Code;
+49 and
+
+6
+1 (B) May not revoke an election to be treated as a start-up
+2 company.
+3 (3) The credit allowed by subsection (1)(a) of this section together
+4 with any credits carried forward under subsection (5) of this section
+5 shall not exceed the amount of tax due under sections 63-3024, 63-3025, and
+6 63-3025A, Idaho Code, after allowance for all other credits permitted by
+7 this chapter. When credits earned in more than one (1) taxable year are
+8 available, the oldest credits shall be applied first.
+9 (4) In the case of a group of corporations filing a combined report
+10 under section 63-3027(22), Idaho Code, credit earned by one (1) member of
+11 the group but not used by that member may be used by another member of the
+12 group. For a combined group of corporations, any member of the group may
+13 claim credit carried forward unless the member who earned the credit is no
+14 longer included in the combined group.
+15 (5) The credit allowed by subsection (1)(a) of this section shall be
+16 claimed for the taxable year during which the taxpayer qualifies for the
+17 credit. If the credit exceeds the limitation under subsection (3) of this
+18 section, the excess amount may be carried forward for a period that does
+19 not exceed the next fourteen (14) taxable years. Any amounts claimed by a
+20 taxpayer as a deduction pursuant to section 174 of the Internal Revenue Code
+21 that constitute qualified research expenses, qualified research, basic re-
+22 search payments, or basic research, as those terms are defined in subsection
+23 (2) of this section, shall not be eligible for the credit provided in this
+24 section.
+25 (6) In addition to other needed rules, the state tax commission may
+26 promulgate rules prescribing, in the case of S corporations, partnerships,
+27 trusts, or estates, a method of attributing the credit under this section to
+28 the shareholders, partners, or beneficiaries in proportion to their share of
+29 the income from the S corporation, partnership, trust, or estate.
+30 SECTION 4. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after its
+32 passage and approval, and retroactively to January 1, 2025.

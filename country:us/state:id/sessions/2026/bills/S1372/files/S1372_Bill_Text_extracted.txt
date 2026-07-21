@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1372
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 1, TITLE 33, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW SECTION 33-144, IDAHO CODE, TO ESTABLISH THE IDAHO EDUCA-
+4 TION WHISTLEBLOWER PROTECTION ACT; AND DECLARING AN EMERGENCY AND PRO-
+5 VIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 1, Title 33, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 33-144, Idaho Code, and to read as follows:
+10 33-144. IDAHO EDUCATION WHISTLEBLOWER PROTECTION ACT. (1) The legis-
+11 lature recognizes that fear of retaliation discourages reporting of miscon-
+12 duct and that strong protections are necessary to safeguard students.
+13 (2) For the purposes of this section:
+14 (a) "Educational entity" means any public school district, public
+15 charter school, private school, the state department of education,
+16 or any other entity that provides K-12 education and receives public
+17 funds.
+18 (b) "Protected activity" means any of the following actions taken in
+19 good faith:
+20 (i) Reporting or attempting to report to law enforcement sexual
+21 misconduct or a violation of a law, rule, policy, or professional
+22 standard related to student safety;
+23 (ii) Participating in, cooperating with, or providing informa-
+24 tion in an investigation, proceeding, or hearing pertaining to al-
+25 leged sexual misconduct or a violation of a law, rule, policy, or
+26 professional standard related to student safety; or
+27 (iii) Refusing to participate in the concealment of such miscon-
+28 duct.
+29 (c) "Retaliation" means any adverse employment or contractual action
+30 taken against a whistleblower because of protected activity, including
+31 termination, demotion, contract nonrenewal, reassignment, suspension,
+32 harassment, reduction in pay or hours, or any other action that would
+33 dissuade a reasonable person from reporting misconduct.
+34 (d) "Whistleblower" means any employee, applicant, or school personnel
+35 who reports or assists in reporting, in good faith, sexual misconduct or
+36 a violation of a law, rule, policy, or professional standard related to
+37 student safety.
+38 (3) An educational entity shall not retaliate against a whistleblower
+39 for reporting misconduct, participating in investigations, or refusing to
+40 conceal misconduct.
+
+2
+1 (4) Adverse employment action taken within six (6) weeks of protected
+2 activity is presumed to be retaliation unless proven otherwise by clear and
+3 convincing evidence.
+4 (5) A whistleblower who experiences retaliation in violation of this
+5 section may bring a civil action in a court of competent jurisdiction against
+6 an educational entity and shall be entitled to monetary damages and attor-
+7 ney's fees.
+8 (6) The provisions of this section shall apply to whistleblower pro-
+9 tected activity taken on and after July 1, 2026.
+10 SECTION 2. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2026.

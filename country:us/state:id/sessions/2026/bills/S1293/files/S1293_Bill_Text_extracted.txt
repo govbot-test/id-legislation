@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1293
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC BENEFITS; AMENDING SECTION 67-7903, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING EXCEPTIONS TO VERIFICATION OF LAWFUL PRESENCE FOR
+4 PUBLIC BENEFITS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+5 DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 67-7903, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 67-7903. VERIFICATION OF LAWFUL PRESENCE -- EXCEPTIONS -- REPORT-
+10 ING. (1) Except as otherwise provided in subsection (3) of this section, each
+11 agency or political subdivision of this state shall verify the lawful pres-
+12 ence in the United States of each natural person eighteen (18) years of age
+13 or older who applies for state or local public benefits or for federal public
+14 benefits for the applicant.
+15 (2) This section shall be enforced without regard to race, religion,
+16 gender, ethnicity or national origin.
+17 (3) Verification of lawful presence in the United States shall not be
+18 required:
+19 (a) For obtaining health care items and services that are necessary for
+20 the treatment of an emergency medical condition of the person involved
+21 and that are not related to an organ transplant procedure;
+22 (b) For short-term, noncash, in-kind emergency disaster relief; or
+23 (c) For programs, services, or assistance at short-term shelters that:
+24 (i) Deliver in-kind services at the community level, including
+25 services through public or private nonprofit agencies;
+26 (ii) Do not condition the provision of assistance, the amount of
+27 assistance provided, or the cost of assistance provided on the in-
+28 dividual recipient's income or resources; and
+29 (iii) Are necessary for the protection of life or public safety.;
+30 or
+31 (d) To apply for or receive crime victims compensation pursuant to
+32 chapter 10, title 72, Idaho Code.
+33 (4) An agency or a political subdivision shall verify the lawful pres-
+34 ence in the United States of each applicant eighteen (18) years of age or
+35 older for federal public benefits or state or local public benefits by:
+36 (a) Employing electronic means to verify an applicant is legally
+37 present in the United States; or
+38 (b) Requiring the applicant to provide:
+39 (i) An Idaho driver's license or an Idaho identification card
+40 issued pursuant to section 49-2444, Idaho Code;
+41 (ii) A valid driver's license or similar document issued for the
+42 purpose of identification by another state or territory of the
+
+2
+1 United States, if such license or document contains a photograph
+2 of the individual or such other personal identifying information
+3 relating to the individual that the director of the department of
+4 health and welfare or, with regard to unemployment compensation
+5 benefits, the director of the department of labor finds, by rule,
+6 sufficient for purposes of this section;
+7 (iii) A United States military card or a military dependent's
+8 identification card;
+9 (iv) A United States coast guard merchant mariner card;
+10 (v) A native American tribal document;
+11 (vi) A copy of an executive office of immigration review, immi-
+12 gration judge or board of immigration appeals decision, granting
+13 asylee status;
+14 (vii) A copy of an executive office of immigration review, immi-
+15 gration judge or board of immigration appeals decision, indicat-
+16 ing that the individual may lawfully remain in the United States;
+17 (viii) Any United States citizenship and immigration service-is-
+18 sued document showing refugee or asylee status or that the indi-
+19 vidual may lawfully remain in the United States;
+20 (ix) Any department of state or customs and border protection-is-
+21 sued document showing the individual has been permitted entry into
+22 the United States on the basis of refugee or asylee status or on any
+23 other basis that permits the individual to lawfully enter and re-
+24 main in the United States; or
+25 (x) A valid United States passport; and
+26 (c) Requiring the applicant to provide a valid social security number
+27 that has been assigned to the applicant; and
+28 (d) Requiring the applicant to attest, under penalty of perjury and on
+29 a form designated or established by the agency or the political subdivi-
+30 sion, that:
+31 (i) The applicant is a United States citizen or legal permanent
+32 resident; or
+33 (ii) The applicant is otherwise lawfully present in the United
+34 States pursuant to federal law.
+35 (5) Notwithstanding the requirements of subsection (4)(b) of this sec-
+36 tion, the agency or political subdivision may establish by appropriate legal
+37 procedure such rules or regulations to ensure that certain individuals law-
+38 fully present in the United States receive authorized benefits including,
+39 but not limited to, homeless state citizens.
+40 (6) For an applicant who has attested pursuant to subsection (4)(d) of
+41 this section stating that the applicant is an alien lawfully present in the
+42 United States, verification of lawful presence for federal public benefits
+43 or state or local public benefits shall be made through the federal system-
+44 atic alien verification of entitlement program, which may be referred to as
+45 the "SAVE" program, operated by the United States department of homeland se-
+46 curity or a successor program designated by the United States department of
+47 homeland security. Until such verification of lawful presence is made, the
+48 attestation may be presumed to be proof of lawful presence for purposes of
+49 this section.
+
+3
+1 (a) Errors and significant delays by the SAVE program shall be reported
+2 to the United States department of homeland security to ensure that the
+3 application of the SAVE program is not wrongfully denying benefits to
+4 legal residents of this state.
+5 (b) Agencies or political subdivisions may adopt variations of the re-
+6 quirements of subsection (4)(d) of this section to improve efficiency
+7 or reduce delay in the verification process or to provide for adjudica-
+8 tion of unique individual circumstances in which the verification pro-
+9 cedures in this section would impose unusual hardship on a legal resi-
+10 dent of this state; except that the variations shall be no less strin-
+11 gent than the requirements of subsection (4)(d) of this section.
+12 (c) A person who knowingly makes a false, fictitious or fraudulent
+13 statement or representation in an attestation executed pursuant to
+14 subsection (4)(d) or (6)(b) of this section or who knowingly provides
+15 a social security number that has not been assigned to him pursuant to
+16 subsection (4)(c) of this section shall be:
+17 (i) Guilty of a misdemeanor for the first and second offense; and
+18 (ii) Guilty of a felony for each subsequent offense.
+19 (7) An agency or political subdivision may accept as prima facie evi-
+20 dence of an applicant's lawful presence in the United States the information
+21 required in subsection (4) of this section, as may be modified by subsection
+22 (5) of this section, when issuing a professional license or a commercial li-
+23 cense.
+24 SECTION 2. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

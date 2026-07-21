@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 735
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING CHAPTER 66, TITLE 67, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 67-6628B, IDAHO CODE, TO PROVIDE CERTAIN
+4 REQUIREMENTS FOR PERSONS ENGAGED IN PAID IN-PERSON CANVASSING ACTIV-
+5 ITIES; AMENDING SECTION 67-6625, IDAHO CODE, TO PROVIDE A CODE REFER-
+6 ENCE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 66, Title 67, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 67-6628B, Idaho Code, and to read as follows:
+11 67-6628B. PAID IN-PERSON CANVASSING ACTIVITIES -- DISCLOSURES. (1)
+12 For the purposes of this section:
+13 (a) "Paid in-person canvassing activities" means canvassing activ-
+14 ities performed by an individual who accepts financial compensation
+15 for the purpose of influencing how a person votes, including but not
+16 limited to soliciting personal residences or public locations to commu-
+17 nicate with or distribute materials to possible voters about political
+18 candidates or ballot measures; conducting in-person get-out-the-vote
+19 efforts in relation to any candidate or ballot measure; and any other
+20 direct, in-person contact or interaction intended to affect an individ-
+21 ual's electoral participation or preferences.
+22 (b) "Phone banking activities" means any organized outreach activity
+23 in which telephone calls are made to Idaho qualified electors for the
+24 purpose of persuading such electors to vote or to vote in a particular
+25 manner, providing information to such electors regarding an election or
+26 voting, or mobilizing such electors to vote.
+27 (2) Persons who engage in any paid in-person canvassing activities
+28 shall:
+29 (a) Meet all of the qualifications of a qualified elector, as defined
+30 in section 34-104, Idaho Code, except that a person under eighteen (18)
+31 years of age shall only be required to have resided in this state for at
+32 least thirty (30) days; and
+33 (b) Verbally notify any person with whom they communicate that they are
+34 being compensated to perform paid in-person canvassing activities and
+35 provide the name of the person or entity providing payment for such paid
+36 in-person canvassing activities.
+37 (3) At all times while engaging in paid in-person canvassing activi-
+38 ties, such persons shall wear a badge that is clearly visible to any person
+39 with whom they intend to communicate with that contains the words "paid po-
+40 litical advocate."
+41 (4) The Idaho secretary of state shall promulgate rules to implement
+42 the provisions of this section, which shall include specifications regard-
+
+2
+1 ing font, shape, color, and size requirements for the badge required pur-
+2 suant to subsection (3) of this section.
+3 (5) The provisions of this section shall not apply to:
+4 (a) Volunteers acting without compensation or reimbursement beyond in-
+5 cidental expenses;
+6 (b) Individuals whose paid in-person canvassing activities are inci-
+7 dental to broader campaign employment responsibilities;
+8 (c) Phone banking activities; or
+9 (d) Candidates engaged in in-person canvassing activities for their
+10 own election campaign.
+11 (6) The Idaho secretary of state shall establish a system on its website
+12 to receive complaints for alleged violations of the provisions of this sec-
+13 tion and shall investigate such complaints. If the secretary of state deter-
+14 mines that a violation of this section has occurred, the secretary of state
+15 shall refer the matter to the attorney general or the appropriate prosecut-
+16 ing attorney for enforcement pursuant to section 67-6625, Idaho Code.
+17 SECTION 2. That Section 67-6625, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 67-6625. VIOLATIONS -- CIVIL FINE -- MISDEMEANOR PENALTY -- PROSECU-
+20 TION -- LIMITATION -- VENUE. (1) Any person who violates the provisions of
+21 sections 67-6603, 67-6604, 67-6606 through 67-6614A, 67-6624, 67-6627 or,
+22 67-6628, or 67-6628B, Idaho Code, shall be liable for a civil fine not to ex-
+23 ceed two hundred fifty dollars ($250) if an individual, and not more than two
+24 thousand five hundred dollars ($2,500) if a person other than an individual.
+25 The burden of proof for such civil liability shall be met by showing a prepon-
+26 derance of the evidence.
+27 (2) Any person who violates section 67-6605, Idaho Code, and any per-
+28 son who knowingly and willfully violates sections 67-6603 through 67-6614A,
+29 67-6624, 67-6627 or, 67-6628, or 67-6628B, Idaho Code, is guilty of a misde-
+30 meanor and, upon conviction, in addition to the fines set forth in subsection
+31 (1) of this section, may be imprisoned for not more than six (6) months or be
+32 both fined and imprisoned.
+33 (3) The attorney general or the appropriate prosecuting attorney may
+34 prosecute any violations of this chapter.
+35 (4) Prosecution for a civil or misdemeanor violation of this chapter
+36 must be commenced within two (2) years after the date on which the violation
+37 occurred. Prosecution for a felony violation of this chapter must be com-
+38 menced pursuant to the provisions of section 19-402, Idaho Code.
+39 (5) Venue for prosecution under the provisions of this chapter shall be
+40 in the county of residence of the defendant if the defendant is a resident of
+41 the state of Idaho, otherwise venue shall be in Ada county.
+42 SECTION 3. An emergency existing therefor, which emergency is hereby
+43 declared to exist, this act shall be in full force and effect on and after
+44 July 1, 2026.

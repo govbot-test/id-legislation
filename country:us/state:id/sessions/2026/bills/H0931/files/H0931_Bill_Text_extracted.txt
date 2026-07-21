@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 931
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO THE PORTABLE BENEFIT PLAN ACT; AMENDING SECTION 44-2802, IDAHO
+3 CODE, AS ADDED IN SECTION 1 OF HOUSE BILL NO. 645, IF ENACTED BY THE SEC-
+4 OND REGULAR SESSION OF THE SIXTY-EIGHTH IDAHO LEGISLATURE, TO REMOVE A
+5 DEFINITION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Sections 44-2802, Idaho Code, as added in Section 1 of
+8 House Bill No. 645, if enacted by the Second Regular Session of the Sixty-
+9 eighth Idaho Legislature, be, and the same is hereby amended to read as fol-
+10 lows:
+11 44-2802. DEFINITIONS. For the purposes of this chapter:
+12 (1) "Bank" means a state bank, national bank, credit union, out-of-
+13 state state-chartered bank, or foreign bank organized under the laws of a
+14 territory of the United States, the Commonwealth of Puerto Rico, Guam, Amer-
+15 ican Samoa, the United States Virgin Islands, or Greenland with deposits
+16 insured by the federal deposit insurance corporation.
+17 (2) "Department" means the Idaho department of insurance.
+18 (3) (2) "Hiring party" means a person or entity who hires or enters into
+19 a contract with an independent contractor.
+20 (4) (3) "Independent contractor" means any person who renders service
+21 for a specified recompense for a specified result, under the right to control
+22 or actual control of the independent contractor's principal as to the result
+23 of the independent contractor's work only and not as to the means by which
+24 such result is accomplished.
+25 (5) (4) "Portable benefit account" means an account owned by an inde-
+26 pendent contractor to fund the purchase of one (1) or more benefit plans.
+27 (6) (5) "Portable benefit account provider" means the administrator of
+28 a portable benefit account and includes:
+29 (a) A bank;
+30 (b) An investment management firm;
+31 (c) A technology provider or program manager that offers services
+32 through a bank or investment management firm; or
+33 (d) Any other person who demonstrates to the satisfaction of the
+34 department that the manner in which the person will administer the
+35 portable benefit account will be consistent with the portable benefit
+36 account requirements under this chapter.
+37 (7) (6) "Portable benefit plan" means a benefit plan:
+38 (a) Administered by a third party benefit plan provider chosen by an in-
+39 dependent contractor and assigned to a beneficiary rather than to a hir-
+40 ing party; and
+41 (b) Includes but is not limited to:
+42 (i) Disability insurance;
+
+2
+1 (ii) Health insurance;
+2 (iii) Income replacement insurance;
+3 (iv) Life insurance;
+4 (v) Retirement benefits; or
+5 (vi) Unemployment insurance.
+6 SECTION 2. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2026.

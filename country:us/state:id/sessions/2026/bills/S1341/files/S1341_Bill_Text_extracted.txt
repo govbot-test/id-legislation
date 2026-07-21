@@ -1,0 +1,1821 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1341
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO CAMPAIGN FINANCE; AMENDING TITLE 74, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW CHAPTER 3, TITLE 74, IDAHO CODE, TO PROVIDE A CHAPTER
+4 HEADING; AMENDING CHAPTER 3, TITLE 74, IDAHO CODE, BY THE ADDITION OF A
+5 NEW PART 1, CHAPTER 3, TITLE 74, IDAHO CODE, TO PROVIDE FOR THE PURPOSE
+6 OF THE CHAPTER, TO DEFINE TERMS, TO PROHIBIT FOREIGN CONTRIBUTIONS,
+7 FOREIGN INDEPENDENT EXPENDITURES, AND FOREIGN ELECTIONEERING COMMU-
+8 NICATIONS, TO PROVIDE FOR COMMERCIAL RECORDKEEPING, TO PROVIDE THAT
+9 CERTAIN REPORTS BE CERTIFIED BY THE SECRETARY OF STATE, TO PROVIDE FOR
+10 THE IDENTIFICATION OF THE SOURCE OF CONTRIBUTIONS AND EXPENDITURES, AND
+11 TO PROVIDE THAT POLLS CONCERNING A CANDIDATE OR MEASURE MUST IDENTIFY
+12 THE PERSON OR ENTITY PAYING FOR THE POLL; AMENDING CHAPTER 3, TITLE 74,
+13 IDAHO CODE, BY THE ADDITION OF A NEW PART 2, CHAPTER 3, TITLE 74, IDAHO
+14 CODE, TO ESTABLISH PROVISIONS REGARDING CANDIDATES AND A CAMPAIGN FI-
+15 NANCE ACCOUNT, TO PROVIDE FOR THE APPOINTMENT OF A POLITICAL TREASURER
+16 FOR CANDIDATES, TO PROVIDE FOR THE DUTIES OF A POLITICAL TREASURER FOR
+17 CANDIDATES, TO PROVIDE FOR THE IDENTIFICATION OF THE SOURCE OF CONTRI-
+18 BUTIONS AND EXPENDITURES BY CANDIDATES, TO PROVIDE FOR REPORTS OF CON-
+19 TRIBUTIONS TO AND EXPENDITURES BY CANDIDATES, TO PROVIDE LIMITATIONS
+20 ON CONTRIBUTIONS TO CANDIDATES, TO PROHIBIT CANDIDATE COORDINATION TO
+21 BENEFIT FROM AN INDEPENDENT EXPENDITURE, TO PROVIDE FOR THE RETIRING
+22 OF DEBT, TO PROVIDE FOR THE USE OF CONTRIBUTED AMOUNTS FOR CERTAIN PUR-
+23 POSES, AND TO PROVIDE FOR THE USE OF SYNTHETIC MEDIA; AMENDING CHAPTER
+24 3, TITLE 74, IDAHO CODE, BY THE ADDITION OF A NEW PART 3, CHAPTER 3, TITLE
+25 74, IDAHO CODE, TO PROVIDE FOR POLITICAL ACTION COMMITTEE ORGANIZATION,
+26 TO PROVIDE FOR THE APPOINTMENT OF A POLITICAL TREASURER FOR POLITICAL
+27 ACTION COMMITTEES, TO PROVIDE FOR THE DUTIES OF A POLITICAL TREASURER
+28 FOR POLITICAL ACTION COMMITTEES, TO PROVIDE FOR CONTRIBUTIONS OBTAINED
+29 BY POLITICAL ACTION COMMITTEES, TO PROVIDE FOR THE USE OF CONTRIBUTED
+30 AMOUNTS FOR CERTAIN PURPOSES, TO PROVIDE FOR REPORTS OF CONTRIBUTIONS
+31 TO AND EXPENDITURES BY POLITICAL ACTION COMMITTEES, TO PROHIBIT PO-
+32 LITICAL ACTION COMMITTEE COORDINATION WITH A CANDIDATE, TO PROVIDE
+33 FOR CERTAIN REPORTS FOR ELECTIONEERING COMMUNICATIONS, TO PROVIDE FOR
+34 REPORTS OF INDEPENDENT EXPENDITURES BY POLITICAL ACTION COMMITTEES,
+35 AND TO PROVIDE FOR REPORTS OF MEASURE EXPENDITURES BY POLITICAL ACTION
+36 COMMITTEES; AMENDING CHAPTER 3, TITLE 74, IDAHO CODE, BY THE ADDITION
+37 OF A NEW PART 4, CHAPTER 3, TITLE 74, IDAHO CODE, TO PROVIDE LEGISLATIVE
+38 INTENT, TO PROVIDE FOR CONTRIBUTIONS, REPORTS, AND LIMITS FOR POLITICAL
+39 PARTY COMMITTEES AND CAUCUSES, TO PROVIDE FOR CERTAIN REPORTS FOR ELEC-
+40 TIONEERING COMMUNICATIONS, TO PROVIDE FOR INDEPENDENT EXPENDITURES,
+41 AND TO PROVIDE FOR MEASURE EXPENDITURES; AMENDING CHAPTER 3, TITLE 74,
+42 IDAHO CODE, BY THE ADDITION OF A NEW PART 5, CHAPTER 3, TITLE 74, IDAHO
+43 CODE, TO PROVIDE FOR THE DUTIES OF THE SECRETARY OF STATE, TO PROVIDE
+44 FOR THE DUTIES OF COUNTY CLERKS AND PROSECUTORS, TO PROVIDE FOR VIOLA-
+45 TIONS AND FINES, TO PROVIDE FOR LATE FILINGS AND FEES, TO PROVIDE FOR
+
+2
+1 OTHER VIOLATIONS, TO PROVIDE FOR THE ENFORCEMENT OF CIVIL FINES AND LATE
+2 FEES, TO PROVIDE FOR PROSECUTION, LIMITATIONS, AND VENUE, TO PROVIDE
+3 FOR INJUNCTIONS, TO PROVIDE SEVERABILITY, AND TO PROVIDE FOR CONSTRUC-
+4 TION; AMENDING CHAPTER 18, TITLE 34, IDAHO CODE, BY THE ADDITION OF A NEW
+5 SECTION 34-1807A, IDAHO CODE, TO PROVIDE FOR THE DISCLOSURE OF PAYMENTS
+6 MADE TO SIGNATURE GATHERERS; AMENDING SECTION 19-5904, IDAHO CODE, TO
+7 PROVIDE A CORRECT CODE REFERENCE; AMENDING SECTION 19-6004, IDAHO CODE,
+8 TO PROVIDE A CORRECT CODE REFERENCE; AMENDING SECTION 44-2602, IDAHO
+9 CODE, TO PROVIDE CORRECT CODE REFERENCES; AMENDING SECTION 44-2605,
+10 IDAHO CODE, TO PROVIDE CORRECT CODE REFERENCES; AMENDING SECTION
+11 50-2006, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AMENDING SEC-
+12 TION 67-5282, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AMENDING
+13 SECTION 72-1503, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; RE-
+14 PEALING CHAPTER 66, TITLE 67, IDAHO CODE, RELATING TO ELECTION CAMPAIGN
+15 CONTRIBUTIONS AND EXPENDITURES; PROVIDING APPLICABILITY; AND DECLAR-
+16 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+17 Be It Enacted by the Legislature of the State of Idaho:
+18 SECTION 1. That Title 74, Idaho Code, be, and the same is hereby amended
+19 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+20 ter 3, Title 74, Idaho Code, and to read as follows:
+21 CHAPTER 3
+22 CAMPAIGN FINANCE TRANSPARENCY
+23 SECTION 2. That Chapter 3, Title 74, Idaho Code, be, and the same is
+24 hereby amended by the addition thereto of a NEW PART, to be known and desig-
+25 nated as Part 1, Chapter 3, Title 74, Idaho Code, and to read as follows:
+26 PART 1
+27 PROVISIONS OF GENERAL APPLICATION
+28 74-3-101. PURPOSE OF CHAPTER. The purpose of this chapter is:
+29 (1) To promote openness and public confidence in government; and
+30 (2) To promote transparency by those giving financial support to elec-
+31 tion campaigns and to persons advocating for or against candidates or ballot
+32 measures.
+33 74-3-102. DEFINITIONS. As used in this chapter, the following terms
+34 have the following meanings:
+35 (1) "Candidate" means an individual who seeks nomination, election,
+36 or reelection to public office in Idaho and includes individuals seeking
+37 statewide, judicial, legislative, or local government office. For the
+38 purposes of this chapter, "candidate" does not include individuals seek-
+39 ing nomination, election, or reelection to federal office or the office of
+40 precinct committeeman.
+41 (2) "Contribution" includes any advance, conveyance, forgiveness of
+42 indebtedness, deposit, distribution, loan, gift, pledge, subscription, or
+43 transfer of money or anything of value, any contract, agreement, and promise
+44 or other obligation, whether or not legally enforceable, and any payment,
+
+3
+1 whether by cash, check, or electronic transfer, to make a contribution in
+2 support of or in opposition to any candidate, political action committee,
+3 or measure. Such term also includes personal funds or other property of a
+4 candidate or members of his household expended or transferred to cover ex-
+5 penditures incurred in support of such candidate but does not include per-
+6 sonal funds used to pay the candidate filing fee. Such term also includes
+7 the rendering of personal and professional services for less than full con-
+8 sideration but does not include ordinary home hospitality or the rendering
+9 of part-time services of the sort commonly performed by volunteer campaign
+10 workers or advisors or incidental expenses not in excess of twenty-five dol-
+11 lars ($25.00) personally paid for by any volunteer campaign worker. "Part-
+12 time services," for the purposes of this definition, means services in addi-
+13 tion to regular full-time employment, or, in the case of an unemployed person
+14 or persons engaged in part-time employment, services rendered without com-
+15 pensation or reimbursement of expenses from any source other than the candi-
+16 date or political action committee for whom such services are rendered. For
+17 the purposes of this chapter, contributions other than money or its equiva-
+18 lent shall be deemed to have a monetary value equivalent to the fair market
+19 value of the contribution.
+20 (3) "Election" means any state or local general, special, recall, or
+21 primary election.
+22 (4) "Election campaign" means any campaign in support of or in opposi-
+23 tion to a candidate for election to public office and any campaign in support
+24 of or in opposition to a measure.
+25 (5)(a) "Electioneering communication" means any paid public communi-
+26 cation that:
+27 (i) Unambiguously refers to any candidate;
+28 (ii) Is broadcast, printed, mailed, delivered, made, dis-
+29 tributed, or disseminated to a recipient by telephone, in a digi-
+30 tal format online, or by other electronic means during the thirty
+31 (30) day period before a primary election or the sixty (60) day
+32 period before a general election; and
+33 (iii) Is directed to an audience that includes members of the elec-
+34 torate for the candidate's public office.
+35 (b) An electioneering communication does not include:
+36 (i) Any news articles, editorial endorsements, opinion or com-
+37 mentary, writings, or letters to the editor printed in a newspa-
+38 per, magazine, or other periodical not owned or controlled by a
+39 candidate, political action committee, or political party;
+40 (ii) Media appearances by a candidate on television, radio shows,
+41 podcasts, or any other type of digital media not owned or con-
+42 trolled by a candidate, political action committee, or political
+43 party;
+44 (iii) Any editorial endorsements or opinions aired by a broadcast
+45 facility not owned or controlled by a candidate, political action
+46 committee, or political party;
+47 (iv) Any communication by persons made in the regular course and
+48 scope of their business or any communication made by a membership
+49 organization solely to members of such organization and their fam-
+50 ilies;
+
+4
+1 (v) Any communication that refers to any candidate only as part of
+2 the popular name of a bill or statute; or
+3 (vi) A communication that constitutes an expenditure by a candi-
+4 date or political action committee or an independent expenditure
+5 that is otherwise reported under this chapter.
+6 (6) "Employee" means an individual who performs a service for wages or
+7 other compensation from which the individual's employer withholds federal
+8 employment taxes under a contract for hire, written or oral.
+9 (7) "Expenditure" includes any payment, contribution, subscription,
+10 distribution, loan, advance, deposit, or gift of money or anything of value
+11 and includes a contract, promise, or agreement, whether or not legally en-
+12 forceable, to make an expenditure. The term "expenditure" also includes a
+13 promise to pay, a payment or a transfer of anything of value in exchange for
+14 goods, services, property, facilities, or anything of value for the purpose
+15 of assisting, benefiting, or honoring any public official or candidate, or
+16 assisting in furthering or opposing any election campaign. For the purpose
+17 of determining when an expenditure report should be filed under this chap-
+18 ter, an expenditure is made on the day that the communication paid for with
+19 the expenditure is publicly distributed or otherwise viewed by the public or
+20 on the date payment is made, whichever is earlier.
+21 (8)(a) "Independent expenditure" means any expenditure by a person
+22 for a communication expressly advocating the election or defeat of a
+23 clearly identified candidate that is not made in coordination with the
+24 candidate.
+25 (b) As used in this subsection, "expressly advocating" means any com-
+26 munication containing a message advocating the election or defeat of a
+27 candidate by using the name of the candidate and using phrases includ-
+28 ing but not limited to "vote for," "elect," "support," "cast your ballot
+29 for," "vote against," "defeat," or "reject."
+30 (c) For the purpose of determining whether an expenditure is made in
+31 coordination with a candidate or political action committee, the term
+32 "coordination" means and includes but is not limited to an expenditure
+33 made with the cooperation of, with the prior consent or knowledge of, in
+34 consultation with, or at the request or suggestion of, or using nonpub-
+35 lic information obtained from, a candidate or the candidate's agent or
+36 paid or unpaid staff or volunteer, a person acting on behalf of a can-
+37 didate, or a person acting as a conduit for messages to or from a candi-
+38 date's campaign.
+39 (9) "Local government office" means any publicly elected office for any
+40 political subdivision of the state or special district that is not a legisla-
+41 tive, judicial, statewide, or federal office.
+42 (10) "Measure" means any proposal submitted to the people for their ap-
+43 proval or rejection at a statewide or local election, including any initia-
+44 tive, referendum, recall election, or revision of or amendment to the state
+45 constitution. An initiative or referendum proposal shall be deemed a mea-
+46 sure when the attorney general, county prosecutor, or city attorney, as ap-
+47 propriate, reviews it and gives it a ballot title. A recall shall be deemed
+48 a measure upon approval of the recall petition as to form pursuant to section
+49 34-1704, Idaho Code.
+
+5
+1 (11)(a) "Measure expenditure" means any expenditure by a person for a
+2 communication expressly advocating the passage or defeat of a clearly
+3 identified measure.
+4 (b) As used in this subsection, "expressly advocating" means any com-
+5 munication containing a message advocating the passage or defeat of a
+6 measure by using the name of the measure and using phrases including
+7 but not limited to "vote for," "support," "cast your ballot for," "vote
+8 against," "defeat," or "reject."
+9 (12) "Person" means an individual, corporation, association, firm,
+10 partnership, committee, political party, club, or other organization or
+11 group of persons.
+12 (13) "Political action committee" means:
+13 (a) Any person specifically designated to support or oppose any candi-
+14 date or measure; or
+15 (b) Any person who receives contributions and makes expenditures in an
+16 amount exceeding one thousand dollars ($1,000) in any calendar year for
+17 the purpose of supporting or opposing one (1) or more candidates or mea-
+18 sures.
+19 (14) "Political treasurer" means an individual appointed by a candidate
+20 as provided in section 74-3-202, Idaho Code, or by a political action commit-
+21 tee as provided in section 74-3-302, Idaho Code.
+22 (15) "Public office" means any local, legislative, judicial, or state
+23 office or position that is filled by election but does not include the office
+24 of precinct committeeman.
+25 74-3-103. FOREIGN CONTRIBUTIONS, FOREIGN INDEPENDENT EXPENDITURES,
+26 AND FOREIGN ELECTIONEERING COMMUNICATIONS PROHIBITED. (1) A foreign na-
+27 tional shall not make a contribution, directly or indirectly, to any
+28 candidate, political action committee, or measure or make electioneering
+29 communications or independent expenditures.
+30 (2) As used in this section:
+31 (a) "Foreign national" means:
+32 (i) An individual who is not a citizen of the United States and is
+33 not lawfully admitted for permanent residence;
+34 (ii) A government or subdivision of a foreign country;
+35 (iii) A foreign political party; or
+36 (iv) Any entity, such as a partnership, association, corporation,
+37 organization, union, or other combination of persons, that is or-
+38 ganized under the laws of or has its principal place of business in
+39 a foreign country.
+40 (b) "Indirectly" means making a contribution or payment to a person
+41 with a designation, instruction, or encumbrance, whether direct or
+42 indirect, express or implied, oral or written, or involving interme-
+43 diaries or conduits, that results in any part of the contribution or
+44 payment being used for a purpose described in subsection (1) of this
+45 section.
+46 (3) A violation of the provisions of this section shall be prosecuted
+47 and punished as provided in part 5 of this chapter. However, any person who
+48 knowingly and willfully violates the provisions of this section is guilty of
+49 a felony when:
+
+6
+1 (a) The aggregate amount of contributions, independent expenditures,
+2 or cost of electioneering communications made in violation of this sec-
+3 tion exceeds one thousand dollars ($1,000) in a consecutive twelve (12)
+4 month period; or
+5 (b) The person pleads guilty to or is found guilty of a knowing and will-
+6 ful violation of the provisions of this section for a second time within
+7 ten (10) years, notwithstanding the form of the judgment or withheld
+8 judgment.
+9 (4) If any provision of this section or its application to any person or
+10 circumstance is held invalid, the remainder of the section or the applica-
+11 tion of the provision to other persons or circumstances is not affected.
+12 74-3-104. COMMERCIAL RECORDKEEPING. Each newspaper, periodical,
+13 broadcasting station, direct mailing company, printer, and advertising
+14 agency shall keep a current record of any and all obligations incurred by
+15 a candidate or political action committee and payments made by a candidate
+16 or political action committee. Such records shall be made available for
+17 inspection upon request by the secretary of state. Failure to make such
+18 records available shall result in a civil fine not to exceed one thousand
+19 dollars ($1,000).
+20 74-3-105. REPORTS TO BE CERTIFIED. All reports required to be filed
+21 with the secretary of state under this chapter shall be signed and certi-
+22 fied as true and correct by the person required to file the same. Electronic
+23 signatures and certifications shall be governed by the uniform electronic
+24 transactions act, chapter 50, title 28, Idaho Code.
+25 74-3-106. IDENTIFICATION OF SOURCE OF CONTRIBUTIONS AND EXPENDITURES
+26 -- COMMUNICATIONS. (1) No contribution shall be made and no expenditure
+27 shall be incurred, directly or indirectly, in a fictitious name, anony-
+28 mously, or by one (1) person through an agent, relative, or other person in
+29 such a manner as to conceal the identity of the source of the contribution.
+30 (2)(a) To ensure the proper reporting and identification of the source
+31 of expenditures, any public communication made that is reportable as an
+32 expenditure under this chapter shall clearly state: "Paid for by [the
+33 official name of the candidate, political action committee, or fil-
+34 ing entity]" and shall further state the filing entity identification
+35 number, if available, as registered or reported with the secretary of
+36 state.
+37 (b) The provisions of this subsection shall not apply to campaign mate-
+38 rials that are being reused by any candidate who has run for public of-
+39 fice prior to 2026, as long as the person responsible for such communi-
+40 cations is clearly indicated on such communications.
+41 (c) Failure to comply with the provisions of this section shall result
+42 in a civil fine payable to the secretary of state in the amount of fifty
+43 dollars ($50.00) plus five percent (5%) of the monetary value of the ex-
+44 penditure being made, rounded up to the nearest whole number. The sec-
+45 retary of state shall deposit any civil fines collected pursuant to this
+46 section to the general fund.
+
+7
+1 74-3-107. PERSUASIVE POLL CONCERNING CANDIDATE OR MEASURE MUST IDEN-
+2 TIFY PERSON OR ENTITY PAYING FOR POLL. (1) If a person, candidate, politi-
+3 cal party, or political committee requests or compensates a person to con-
+4 duct or cause to be conducted a persuasive poll by telephone concerning a
+5 candidate or to produce automated or computerized messages by telephone to
+6 conduct a persuasive poll concerning a candidate, the person conducting the
+7 poll shall, at the end of the poll, disclose the name and telephone number
+8 of the person, candidate, political party, or political committee that re-
+9 quested or compensated the person for the poll.
+10 (2) As used in this section, "persuasive poll" means the canvassing of
+11 persons, by means other than an established method of scientific sampling,
+12 by asking questions concerning a candidate that are designed to provide in-
+13 formation to advocate for the election, approval, or defeat of a candidate or
+14 measure. The term does not include a poll that is conducted only to measure
+15 the public's opinion about or reaction to an issue, fact, or theme.
+16 (3) A violation of the provisions of this section shall be punishable as
+17 provided in part 5 of this chapter.
+18 SECTION 3. That Chapter 3, Title 74, Idaho Code, be, and the same is
+19 hereby amended by the addition thereto of a NEW PART, to be known and desig-
+20 nated as Part 2, Chapter 3, Title 74, Idaho Code, and to read as follows:
+21 PART 2
+22 CANDIDATES
+23 74-3-201. CANDIDATES FOR PUBLIC OFFICE -- ESTABLISHMENT OF CAMPAIGN
+24 FINANCE ACCOUNT. (1) A candidate shall be subject to the requirements of this
+25 chapter once the candidate has taken any of the following actions:
+26 (a) Announced the individual's candidacy publicly;
+27 (b) Established a campaign finance account with the secretary of
+28 state's office;
+29 (c) Received a contribution for the purpose of promoting the individ-
+30 ual's candidacy for office; or
+31 (d) Made an expenditure, contracted for services, or reserved space
+32 with the intent of promoting the individual's candidacy for office.
+33 (2) For purposes of this chapter, an incumbent shall be presumed to be
+34 a candidate in the subsequent election for the incumbent's office until the
+35 incumbent has failed to file for office by the statutory deadline.
+36 (3) Each candidate shall establish a campaign finance account with the
+37 secretary of state's office as prescribed by the secretary of state. The
+38 candidate shall provide the full name and address of the candidate, the of-
+39 fice being sought by the candidate, and the name and address of the candi-
+40 date's political treasurer.
+41 74-3-202. APPOINTMENT OF POLITICAL TREASURER FOR CANDIDATE. (1) Each
+42 candidate shall appoint a political treasurer who is a registered elector of
+43 this state. The candidate shall certify the full name and complete address
+44 of the political treasurer to the secretary of state at the time the candi-
+45 date establishes a campaign finance account with the secretary of state's
+46 office or as soon thereafter as practicable.
+
+8
+1 (2) No contribution shall be received or expenditure made by or on be-
+2 half of a candidate until a political treasurer has been appointed pursuant
+3 to the provisions of this section. Contributions must be received and expen-
+4 ditures must be made by or through the candidate's political treasurer.
+5 (3) A candidate may appoint himself to serve as his own political trea-
+6 surer.
+7 (4) An individual may be appointed and serve as political treasurer for
+8 more than one (1) candidate and political action committee.
+9 (5) A candidate may remove his political treasurer. In the case of the
+10 death, resignation, or removal of a political treasurer before all obliga-
+11 tions of a political treasurer under this chapter have been met, the candi-
+12 date shall appoint a successor political treasurer and certify the name and
+13 address of the successor in the manner provided in the case of an original ap-
+14 pointment.
+15 74-3-203. DUTIES OF POLITICAL TREASURER FOR CANDIDATE. (1) The polit-
+16 ical treasurer or candidate shall serve as the official point of contact for
+17 the secretary of state for the candidate's campaign.
+18 (2) The political treasurer for each candidate shall maintain at least
+19 one (1) checking account with a financial institution. All moneys received
+20 by the candidate's campaign shall be deposited in such account. The polit-
+21 ical treasurer for each candidate shall keep detailed accounts of all con-
+22 tributions received and all expenditures made by or on behalf of the candi-
+23 date. The political treasurer shall keep the accounts current within seven
+24 (7) days after the date of receiving a contribution or making an expenditure.
+25 A candidate's campaign funds shall be segregated from, and may not be commin-
+26 gled with, any other account. A candidate who loans his campaign his own per-
+27 sonal funds must transfer those funds to his campaign account.
+28 (3) The political treasurer shall be responsible for making and filing
+29 all reports that are required of a candidate under this chapter. Accounts
+30 kept by the political treasurer for a candidate are subject to inspection by
+31 the office of the secretary of state in the case of an investigation pursuant
+32 to section 74-3-501 or 74-3-502, Idaho Code.
+33 (4) Accounts kept by a political treasurer shall be preserved by him for
+34 at least one (1) year after the date of the election to which the accounts re-
+35 fer or at least one (1) year after the date the last report is filed under sec-
+36 tion 74-3-205, Idaho Code, whichever is later.
+37 74-3-204. IDENTIFICATION OF SOURCE OF CONTRIBUTIONS AND EXPENDITURES
+38 -- CANDIDATES. (1) No contribution shall be made and no expenditure shall be
+39 incurred, directly or indirectly, in a fictitious name, anonymously, or by
+40 any person through an agent, relative, or other person in such a manner as to
+41 conceal the identity of the source of the contribution.
+42 (2)(a) Any person who contributes to a candidate shall accompany the
+43 contribution with a report of his full name and complete address.
+44 (b) If a political treasurer is offered or receives contributions of
+45 more than one hundred dollars ($100) in the aggregate from the same per-
+46 son during a calendar year, and there is no report of the full name and
+47 complete address of the person making the contribution, the contribu-
+48 tion shall be returned to the contributor if his identity can be ascer-
+
+9
+1 tained. If the contributor's identity cannot be ascertained, the con-
+2 tribution shall be transmitted immediately by the political treasurer
+3 to the secretary of state, who shall transmit it to the state controller
+4 for deposit in the general fund.
+5 (3) Contributions shall not be obtained for a candidate's campaign by
+6 use of coercion or physical force, by making a contribution a condition of
+7 employment or membership, or by using or threatening to use job discrimina-
+8 tion or financial reprisals. A violation of the provisions of this section
+9 shall be punishable as provided in part 5 of this chapter.
+10 74-3-205. REPORTS OF CONTRIBUTIONS TO AND EXPENDITURES BY CANDI-
+11 DATES. (1) The political treasurer for each candidate shall file with the
+12 secretary of state a report of all contributions received and all expen-
+13 ditures and encumbrances made by or on behalf of the candidate during the
+14 reporting period, beginning with the month in which the first contribution,
+15 expenditure, or encumbrance took place. The report shall itemize each
+16 contribution received and each expenditure or encumbrance made during the
+17 reporting period and shall include the following:
+18 (a) Under contributions, the report shall include a list of all the con-
+19 tributions received, including any funds or property of the candidate
+20 used to cover expenditures. The report shall list the full name and com-
+21 plete address of each person who contributed an aggregate amount of more
+22 than one hundred dollars ($100) and the amount contributed by that per-
+23 son. The report may list as a single item the total amount of contribu-
+24 tions of one hundred dollars ($100) or less; and
+25 (b) Under expenditures, the report shall include the name, city, and
+26 state of each person to whom an expenditure or encumbrance was made of at
+27 least twenty-five dollars ($25.00) but no more than one hundred dollars
+28 ($100) and the amount, date, and purpose of each such expenditure. For
+29 expenditures of more than one hundred dollars ($100), the report shall
+30 include the name and address of each person to whom an expenditure or en-
+31 cumbrance was made and the amount, date, and purpose of each such expen-
+32 diture. Each expenditure or encumbrance in the amount of twenty-five
+33 dollars ($25.00) or more shall be evidenced by an invoice, receipt, or
+34 canceled check or an accurate copy thereof. Such evidence shall not be
+35 filed with the report but shall be retained by the candidate's treasurer
+36 for a period of one (1) year after the report has been filed. The re-
+37 port may list as a single item the total amount of expenditures and en-
+38 cumbrances of less than twenty-five dollars ($25.00) each without show-
+39 ing the exact amount of or requiring evidence of each such expenditure
+40 or encumbrance. Anything of value, other than money, paid for or con-
+41 tributed by any person shall be listed both as an expenditure and as a
+42 contribution.
+43 (2) Regular reports required by this section shall be filed pursuant to
+44 this subsection.
+45 (a) In the year in which the candidate's election is to take place, re-
+46 ports shall be filed on a monthly basis on or before the tenth day of the
+47 month following the month being reported. Additional reports shall be
+48 filed:
+
+10
+1 (i) Three (3) days before the primary election, covering the pe-
+2 riod from the close of the most recent monthly report through seven
+3 (7) days before the primary election; and
+4 (ii) Three (3) days before the general election, covering the pe-
+5 riod from the close of the most recent monthly report through seven
+6 (7) days before the general election.
+7 (b) In any nonelection year for the candidate, reports shall be filed
+8 on a quarterly basis and shall be due on or before the tenth day of the
+9 month immediately following the close of the quarter, on April 10, July
+10 10, October 10, and January 10.
+11 (3) The political treasurer for a candidate for a judicial office or a
+12 local government office is exempt from filing reports under this chapter un-
+13 less and until such time as the candidate receives contributions or expends
+14 funds in the amount of five hundred dollars ($500) or more. Within seven (7)
+15 calendar days of the five-hundred-dollar ($500) threshold being met, the po-
+16 litical treasurer for the candidate shall file a cumulative report covering
+17 the period from the first contribution or expenditure to the current date and
+18 shall file all subsequent reports on a regular basis according to the provi-
+19 sions of subsection (2) of this section, regardless of amounts received or
+20 expended.
+21 (4) In addition to the reports required pursuant to subsections (2) and
+22 (3) of this section, the political treasurer for a candidate shall report
+23 to the secretary of state any contribution received of one thousand dollars
+24 ($1,000) or more within forty-eight (48) hours after the receipt of such con-
+25 tribution. Such a report shall include the name of the candidate, the iden-
+26 tification of the contributor, and the date of receipt and amount of the con-
+27 tribution.
+28 (5) All reports required pursuant to this section shall be filed online
+29 with the secretary of state by no later than midnight on the date the filing
+30 is due.
+31 (6) If no contribution is received or expenditure made by or on behalf
+32 of a candidate during a monthly reporting period, the political treasurer
+33 for the candidate shall file with the secretary of state a report to that ef-
+34 fect by the tenth day of the following month.
+35 (7) Reports required to be filed under the provisions of this section
+36 shall be filed until the account no longer shows any unexpended balance of
+37 contributions or expenditure deficit. Once an account no longer shows a pos-
+38 itive balance or debt, the candidate may notify the secretary of state's of-
+39 fice that the account may be closed. If the account has shown no positive
+40 balance or debt for a period of two (2) years and the candidate has not re-
+41 quested account closure, the secretary of state may administratively close
+42 the candidate's account following thirty (30) days' notice to the candidate.
+43 (8) Candidates for federal office are not required to file contribution
+44 and expenditure reports with the state under this section. A federal can-
+45 didate's authorized committee may make contributions to candidates in Idaho
+46 without filing reports under this subsection if the authorized committee is
+47 in compliance with federal election commission reporting requirements. Any
+48 contributions received pursuant to this section shall be reported using the
+49 official name of the candidate's authorized committee and the identifica-
+50 tion number as registered with the federal election commission.
+
+11
+1 74-3-206. LIMITATIONS ON CONTRIBUTIONS TO CANDIDATES.
+2 (1)(a) Aggregate contributions by any person to a candidate for the
+3 state legislature, judicial office, or local government office shall be
+4 limited to no more than one thousand five hundred dollars ($1,500) for
+5 the primary election and no more than one thousand five hundred dollars
+6 ($1,500) for the general election.
+7 (b) Aggregate contributions for a primary election or a general elec-
+8 tion by any person to a candidate for statewide office shall be limited
+9 to no more than six thousand dollars ($6,000) for the primary election
+10 and no more than six thousand dollars ($6,000) for the general election.
+11 For purposes of this subsection, "statewide office" shall mean an of-
+12 fice in state government that appears on the primary or general election
+13 ballot throughout the state.
+14 (2) The provisions of subsection (1) of this section shall not apply to
+15 political party committees, including state, county, legislative district,
+16 or regional central committees. Such committees are governed by the provi-
+17 sions of section 74-3-402, Idaho Code.
+18 (3) A candidate may not accept contributions for running in a general
+19 election until the candidate has won his primary election.
+20 (4) Candidates may allocate only those contributions received by the
+21 time the polls close on election day to that election. Contributions re-
+22 ceived after such time must be allocated by the candidate to a future elec-
+23 tion.
+24 (5) For purposes of contribution limits in this section, recall and
+25 special elections shall be treated the same as general elections.
+26 (6) Contributions other than money or its equivalent are deemed to have
+27 a monetary value equivalent to the fair market value of the contribution.
+28 Services or property or rights furnished at less than their fair market value
+29 for the purpose of assisting any candidate or political action committee are
+30 deemed a contribution. A contribution of this kind shall be reported as an
+31 in-kind contribution at its fair market value and counts toward any applica-
+32 ble contribution limit of the contributor. Contributions shall not include
+33 the personal services of volunteers.
+34 (7) For the purposes of contribution limits, the following provisions
+35 apply:
+36 (a) A contribution by a political action committee with funds that have
+37 all been contributed by one (1) person who exercises exclusive control
+38 over the distribution of the funds of the political action committee is
+39 a contribution by the controlling person;
+40 (b) All contributions made by a person or political action committee
+41 whose contribution or expenditure activity is financed, maintained, or
+42 controlled by a trade association, labor union, or collective bargain-
+43 ing organization shall be considered a contribution from such trade as-
+44 sociation, labor union, or collective bargaining organization; and
+45 (c) Two (2) or more entities are treated as a single entity if the enti-
+46 ties:
+47 (i) Share the majority of members on their board of directors;
+48 (ii) Share two (2) or more officers;
+49 (iii) Are owned or controlled by the same majority shareholder or
+50 shareholders or persons;
+
+12
+1 (iv) Are in a parent-subsidiary relationship; or
+2 (v) Have bylaws so stating.
+3 (8) The contribution limits provided for in this section shall not ap-
+4 ply to a candidate contributing or loaning money to his own campaign account.
+5 (9) A candidate for state legislative office may terminate his campaign
+6 account and transfer the balance of funds to a new campaign account if such
+7 candidate will campaign for a different state legislative office. Any con-
+8 tributions received in the candidate's closed account, combined with any
+9 contributions received in the candidate's new account, shall count against
+10 the contribution limits provided in this section when received from the same
+11 contributor for the same election date.
+12 (10) The provisions of this section are hereby declared to be severable
+13 and if any provision of this section or the application of such provision to
+14 any person or circumstance is declared invalid for any reason, such declara-
+15 tion shall not affect the validity of the remaining portions of this section.
+16 74-3-207. CANDIDATE COORDINATION PROHIBITED. (1) A candidate may not
+17 coordinate with another person to benefit from an independent expenditure,
+18 as defined in section 74-3-102, Idaho Code.
+19 (2) If an expenditure is made in coordination with a candidate, it shall
+20 be considered a contribution in-kind to the candidate and shall be reported
+21 by the candidate and be included in the candidate's campaign contribution
+22 limits.
+23 (3) An expenditure by a person that is not made in coordination with a
+24 candidate is not attributed to or reportable by a candidate and must be re-
+25 ported by the person making the independent expenditure pursuant to the pro-
+26 visions of section 74-3-404, Idaho Code.
+27 (4) For the purpose of determining whether an expenditure is made in co-
+28 ordination with a candidate, the term "coordination" means and includes but
+29 is not limited to an expenditure made with the cooperation of, with the prior
+30 consent or knowledge of, in consultation with, at the request or suggestion
+31 of, or using nonpublic information obtained from a candidate or the candi-
+32 date's agent or paid or unpaid staff or volunteer or any person acting as a
+33 conduit for messages to or from the candidate's campaign. Coordination is
+34 presumed if a candidate benefiting from an independent expenditure by a po-
+35 litical action committee is also the treasurer or any other board member of
+36 that political action committee.
+37 74-3-208. RETIRING DEBT. (1) If a candidate has unpaid debt at the end
+38 of the reporting periods specified in section 74-3-205, Idaho Code, then the
+39 candidate may accept additional contributions to retire such unpaid debt,
+40 provided the contributions do not exceed the applicable contribution limits
+41 prescribed in this chapter.
+42 (2) For the purposes of this section, "unpaid debt" means any unpaid
+43 monetary obligation incurred by the candidate as listed on the reports filed
+44 through the postelection report period minus any cash balance reported on
+45 the postelection report. Outstanding loans are considered a type of unpaid
+46 debt.
+
+13
+1 74-3-209. USE OF CONTRIBUTED AMOUNTS FOR CERTAIN PURPOSES. (1) A con-
+2 tribution accepted by a candidate may be used by the candidate:
+3 (a) For expenditures in connection with the candidate's campaign for
+4 public office;
+5 (b) For ordinary and necessary expenses incurred in connection with du-
+6 ties of the individual as a public officeholder;
+7 (c) For donations to an organization described in 26 U.S.C. 170(c);
+8 (d) For transfers, without limitation, to a national, state, or local
+9 committee of a political party;
+10 (e) For contributions to state and local candidates subject to the pro-
+11 visions of state law; or
+12 (f) For any other lawful purpose unless prohibited by subsection (2) of
+13 this section.
+14 (2) A contribution shall not be converted by any person to personal use.
+15 For the purposes of this subsection, a contribution shall be considered to be
+16 converted to personal use if the contribution is used to fulfill any commit-
+17 ment, obligation, or expense of a person that would exist irrespective of the
+18 candidate's election campaign or individual's duties as a holder of public
+19 office, including:
+20 (a) Mortgage, rent, or utility payments for a candidate's residence;
+21 (b) Clothing, except for items of de minimis value used in a campaign;
+22 (c) A noncampaign- or nonofficeholder-related automobile expense;
+23 (d) A country club membership;
+24 (e) A vacation or other noncampaign-related trip;
+25 (f) A tuition payment;
+26 (g) Admission to a sporting event, concert, theater, or other form of
+27 entertainment not associated with the candidate's campaign;
+28 (h) Dues, fees, and other payments to a health club or recreational fa-
+29 cility, except for fees associated with a campaign fundraising event on
+30 the premises;
+31 (i) Funeral, cremation, or burial expenses, except if the death arises
+32 out of or in the course of campaign activity;
+33 (j) Investment expenses;
+34 (k) Salary payments to a candidate's immediate family member, unless
+35 the family member is providing bona fide services and paid at a fair mar-
+36 ket value; and
+37 (l) Food purchased for daily consumption inside the home or supplies
+38 needed to maintain a household.
+39 74-3-210. USE OF SYNTHETIC MEDIA. (1) This section shall be known and
+40 may be cited as the "Freedom from AI-Rigged (FAIR) Elections Act."
+41 (2) For purposes of this section:
+42 (a) "Information content provider" means any person or entity that is
+43 responsible, in whole or in part, for the creation or development of in-
+44 formation provided through the internet or any other interactive com-
+45 puter service.
+46 (b) "Interactive computer service" means any information service, sys-
+47 tem, or access software provider that provides or enables computer ac-
+48 cess by multiple users to a computer server, including specifically a
+
+14
+1 service or system that provides access to the internet and such systems
+2 operated or services offered by libraries or educational institutions.
+3 (c) "Synthetic media" means an audio recording or a video recording of
+4 an individual's speech or conduct that has been created through the use
+5 of generative adversarial network techniques or other digital technol-
+6 ogy in a manner to create a realistic but false audio or video that:
+7 (i) Appears to a reasonable individual to be of a real event, ac-
+8 tion, or speech that did not actually occur in reality; and
+9 (ii) Provides a fundamentally different understanding or impres-
+10 sion of the event, action, or speech than a reasonable person would
+11 have from the unaltered, original version of the audio recording
+12 or video recording.
+13 (3) A candidate whose action or speech is deceptively represented
+14 through the use of synthetic media in an electioneering communication, ex-
+15 penditure by a candidate, or independent expenditure may seek injunctive or
+16 other equitable relief prohibiting the publication of such synthetic media.
+17 (4) A candidate whose action or speech is deceptively represented
+18 through the use of synthetic media in an electioneering communication, ex-
+19 penditure by a candidate, or independent expenditure may bring an action for
+20 general damages, special damages, or both against the information content
+21 provider. The court may award a prevailing party reasonable attorney's fees
+22 and costs. The provisions of this subsection do not limit or preclude a
+23 plaintiff from securing or recovering any other available remedy.
+24 (5) It shall be an affirmative defense for any action brought pursuant
+25 to this section that the electioneering communication, expenditure by a
+26 candidate, or independent expenditure containing synthetic media includes
+27 a disclosure stating, "This (video/audio) has been manipulated" in the fol-
+28 lowing manner:
+29 (a) If the media is a video, the text of the disclosure must be promi-
+30 nently displayed and appear in a size easily readable by the average
+31 viewer, and the disclosure must appear for the duration of the video; or
+32 (b) If the media consists of audio only, the disclosure must be read in
+33 a clearly spoken manner and in a pitch that can be easily heard by the
+34 average listener at the beginning of the audio, at the end of the au-
+35 dio, and, if the audio is greater than two (2) minutes in length, in-
+36 terspersed within the audio at intervals of no more than two (2) minutes
+37 each.
+38 (6) In any action commenced pursuant to this section, the plaintiff
+39 bears the burden of establishing the use of synthetic media by clear and
+40 convincing evidence.
+41 (7) Courts are encouraged to determine matters pursuant to this section
+42 expediently.
+43 (8) For an action brought pursuant to this section, the information
+44 content provider of the electioneering communication, expenditure by a
+45 candidate, or independent expenditure may be held liable and not the medium
+46 disseminating the electioneering communication, expenditure by a candi-
+47 date, or independent expenditure except as provided in subsection (9) of
+48 this section.
+49 (9) Except when a licensee, programmer, or operator of a federally li-
+50 censed broadcasting station transmits an electioneering communication, ex-
+
+15
+1 penditure by a candidate, or independent expenditure that is subject to 47
+2 U.S.C. 315, a medium may be held liable in a cause of action brought pursuant
+3 to this section if:
+4 (a) The medium removes any disclosure described in subsection (5) of
+5 this section from the electioneering communication, expenditure by a
+6 candidate, or independent expenditure it disseminates; or
+7 (b) Subject to affirmative defenses described in this section, the
+8 medium changes the content of an electioneering communication, ex-
+9 penditure by a candidate, or independent expenditure such that it
+10 qualifies as synthetic media.
+11 (10) No provider or user of an interactive computer service shall be
+12 treated as the publisher or speaker of any information provided by another
+13 information content provider. However, an interactive computer service may
+14 be held liable in accordance with subsection (9) of this section.
+15 SECTION 4. That Chapter 3, Title 74, Idaho Code, be, and the same is
+16 hereby amended by the addition thereto of a NEW PART, to be known and desig-
+17 nated as Part 3, Chapter 3, Title 74, Idaho Code, and to read as follows:
+18 PART 3
+19 POLITICAL ACTION COMMITTEES
+20 74-3-301. POLITICAL ACTION COMMITTEE -- ORGANIZATION.
+21 (1)(a) An individual, corporation, association, firm, partnership,
+22 committee, political party, club, or other organization or group of
+23 persons is a political action committee required to report under this
+24 chapter if it:
+25 (i) Is specifically designated to support or oppose any candidate
+26 or measure; or
+27 (ii) Receives contributions and makes expenditures in an amount
+28 exceeding one thousand dollars ($1,000) in any calendar year for
+29 the purpose of supporting or opposing one (1) or more candidates or
+30 measures.
+31 (b) A county, legislative district, or regional committee of a recog-
+32 nized political party shall not be required to report under this chapter
+33 as a political action committee unless it has expenditures exceeding
+34 five thousand dollars ($5,000) in a calendar year. Political party com-
+35 mittees are subject to the requirements for political action committees
+36 set forth in this part except as otherwise provided in section 74-3-402,
+37 Idaho Code.
+38 (2) Each political action committee shall appoint a political trea-
+39 surer. No contribution shall be received and no expenditure may be made by
+40 or on behalf of a political action committee until a political treasurer has
+41 been appointed pursuant to the provisions of section 74-3-302, Idaho Code.
+42 (3) Each political action committee shall establish a campaign finance
+43 account with the secretary of state no later than ten (10) days after be-
+44 coming a political action committee required to report pursuant to the pro-
+45 visions of subsection (1) of this section. The political action committee
+46 shall certify:
+47 (a) The name and address of the committee; and
+48 (b) The name and address of the political treasurer of the committee.
+
+16
+1 (4) Any change in organization information previously submitted to the
+2 secretary of state shall be reported no later than ten (10) days after the
+3 date of the change.
+4 74-3-302. POLITICAL ACTION COMMITTEE -- APPOINTMENT OF POLITICAL
+5 TREASURER. (1) Each political action committee shall appoint a political
+6 treasurer who is a registered elector of this state.
+7 (2) An individual may be appointed and serve as political treasurer for
+8 more than one (1) political action committee and candidate.
+9 (3) A political action committee may remove its political treasurer.
+10 In the case of the death, resignation, or removal of its political treasurer
+11 before all obligations of a political treasurer under this chapter have been
+12 met, the political action committee shall appoint a successor political
+13 treasurer and certify the name and address of the successor to the secretary
+14 of state.
+15 74-3-303. DUTIES OF POLITICAL TREASURER FOR POLITICAL ACTION COMMIT-
+16 TEE. (1) The political treasurer shall serve as the official point of contact
+17 for the secretary of state for the political action committee.
+18 (2) The political treasurer for each political action committee shall
+19 maintain at least one (1) checking account with a financial institution. All
+20 moneys received by the political action committee shall be deposited in such
+21 account. The political treasurer shall keep detailed accounts of all con-
+22 tributions received and all expenditures made by or on behalf of the politi-
+23 cal action committee. The political treasurer shall keep the accounts cur-
+24 rent within seven (7) days after the date of receiving a contribution or mak-
+25 ing an expenditure. The political action committee's funds shall be segre-
+26 gated from and may not be commingled with any other account.
+27 (3) The political treasurer shall be responsible for making and fil-
+28 ing all reports that are required of a political action committee under this
+29 chapter. Accounts kept by the political treasurer for a political action
+30 committee are subject to inspection by the office of the secretary of state
+31 in the case of an investigation pursuant to section 74-3-501 or 74-3-502,
+32 Idaho Code.
+33 (4) Accounts kept by a political treasurer shall be preserved by him for
+34 at least one (1) year after the date of the election to which the accounts re-
+35 fer or at least one (1) year after the date the last report is filed under sec-
+36 tion 74-3-306, Idaho Code, whichever is later.
+37 74-3-304. CONTRIBUTIONS OBTAINED BY A POLITICAL ACTION COMMITTEE. (1)
+38 A political action committee may solicit or obtain contributions from indi-
+39 viduals as provided in chapter 26, title 44, Idaho Code, or as provided in
+40 section 44-2004, Idaho Code.
+41 (2)(a) Any person who contributes to a political action committee shall
+42 accompany the contribution with a report of his full name and complete
+43 address.
+44 (b) If a political treasurer is offered or receives contributions of
+45 more than one hundred dollars ($100) in the aggregate from the same per-
+46 son during a calendar year, and there is no report of the full name and
+47 complete address of the person making the contribution, the contribu-
+
+17
+1 tion shall be returned to the contributor if his identity can be ascer-
+2 tained. If the contributor's identity cannot be ascertained, the con-
+3 tribution shall be transmitted immediately by the political treasurer
+4 to the secretary of state, who shall transmit it to the state controller
+5 for deposit in the general fund.
+6 (3) Contributions shall not be obtained for a political action commit-
+7 tee by use of coercion or physical force, by making a contribution a condi-
+8 tion of employment or membership, or by using or threatening to use job dis-
+9 crimination or financial reprisals. A violation of the provisions of this
+10 section shall be punishable as provided in part 5 of this chapter.
+11 74-3-305. USE OF CONTRIBUTED AMOUNTS FOR CERTAIN PURPOSES. (1) A con-
+12 tribution accepted by a political action committee may be used:
+13 (a) For expenditures in connection with the political action commit-
+14 tee's purpose of campaigning for the election or defeat of a candidate
+15 or measure;
+16 (b) For the ordinary and necessary expenses of a political action com-
+17 mittee;
+18 (c) For donations to an organization described in 26 U.S.C. 170(c);
+19 (d) For transfers, without limitation, to a national, state, or local
+20 committee of a political party;
+21 (e) For contributions to state and local candidates subject to the pro-
+22 visions of state law; or
+23 (f) For any other lawful purpose unless prohibited by subsection (2) of
+24 this section.
+25 (2) A contribution shall not be converted by any person for personal
+26 use. For the purposes of this subsection, a contribution shall be considered
+27 to be converted to personal use if the contribution is used to fulfill any
+28 commitment, obligation, or expense of a person that would exist irrespective
+29 of the political action committee's campaign activities.
+30 74-3-306. REPORTS OF CONTRIBUTIONS TO AND EXPENDITURES BY POLITICAL
+31 ACTION COMMITTEES. (1) The political treasurer for each political action
+32 committee shall file with the secretary of state a report each month of all
+33 contributions received and all expenditures and encumbrances made by or on
+34 behalf of the political action committee during the preceding month by no
+35 later than the tenth day of the following month. The report shall itemize
+36 each contribution received and each expenditure or encumbrance made during
+37 the monthly reporting period and shall include the following:
+38 (a) Under contributions, the report shall include a list of all the con-
+39 tributions received, including any funds or property of the political
+40 action committee used to cover expenditures. The report shall list the
+41 full name and complete address of each person who contributed an aggre-
+42 gate amount of more than one hundred dollars ($100) and the amount con-
+43 tributed by that person. The report may list as a single item the total
+44 amount of contributions of one hundred dollars ($100) or less; and
+45 (b) Under expenditures, the report shall include the name, city, and
+46 state of each person to whom an expenditure or encumbrance was made of at
+47 least twenty-five dollars ($25.00) but no more than one hundred dollars
+48 ($100) and the amount, date, and purpose of each such expenditure. For
+
+18
+1 expenditures of more than one hundred dollars ($100), the report shall
+2 include the name and address of each person to whom an expenditure or en-
+3 cumbrance was made and the amount, date, and purpose of each such expen-
+4 diture. All expenditures or encumbrances in the amount of twenty-five
+5 dollars ($25.00) or more shall be evidenced by an invoice, receipt, or
+6 canceled check or an accurate copy thereof. Such evidence shall not be
+7 filed with the report but shall be retained by the political treasurer
+8 for a period of one (1) year after the report has been filed. The re-
+9 port may list as a single item the total amount of expenditures and en-
+10 cumbrances of less than twenty-five dollars ($25.00) each without show-
+11 ing the exact amount of or requiring evidence of each such expenditure
+12 or encumbrance. Anything of value, other than money, paid for or con-
+13 tributed by any person shall be listed both as an expenditure and as a
+14 contribution.
+15 (2) In any year in which an election is held for a candidate that a po-
+16 litical action committee supports or opposes by making expenditures or re-
+17 ceiving contributions related to such candidate's election, the political
+18 treasurer for such political action committee shall file additional reports
+19 pursuant to subsection (1) of this section as follows:
+20 (a) Three (3) days before the primary election, covering the period
+21 from the close of the most recent monthly report through seven (7) days
+22 before the primary election; and
+23 (b) Three (3) days before the general election, covering the period
+24 from the close of the most recent monthly report through seven (7) days
+25 before the general election.
+26 (3) In addition to any other reports required under this section, the
+27 political treasurer for each political action committee shall report to the
+28 secretary of state any contribution of one thousand dollars ($1,000) or more
+29 within forty-eight (48) hours after the receipt of such contribution. Such
+30 a report shall include the name of the political action committee, the iden-
+31 tification of the contributor, and the date of receipt and amount of the con-
+32 tribution. The report shall be in addition to the reporting of these contri-
+33 butions in the regular monthly reports.
+34 (4) All reports required pursuant to this section shall be filed online
+35 with the secretary of state by no later than midnight on the date the filing
+36 is due.
+37 (5) If no contribution is received or expenditure made by or on behalf
+38 of a political action committee during a monthly reporting period, the po-
+39 litical treasurer for the political action committee shall file with the
+40 secretary of state a report to that effect by the tenth day of the following
+41 month.
+42 (6) Reports required to be filed under the provisions of this section
+43 shall be filed until the account no longer shows any unexpended balance of
+44 contributions or expenditure deficit. Once an account no longer shows a pos-
+45 itive balance or debt, the political treasurer may notify the secretary of
+46 state's office that the account may be closed. If the account has shown no
+47 positive balance or debt for a period of two (2) years and the political trea-
+48 surer has not requested account closure, the secretary of state may admin-
+49 istratively close the political action committee's account following thirty
+50 (30) days' notice to the political action committee.
+
+19
+1 (7) Except as provided in subsection (8) of this section, a political
+2 action committee that is registered with the federal election commission
+3 must file reports in accordance with the provisions of this section if the
+4 political action committee:
+5 (a) Makes contributions to Idaho candidates;
+6 (b) Makes an electioneering communication in Idaho; or
+7 (c) Makes an independent expenditure in Idaho.
+8 (8) A federal candidate's leadership political action committee may
+9 make contributions and expenditures in Idaho without filing reports under
+10 this section if the leadership political action committee is in compli-
+11 ance with federal election commission reporting requirements and follows
+12 applicable laws. The recipient of any contributions made pursuant to this
+13 subsection shall be reported using the official name of the candidate's
+14 leadership political action committee and the identification number as reg-
+15 istered with the federal election commission.
+16 74-3-307. POLITICAL ACTION COMMITTEE COORDINATION. (1) A political
+17 action committee may not coordinate with a candidate to benefit that candi-
+18 date with an independent expenditure, as defined in section 74-3-102, Idaho
+19 Code.
+20 (2) If an expenditure is made in coordination with a candidate, it shall
+21 be considered a contribution in-kind to the candidate and shall be reported
+22 by the candidate and be included in the candidate's campaign contribution
+23 limits.
+24 (3) For the purpose of determining whether an expenditure is made in co-
+25 ordination with a candidate, the term "coordination" means and includes but
+26 is not limited to an expenditure made with the cooperation of, with the prior
+27 consent or knowledge of, in consultation with, at the request or suggestion
+28 of, or by using nonpublic information obtained from a candidate or the can-
+29 didate's agent or paid or unpaid staff or volunteer or any person acting as
+30 a conduit for messages to or from the candidate's campaign. Coordination
+31 shall be presumed if the political action committee's expenditure or inde-
+32 pendent expenditure benefits a candidate who is also the political action
+33 committee's treasurer or other board member.
+34 74-3-308. ELECTIONEERING COMMUNICATIONS. (1) In addition to any other
+35 reports required under this chapter, the political treasurer for each po-
+36 litical action committee shall report to the secretary of state any expendi-
+37 ture for an electioneering communication of one thousand dollars ($1,000) or
+38 more.
+39 (a) For electioneering communications made on or before the sixteenth
+40 day before any primary or general election, the report shall be filed
+41 within forty-eight (48) hours after the expenditure.
+42 (b) For electioneering communications made after the sixteenth day be-
+43 fore an election, but more than twenty-four (24) hours before any pri-
+44 mary or general election, the report shall be filed within twenty-four
+45 (24) hours after the expenditure.
+46 (2) The report shall be in addition to the reporting of these expendi-
+47 tures in the regular monthly reports. The report shall contain:
+
+20
+1 (a) The name and address of any third party to whom an expenditure has
+2 been made by the reporting political action committee in reference to
+3 any candidate or measure, together with the amount, date, and purpose of
+4 each such expenditure, including the identity of the referenced candi-
+5 date or measure; and
+6 (b) The total sum of all electioneering communications made by the po-
+7 litical action committee filing the report since the first day of the
+8 preceding calendar year.
+9 (3) For the purpose of determining when a report should be filed under
+10 this section, an electioneering communication is made on the day that the
+11 electioneering communication is publicly distributed or otherwise viewed by
+12 the public or on the date payment is made, whichever is earlier.
+13 74-3-309. INDEPENDENT EXPENDITURES. (1) In addition to any other re-
+14 ports required under this chapter, the political treasurer for each politi-
+15 cal action committee shall report to the secretary of state any independent
+16 expenditure in an aggregate amount of one thousand dollars ($1,000) or more
+17 as provided in this section.
+18 (a) In the case of an independent expenditure totaling one thousand
+19 dollars ($1,000) or more made on or before the sixteenth day be-
+20 fore a primary or general election, the report shall be filed within
+21 forty-eight (48) hours of making the expenditure.
+22 (b) In the case of an independent expenditure totaling one thousand
+23 dollars ($1,000) or more made after the sixteenth day before an election
+24 but more than twenty-four (24) hours before a primary or general elec-
+25 tion, the report shall be filed within twenty-four (24) hours of making
+26 the expenditure.
+27 (c) In the case of an independent expenditure totaling less than one
+28 thousand dollars ($1,000), the report shall be filed by the tenth day of
+29 the month following the month in which the independent expenditure was
+30 made.
+31 (2) The report shall be in addition to the reporting of these expendi-
+32 tures in the regular monthly reports. The report shall contain:
+33 (a) The name and address of any third party to whom an independent
+34 expenditure totaling one thousand dollars ($1,000) or more has been
+35 made by the reporting political action committee for an independent
+36 expenditure in support of or in opposition to any candidate or measure,
+37 together with the amount, date, and purpose of each such expenditure,
+38 including the identity of the referenced candidate or measure, and
+39 whether the expenditure was made either in support of or in opposition
+40 to such candidate or measure; and
+41 (b) The total sum of all independent expenditures made by the reporting
+42 political action committee since the first day of the preceding calen-
+43 dar year in support of or in opposition to any such candidate or measure.
+44 74-3-310. MEASURE EXPENDITURES. (1) In addition to any other reports
+45 required under this chapter, the political treasurer for each political ac-
+46 tion committee shall report to the secretary of state any measure expendi-
+47 ture in an aggregate amount of one thousand dollars ($1,000) or more as pro-
+48 vided in this section.
+
+21
+1 (a) In the case of a measure expenditure totaling one thousand dollars
+2 ($1,000) or more made on or before the sixteenth day before a primary
+3 or general election, the report shall be filed within forty-eight (48)
+4 hours of making the expenditure.
+5 (b) In the case of a measure expenditure totaling one thousand dollars
+6 ($1,000) or more made after the sixteenth day before an election but
+7 more than twenty-four (24) hours before a primary or general election,
+8 the report shall be filed within twenty-four (24) hours of making the
+9 expenditure.
+10 (c) In the case of a measure expenditure totaling less than one thousand
+11 dollars ($1,000), the report shall be filed by the tenth day of the month
+12 following the month in which the measure expenditure was made.
+13 (2) The report shall be in addition to the reporting of these expendi-
+14 tures in the regular monthly reports. The report shall contain:
+15 (a) The name and address of any third party to whom a measure expendi-
+16 ture totaling one thousand dollars ($1,000) or more has been made by the
+17 reporting political action committee for a measure expenditure in sup-
+18 port of or in opposition to any measure, together with the amount, date,
+19 and purpose of each such expenditure, including the identity of the ref-
+20 erenced measure, and whether the expenditure was made either in support
+21 of or in opposition to such measure; and
+22 (b) The total sum of all measure expenditures made by the reporting po-
+23 litical action committee since the first day of the preceding calendar
+24 year in support of or in opposition to any such measure.
+25 SECTION 5. That Chapter 3, Title 74, Idaho Code, be, and the same is
+26 hereby amended by the addition thereto of a NEW PART, to be known and desig-
+27 nated as Part 4, Chapter 3, Title 74, Idaho Code, and to read as follows:
+28 PART 4
+29 OTHER PERSONS REQUIRED TO REPORT
+30 74-3-401. LEGISLATIVE INTENT. In order to promote transparency re-
+31 garding the impact of all election-related financial contributions or
+32 expenditures, it is the intent of the legislature that all persons, not just
+33 those who are required to register as a candidate or a political action com-
+34 mittee, shall be required to publicly report financial contributions made or
+35 expenditures paid. All such persons making electioneering communications
+36 or independent expenditures in Idaho shall file reports with the secretary
+37 of state according to the provisions of this part.
+38 74-3-402. POLITICAL PARTY COMMITTEES AND CAUCUSES -- CONTRIBUTIONS --
+39 REPORTS -- LIMITS. (1) Contributions by political party central committees,
+40 including state, county, and legislative district, and legislative caucuses
+41 of a recognized political party qualified under section 34-501, Idaho Code,
+42 are governed by the provisions of this section.
+43 (2) Except as otherwise provided in subsection (6) of this section, po-
+44 litical party committees and caucuses governed by this section shall file
+45 reports of their expenditures and contributions at the same time and in the
+46 same manner as political action committees pursuant to part 3 of this chap-
+47 ter.
+
+22
+1 (3) For state legislative races, a committee governed by this section
+2 shall not contribute to any single candidate more than three thousand dol-
+3 lars ($3,000) in the aggregate for a primary election and three thousand dol-
+4 lars ($3,000) in the aggregate for a general election.
+5 (4) For statewide office races, a committee governed by this section
+6 shall not contribute to any single candidate more than twelve thousand dol-
+7 lars ($12,000) in the aggregate for the primary election and twelve thousand
+8 dollars ($12,000) in the aggregate for the general election.
+9 (5) No contribution may be made for a general election to a candidate
+10 who has not won his primary election, if any.
+11 (6) A county or legislative district central committee of a recognized
+12 political party shall not be considered a political action committee for the
+13 purposes of filing reports under this chapter unless such political party
+14 committee has expenditures exceeding five thousand dollars ($5,000) in a
+15 calendar year.
+16 74-3-403. ELECTIONEERING COMMUNICATIONS. (1) Any person other than a
+17 political action committee who makes an electioneering communication, as
+18 defined in section 74-3-102, Idaho Code, in an aggregate amount of one hun-
+19 dred dollars ($100) or more must file a report with the secretary of state.
+20 The report shall contain the following information:
+21 (a) The name and address of any third party to whom an expenditure in
+22 excess of fifty dollars ($50.00) has been made by the reporting person
+23 in reference to any candidate, political action committee, or measure,
+24 together with the amount, date, and purpose of each such expenditure,
+25 including the identity of the referenced candidate or measure;
+26 (b) The total sum of all electioneering communications made by the
+27 person filing the report since the first day of the preceding calendar
+28 year; and
+29 (c) The name and address of any donor who made aggregate contributions
+30 of one thousand dollars ($1,000) or more to the person filing the report
+31 since the first day of the preceding calendar year to the date of the re-
+32 port for the purpose of furthering the reported electioneering communi-
+33 cation. The report may list as a single item the total amount of contri-
+34 butions made by donors who gave less than one thousand dollars ($1,000).
+35 (2) The report shall be filed with the secretary of state pursuant to
+36 this subsection.
+37 (a) In the case of an electioneering communication totaling one thou-
+38 sand dollars ($1,000) or more made on or before the sixteenth day before
+39 a primary or general election at which the referenced candidate will ap-
+40 pear on the ballot, the report shall be filed within forty-eight (48)
+41 hours of making the expenditure.
+42 (b) In the case of an electioneering communication totaling one thou-
+43 sand dollars ($1,000) or more made after the sixteenth day before an
+44 election but more than twenty-four (24) hours before a primary or gen-
+45 eral election at which the referenced candidate will appear on the
+46 ballot, the report shall be filed within twenty-four (24) hours of mak-
+47 ing the expenditure.
+48 (c) In the case of electioneering communications totaling less than one
+49 thousand dollars ($1,000), the report shall be filed by the tenth day
+
+23
+1 of the month following the month in which the electioneering communica-
+2 tions were made.
+3 (3) For the purpose of determining when a report should be filed under
+4 this section, an electioneering communication is made on the day that the
+5 electioneering communication is publicly distributed or otherwise viewed by
+6 the public or on the date payment is made, whichever is earlier.
+7 74-3-404. INDEPENDENT EXPENDITURES. (1) An independent expenditure,
+8 as defined in section 74-3-102, Idaho Code, is an expenditure by any person
+9 for a communication expressly advocating the election, passage, or defeat of
+10 a clearly identified candidate or measure if the expenditure is not coordi-
+11 nated with the candidate. An expenditure that is independent of a candidate
+12 is not attributed to or reportable by a candidate and must be reported by the
+13 person making the independent expenditure pursuant to the provisions of this
+14 section.
+15 (2) If an expenditure is made in coordination with the candidate, it
+16 shall be considered a contribution in-kind to the candidate, reported by the
+17 candidate, and included in the candidate's campaign contribution limits.
+18 (3) For the purpose of determining whether an expenditure is made in co-
+19 ordination with a candidate, the term "coordination" means and includes but
+20 is not limited to an expenditure made with the cooperation of, with the prior
+21 consent or knowledge of, in consultation with, at the request or suggestion
+22 of, or using nonpublic information obtained from a candidate or the candi-
+23 date's agent or paid or unpaid staff or volunteer or by a person acting as a
+24 conduit for messages to or from a candidate's campaign.
+25 (4) Each person who makes an independent expenditure in an aggregate
+26 amount of one hundred dollars ($100) or more shall file a report of the expen-
+27 diture with the secretary of state. The report shall contain:
+28 (a) The name and address of any third party to whom an expenditure in ex-
+29 cess of fifty dollars ($50.00) has been made by the reporting person for
+30 an independent expenditure in support of or in opposition to any can-
+31 didate or measure, together with the amount, date, and purpose of each
+32 such expenditure, including the identity of the referenced candidate or
+33 measure, and whether the expenditure was made either in support of or in
+34 opposition to such candidate or measure;
+35 (b) The total sum of all independent expenditures made by the reporting
+36 person since the first day of the preceding calendar year in support of
+37 or in opposition to any such candidate or measure; and
+38 (c) The name and address of any donor who made aggregate contributions
+39 of one thousand dollars ($1,000) or more to the person making the report
+40 since the first day of the preceding calendar year for the purpose of
+41 furthering the reported independent expenditure. The report may list
+42 as a single item the total amount of contributions made by donors who
+43 gave less than one thousand dollars ($1,000).
+44 (5) The report shall be filed with the secretary of state pursuant to
+45 this subsection.
+46 (a) In the case of an independent expenditure totaling one thousand
+47 dollars ($1,000) or more made on or before the sixteenth day before a
+48 primary or general election at which the referenced candidate will ap-
+
+24
+1 pear on the ballot, the report shall be filed within forty-eight (48)
+2 hours of making the expenditure.
+3 (b) In the case of an independent expenditure totaling one thousand
+4 dollars ($1,000) or more made after the sixteenth day before an elec-
+5 tion but more than twenty-four (24) hours before a primary or general
+6 election at which the referenced candidate will appear on the ballot,
+7 the report shall be filed within twenty-four (24) hours of making the
+8 expenditure.
+9 (c) In the case of independent expenditures totaling less than one
+10 thousand dollars ($1,000), the report shall be filed by the tenth day
+11 of the month following the month in which the independent expenditures
+12 were made.
+13 74-3-405. MEASURE EXPENDITURES. (1) A measure expenditure, as defined
+14 in section 74-3-102, Idaho Code, is an expenditure by any person for a commu-
+15 nication expressly advocating the passage or defeat of a clearly identified
+16 measure. An expenditure that is independent of a political action committee
+17 sponsoring a measure is not attributed to or reportable by such political ac-
+18 tion committee and must be reported by the person making the measure expendi-
+19 ture pursuant to the provisions of this section.
+20 (2) Each person who makes a measure expenditure in an aggregate amount
+21 of one hundred dollars ($100) or more shall file a report of the expenditure
+22 with the secretary of state. The report shall contain:
+23 (a) The name and address of any third party to whom an expenditure in ex-
+24 cess of fifty dollars ($50.00) has been made by the reporting person for
+25 a measure expenditure in support of or in opposition to any measure, to-
+26 gether with the amount, date, and purpose of each such expenditure, in-
+27 cluding the identity of the referenced measure, and whether the expen-
+28 diture was made either in support of or in opposition to such measure;
+29 (b) The total sum of all measure expenditures made by the reporting per-
+30 son since the first day of the preceding calendar year in support of or
+31 in opposition to any such measure; and
+32 (c) The name and address of any donor who made aggregate contributions
+33 of one thousand dollars ($1,000) or more to the person making the re-
+34 port since the first day of the preceding calendar year for the purpose
+35 of furthering the reported measure expenditure. The report may list as
+36 a single item the total amount of contributions made by donors who gave
+37 less than one thousand dollars ($1,000).
+38 (3) The report shall be filed with the secretary of state pursuant to
+39 this subsection.
+40 (a) In the case of a measure expenditure totaling one thousand dollars
+41 ($1,000) or more made on or before the sixteenth day before the election
+42 at which the referenced measure will appear on the ballot, the report
+43 shall be filed within forty-eight (48) hours of making the expenditure.
+44 (b) In the case of a measure expenditure totaling one thousand dollars
+45 ($1,000) or more made after the sixteenth day before an election but
+46 more than twenty-four (24) hours before the election at which the ref-
+47 erenced measure will appear on the ballot, the report shall be filed
+48 within twenty-four (24) hours of making the expenditure.
+
+25
+1 (c) In the case of measure expenditures totaling less than one thousand
+2 dollars ($1,000), the report shall be filed by the tenth day of the month
+3 following the month in which the measure expenditures were made.
+4 SECTION 6. That Chapter 3, Title 74, Idaho Code, be, and the same is
+5 hereby amended by the addition thereto of a NEW PART, to be known and desig-
+6 nated as Part 5, Chapter 3, Title 74, Idaho Code, and to read as follows:
+7 PART 5
+8 ADMINISTRATION OF CHAPTER -- DUTIES -- ENFORCEMENT -- VIOLATIONS --
+9 PENALTIES
+10 74-3-501. DUTIES OF SECRETARY OF STATE. (1) The secretary of state is
+11 charged with the enforcement of the provisions of this chapter.
+12 (2) The secretary of state shall maintain an online filing system for
+13 the filing and publication of all reports required pursuant to this chapter.
+14 The online filing system shall accommodate the filings of all candidates,
+15 political action committees, and others who are required to report pursuant
+16 to this chapter. The online filing system shall be designed to aid and en-
+17 sure compliance with the reporting requirements of this chapter. The online
+18 filing system shall be accessible on the secretary of state's website and be
+19 searchable by the public by candidate, committee, contribution, contribu-
+20 tor, date, expense, office, party, purpose, and any other content deemed ap-
+21 propriate by the secretary of state.
+22 (3) The secretary of state shall confirm the filing of each report filed
+23 pursuant to this chapter for statewide, legislative, and judicial district
+24 offices or measures within two (2) days after the due date of the report or
+25 after the date it is filed, whichever is later. The secretary of state shall
+26 notify a person required to file a report under this chapter immediately if:
+27 (a) It appears that the person has failed to file a report as required by
+28 law or that a report filed by the person does not conform to law; or
+29 (b) A written complaint is filed with the secretary of state by any reg-
+30 istered voter alleging that a person has failed to file a report as re-
+31 quired by law or that a report filed with the secretary of state does not
+32 conform to law or to the truth.
+33 (4) The secretary of state may require any person to answer in writing
+34 and under oath or affirmation any question within the knowledge of that per-
+35 son concerning the source of any contribution or expenditure.
+36 (5) The secretary of state may make administrative adjustments to cam-
+37 paign finance accounts in coordination with the political treasurer of the
+38 account to correct any imbalances identified. If the imbalance was accrued
+39 willfully and knowingly, the secretary of state may assess a fine not to ex-
+40 ceed twenty-five percent (25%) of the amount identified to be out of balance
+41 and deposit the amount assessed into the general fund.
+42 (6) In addition to duties otherwise prescribed in this section, it
+43 shall be the duty of the secretary of state:
+44 (a) To make investigations of reports filed under the provisions of
+45 this chapter with respect to statewide, legislative, and judicial of-
+46 fices and measures and alleged failures to file any report required
+47 under the provisions of this chapter and upon complaint by any person
+48 with respect to alleged violations of any part of this chapter;
+
+26
+1 (b) To report suspected criminal violations of law to the attorney gen-
+2 eral for referral to the appropriate law enforcement authorities;
+3 (c) To prescribe and publish rules, subject to legislative approval, in
+4 accordance with the provisions of chapter 52, title 67, Idaho Code, and
+5 to take such other actions as may be appropriate to carry out the provi-
+6 sions of this chapter; and
+7 (d) To assess fees and fines authorized by the provisions of this chap-
+8 ter.
+9 74-3-502. DUTIES OF COUNTY CLERKS AND PROSECUTORS. (1) For all report-
+10 ing requirements prescribed by this chapter for all local government offices
+11 or measures for which the county is the home county, as defined in section
+12 34-1401, Idaho Code, the county clerk shall serve in the place of the secre-
+13 tary of state and the county prosecutor in the place of the attorney general.
+14 (2) In the event of a potential conflict of interest by a county clerk, a
+15 county clerk may enter into an agreement with the clerk of a different county
+16 to investigate any complaints or potential violations of the provisions of
+17 this chapter.
+18 (3) Notwithstanding any provision of law to the contrary, any fines
+19 collected by a county clerk pursuant to this chapter shall be deposited in
+20 the county general fund of such county.
+21 74-3-503. FAILURE TO REPORT -- VIOLATIONS -- CIVIL FINES -- MISDE-
+22 MEANOR. (1) Except as otherwise provided in this section, any person who
+23 fails to file a report of contributions, expenditures, independent expen-
+24 ditures, or any other report required by this chapter shall be liable to the
+25 secretary of state for a civil fine in the amount of fifty dollars ($50.00)
+26 plus five percent (5%) of the monetary value of the amount not reported,
+27 rounded up to the nearest whole number. The secretary of state shall deposit
+28 any civil fines collected pursuant to this section in the general fund. The
+29 burden of proof for such civil liability shall be met by showing a preponder-
+30 ance of the evidence.
+31 (2) In addition to the fines set forth in subsection (1) of this sec-
+32 tion, any person who knowingly and willfully fails to file a report required
+33 by this chapter is guilty of a misdemeanor and, upon conviction, may be im-
+34 prisoned for up to six (6) months.
+35 74-3-504. LATE FILING OF REPORT -- FEES. (1) If any person registered
+36 with the secretary of state fails to file a report required by this chap-
+37 ter on or before the prescribed deadline, such person shall be liable to the
+38 secretary of state for a late fee in the amount of fifty dollars ($50.00)
+39 plus ten dollars ($10.00) for each day until the report is filed, which fee
+40 shall be deposited in the general fund. The late fee shall not exceed a to-
+41 tal of one thousand dollars ($1,000). Such fees shall be assessed begin-
+42 ning forty-eight (48) hours after the deadline and extend until the report
+43 is filed. The secretary of state shall notify the person and the political
+44 treasurer, if any, that a late fee has been assessed and will continue to ac-
+45 crue until the report has been filed. The notification shall be made by tele-
+46 phone or electronic means within twenty-four (24) hours of the missed filing
+47 deadline.
+
+27
+1 (2) The remedy provided in this section is cumulative and does not ex-
+2 clude any other remedy or penalty prescribed in this chapter.
+3 74-3-505. OTHER VIOLATIONS -- CIVIL FINES -- MISDEMEANOR. (1) Except
+4 as otherwise provided in subsection (2) of this section, any person who vi-
+5 olates a provision of this chapter that does not pertain to the failure to
+6 file a report or the late filing of a report shall be liable to the secretary
+7 of state for a civil fine in the amount of two thousand five hundred dollars
+8 ($2,500), plus five percent (5%) of the monetary value of the amount of the
+9 expenditure related to the violation, if applicable, rounded up to the near-
+10 est whole number. The secretary of state shall deposit any civil fines col-
+11 lected pursuant to this section in the general fund. The burden of proof for
+12 such civil liability shall be met by showing a preponderance of the evidence.
+13 (2) Any person who knowingly and willfully commits a violation of a pro-
+14 vision of this chapter that does not pertain to the failure to file a report
+15 or the late filing of a report is guilty of a misdemeanor and, upon convic-
+16 tion, may be imprisoned for up to six (6) months.
+17 74-3-506. ENFORCEMENT OF CIVIL FINES AND LATE FEES. If any civil fine
+18 or late fee prescribed under this part is not paid within sixty (60) days fol-
+19 lowing notice from the secretary of state's office, the secretary of state
+20 may publish the delinquent accounts on the public campaign finance website.
+21 Any civil fine or late fee remaining unpaid after sixty (60) days following
+22 notice from the secretary of state's office may be referred to the office of
+23 the attorney general or to the appropriate prosecuting attorney for collec-
+24 tion.
+25 74-3-507. PROSECUTION -- LIMITATION -- VENUE. (1) The attorney gen-
+26 eral may prosecute any violations of this chapter.
+27 (2) Prosecution for a civil or misdemeanor violation of this chapter
+28 must be commenced within two (2) years after the date on which the violation
+29 occurred. Prosecution for a felony violation of this chapter must be com-
+30 menced pursuant to the provisions of section 19-402, Idaho Code.
+31 (3) Venue for prosecution under the provisions of this chapter shall be
+32 in the county of residence of the defendant if the defendant is a resident of
+33 the state of Idaho, otherwise venue shall be in Ada county.
+34 74-3-508. INJUNCTIONS. The district courts of this state shall have
+35 original jurisdiction to issue injunctions to enforce the provisions of this
+36 chapter upon application by any citizen of this state, by the secretary of
+37 state, or by a county clerk. The court may in its discretion require the
+38 citizen plaintiff to file a written complaint with the secretary of state
+39 or county clerk prior to seeking injunctive relief. A successful plaintiff
+40 is entitled to be reimbursed for reasonable costs of litigation, including
+41 reasonable attorney's fees, by the person or persons named defendant in such
+42 injunctive action. A successful defendant is entitled to be reimbursed for
+43 reasonable costs of litigation, including reasonable attorney's fees, if
+44 the court determines that the plaintiff's action was without substantial
+45 merit.
+
+28
+1 74-3-509. SEVERABILITY. If any provision of this chapter or its ap-
+2 plication to any person or circumstance is held invalid, the remainder of
+3 the chapter or the application of the provision to other persons or circum-
+4 stances is not affected.
+5 74-3-510. CONSTRUCTION. The provisions of this chapter are to be lib-
+6 erally construed to effectuate the policies and purposes of this chapter. In
+7 the event of conflict between the provisions of this chapter and any other
+8 chapter, the provisions of this chapter shall govern.
+9 SECTION 7. That Chapter 18, Title 34, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 34-1807A, Idaho Code, and to read as follows:
+12 34-1807A. DISCLOSURE OF PAYMENTS MADE TO SIGNATURE GATHERERS. (1) Any
+13 person who pays or provides other valuable consideration in an aggregate
+14 amount of one hundred dollars ($100) or more to another person or persons in
+15 exchange for their actions or intended actions of gathering signatures on a
+16 ballot initiative petition or referendum shall file a report of the expendi-
+17 ture with the secretary of state.
+18 (2) The provisions of this section shall apply beginning on the date
+19 that the ballot initiative or referendum petitioners receive from the secre-
+20 tary of state the official ballot title for which the person is paying to have
+21 signatures gathered and shall continue for as long as the filer makes pay-
+22 ments to a signature gatherer or gatherers.
+23 (3) Reports shall be filed on or before the twentieth day of the month
+24 following the month during which the payments to the signature gatherers
+25 were made.
+26 (4) The report shall contain the following information:
+27 (a) The name and address of any signature gatherer to whom a payment
+28 in excess of fifty dollars ($50.00) has been made during the reported
+29 month; and
+30 (b) The total sum of all payments made to signature gatherers in the ag-
+31 gregate during the reported month.
+32 (5) In addition to the reports filed under subsection (3) of this sec-
+33 tion, any person who pays a signature gatherer or gatherers an aggregate
+34 amount of one thousand dollars ($1,000) or more shall file a notice of the
+35 expenditures with the secretary of state within forty-eight (48) hours of
+36 making the expenditure. The notice shall include the information required
+37 under subsection (4) of this section.
+38 (6) The secretary of state shall prescribe the form of the report re-
+39 quired under this section. The powers and duties of the secretary of state
+40 set forth in part 5, chapter 3, title 74, Idaho Code, shall apply and be
+41 available to the secretary of state for enforcement of the provisions of this
+42 section.
+43 SECTION 8. That Section 19-5904, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 19-5904. STATE APPELLATE PUBLIC DEFENDER -- APPOINTMENT -- TERM --
+46 QUALIFICATIONS -- PROHIBITED CONDUCT -- REMOVAL -- VACANCIES -- COMPEN-
+
+29
+1 SATION. (1) The state appellate public defender shall be appointed by the
+2 governor, with the advice and consent of the senate, to serve a four (4) year
+3 term and may be reappointed to subsequent terms in the same manner.
+4 (2) The state appellate public defender must meet the following quali-
+5 fications on the effective date of his appointment:
+6 (a) Be at least thirty (30) years of age;
+7 (b) Be a citizen of the United States;
+8 (c) Have held a license to practice law or a judicial office in one (1)
+9 or more jurisdictions of the United States for at least five (5) contin-
+10 uous years immediately preceding such appointment;
+11 (d) Be or become an active member of the Idaho state bar within one (1)
+12 year of appointment and remain an active member in good standing there-
+13 after; and
+14 (e) Have at least five (5) years of criminal defense or appellate expe-
+15 rience, or a combination thereof.
+16 (3) The state appellate public defender shall not:
+17 (a) Engage in the practice of law outside his role in the office of the
+18 state appellate public defender, except for the practice of law that is
+19 permitted for a judge by the Idaho code of judicial conduct;
+20 (b) Hold or be a candidate for any federal, state, county, municipal,
+21 judicial, district, or other elective office; provided, however, this
+22 section shall not be interpreted to prohibit the state appellate public
+23 defender from seeking appointment to another office, including state or
+24 federal judicial office;
+25 (c) Serve as the agent, representative, officer, political treasurer,
+26 or employee, for profit or otherwise, of any political party, political
+27 committee, or candidate, as such terms are defined in chapter 66, title
+28 67 chapter 3, title 74, Idaho Code; or
+29 (d) Hold any other public or private sector position, for profit or oth-
+30 erwise, except for volunteer positions that are not inconsistent with
+31 the duties of the state appellate public defender.
+32 (4) The state appellate public defender may be removed from office by
+33 the governor for failing to retain the qualifications of his office estab-
+34 lished in subsection (2) of this section, for engaging in prohibited conduct
+35 set forth in subsection (3) of this section, or for good cause shown. If the
+36 state appellate public defender is removed from office, the governor shall
+37 provide the house of representatives and the senate written notice of the re-
+38 moval, the effective date of removal, and the reason or reasons therefor.
+39 (5) If the state appellate public defender resigns, dies, or is removed
+40 from office as provided by law, the governor shall appoint a person who meets
+41 the qualifications established in this section, subject to the advice and
+42 consent of the senate, to fill the remainder of the unexpired term.
+43 (6) The state appellate public defender shall be compensated in an
+44 amount determined by the governor.
+45 SECTION 9. That Section 19-6004, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+47 19-6004. STATE PUBLIC DEFENDER -- APPOINTMENT -- TERM -- PROHIBITED
+48 CONDUCT -- REMOVAL -- VACANCIES -- REAPPOINTMENT -- COMPENSATION. (1) The
+49 state public defender shall reside in the office of the state public defender
+
+30
+1 and shall be appointed by the governor, in a manner consistent with subsec-
+2 tion (6) of this section, to serve a four (4) year term.
+3 (2) The state public defender must meet the following qualifications on
+4 the effective date of appointment:
+5 (a) Be at least thirty (30) years of age;
+6 (b) Be a citizen of the United States;
+7 (c) Have held a license to practice law or a judicial office in one (1)
+8 or more jurisdictions of the United States for at least five (5) contin-
+9 uous years immediately preceding the appointment;
+10 (d) Be or become an active member of the Idaho state bar within one (1)
+11 year of appointment and remain an active member in good standing there-
+12 after; and
+13 (e) Have at least five (5) years of criminal defense experience.
+14 (3) The state public defender shall not:
+15 (a) Engage in the practice of law outside his role in the office of the
+16 state public defender, except for the practice of law that is permitted
+17 for a judge by the Idaho code of judicial conduct;
+18 (b) Hold or be a candidate for any federal, state, county, municipal,
+19 judicial, district, or other elective office; provided, however, this
+20 paragraph does not prohibit the state public defender from seeking ap-
+21 pointment to another office, including state or federal judicial of-
+22 fice;
+23 (c) Serve as the agent, representative, officer, political treasurer,
+24 or employee, whether for profit or otherwise, of any political party,
+25 political committee, or candidate, as such terms are defined in chapter
+26 1, title 34, Idaho Code, and chapter 66, title 67 chapter 3, title 74,
+27 Idaho Code; or
+28 (d) Hold any other public or private sector position, for profit or oth-
+29 erwise, except for volunteer positions that are not inconsistent with
+30 the duties of the state public defender.
+31 (4) The state public defender may be removed from office by the gover-
+32 nor for failing to retain the qualifications of his office provided in sub-
+33 section (2) of this section, for engaging in prohibited conduct set forth in
+34 subsection (3) of this section, or for good cause shown. If the state pub-
+35 lic defender is removed from office, the governor shall provide the house of
+36 representatives and the senate written notice of the removal, the effective
+37 date of removal, and the reason or reasons therefor.
+38 (5) If the state public defender resigns, dies, or is removed from of-
+39 fice as provided by law, the governor shall appoint a person who meets the
+40 qualifications established in this section, in a manner consistent with sub-
+41 section (6) of this section, to fill the unexpired term.
+42 (6) The governor shall appoint a state public defender in the following
+43 manner:
+44 (a) Whenever a vacancy arises in the position of state public defender,
+45 the governor shall appoint a panel with seven (7) members, with one
+46 (1) panel member appointed from the membership of each of the seven (7)
+47 district magistrates commissions. Not less than two (2) but not more
+48 than (3) panel members shall be attorneys, not more than two (2) but not
+49 less than one (1) panel member shall be a county commissioner, and one
+50 (1) member shall be a mayor. The governor shall not appoint to the panel
+
+31
+1 any member of a district magistrates commission who is a judge, who is
+2 employed as a criminal prosecutor, or who otherwise prosecutes or aids
+3 in the prosecution of criminal cases, or any person employed in a law
+4 enforcement agency. The governor shall select a member of the panel to
+5 serve as chairman. The provisions of section 1-2203B(4), Idaho Code,
+6 regarding current or former law partners shall apply to any attorney
+7 serving on the panel. Members of the panel shall be compensated by the
+8 office of the state public defender as provided in section 59-509(b),
+9 Idaho Code.
+10 (b) It shall be the duty of the panel to recruit applicants, review can-
+11 didates, and submit to the governor a list of not less than three (3),
+12 but not more than five (5), attorneys who meet the qualifications es-
+13 tablished in this chapter, and the governor shall appoint the state pub-
+14 lic defender from the list, with the advice and consent of the senate.
+15 If three (3) qualified candidates or fewer apply, the panel shall sub-
+16 mit all applicants to the governor and may communicate to the governor
+17 or the governor's representative, in executive session pursuant to sec-
+18 tion 74-206(1)(a), Idaho Code, a ranking of the applicants, and the gov-
+19 ernor shall appoint the state public defender from the list, with the
+20 advice and consent of the senate. The governor and the office of the
+21 state public defender may assist the panel in drawing the largest pool
+22 of qualified applicants.
+23 (c) Once the governor appoints the state public defender, the panel
+24 shall disband until reconstituted by the governor consistent with this
+25 section.
+26 (7) When the state public defender's term expires under the law, the
+27 governor may reappoint the state public defender to subsequent four (4) year
+28 terms, with the advice and consent of the senate, or the governor may con-
+29 stitute a panel consistent with subsection (6) of this section to nominate
+30 candidates and appoint a state public defender from the list produced by the
+31 panel, with the advice and consent of the senate.
+32 (8) The state public defender shall be compensated in an amount deter-
+33 mined by the governor.
+34 SECTION 10. That Section 44-2602, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 44-2602. DEFINITIONS. (1) As used in this chapter the following terms
+37 have the following meanings:
+38 (a) "Ballot proposition" includes initiatives, referenda, proposed
+39 constitutional amendments, and any other items submitted to the voters
+40 for their approval or rejection.
+41 (b) "Filing entity" means a candidate, officeholder, political commit-
+42 tee, political party, and each other entity required to report contri-
+43 butions under chapter 66, title 67 chapter 3, title 74, Idaho Code.
+44 (c) "Fund" means the separate segregated fund established by a labor
+45 organization for political purposes according to the procedures and re-
+46 quirements of this chapter.
+47 (d)(i) "Labor organization" means any association or organi-
+48 zation of employees, and any agency, employee representation
+49 committee, or plan in which employees participate that exists, in
+
+32
+1 whole or in part, to advocate on behalf of employees about griev-
+2 ances, labor disputes, wages, rates of pay, hours of employment or
+3 conditions of employment.
+4 (ii) Except as provided in subsection (1)(d)(iii) of this sec-
+5 tion, "labor organization" includes each employee association and
+6 union for employees of public and private sector employers.
+7 (iii) "Labor organization" does not include organizations gov-
+8 erned by the national labor relations act, 29 U.S.C. section 151,
+9 et seq. or the railway labor act, 45 U.S.C. section 151, et seq.
+10 (e) "Political activities" means electoral activities, independent
+11 expenditures, or expenditures made to any candidate, political party,
+12 political action committee or political issues committee or in support
+13 of or against any ballot measure.
+14 (f) "Union dues" means dues, fees or other moneys required as a condi-
+15 tion of membership in a labor organization.
+16 (2) Other terms defined in chapter 66, title 67 chapter 3, title 74,
+17 Idaho Code, apply to this chapter.
+18 SECTION 11. That Section 44-2605, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 44-2605. REGISTRATION -- DISCLOSURE. Each fund established by a labor
+21 organization under this chapter shall:
+22 (1) Register as a political committee as required by chapter 66, title
+23 67 chapter 3, title 74, Idaho Code; and
+24 (2) File the financial reports for political committees required by
+25 chapter 66, title 67 chapter 3, title 74, Idaho Code.
+26 SECTION 12. That Section 50-2006, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 50-2006. URBAN RENEWAL AGENCY -- AUTHORIZATION -- DISSOLUTION.
+29 (1)(a) There is hereby created in each municipality an independent pub-
+30 lic body corporate and politic to be known as the "urban renewal agency"
+31 that was created by resolution as provided in section 50-2005, Idaho
+32 Code, before July 1, 2011, for the municipality; provided, that such
+33 agency shall not transact any business or exercise its powers hereunder
+34 until or unless the local governing body has made the findings pre-
+35 scribed in section 50-2005, Idaho Code.
+36 (b) An urban renewal agency created after July 1, 2011, shall not trans-
+37 act any business or exercise its powers provided for in this chapter
+38 until a majority of qualified electors, voting in a citywide or coun-
+39 tywide election, depending on the municipality in which such agency is
+40 created, vote to authorize such agency to transact business and exer-
+41 cise its powers provided for in this chapter. If prior to July 1, 2011,
+42 the local governing body has made the findings prescribed in paragraph
+43 (a) of this subsection, then such agency shall transact business and
+44 shall exercise its powers hereunder and is not subject to the require-
+45 ments of this paragraph.
+46 (2) Upon satisfaction of the requirements under subsection (1) of this
+47 section, the urban renewal agency is authorized to transact the business and
+
+33
+1 exercise the powers hereunder by a board of commissioners to be established
+2 as follows:
+3 (a) Unless provided otherwise in this section, the mayor, by and with
+4 the advice and consent of the local governing body, shall appoint a
+5 board of commissioners of the urban renewal agency, which shall consist
+6 of not less than three (3) commissioners nor more than nine (9) commis-
+7 sioners. In the order of appointment, the mayor shall designate the
+8 number of commissioners to be appointed, and the term of each, provided
+9 that the original term of office of no more than two (2) commissioners
+10 shall expire in the same year. The commissioners shall serve for terms
+11 not to exceed five (5) years, from the date of appointment, except that
+12 all vacancies shall be filled for the unexpired term.
+13 (b) For inefficiency or neglect of duty or misconduct in office, a com-
+14 missioner may be removed by a majority vote of the local governing body
+15 only after a hearing and after he shall have been given a copy of the
+16 charges at least ten (10) days prior to such hearing and have had an op-
+17 portunity to be heard in person or by counsel. Any commission position
+18 that becomes vacant at a time other than the expiration of a term shall
+19 be filled by the mayor or chair of the board of county commissioners, if
+20 that is the local governing body, by and with the advice and consent of
+21 the local governing body, including the mayor, if applicable, and shall
+22 be filled for the unexpired term.
+23 (c) By enactment of an ordinance, the local governing body may appoint
+24 and designate, from among its members, members of the board of commis-
+25 sioners of the urban renewal agency, provided that such representation
+26 shall be less than a majority of the board of commissioners of the urban
+27 renewal agency of the members of the local governing body on and after
+28 July 1, 2017, in which case all the rights, powers, duties, privileges,
+29 and immunities vested by the urban renewal law of 1965, and as amended,
+30 in an appointed board of commissioners, shall be vested in the local
+31 governing body, which shall, in all respects when acting as an urban re-
+32 newal agency, be acting as an arm of state government, entirely separate
+33 and distinct from the municipality, to achieve, perform, and accomplish
+34 the public purposes prescribed and provided by said urban renewal law of
+35 1965, and as amended.
+36 (d) By enactment of an ordinance, the local governing body may termi-
+37 nate the appointed board of commissioners and thereby appoint and des-
+38 ignate itself as the board of commissioners of the urban renewal agency
+39 for not more than one (1) calendar year.
+40 (e) By enactment of an ordinance, the local governing body may provide
+41 that the board of commissioners of the urban renewal agency shall be
+42 elected at an election held for such purpose on one (1) of the November
+43 dates provided in section 34-106, Idaho Code, and the ordinance may pro-
+44 vide term limits for the commissioners. In this case, all the rights,
+45 powers, duties, privileges, and immunities vested by the urban renewal
+46 law of 1965, and as amended, in an appointed board of commissioners,
+47 shall be vested in the elected board of commissioners of the urban
+48 renewal agency, which shall, in all respects when acting as an urban re-
+49 newal agency, be acting as an arm of state government, entirely separate
+50 and distinct from the municipality, to achieve, perform, and accomplish
+
+34
+1 the public purposes prescribed and provided by said urban renewal law
+2 of 1965, and as amended. The provisions of chapter 66, title 67 chapter
+3 3, title 74, Idaho Code, shall apply to elected commissioners, and the
+4 county election law shall apply to the person running for commissioner
+5 as if the person were running for county commissioner. In the event of a
+6 vacancy in an elected commissioner position, the replacement shall be
+7 appointed by the mayor or chair of the board of county commissioners, if
+8 that is the local governing body, by and with the advice and consent of
+9 the local governing body, and shall be filled for the unexpired term.
+10 (3) In all instances, a member of the board of commissioners of the ur-
+11 ban renewal agency must be a resident of the county where the urban renewal
+12 agency is located or is doing business.
+13 (4) A commissioner shall receive no compensation for his services but
+14 shall be entitled to the necessary expenses, including travel expenses, in-
+15 curred in the discharge of his duties. Each commissioner shall hold office
+16 until his successor has been appointed and has qualified. A certificate of
+17 the appointment or reappointment of any commissioner shall be filed with the
+18 clerk of the municipality and such certificate shall be conclusive evidence
+19 of the due and proper appointment of such commissioner.
+20 (5)(a) The powers of an urban renewal agency shall be exercised by the
+21 commissioners thereof. A majority of the commissioners shall consti-
+22 tute a quorum for the purpose of conducting business and exercising the
+23 powers of the agency and for all other purposes. Action may be taken by
+24 the agency upon a vote of a majority of the commissioners present, un-
+25 less in any case the bylaws shall require a larger number.
+26 (b) The commissioners shall elect the chairman, cochairman, or vice
+27 chairman for a term of one (1) year from among their members. An agency
+28 may employ an executive director, technical experts, and such other
+29 agents and employees, permanent and temporary, as it may require, and
+30 determine their qualifications, duties, and compensation. For such
+31 legal service as it may require, an agency may employ or retain its own
+32 counsel and legal staff.
+33 (c) An agency authorized to transact business and exercise powers un-
+34 der this chapter shall file, with the local governing body, on or be-
+35 fore March 31 of each year a report of its activities for the preced-
+36 ing calendar year, which report shall include the financial data and au-
+37 dit reports required under sections 67-1075 and 67-1076, Idaho Code.
+38 The agency shall be required to hold a public meeting to report these
+39 findings and take comments from the public. At the time of filing the
+40 report, the agency shall publish in a newspaper of general circulation
+41 in the community a notice to the effect that such report has been filed
+42 with the municipality and the state controller and that the report is
+43 available for inspection during business hours in the office of the city
+44 clerk or county recorder, in the office of the agency, and at all times
+45 on the website of the state controller.
+46 (d) An urban renewal agency shall have the same fiscal year as a mu-
+47 nicipality and shall be subject to the same audit requirements as a mu-
+48 nicipality. An urban renewal agency shall be required to prepare and
+49 file with its local governing body an annual financial report and shall
+50 prepare, approve, and adopt an annual budget for filing with the local
+
+35
+1 governing body, for informational purposes. A budget means an annual
+2 estimate of revenues and expenses for the following fiscal year of the
+3 agency.
+4 (6) An urban renewal agency shall comply with the public records law
+5 pursuant to chapter 1, title 74, Idaho Code, open meetings law pursuant to
+6 chapter 2, title 74, Idaho Code, the ethics in government law pursuant to
+7 chapter 4, title 74, Idaho Code, and the competitive bidding provisions of
+8 chapter 28, title 67, Idaho Code.
+9 (7) A local governing body that has created an urban renewal agency may
+10 dissolve the urban renewal agency by the enactment of an ordinance as pro-
+11 vided in this subsection. Before such local governing body may dissolve an
+12 urban renewal agency, it shall adopt a resolution of intent to dissolve the
+13 urban renewal agency, which resolution shall be transmitted to the urban re-
+14 newal agency. Upon the adoption of the resolution of intent to dissolve,
+15 the urban renewal agency shall no longer have any authority to initiate any
+16 new urban renewal projects or to take on any additional financial obliga-
+17 tions other than such obligations as are necessary to wind down its affairs.
+18 The local governing body and the board of commissioners of the urban renewal
+19 agency shall then participate in a joint meeting to discuss dissolution. If
+20 following the joint meeting the local governing body of an authorized munic-
+21 ipality makes a finding that there no longer exists a need for the urban re-
+22 newal agency in the municipality, the local governing body shall provide, by
+23 ordinance, for a dissolution of the agency. The ordinance shall be effec-
+24 tive upon publication. The ordinance shall be recorded in the real property
+25 records of the county in which the agency operated. The local governing body
+26 shall transmit a copy of the recorded dissolution ordinance to the urban re-
+27 newal agency, the county clerk, and the state tax commission within ten (10)
+28 business days of the recording date. Upon dissolution of the urban renewal
+29 agency, title to all property of the urban renewal agency shall revert to the
+30 municipality.
+31 SECTION 13. That Section 67-5282, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 67-5282. DUTIES AND PROHIBITED CONDUCT OF THE CHIEF ADMINISTRATIVE
+34 LAW JUDGE. (1) The chief administrative law judge shall:
+35 (a) Serve as the administrator of the office of administrative hear-
+36 ings;
+37 (b) Conduct such contested case proceedings and such other proceedings
+38 as are conducted by the office of administrative hearings in accordance
+39 with section 67-5280(2)(a) and (b), Idaho Code;
+40 (c) Devote full-time to the office of administrative hearings and his
+41 obligations as chief administrative law judge;
+42 (d) Subject to applicable law and regulation, appoint, supervise, and
+43 remove administrative law judges and staff as he deems appropriate to
+44 the proper functioning of the office of administrative hearings, deter-
+45 mine the duties of such appointees as he deems appropriate, and, from
+46 among the administrative law judges employed by the office of adminis-
+47 trative hearings, designate a deputy chief administrative law judge to
+48 act in place of the chief administrative law judge when the chief admin-
+49 istrative law judge is unable to perform his duties;
+
+36
+1 (e) Have the authority to promulgate rules, pursuant to the provisions
+2 of this chapter, to implement sections 67-5280 through 67-5286, Idaho
+3 Code;
+4 (f) Establish a hearing officer code of conduct that shall, among other
+5 things, provide for independent and unbiased decision-making by hear-
+6 ing officers both as perceived and in fact and provide for a system to
+7 monitor compliance with, and sanction violations of, the hearing offi-
+8 cer code of conduct;
+9 (g) Protect and ensure the decisional independence of administrative
+10 law judges and independent contractor hearing officers;
+11 (h) Implement a system for monitoring the quality of contested case
+12 proceedings and such other proceedings as are conducted by the office of
+13 administrative hearings in accordance with section 67-5280(2)(a) and
+14 (b), Idaho Code;
+15 (i) At his discretion, unless otherwise prohibited by state or federal
+16 law, retain independent contractor hearing officers at reasonable and
+17 consistent rates of compensation; provided that an independent con-
+18 tractor hearing officer with specialized expertise may be compensated
+19 at a higher rate if such expertise is necessary to the proper adjudica-
+20 tion of the case and such higher rate of compensation is necessary in
+21 order to obtain such expertise; and
+22 (j) Contract with agencies to conduct such adjudicatory hearings, me-
+23 diations, and arbitrations authorized by section 67-5280(2)(b), Idaho
+24 Code.
+25 (2) The chief administrative law judge shall not:
+26 (a) Engage in the practice of law outside of his role in the office of
+27 administrative hearings, except for the practice of law that is permit-
+28 ted for a judge by the Idaho code of judicial conduct and is not incon-
+29 sistent with the code of conduct or his duties as chief administrative
+30 law judge;
+31 (b) Hold, or be a candidate for, any federal, state, county, municipal,
+32 district, or other elective office;
+33 (c) Serve as the agent, representative, officer, political treasurer,
+34 or employee, whether for profit or otherwise, of any political party,
+35 political committee, or candidate as defined in either chapter 1, title
+36 34 or chapter 66, title 67 chapter 3, title 74, Idaho Code, or otherwise;
+37 and
+38 (d) Hold any other public or private-sector position, whether for
+39 profit or otherwise, except for volunteer or adjunct faculty positions
+40 that are not inconsistent with his duties as chief administrative law
+41 judge.
+42 SECTION 14. That Section 72-1503, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 72-1503. POLITICAL ACTIVITIES PROHIBITED. No person may serve on the
+45 commission who is a candidate for political office as the term "candidate"
+46 is defined in section 67-6602 74-3-102, Idaho Code. In the event a person
+47 serving on the commission becomes a candidate, a vacancy on the commission
+48 shall be declared by the secretary of state, and filled as provided by law.
+
+37
+1 SECTION 15. That Chapter 66, Title 67, Idaho Code, be, and the same is
+2 hereby repealed.
+3 SECTION 16. APPLICABILITY. Any person already registered with the sec-
+4 retary of state prior to July 1, 2026, shall bring his reports into compli-
+5 ance with the provisions of this act by no later than the date on which the
+6 person's next annual report is due.
+7 SECTION 17. An emergency existing therefor, which emergency is hereby
+8 declared to exist, this act shall be in full force and effect on and after
+9 July 1, 2026.

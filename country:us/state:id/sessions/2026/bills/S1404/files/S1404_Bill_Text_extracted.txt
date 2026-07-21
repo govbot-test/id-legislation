@@ -1,0 +1,112 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1404
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE DEPARTMENT OF AGRICULTURE; APPROPRIAT-
+3 ING ADDITIONAL MONEYS TO THE DEPARTMENT OF AGRICULTURE FOR FISCAL YEAR
+4 2027; APPROPRIATING AND TRANSFERRING MONEYS FROM THE GENERAL FUND TO
+5 THE PEST CONTROL DEFICIENCY FUND FOR FISCAL YEAR 2026; APPROPRIATING
+6 ADDITIONAL MONEYS FOR FISCAL YEAR 2026; PROVIDING REAPPROPRIATION AU-
+7 THORITY; AND DECLARING AN EMERGENCY AND PROVIDING EFFECTIVE DATES.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. In addition to any other appropriation provided by law,
+10 there is hereby appropriated to the Department of Agriculture the follow-
+11 ing amounts to be expended according to the designated programs and expense
+12 classes from the listed funds for the period July 1, 2026, through June 30,
+13 2027:
+14 FOR FOR
+15 OPERATING CAPITAL
+16 EXPENDITURES OUTLAY TOTAL
+17 I. ADMINISTRATION:
+18 FROM:
+19 AdministrationandAccountingServices
+20 Fund $16,600 $29,800 $46,400
+21 II. ANIMAL INDUSTRIES:
+22 FROM:
+23 AgriculturalFees-LivestockDiseaseControl
+24 Fund $81,000 $81,000
+25 AgriculturalFees-DairyInspection
+26 Fund 30,000 30,000
+27 Federal Grant
+28 Fund 31,800 31,800
+29 TOTAL $142,800 $142,800
+30 III. AGRICULTURAL RESOURCES:
+31 FROM:
+32 Agricultural Fees - Pesticides
+33 Fund $1,900 $13,300 $15,200
+
+2
+1 FOR FOR
+2 OPERATING CAPITAL
+3 EXPENDITURES OUTLAY TOTAL
+4 IV. PLANT INDUSTRIES:
+5 FROM:
+6 Agricultural Inspection
+7 Fund $35,000 $35,000
+8 Invasive Species
+9 Fund 238,400 238,400
+10 AgriculturalFees-CommercialFeedandFertilizer
+11 Fund 93,000 93,000
+12 Agricultural Fees - Hemp
+13 Fund 12,000 12,000
+14 QualityAssuranceLaboratoryServices
+15 Fund 9,500 9,500
+16 Federal Grant
+17 Fund 32,400 32,400
+18 TOTAL $420,300 $420,300
+19 V. AGRICULTURAL INSPECTIONS:
+20 FROM:
+21 Weights and Measures Inspection
+22 Fund $31,100 $31,100
+23 AgriculturalFees-OrganicFoodProducts
+24 Fund 55,300 55,300
+25 AgriculturalFees- FreshFruitandVegetableInspection
+26 Fund 112,500 112,500
+27 TOTAL $198,900 $198,900
+28 VI. MARKET DEVELOPMENT:
+29 FROM:
+30 Agricultural Inspection
+31 Fund $6,300 $6,300
+32 GRAND TOTAL $18,500 $811,400 $829,900
+33 SECTION 2. There is hereby appropriated and the Office of the State Con-
+34 troller shall transfer $1,298,600 from the General Fund to the Pest Control
+35 Deficiency Fund as soon as practicable for the period July 1, 2025, through
+36 June 30, 2026. Such moneys shall be used to reimburse costs incurred by the
+
+3
+1 Plant Industries Program in the Department of Agriculture pursuant to Sec-
+2 tion 22-2019, Idaho Code.
+3 SECTION 3. In addition to the appropriation made in Section 1, Chap-
+4 ter 97, Laws of 2025, and any other appropriation provided by law, there is
+5 hereby appropriated to the Department of Agriculture for the Plant Indus-
+6 tries Program the following amounts to be expended according to the desig-
+7 nated expense classes from the Invasive Species Fund for the period July 1,
+8 2025, through June 30, 2026:
+9 FOR:
+10 Personnel Costs $27,000
+11 Operating Expenditures 3,345,500
+12 Capital Outlay 20,500
+13 TOTAL $3,393,000
+14 SECTION 4. REAPPROPRIATION AUTHORITY FOR THE FEDERAL GRANT FUND. There
+15 is hereby reappropriated to the Department of Agriculture any unexpended and
+16 unencumbered balances appropriated or reappropriated to the Department of
+17 Agriculture for the Resilient Food Systems Infrastructure Grant in fiscal
+18 year 2026, to be used for nonrecurring expenditures for the period July 1,
+19 2026, through June 30, 2027. The Department of Agriculture shall confirm the
+20 reappropriation amount, by fund, expense class, and program with the Leg-
+21 islative Services Office prior to processing the reappropriation authorized
+22 herein.
+23 SECTION 5. An emergency existing therefor, which emergency is hereby
+24 declared to exist, Sections 2 and 3 of this act shall be in full force and ef-
+25 fect on and after passage and approval, and Sections 1 and 4 of this act shall
+26 be in full force and effect on and after July 1, 2026.

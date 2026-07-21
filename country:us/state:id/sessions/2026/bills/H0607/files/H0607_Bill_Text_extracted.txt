@@ -1,0 +1,302 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 607
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PRIVACY AND SAFETY IN RESTROOMS AND CHANGING FACILITIES; AMEND-
+3 ING TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 48, TITLE
+4 67, IDAHO CODE, TO PROVIDE LEGISLATIVE FINDINGS, TO DEFINE TERMS,
+5 TO ESTABLISH PROVISIONS REGARDING GOVERNMENT BUILDING RESTROOMS AND
+6 CHANGING FACILITIES, TO PROVIDE FOR EXEMPTIONS, TO PROVIDE FOR REASON-
+7 ABLE ACCOMMODATION, TO ESTABLISH A CIVIL CAUSE OF ACTION, TO PROVIDE
+8 FOR PREEMPTION, AND TO ESTABLISH CERTAIN LIMITATIONS; AMENDING TITLE
+9 6, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 40, TITLE 6, IDAHO CODE,
+10 TO PROVIDE LEGISLATIVE FINDINGS, TO DEFINE TERMS, TO ESTABLISH CERTAIN
+11 DUTIES OF PLACES OF PUBLIC ACCOMMODATION, TO PROVIDE FOR EXEMPTIONS, TO
+12 PROVIDE FOR REASONABLE ACCOMMODATION, TO PROVIDE FOR CERTAIN LIABILITY
+13 FOR PLACES OF PUBLIC ACCOMMODATION, TO PROVIDE FOR PREEMPTION, AND TO
+14 ESTABLISH CERTAIN LIMITATIONS; PROVIDING SEVERABILITY; AND DECLARING
+15 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. That Title 67, Idaho Code, be, and the same is hereby amended
+18 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+19 ter 48, Title 67, Idaho Code, and to read as follows:
+20 CHAPTER 48
+21 PROTECTING PRIVACY AND SAFETY IN GOVERNMENT BUILDINGS
+22 67-4801. LEGISLATIVE FINDINGS. The legislature finds and declares
+23 that:
+24 (1) There are real, inherent, and enduring physical differences be-
+25 tween men and women.
+26 (2) Every individual retains a natural right to privacy and safety, es-
+27 pecially in restrooms and changing facilities where such individual might be
+28 in a partial or full state of undress in the presence of others.
+29 (3) Requiring individuals to share restrooms and changing facilities
+30 with members of the other sex infringes on their interest in privacy and
+31 generates potential embarrassment, shame, and psychological injury to those
+32 individuals.
+33 (4) Requiring individuals to share restrooms and changing facilities
+34 with members of the other sex creates real privacy and safety concerns by
+35 increasing the likelihood of sexual assault, molestation, rape, voyeurism,
+36 and exhibitionism.
+37 (5) There are numerous well-documented examples illustrating that
+38 there are real privacy and safety implications when members of one sex are
+39 permitted to access restrooms and changing facilities designated for use by
+40 the other sex.
+
+2
+1 (6) The legislature has the clear authority, as acknowledged by the
+2 ninth and tenth amendments to the constitution of the United States, to enact
+3 legislation to safeguard the natural rights of privacy and safety.
+4 (7) A policy maintaining sex-separated restrooms and changing facili-
+5 ties in government buildings is substantially related to the important gov-
+6 ernmental interest in protecting the privacy, safety, and dignity of indi-
+7 viduals using such spaces.
+8 67-4802. DEFINITIONS. For the purposes of this chapter:
+9 (1) "Changing facility" means a facility in which an individual may be
+10 in a state of undress in the presence of others, including a locker room,
+11 changing room, or shower room.
+12 (2) "Female" has the same meaning as defined in section 73-114, Idaho
+13 Code.
+14 (3) "Government building" means any building or facility owned or
+15 leased by a government entity and shall include any building or facility that
+16 a government entity leases from the property owner. If a government entity
+17 leases only a portion of a building, then only the portion of the building
+18 leased by the government entity shall be treated as a government building.
+19 (4) "Government entity" means the state or any city, county, municipal-
+20 ity, or other political subdivision or administrative unit of the state.
+21 (5) "Male" has the same meaning as defined in section 73-114, Idaho
+22 Code.
+23 (6) "Sex" has the same meaning as defined in section 73-114, Idaho Code.
+24 67-4803. GOVERNMENT BUILDING RESTROOMS AND CHANGING FACILITIES. (1)
+25 Every government building restroom or changing facility accessible by mul-
+26 tiple individuals at the same time shall be:
+27 (a) Designated for use by male individuals only or female individuals
+28 only; and
+29 (b) Used only by individuals of the sex corresponding to the designa-
+30 tion provided for in paragraph (a) of this subsection.
+31 (2) No individual shall enter a multi-occupancy restroom or changing
+32 facility within a government building that is designated for one (1) sex un-
+33 less such individual is a member of that sex.
+34 (3) The government entity with authority over the government building
+35 shall provide its users with privacy from members of the other sex in every
+36 restroom and changing facility.
+37 67-4804. EXEMPTIONS. This chapter shall not apply:
+38 (1) To single-occupancy restrooms and changing facilities;
+39 (2) To single-occupancy restrooms and changing facilities that are
+40 conspicuously designated for family use;
+41 (3) To restrooms and changing facilities that have been temporarily
+42 designated for use by the other sex;
+43 (4) To an individual who uses a restroom or changing facility desig-
+44 nated for the other sex if such restroom or changing facility is the only re-
+45 stroom or changing facility reasonably available at the time of the individ-
+46 ual's use of the facility, provided that such individual ensures that no per-
+
+3
+1 son of the opposite sex is using the restroom or changing facility prior to
+2 entering the facility;
+3 (5) To an individual employed to clean, maintain, or inspect a restroom
+4 or changing facility while such individual is actively engaged in the activ-
+5 ity for which the individual has been employed, provided that such individ-
+6 ual ensures no person of the opposite sex is using the restroom or changing
+7 facility prior to entering the facility;
+8 (6) To an individual who enters a restroom or changing facility to ren-
+9 der medical assistance;
+10 (7) To a law enforcement official engaged in law enforcement activities
+11 or supervising any arrestee, detainee, or inmate in a custodial setting;
+12 (8) To an individual who enters a restroom or changing facility to ac-
+13 company and render assistance to a person who is in need of assistance if such
+14 person rendering assistance is:
+15 (a) A family member or a legal guardian of the person needing assis-
+16 tance; or
+17 (b) The designee of the person in need of assistance and the designee is
+18 not a member of the designated sex for the single-sex restroom or chang-
+19 ing facility.
+20 (9) To a minor child who is in need of assistance and, for the purposes
+21 of receiving that assistance, is accompanied by a family member, a legal
+22 guardian, or the individual's designee who is a member of the designated sex
+23 for the single-sex restroom or changing facility;
+24 (10) To coaching staff and personnel during athletic events, provided
+25 that such individuals take reasonable steps to ensure that no person is in a
+26 state of undress prior to entering the facility; or
+27 (11) During an ongoing natural disaster or emergency, or when necessary
+28 to prevent a serious threat to good order or public safety.
+29 67-4805. REASONABLE ACCOMMODATION. (1) A government entity with au-
+30 thority over any government building may provide a reasonable accommodation
+31 to any individual who for any reason is unwilling or unable to use a multi-oc-
+32 cupancy restroom or changing facility designated for the individual's sex in
+33 a government building.
+34 (2) A reasonable accommodation shall not include access to a restroom
+35 or changing facility that is designated for use by members of the other sex
+36 while individuals of the other sex are present or could be present.
+37 67-4806. CIVIL CAUSE OF ACTION. (1) Any individual who, while access-
+38 ing or using a government building multi-occupancy restroom or changing fa-
+39 cility designated for use by the individual's sex, encounters a member of the
+40 other sex shall have a private cause of action against the government entity
+41 with authority over the government building if:
+42 (a) The government entity gave the member of the other sex permission to
+43 use the restroom or changing facility designated for use by the individ-
+44 ual's sex; or
+45 (b) The government entity failed to take reasonable steps to prohibit
+46 the member of the other sex from accessing the restroom or changing fa-
+47 cility designated for use by the individual's sex.
+
+4
+1 (2) Any civil action arising under this chapter must be commenced
+2 within two (2) years after the cause of action has occurred.
+3 (3) Any plaintiff who prevails in an action brought under this chap-
+4 ter may recover from the defendant government entity ten thousand dollars
+5 ($10,000) for each instance that the plaintiff encountered a member of the
+6 other sex while accessing or using a government building restroom or chang-
+7 ing facility designated for use by the plaintiff's sex. The plaintiff may
+8 also recover monetary damages from the defendant government entity for all
+9 psychological, emotional, and physical harm suffered.
+10 (4) Any plaintiff who prevails in an action brought under this chapter
+11 is entitled to recover reasonable attorney's fees and costs from the defen-
+12 dant government entity.
+13 (5) Nothing in this chapter limits other remedies at law or equity
+14 available to the plaintiff against the government entity.
+15 67-4807. PREEMPTION. This chapter preempts any law, regulation, pol-
+16 icy, or decree enacted or adopted by any government entity within the state
+17 that purports to permit or require government entities to allow individuals
+18 to use restrooms and changing facilities in government buildings designated
+19 for use by the other sex.
+20 67-4808. LIMITATIONS. (1) The provisions of this chapter shall not ap-
+21 ply to any covered entity as that term is defined in section 67-9801, Idaho
+22 Code.
+23 (2) The provisions of this chapter shall not apply to any public school
+24 as that term is defined in section 33-6702, Idaho Code.
+25 (3) Nothing in this chapter shall be construed to require any govern-
+26 ment entity to unlawfully violate the terms of an existing lease agreement.
+27 SECTION 2. That Title 6, Idaho Code, be, and the same is hereby amended
+28 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+29 ter 40, Title 6, Idaho Code, and to read as follows:
+30 CHAPTER 40
+31 LIABILITY FOR PLACES OF PUBLIC ACCOMMODATION
+32 6-4001. LEGISLATIVE FINDINGS. The legislature finds and declares
+33 that:
+34 (1) Land possessors have a duty of care at common law to maintain their
+35 premises in such a way as to reasonably prevent harm to those entering their
+36 property.
+37 (2) Idaho "adheres to the traditional common-law jurisprudence that
+38 developed around premises liability." Oswald v. Costco Wholesale Corpora-
+39 tion, 167 Idaho 540, 551 (2020).
+40 (3) A land possessor owes an "affirmative duty" to protect members of
+41 the public he has invited when he "open[ed] his property to the public for
+42 business," which reflects the "age-old principle" that an invitee is "enti-
+43 tled to visit and assume that the premises have been made safe for his visit."
+44 Id. at 552.
+
+5
+1 (4) Land possessors "can be liable for failing to protect invitees
+2 against the foreseeable negligence or criminal acts of third parties." Id.
+3 at 553.
+4 (5) Allowing individuals to share restrooms or changing facilities
+5 with members of the other sex generates potential embarrassment, shame, and
+6 psychological injury to invitees, as well as increasing the likelihood of
+7 sexual assault, molestation, rape, voyeurism, and exhibitionism.
+8 (6) Land possessors owe a duty to protect the privacy and safety of in-
+9 vitees from members of the other sex in restrooms and changing facilities
+10 provided to their customers or the public.
+11 6-4002. DEFINITIONS. For the purposes of this chapter:
+12 (1) "Changing facility" means a facility in which an individual may be
+13 in a state of undress in the presence of others, including a locker room,
+14 changing room, or shower room.
+15 (2) "Place of public accommodation" means a business, accommodation,
+16 refreshment, entertainment, recreation, or transportation facility of any
+17 kind, whether licensed or not, whose goods, services, facilities, privi-
+18 leges, advantages, or accommodations are extended, offered, sold, or other-
+19 wise made available to the public.
+20 (3) "Sex" has the same meaning as defined in section 73-114, Idaho Code.
+21 6-4003. DUTIES OF PLACES OF PUBLIC ACCOMMODATION. Every place of pub-
+22 lic accommodation shall have a duty to take reasonable steps to ensure that
+23 the privacy and safety of an individual is protected from members of the
+24 other sex in every restroom or changing facility maintained by the place of
+25 public accommodation.
+26 6-4004. EXEMPTIONS. It shall not be a breach of the duty provided in
+27 section 6-4003, Idaho Code, if the place of public accommodation:
+28 (1) Provides single-occupancy restrooms or changing facilities;
+29 (2) Provides single-occupancy restrooms or changing facilities that
+30 are conspicuously designated for family use;
+31 (3) Temporarily designates a restroom or changing facility for use by
+32 the other sex;
+33 (4) Allows an individual of one sex to use a restroom or changing facil-
+34 ity designated for the other sex if such restroom or changing facility is the
+35 only restroom or changing facility reasonably available at the time of the
+36 individual's use of the facility;
+37 (5) Allows an individual employed to clean, maintain, or inspect a re-
+38 stroom or changing facility, while such individual is actively engaged in
+39 the activity for which the individual has been employed;
+40 (6) Allows an individual to enter a restroom or changing facility to
+41 render medical assistance;
+42 (7) Allows a law enforcement official engaged in law enforcement activ-
+43 ities or supervising any arrestee, detainee, or inmate in a custodial set-
+44 ting to enter a restroom or changing facility;
+45 (8) Allows an individual to enter a restroom or changing facility to ac-
+46 company and render assistance to a person who is in need of assistance when
+47 the person rendering assistance is:
+
+6
+1 (a) A family member or a legal guardian; or
+2 (b) The designee of the person in need of assistance and the designee is
+3 not a member of the designated sex for the single-sex restroom or chang-
+4 ing facility.
+5 (9) Allows a minor child who is in need of assistance to accompany a fam-
+6 ily member, a legal guardian, or other designee into a restroom or changing
+7 facility, provided that the family member, legal guardian, or other designee
+8 is a member of the designated sex for the single-sex restroom or changing fa-
+9 cility;
+10 (10) Allows coaching staff and personnel during athletic events to ac-
+11 cess a restroom or changing facility; or
+12 (11) Allows access to a restroom or changing facility during an ongoing
+13 natural disaster or emergency, or when necessary to prevent a serious threat
+14 to good order or public safety.
+15 6-4005. REASONABLE ACCOMMODATIONS. Nothing in this chapter shall be
+16 construed to prohibit a place of public accommodation from providing a rea-
+17 sonable accommodation to any individual who for any reason is unwilling or
+18 unable to use a multi-occupancy restroom or changing facility designated for
+19 that individual's sex, provided that a place of public accommodation shall
+20 not provide a reasonable accommodation that results in the privacy or safety
+21 of another individual being violated by a member of the other sex.
+22 6-4006. LIABILITY FOR PLACES OF PUBLIC ACCOMMODATION. (1) A place of
+23 public accommodation that breaches its duty of care as described in section
+24 6-4003, Idaho Code, shall be liable for all damages attributable to its neg-
+25 ligence, including any psychological, emotional, and physical harm.
+26 (2) It shall not be a breach of the duty provided in section 6-4003,
+27 Idaho Code, if the privacy or safety of an individual was violated because
+28 such individual entered a restroom or changing facility designated for use
+29 by the other sex.
+30 (3) Any civil action arising under this chapter must be commenced
+31 within two (2) years after the cause of action has occurred.
+32 (4) Nothing in this chapter limits other remedies at law or equity
+33 available to the plaintiff.
+34 6-4007. PREEMPTION. This chapter preempts any law, regulation, pol-
+35 icy, or decree enacted or adopted by any government entity within the state
+36 that purports to permit or require places of public accommodation to permit
+37 individuals to use restrooms and changing facilities designated for use by
+38 the other sex.
+39 6-4008. LIMITATIONS. (1) The provisions of this chapter shall not ap-
+40 ply to any covered entity as that term is defined in section 67-9801, Idaho
+41 Code.
+42 (2) The provisions of this chapter shall not apply to any public school
+43 as that term is defined in section 33-6702, Idaho Code.
+44 (3) The provisions of this chapter shall not apply to any government en-
+45 tity as that term is defined in section 67-4802, Idaho Code.
+
+7
+1 SECTION 3. SEVERABILITY. The provisions of this act are hereby declared
+2 to be severable and if any provision of this act or the application of such
+3 provision to any person or circumstance is declared invalid for any reason,
+4 such declaration shall not affect the validity of the remaining portions of
+5 this act.
+6 SECTION 4. An emergency existing therefor, which emergency is hereby
+7 declared to exist, this act shall be in full force and effect on and after
+8 July 1, 2026.

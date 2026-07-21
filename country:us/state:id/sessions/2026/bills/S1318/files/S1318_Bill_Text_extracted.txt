@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1318
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE AUDIT OF REFUGEE RESETTLEMENT; AMENDING CHAPTER 4, TITLE 67,
+3 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 67-467, IDAHO CODE, TO ES-
+4 TABLISH PROVISIONS REGARDING AN AUDIT OF THE RESETTLEMENT OF REFUGEES;
+5 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 4, Title 67, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 67-467, Idaho Code, and to read as follows:
+10 67-467. AUDIT OF REFUGEE RESETTLEMENT. (1) As used in this section:
+11 (a) "Entity" means any corporation and foreign corporation; business
+12 corporation and foreign business corporation; for-profit and nonprofit
+13 unincorporated association; corporation sole; business trust, estate,
+14 partnership, trust, and two (2) or more persons having a joint or com-
+15 mon economic interest; and state, the United States, and foreign gov-
+16 ernment.
+17 (b) "Illegal alien" means a person who has overstayed the person's visa
+18 or entered the United States without authorization irrespective of any
+19 temporary status the person may have been granted by the department
+20 of homeland security allowing the person to be present in the United
+21 States.
+22 (c) "Refugee" means any person who is outside any country of such per-
+23 son's nationality or, in the case of a person having no nationality, is
+24 outside any country in which such person last habitually resided, and
+25 who is unable or unwilling to return to, and is unable or unwilling to
+26 avail himself of the protection of, that country because of persecution
+27 or a well-founded fear of persecution on account of race, religion, na-
+28 tionality, membership in a particular social group, or political opin-
+29 ion.
+30 (d) "Resettlement services" means any service provided by an entity
+31 that entered into a grant, contract, or cooperative agreement with the
+32 United States department of state or other appropriate federal agency
+33 to provide for the reception and initial placement of refugees in the
+34 United States.
+35 (2) Any entity incorporated under the laws of the state of Idaho pro-
+36 viding resettlement services for refugees shall provide the legislature an
+37 annual audit of such services in accordance with the provisions of sections
+38 67-466 and 67-705, Idaho Code.
+39 (3) Such audit shall detail the following:
+40 (a) The total number of refugees served;
+41 (b) The nationality and gender of refugees served;
+42 (c) The language abilities of refugees served;
+
+2
+1 (d) The successful rate of participation in language remediation pro-
+2 gramming for refugees served;
+3 (e) The counties and municipalities where refugees served are housed;
+4 (f) The housing units taken by refugees served; and
+5 (g) The vital statistics, including the rates of communicable disease,
+6 among refugees served.
+7 (4) Any entity incorporated under the laws of the state of Idaho pro-
+8 viding resettlement services for refugees is prohibited from aiding illegal
+9 aliens or released aliens awaiting removal.
+10 (5) Any entity providing refugee resettlement services that has pro-
+11 vided assistance to illegal aliens shall account for the names and identi-
+12 fying demographics of such aliens for the purposes of providing a catalog of
+13 names that may be matched against federal immigration databases at the de-
+14 partment of homeland security, department of health and human services, and
+15 department of state.
+16 SECTION 2. An emergency existing therefor, which emergency is hereby
+17 declared to exist, this act shall be in full force and effect on and after
+18 July 1, 2026.

@@ -1,0 +1,334 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1225, As Amended
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 37, TITLE 33, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 33-3734, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING PRESIDENT SEARCHES FOR STATE INSTITUTIONS OF HIGHER EDUCATION;
+5 AMENDING SECTION 74-106, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+6 CERTAIN RECORDS EXEMPT FROM DISCLOSURE; AND DECLARING AN EMERGENCY.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 37, Title 33, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 33-3734, Idaho Code, and to read as follows:
+11 33-3734. PRESIDENT SEARCHES. (1) For all president searches announced
+12 and conducted by the Idaho state board of education for state institutions of
+13 higher education, the board shall:
+14 (a) Conduct a thorough search process that includes periodic updates to
+15 the public; and
+16 (b) Assemble a search committee to recommend a candidate to the board
+17 for the board's final decision.
+18 (2) The search committee shall consist of, at a minimum:
+19 (a) Two (2) members of the Idaho state board of education;
+20 (b) Two (2) individuals currently employed by the state institution of
+21 higher education searching for a president, one (1) of whom shall be a
+22 member of the faculty;
+23 (c) Two (2) alumni of the state institution of higher education search-
+24 ing for a president;
+25 (d) One (1) member of the foundation of the state institution of higher
+26 education searching for a president; and
+27 (e) One (1) at-large community member.
+28 (3) The search committee shall:
+29 (a) Respect and protect candidate confidentiality; and
+30 (b) Review prospective candidates and make its recommendation to the
+31 board in closed executive sessions.
+32 (4) If the board is not satisfied with the finalist selected and recom-
+33 mended by the search committee, the board may direct the search committee to
+34 resume the search process until the board is satisfied with the committee's
+35 recommendation.
+36 (5) The name of the sole finalist shall be made available to the public
+37 no less than ten (10) business days before the final decision is made by the
+38 board.
+39 (6) The board shall take final hiring action of a president in an open
+40 and public board meeting.
+
+2
+1 SECTION 2. That Section 74-106, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 74-106. RECORDS EXEMPT FROM DISCLOSURE -- PERSONNEL RECORDS, PER-
+4 SONAL INFORMATION, HEALTH RECORDS, PROFESSIONAL DISCIPLINE. The following
+5 records are exempt from disclosure:
+6 (1) Except as provided in this subsection, all personnel records of
+7 a current or former public official other than the public official's pub-
+8 lic service or employment history, classification, pay grade and step,
+9 longevity, gross salary and salary history, including bonuses, severance
+10 packages, other compensation or vouchered and unvouchered expenses for
+11 which reimbursement was paid, status, workplace and employing agency. All
+12 other personnel information relating to a public employee or applicant,
+13 including but not limited to information regarding sex, race, marital sta-
+14 tus, birth date, home address and telephone number, social security number,
+15 driver's license number, applications, testing and scoring materials,
+16 grievances, correspondence and performance evaluations, shall not be dis-
+17 closed to the public without the employee's or applicant's written consent.
+18 Names of applicants to classified or merit system positions shall not be
+19 disclosed to the public without the applicant's written consent. Disclosure
+20 of names as part of a background check is permitted. Names of the five (5)
+21 final applicants The name of the sole finalist to all other positions shall
+22 be available to the public. If such group is less than five (5) finalists,
+23 then the entire list of applicants shall be available to the public. A public
+24 official or authorized representative may inspect and copy his personnel
+25 records, except for material used to screen and test for employment.
+26 (2) Retired employees' and retired public officials' home addresses,
+27 home telephone numbers and other financial and nonfinancial membership
+28 records; and active and inactive member financial and membership records
+29 and mortgage portfolio loan documents maintained by the public employee re-
+30 tirement system. Financial statements prepared by retirement system staff,
+31 funding agents and custodians concerning the investment of assets of the
+32 public employee retirement system of Idaho are not considered confidential
+33 under this chapter.
+34 (3) Information and records submitted to the Idaho state lottery for
+35 the performance of background investigations of employees, lottery retail-
+36 ers and major procurement contractors; audit records of lottery retailers,
+37 vendors and major procurement contractors submitted to or performed by the
+38 Idaho state lottery; validation and security tests of the state lottery for
+39 lottery games; and business records and information submitted pursuant to
+40 sections 67-7412(8) and (9) and 67-7421(8) and (9), Idaho Code, and such
+41 documents and information obtained and held for the purposes of lottery se-
+42 curity and investigative action as determined by lottery rules, unless the
+43 public interest in disclosure substantially outweighs the private need for
+44 protection from public disclosure.
+45 (4) Records of a personal nature as follows:
+46 (a) Records of personal debt filed with a public agency pursuant to law;
+47 (b) Personal bank records compiled by a public depositor for the pur-
+48 pose of public funds transactions conducted pursuant to law;
+
+3
+1 (c) Records of ownership of financial obligations and instruments of a
+2 public agency, such as bonds, compiled by the public agency pursuant to
+3 law;
+4 (d) Records with regard to the ownership of or security interests in
+5 registered public obligations;
+6 (e) Vital statistics records;
+7 (f) Military records as described in and pursuant to section 65-301,
+8 Idaho Code;
+9 (g) Social security numbers; and
+10 (h) The following personal data identifiers for an individual may be
+11 disclosed only in the following redacted format:
+12 (i) The initials of any minor children of the individual;
+13 (ii) A date of birth in substantially the following format:
+14 XX/XX/birth year;
+15 (iii) The last four (4) digits of a financial account number in
+16 substantially the following format: XXXXX1234;
+17 (iv) The last four (4) digits of a driver's license number or
+18 state-issued personal identification card number in substan-
+19 tially the following format: XXXXX350F; and
+20 (v) The last four (4) digits of an employer identification number
+21 or business's taxpayer identification number.
+22 (5) Information in an income or other tax return measured by items of
+23 income or sales that is gathered by a public agency for the purpose of admin-
+24 istering the tax, except such information to the extent disclosed in a writ-
+25 ten decision of the tax commission pursuant to a taxpayer protest of a defi-
+26 ciency determination by the tax commission, under the provisions of section
+27 63-3045B, Idaho Code.
+28 (6) Records of a personal nature related directly or indirectly to the
+29 application for and provision of statutory services rendered to persons
+30 applying for public care for people who are elderly, indigent or have mental
+31 or physical disabilities or participation in an environmental or a public
+32 health study, provided the provisions of this subsection making records
+33 exempt from disclosure shall not apply to the extent that such records or
+34 information contained in those records are necessary for a background check
+35 on an individual that is required by federal law regulating the sale of
+36 firearms, guns or ammunition.
+37 (7) Employment security information, except that a person may agree,
+38 through written, informed consent, to waive the exemption so that a third
+39 party may obtain information pertaining to the person, unless access to the
+40 information by the person is restricted by subsection (3)(a), (b) or (d)
+41 of section 74-113, Idaho Code. Notwithstanding the provisions of section
+42 74-113, Idaho Code, a person may not review identifying information con-
+43 cerning an informant who reported to the department of labor a suspected
+44 violation by the person of the employment security law, chapter 13, title 72,
+45 Idaho Code, under an assurance of confidentiality. As used in this section
+46 and in chapter 13, title 72, Idaho Code, "employment security information"
+47 means any information descriptive of an identifiable person or persons that
+48 is received by, recorded by, prepared by, furnished to or collected by the
+49 department of labor or the industrial commission in the administration of
+50 the employment security law.
+
+4
+1 (8) Any personal records, other than names, business addresses and
+2 business phone numbers, such as parentage, race, religion, sex, height,
+3 weight, tax identification and social security numbers, financial worth or
+4 medical condition submitted to any public agency pursuant to a statutory
+5 requirement for licensing, certification, permit or bonding.
+6 (9) Unless otherwise provided by agency rule, information obtained as
+7 part of an inquiry into a person's fitness to be granted or retain a license,
+8 certificate, permit, privilege, commission or position and private associ-
+9 ation peer review committee records authorized in title 54, Idaho Code. Any
+10 agency that has records exempt from disclosure under the provisions of this
+11 subsection shall annually make available a statistical summary of the number
+12 and types of matters considered and their disposition.
+13 (10) The records, findings, determinations and decisions of any prelit-
+14 igation screening panel formed under chapters 10 and 23, title 6, Idaho Code.
+15 (11) Complaints received by the board of medicine and investigations
+16 and informal proceedings, including informal proceedings of any committee
+17 of the board of medicine, pursuant to chapter 18, title 54, Idaho Code, and
+18 rules adopted thereunder.
+19 (12) Records of the department of health and welfare or a public health
+20 district that identify a person infected with a reportable disease.
+21 (13) Records of hospital care, medical records, including prescrip-
+22 tions, drug orders, records or any other prescription information that
+23 specifically identifies an individual patient, prescription records main-
+24 tained by the board of pharmacy under sections 37-2726 and 37-2730A, Idaho
+25 Code, records of psychiatric care or treatment and professional counseling
+26 records relating to an individual's condition, diagnosis, care or treat-
+27 ment, provided the provisions of this subsection making records exempt from
+28 disclosure shall not apply to the extent that such records or information
+29 contained in those records are necessary for a background check on an indi-
+30 vidual that is required by federal law regulating the sale of firearms, guns
+31 or ammunition.
+32 (14) Information collected pursuant to the directory of new hires act,
+33 chapter 16, title 72, Idaho Code.
+34 (15) Personal information contained in motor vehicle and driver records
+35 that is exempt from disclosure under the provisions of chapter 2, title 49,
+36 Idaho Code.
+37 (16) Records of the financial status of prisoners pursuant to subsec-
+38 tion (2) of section 20-607, Idaho Code.
+39 (17) Records of the Idaho state police or department of correction re-
+40 ceived or maintained pursuant to section 19-5514, Idaho Code, relating to
+41 DNA databases and databanks.
+42 (18) Records of the department of health and welfare relating to a sur-
+43 vey, resurvey or complaint investigation of a licensed nursing facility.
+44 Such records shall, however, be subject to disclosure as public records as
+45 soon as the facility in question has received the report and no later than the
+46 fourteenth day following the date that department of health and welfare rep-
+47 resentatives officially exit the facility pursuant to federal regulations.
+48 Provided however, that for purposes of confidentiality, no record shall be
+49 released under this section that specifically identifies any nursing facil-
+50 ity resident.
+
+5
+1 (19) Records and information contained in the registry of immunizations
+2 against childhood diseases maintained in the department of health and wel-
+3 fare, including information disseminated to others from the registry by the
+4 department of health and welfare.
+5 (20) Records of the Idaho housing and finance association (IHFA) relat-
+6 ing to the following:
+7 (a) Records containing personal financial, family, health or similar
+8 personal information submitted to or otherwise obtained by the IHFA;
+9 (b) Records submitted to or otherwise obtained by the IHFA with regard
+10 to obtaining and servicing mortgage loans and all records relating to
+11 the review, approval or rejection by the IHFA of said loans;
+12 (c) Mortgage portfolio loan documents;
+13 (d) Records of a current or former employee other than the employee's
+14 duration of employment with the association, position held and loca-
+15 tion of employment. This exemption from disclosure does not include the
+16 contracts of employment or any remuneration, including reimbursement
+17 of expenses, of the executive director, executive officers or commis-
+18 sioners of the association. All other personnel information relating
+19 to an association employee or applicant, including but not limited to
+20 information regarding sex, race, marital status, birth date, home ad-
+21 dress and telephone number, applications, testing and scoring materi-
+22 als, grievances, correspondence, retirement plan information and per-
+23 formance evaluations, shall not be disclosed to the public without the
+24 employee's or applicant's written consent. An employee or authorized
+25 representative may inspect and copy that employee's personnel records,
+26 except for material used to screen and test for employment or material
+27 not subject to disclosure elsewhere in the Idaho public records act.
+28 (21) Records of the department of health and welfare related to child
+29 support services in cases in which there is reasonable evidence of domestic
+30 violence, as defined in chapter 63, title 39, Idaho Code, that can be used
+31 to locate any individuals in the child support case except in response to a
+32 court order.
+33 (22) Records of the Idaho state bar lawyer assistance program pursuant
+34 to chapter 49, title 54, Idaho Code, unless a participant in the program au-
+35 thorizes the release pursuant to subsection (4) of section 54-4901, Idaho
+36 Code.
+37 (23) Records and information contained in the time sensitive emergency
+38 registry created by chapter 9, title 46, Idaho Code, together with any re-
+39 ports, analyses and compilations created from such information and records.
+40 (24) Records contained in the court files or other records prepared as
+41 part of proceedings for judicial authorization of sterilization procedures
+42 pursuant to chapter 39, title 39, Idaho Code.
+43 (25) The physical voter registration application on file in the county
+44 clerk's office; however, a redacted copy of said application shall be made
+45 available consistent with the requirements of this section. Information
+46 from the voter registration application maintained in the statewide voter
+47 registration database, including age, will be made available except for
+48 the voter's driver's license number, date of birth and, upon a showing that
+49 the voter comes within the provisions of subsection (30) of this section or
+50 upon showing of good cause by the voter to the county clerk in consultation
+
+6
+1 with the county prosecuting attorney, the physical residence address of the
+2 voter. For the purposes of this subsection, good cause shall include the
+3 protection of life and property and protection of victims of domestic vio-
+4 lence and similar crimes.
+5 (26) Information in the files of the health care directive registry
+6 maintained by the department of health and welfare under section 39-4515,
+7 Idaho Code, is confidential and shall not be disclosed to any person other
+8 than to the person who executed an advance care planning document or the re-
+9 vocation thereof and that person's surrogate decision-maker, to the person
+10 who registered an advance care planning document or revocation thereof, and
+11 to physicians, hospitals, medical personnel, nursing homes, and other per-
+12 sons who have been granted access to the documents in the registry.
+13 (27) Records in an address confidentiality program participant's file
+14 as provided for in chapter 57, title 19, Idaho Code, other than the address
+15 designated by the secretary of state, except under the following circum-
+16 stances:
+17 (a) If requested by a law enforcement agency, to the law enforcement
+18 agency; or
+19 (b) If directed by a court order, to a person identified in the order.
+20 (28) Except as otherwise provided by law relating to the release of in-
+21 formation to a governmental entity or law enforcement agency, any personal
+22 information, including but not limited to names, personal and business ad-
+23 dresses and phone numbers, sex, height, weight, date of birth, social secu-
+24 rity and driver's license numbers, or any other identifying numbers or in-
+25 formation related to any Idaho fish and game licenses, permits and tags un-
+26 less written consent is obtained from the affected person.
+27 (29) Documents and records related to alternatives to discipline that
+28 are maintained by the Idaho board of veterinary medicine under the provi-
+29 sions of section 54-2118(1)(b), Idaho Code, provided the requirements set
+30 forth therein are met.
+31 (30) The Idaho residential street address and telephone number of an
+32 eligible law enforcement or judicial officer and such officer's residing
+33 household members as provided for in chapters 58 and 62, title 19, Idaho
+34 Code, except under the following circumstances:
+35 (a) If directed by a court order, to a person identified in the court
+36 order;
+37 (b) If requested by a law enforcement agency, to the law enforcement
+38 agency;
+39 (c) If requested by a financial institution or title company for busi-
+40 ness purposes, to the requesting financial institution or title com-
+41 pany; or
+42 (d) If the law enforcement or judicial officer provides written permis-
+43 sion for disclosure of such information.
+44 (31) All information exchanged between the Idaho transportation de-
+45 partment and insurance companies, any database created, all information
+46 contained in the verification system and all reports, responses or other
+47 information generated for the purposes of the verification system, pursuant
+48 to section 49-1234, Idaho Code.
+
+7
+1 (32) Nothing in this section shall prohibit the release of information
+2 to the state controller as the state social security administrator as pro-
+3 vided in section 59-1101A, Idaho Code.
+4 (33) Personal information, including but not limited to property val-
+5 ues, personal and business addresses, phone numbers, dates of birth, social
+6 security and driver's license numbers or any other identifying numbers or
+7 information maintained by the administrator of the unclaimed property law
+8 set forth in chapter 5, title 14, Idaho Code. Nothing in this subsection
+9 shall prohibit the release of names, last known city of residence, property
+10 value ranges and general property information by the administrator for the
+11 purpose of reuniting unclaimed property with its owner.
+12 (34) Any personal information collected by the secretary of state, pur-
+13 suant to section 67-906(1)(b), Idaho Code, for the purpose of allowing indi-
+14 viduals to access the statewide electronic filing system authorized in sec-
+15 tion 67-906, Idaho Code, except campaign contact phone numbers for candi-
+16 dates or committees, which shall be publicly available upon request; and any
+17 notification email addresses submitted as part of a lobbyist's registration
+18 under section 74-703, Idaho Code, of an employer, client, or designated con-
+19 tact for the purpose of electronic notification of that employer, client, or
+20 designated contact of a report filed under section 74-705, Idaho Code.
+21 SECTION 3. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after its
+23 passage and approval.

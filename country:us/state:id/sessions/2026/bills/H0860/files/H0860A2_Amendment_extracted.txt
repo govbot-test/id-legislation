@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Anthon
+Seconded by Shippy
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 860
+1 AMENDMENT TO SECTION 3
+2 On page 4 of the printed bill, delete lines 16 through 20, and insert:
+3 "(c) A minor child is seeking health care or medical treatment that
+4 is directly related to an allegation of a crime of physical violence
+5 against the minor child or to collect evidence related to such crime
+6 when the collection of such evidence is time-sensitive;";
+7 following line 34, insert:
+8 "(5) Nothing in this section or any other provision of Idaho Code shall
+9 prevent a health care provider from screening and treating a newborn infant
+10 for illegal drugs or substances if a reasonable suspicion suggests their
+11 presence, provided that the results of the test or the fact of treatment may
+12 not be used against the parent in any criminal proceeding.";
+13 in line 35, delete "(5)" and insert: "(5) (6)"; in line 40, delete "(6)" and
+14 insert: "(6) (7)"; and also in line 40, delete "(5)" and insert "(5) (6)".
+15 On page 5, in line 1, delete "(7)" and insert: "(7) (8)"; in line 4,
+16 delete "(8)" and insert: "(8) (9)"; in line 7, delete "(9)" and insert: "(9)
+17 (10)"; in line 11, delete "(10)" and insert: "(10) (11)"; in line 15, delete
+18 "(11)" and insert: "(11) (12)"; and in line 17, delete "(12)" and insert:
+19 "(12) (13)".

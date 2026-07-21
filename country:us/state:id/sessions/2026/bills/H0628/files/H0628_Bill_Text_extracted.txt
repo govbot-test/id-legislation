@@ -1,0 +1,222 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 628
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; AMENDING SECTION 49-307, IDAHO CODE, TO REVISE
+3 PROVISIONS REGARDING PARENT-STUDENT ON-ROAD DRIVER'S TRAINING; AND
+4 DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 49-307, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 49-307. CLASS D DRIVER'S TRAINING INSTRUCTION PERMIT -- CLASS D SU-
+9 PERVISED INSTRUCTION PERMIT -- APPLICATION FOR A CLASS D DRIVER'S LICENSE
+10 -- RESTRICTIONS ON CLASS D DRIVER'S LICENSE. (1) No enrollee of any class D
+11 driver's training course shall be allowed to attend classes or participate
+12 in driving instruction unless he has obtained a class D driver's training in-
+13 struction permit or a class D instruction permit as provided in subsection
+14 (4) of this section.
+15 (2) Every enrollee of a class D driver's training course shall pay
+16 a nonrefundable fee of fifteen dollars ($15.00), except that a pupil who
+17 participates in parent-student on-road driver's training pursuant to sub-
+18 section (6) of this section shall pay a nonrefundable fee of ten dollars
+19 ($10.00). Five dollars ($5.00) of each fee so imposed shall be deposited in
+20 the state highway account and five dollars ($5.00) shall be deposited in the
+21 county current expense fund. The additional five dollars ($5.00) for every
+22 class D driver's training course enrollee shall be:
+23 (a) Deposited in the driver training account if the person is taking
+24 driver's training from a public school; or
+25 (b) Paid to the division of occupational and professional licenses
+26 and deposited in the state treasury to the credit of the occupational
+27 licenses fund if the person is taking driver's training from a private
+28 driver's training program. The amount to be remitted to the division
+29 of occupational and professional licenses shall be annually calculated
+30 and paid. To calculate such amount, the total number of public driver's
+31 training students as submitted to the state department of education
+32 shall be subtracted from the total number of permits sold as reported by
+33 the Idaho transportation department, and the resulting number shall be
+34 multiplied by five dollars ($5.00).
+35 (3) Each enrollee of a class D driver's training course shall provide
+36 the type of information required for a driver's license or instruction per-
+37 mit. If an enrollee of a class D driver's training course cannot provide a
+38 certified copy of his birth certificate at the time of application for a per-
+39 mit, the department may issue a class D driver's training instruction permit
+40 or a class D instruction permit upon receipt of identification acceptable to
+41 the department. The certified copy of an applicant's birth certificate or
+42 another government-issued identity document and documentation to establish
+
+2
+1 the applicant's relationship to a person who is willing to assume responsi-
+2 bility for such applicant shall be required before a class D driver's license
+3 will be issued.
+4 (4) The class D driver's training instruction permit shall expire five
+5 (5) days after the permittee's eighteenth birthday for permittees fourteen
+6 and one-half (14 1/2) years of age through seventeen and one-half (17 1/2)
+7 years of age. The class D driver's training instruction permit shall ex-
+8 pire one hundred eighty (180) days from the date of issue for persons sev-
+9 enteen and one-half (17 1/2) years of age or older. Persons aged seventeen
+10 (17) years or older may attend classes or participate in driver's training
+11 instruction while operating with a class D instruction permit or a class D
+12 driver's training instruction permit.
+13 (5) The class D driver's training instruction permit shall be issued to
+14 the instructor of the course or to the qualifying parent or legal guardian
+15 pursuant to subsection (6) of this section.
+16 (6)(a) An eligible student may satisfy the requirements of section
+17 33-1702, Idaho Code, regarding driver's training courses through par-
+18 ent-student on-road driver's training pursuant to this subsection.
+19 Notwithstanding any other provision of law to the contrary, students
+20 eligible for driver's training pursuant to section 33-1703, Idaho Code,
+21 may receive the in-car observation and behind-the-wheel instruction
+22 components of a driver's training course from a qualifying parent or
+23 legal guardian instead of a licensed instructor only if the parent or
+24 legal guardian and the student live in a rural school district as de-
+25 scribed in section 33-319, Idaho Code, or in a school district that does
+26 not offer a driver's training course.
+27 (b) A student participating in parent-student on-road driver's train-
+28 ing pursuant to this subsection shall enroll and successfully complete
+29 the thirty (30) hours of classroom instruction for driver's training
+30 required under section 33-1702, Idaho Code, through the Idaho digital
+31 learning alliance online driver education course or through any other
+32 online driver's training course approved by the state department of
+33 education. The Idaho digital learning alliance and any other approved
+34 online driver's training program shall make online driver's training
+35 courses available to all students eligible for driver's training. The
+36 state department of education shall publish a list of all approved on-
+37 line driver's training programs on the department's website and such
+38 list shall also be made available at each county driver's license of-
+39 fice.
+40 (c) A parent or legal guardian who is qualified to provide parent-stu-
+41 dent on-road driver's training pursuant to this subsection may teach
+42 the driving portion of a driver's training course, including the six (6)
+43 hours of in-car observation and the six (6) hours of behind-the-wheel
+44 instruction required under section 33-1702, Idaho Code. Such training
+45 shall be done concurrently with the classroom component of the driver's
+46 training course. The in-car observation and behind-the-wheel instruc-
+47 tion components shall satisfy all content standards and benchmarks of
+48 the Idaho driver education curriculum approved by the state department
+49 of education. More than one (1) qualifying parent or legal guardian may
+50 provide the parent-student on-road driver's training to a student.
+
+3
+1 (d) A parent or legal guardian qualifies to provide parent-student
+2 on-road driver's training pursuant to this subsection if:
+3 (i) The parent or legal guardian possesses a valid Idaho driver's
+4 license that permits unaccompanied driving; and
+5 (ii) The parent or legal guardian has not had a license suspended,
+6 revoked, or canceled and has not been disqualified from holding an
+7 Idaho driver's license for the previous two (2) years. A parent or
+8 legal guardian shall no longer be qualified if a license becomes
+9 suspended, revoked, or canceled or if a parent or legal guardian
+10 becomes disqualified from holding an Idaho driver's license dur-
+11 ing the student's education.
+12 (e) A qualifying parent or legal guardian who provides parent-student
+13 on-road driver's training pursuant to this subsection shall fill out a
+14 driving log containing the date, time, location, and skills practiced
+15 for each driving session. Upon completion, the parent or legal guardian
+16 shall submit the driving log to the county driver's license office and
+17 comply with the requirements of subsection (7) of this section.
+18 (f) A student must meet the requirements of subsection (8) of this sec-
+19 tion relating to the class D supervised instruction permit before ap-
+20 plying for a class D driver's license.
+21 (7)(a) Upon successful completion of the class D driver's training
+22 course, the driver's training instructor shall submit the student log
+23 to the county driver's license office and give the class D driver's
+24 training instruction permit to the parent or legal guardian of the per-
+25 mittee unless the permit has been issued pursuant to subsection (6) of
+26 this section. The parent or legal guardian shall assume responsibil-
+27 ity for ensuring that the permittee complies with the requirements of
+28 operating a vehicle with a class D supervised instruction permit. The
+29 class D driver's training instruction permit shall then serve as a class
+30 D supervised instruction permit.
+31 (b) In the event the permittee reaches seventeen (17) years of age while
+32 operating a class D vehicle with a class D supervised instruction per-
+33 mit, the supervised instruction permit shall become a class D instruc-
+34 tion permit.
+35 (8) No permittee may apply for a class D driver's license sooner than
+36 fifteen (15) years of age and no sooner than six (6) months after completing a
+37 class D driver's training course, during which time the permittee shall sat-
+38 isfy all requirements for operation of a class D vehicle with a class D super-
+39 vised instruction permit as follows:
+40 (a) The permittee shall not operate a vehicle unless he is accompanied
+41 by a driver who holds a valid driver's license, is twenty-one (21) years
+42 of age or older, and is actually occupying a seat beside the permittee
+43 driver. The supervising driver and the permittee shall be the only oc-
+44 cupants of the front passenger section of the vehicle.
+45 (b) Over a period of time not less than six (6) months, the permittee
+46 shall accumulate at least fifty (50) hours of supervised driving time,
+47 ten (10) hours of which shall be during hours of darkness.
+48 (c) The permit shall be in the permittee's immediate possession at all
+49 times while operating a vehicle.
+
+4
+1 (d) In addition to the permittee driver and the supervising driver, all
+2 other occupants of the vehicle shall wear a seat belt or be restrained by
+3 child passenger restraints as required by law.
+4 (e) The permittee is subject to the provisions of sections 18-1502 and
+5 18-8004, Idaho Code, relating to violation of age restrictions on con-
+6 sumption of beer, wine, and alcohol and driving under the influence of
+7 alcohol, drugs or any other intoxicating substances, respectively.
+8 (f) The permittee shall not have been convicted of any moving traffic
+9 violation, have had driving privileges suspended by the department or
+10 the court for any offense, or have been found to be in violation of any
+11 of the restrictions on the class D supervised instruction permit for a
+12 period of at least six (6) months from the date the driver's training in-
+13 structor gave the permit to the parent or legal guardian, or from the
+14 date a canceled class D supervised instruction permit was reissued, or
+15 until the permittee reaches seventeen (17) years of age.
+16 (g) If the permittee is under seventeen (17) years of age and is con-
+17 victed of a violation of any traffic law, or section 18-1502, 18-8004
+18 or 23-949, Idaho Code, or is found to be in violation of any of the re-
+19 strictions on the class D supervised instruction permit, the department
+20 shall cancel the class D supervised instruction permit, and the cancel-
+21 lation shall not be used to establish rates of motor vehicle insurance
+22 charged by a casualty insurer. If the permittee is under seventeen (17)
+23 years of age, the permittee may reapply for and be issued a new class D
+24 supervised instruction permit upon payment of the appropriate fee and
+25 shall again be required to operate with the class D supervised instruc-
+26 tion permit for at least six (6) months from the date of reissue with-
+27 out a conviction or suspension, accumulate the required hours of driv-
+28 ing time, and adhere to the requirements as specified in paragraphs (a)
+29 through (f) of this subsection.
+30 (9) Upon completion of the requirements in subsection (8) of this sec-
+31 tion, the permittee shall take the knowledge test and skills test adminis-
+32 tered by a person certified by the Idaho transportation department to admin-
+33 ister knowledge and skills tests.
+34 (10)(a) Upon passage of the knowledge and skills tests, the permittee
+35 may apply for a class D driver's license with driving privileges re-
+36 stricted to daylight hours only for persons under sixteen (16) years of
+37 age and with full privileges at sixteen (16) years of age or older.
+38 (b) For purposes of this subsection, "daylight hours only" means the
+39 period of time between 5:00 a.m. and 10:00 p.m. local time.
+40 (c) The restriction on daylight hours only driving privileges for per-
+41 sons under sixteen (16) years of age shall not apply if:
+42 (i) The person under sixteen (16) years of age has a valid class D
+43 driver's license;
+44 (ii) The person under sixteen (16) years of age is accompanied by
+45 a driver who holds a valid driver's license and is twenty-one (21)
+46 years of age or older and is actually occupying a seat beside the
+47 licensee who is under sixteen (16) years of age; and
+48 (iii) The two (2) licensed drivers are the only occupants of the
+49 front passenger section of the vehicle.
+
+5
+1 (11) Upon passage of the knowledge and skills tests, the permittee may
+2 apply for a class D driver's license. Any such licensee who is under seven-
+3 teen (17) years of age shall be required, during the first six (6) months from
+4 the date of issue of the class D driver's license, to limit the number of pas-
+5 sengers in the vehicle who are under seventeen (17) years of age to not more
+6 than one (1) such passenger. Provided however, the limit of one (1) passen-
+7 ger under seventeen (17) years of age shall not apply to passengers who are
+8 related to the driver by blood, adoption or marriage.
+9 SECTION 2. An emergency existing therefor, which emergency is hereby
+10 declared to exist, this act shall be in full force and effect on and after its
+11 passage and approval.

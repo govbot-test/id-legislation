@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1316
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HEALTH AND SAFETY; AMENDING SECTION 39-907, IDAHO CODE, TO RE-
+3 VISE PROVISIONS REGARDING EXEMPTIONS; AND DECLARING AN EMERGENCY AND
+4 PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 39-907, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 39-907. EXEMPTIONS BECAUSE OF RELIGIOUS BELIEF. The provisions of
+9 this chapter shall not apply to any child whose parent or guardian: objects
+10 thereto on the grounds that it conflicts with the tenets or practices of a
+11 recognized church or religious denomination of which said parent or guardian
+12 is an adherent or member.
+13 (1) Objects on religious or other grounds, including philosophical or
+14 conscientious beliefs; or
+15 (2) Submits a certificate signed by a physician licensed by the state
+16 board of medicine stating that the physical condition of the child is such
+17 that all or any of the requirements of this chapter would endanger the life or
+18 health of the child.
+19 SECTION 2. An emergency existing therefor, which emergency is hereby
+20 declared to exist, this act shall be in full force and effect on and after
+21 July 1, 2026.

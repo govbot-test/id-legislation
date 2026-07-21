@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 874
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO YOUTH SERVICE ORGANIZATIONS; AMENDING TITLE 16, IDAHO CODE, BY
+3 THE ADDITION OF A NEW CHAPTER 25, TITLE 16, IDAHO CODE, TO DEFINE TERMS,
+4 TO ESTABLISH YOUTH PROTECTION REQUIREMENTS, TO ESTABLISH PROVISIONS
+5 REGARDING TRAINING AND POLICIES, TO PROVIDE FOR PENALTIES, TO ESTABLISH
+6 PROVISIONS REGARDING INSURANCE, AND TO PROVIDE THAT THERE SHALL BE NO
+7 EFFECT ON AN EXISTING CAUSE OF ACTION AND NO DUTY OF REASONABLE CARE CRE-
+8 ATED; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Title 16, Idaho Code, be, and the same is hereby amended
+11 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+12 ter 25, Title 16, Idaho Code, and to read as follows:
+13 CHAPTER 25
+14 YOUTH SERVICE ORGANIZATIONS
+15 16-2501. DEFINITIONS. As used in this chapter:
+16 (1) "Child" means an individual under eighteen (18) years of age.
+17 (2) "Registered sex offender check" means a search of:
+18 (a) The state sexual offender registry as described in chapter 83, ti-
+19 tle 18, Idaho Code; and
+20 (b) The national sex offender public website administered by the United
+21 States department of justice.
+22 (3) "Sexual abuse" means conduct constituting an offense pursuant to
+23 section 18-1506, 18-1507, 18-1508, 18-1508A, 18-6601, or 18-6604, Idaho
+24 Code, when committed against a child.
+25 (4) "Youth service organization" means any organization that has adult
+26 workers supervising children. "Youth service organization" shall not in-
+27 clude any person who is required to conduct a background check on employees
+28 or volunteers under any other provision of state or federal law.
+29 (5) "Youth worker" means an individual:
+30 (a) Who is eighteen (18) years of age or older;
+31 (b) Who is employed by or volunteers with a youth service organization;
+32 and
+33 (c) Whose responsibilities as an employee or volunteer with the youth
+34 service organization give the individual regular and repeated care, su-
+35 pervision, guidance, or control of a child or children:
+36 (i) For more than six (6) hours in any twenty-four (24) hour pe-
+37 riod; or
+38 (ii) On more than one (1) day within a twelve (12) month period.
+39 16-2502. YOUTH PROTECTION REQUIREMENTS. (1) A youth service organiza-
+40 tion shall not employ a youth worker or allow an individual to volunteer as
+
+2
+1 a youth worker unless the youth service organization has completed a regis-
+2 tered sex offender check for the individual.
+3 (2) A youth service organization shall require a potential youth worker
+4 to provide the individual's full name and a current government-issued iden-
+5 tification to facilitate the registered sex offender check required by sub-
+6 section (1) of this section.
+7 (3) If an individual is registered on the state sexual offender reg-
+8 istry or the national sex offender public website, a youth service organiza-
+9 tion shall not employ the individual as a youth worker or allow the individ-
+10 ual to volunteer as a youth worker.
+11 16-2503. TRAINING -- POLICIES. (1) A youth service organization shall
+12 provide and a youth worker shall complete training in sexual abuse identifi-
+13 cation and reporting that includes, at a minimum:
+14 (a) Identification of grooming behaviors;
+15 (b) Mandatory reporting requirements as provided in Idaho law; and
+16 (c) Procedures for internal reporting.
+17 (2) A youth service worker shall complete the training required in sub-
+18 section (1) of this section no less than once every twenty-four (24) months.
+19 (3) A youth service organization shall implement written child abuse
+20 prevention policies and procedures that include:
+21 (a) Policies to ensure that a registered sex offender check is con-
+22 ducted for each youth worker before the youth worker is employed or
+23 allowed to volunteer; and
+24 (b) Policies to ensure the reporting of suspected sexual abuse.
+25 16-2504. PENALTY. (1) Beginning July 1, 2026, in any lawsuit against a
+26 youth service organization arising out of the molestation or sexual abuse of
+27 a child committed by a youth worker against a child who was in the custody or
+28 care of the youth service organization, the youth service organization shall
+29 be considered negligent if:
+30 (a)(i) The youth service organization failed to conduct a regis-
+31 tered sex offender check for the youth worker who committed the mo-
+32 lestation or sexual abuse; and
+33 (ii) A registered sex offender check for the youth worker would
+34 have revealed that the youth worker was registered on the state
+35 sexual offender registry or the national sex offender public web-
+36 site; or
+37 (b)(i) The youth service organization conducted a registered sex
+38 offender check for the youth worker who committed the molestation
+39 or sexual abuse;
+40 (ii) The registered sex offender check revealed that the youth
+41 worker was registered on the state sexual offender registry or the
+42 national sex offender public website; and
+43 (iii) The youth service organization nevertheless employed the
+44 youth worker or allowed the youth worker to volunteer:
+45 1. For more than six (6) hours in any twenty-four (24) hour
+46 period; or
+47 2. On more than one (1) day within a twelve (12) month pe-
+48 riod.
+
+3
+1 (2) The provisions of subsection (1)(b) of this section shall apply to
+2 any temporary youth worker who works any number of hours on only one (1) day
+3 within a twelve (12) month period.
+4 (3) Nothing in this section shall excuse the plaintiff in a lawsuit de-
+5 scribed in subsection (1) of this section from proving all other elements of
+6 any pleaded claim.
+7 16-2505. INSURANCE. (1) Before providing liability insurance for a
+8 youth service organization in the state, an insurer may do one (1) or more of
+9 the following:
+10 (a) Request information from the youth service organization demon-
+11 strating compliance with the provisions of this chapter as part of the
+12 insurer's loss control program; or
+13 (b) Require, as a condition of providing insurance, proof that the
+14 youth service organization is in compliance with the provisions of this
+15 chapter.
+16 (2) Nothing in this chapter shall be construed to alter or amend exist-
+17 ing obligations under any policy of insurance.
+18 16-2506. NO EFFECT ON CAUSE OF ACTION -- NO DUTY CREATED. (1) Nothing
+19 in this chapter abrogates any existing cause of action.
+20 (2) Nothing in this chapter creates a private right of action or estab-
+21 lishes a duty of reasonable care where one would not otherwise exist.
+22 SECTION 2. An emergency existing therefor, which emergency is hereby
+23 declared to exist, this act shall be in full force and effect on and after
+24 July 1, 2026.

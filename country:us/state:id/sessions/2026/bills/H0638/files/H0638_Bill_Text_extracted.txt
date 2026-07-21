@@ -1,0 +1,401 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 638
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 34-102, IDAHO CODE, TO REVISE A DEF-
+3 INITION, TO DEFINE A TERM, AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+4 SECTION 34-106, IDAHO CODE, TO PROVIDE A PRESIDENTIAL PRIMARY DATE;
+5 AMENDING SECTION 34-411A, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+6 CHANGING PARTY AFFILIATION FOR PRIMARY ELECTIONS; AMENDING SECTION
+7 34-601, IDAHO CODE, TO PROVIDE A PRESIDENTIAL PRIMARY DATE; AMENDING
+8 SECTION 34-713, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE PREPA-
+9 RATION OF PRESIDENTIAL PRIMARY BALLOTS; AMENDING CHAPTER 7, TITLE 34,
+10 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 34-731, IDAHO CODE, TO ES-
+11 TABLISH PROVISIONS REGARDING PRESIDENTIAL PRIMARIES; AMENDING CHAPTER
+12 7, TITLE 34, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 34-732, IDAHO
+13 CODE, TO PROVIDE REQUIREMENTS FOR PRESIDENTIAL PRIMARY CANDIDATES;
+14 AMENDING CHAPTER 7, TITLE 34, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+15 TION 34-733, IDAHO CODE, TO PROVIDE FOR THE REMOVAL OF CANDIDATES FROM
+16 PRESIDENTIAL PRIMARY BALLOTS; AMENDING CHAPTER 7, TITLE 34, IDAHO CODE,
+17 BY THE ADDITION OF A NEW SECTION 34-734, IDAHO CODE, TO PROVIDE FOR
+18 VOTING IN A PRESIDENTIAL PRIMARY; AMENDING CHAPTER 7, TITLE 34, IDAHO
+19 CODE, BY THE ADDITION OF A NEW SECTION 34-735, IDAHO CODE, TO PROVIDE
+20 FOR PRESIDENTIAL PRIMARY RESULTS; AMENDING CHAPTER 7, TITLE 34, IDAHO
+21 CODE, BY THE ADDITION OF A NEW SECTION 34-736, IDAHO CODE, TO PROVIDE FOR
+22 DELEGATES TO A NATIONAL CONVENTION; AMENDING CHAPTER 7, TITLE 34, IDAHO
+23 CODE, BY THE ADDITION OF A NEW SECTION 34-737, IDAHO CODE, TO PROVIDE
+24 FOR THE CONDUCT OF A PRESIDENTIAL PRIMARY ELECTION; AMENDING CHAPTER
+25 7, TITLE 34, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 34-738, IDAHO
+26 CODE, TO PROVIDE FOR THE COSTS OF A PRESIDENTIAL PRIMARY; AMENDING SEC-
+27 TION 34-904A, IDAHO CODE, TO REVISE PROVISIONS REGARDING ELIGIBILITY
+28 TO VOTE IN PRIMARY ELECTIONS; AMENDING SECTION 34-1203A, IDAHO CODE, TO
+29 REVISE PROVISIONS REGARDING POSTELECTION AUDITS OF SELECTED BALLOTS;
+30 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+31 Be It Enacted by the Legislature of the State of Idaho:
+32 SECTION 1. That Section 34-102, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 34-102. "PRIMARY ELECTION" DEFINED -- PURPOSES. (1) "Primary elec-
+35 tion" means an election held for the purpose of nominating persons as
+36 candidates of political parties for election to offices, and for the purpose
+37 of electing persons as members of the controlling committees of political
+38 parties. Primary elections, with the exception of presidential primaries,
+39 shall be held on the third Tuesday of May in each even-numbered year.
+40 (2) For the purpose of this title, "presidential primary" means an
+41 election held for the purpose of allowing voters to express their choice of
+42 candidate for nomination by a political party for president of the United
+
+2
+1 States. A presidential primary shall be held on the first Tuesday in March in
+2 each presidential election year.
+3 SECTION 2. That Section 34-106, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 34-106. LIMITATION ON ELECTIONS. On and after January 1, 2011,
+6 notwithstanding any other provisions of the law to the contrary, there shall
+7 be no more than two (2) elections conducted in any county in any calendar
+8 year, except as provided in this section or section 34-220, Idaho Code, and
+9 except that elections to fill vacancies in the United States house of repre-
+10 sentatives shall be held as provided in the governor's proclamation.
+11 (1) The dates on which elections may be conducted are:
+12 (a) The third Tuesday in May of each year; and
+13 (b) The Tuesday following the first Monday in November of each year.
+14 (c) In addition to the elections specified in paragraphs (a) and (b) of
+15 this subsection and subsection (7) of this section, an emergency elec-
+16 tion may be called upon motion of the governing board of a political sub-
+17 division. An emergency exists when there is a great public calamity,
+18 such as an extraordinary fire, flood, storm, epidemic, or other disas-
+19 ter, or when it is necessary to do emergency work to prepare for national
+20 or local defense or to safeguard life, health or property.
+21 (d) In addition to the elections specified elsewhere in this section, a
+22 presidential primary shall be held on the first Tuesday in March in each
+23 presidential election year.
+24 (2) Candidates for office elected in May shall take office on the date
+25 specified in the certificate of election but not more than sixty (60) days
+26 following the election.
+27 (3) Candidates for office elected in November shall take office as pro-
+28 vided in the constitution or on January 1 next succeeding the November elec-
+29 tion.
+30 (4) The governing board of each political subdivision subject to the
+31 provisions of this section that, prior to January 1, 2011, conducted an elec-
+32 tion for members of that governing board on a date other than a date permit-
+33 ted in subsection (1) of this section shall establish as the election date
+34 for that political subdivision the date authorized in subsection (1) of this
+35 section that falls nearest the date on which elections were previously con-
+36 ducted, unless another date is established by law.
+37 (5) The secretary of state is authorized to provide such assistance as
+38 necessary and to prescribe any needed rules or interpretations for the con-
+39 duct of an election authorized under the provisions of this section.
+40 (6) Water districts governed by chapter 6, title 42, Idaho Code, are ex-
+41 empt from the provisions of this section.
+42 (7) Community colleges governed by chapter 21, title 33, Idaho Code,
+43 and school districts are subject to the limitations specified in subsection
+44 (1) of this section.
+45 (8) A city initiative or referendum election shall be held on the Tues-
+46 day following the first Monday in November of odd-numbered years. A county
+47 initiative or referendum election or a bond, levy or other ballot question
+48 election conducted by any political subdivision shall be held on the nearest
+49 date authorized in subsection (1) of this section as long as the ballot lan-
+
+3
+1 guage for any question to be placed on the ballot is submitted to the county
+2 clerk no later than 5:00 p.m. on the tenth Friday before the election.
+3 (9) Recall elections may be held on any of the dates authorized in sub-
+4 section (1) of this section as long as the recall petition is certified no
+5 later than the tenth Friday before the next scheduled election.
+6 (10) Irrigation districts governed by title 43, Idaho Code, are subject
+7 to the limitations specified in subsection (1) of this section, except that
+8 irrigation districts may also hold an election on the first Tuesday in Febru-
+9 ary of each year and on the first Tuesday in August of each year on questions
+10 required to be voted on by title 43, Idaho Code.
+11 SECTION 3. That Section 34-411A, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 34-411A. PRIMARY ELECTIONS -- CHANGING PARTY AFFILIATION -- UNAFFILI-
+14 ATED ELECTORS. (1) For a primary election, including a presidential primary
+15 election, an elector may change such elector's political party affiliation
+16 or become unaffiliated by filing a signed form with the county clerk no later
+17 than the last day a candidate may file for partisan political office prior
+18 to such primary election, as provided for in section 34-704, Idaho Code, and
+19 no later than the last day a candidate may file for the presidential pri-
+20 mary prior to such presidential primary election, as provided for in section
+21 34-732, Idaho Code. An unaffiliated elector may affiliate with the party
+22 of the elector's choice by filing a signed form up to and including election
+23 day. The application form described in section 34-1002, Idaho Code, shall
+24 also be used for this purpose.
+25 (2) For a primary election, an unaffiliated elector may select a po-
+26 litical party affiliation only prior to voting in the primary election. An
+27 elector may make such selection on or before election day by declaring such
+28 political party affiliation to the poll worker or other appropriate election
+29 personnel. The poll worker or other appropriate election personnel shall
+30 then record in the poll book the elector's choice. After the primary elec-
+31 tion, the county clerk shall record the party affiliation so recorded in the
+32 poll book as part of such elector's record within the voter registration sys-
+33 tem as provided for in section 34-437A, Idaho Code.
+34 SECTION 4. That Section 34-601, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 34-601. DATES ON WHICH ELECTIONS SHALL BE HELD. Elections shall be
+37 held in this state on the following dates or times:
+38 (1) A primary election shall be held on the third Tuesday in May, 2012,
+39 and every two (2) years thereafter on the above-mentioned Tuesday.
+40 (2) A general election shall be held on the first Tuesday after the
+41 first Monday of November, 2012, and every two (2) years thereafter on the
+42 above-mentioned Tuesday.
+43 (3) Special state elections shall be held on the dates ordered by the
+44 governor's proclamation, or as otherwise provided by law.
+45 (4) A presidential primary shall be held on the first Tuesday in March
+46 in each presidential election year.
+
+4
+1 SECTION 5. That Section 34-713, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 34-713. PREPARATION OF PRIMARY BALLOTS. (1) Upon receipt of the sample
+4 ballot and instructions from the secretary of state, each county clerk shall
+5 print and prepare the official primary ballots for the forthcoming election.
+6 The printing of the ballots shall be a county expense and paid out of the
+7 county treasury, except presidential primary ballots, which shall be paid
+8 for as provided in section 34-738, Idaho Code.
+9 (2) Each county clerk shall cause to be published on the earliest date
+10 possible in May the names of all the political party candidates who shall
+11 appear on the primary or presidential primary ballot. The names shall be
+12 listed alphabetically under each particular office title.
+13 SECTION 6. That Chapter 7, Title 34, Idaho Code, be, and the same is
+14 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+15 ignated as Section 34-731, Idaho Code, and to read as follows:
+16 34-731. PRESIDENTIAL PRIMARY. (1) In years in which a president of the
+17 United States is to be nominated and elected, a presidential primary shall be
+18 held at which voters may express their choice of candidate for nomination by
+19 a political party for president. The presidential primary shall be held on
+20 the first Tuesday in March in each presidential election year.
+21 (2) Participation in a presidential primary by a political party shall
+22 be optional, and nothing in this chapter shall be construed as mandating a
+23 party's participation in a presidential primary. Any party that intends to
+24 participate in a presidential primary shall notify the secretary of state's
+25 office no later than the last Tuesday in November prior to the presidential
+26 primary.
+27 SECTION 7. That Chapter 7, Title 34, Idaho Code, be, and the same is
+28 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+29 ignated as Section 34-732, Idaho Code, and to read as follows:
+30 34-732. PRESIDENTIAL PRIMARY CANDIDATES. The name of any candidate
+31 for a political party nomination for president of the United States shall
+32 be printed on the ballots only if the candidate files with the secretary of
+33 state a declaration of candidacy accompanied by a fifty-thousand-dollar
+34 ($50,000) filing fee no less than ninety (90) days prior to the presidential
+35 primary.
+36 SECTION 8. That Chapter 7, Title 34, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 34-733, Idaho Code, and to read as follows:
+39 34-733. PRESIDENTIAL PRIMARY -- REMOVAL FROM BALLOT. In the event the
+40 secretary of state is informed of a candidate's death, incapacity, or with-
+41 drawal from candidacy, the secretary of state may remove the name of such
+42 candidate from the ballot; provided, however, that no candidate's name shall
+43 be removed within the forty-five (45) days preceding the presidential pri-
+44 mary.
+
+5
+1 SECTION 9. That Chapter 7, Title 34, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 34-734, Idaho Code, and to read as follows:
+4 34-734. PRESIDENTIAL PRIMARY -- VOTING. At a presidential primary,
+5 qualified electors may vote for one (1) candidate from among the candidates
+6 of one (1) political party only in a manner consistent with the provisions of
+7 section 34-904A, Idaho Code.
+8 SECTION 10. That Chapter 7, Title 34, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 34-735, Idaho Code, and to read as follows:
+11 34-735. PRESIDENTIAL PRIMARY -- RESULTS. Upon completion of the state
+12 canvass for the presidential primary, the secretary of state shall certify
+13 to the state chair of each political party participating in the presidential
+14 primary the number of votes received by each candidate of that party. A win-
+15 ner shall be declared as prescribed by national and state party rules.
+16 SECTION 11. That Chapter 7, Title 34, Idaho Code, be, and the same is
+17 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+18 ignated as Section 34-736, Idaho Code, and to read as follows:
+19 34-736. DELEGATES TO THE NATIONAL CONVENTION. Upon receiving the re-
+20 sults of the presidential primary pursuant to section 34-735, Idaho Code,
+21 each party participating in the presidential primary shall select, accord-
+22 ing to national and state party rules, as many delegates and alternates to
+23 the national party convention as are allotted to it by the national committee
+24 of that party.
+25 SECTION 12. That Chapter 7, Title 34, Idaho Code, be, and the same is
+26 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+27 ignated as Section 34-737, Idaho Code, and to read as follows:
+28 34-737. PRESIDENTIAL PRIMARY -- CONDUCT OF ELECTION. Insofar as prac-
+29 ticable, and where the provisions of this chapter do not specifically indi-
+30 cate otherwise, the presidential primary shall be conducted and canvassed in
+31 the manner provided by law for the conduct and canvassing of state primary
+32 elections.
+33 SECTION 13. That Chapter 7, Title 34, Idaho Code, be, and the same is
+34 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+35 ignated as Section 34-738, Idaho Code, and to read as follows:
+36 34-738. PRESIDENTIAL PRIMARY COSTS. (1) Whenever a presidential pri-
+37 mary is held as provided by this chapter, the state of Idaho shall assume all
+38 costs related to the presidential primary, including publication of legal
+39 notice and ballot preparation. The county clerk shall determine the costs
+40 and file a certified claim, which shall be examined, allowed, and paid in the
+41 same manner as other claims against the state.
+
+6
+1 (2) The costs of any other election held simultaneous to the presiden-
+2 tial primary shall be covered in the manner elsewhere prescribed by law.
+3 SECTION 14. That Section 34-904A, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 34-904A. ELIGIBILITY TO VOTE IN PRIMARY ELECTIONS. (1) Except as pro-
+6 vided in subsection (2) of this section, an elector who has designated a
+7 party affiliation shall be allowed to vote only in the primary or presiden-
+8 tial primary election of the political party for which such an elector is so
+9 registered.
+10 (2) A political party qualified to participate in elections pursuant to
+11 section 34-501, Idaho Code, may, no later than the last Tuesday in the Novem-
+12 ber prior to a primary or presidential primary election, notify the secre-
+13 tary of state in writing that the political party elects to allow, in addi-
+14 tion to those electors who have registered with that political party, any of
+15 the following to vote in such party's primary or presidential primary elec-
+16 tion:
+17 (a) Electors designated as unaffiliated;
+18 (b) Electors registered with a different political party qualified to
+19 participate in elections pursuant to section 34-501, Idaho Code. In the
+20 event a state chairman of a political party elects to allow electors to
+21 vote in that party's primary or presidential primary election pursuant
+22 to this paragraph, the state chairman shall identify which political
+23 parties' registrants are allowed to vote in such primary or presiden-
+24 tial primary election.
+25 (3) In the event that more than one (1) political party allows unaf-
+26 filiated electors to vote in their party's primary or presidential primary
+27 election, an unaffiliated elector shall designate which political party's
+28 primary or presidential primary election the elector chooses to vote in by
+29 declaring such designation to the poll worker or other appropriate election
+30 personnel, who shall then record in the poll book the elector's choice. The
+31 county clerk shall record such choice as part of the elector's voting history
+32 within the voter registration system as provided for in section 34-437A,
+33 Idaho Code.
+34 (4) In the event no more than one (1) political party allows unaffili-
+35 ated electors to vote in their party's primary or presidential primary elec-
+36 tion, an "unaffiliated" elector may designate that political party's pri-
+37 mary or presidential primary election as the election the elector chooses to
+38 vote in by declaring such designation to the poll worker or other appropri-
+39 ate election personnel, who shall then record in the poll book the elector's
+40 choice. The county clerk shall record such choice as part of the elector's
+41 voting history within the voter registration system as provided for in sec-
+42 tion 34-437A, Idaho Code.
+43 (5) An unaffiliated elector having declared such designation as pro-
+44 vided for in subsection (3) or (4) of this section shall not be permitted to
+45 vote in the primary or presidential primary election of any other party held
+46 on that primary or presidential primary election date.
+47 (6) If an unaffiliated elector does not declare a choice of for a polit-
+48 ical party's primary or presidential primary election ballot, the elector
+49 shall not be permitted to vote in any political party's primary or presiden-
+
+7
+1 tial primary election but shall receive a nonpartisan ballot when such a bal-
+2 lot is available.
+3 (7) In the event that one (1) or more political parties allow electors
+4 affiliated with a different political party to vote in their primary or pres-
+5 idential primary election pursuant to this section, an elector affiliated
+6 with a different political party shall declare to the poll worker or other
+7 appropriate election personnel in which primary or presidential primary
+8 election ballot such elector wishes to vote. The county clerk shall record
+9 such choice as part of the elector's voting history within the voter regis-
+10 tration system as provided for in section 34-437A, Idaho Code.
+11 (8) Provided that all other provisions of this act are complied with,
+12 nothing in this section shall be construed to prohibit an elector designated
+13 as unaffiliated from voting in the primary or presidential primary election
+14 of a different party held in subsequent years. Notwithstanding any other
+15 provision of this act, if a political party allows unaffiliated electors to
+16 vote in that political party's primary or presidential primary election pur-
+17 suant to this section, a vote by an unaffiliated elector in such primary or
+18 presidential primary election shall not change or affect the elector's unaf-
+19 filiated designation.
+20 SECTION 15. That Section 34-1203A, Idaho Code, be, and the same is
+21 hereby amended to read as follows:
+22 34-1203A. POSTELECTION AUDIT OF SELECTED BALLOTS.
+23 (1)(a) After the completion of all county canvasses for any primary
+24 or general election, including any presidential primary election, the
+25 secretary of state shall identify and order a postelection audit of cer-
+26 tain paper ballots cast in any election, shall immediately post to the
+27 website of the office of the secretary of state a list of the elections,
+28 counties, and precincts selected for audit, and shall immediately no-
+29 tify each affected county clerk and county sheriff of the same. Upon
+30 receiving such notification, the county sheriff shall immediately
+31 impound and take into custody the affected ballots pursuant to the pro-
+32 cedures in chapter 23, title 34, Idaho Code. Upon completion of the
+33 postelection audit, the ballots shall be resealed and returned to the
+34 custody of the county clerk or, in the event that the ballots are subject
+35 to a recount pursuant to chapter 23, title 34, Idaho Code, to the county
+36 sheriff. The postelection audit shall include, at a minimum, a hand re-
+37 count of the ballots subject to the audit and a comparison to the results
+38 reported by the county for any precincts, days, batches, legislative
+39 districts, and tabulation machines selected for audit.
+40 (b) A postelection audit authorized pursuant to paragraph (a) of this
+41 subsection may be ordered for:
+42 (i) Any or all federal elections held in Idaho;
+43 (ii) The election for governor;
+44 (iii) The statewide office election having the narrowest percent-
+45 age margin of votes;
+46 (iv) The statewide ballot question election having the narrowest
+47 percentage margin of votes; and
+48 (v) One (1) legislative office election within the county.
+
+8
+1 (c) The precincts selected for audit pursuant to paragraph (a) of this
+2 subsection shall:
+3 (i) Be selected by lot by the secretary of state without the use of
+4 a computer at an open public meeting governed by the provisions of
+5 chapter 2, title 74, Idaho Code; and
+6 (ii) Not exceed five percent (5%) of the precincts in the county or
+7 one (1) precinct, whichever is greater. Provided, however, that
+8 multiple precincts may be selected in any county if the number of
+9 ballots from the precincts so selected is less than two thousand
+10 one hundred (2,100).
+11 (d) The secretary of state, in lieu of auditing the early or absentee
+12 ballots from any precincts selected for postelection audit, may se-
+13 lect days, batches, legislative districts, and tabulation machines of
+14 early or absentee ballots for audit until the number of ballots selected
+15 equals or exceeds the number of early or absentee ballots that were
+16 cast from the precincts selected for postelection audit. Such days,
+17 batches, legislative districts, and tabulation machines shall be se-
+18 lected under the same requirements by which precincts were selected.
+19 The provisions of this paragraph apply only to a county that:
+20 (i) Does not organize the storage of its early or absentee ballots
+21 by precinct;
+22 (ii) Organizes the storage of such ballots by day, batch, legisla-
+23 tive district, or tabulation machine; and
+24 (iii) Publicly reports the election results for early or absen-
+25 tee ballots by day, batch, legislative district, or tabulation ma-
+26 chine on the county's website prior to the secretary of state's se-
+27 lection of precincts to be audited.
+28 (2) The secretary of state shall conduct, and the county clerks shall
+29 facilitate, any postelection audit ordered pursuant to subsection (1) of
+30 this section. Such an audit shall be open to attendance by news media person-
+31 nel. By directive issued at least sixty (60) days prior to the election, the
+32 secretary of state shall determine the procedures by which the postelection
+33 audit is to be conducted. Such procedures shall be developed in consultation
+34 with county clerks and shall include provisions allowing each interested
+35 candidate and political party, and each political committee that publicly
+36 reported expending money on a ballot question for which the results will be
+37 audited, to appoint a designated observer. Within the time specified in the
+38 directive, the secretary of state shall report the results of any postelec-
+39 tion audits on the website of the office of the secretary of state and to the
+40 county clerk of each county in which paper ballots were audited.
+41 (3) The secretary of state may order additional postelection audits,
+42 without regard to the election or precinct limitations provided in subsec-
+43 tion (1) of this section, if he determines that such action is warranted by
+44 the findings of the audits ordered pursuant to subsection (1) of this sec-
+45 tion. The secretary of state shall limit such orders for additional post-
+46 election audits to the types of problems identified by the audits performed
+47 pursuant to subsection (1) of this section.
+48 (4) The office of the secretary of state shall pay for the cost of any
+49 postelection audits conducted pursuant to this section, including reimburs-
+50 ing county clerks for any costs associated with facilitating such audits.
+
+9
+1 SECTION 16. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

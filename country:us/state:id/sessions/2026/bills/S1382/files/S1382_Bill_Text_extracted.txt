@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1382
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE DEPARTMENT OF FISH AND GAME; APPROPRI-
+3 ATING ADDITIONAL MONEYS TO THE DEPARTMENT OF FISH AND GAME FOR FISCAL
+4 YEAR 2027; PROVIDING REAPPROPRIATION AUTHORITY FOR DEDICATED FUNDS;
+5 PROVIDING REAPPROPRIATION AUTHORITY FOR FEDERAL FUNDS; AND DECLARING
+6 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. In addition to any other appropriation provided by law,
+9 there is hereby appropriated to the Department of Fish and Game the follow-
+10 ing amounts to be expended according to the designated programs and expense
+11 classes from the listed funds for the period July 1, 2026, through June 30,
+12 2027:
+13 FOR FOR FOR
+14 PERSONNEL OPERATING CAPITAL
+15 COSTS EXPENDITURES OUTLAY TOTAL
+16 I. ADMINISTRATION:
+17 FROM:
+18 Fish and Game
+19 Fund $594,100 $5,157,800 $5,751,900
+20 Fish and Game (Federal)
+21 Fund 111,500 675,600 787,100
+22 TOTAL $705,600 $5,833,400 $6,539,000
+23 II. ENFORCEMENT:
+24 FROM:
+25 Fish and Game
+26 Fund $59,900 $59,900
+27 III. FISHERIES:
+28 FROM:
+29 Fish and Game
+30 Fund $91,400 $46,000 $167,000 $304,400
+31 Fish and Game (Other)
+32 Fund 102,200 7,486,100 7,588,300
+
+2
+1 FOR FOR FOR
+2 PERSONNEL OPERATING CAPITAL
+3 COSTS EXPENDITURES OUTLAY TOTAL
+4 Fish and Game (Federal)
+5 Fund 605,100 4,327,100 950,000 5,882,200
+6 TOTAL $798,700 $11,859,200 $1,117,000 $13,774,900
+7 IV. WILDLIFE:
+8 FROM:
+9 Fish and Game
+10 Fund $121,300 $500,000 $621,300
+11 Fish and Game (Other)
+12 Fund 55,200 $500,000 555,200
+13 Fish and Game (Federal)
+14 Fund 134,600 3,750,000 400,000 4,284,600
+15 TOTAL $311,100 $4,250,000 $900,000 $5,461,100
+16 V. COMMUNICATIONS:
+17 FROM:
+18 Fish and Game
+19 Fund $64,400 $64,400
+20 GRAND TOTAL $1,109,800 $16,879,200 $7,910,300 $25,899,300
+21 SECTION 2. REAPPROPRIATION AUTHORITY FOR DEDICATED FUNDS. There is
+22 hereby reappropriated to the Department of Fish and Game any unexpended and
+23 unencumbered balances appropriated or reappropriated to the Department
+24 of Fish and Game from Dedicated Funds for the Administration, Fisheries,
+25 Wildlife, and Communications programs for fiscal year 2026 to be used for
+26 nonrecurring expenditures for the period July 1, 2026, through June 30,
+27 2027. The Office of the State Controller shall confirm the reappropriation
+28 amount, by fund, expense class, and program, with the Legislative Services
+29 Office prior to processing the reappropriation authorized herein.
+30 SECTION 3. REAPPROPRIATION AUTHORITY FOR FEDERAL FUNDS. There is
+31 hereby reappropriated to the Department of Fish and Game any unexpended
+32 and unencumbered balances appropriated or reappropriated to the Depart-
+33 ment of Fish and Game from Federal Funds for the Administration, Fisheries,
+34 Wildlife, and Communications programs for fiscal year 2026, to be used for
+35 nonrecurring expenditures for the period July 1, 2026, through June 30,
+36 2027. The Office of the State Controller shall confirm the reappropriation
+37 amount, by fund, expense class, and program, with the Legislative Services
+38 Office prior to processing the reappropriation authorized herein.
+
+3
+1 SECTION 4. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

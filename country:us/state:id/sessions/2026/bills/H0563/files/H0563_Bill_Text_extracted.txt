@@ -1,0 +1,285 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 563
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO CERTIFIED PUBLIC ACCOUNTANTS; AMENDING SECTION 54-204, IDAHO
+3 CODE, TO REVISE A PROVISION REGARDING THE POWERS AND DUTIES OF THE IDAHO
+4 STATE BOARD OF ACCOUNTANCY; AMENDING SECTION 54-207, IDAHO CODE, TO
+5 REVISE PROVISIONS REGARDING EDUCATIONAL REQUIREMENTS FOR A CERTIFIED
+6 PUBLIC ACCOUNTANT; AMENDING SECTION 54-208, IDAHO CODE, TO REVISE PRO-
+7 VISIONS REGARDING QUALIFICATIONS FOR A CERTIFIED PUBLIC ACCOUNTANT;
+8 AMENDING SECTION 54-209, IDAHO CODE, TO REVISE PROVISIONS REGARDING EX-
+9 PERIENCE REQUIRED FOR A CERTIFIED PUBLIC ACCOUNTANT; REPEALING SECTION
+10 54-227, IDAHO CODE, RELATING TO SUBSTANTIAL EQUIVALENCY REQUIREMENTS
+11 FOR A CERTIFIED PUBLIC ACCOUNTANT; AMENDING CHAPTER 2, TITLE 54, IDAHO
+12 CODE, BY THE ADDITION OF A NEW SECTION 54-227, IDAHO CODE, TO ESTABLISH
+13 PROVISIONS REGARDING PRACTICE PRIVILEGES OF CERTAIN CERTIFIED PUBLIC
+14 ACCOUNTANTS LICENSED IN ANOTHER STATE AND TO PROVIDE AN EXCEPTION; AND
+15 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. That Section 54-204, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 54-204. POWERS AND DUTIES. The Idaho state board of accountancy, in
+20 addition to the other powers and duties set forth in this chapter, shall have
+21 the following powers and duties:
+22 (1) To adopt and amend rules, subject to legislative approval, in ac-
+23 cordance with the provisions of the administrative procedure act, chapter
+24 52, title 67, Idaho Code, governing its administration and the enforcement
+25 of this chapter and the conduct of licensees including, but not limited to:
+26 (a) Rules governing the board's meetings and the conduct of its busi-
+27 ness;
+28 (b) Rules of procedure governing the conduct of investigations and
+29 hearings by the board;
+30 (c) Rules specifying the education, examination and experience quali-
+31 fications required for the issuance of certificates, and the continuing
+32 professional education required for renewal of licenses;
+33 (d) Rules of professional conduct directed to controlling the quality
+34 and probity of professional services by licensees, and dealing among
+35 other things with independence, integrity and objectivity; competence
+36 and technical standards; responsibilities to the public; and responsi-
+37 bilities to clients;
+38 (e) Rules governing the professional standards applicable to li-
+39 censees;
+40 (f) Rules governing the manner and circumstances of use of the titles
+41 "certified public accountant" and "licensed public accountant";
+
+2
+1 (g) Rules regarding peer reviews that may be required to be performed
+2 under the provisions of this chapter;
+3 (h) Rules on reciprocity and substantial equivalency to implement the
+4 provisions of section 54-227 54-210, Idaho Code;
+5 (i) Rules adopting statements on standards as specified in section
+6 54-206, Idaho Code, which, if the board may deem appropriate, shall
+7 be those standards developed for general application by recognized
+8 accountancy organizations such as the AICPA, as such statements are
+9 established from time to time; and
+10 (j) Such other rules as the board may deem necessary or appropriate to
+11 implement or administer the provisions and purposes of this chapter.
+12 (2) To issue original certificates of qualification and licenses to
+13 practice as certified public accountants to such applicants as may be quali-
+14 fied by reciprocity, transfer of examination grades or by examination.
+15 (3) To charge and collect from all applicants, certificate holders, and
+16 licensees such fees as are provided by this chapter and prescribed by rules
+17 of the board.
+18 (4) To initiate or receive complaints, cause the same to be investi-
+19 gated, initiate proceedings, and conduct hearings or proceedings pursuant
+20 to chapter 2, title 54, Idaho Code. The board may designate a member, or any
+21 other person of appropriate competence, to serve as investigating officer to
+22 conduct an investigation. Upon completion of an investigation, the investi-
+23 gating officer shall file a report with the board. Unless dismissed by the
+24 board as unfounded or trivial, the board may proceed with disciplinary pro-
+25 ceedings or may return the report to the investigating officer for further
+26 investigation.
+27 (a) In order to protect the interests of a complainant, witness, third
+28 party or defendant, the board may upon application and for good cause
+29 shown, issue a protective order, consistent with chapter 1, title 74,
+30 Idaho Code, prohibiting the disclosure of specific information other-
+31 wise not privileged and confidential and direct that the proceedings be
+32 conducted so as to implement the order.
+33 (b) In carrying into effect the provisions of this chapter, the board
+34 may subpoena witnesses and compel their attendance, and also may re-
+35 quire the submission of books, papers, documents or other pertinent
+36 data; may administer oaths; may take testimony; may cooperate with the
+37 appropriate authorities in other states in investigation and enforce-
+38 ment concerning violations of this chapter and comparable acts of other
+39 states; and may receive evidence in any disciplinary matters or in any
+40 case wherever a violation of the provisions of this chapter is alleged.
+41 Upon failure or refusal to comply with any such order of the board, or
+42 upon failure to honor its subpoena, the board may apply to the court in
+43 the district where the witness resides to enforce compliance.
+44 (5) To authorize by written agreement the division of occupational and
+45 professional licenses as agent to act in its interest.
+46 (6) Any action, claim or demand to recover money damages from the board
+47 or its employees which any person is legally entitled to recover as compensa-
+48 tion for the negligent or otherwise wrongful act or omission of the board or
+49 its employees, when acting within the course and scope of their employment,
+50 shall be governed by the Idaho tort claims act, chapter 9, title 6, Idaho
+
+3
+1 Code. For purposes of this subsection, the term "employees" shall include
+2 special assignment members of the board and other independent contractors
+3 while acting within the course and scope of their board related work.
+4 (7) All hearings, investigations or proceedings conducted by the board
+5 shall be conducted in conformity with chapter 52, title 67, Idaho Code, and
+6 rules of the board adopted pursuant thereto, and, unless otherwise requested
+7 by the concerned party, be subject to disclosure according to chapter 1, ti-
+8 tle 74, Idaho Code.
+9 SECTION 2. That Section 54-207, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 54-207. LICENSE -- APPLICATION. (1) Any person desiring a certificate
+12 and license shall make a written application for such certificate and li-
+13 cense to the board, upon forms to be prescribed and furnished by the board.
+14 Such application shall be filed and shall be accompanied by such fee as may be
+15 required by rules of the board.
+16 (2) In addition to meeting the qualifications provided elsewhere in
+17 this chapter, before a certificate and license may be issued, a person
+18 desiring to receive a certificate and license shall have satisfactorily
+19 completed a minimum of one hundred fifty (150) semester hours, or two hundred
+20 twenty-five (225) quarter hours, of college education, with a concentration
+21 in accounting, auditing and business, including a baccalaureate or higher
+22 degree at a college or university acceptable to the board, as established by
+23 rule. Satisfactory evidence in the form of an official transcript received
+24 directly from the school registrar indicating the credits and degree re-
+25 ceived shall be presented to the board to demonstrate successful completion
+26 of these education requirements. one of the following educational pathways:
+27 (3) The board may adopt rules allowing persons who met the education re-
+28 quirements of section 54-208, Idaho Code, when they first sat for the exami-
+29 nation to become licensed even though they do not meet the education require-
+30 ments of this section.
+31 (a) A postbaccalaureate degree conferred by a college or university ac-
+32 ceptable to the board, in an educational program that includes an ac-
+33 counting concentration or equivalent, as specified in subsection (3) of
+34 this section;
+35 (b) A baccalaureate degree plus an additional thirty (30) semester
+36 credit hours, conferred by a college or university acceptable to the
+37 board, in an educational program that includes an accounting concentra-
+38 tion or equivalent as specified in subsection (3) of this section; or
+39 (c) A baccalaureate degree conferred by a college or university accept-
+40 able to the board, in an education program that includes an accounting
+41 concentration or equivalent as specified in subsection (3) of this sec-
+42 tion.
+43 (3) An applicant's education shall be deemed to meet the requirements
+44 of subsection (2) of this section if it meets one (1) of the following condi-
+45 tions:
+46 (a) The applicant has earned a graduate degree with a concentration in
+47 accounting from a program that is accredited in accounting by an accred-
+48 iting agency approved by the board;
+
+4
+1 (b) The applicant has earned a graduate degree from a program that is
+2 accredited in business by an accrediting agency approved by the board
+3 that includes completion of at least twenty-four (24) semester hours in
+4 accounting, excluding introductory courses, at the undergraduate level
+5 or fifteen (15) semester hours at the graduate level, or an equivalent
+6 combination thereof satisfactory to the board, including coverage of,
+7 but not necessarily separate courses in, the subjects of data analyt-
+8 ics, financial accounting, auditing, taxation, and management account-
+9 ing; or
+10 (c) The applicant has earned a baccalaureate degree at an institution
+11 approved by the board or from a program that is accredited in business by
+12 an accrediting agency approved by the board, including completion of at
+13 least twenty-four (24) semester hours in business, other than account-
+14 ing courses, and twenty-four (24) semester hours or an equivalent com-
+15 bination thereof satisfactory to the board in accounting, excluding in-
+16 troductory courses, that included coverage of, but not necessarily sep-
+17 arate courses in, the subjects of data analytics, financial accounting,
+18 auditing, taxation, and management accounting.
+19 (4) Satisfactory evidence in the form of an official transcript re-
+20 ceived directly from the school registrar indicating the credits and degree
+21 received shall be presented to the board to demonstrate successful comple-
+22 tion of one (1) of the educational pathways identified in subsection (2) of
+23 this section.
+24 SECTION 3. That Section 54-208, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 54-208. EXAMINATION -- EDUCATION -- QUALIFICATIONS. (1) An applicant
+27 for admission to examination as a certified public accountant shall:
+28 (a) Be eighteen (18) years of age or older;
+29 (b) Be of good character;
+30 (c) Be a resident, have been a resident, or intend to immediately become
+31 a resident of the state of Idaho;
+32 (d) (c) Be approved by the board for admission to the examination; and
+33 (e) (d) Provide satisfactory evidence in the form of an official
+34 transcript received directly from the school registrar indicating
+35 successful completion of a baccalaureate degree or its equivalent, the
+36 required credits and courses to be prescribed by the rules of the board.
+37 satisfaction of at least one (1) of the educational requirements set
+38 forth in section 54-207, Idaho Code.
+39 (2) The examination required to be passed as a condition to granting a
+40 certificate shall test the applicant's knowledge of the subjects of account-
+41 ing and auditing, and such other related subjects as the board may specify by
+42 rule, including, but not limited to, business law and taxation. The time for
+43 holding such examination shall be determined by the board and may be changed
+44 from time to time. The board shall prescribe by rule the methods of apply-
+45 ing for and conducting the examination, including methods for grading and
+46 determining a passing grade required of an applicant for a certificate; pro-
+47 vided however, that the board shall endeavor to assure that the examination
+48 itself, grading of the examination, and the passing grades, are uniform with
+49 those of other states. The board may make use of all or any part of the uni-
+
+5
+1 form certified public accountant examination and advisory grading service
+2 of the AICPA and may contract with third parties to perform such administra-
+3 tive services with respect to the examination as it deems appropriate to as-
+4 sist it in performing its duties hereunder.
+5 (3) The board may charge, or provide for a third party administering the
+6 examination to charge, each applicant a fee, in an amount prescribed by the
+7 board by rule.
+8 (4) None of the education requirements specified in this section shall
+9 apply to an applicant who is a licensed public accountant pursuant to this
+10 chapter.
+11 SECTION 4. That Section 54-209, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 54-209. EXPERIENCE. (1) An applicant of good character who success-
+14 fully passes the examination, with standards no less than those prescribed
+15 by the board's rules for examination of candidates in Idaho, and who fulfills
+16 the requirements of section 54-207, Idaho Code, shall receive a license as
+17 a certified public accountant if the applicant has completed one (1) year of
+18 experience. the applicable experience requirement as follows:
+19 (a) An applicant for initial issuance of a certificate under section
+20 54-207(2)(a) or (b), Idaho Code, shall show that the applicant has had
+21 one (1) year of experience as described in subsection (2) of this sec-
+22 tion.
+23 (b) An applicant for initial issuance of a certificate under section
+24 54-207(2)(c), Idaho Code, shall show that the applicant has had two (2)
+25 years of experience as described in subsection (2) of this section.
+26 (2) This The required experience shall include providing any type of
+27 service or advice involving the use of accounting, attest, compilation, man-
+28 agement advisory, financial advisory, tax or consulting skills, all of which
+29 have been performed under the supervision of and verified by an active li-
+30 censee, meeting requirements prescribed by the board by rule. This experi-
+31 ence may be gained through employment in government, industry, academia or
+32 public practice.
+33 SECTION 5. That Section 54-227, Idaho Code, be, and the same is hereby
+34 repealed.
+35 SECTION 6. That Chapter 2, Title 54, Idaho Code, be, and the same is
+36 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+37 ignated as Section 54-227, Idaho Code, and to read as follows:
+38 54-227. PRACTICE PRIVILEGES. (1) An individual whose principal place
+39 of business is not in the state of Idaho and who holds a valid active license
+40 in good standing as a certified public accountant from any other state shall
+41 have all the practice privileges of licensees of this state without the need
+42 to obtain a license under this chapter, provided that such individual meets
+43 the minimum educational and experience requirements set forth in sections
+44 54-207 and 54-209, Idaho Code.
+45 (2) Notwithstanding any other provision of law, an individual identi-
+46 fied in subsection (1) of this section who offers or renders professional
+
+6
+1 services, whether in person, by mail, telephone, or electronic means, or in
+2 any other way, by this section is granted practice privileges in this state,
+3 and no notice or other submission shall be required of any such individual.
+4 (3) An individual licensed in another state who exercises the practice
+5 privilege afforded under this section and the firm that employs that li-
+6 censee are deemed to simultaneously consent, as a condition of the grant of
+7 this privilege:
+8 (a) To the personal and subject matter jurisdiction and disciplinary
+9 authority of the board;
+10 (b) To comply with the provisions of this chapter and applicable board
+11 rules;
+12 (c) That in the event the license from the state of the individual's
+13 principal place of business is no longer valid, the individual will
+14 cease offering or rendering professional services in this state indi-
+15 vidually and on behalf of a firm; and
+16 (d) To the appointment of the state board that issued the individual's
+17 license as the agent upon whom process may be served in any action or
+18 proceeding by the Idaho board against the licensee.
+19 (4) An individual whose principal place of business is not in this state
+20 and who, as of December 31, 2024, held and continues to hold a valid active
+21 license as a certified public accountant from any state and has practice
+22 privileges in this state pursuant to section 54-227, Idaho Code, as that
+23 section existed on December 31, 2024, shall continue to have all the privi-
+24 leges of a licensee in this state without the need to obtain a license under
+25 sections 54-207 and 54-209, Idaho Code.
+26 SECTION 7. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

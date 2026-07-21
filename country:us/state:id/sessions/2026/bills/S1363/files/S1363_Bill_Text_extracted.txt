@@ -1,0 +1,626 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1363
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO APPROPRIATIONS TO NATURAL RESOURCES; APPROPRIATING MONEYS TO
+3 THE DEPARTMENT OF ENVIRONMENTAL QUALITY, THE DEPARTMENT OF FISH AND
+4 GAME, THE ENDOWMENT FUND INVESTMENT BOARD, THE DEPARTMENT OF LANDS,
+5 THE DEPARTMENT OF PARKS AND RECREATION, AND THE DEPARTMENT OF WATER
+6 RESOURCES FOR FISCAL YEAR 2027; LIMITING THE NUMBER OF AUTHORIZED
+7 FULL-TIME EQUIVALENT POSITIONS; PROVIDING REMEDIATION PROJECT RE-
+8 PORTING REQUIREMENTS; APPROPRIATING AND TRANSFERRING MONEYS FROM THE
+9 WATER POLLUTION CONTROL FUND TO THE ENVIRONMENTAL REMEDIATION (BASIN)
+10 FUND; APPROPRIATING AND TRANSFERRING MONEYS FROM THE WATER POLLUTION
+11 CONTROL FUND TO THE AGRICULTURAL BEST MANAGEMENT PRACTICES (BMP) FUND;
+12 PROVIDING REQUIREMENTS FOR THE USE OF THE WATER POLLUTION CONTROL FUND;
+13 PROVIDING REAPPROPRIATION AUTHORITY FOR THE ARPA STATE FISCAL RECOV-
+14 ERY FUND; PROVIDING REQUIREMENTS FOR THE USE OF THE ARPA STATE FISCAL
+15 RECOVERY FUND; DIRECTING THE USE OF THE GENERAL FUND APPROPRIATION;
+16 PROVIDING A CONTINUOUS APPROPRIATION FOR CERTAIN COSTS OF THE ENDOW-
+17 MENT FUND INVESTMENT BOARD; PROVIDING FOR THE TRANSFER OF MONEYS FROM
+18 EARNINGS RESERVE FUNDS TO INCOME FUNDS; EXEMPTING THE APPROPRIATION FOR
+19 THE FOREST AND RANGE FIRE PROTECTION PROGRAM FROM EXPENSE CLASS TRANS-
+20 FER LIMITATIONS; PROVIDING REAPPROPRIATION AUTHORITY FOR THE CAPITAL
+21 DEVELOPMENT PROGRAM; EXEMPTING THE APPROPRIATION FOR THE DEPARTMENT OF
+22 PARKS AND RECREATION FOR OPERATIONS PROGRAM GRANTS FROM EXPENSE CLASS
+23 TRANSFER LIMITATIONS; APPROPRIATING AND TRANSFERRING MONEYS FROM THE
+24 GENERAL FUND TO THE SECONDARY AQUIFER PLANNING, MANAGEMENT, AND IMPLE-
+25 MENTATION FUND; APPROPRIATING AND TRANSFERRING MONEYS FROM THE GENERAL
+26 FUND TO THE WATER MANAGEMENT FUND FOR FLOOD MANAGEMENT; APPROPRIATING
+27 AND TRANSFERRING MONEYS FROM THE GENERAL FUND TO THE WATER MANAGEMENT
+28 FUND FOR WATER PROJECTS; DIRECTING THE USE OF FUNDS FOR WATER MANAGEMENT
+29 FUND PROJECTS; PROVIDING FOR ACCOUNTABILITY REPORTS; PROVIDING FOR
+30 CONDITIONS, LIMITATIONS, AND RESTRICTIONS; AND DECLARING AN EMERGENCY
+31 AND PROVIDING AN EFFECTIVE DATE.
+32 Be It Enacted by the Legislature of the State of Idaho:
+33 SECTION 1. There is hereby appropriated to Natural Resources the fol-
+34 lowing amounts to be expended according to the designated programs and ex-
+35 pense classes from the listed funds for the period July 1, 2026, through June
+36 30, 2027:
+
+2
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 I. DEPARTMENT OF ENVIRONMENTAL QUALITY:
+6 A. ADMINISTRATION AND SUPPORT SERVICES:
+7 FROM:
+8 Department of Environmental Quality (General)
+9 Fund $3,369,500 $1,825,700 $1,855,800 $7,051,000
+10 Air Quality Permitting
+11 Fund 232,900 51,600 23,500 308,000
+12 Public Water System Supervision
+13 Fund 350,300 73,000 74,500 497,800
+14 Environmental Remediation (Box)
+15 Fund 15,500 10,000 25,500
+16 Environmental Remediation (Basin)
+17 Fund 20,000 14,400 12,600 47,000
+18 Department of Environmental Quality (Receipts)
+19 Fund 351,700 111,100 95,900 558,700
+20 Idaho Underground Storage Tank Program
+21 Fund 59,100 15,900 18,400 93,400
+22 IPDES Program
+23 Fund 318,000 50,500 58,100 426,600
+24 Bunker Hill Trust
+25 Fund 4,200 6,800 5,900 16,900
+26 Department of Environmental Quality (Federal)
+27 Fund 1,680,000 1,211,600 1,180,200 4,071,800
+28 ARPA State Fiscal Recovery
+29 Fund 4,900 0 0 4,900
+30 TOTAL $6,406,100 $3,370,600 $3,324,900 $13,101,600
+31 B. AIR QUALITY:
+32 FROM:
+33 Department of Environmental Quality (General)
+34 Fund $5,297,200 $213,600 $5,510,800
+35 Air Quality Permitting
+36 Fund 1,526,800 59,700 1,586,500
+37 Department of Environmental Quality (Receipts)
+38 Fund 446,400 393,000 $300,000 1,139,400
+
+3
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Department of Environmental Quality (Federal)
+6 Fund 1,242,600 1,971,200 1,241,400 4,455,200
+7 TOTAL $8,513,000 $2,637,500 $1,541,400 $12,691,900
+8 C. WATER QUALITY:
+9 FROM:
+10 Department of Environmental Quality (General)
+11 Fund $9,937,200 $1,765,500 $488,500 $12,191,200
+12 Public Water System Supervision
+13 Fund 1,677,800 299,700 1,977,500
+14 Department of Environmental Quality (Receipts)
+15 Fund 663,900 743,700 1,771,600 3,179,200
+16 IPDES Program
+17 Fund 1,371,400 196,400 1,567,800
+18 Department of Environmental Quality (Federal)
+19 Fund 6,542,500 13,440,000 2,333,200 22,315,700
+20 ARPA State Fiscal Recovery
+21 Fund 32,900 0 0 32,900
+22 TOTAL $20,225,700 $16,445,300 $4,593,300 $41,264,300
+23 D. COEUR D'ALENE BASIN COMMISSION:
+24 FROM:
+25 Department of Environmental Quality (General)
+26 Fund $214,500 $10,200 $224,700
+27 Environmental Remediation (Basin)
+28 Fund 186,800 15,500 202,300
+29 Department of Environmental Quality (Federal)
+30 Fund 16,100 0 $50,000 66,100
+31 TOTAL $417,400 $25,700 $50,000 $493,100
+32 E. WASTE MANAGEMENT AND REMEDIATION:
+33 FROM:
+34 Department of Environmental Quality (General)
+35 Fund $3,094,800 $156,200 $94,600 $3,345,600
+36 Environmental Remediation (Box)
+37 Fund 283,800 97,300 210,500 591,600
+
+4
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Environmental Remediation (Basin)
+6 Fund 292,900 58,500 280,000 631,400
+7 Department of Environmental Quality (Receipts)
+8 Fund 1,067,200 1,166,600 51,800 2,285,600
+9 Idaho Underground Storage Tank Program
+10 Fund 296,800 25,000 321,800
+11 Bunker Hill Trust
+12 Fund 139,900 4,390,000 375,000 4,904,900
+13 Department of Environmental Quality (Federal)
+14 Fund 3,183,000 8,242,900 2,500,500 13,926,400
+15 ARPA State Fiscal Recovery
+16 Fund 13,400 0 0 13,400
+17 TOTAL $8,371,800 $14,136,500 $3,512,400 $26,020,700
+18 F. IDAHO NATIONAL LABORATORY OVERSIGHT:
+19 FROM:
+20 Department of Environmental Quality (General)
+21 Fund $179,100 $8,700 $187,800
+22 Department of Environmental Quality (Federal)
+23 Fund 1,301,200 1,318,800 $146,900 2,766,900
+24 TOTAL $1,480,300 $1,327,500 $146,900 $2,954,700
+25 DEPARTMENT
+26 TOTAL $45,414,300 $37,943,100 $3,324,900 $9,844,000 $96,526,300
+27 II. DEPARTMENT OF FISH AND GAME:
+28 A. ADMINISTRATION:
+29 FROM:
+30 Fish and Game
+31 Fund $6,206,600 $5,893,100 $12,099,700
+32 Fish and Game (Other)
+33 Fund 1,071,600 283,800 1,355,400
+34 Fish and Game Set-Aside
+35 Fund 31,300 31,300
+36 Fish and Game Set-Aside (Other)
+37 Fund 22,200 22,200
+
+5
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Expendable Big Game Depredation
+6 Fund 2,900 2,900
+7 Fish and Game Expendable Trust
+8 Fund 8,100 8,100
+9 Fish and Game Nonexpendable Trust
+10 Fund 3,600 3,600
+11 Fish and Game (Federal)
+12 Fund 4,473,700 5,841,300 10,315,000
+13 TOTAL $11,751,900 $12,086,300 $23,838,200
+14 B. ENFORCEMENT:
+15 FROM:
+16 Fish and Game
+17 Fund $13,500,400 $2,895,600 $16,396,000
+18 Fish and Game (Other)
+19 Fund 186,000 77,000 263,000
+20 Fish and Game Set-Aside (Other)
+21 Fund 20,600 20,600
+22 Fish and Game Expendable Trust
+23 Fund 26,400 26,400
+24 Fish and Game (Federal)
+25 Fund 2,300 6,700 9,000
+26 TOTAL $13,688,700 $3,026,300 $16,715,000
+27 C. FISHERIES:
+28 FROM:
+29 Fish and Game
+30 Fund $5,223,700 $7,691,400 $12,915,100
+31 Fish and Game (Other)
+32 Fund 3,655,800 8,333,200 11,989,000
+33 Fish and Game Set-Aside
+34 Fund 400,700 575,700 976,400
+35 Fish and Game Set-Aside (Other)
+36 Fund 179,200 165,700 344,900
+37 Fish and Game Expendable Trust
+38 Fund 36,000 333,000 369,000
+
+6
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Fish and Game Nonexpendable Trust
+6 Fund 33,200 33,200
+7 Fish and Game (Federal)
+8 Fund 16,656,500 14,465,100 31,121,600
+9 TOTAL $26,151,900 $31,597,300 $57,749,200
+10 D. WILDLIFE:
+11 FROM:
+12 Fish and Game
+13 Fund $7,881,400 $6,625,600 $174,800 $14,681,800
+14 Fish and Game (Other)
+15 Fund 632,000 1,054,100 1,686,100
+16 Fish and Game Set-Aside
+17 Fund 192,200 3,666,000 3,858,200
+18 Fish and Game Set-Aside (Other)
+19 Fund 1,336,900 325,300 1,662,200
+20 Expendable Big Game Depredation
+21 Fund 1,800,000 1,800,000
+22 Fish and Game Expendable Trust
+23 Fund 319,400 896,100 1,215,500
+24 Fish and Game Nonexpendable Trust
+25 Fund 11,500 2,300 13,800
+26 Fish and Game (Federal)
+27 Fund 8,218,000 10,546,400 0 18,764,400
+28 TOTAL $18,591,400 $23,115,800 $1,974,800 $43,682,000
+29 E. COMMUNICATIONS:
+30 FROM:
+31 Fish and Game
+32 Fund $2,016,700 $704,800 $2,721,500
+33 Fish and Game (Other)
+34 Fund 49,600 35,700 85,300
+35 Fish and Game Expendable Trust
+36 Fund 30,900 89,000 119,900
+
+7
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Fish and Game (Federal)
+6 Fund 1,908,800 518,600 2,427,400
+7 TOTAL $4,006,000 $1,348,100 $5,354,100
+8 DEPARTMENT
+9 TOTAL $74,189,900 $71,173,800 $1,974,800 $147,338,500
+10 III. ENDOWMENT FUND INVESTMENT BOARD:
+11 FROM:
+12 Miscellaneous Revenue
+13 Fund $81,900 $14,500 $96,400
+14 Endowment Earnings Administrative
+15 Fund 718,600 204,700 923,300
+16 TOTAL $800,500 $219,200 $1,019,700
+17 IV. DEPARTMENT OF LANDS:
+18 A. BUSINESS SERVICES:
+19 FROM:
+20 General
+21 Fund $541,600 $415,100 $956,700
+22 Indirect Cost Recovery
+23 Fund 160,900 129,000 289,900
+24 Department of Lands
+25 Fund 942,200 671,100 1,613,300
+26 Navigable Waterways
+27 Fund 1,600 1,600
+28 Endowment Earnings Administrative
+29 Fund 2,898,400 3,230,300 6,128,700
+30 TOTAL $4,544,700 $4,445,500 $8,990,200
+31 B. FOREST RESOURCES MANAGEMENT:
+32 FROM:
+33 General
+34 Fund $1,138,400 $494,400 $20,000 $1,652,800
+35 Indirect Cost Recovery
+36 Fund 75,500 324,000 399,500
+
+8
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Department of Lands
+6 Fund 1,604,500 908,100 2,512,600
+7 Endowment Earnings Administrative
+8 Fund 388,200 82,900 471,100
+9 Community Forestry
+10 Fund 20,000 20,000 40,000
+11 Federal Grant
+12 Fund 1,204,700 3,125,700 5,415,400 9,745,800
+13 TOTAL $4,411,300 $4,955,100 $5,455,400 $14,821,800
+14 C. TRUST LAND MANAGEMENT:
+15 FROM:
+16 General
+17 Fund $153,500 $2,200 $155,700
+18 Department of Lands
+19 Fund 172,200 279,000 451,200
+20 Endowment Earnings Administrative
+21 Fund 16,467,900 13,829,300 $50,000 30,347,200
+22 TOTAL $16,793,600 $14,110,500 $50,000 $30,954,100
+23 D. FOREST AND RANGE FIRE PROTECTION:
+24 FROM:
+25 General
+26 Fund $4,860,800 $766,100 $1,660,900 $7,287,800
+27 Department of Lands
+28 Fund 5,321,800 989,800 956,500 7,268,100
+29 Endowment Earnings Administrative
+30 Fund 57,500 57,500
+31 Federal Grant
+32 Fund 826,400 1,305,000 450,000 2,581,400
+33 TOTAL $11,009,000 $3,060,900 $3,124,900 $17,194,800
+34 E. SCALING PRACTICES:
+35 FROM:
+36 Department of Lands
+37 Fund $264,600 $58,200 $322,800
+
+9
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 F. MINERALS, PUBLIC TRUST, OIL AND GAS:
+6 FROM:
+7 General
+8 Fund $936,900 $134,000 $1,070,900
+9 Department of Lands
+10 Fund 571,300 901,900 1,473,200
+11 Oil and Gas Conservation
+12 Fund 165,900 107,800 273,700
+13 Navigable Waterways
+14 Fund 1,022,400 443,800 1,466,200
+15 TOTAL $2,696,500 $1,587,500 $4,284,000
+16 DIVISION
+17 TOTAL $39,719,700 $28,217,700 $50,000 $8,580,300 $76,567,700
+18 V.DEPARTMENTOFPARKSANDRECREATION--PARKOPERATIONSPROGRAM:
+19 FROM:
+20 General
+21 Fund $3,217,100 $940,900 $4,158,000
+22 Indirect Cost Recovery
+23 Fund 325,200 199,600 524,800
+24 Parks and Recreation
+25 Fund 12,378,000 5,513,200 $420,000 18,311,200
+26 Recreational Fuels
+27 Fund 719,400 928,500 2,971,800 4,619,700
+28 Parks and Recreation Registration
+29 Fund 1,520,100 1,351,400 10,350,000 13,221,500
+30 Miscellaneous Revenue
+31 Fund 19,600 92,100 111,700
+32 Public Recreation Enterprise
+33 Fund 898,000 1,429,000 2,327,000
+34 Parks and Recreation Expendable Trust
+35 Fund 610,600 405,600 1,016,200
+36 Federal Grant
+37 Fund 1,339,500 631,200 4,227,500 6,198,200
+38 TOTAL $21,027,500 $11,491,500 $17,969,300 $50,488,300
+
+10
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 VI. DEPARTMENT OF WATER RESOURCES:
+6 A. MANAGEMENT AND SUPPORT SERVICES:
+7 FROM:
+8 General
+9 Fund $933,800 $919,700 $1,853,500
+10 Indirect Cost Recovery
+11 Fund 194,700 198,100 392,800
+12 Water Administration
+13 Fund 21,800 21,800
+14 Miscellaneous Revenue
+15 Fund 0 177,400 177,400
+16 TOTAL $1,128,500 $1,317,000 $2,445,500
+17 B. PLANNING AND TECHNICAL SERVICES:
+18 FROM:
+19 General
+20 Fund $4,044,500 $30,823,500 $6,713,400 $41,581,400
+21 Indirect Cost Recovery
+22 Fund 65,900 65,900
+23 Aquifer Planning and Management
+24 Fund 1,250,100 457,400 1,707,500
+25 Miscellaneous Revenue
+26 Fund 164,500 164,500
+27 ARPA State Fiscal Recovery
+28 Fund 50,000,000 50,000,000
+29 Federal Grant
+30 Fund 379,700 857,700 0 1,237,400
+31 TOTAL $5,674,300 $32,369,000 $56,713,400 $94,756,700
+32 C. WATER MANAGEMENT:
+33 FROM:
+34 General
+35 Fund $7,482,900 $2,274,300 $9,757,200
+36 Indirect Cost Recovery
+37 Fund 70,900 70,900
+
+11
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Water Administration
+6 Fund 1,742,500 235,000 1,977,500
+7 Miscellaneous Revenue
+8 Fund 1,121,200 320,200 1,441,400
+9 Federal Grant
+10 Fund 303,900 348,800 652,700
+11 TOTAL $10,650,500 $3,249,200 $13,899,700
+12 D. NORTHERN IDAHO ADJUDICATION:
+13 FROM:
+14 General
+15 Fund $291,800 $196,300 $488,100
+16 Northern Idaho Adjudication
+17 Fund 97,500 38,700 136,200
+18 TOTAL $389,300 $235,000 $624,300
+19 E. BEAR RIVER BASIN ADJUDICATION:
+20 FROM:
+21 General
+22 Fund $620,900 $162,500 $783,400
+23 Bear River Basin Adjudication
+24 Fund 97,500 0 97,500
+25 TOTAL $718,400 $162,500 $880,900
+26 DIVISION
+27 TOTAL $18,561,000 $37,332,700 $56,713,400 $112,607,100
+28 GRANDTOTAL $199,712,900 $186,378,000 $3,374,900 $95,081,800 $484,547,600
+29 SECTION 2. FTP AUTHORIZATION. In accordance with Section 67-3519,
+30 Idaho Code, each of the programs in Natural Resources is authorized no more
+31 than the following number of full-time equivalent positions at any point
+32 during the period July 1, 2026, through June 30, 2027, unless specifically
+33 authorized by the Governor. The Joint Finance-Appropriations Committee
+34 will be notified promptly of any increased positions so authorized.
+35 Department of Environmental Quality ..........................375.00
+36 Department of Fish and Game ...................................550.00
+37 Endowment Fund Investment Board ................................4.00
+38 Department of Lands ..........................................334.93
+39 Department of Parks and Recreation ............................195.80
+
+12
+1 Department of Water Resources ................................171.00
+2 SECTION 3. REMEDIATION PROJECT REPORTING REQUIREMENTS. Moneys de-
+3 posited into the Environmental Remediation (Basin) Fund shall be used for
+4 remediation of the Coeur d'Alene Basin in accordance with the Superfund
+5 contract with the Environmental Protection Agency. The Department of En-
+6 vironmental Quality shall submit an annual report to the Governor, the
+7 Legislature, and the Basin Environmental Improvement Project Commission on
+8 the remediation progress and the expenditures involved.
+9 SECTION 4. CASH TRANSFER FOR WASTE REMEDIATION. There is hereby ap-
+10 propriated to the Department of Environmental Quality and the Office of the
+11 State Controller shall transfer $1,500,000 from the Water Pollution Control
+12 Fund to the Environmental Remediation (Basin) Fund on July 1, 2026, or as
+13 soon thereafter as practicable for the period July 1, 2026, through June 30,
+14 2027, to be used for Superfund cleanup projects in the Coeur d'Alene Basin.
+15 SECTION 5. CASH TRANSFER FOR AGRICULTURAL BEST MANAGEMENT PRACTICES
+16 FUND. There is hereby appropriated to the Department of Environmental Qual-
+17 ity and the Office of the State Controller shall transfer $279,000 from the
+18 Water Pollution Control Fund to the Agricultural Best Management Practices
+19 (BMP) Fund on July 1, 2026, or as soon thereafter as practicable for the pe-
+20 riod July 1, 2026, through June 30, 2027.
+21 SECTION 6. REQUIREMENTS FOR USE OF THE WATER POLLUTION CONTROL FUND.
+22 The appropriation of moneys from the Water Pollution Control Fund in this
+23 act for the Department of Environmental Quality shall specifically super-
+24 sede the provisions of Section 39-3630, Idaho Code.
+25 SECTION 7. REAPPROPRIATION AUTHORITY FOR THE ARPA STATE FISCAL RECOV-
+26 ERY FUND. There is hereby reappropriated to the Department of Environmen-
+27 tal Quality any unexpended and unencumbered balances appropriated to the De-
+28 partment of Environmental Quality from the ARPA State Fiscal Recovery Fund
+29 for water infrastructure and remediation projects for fiscal year 2026 from
+30 the ARPA State Fiscal Recovery Fund, to be used for nonrecurring expendi-
+31 tures related to water infrastructure and remediation projects for the pe-
+32 riod July 1, 2026, through June 30, 2027. The Office of the State Controller
+33 shall confirm the reappropriation amount, by fund, expense class, and pro-
+34 gram, with the Legislative Services Office prior to processing the reappro-
+35 priation authorized herein.
+36 SECTION 8. REQUIREMENTS FOR USE OF THE ARPA STATE FISCAL RECOVERY FUND.
+37 It is the intent of the Legislature to provide no more than $325,000,000
+38 of ARPA funding to support construction of drinking water and wastewater
+39 projects. Moneys shall be appropriated from the ARPA State Fiscal Recovery
+40 Fund for this purpose. The Department of Environmental Quality may use the
+41 ARPA State Fiscal Recovery Fund to fund all eligible planning grant requests
+42 received consistent with existing processes. The Department of Environmen-
+43 tal Quality shall provide ARPA funding in the form of grants for construction
+44 of drinking water and wastewater projects using a tiered approach that pro-
+
+13
+1 vides the highest level of grant funding to systems with the greatest level
+2 of need but least ability to pay, as determined by factors including size of
+3 system (smaller systems rank higher), monthly user rates, median income, and
+4 readiness to proceed. The Department of Environmental Quality may consider
+5 all projects meeting the intended criteria where costs were incurred after
+6 March 3, 2021, and where construction will be completed prior to December
+7 31, 2026. This includes funding cost overruns for existing state revolving
+8 loan-funded projects currently under construction if they are due to factors
+9 such as increased labor and material costs. The Department of Environmental
+10 Quality shall provide a written update of recipients to germane legislative
+11 committees upon approval by the Board of Environmental Quality. The Depart-
+12 ment of Environmental Quality shall submit a report to the Governor and the
+13 Legislature detailing progress and expenditures by January 12, 2027.
+14 SECTION 9. USE OF GENERAL FUND APPROPRIATION. Notwithstanding the pro-
+15 visions of Idaho Code, or any other provision of law to the contrary, the di-
+16 rector of the Department of Environmental Quality is prohibited from reduc-
+17 ing the allocation of General Fund moneys provided to the Lake Pend Oreille,
+18 Pend Oreille River, Priest Lake and Priest River Commission and the Bear Lake
+19 Regional Commission for the period July 1, 2026, through June 30, 2027.
+20 SECTION 10. CONTINUOUS APPROPRIATION -- ENDOWMENT FUND INVESTMENT
+21 BOARD. The Endowment Fund Investment Board is hereby granted continuous
+22 appropriation authority for consulting fees, custodial fees, investment
+23 manager fees, and other portfolio-related external costs for the period July
+24 1, 2026, through June 30, 2027.
+25 SECTION 11. TRANSFERS FROM EARNINGS RESERVE FUNDS -- ENDOWMENT FUND
+26 INVESTMENT BOARD. For the period July 1, 2026, through June 30, 2027, it is
+27 hereby appropriated and the Endowment Fund Investment Board shall trans-
+28 fer $117,278,400 as follows: $72,366,000 from the Public School Earnings
+29 Reserve Fund to the Public School Income Fund; $2,222,400 from the Agricul-
+30 tural College Earnings Reserve Fund to the Agricultural College Endowment
+31 Income Fund; $8,113,160 from the Charitable Institutions Earnings Reserve
+32 Fund to the Charitable Institutions Endowment Income Fund; $8,494,800 from
+33 the Normal School Earnings Reserve Fund to the Normal School Endowment In-
+34 come Fund; $3,585,600 from the Penitentiary Earnings Reserve Fund to the
+35 Penitentiary Endowment Income Fund; $7,465,200 from the Scientific School
+36 Earnings Reserve Fund to the Scientific School Endowment Income Fund;
+37 $7,776,000 from the Mental Hospital Earnings Reserve Fund to the Mental
+38 Hospital Endowment Income Fund; and $7,255,200 from the University Earnings
+39 Reserve Fund to the University Endowment Income Fund.
+40 SECTION 12. EXEMPTIONS FROM EXPENSE CLASS TRANSFER LIMITATIONS -- DE-
+41 PARTMENT OF LANDS. The Department of Lands is hereby exempted from the pro-
+42 visions of Section 67-3511(1) and (3), Idaho Code, allowing unlimited trans-
+43 fers between expense classes for all moneys appropriated to the Forest and
+44 Range Fire Protection Program for the period July 1, 2026, through June 30,
+45 2027. Legislative appropriations shall not be transferred from one fund to
+46 another fund unless expressly approved by the Legislature.
+
+14
+1 SECTION 13. REAPPROPRIATION AUTHORITY FOR THE CAPITAL DEVELOPMENT PRO-
+2 GRAM -- DEPARTMENT OF PARKS AND RECREATION. There is hereby reappropriated
+3 to the Department of Parks and Recreation any unexpended and unencumbered
+4 balances appropriated or reappropriated to the Department of Parks and
+5 Recreation for the Capital Development Program for fiscal year 2026 to be
+6 used for nonrecurring expenditures in the Capital Development Program for
+7 the period July 1, 2026, through June 30, 2027. The Office of the State Con-
+8 troller shall confirm the reappropriation amount, by fund, expense class,
+9 and program, with the Legislative Services Office prior to processing the
+10 reappropriation authorized herein.
+11 SECTION 14. EXEMPTIONS FROM EXPENSE CLASS TRANSFER LIMITATIONS -- DE-
+12 PARTMENT OF PARKS AND RECREATION. Notwithstanding the provisions of Section
+13 67-3511(2), Idaho Code, trustee and benefit payments appropriated to the De-
+14 partment of Parks and Recreation for grants in the Operations Program may
+15 be transferred to capital outlay in the Capital Development Program to re-
+16 flect grants awarded to the Department of Parks and Recreation for the period
+17 July 1, 2026, through June 30, 2027. Legislative appropriations shall not
+18 be transferred from one fund to another fund unless expressly approved by the
+19 Legislature.
+20 SECTION 15. CASH TRANSFER FOR AQUIFER MANAGEMENT -- DEPARTMENT OF WATER
+21 RESOURCES. Of the amount appropriated to the Department of Water Resources
+22 in Section 1 of this act for the Planning and Technical Services Program
+23 from the General Fund, the Office of the State Controller shall transfer
+24 $5,000,000 to the Secondary Aquifer Planning, Management, and Implementa-
+25 tion Fund on July 1, 2026, or as soon thereafter as practicable for the period
+26 July 1, 2026, through June 30, 2027, to be used for aquifer recharge and man-
+27 agement.
+28 SECTION 16. CASH TRANSFER FOR THE FLOOD MANAGEMENT PROGRAM -- DEPART-
+29 MENT OF WATER RESOURCES. Of the amount appropriated to the Department of
+30 Water Resources in Section 1 of this act for the Planning and Technical
+31 Services Program from the General Fund, the Office of the State Controller
+32 shall transfer $1,000,000 to the Water Management Fund on July 1, 2026, or as
+33 soon thereafter as practicable for the period July 1, 2026, through June 30,
+34 2027, to be used for hydrologic data collection, monitoring and modeling,
+35 flood-damaged stream channel repair, stream channel improvement, flood risk
+36 reduction, or flood prevention projects. These moneys shall be administered
+37 by the Idaho Water Resource Board through a competitive, matching grant
+38 process that prioritizes projects based on the public benefits they provide.
+39 SECTION 17. CASH TRANSFER FOR WATER PROJECTS -- DEPARTMENT OF WATER RE-
+40 SOURCES. There is hereby appropriated to the Department of Water Resources
+41 and the Office of the State Controller shall transfer $30,000,000 from the
+42 General Fund to the Water Management Fund on July 1, 2026, or as soon there-
+43 after as practicable for the period July 1, 2026, through June 30, 2027, to be
+44 used for water projects.
+
+15
+1 SECTION 18. WATER MANAGEMENT FUND PROJECTS. Of the amount appropriated
+2 to the Department of Water Resources in Section 1 of this act, $30,000,000
+3 shall be used for water projects pursuant to the following criteria:
+4 (1) The Water Resource Board shall use the funds for planning, con-
+5 struction, rehabilitation, reconstruction, and improvement of water infra-
+6 structure throughout the state. Projects shall prioritize:
+7 (a) Aquifer recharge, ground water management, and other projects
+8 aimed at sustaining aquifer health and long-term water availability;
+9 (b) Development and rehabilitation of water storage and conveyance
+10 systems, including reservoirs, diversion structures, pipelines, and
+11 canals;
+12 (c) Water supply and delivery improvements that enhance efficiency and
+13 conservation; and
+14 (d) Emergency water infrastructure repairs and upgrades to ensure the
+15 resilience of vital water systems.
+16 (2) Of the moneys appropriated in a single year, no more than 50% of the
+17 funds appropriated in this section may be used within a single board dis-
+18 trict, as defined in section 42-1732, Idaho Code, unless there are no com-
+19 peting funding applications for water infrastructure projects in other dis-
+20 tricts for the current fiscal year.
+21 (3) The Department of Water Resources shall provide a report to the
+22 Joint Finance-Appropriations Committee, to the relevant germane legisla-
+23 tive committees, and to the Budget and Policy Analysis Division of the
+24 Legislative Services Office no later than December 5, 2026. This report
+25 shall include information required in Section 42-1760(3), Idaho Code, in a
+26 format determined in consultation with the Budget and Policy Analysis Divi-
+27 sion of the Legislative Services Office.
+28 SECTION 19. ACCOUNTABILITY REPORTS. Funds specifically identified in
+29 statute or in an appropriation act as intended for a certain purpose may
+30 be used only for that purpose. Funds provided in this act are subject to
+31 accountability reports and management reviews in accordance with Section
+32 67-702, Idaho Code, provided the Legislative Services Office auditor has
+33 sufficient resources to conduct those reports. State agencies that are
+34 authorized to contract for outside audits shall submit those reports to the
+35 Joint Finance-Appropriations Committee when those reports become avail-
+36 able.
+37 SECTION 20. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+38 made pursuant to this act are subject to the conditions, limitations, and re-
+39 strictions specified in this act.
+40 SECTION 21. An emergency existing therefor, which emergency is hereby
+41 declared to exist, this act shall be in full force and effect on and after
+42 July 1, 2026.

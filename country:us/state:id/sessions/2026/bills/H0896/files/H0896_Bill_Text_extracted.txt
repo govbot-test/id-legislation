@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 896
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO SPECIAL PROCEEDINGS; AMENDING TITLE 7, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW CHAPTER 17, TITLE 7, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING COMPLIANCE WITH THE LAW; AND DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Title 7, Idaho Code, be, and the same is hereby amended
+7 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+8 ter 17, Title 7, Idaho Code, and to read as follows:
+9 CHAPTER 17
+10 COMPLIANCE WITH LAW
+11 7-1701. LEGISLATIVE FINDINGS AND INTENT. The legislature finds that
+12 elite impunity has become a serious problem in the United States. The leg-
+13 islature further finds that public servants who act like they are above the
+14 law bring all law into disrepute. In enacting this chapter, it is the intent
+15 of the legislature to provide consequences for public servants who disregard
+16 the law.
+17 7-1702. DEFINITIONS. As used in this chapter:
+18 (1) "Prohibition" means a proscription imposed by an Idaho statute on a
+19 public officer, public employee, or public entity that is directly applica-
+20 ble to the public officer, public employee, or public entity in their capac-
+21 ity as a public officer, public employee, or public entity.
+22 (2) "Public employee" means a person employed by a public entity or pub-
+23 lic officer.
+24 (3) "Public entity" means:
+25 (a) Any agency, board, bureau, department, division, institution, or
+26 office of the state but shall not include the legislative or judicial
+27 branches of government;
+28 (b) Any public school, public charter school, or school district in the
+29 state;
+30 (c) Any independent public body corporate and politic in the state;
+31 (d) Any political subdivision of the state; or
+32 (e) Any other public organization created by the constitution of the
+33 state of Idaho or an Idaho statute.
+34 (4) "Public officer" means a person elected or appointed to an office
+35 created by the constitution of the state of Idaho or an Idaho statute but
+36 shall not include an officer in the legislative or judicial branches of gov-
+37 ernment.
+38 7-1703. VIOLATION OF THE LAW -- REFERRAL TO ATTORNEY GENERAL. The gov-
+39 ernor, president pro tempore of the senate, or speaker of the house of rep-
+
+2
+1 resentatives may refer to the attorney general any potential violation of a
+2 prohibition as defined in section 7-1702, Idaho Code. A chairman of a board
+3 of county commissioners may refer to the attorney general any potential vio-
+4 lation of a prohibition as defined in section 7-1702, Idaho Code, related to
+5 any taxing district located within the county or any public officer or public
+6 employee of such taxing district.
+7 7-1704. NOTICE -- OPPORTUNITY TO CURE. (1) Upon a referral provided
+8 pursuant to section 7-1703, Idaho Code, if the attorney general has reason
+9 to believe that the public officer, public employee, or public entity has
+10 violated a prohibition as defined in section 7-1702, Idaho Code, the attor-
+11 ney general shall give notice of the alleged violation to the public officer,
+12 public employee, or public entity so referred.
+13 (2) Upon receipt of notice provided pursuant to subsection (1) of this
+14 section, a public officer, public employee, or public entity shall have
+15 fourteen (14) days to respond to the attorney general, either:
+16 (a) Acknowledging the violation and stating an intent to cure the vio-
+17 lation; or
+18 (b) Denying that the alleged violation has occurred.
+19 (3) Failure by a public officer, public employee, or public entity to
+20 respond to notice provided pursuant to subsection (1) of this section shall
+21 be treated as a denial.
+22 (4) If a public officer, public employee, or public entity acknowledges
+23 a violation pursuant to subsection (2)(a) of this section, such officer, em-
+24 ployee, or entity shall have fourteen (14) days from the date of the acknowl-
+25 edgment to cure the violation by ceasing to violate the relevant prohibi-
+26 tion.
+27 (5) A cure pursuant to this section shall act as a bar to filing an ac-
+28 tion pursuant to section 7-1705, Idaho Code.
+29 7-1705. ACTION TO ENFORCE THE LAW. (1) If a public officer, public
+30 employee, or public entity, after receiving notice of an alleged violation
+31 pursuant to section 7-1704, Idaho Code, denies that the alleged violation
+32 has occurred, fails to respond to the notice by the required time, or fails to
+33 cure the alleged violation by the required time, the attorney general may, at
+34 the attorney general's discretion, file an action to enforce the law against
+35 such officer, employee, or entity.
+36 (2) The action authorized by this section may be filed only if the law
+37 the attorney general seeks to enforce does not establish a penalty for non-
+38 compliance or another enforcement mechanism.
+39 7-1706. ORDER TO COMPLY -- ATTORNEY'S FEES. (1) In an action filed pur-
+40 suant to section 7-1705, Idaho Code, a court of competent jurisdiction shall
+41 issue an order to comply with the law if the attorney general proves by a pre-
+42 ponderance of the evidence that a public officer, public employee, or public
+43 entity violated a prohibition as defined in section 7-1702, Idaho Code. The
+44 order shall identify by name the specific persons responsible for ensuring
+45 compliance with the order.
+
+3
+1 (2) A person named in an order issued pursuant to subsection (1) of this
+2 section who fails to comply with the order shall be guilty of contempt and
+3 subject to punishment as provided by law.
+4 (3) The prevailing party in an action filed pursuant to section 7-1705,
+5 Idaho Code, shall be entitled to reasonable attorney's fees.
+6 7-1707. ACTION TO DISQUALIFY FROM PUBLIC OFFICE OR PUBLIC EMPLOY-
+7 MENT. (1) In addition to the action provided in section 7-1705, Idaho Code,
+8 the attorney general may, at the attorney general's discretion, file an ac-
+9 tion seeking to disqualify from public office or public employment a public
+10 officer or public employee who willfully violates a prohibition as defined
+11 in section 7-1702, Idaho Code. The action provided for in this section shall
+12 not be filed against a state officer who is subject to election.
+13 (2) In an action filed pursuant to this section, a court of competent
+14 jurisdiction shall issue an order disqualifying a person from public office
+15 or public employment for a period of up to five (5) years if the attorney gen-
+16 eral proves by clear and convincing evidence that the person willfully vio-
+17 lated a prohibition as defined in section 7-1702, Idaho Code.
+18 (3) An action to disqualify may be filed only if an action to enforce
+19 the law has been filed pursuant to section 7-1705, Idaho Code, for the same
+20 alleged violation.
+21 (4) The prevailing party in an action filed pursuant to this section
+22 shall be entitled to reasonable attorney's fees.
+23 7-1708. ALTERNATE COUNSEL. (1) A public officer, public employee, or
+24 public entity that would otherwise be entitled to legal representation by
+25 the office of the attorney general may retain other counsel if an action au-
+26 thorized pursuant to this chapter is filed against such officer, employee,
+27 or entity.
+28 (2) Alternate counsel retained pursuant to this section shall be com-
+29 pensated with funds appropriated to the public officer or public entity or to
+30 the employer of the public employee.
+31 SECTION 2. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after its
+33 passage and approval.

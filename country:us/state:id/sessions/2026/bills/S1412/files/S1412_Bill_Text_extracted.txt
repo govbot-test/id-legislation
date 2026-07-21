@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1412
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 1, TITLE 33, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW SECTION 33-145, IDAHO CODE, TO ESTABLISH THE IDAHO STUDENT
+4 SAFETY AND EDUCATOR DISCLOSURE ACT; AND DECLARING AN EMERGENCY AND PRO-
+5 VIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 1, Title 33, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 33-145, Idaho Code, and to read as follows:
+10 33-145. IDAHO STUDENT SAFETY AND EDUCATOR DISCLOSURE ACT. (1) The
+11 legislature finds that student safety is a paramount responsibility of the
+12 state and that uniform statewide reporting and disclosure requirements in
+13 the hiring of school employees is necessary to protect good faith disclo-
+14 sures and prevent concealment of misconduct against a student.
+15 (2) For the purposes of this section:
+16 (a) "Covered individual" means any school personnel.
+17 (b) "Educational entity" means any school district, public char-
+18 ter school, or private school providing instruction in kindergarten
+19 through grade 12, inclusive, or any combination thereof.
+20 (c) "Misconduct" means any conduct by a covered individual that vio-
+21 lates the provisions of section 33-1208, Idaho Code, relating to educa-
+22 tor-student relationships or the code of ethics for Idaho professional
+23 educators relating to educator-student relationships.
+24 (d) "Pending investigation" means any internal, administrative, reg-
+25 ulatory, or criminal investigation that has been initiated and has not
+26 reached a final disposition.
+27 (3) An educational entity shall not conduct an internal review or in-
+28 vestigation of alleged abuse, abandonment, or neglect of a child in lieu of
+29 reporting to law enforcement as required by section 16-1605, Idaho Code.
+30 Nothing in this subsection shall be construed to prohibit an educational
+31 entity from taking administrative or employment action or conducting an
+32 internal review or investigation after a report has been made in compliance
+33 with section 16-1605, Idaho Code.
+34 (4) Prior to hiring an applicant, an educational entity that is a
+35 school district employer shall require an applicant to provide sworn written
+36 statements disclosing any pending or prior investigations, resignations
+37 during investigations or in lieu of contemplated disciplinary action, or
+38 disciplinary actions involving the applicant for misconduct in connection
+39 with employment or professional licensure or certification. Any applicant
+40 who makes a material misrepresentation or willful omission related to the
+41 disclosure statements or information required in this subsection shall be
+
+2
+1 subject to immediate termination of employment or rescission of such appli-
+2 cant's offer of employment or employment contract.
+3 (5)(a) Prior to hiring an applicant, any educational entity that is not
+4 a school district employer shall:
+5 (i) Require the applicant to sign a statement authorizing the ap-
+6 plicant's current and past employers for the past ten (10) years to
+7 provide the hiring educational entity with information regarding
+8 any pending or prior investigations, resignations during investi-
+9 gations or in lieu of contemplated disciplinary action, or disci-
+10 plinary actions for misconduct involving the applicant; and
+11 (ii) Request in writing, electronic or otherwise, that the appli-
+12 cant's current and past employers for the past ten (10) years pro-
+13 vide the information described in subparagraph (i) of this para-
+14 graph, if any. The request shall include a copy of the statement
+15 signed by the applicant provided in subparagraph (i) of this para-
+16 graph. The process provided in section 33-1210(2), Idaho Code,
+17 shall apply to requests made by educational entities pursuant to
+18 this subsection.
+19 (b) An applicant's current or past employers shall respond to any re-
+20 quest received pursuant to this subsection. An educational entity
+21 shall release such current and past employers, including employees
+22 acting on behalf of an employer, from any civil liability for provid-
+23 ing such information in good faith. A disclosure made pursuant to this
+24 section shall be considered to be made in good faith unless the employer
+25 knew the information disclosed was false or misleading.
+26 (6) Any resignation during investigations or in lieu of contemplated
+27 disciplinary action, termination, or administrative leave that occurs dur-
+28 ing an investigation of misconduct by a covered individual shall be referred
+29 to the Idaho professional standards commission if the covered individual
+30 holds an Idaho educator certificate. If the Idaho professional standards
+31 commission takes disciplinary action against a covered individual as a
+32 result of the information it receives pursuant to this subsection, the
+33 commission shall update the covered individual's certification status ac-
+34 cordingly.
+35 (7) A private school employee may bring a claim against a private school
+36 employer under the provisions of chapter 21, title 6, Idaho Code, only if the
+37 employee's good faith allegations made pursuant to the provisions of section
+38 6-2104, Idaho Code, involve misconduct or a violation or suspected violation
+39 of section 16-1605, Idaho Code. All provisions of chapter 21, title 6, Idaho
+40 Code, shall apply to such a claim. For purposes of such claim, the private
+41 school employer shall be considered an employer as that term is defined in
+42 section 6-2103, Idaho Code, and the private school employee shall be consid-
+43 ered an employee as that term is defined in section 6-2103, Idaho Code.
+44 SECTION 2. An emergency existing therefor, which emergency is hereby
+45 declared to exist, this act shall be in full force and effect on and after
+46 July 1, 2026.

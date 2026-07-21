@@ -1,0 +1,393 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 676
+BY RESOURCES AND CONSERVATION COMMITTEE
+1 AN ACT
+2 RELATING TO GEOTHERMAL WATER; AMENDING SECTION 42-202, IDAHO CODE, TO RE-
+3 VISE PROVISIONS REGARDING APPLICATIONS TO APPROPRIATE WATER; AMENDING
+4 SECTION 42-202B, IDAHO CODE, TO REVISE DEFINITIONS; AMENDING SECTION
+5 42-222, IDAHO CODE, TO REVISE PROVISIONS REGARDING CHANGE IN POINT OF
+6 USE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 42-202, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 42-202. APPLICATION TO APPROPRIATE WATER -- CONTENTS -- FILING FEES --
+11 DISPOSITION OF FEES -- RECORD OF RECEIPTS. (1) For the purpose of regulat-
+12 ing the use of the public waters and of establishing by direct means the pri-
+13 ority right to such use, any person, association or corporation hereafter
+14 intending to acquire the right to the beneficial use of the waters of any
+15 natural streams, springs or seepage waters, lakes or ground water, or other
+16 public waters in the state of Idaho, shall, before commencing of the con-
+17 struction, enlargement or extension of the ditch, canal, well, or other dis-
+18 tributing works, or performing any work in connection with said construction
+19 or proposed appropriation or the diversion of any waters into a natural chan-
+20 nel, make an application to the department of water resources for a permit
+21 to make such appropriation. Provided however, if the use of the diversion
+22 works or irrigation system is represented by shares of stock in a corporation
+23 or if such works or system is owned or managed by an irrigation district, no
+24 such application may be approved by the director of the department of water
+25 resources without the consent of such corporation or irrigation district.
+26 Such application must set forth:
+27 (a) The name and post-office address of the applicant.
+28 (b) The source of the water supply.
+29 (c) The nature of the proposed use or uses and the period of the year
+30 during which water is to be used for such use or uses.
+31 (d) The location of the point of diversion and description of the pro-
+32 posed ditch, channel, well or other work and the amount of water to be
+33 diverted and used.
+34 (e) The time required for the completion of construction of such works
+35 and application of the water to the proposed use.
+36 (2) An application proposing an appropriation of water by a municipal
+37 provider for reasonably anticipated future needs shall be accompanied by
+38 sufficient information and documentation to establish that the applicant
+39 qualifies as a municipal provider and that the reasonably anticipated fu-
+40 ture needs, the service area, and the planning horizon are consistent with
+41 the definitions and requirements specified in this chapter. The service
+42 area need not be described by legal description nor by description of every
+
+2
+1 intended use in detail, but the area must be described with sufficient in-
+2 formation to identify the general location where the water under the water
+3 right is to be used and the types and quantity of uses that generally will
+4 be made. An application for reasonably anticipated future needs for or in-
+5 cluding geothermal heating and cooling shall include sufficient information
+6 and documentation to demonstrate where and how injection of the diverted low
+7 temperature geothermal water is or will be accomplished.
+8 (3) Whenever it is desired to appropriate and store flood or winterflow
+9 waters, the applicant shall specify in acre feet the quantity of such flood
+10 or winterflow waters which he intends to store, but for irrigation purposes
+11 he shall not claim more than five (5) acre feet of stored water per acre of
+12 land to be irrigated, nor, in the event of the filing of an application claim-
+13 ing both normal flow and flood water and winterflow water, shall the total
+14 amount of water claimed exceed the equivalent of a continuous flow during the
+15 irrigation season of more than one (1) cubic foot per second for each fifty
+16 (50) acres of land to be irrigated, or more than five (5) acre feet of stored
+17 water for each acre of land to be irrigated.
+18 (4) The application shall be accompanied by a plan and map of the pro-
+19 posed works for the diversion and application of the water to a beneficial
+20 use, showing the character, location and dimensions of the proposed reser-
+21 voirs, dams, canals, ditches, pipelines, wells and all other works proposed
+22 to be used by them in the diversion of the water, and the area and location of
+23 the lands proposed to be irrigated, or location of place of other use.
+24 (5) If the application involves more than twenty-five (25) cubic feet
+25 per second of water or the development of more than five hundred (500) the-
+26 oretical horsepower, or impoundment of water in a reservoir with an active
+27 storage capacity in excess of ten thousand (10,000) acre feet, the applicant
+28 may be required by the director of the department of water resources to fur-
+29 nish a statement of the financial resources of the corporation, association,
+30 firm or person making the application, and the means by which the funds nec-
+31 essary to construct the proposed works are to be provided, and the estimated
+32 cost of construction; and if such application is made by a corporation, the
+33 amount of its capital stock, how much thereof has been actually paid in, and
+34 the names and places of residence of its directors; and if for the generation
+35 of power or any other purpose than irrigation or domestic use, the purpose
+36 for which it is proposed to be used, the nature, location, character, capac-
+37 ity and estimated cost of the works, and whether the water used is to be and
+38 will be returned to the stream, and if so, at what point on the stream.
+39 (6) In case the proposed right of use is for agricultural purposes, the
+40 application shall give the legal subdivisions of the land proposed to be ir-
+41 rigated, with the total acreage to be reclaimed as near as may be; provided,
+42 that no one shall be authorized to divert for irrigation purposes more than
+43 one (1) cubic foot of water per second of the normal flow for each fifty (50)
+44 acres of land to be so irrigated, or more than five (5) acre feet of stored
+45 water per annum for each acre of land to be so irrigated, unless it can be
+46 shown to the satisfaction of the department of water resources that a greater
+47 amount is necessary. Provided further, that the plan of irrigation submit-
+48 ted shall provide for the distribution of water to within not more than one
+49 (1) mile of each legal subdivision of the land proposed to be reclaimed by the
+50 use of such water; provided also, that in the case of all ditches designed to
+
+3
+1 have a capacity of ten (10) cubic feet per second or less, such map showing
+2 the location of such ditch, and the place of use of such water, or the loca-
+3 tion of the lands to be irrigated, may be upon blanks furnished by the depart-
+4 ment of water resources.
+5 (7) No application shall be accepted and filed by the department of wa-
+6 ter resources until the applicant shall have deposited with the department a
+7 filing fee as in this chapter provided.
+8 (8) All moneys received by the department of water resources under the
+9 provisions of this chapter shall be deposited with the state treasurer, and
+10 such sums as may be necessary shall be available for the payment of the ex-
+11 penses of the department of water resources incurred in carrying out the pro-
+12 visions of this chapter.
+13 (9) Such expense shall be paid by the state controller in the manner
+14 provided by law, upon vouchers duly approved by the state board of examin-
+15 ers, for the work performed under the direction of the department of water
+16 resources. The department of water resources shall keep a record of all fil-
+17 ing fees received in connection with applications for permits to appropriate
+18 public waters.
+19 (10) Provided further, that rights initiated prior to the enactment of
+20 this amendment, so far as it pertains to flood and winterflow waters, shall
+21 not be affected thereby.
+22 (11) Provided further, that water rights held by municipal providers
+23 prior to July 1, 1996, shall not be limited thereby.
+24 SECTION 2. That Section 42-202B, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 42-202B. DEFINITIONS. Whenever used in this title, the term:
+27 (1) "Consumptive use" means that portion of the annual volume of water
+28 diverted under a water right that is transpired by growing vegetation, evap-
+29 orated from soils, converted to nonrecoverable water vapor, incorporated
+30 into products, or otherwise does not return to the waters of the state. Con-
+31 sumptive use is not an element of a water right. Consumptive use does not
+32 include any water that falls as precipitation directly on the place of use.
+33 Precipitation shall not be considered to reduce the consumptive use of a
+34 water right. "Authorized consumptive use" means the maximum consumptive use
+35 that may be made of a water right. If the use of a water right is for irriga-
+36 tion, for example, the authorized consumptive use reflects irrigation of the
+37 most consumptive vegetation that may be grown at the place of use. Changes in
+38 consumptive use do not require a transfer pursuant to section 42-222, Idaho
+39 Code.
+40 (2) "Digital boundary" means the boundary encompassing and defining an
+41 area consisting of or incorporating the place of use or permissible place of
+42 use for a water right prepared and maintained by the department of water re-
+43 sources using a geographic information system in conformance with the na-
+44 tional standard for spatial data accuracy or succeeding standard.
+45 (3) "Local public interest" is defined as the interests that the people
+46 in the area directly affected by a proposed water use have in the effects of
+47 such use on the public water resource.
+
+4
+1 (4) "Municipality" means a city incorporated under section 50-102,
+2 Idaho Code, a county, or the state of Idaho acting through a department or
+3 institution.
+4 (5) "Municipal provider" means:
+5 (a) A municipality that provides water for municipal purposes to its
+6 residents and other users within its service area;
+7 (b) Any corporation or association holding a franchise to supply water
+8 for municipal purposes, or a political subdivision of the state of Idaho
+9 authorized to supply water for municipal purposes, and which does sup-
+10 ply water, for municipal purposes to users within its service area; or
+11 (c) A corporation or association which supplies water for municipal
+12 purposes through a water system regulated by the state of Idaho as a
+13 "public water supply" as described in section 39-103(12), Idaho Code.
+14 (6)(a) "Municipal purposes" refers to water for residential, com-
+15 mercial, industrial, irrigation of parks and open space, and related
+16 purposes, excluding use of water from geothermal sources for heating,
+17 which that a municipal provider is entitled or obligated to supply to
+18 all those users within a service area, including those located outside
+19 the boundaries of a municipality served by a municipal provider, for
+20 residential use, commercial use, industrial use, irrigation of parks
+21 and open spaces, geothermal heating and cooling, and related purposes,
+22 or a combination thereof.
+23 (b)(i) Geothermal heating and cooling are considered "municipal
+24 purposes" if:
+25 1. It is provided by a municipality from a low temperature
+26 geothermal water source, as that term is defined in section
+27 42-230(a)(1), Idaho Code;
+28 2. The water use is non-consumptive under normal operating
+29 conditions; and
+30 3. The use otherwise complies with section 42-233, Idaho
+31 Code.
+32 (ii) A municipality is obligated to supply geothermal heating and
+33 cooling only to those users approved for service in accordance
+34 with its local codes and policies.
+35 (7) "Planning horizon" refers to the length of time that the department
+36 determines is reasonable for a municipal provider to hold water rights to
+37 meet reasonably anticipated future needs. The length of the planning hori-
+38 zon may vary according to the needs of the particular municipal provider.
+39 (8) "Reasonably anticipated future needs" refers to future uses of
+40 water by a municipal provider for municipal purposes within a service area
+41 which, on the basis of population and other planning data, are reasonably
+42 expected to be required within the planning horizon of each municipality
+43 within the service area not inconsistent with comprehensive land use plans
+44 approved by each municipality. Reasonably anticipated future needs shall
+45 not include uses of water within areas overlapped by conflicting comprehen-
+46 sive land use plans. Reasonably anticipated future needs for geothermal
+47 heating and cooling require injection of diverted low temperature geother-
+48 mal water back into the same aquifer from which it was diverted and shall be
+49 considered when determining what needs will be expected within the planning
+50 horizon.
+
+5
+1 (9) "Service area" means that area within which a municipal provider is
+2 or becomes entitled or obligated to provide water for municipal purposes.
+3 For a municipality, the service area shall correspond to its corporate lim-
+4 its, or other recognized boundaries, including changes therein after the
+5 permit or license is issued. The service area for a municipality may also
+6 include areas outside its corporate limits, or other recognized boundaries,
+7 that are within the municipality's established planning area if the con-
+8 structed delivery system for the area shares a common water distribution
+9 system with lands located within the corporate limits. For a municipal
+10 provider that is not a municipality, the service area shall correspond to the
+11 area that it is authorized or obligated to serve, including changes therein
+12 after the permit or license is issued.
+13 SECTION 3. That Section 42-222, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 42-222. CHANGE IN POINT OF DIVERSION, PLACE OF USE, PERIOD OF USE, OR
+16 NATURE OF USE OF WATER UNDER ESTABLISHED RIGHTS -- FORFEITURE AND EXTENSION
+17 -- APPEALS. (1) Any person, entitled to the use of water whether represented
+18 by license issued by the department of water resources, by claims to water
+19 rights by reason of diversion and application to a beneficial use as filed
+20 under the provisions of this chapter, or by decree of the court, who shall
+21 desire to change the point of diversion, place of use, period of use or na-
+22 ture of use of all or part of the water, under the right shall first make ap-
+23 plication to the department of water resources for approval of such change.
+24 Such application shall be upon forms furnished by the department and shall
+25 describe the right licensed, claimed or decreed which is to be changed and
+26 the changes which are proposed, and shall be accompanied by the statutory
+27 filing fee as in this chapter provided. Upon receipt of such application it
+28 shall be the duty of the director of the department of water resources to ex-
+29 amine same, obtain any consent required in section 42-108, Idaho Code, and if
+30 otherwise proper to provide notice of the proposed change in a similar man-
+31 ner as applications under section 42-203A, Idaho Code. Such notice shall ad-
+32 vise that anyone who desires to protest the proposed change shall file no-
+33 tice of protests with the department within ten (10) days of the last date
+34 of publication. Upon the receipt of any protest, accompanied by the statu-
+35 tory filing fee as provided in section 42-221, Idaho Code, it shall be the
+36 duty of the director of the department of water resources to investigate the
+37 same and to conduct a hearing thereon. He shall also advise the watermaster
+38 of the district in which such water is used of the proposed change and the wa-
+39 termaster shall notify the director of the department of water resources of
+40 his recommendation on the application, and the director of the department
+41 of water resources shall not finally determine the action on the applica-
+42 tion for change until he has received from such watermaster his recommenda-
+43 tion thereof, which action of the watermaster shall be received and consid-
+44 ered as other evidence. For applications proposing to change only the point
+45 of diversion or place of use of a water right in a manner that will not change
+46 the effect on the source for the right and any other hydraulically-connected
+47 sources from the effect resulting under the right as previously approved,
+48 and that will not affect the rights of other water users, the director of the
+
+6
+1 department of water resources shall give only such notice to other users as
+2 he deems appropriate.
+3 When the nature of use of the water right is to be changed to municipal
+4 purposes and some or all of the right will be held by a municipal provider
+5 to serve reasonably anticipated future needs, the municipal provider shall
+6 provide to the department sufficient information and documentation to es-
+7 tablish that the applicant qualifies as a municipal provider and that the
+8 reasonably anticipated future needs, the service area and the planning hori-
+9 zon are consistent with the definitions and requirements specified in this
+10 chapter. The service area need not be described by legal description nor by
+11 description of every intended use in detail, but the area must be described
+12 with sufficient information to identify the general location where the wa-
+13 ter under the water right is to be used and the types and quantity of uses that
+14 generally will be made. An application for reasonably anticipated future
+15 needs for or including geothermal heating and cooling shall include suffi-
+16 cient information and documentation to demonstrate where and how injection
+17 of the diverted low temperature geothermal water is or will be accomplished.
+18 When a water right or a portion thereof to be changed is held by a munic-
+19 ipal provider for municipal purposes, as defined in section 42-202B, Idaho
+20 Code, that portion of the right held for reasonably anticipated future needs
+21 at the time of the change shall not be changed to a place of use outside the
+22 service area, as defined in section 42-202B, Idaho Code, or to a new nature of
+23 use.
+24 The director of the department of water resources shall examine all the
+25 evidence and available information and shall approve the change in whole,
+26 or in part, or upon conditions, provided no other water rights are injured
+27 thereby, the change does not constitute an enlargement in use of the origi-
+28 nal right, the change is consistent with the conservation of water resources
+29 within the state of Idaho and is in the local public interest as defined in
+30 section 42-202B, Idaho Code, the change will not adversely affect the local
+31 economy of the watershed or local area within which the source of water for
+32 the proposed use originates, in the case where the place of use is outside
+33 of the watershed or local area where the source of water originates, and the
+34 new use is a beneficial use, which in the case of a municipal provider shall
+35 be satisfied if the water right is necessary to serve reasonably anticipated
+36 future needs as provided in this chapter. The director may consider consump-
+37 tive use, as defined in section 42-202B, Idaho Code, as a factor in determin-
+38 ing whether a proposed change would constitute an enlargement in use of the
+39 original water right. The director shall not approve a change in the nature
+40 of use from agricultural use where such change would significantly affect
+41 the agricultural base of the local area. The transfer of the right to the use
+42 of stored water for irrigation purposes shall not constitute an enlargement
+43 in use of the original right even though more acres may be irrigated, if no
+44 other water rights are injured thereby. A copy of the approved application
+45 for change shall be returned to the applicant and he shall be authorized upon
+46 receipt thereof to make the change and the original water right shall be pre-
+47 sumed to have been amended by reason of such authorized change. In the event
+48 the director of the department of water resources determines that a proposed
+49 change shall not be approved as provided in this section, he shall deny the
+50 same and forward notice of such action to the applicant by certified mail,
+
+7
+1 which decision shall be subject to judicial review as hereafter set forth.
+2 Provided however, minimum stream flow water rights may not be established
+3 under the local public interest criterion, and may only be established pur-
+4 suant to chapter 15, title 42, Idaho Code.
+5 (2) All rights to the use of water acquired under this chapter or other-
+6 wise shall be lost and forfeited by a failure for the term of five (5) years
+7 to apply it to the beneficial use for which it was appropriated and when any
+8 right to the use of water shall be lost through nonuse or forfeiture such
+9 rights to such water shall revert to the state and be again subject to appro-
+10 priation under this chapter; except that any right to the use of water shall
+11 not be lost through forfeiture by the failure to apply the water to benefi-
+12 cial use under certain circumstances as specified in section 42-223, Idaho
+13 Code. The party asserting that a water right has been forfeited has the bur-
+14 den of proving the forfeiture by clear and convincing evidence.
+15 (3) Upon proper showing before the director of the department of water
+16 resources of good and sufficient reason for nonapplication to beneficial use
+17 of such water for such term of five (5) years, the director of the department
+18 of water resources is hereby authorized to grant an extension of time extend-
+19 ing the time for forfeiture of title for nonuse thereof, to such waters for a
+20 period of not to exceed five (5) additional years.
+21 (4) Application for an extension shall be made before the end of the
+22 five (5) year period upon forms to be furnished by the department of water re-
+23 sources and shall fully describe the right on which an extension of time to
+24 resume the use is requested and the reasons for such nonuse and shall be ac-
+25 companied by the statutory filing fee; provided that water rights protected
+26 from forfeiture under the provisions of section 42-223, Idaho Code, are ex-
+27 empt from this requirement.
+28 (a) Upon the receipt of such application it shall be the duty of the di-
+29 rector of the department of water resources to examine the same and to
+30 provide notice of the application for an extension in the same manner as
+31 applications under section 42-203A, Idaho Code. The notice shall fully
+32 describe the right, the extension which is requested and the reason for
+33 such nonuse and shall state that any person desiring to object to the
+34 requested extension may submit a protest, accompanied by the statutory
+35 filing fee as provided in section 42-221, Idaho Code, to the director of
+36 the department of water resources within ten (10) days of the last date
+37 of publication.
+38 (b) Upon receipt of a protest it shall be the duty of the director of
+39 the department of water resources to investigate and conduct a hearing
+40 thereon as in this chapter provided.
+41 (c) The director of the department of water resources shall find from
+42 the evidence presented in any hearing, or from information available to
+43 the department, the reasons for such nonuse of water and where it ap-
+44 pears to the satisfaction of the director of the department of water re-
+45 sources that other rights will not be impaired by granting an extension
+46 of time within which to resume the use of the water and good cause ap-
+47 pearing for such nonuse, he may grant one (1) extension of five (5) years
+48 within which to resume such use.
+49 (d) In his approval of the application for an extension of time under
+50 this section the director of the department of water resources shall set
+
+8
+1 the date when the use of water is to be resumed. Sixty (60) days before
+2 such date the director of the department of water resources shall for-
+3 ward to the applicant at his address of record a notice by certified mail
+4 setting forth the date on which the use of water is to be resumed and a
+5 form for reporting the resumption of the use of the water right. If the
+6 use of the water has not been resumed and report thereon made on or be-
+7 fore the date set for resumption of use such right shall revert to the
+8 state and again be subject to appropriation, as provided in this sec-
+9 tion.
+10 (e) In the event the director of the department of water resources de-
+11 termines that a proposed extension of time within which to resume use of
+12 a water right shall not be approved as provided in this section, he shall
+13 deny same and forward notice of such action to the applicant by certi-
+14 fied mail, which decision shall be subject to judicial review as here-
+15 after provided.
+16 (5) Any person or persons feeling themselves aggrieved by the determi-
+17 nation of the department of water resources in approving or rejecting an ap-
+18 plication to change the point of diversion, place, period of use or nature
+19 of use of water under an established right or an application for an exten-
+20 sion of time within which to resume the use of water as provided in this sec-
+21 tion, may, if a protest was filed and a hearing held thereon, seek judicial
+22 review pursuant to section 42-1701A(4), Idaho Code. If no protest was filed
+23 and no hearing held, the applicant may request a hearing pursuant to section
+24 42-1701A(3), Idaho Code, for the purpose of contesting the action of the di-
+25 rector and may seek judicial review of the final order of the director fol-
+26 lowing the hearing pursuant to section 42-1701A(4), Idaho Code.
+27 SECTION 4. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2026.

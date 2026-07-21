@@ -1,0 +1,58 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1330, As Amended
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO THE SMALL CLAIMS DEPARTMENT OF THE MAGISTRATE DIVISION; AMENDING
+3 SECTION 1-2301, IDAHO CODE, TO REVISE A PROVISION REGARDING THE SCOPE
+4 OF A CLAIM; AMENDING SECTION 1-2311, IDAHO CODE, TO REVISE A PROVISION
+5 REGARDING ATTORNEY'S FEES; AND DECLARING AN EMERGENCY AND PROVIDING AN
+6 EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 1-2301, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 1-2301. SMALL CLAIMS DEPARTMENT -- CREATION -- SCOPE OF CLAIMS --
+11 VENUE. In every magistrate's division of the district court of this state,
+12 the district court may create and organize a "Small Claims Department of
+13 the Magistrate's Division," which shall have jurisdiction in cases for the
+14 recovery of money where the amount of each claim does not exceed five fifteen
+15 thousand dollars ($5,000) ($15,000), and in cases for the recovery of per-
+16 sonal property where the value of the property does not exceed five fifteen
+17 thousand dollars ($5,000) ($15,000); provided however, that the small
+18 claims department shall not award punitive damages or damages for pain or
+19 suffering in any proceeding. Any action brought in a small claims department
+20 of the magistrate's division shall be brought in the magistrate's division
+21 in the county where the defendant resides or the county where the cause of ac-
+22 tion arose. A defendant may request a change of venue if an action is brought
+23 in an improper county.
+24 SECTION 2. That Section 1-2311, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 1-2311. APPEAL TO LAWYER MAGISTRATE. If either party is dissatisfied,
+27 he may, within thirty (30) days from the entry of said judgment against him,
+28 appeal to a lawyer magistrate other than the magistrate who entered said
+29 judgment; and if the final judgment is rendered against him by such lawyer
+30 magistrate, then he shall pay, in addition to any judgment rendered in the
+31 magistrate's division, an attorney's fee to the prevailing party in the sum
+32 of twenty-five dollars ($25.00) as provided in section 12-120(6), Idaho
+33 Code, provided, however, that appeals from such small claims department
+34 shall be allowed only in such cases as appeals would be allowed if the action
+35 were instituted in the magistrate's division as is now provided, and further
+36 provided that the appeal shall be heard in the county wherein the original
+37 small claim was filed. A fee of twenty dollars ($20.00) shall be paid by
+38 the party taking the appeal, which shall be paid to the county treasurer who
+39 shall, within fifteen (15) days after the end of the month, pay such fees to
+40 the state treasurer for deposit into the court technology fund.
+
+2
+1 SECTION 3. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

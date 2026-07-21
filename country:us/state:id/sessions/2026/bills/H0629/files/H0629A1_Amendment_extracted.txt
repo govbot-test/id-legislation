@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Keyser
+Seconded by Den Hartog
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 629
+1 AMENDMENT TO SECTION 2
+2 On page 6 of the printed bill, delete lines 1 and 2, and insert: "any
+3 peace officer. A person who is issued a registration card, electronically
+4 shall print the registration card and such printed copy may be used to sat-
+5 isfy the provisions of this section. For drivers of commercial vehicles reg-
+6 istered pursuant to section 49-434 or 49-435, Idaho Code, an".
+7 CORRECTION TO TITLE
+8 On page 1, in line 4, delete "TO ALLOW AN ELECTRONIC FORMAT OF"; and in
+9 line 5, delete "REGISTRATION" and insert: "TO ALLOW A PRINTED REGISTRATION
+10 CARD".

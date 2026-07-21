@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 891
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3623, IDAHO CODE, TO PROVIDE FOR
+3 CERTAIN REFUNDS WHEN SALES TAXES ARE ERRONEOUSLY PAID; AND DECLARING AN
+4 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 63-3623, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 63-3623. RETURNS AND PAYMENTS. (a) The taxes imposed by this act are
+9 due and payable to the state tax commission monthly on or before the twenti-
+10 eth day of the succeeding month.
+11 (b) All moneys collected or received by the state tax commission from
+12 the taxes, penalties, interest and fees imposed by this act shall be de-
+13 posited with the state treasurer to be credited by him to the sales tax
+14 account created by this act.
+15 (c) On or before the twentieth day of the month a return shall be filed
+16 with the state tax commission in such form as the state tax commission may
+17 prescribe.
+18 (d) For the purpose of the sales tax, a return shall be filed by every
+19 seller. For the purposes of the use tax, a return shall be filed by every re-
+20 tailer engaged in business in this state and by every person purchasing tan-
+21 gible personal property, the storage, use, or other consumption of which is
+22 subject to the use tax, who has not paid the use tax due to a retailer required
+23 to collect the tax. Returns shall be signed by the person required to file
+24 the return or by his duly authorized agent.
+25 (e) For the purposes of the sales tax, the return shall show the total
+26 sales at retail subject to tax under this act during the reporting period.
+27 For the purposes of the use tax, in case of a return filed by a retailer, the
+28 return shall show the total sales price of the property sold by him, the stor-
+29 age, use, or consumption of which property became subject to the use tax dur-
+30 ing the reporting period; in the case of a return filed by a purchaser, the
+31 return shall show the total sales price of the property purchased by him, the
+32 storage, use, or consumption of which became subject to the use tax during
+33 the reporting period.
+34 (f) The return shall show the amount of the taxes for the period covered
+35 by the return and such other information as the state tax commission deems
+36 necessary for the proper administration of this act.
+37 (g) The person required to file the return shall mail or deliver the re-
+38 turn together with a remittance of any tax due to the state tax commission for
+39 the reporting period.
+40 (h) The state tax commission, if it deems it necessary in order to in-
+41 sure payment to or facilitate the collection by the state of taxes, may re-
+42 quire returns for periods other than monthly periods.
+
+2
+1 (i) For the purposes of the sales tax, gross amounts from rentals or
+2 leases of tangible personal property which may be subject to tax under this
+3 act shall be reported and the tax paid in accordance with such rules as the
+4 state tax commission may prescribe.
+5 (j) The state tax commission for good cause may extend, for not to ex-
+6 ceed one (1) month, the time for making any return or paying any amount re-
+7 quired to be paid under this act.
+8 (k) Any person to whom an extension is granted and who pays the tax
+9 within the period for which the extension is granted shall pay, in addition
+10 to the tax, interest at the rate provided in section 63-3045, Idaho Code,
+11 from the date on which the tax would have been due without the extension until
+12 the day of payment.
+13 (l) Upon the transfer of ownership of a motor vehicle subject to sales
+14 or use tax, a certificate of title will be issued to the new owner only upon
+15 presentation of evidence of payment of sales or use tax on the transaction.
+16 (m) The owner of a motor vehicle or trailer required to be registered
+17 by the laws of this state shall, upon demand, furnish to the officer issuing
+18 such registration, satisfactory evidence that any sales or use tax to which
+19 such motor vehicle or trailer is subject has been paid to this state before
+20 any such registration shall be issued.
+21 (n) Retail sales of tangible personal property through a vending ma-
+22 chine which are taxable upon the purchase price paid by the owner or operator
+23 of the vending machine pursuant to subsection (e) of section 63-3613, Idaho
+24 Code, shall be reported upon the sales tax return of the owner or operator of
+25 the vending machine in the manner by which the tax commission may by rule pre-
+26 scribe.
+27 (o) A seller who collects sales tax from a buyer when no sales tax was
+28 due shall be entitled to a credit against the use tax owed by the seller on
+29 that transaction pursuant to section 63-3621, Idaho Code, for any "use" as
+30 defined in section 63-3615(b), Idaho Code. The amount of the credit shall
+31 not exceed the amount of use tax due to the state with respect to that trans-
+32 action. When credits have been taken by the seller on transactions where use
+33 tax was owed instead of sales tax, no additional credits shall be allowed un-
+34 der this subsection for subsequent transactions after the seller has been
+35 made aware that use tax was owed instead of sales tax. If a buyer who has
+36 paid sales tax when no sales tax was due requests a refund from the seller,
+37 the seller shall refund the amount of sales tax paid by the buyer. The seller
+38 may take a credit or seek a refund from the state tax commission equal to the
+39 amount of sales tax refunded to the buyer less the use tax due by the seller.
+40 SECTION 2. An emergency existing therefor, which emergency is hereby
+41 declared to exist, this act shall be in full force and effect on and after
+42 July 1, 2026.

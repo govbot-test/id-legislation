@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 619
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO WILDFIRE RISK MITIGATION; AMENDING THE HEADING FOR CHAPTER 24,
+3 TITLE 41, IDAHO CODE; AMENDING CHAPTER 24, TITLE 41, IDAHO CODE, BY THE
+4 ADDITION OF A NEW SECTION 41-2402, IDAHO CODE, TO PROVIDE LEGISLATIVE
+5 INTENT AND TO PROVIDE A SHORT TITLE; AMENDING CHAPTER 24, TITLE 41,
+6 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-2403, IDAHO CODE, TO DE-
+7 FINE TERMS; AMENDING CHAPTER 24, TITLE 41, IDAHO CODE, BY THE ADDITION
+8 OF A NEW SECTION 41-2404, IDAHO CODE, TO ESTABLISH THE IDAHO WILDFIRE
+9 RISK MITIGATION FUND; AMENDING CHAPTER 24, TITLE 41, IDAHO CODE, BY THE
+10 ADDITION OF A NEW SECTION 41-2405, IDAHO CODE, TO PROVIDE FOR THE POWERS
+11 AND AUTHORITY OF THE DIRECTOR OF THE DEPARTMENT OF INSURANCE; AMENDING
+12 SECTION 41-406, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DEPOSIT
+13 AND REPORT OF FEES, LICENSES, AND TAXES; AND DECLARING AN EMERGENCY.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That the Heading for Chapter 24, Title 41, Idaho Code, be,
+16 and the same is hereby amended to read as follows:
+17 CHAPTER 24
+18 PROPERTY INSURANCE CONTRACTS
+19 SECTION 2. That Chapter 24, Title 41, Idaho Code, be, and the same is
+20 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+21 ignated as Section 41-2402, Idaho Code, and to read as follows:
+22 41-2402. IDAHO WILDFIRE RISK MITIGATION FUND ACT -- LEGISLATIVE
+23 INTENT -- SHORT TITLE. It is the intent of the legislature to promote
+24 self-reliance and lower property insurance costs by reducing wildfire risks
+25 and increasing competition among insurers. This shall be accomplished by
+26 encouraging and assisting property owners in protecting their property
+27 against wildfire risks and mitigating wildfire risks to property owners and
+28 their insurance companies, thereby attracting and retaining insurers in the
+29 property marketplace. The provisions of sections 41-2402 through 41-2405,
+30 Idaho Code, shall be known and may be cited as the "Idaho Wildfire Risk Miti-
+31 gation Fund Act."
+32 SECTION 3. That Chapter 24, Title 41, Idaho Code, be, and the same is
+33 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+34 ignated as Section 41-2403, Idaho Code, and to read as follows:
+35 41-2403. DEFINITIONS. For the purposes of sections 41-2402 through
+36 41-2405, Idaho Code:
+37 (1) "Act" means the Idaho wildfire risk mitigation fund act.
+38 (2) "Department" means the Idaho department of insurance.
+39 (3) "Director" means the director of the Idaho department of insurance.
+
+2
+1 SECTION 4. That Chapter 24, Title 41, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 41-2404, Idaho Code, and to read as follows:
+4 41-2404. IDAHO WILDFIRE RISK MITIGATION FUND. (1) There is hereby cre-
+5 ated and established in the state treasury the Idaho wildfire risk mitiga-
+6 tion fund. The state treasurer shall invest the idle moneys of the fund, and
+7 the interest earned on such investments shall be retained by the fund. The
+8 fund is hereby continuously appropriated to be used solely for effectuating
+9 the purposes of this act. The fund is established to:
+10 (a) Promote self-reliance;
+11 (b) Reduce risk of loss due to wildfire;
+12 (c) Receive funding from various sources;
+13 (d) Improve access to property insurance; and
+14 (e) Mitigate wildfire risk, which shall include distributing grants,
+15 not to exceed twenty thousand dollars ($20,000) per grant, and educa-
+16 tional efforts.
+17 (2) The fund shall consist of:
+18 (a) The continuous appropriation of excess premium tax authorized pur-
+19 suant to section 41-406(1)(e), Idaho Code;
+20 (b) Any excess and unused moneys received for fees, licenses, or mis-
+21 cellaneous charges collected by the department, not to exceed the de-
+22 partment's annual appropriation;
+23 (c) Any excess stamping fees, as determined and recommended by the sur-
+24 plus line association or other delegated contracted organization and as
+25 approved by the director;
+26 (d) Private sector contributions;
+27 (e) Grants or other contributions for fire prevention or mitigation;
+28 and
+29 (f) Such other moneys that may be provided by legislative appropria-
+30 tion.
+31 (3) The fund shall be free from taxation of any kind.
+32 SECTION 5. That Chapter 24, Title 41, Idaho Code, be, and the same is
+33 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+34 ignated as Section 41-2405, Idaho Code, and to read as follows:
+35 41-2405. POWERS AND AUTHORITY. (1) The director shall have the powers
+36 and authority to:
+37 (a) Promulgate rules, subject to legislative approval, to effectuate
+38 the provisions of this act;
+39 (b) Establish policies and procedures, as may be necessary or conve-
+40 nient, for the implementation of this act and operation of the fund, in-
+41 cluding:
+42 (i) Handling and accounting of assets and moneys;
+43 (ii) Creating an annual fiscal report of such assets and moneys;
+44 (iii) Selecting an administrator and setting forth the powers and
+45 duties of the administrator;
+46 (iv) Providing grants to Idaho citizens for wildfire risk mitiga-
+47 tion. The monetary amount of such grants shall be limited to as-
+48 sist the largest number of citizens possible; and
+
+3
+1 (v) Providing funding for property protection and for fire pre-
+2 vention and mitigation education and resources.
+3 (2) The director may appoint an advisory committee to assist with the
+4 operation of the fund.
+5 SECTION 6. That Section 41-406, Idaho Code, be, and the same is hereby
+6 amended to read as follows:
+7 41-406. DEPOSIT AND REPORT OF FEES, LICENSES AND TAXES. (1) The direc-
+8 tor shall transmit all taxes, fines and penalties collected by him to the
+9 state treasurer as provided under section 59-1014, Idaho Code. The director
+10 shall file with the state controller a statement of each deposit thus made.
+11 All such funds received shall be deposited into the department of insurance
+12 suspense account. Such funds shall be distributed as follows:
+13 (a) The director may deposit up to twenty percent (20%) of the funds
+14 received in the insurance refund account which is hereby created for
+15 the purpose of repaying overpayments of any taxes, fines, and penalties
+16 or other erroneous receipts. There is hereby appropriated out of the
+17 insurance refund account so much thereof as shall be necessary for the
+18 payment of refunds. Any unencumbered balance remaining in the insur-
+19 ance refund account on June 30 of each and every year in excess of forty
+20 thousand dollars ($40,000) shall be transferred to the general fund and
+21 the state controller is hereby authorized and directed on such dates to
+22 make such transfers unless the board of examiners, which is hereby au-
+23 thorized to do so, changes the date of transfer or sum to be transferred.
+24 (b) That portion of the premium tax, payable to the public employee re-
+25 tirement fund as provided in section 59-1394, Idaho Code, shall be dis-
+26 tributed to that fund.
+27 (c) That portion of the premium tax necessary to cover administrative
+28 costs incurred by the department in placing insurance companies or any
+29 other insurance entities into receivership or under administrative su-
+30 pervision, and such costs cannot be satisfied from the assets of these
+31 companies or entities, shall be distributed to the insurance insolvency
+32 administrative fund which is hereby created. There is hereby appro-
+33 priated out of the insurance insolvency administrative fund so much
+34 thereof as shall be necessary, but not to exceed two hundred thousand
+35 dollars ($200,000) in any one (1) fiscal year, for the payment of the
+36 department's administrative expenses incurred in carrying out such re-
+37 ceiverships or supervision. A balance of one hundred thousand dollars
+38 ($100,000) shall be maintained in this fund on June 30 of each year.
+39 (d) After all other the deductions authorized in this section
+40 paragraphs (a) through (c) of this subsection have been made,
+41 if the premium tax remaining exceeds forty-five million dollars
+42 ($45,000,000), one-fourth (1/4) of such excess is hereby appropriated
+43 and shall be paid to the Idaho individual high risk reinsurance pool
+44 established in chapter 55, title 41, Idaho Code.
+45 (e) After the deductions authorized in paragraphs (a) through (d) of
+46 this subsection have been made, if the premium tax remaining exceeds one
+47 hundred twenty-five million dollars ($125,000,000), one-fourth (1/4)
+48 of such excess is hereby appropriated to and shall be paid to the Idaho
+
+4
+1 wildfire risk mitigation fund established in section 41-2404, Idaho
+2 Code.
+3 (e) (f) The balance of the premium tax, fines, and penalties shall be
+4 distributed to the general fund of the state of Idaho.
+5 (f) (g) All moneys received for fees, licenses, and miscellaneous
+6 charges collected shall be distributed to the insurance administrative
+7 account.
+8 (2) The director shall make and file with the state controller an item-
+9 ized statement of the fees, licenses, taxes, fines, and penalties collected
+10 by him during the preceding month.
+11 SECTION 7. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after its
+13 passage and approval.

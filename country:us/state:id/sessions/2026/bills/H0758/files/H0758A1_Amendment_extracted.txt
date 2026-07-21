@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Bjerke
+Seconded by Toews
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 758
+1 AMENDMENT TO SECTION 2
+2 On page 3 of the printed bill, delete lines 47 and 48, and insert:
+3 "(5) Sleeping children must be within sight and normal hearing range of
+4 a provider supervised as described in section 39-1102(18), Idaho Code.".
+5 CORRECTION TO TITLE
+6 On page 1, in line 4, delete "PROVIDE AN EXCEPTION REGARDING CHILDREN TO
+7 BE"; and in line 5, delete "COUNTED IN ATTENDANCE;" and insert: "REVISE PRO-
+8 VISIONS REGARDING SAFETY STANDARDS;".

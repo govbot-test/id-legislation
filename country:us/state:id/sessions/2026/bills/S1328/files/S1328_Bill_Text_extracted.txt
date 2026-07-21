@@ -1,0 +1,1189 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1328
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO COUNSEL FOR THE IDAHO DEPARTMENT OF LANDS; AMENDING SECTION
+3 38-107, IDAHO CODE, TO REVISE PROVISIONS REGARDING UNCONTROLLED FIRES;
+4 AMENDING SECTION 38-113, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+5 FOREST LAND PROTECTION AND LIENS; AMENDING SECTION 38-118, IDAHO CODE,
+6 TO REVISE PROVISIONS REGARDING THE DUTY OF RAILROADS AND PENALTIES;
+7 AMENDING SECTION 38-123, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+8 DISPOSAL OF SLASH, INJUNCTIONS, LIENS, AND ENFORCEMENT; AMENDING SEC-
+9 TION 38-128, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE DUTIES OF
+10 PROSECUTING ATTORNEYS AND GENERAL COUNSEL FOR THE DEPARTMENT OF LANDS;
+11 AMENDING SECTION 38-808, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+12 RECORDING LOG BRANDS AND PENALTIES; AMENDING SECTION 38-1220A, IDAHO
+13 CODE, TO REVISE A PROVISION REGARDING CIVIL ENFORCEMENT ACTIONS AND
+14 TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 38-1221, IDAHO CODE,
+15 TO REVISE PROVISIONS REGARDING CIVIL ENFORCEMENT ACTIONS, CRIMINAL
+16 ACTIONS, AND PENALTIES; AMENDING SECTION 38-1307, IDAHO CODE, TO RE-
+17 VISE PROVISIONS REGARDING CIVIL ENFORCEMENT ACTIONS; AMENDING SECTION
+18 47-314, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE OIL AND GAS CON-
+19 SERVATION COMMISSION; AMENDING SECTION 47-718, IDAHO CODE, TO REVISE
+20 PROVISIONS REGARDING THE POWER OF THE DIRECTOR OF THE DEPARTMENT OF
+21 LANDS TO INITIATE LEGAL ACTION; AMENDING SECTION 47-1317, IDAHO CODE,
+22 TO REVISE PROVISIONS REGARDING APPLICATION, PERMIT, AND BOND FOR PLACER
+23 OR DREDGE MINING; AMENDING SECTION 47-1324, IDAHO CODE, TO REVISE PRO-
+24 VISIONS REGARDING ENFORCEMENT AND PENALTIES FOR VIOLATIONS; AMENDING
+25 SECTION 47-1513, IDAHO CODE, TO REVISE PROVISIONS REGARDING AN OPERA-
+26 TOR'S FAILURE TO COMPLY; AMENDING SECTION 58-120, IDAHO CODE, TO REVISE
+27 PROVISIONS REGARDING GENERAL COUNSEL FOR THE DEPARTMENT OF LANDS;
+28 AMENDING SECTION 58-312, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+29 OCCUPATION OF STATE LAND WITHOUT A LEASE; AMENDING SECTION 58-1308,
+30 IDAHO CODE, TO REVISE PROVISIONS REGARDING PENALTIES; AMENDING SECTION
+31 67-1406, IDAHO CODE, TO PROVIDE AN EXCEPTION; AND DECLARING AN EMER-
+32 GENCY AND PROVIDING AN EFFECTIVE DATE.
+33 Be It Enacted by the Legislature of the State of Idaho:
+34 SECTION 1. That Section 38-107, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 38-107. UNCONTROLLED FIRES A NUISANCE -- ABATEMENT -- CIVIL LIABIL-
+37 ITY. (1) Any forest or range fire on any land within the state of Idaho, re-
+38 gardless of ownership status, that is burning out of control or without ad-
+39 equate and proper precautions having been taken to prevent its spread, is
+40 hereby declared a public nuisance, by reason of its menace to life and/or
+41 property. Any person responsible through his conduct, acts and/or control
+42 of property or operations for either the starting or the existence of such
+
+2
+1 fire is hereby required to make a reasonable effort to control or extinguish
+2 it immediately, without awaiting instructions from the director of the de-
+3 partment of lands or a fire warden. The director of the department of lands
+4 or any fire warden may summarily abate the nuisance thus constituted by con-
+5 trolling or extinguishing such fire and the person willfully or negligently
+6 responsible for the starting or existence of such fire shall be liable for
+7 the costs incurred by the state or its authorized agencies in controlling
+8 or extinguishing the same. The amount of such costs shall be recovered by
+9 a civil action prosecuted in the name of the state of Idaho pursuant to sec-
+10 tion 58-120, Idaho Code, and any amounts recovered shall be paid to the state
+11 treasurer for deposit to the forest protection fund. Civil liability pro-
+12 vided for herein shall be exclusive of and in addition to any criminal penal-
+13 ties otherwise provided.
+14 (2)(a) Notwithstanding any other provision of law, in a civil action
+15 against any person, legal entity, state, or political subdivision for
+16 forest or range fire caused by a negligent or unintentional act, which
+17 act was not willful or intentional under section 6-202, Idaho Code, the
+18 real and personal property damage is limited to:
+19 (a) (i) The reasonable costs for controlling or extinguishing the
+20 forest or range fire;
+21 (b) (ii) Economic damages; and
+22 (c) (iii) Either (i) the diminution of fair market value of the
+23 real and personal property resulting from the fire, or (ii) the ac-
+24 tual and tangible restoration costs associated with bringing the
+25 damaged real and personal property back to its pre-injured state
+26 to the extent that such actual and tangible restoration costs are
+27 reasonable and practical.
+28 (b) As used in this subsection, "economic damages" means objectively
+29 verifiable monetary loss including, but not limited to, out-of-pocket
+30 expenses, loss of earnings, loss of use of property, or loss of business
+31 or employment opportunities.
+32 (c) As further used in this subsection, "fair market value" means the
+33 amount a willing buyer would pay a willing seller in an arms-length
+34 transaction when both parties are fully informed about all of the advan-
+35 tages and disadvantages of the property and neither is acting under any
+36 compulsion to buy or sell, as determined by a state certified appraiser,
+37 who is qualified to appraise the property.
+38 (d) Claims against the state or a political subdivision shall remain
+39 subject to the requirements of chapter 9, title 6, Idaho Code, and dam-
+40 ages against the state or a political subdivision shall be the amount
+41 set forth in chapter 9, title 6, Idaho Code, as limited in this subsec-
+42 tion.
+43 (3) Notwithstanding any other provision of law, civil actions brought
+44 pursuant to this section shall be barred by a statute of limitations after
+45 ten (10) years.
+46 SECTION 2. That Section 38-113, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+48 38-113. PURCHASER OF FOREST PRODUCTS RESPONSIBLE FOR PROTECTION --
+49 LIENS. When the owner of forest land shall have has sold timber and/or other
+
+3
+1 forest products or potential forest products thereon on such land to an-
+2 other, while retaining ownership of the land, the owner of the timber and/or
+3 other forest products or potential forest products shall be responsible for
+4 providing the protection required by section 38-111, Idaho Code, for that
+5 portion of the land covered by his uncut timber and/or other forest products
+6 or potential forest products and for the area he has cut over during the year
+7 up to the end of the closed season, and for any areas he has cut over without
+8 complying with the forest fire and slash disposal laws of the state, and if
+9 he. If the owner fails, neglects, or refuses to provide the protection re-
+10 quired by section 38-111, Idaho Code, the director of the department of lands
+11 shall provide such patrol and protection at the cost per acre to said owner at
+12 the rates therein established. Any amounts due and unpaid for this purpose
+13 shall be a lien upon the remaining standing timber and/or other forest prod-
+14 ucts or potential forest products and upon the timber and/or other forest
+15 products theretofore cut and/or removed or remaining on the ground and may
+16 be collected through extension upon the tax rolls covering such property as
+17 in section 38-112, Idaho Code, provided for collection of similar liens upon
+18 forest land; provided, that if the director of the department of lands shall
+19 deem such property to be inadequate security, the lien, unless promptly paid
+20 on demand of the director of the department of lands, may be by him perfected
+21 and enforced as loggers' liens are perfected and enforced, or such amounts,
+22 together with any expenses rendered necessary, may be recoverable from the
+23 offender by a civil action for debt prosecuted in the name of the state of
+24 Idaho pursuant to section 58-120, Idaho Code. Any recovery shall be paid to
+25 the state treasurer for deposit in the forest protection fund.
+26 SECTION 3. That Section 38-118, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 38-118. DUTY OF RAILROADS -- PENALTIES. (1) During the closed season
+29 everyone operating a common carrier railroad shall keep all right of way,
+30 station grounds and other operating property in, contiguous, or adjacent
+31 to forest or range lands clear and free from all combustible and flammable
+32 material, matter or substances, except freight, express and mail supplies,
+33 structures, equipment and material necessary, usual or convenient for the
+34 construction, maintenance and/or operation of such railroad.
+35 (2) During the said closed season, no person operating or maintaining
+36 such a railroad shall permit any of his or its employees to leave a deposit of
+37 fire, live coals, or hot ashes in the immediate vicinity of forest or range
+38 lands or of other lands liable to be overrun by fire.
+39 (3) All clearing by burning under the provisions of the section shall be
+40 in accordance with the provisions of this act applicable to the season during
+41 which said burning is done.
+42 (4) Refusal or neglect to comply with the provisions of this section
+43 shall be deemed a petty misdemeanor for each offense; provided, that the di-
+44 rector of the department of lands, with the consent of the board, may suspend
+45 the restrictions of this section when and where he deems safety so permits.
+46 It is further provided, that in the absence of such suspension, and in case
+47 of refusal or neglect by the person at fault, after proper notice, to take
+48 the precautions against fire required by public safety and the provisions of
+49 this act, the director of the department of lands, or district fire warden,
+
+4
+1 acting with his consent, may have the work done to the extent that he deems
+2 requisite to public safety, and the costs thereof and the expense of any fire
+3 patrol rendered necessary by the offender's neglect, plus a penalty of ten
+4 per cent (10%) shall be recoverable from the offender by civil action, pros-
+5 ecuted in the name of the state of Idaho pursuant to section 58-120, Idaho
+6 Code. Any recovery shall be paid to the state treasurer for deposit in the
+7 forest protection fund.
+8 SECTION 4. That Section 38-123, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 38-123. DISPOSAL OF SLASH -- INJUNCTION AGAINST FURTHER CUTTING --
+11 DISPOSAL AT EXPENSE OF OWNER -- LIEN AND ENFORCEMENT -- ORDERS. (1) In the
+12 event one responsible therefor shall fail, refuse, or neglect to properly
+13 dispose of slash in accordance with the requirements of section 38-122,
+14 Idaho Code, and such person responsible therefor is engaged or is about to
+15 engage, either for himself or for another, in cutting timber or other forest
+16 products, and thereby creating a fire hazard anywhere within the state, he
+17 may be enjoined from cutting such timber or other forest products and thereby
+18 creating a fire hazard until he shall have complied with the provisions of
+19 section 38-122, Idaho Code. Such injunction proceedings may be instituted
+20 by the director of the department of lands as plaintiff pursuant to section
+21 58-120, Idaho Code, and the court may in its discretion grant a temporary in-
+22 junction. In any such proceedings no bond shall be required of the plaintiff
+23 and such a proceeding shall be handled in any court by the judge thereof with
+24 expedition.
+25 (2) If one responsible therefor has for any reason failed to comply with
+26 section 38-122, Idaho Code, and has without such compliance cut timber or
+27 other forest products, and shall fail, refuse, or neglect to properly dis-
+28 pose of slash for a period of thirty (30) days after being notified so to do
+29 by the director of the department of lands or the fire warden of the forest
+30 protective district within which such slash has accumulated, the director of
+31 the department of lands, or the fire warden, may, if he deems it advisable,
+32 complete, direct, or authorize the disposal of such slash at the expense of
+33 the owner of the timber or other forest products cut or produced from the land
+34 upon which such fire hazard remains undisposed of as aforesaid.
+35 (3) The cost and expense of such disposal, plus twenty per cent (20%) of
+36 the cost and expense of such disposal as a penalty, shall constitute a prior
+37 lien upon the timber and/or other forest products so cut or produced from
+38 such land. If payment of such cost and penalty be is not made within ten (10)
+39 days after demand in writing, the director of the department of lands shall
+40 file for record with the county recorder of the county in which such timber or
+41 other forest products were cut, or, if the same have been removed to another
+42 county, then in such county, a notice of lien upon any and all forest products
+43 cut from the area of slash undisposed of as aforesaid, and such lien shall
+44 also attach to all identifiable processed products thereof, and the perfec-
+45 tion of such lien rights shall as nearly as practicable be in conformity with
+46 the provisions of section 45-407, Idaho Code, so far as the same is applica-
+47 ble, and duly verified as therein provided. Any claims of lien recorded as
+48 herein provided shall be released in writing by the director of the depart-
+49 ment of lands upon payment of the cost and penalty herein provided. After
+
+5
+1 the filing of notice of lien, any purchaser or purchasers of any of such for-
+2 est products who have disposed of the same or who shall have so mingled such
+3 forest products or the processed products thereof with other property as to
+4 prevent identification of such forest products, and thereby prevent the sale
+5 of any such products in such foreclosure proceedings, shall be liable for
+6 the full amount of the judgment recovered, provided such purchaser is made a
+7 party defendant in the suit for the foreclosure of lien. The proceedings for
+8 the enforcement of said lien shall conform as nearly as may be to the proceed-
+9 ings provided by law for the enforcement of loggers' lien, or the amount of
+10 such cost and penalty may be recovered by a civil action for debt, prosecuted
+11 in the name of the state of Idaho pursuant to section 58-120, Idaho Code, and
+12 payable to the state treasurer for deposit in the forest protection fund.
+13 (4) The director of the department of lands shall not file for record any
+14 lien against the property of any person who has been issued a certificate of
+15 clearance in accordance with section 38-122, Idaho Code, covering such prop-
+16 erty.
+17 (5) All orders and directions issued by the director of the department
+18 of lands, or any fire warden, as required or authorized by this section and
+19 section 38-122, Idaho Code, shall be in writing and made in triplicate, the
+20 original of which shall be sent by registered mail or delivered by personal
+21 service to the person to receive such order, permits or directions; one (1)
+22 copy shall be filed in the office of the director of the department of lands;
+23 and one (1) copy shall be filed in the district warden's file.
+24 SECTION 5. That Section 38-128, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 38-128. DUTIES OF PROSECUTING ATTORNEYS AND ATTORNEY GENERAL GENERAL
+27 COUNSEL. (1) At the discretion of the director of the department of lands, it
+28 shall be the duty of the attorney general or the prosecuting attorney of the
+29 county within which such action lies, general counsel for the department of
+30 lands, pursuant to section 58-120, Idaho Code, to prepare, upon information
+31 furnished by the director of the department of lands or the fire warden of any
+32 forest protective district, and foreclose all liens, other than those pro-
+33 vided for in sections 38-111, 38-112 and 38-113, Idaho Code, and to prosecute
+34 in the name of the state of Idaho all actions for the recovery of penalties,
+35 and costs, and expenses incurred by the director of the department of lands,
+36 his deputy, or the district's fire warden of the district in carrying out the
+37 provisions of this chapter. For the purposes of this section, venue shall be
+38 determined subject to the terms of applicable Idaho law at the time of the in-
+39 cident. Civil actions against nonresidents of the state shall be prosecuted
+40 by the attorney general pursuant to section 58-120, Idaho Code.
+41 (2) Whenever any arrest shall have has been made for the violation of
+42 any provisions of this chapter, or whenever any evidence, which shows with
+43 reasonable certainty any such violation, shall have has been lodged with
+44 him, the prosecuting attorney of the county in which the criminal act was
+45 committed must shall prosecute the offender with all diligence and energy.
+46 SECTION 6. That Section 38-808, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+
+6
+1 38-808. RECORDING LOG BRANDS -- PENALTY. (1) Definitions:
+2 (a) "Person" includes the plural and all corporations, foreign and do-
+3 mestic, copartnerships, firms and associations of persons.
+4 (b) "Forest products." For the purposes of this section only, "forest
+5 products" means all products derived from trees including, but not lim-
+6 ited to, saw logs, veneer logs, poles, cedar products, pulp logs, fence
+7 posts, and every form into which a fallen tree may be cut before it is
+8 manufactured into lumber or run through a processing mill or cut into
+9 cordwood, stove wood or hewn ties.
+10 (c) "Log brand" means a unique symbol or mark placed on or in forest
+11 products for the purpose of identifying ownership.
+12 (2) Any owner of forest products in the state of Idaho may use thereon
+13 any log brand, which may be applied as a stamped symbol, log brand or af-
+14 fixed tag, not currently registered by any other person in the state; but
+15 before any such log brand shall be used, it shall be the duty of such owner
+16 intending to use the same to cause a diagram, and a full and complete writ-
+17 ten description of his log brand, signed by him, to be submitted on "Reg-
+18 istration of Log Brands" forms to the office of the Idaho board of scaling
+19 practices, who shall record the same upon receipt of a payment of twenty-
+20 five dollars ($25.00), provided the log brand is different from any other log
+21 brand currently registered in that office. It shall be the duty of the person
+22 in charge of the Idaho board of scaling practices office to keep a record of
+23 all registered log brands, which record shall at all reasonable times be open
+24 to public inspection.
+25 (3) All applications for log brands and/or renewals shall be submit-
+26 ted to and approved by the Idaho board of scaling practices prior to use.
+27 Such application shall be made on duplicate log brand registration forms and
+28 shall include a diagram or an impression of the log brand stamped on the form,
+29 a written description of the log brand and be signed by the person or the
+30 agent of the person. The Idaho board of scaling practices may refuse to ap-
+31 prove any log brand which is identical to or closely resembles a currently
+32 registered log brand. If approval is denied, the applicant will select an-
+33 other log brand. No person shall brand any prize log.
+34 (4) The expiration date for all log brands registered prior to January
+35 1, 1981, shall be February 28, 1994; the expiration date for all log brands
+36 registered from January 1, 1981, through December 31, 1985, shall be Febru-
+37 ary 28, 1995; the expiration date for all log brands registered from January
+38 1, 1986 through December 31, 1989, shall be February 28, 1996; the expiration
+39 date for all log brands registered from January 1, 1990, through December
+40 31, 1992, shall be February 28, 1997. Beginning January 1, 1993, renewals or
+41 newly approved registrations shall expire on February 28, five (5) years af-
+42 ter the year of registration or renewal. Notification of expiration will be
+43 sent during the month of September of the year preceding the expiration date.
+44 A renewal fee of twenty-five dollars ($25.00) shall be charged each time a
+45 log brand is renewed by the same person.
+46 (5) To assign ownership of a currently registered log brand, the cur-
+47 rent registered owner of the log brand shall file with the Idaho board of
+48 scaling practices a signed and duly notarized instrument on forms provided
+49 by the board. Such forms shall specify the effective date of transfer, the
+50 assignee and the log brand to be assigned. A fee of twenty-five dollars
+
+7
+1 ($25.00) shall be charged for each transfer. The transferred log brand will
+2 be issued a new registration number and shall expire February 28, five (5)
+3 years after the year of the transfer.
+4 (6) Any failure to renew a log brand as required by law shall be deemed
+5 an abandonment of the same. Abandoned or canceled log brands shall not be
+6 reissued for a period of one (1) year unless the Idaho board of scaling prac-
+7 tices so authorizes for cause. Any other person may be at liberty to adopt or
+8 use the abandoned log brand; but the other person shall not claim or use it
+9 until after it has been registered in the other person's own name as provided
+10 by this section.
+11 (6) (7) Failure to comply with the provisions of this section shall be
+12 deemed a violation of the log brand law. Upon request of the Idaho board
+13 of scaling practices or its chairperson, it shall be the duty of the attor-
+14 ney general general counsel for the department of lands, pursuant to section
+15 58-120, Idaho Code, to institute and prosecute civil enforcement actions.
+16 In addition, when deemed by the board to be necessary, the board may retain
+17 private counsel or the office of the attorney general to institute and pros-
+18 ecute civil enforcement actions. Any person who has been determined to have
+19 violated the provisions of this chapter shall be liable for any expense, in-
+20 cluding reasonable attorney's fees, incurred by the state in enforcing the
+21 provisions of this chapter. Any violation of this section shall be deemed a
+22 misdemeanor and any person, upon conviction, shall be sentenced to pay a fine
+23 of not less than one hundred dollars ($100) nor more than five hundred dol-
+24 lars ($500).
+25 SECTION 7. That Section 38-1220A, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 38-1220A. INSPECTION -- INVESTIGATION -- VIOLATIONS -- ENFORCEMENT --
+28 PENALTY. (a) The chairman of the Idaho board of scaling practices shall cause
+29 investigations to be made upon the request of the board or upon receipt of
+30 information concerning an alleged violation of this chapter or of any rule,
+31 order, or license issued or promulgated thereunder, and may cause to be made
+32 such other investigations as the chairman shall deem advisable.
+33 (b) The chairman or the chairman's designee shall have the authority
+34 to:
+35 (1) Conduct a program of continuing surveillance and of regular or pe-
+36 riodic inspection of log scaling sites.
+37 (2) Enter at all reasonable times upon any private or public property
+38 for the purpose of inspecting or investigating to ascertain possible
+39 violations of this chapter or of any rule, order, or license issued or
+40 promulgated thereunder.
+41 (c) Whenever the chairman determines that any person or legal entity is
+42 in violation of any provisions of this chapter or any rule, order, or license
+43 issued or promulgated pursuant to this chapter, the chairman may initiate
+44 a civil enforcement action through the attorney general and/or a criminal
+45 action through the prosecuting attorney as provided in pursuant to section
+46 38-1221, Idaho Code. Civil enforcement actions shall be commenced and pros-
+47 ecuted in the district court in and for the county in which the alleged vio-
+48 lation occurred, and may be brought against any person or legal entity who is
+49 alleged to have violated any provisions of this chapter or any rule, order,
+
+8
+1 or license which has become effective pursuant to this chapter. Such action
+2 may be brought to compel compliance with any provisions of this chapter or
+3 any rule, order, or license issued or promulgated hereunder and for any re-
+4 lief or remedies authorized in this chapter. Except as provided in section
+5 38-1218, Idaho Code, the chairman shall not be required to initiate or prose-
+6 cute an administrative action before initiating a civil enforcement action.
+7 (d) Any person or legal entity determined in a civil enforcement action
+8 to have violated any provision of this chapter or any rule, order, or license
+9 issued or promulgated pursuant to this chapter shall be liable for a civil
+10 penalty not to exceed five thousand dollars ($5,000) per violation or five
+11 hundred dollars ($500) for each day of a continuing violation, whichever is
+12 greater. The method of recovery of said penalty shall be by a civil enforce-
+13 ment action in the district court in and for the county where the violation
+14 occurred. All civil penalties collected under this chapter shall be paid
+15 into the state scaling account.
+16 (e) In addition to such civil penalties, any person or legal entity
+17 who has been determined to have violated the provisions of this chapter or
+18 any rule, order, or license issued or promulgated pursuant to this chapter,
+19 shall be liable for any expense, including reasonable attorney's fees, in-
+20 curred by the state in enforcing this chapter.
+21 (f) No action taken pursuant to the provisions of this chapter shall re-
+22 lieve any person or legal entity from any civil action and damages that may
+23 exist for damage resulting from any violation of this chapter or any rule,
+24 order, or license issued or promulgated thereunder.
+25 SECTION 8. That Section 38-1221, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 38-1221. COMMENCEMENT OF CIVIL ENFORCEMENT ACTIONS -- CRIMINAL AC-
+28 TIONS AND PENALTIES AUTHORIZED -- DUTIES OF ATTORNEY GENERAL AND PROSECUTING
+29 ATTORNEYS. (a) Upon request of the board or the chairman, it shall be the
+30 duty of the attorney general general counsel for the department of lands,
+31 pursuant to section 58-120, Idaho Code, to institute and prosecute civil en-
+32 forcement actions as provided in section 38-1220A, Idaho Code. In addition,
+33 when deemed by the chairman to be necessary, the chairman may retain private
+34 counsel or the office of the attorney general to institute and prosecute
+35 civil enforcement actions as provided in section 38-1220A, Idaho Code.
+36 (b) In addition to the above, any person who shall practice, or offer to
+37 practice log scaling in this state without being licensed, having a tempo-
+38 rary permit or being an apprentice, in accordance with the provisions of this
+39 act chapter or any rule, regulation, order, or license issued or promulgated
+40 thereunder, or any person who shall attempt to use an expired or revoked cer-
+41 tificate of registration or practice at any time during a period the board
+42 has suspended or revoked his certificate of registration, or any person who
+43 shall violate any of the provisions of this act chapter or any rule, regu-
+44 lation, order, or license issued or promulgated thereunder, shall be guilty
+45 of a misdemeanor, and shall, upon conviction, be sentenced to pay a fine of
+46 not less than one hundred dollars ($100) nor more than five hundred dollars
+47 ($500). A prosecution for a misdemeanor under this chapter must be commenced
+48 by the filing of the complaint or the finding of an indictment within two (2)
+49 years after its commission.
+
+9
+1 (c) The attorney general of this state or any assistant designated by
+2 him General counsel for the department of lands shall act as legal advisor of
+3 the board; and all criminal.
+4 (d) Criminal actions for violations of the provisions of this act
+5 chapter shall be prosecuted by the prosecuting attorney of the county or
+6 counties in which the violations of the act chapter may be committed.
+7 SECTION 9. That Section 38-1307, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 38-1307. NOTICE OF VIOLATION -- CEASE AND REPAIR ORDER -- STOP WORK OR-
+10 DER -- ENFORCEMENT PROCEDURES -- REMEDIES OF THE OPERATOR. (1) When the de-
+11 partment determines that an operator violated any provision of this chapter
+12 or rule, it shall issue a notice of violation. The notice shall specify the
+13 nature of the violation charged and any damage or unsatisfactory condition
+14 resulting from the violation.
+15 (2) When a notice of violation is issued under this section, the depart-
+16 ment:
+17 (a) May issue an order directing the operator immediately to cease
+18 further violation and to commence and continue repairing the damage or
+19 correcting the unsatisfactory condition, hereinafter referred to as a
+20 "cease and repair order".
+21 (b) If after two (2) working days from the delivery of a cease and repair
+22 order, the operator fails to cease further violation and to commence and
+23 continue repairing the damage or to enter into an agreement to repair
+24 pursuant to subsection (2)(d) of this section, in compliance with the
+25 order, the department may issue and serve an order directing the opera-
+26 tor to cease all forest practices within the contract area, hereinafter
+27 referred to as a "stop work order".
+28 (c) The department may initiate the remedies set forth in subsection
+29 (2)(e) of this section:
+30 1. At any time after delivery of the stop work order, if the opera-
+31 tor fails to immediately stop work in the contract area;
+32 2. After five (5) days from the delivery of the stop work order, if
+33 the operator fails to comply fully with the cease and repair order;
+34 or
+35 3. At any time after delivery of a notice of violation, if serious
+36 or irreparable damage will occur to land as a result of said viola-
+37 tion, notwithstanding any other provisions of this chapter.
+38 (d) An operator who has been served with a cease and repair order and
+39 who has completed his work in and removed all of his equipment from the
+40 contract area, or who cannot enter upon the land to repair the damage
+41 because of heavy snow, flooding, or similar serious condition upon the
+42 land, may comply with the order by entering into an agreement with the
+43 department to commence and thereafter continue to repair the damage
+44 within sixty (60) days after repair is practicable following heavy
+45 snow, flooding, or similar serious condition upon the land.
+46 (e) The department shall initiate the following remedies in accordance
+47 with subsection (2)(c) of this section:
+48 1. The department shall estimate the costs of repair of the damage
+49 and reasonable administrative and legal fees to be expended in ob-
+
+10
+1 taining a judgment against the operator, and shall notify the op-
+2 erator, timber owner, and landowner in writing of the amount of the
+3 estimate.
+4 2. The county attorney for the county where the contract area
+5 is situated or the attorney general general counsel for the de-
+6 partment of lands, pursuant to section 58-120, Idaho Code, shall
+7 file an action to enjoin the operator's violations and to recover
+8 the costs of repair and administrative and legal fees and/or to
+9 foreclose a lien against the operator as set forth in subsection
+10 (2)(e)3 of this section. Legal fees recovered in such an ac-
+11 tion shall accrue to the county attorney and the attorney general
+12 attorneys according to the proportionate time in which each has
+13 expended in obtaining the judgment.
+14 3. A priority lien shall attach to the real and personal property
+15 of the operator upon delivery to the operator of a stop work order
+16 for the amount not to exceed the estimated costs of repair and rea-
+17 sonable administrative and legal fees to be expended in foreclos-
+18 ing the lien. A written notice of the lien, containing a state-
+19 ment of the estimated costs of repair and reasonable administra-
+20 tive and legal fees, and the names of the parties against whom the
+21 lien attached, shall be certified under oath by the department and
+22 filed in the office of the county clerk and recorder of the county
+23 or counties where the real and personal property of the operator
+24 is located and where considered necessary to recover the estimated
+25 expenditures. This lien shall be perfected upon filing. This lien
+26 shall cease unless legal action is instituted within one (1) year
+27 from the date of filing of the notice of the lien.
+28 4. If the operator is a nonresident who does not own real prop-
+29 erty in Idaho, the department after hearing, may declare the oper-
+30 ator's bond forfeited or commence legal action against the bond to
+31 recover the costs of repair and reasonable administrative and le-
+32 gal fees.
+33 (3) An operator dissatisfied with a stop work order shall have thirty
+34 (30) days after service thereof to challenge the order, without administra-
+35 tive review thereof, in a court of proper jurisdiction in the county where
+36 the alleged damaged land is situated. In such an action the operator shall
+37 bear the burden of proving that the cease and repair order and the stop work
+38 order are without merit or basis; or shall have ten (10) days after service
+39 thereof to request a hearing before the board, to challenge the merit or ba-
+40 sis of either or both orders. In such an action, the operator shall bear the
+41 burden of proving that the cease and repair order and the stop work order are
+42 without merit or basis. If the board affirms the order(s), the operator may
+43 within thirty (30) days after the board's decision, appeal the decision to
+44 the district court for the county where the alleged damaged land is situated.
+45 The action in the district court shall be limited to appellate review.
+46 (4) If a nonresident operator who does not own real property in the
+47 state of Idaho performs forest practices without first submitting a bond in
+48 compliance with section 38-1306A, Idaho Code, or if an operator performs
+49 forest practices without first submitting notice to the department in com-
+50 pliance with section 38-1306, Idaho Code, the department may immediately
+
+11
+1 commence legal action to enjoin the operator by temporary restraining order
+2 or preliminary injunction, and evoke through the county attorney the misde-
+3 meanor penalties of section 38-1310, Idaho Code. The testimony under oath
+4 of a department employee or forester that a nonresident operator who does
+5 not own property in Idaho is performing forest practices without a bond or
+6 that an operator is performing forest practices without having first given
+7 notice to the department shall constitute prima facie evidence upon which,
+8 if unrebutted, a district court shall issue a temporary restraining order or
+9 a preliminary injunction against the operator, to cease all forest practices
+10 in the contract area until this act has been fully complied with.
+11 (5) Service of a notice or order under this section shall be made upon
+12 the operator or his agent, representative or contractor, by personal deliv-
+13 ery or certified mail.
+14 SECTION 10. That Section 47-314, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 47-314. OIL AND GAS CONSERVATION COMMISSION CREATED -- POWERS -- LIMIT
+17 ON LOCAL RESTRICTIONS -- ATTORNEY GENERAL GENERAL COUNSEL. (1) There is
+18 hereby created an oil and gas conservation commission of the state of Idaho
+19 within the department of lands. The commission shall consist of a county
+20 commissioner as described in this section and four (4) members appointed by
+21 the governor with the advice and consent of the senate.
+22 (a) The county commissioner shall be from a county where oil and gas
+23 are being produced or have been produced within the last ten (10) years
+24 and shall be elected by a majority of the county commissioners from such
+25 producing counties. The county commissioner shall serve a four (4) year
+26 term. A vacancy shall be filled by election for the unexpired term in
+27 the same manner provided for election to a full term.
+28 (b) The governor shall appoint four (4) members who shall serve at the
+29 pleasure of the governor. One (1) member shall be knowledgeable in oil
+30 and gas matters and shall have at least eight (8) years of experience
+31 in the oil and gas industry. One (1) member shall be a mineral inter-
+32 est owner without an oil and gas lease in a county where oil and gas have
+33 been produced. One (1) member shall be a resident of Idaho knowledge-
+34 able in land use matters and shall have at least five (5) years experi-
+35 ence in land use matters. The term of office of each appointed member of
+36 the commission shall be four (4) years. A vacancy shall be filled by ap-
+37 pointment for the unexpired term in the same manner provided for an ap-
+38 pointment to the full term.
+39 (2) The commission shall annually elect a chairman and a vice chairman
+40 from its membership. Such officers shall hold their respective offices un-
+41 til their successors are elected. If a vacancy occurs in either office, the
+42 commission shall elect a member to fill such office for the remainder of the
+43 term.
+44 (3) The commission shall meet at least annually and thereafter on dates
+45 set by the commission. A majority of the members shall constitute a quorum.
+46 (4) The members of the commission appointed by the governor or selected
+47 by the county commissioners shall be compensated as provided in section
+48 59-509(n), Idaho Code.
+
+12
+1 (5) The oil and gas administrator of the department of lands shall be
+2 the secretary for the commission.
+3 (6) The department of lands shall have the power to exercise, under the
+4 general control and supervision of the commission, all of the rights, pow-
+5 ers, and duties vested by law in the commission, except those provided in
+6 sections 47-328 and 47-329(3), Idaho Code.
+7 (7) The commission shall have and is hereby given jurisdiction and au-
+8 thority over all persons and property, public and private, necessary to en-
+9 force the provisions of this act and shall have power and authority to make
+10 and enforce rules, regulations, and orders and to do whatever may reasonably
+11 be necessary to carry out the provisions of this act. Any delegation of au-
+12 thority to any other state officer, board, or commission to administer any
+13 and all other laws of this state relating to the conservation of oil and gas
+14 is hereby rescinded and withdrawn and such authority is hereby unqualifiedly
+15 conferred upon the commission as herein provided. The commission shall fol-
+16 low procedures on applications as provided in section 47-328, Idaho Code,
+17 except as provided in sections 47-316(1)(a) and 47-329(3), Idaho Code.
+18 (8) It is the intent of the legislature to occupy the field of the regu-
+19 lation of oil and gas exploration and production with the limited exception
+20 of the exercise of planning and zoning authority granted cities and counties
+21 pursuant to chapter 65, title 67, Idaho Code.
+22 (9) To implement the purpose of the oil and gas conservation act, and
+23 to advance the public interest in the orderly development of the state's oil
+24 and gas resources, while at the same time recognizing the responsibility of
+25 local governments to protect the public health, safety, and welfare, it is
+26 herein provided that:
+27 (a) The commission will notify the respective city or county with ju-
+28 risdiction upon receipt of an application and will remit, electroni-
+29 cally, a copy of all application materials.
+30 (b) No ordinance, resolution, requirement, or standard of a city,
+31 county, or political subdivision, except a state agency with author-
+32 ity, shall actually or operationally prohibit the extraction of oil and
+33 gas; provided however, that extraction may be subject to reasonable
+34 local ordinance provisions, not repugnant to law, that protect public
+35 health, public safety, and public order or that prevent harm to public
+36 infrastructure or degradation of the value, use, and enjoyment of pri-
+37 vate property. Any ordinance regulating extraction enacted pursuant
+38 to chapter 65, title 67, Idaho Code, shall provide for administrative
+39 permitting under conditions established by ordinance, not to exceed
+40 twenty-one (21) days unless extended by agreement of the parties or upon
+41 good cause shown.
+42 (c) No ordinance, resolution, requirement, or standard of a city,
+43 county, or political subdivision, except a state agency with authority,
+44 shall actually or operationally prohibit construction or operation
+45 of facilities and infrastructure needed for the post-extraction pro-
+46 cessing and transport of gas and oil. However, such facilities and
+47 infrastructure shall be subject to local ordinances, regulations, and
+48 permitting requirements, not repugnant to law, as provided in chapter
+49 65, title 67, Idaho Code.
+
+13
+1 (10) The commission may sue and be sued in its administration of this act
+2 in any state or federal district court in the state of Idaho having jurisdic-
+3 tion of the parties or of the subject matter.
+4 (11) The attorney general general counsel for the department of lands,
+5 pursuant to section 58-120, Idaho Code, shall act as the legal advisor of
+6 the commission and represent the commission in all court proceedings, in
+7 all proceedings before the commission, and in any proceeding to which the
+8 commission may be a party before any department of the federal government.
+9 The commission may retain additional counsel to assist the attorney general
+10 general counsel and, for such purpose, may employ any funds available under
+11 this act.
+12 SECTION 11. That Section 47-718, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 47-718. VIOLATIONS -- REMEDIES -- PENALTIES. (1) In addition to any
+15 other penalties and remedies of this chapter and at law, any person, firm,
+16 or corporation who violates any provisions of this chapter or rules adopted
+17 pursuant thereto, or who fails to perform the duties imposed thereby, or who
+18 violates any determination or order thereunder or any violation of a lease
+19 granted under this chapter, the director of the department of lands may:
+20 (a) Proceed by legal action in the name of the state of Idaho, pursuant
+21 to section 58-120, Idaho Code, to enjoin the violation, by temporary re-
+22 straining order, preliminary injunction and/or permanent injunction.
+23 (i) The court, or a judge thereof at chambers, if satisfied from a
+24 verified complaint or by affidavit that the alleged violation has
+25 been or is being committed, may issue a temporary restraining or-
+26 der, without notice or bond, enjoining the defendant, his agents,
+27 employees, contractors and assigns from further violation, or
+28 from conducting exploration or mining on the state lands affected
+29 by the violation.
+30 (ii) The verified complaint or affidavit that the alleged viola-
+31 tion has been or is being committed shall constitute prima facie
+32 evidence of great or irreparable injury and/or great waste suffi-
+33 cient to support the temporary restraining order.
+34 (iii) The action shall thereafter proceed as in other cases for
+35 injunctions. If at the trial the violation is established, the
+36 court shall enter a decree perpetually enjoining said defendant,
+37 his agents, employees, contractors and assigns from thereafter
+38 committing said or similar violations.
+39 (b) Proceed by legal action in the name of the state of Idaho, pursuant
+40 to section 58-120, Idaho Code, to obtain an order requiring the opera-
+41 tor to promptly repair the damage and reclaim the state lands in accor-
+42 dance with the requirements of section 47-703A, Idaho Code, and rules
+43 adopted pursuant thereto. If thereafter the court finds that the opera-
+44 tor is not promptly complying with such order, the court shall order the
+45 operator to immediately pay an amount determined by the department to
+46 be the anticipated cost of reasonable repair and reclamation in accor-
+47 dance with section 47-703A(4), Idaho Code, and rules adopted pursuant
+48 thereto.
+
+14
+1 (c) Proceed to forfeit the operator's bond required by section
+2 47-703A(1), 47-704(6) or 47-708, Idaho Code. The board may cause to
+3 have issued and served upon the operator alleged to be committing such
+4 violation, a formal complaint which includes a statement of the man-
+5 ner in and the extent to which said operator is alleged to be violating
+6 the provisions of this act. Such complaint may be served by certified
+7 mail, and return receipt signed by the lessee, an officer of a corporate
+8 lessee, or the designated agent of the lessee shall constitute service.
+9 The lessee shall answer the complaint and request a hearing before a
+10 designated hearing officer within thirty (30) days from receipt of the
+11 complaint if matters asserted in the complaint are disputed. If the
+12 lessee fails to answer the complaint and request a hearing, the matters
+13 asserted in the complaint shall be deemed admitted by the lessee, and
+14 the board may proceed to forfeit the bond in the amount necessary to re-
+15 claim affected lands and pay for any outstanding royalties and related
+16 administrative costs. The director of the department of lands is empow-
+17 ered to issue subpoenas. The hearing shall be conducted in accordance
+18 with chapter 52, title 67, Idaho Code. The hearing officer shall enter
+19 an order in accordance with chapter 52, title 67, Idaho Code. Appeal to
+20 a district court shall be in accordance with chapter 52, title 67, Idaho
+21 Code.
+22 (d) Cancel the lease in accordance with section 47-707, Idaho Code.
+23 (2) In addition to the injunctive remedies of subsection (1)(a) of this
+24 section, the director may:
+25 (a) Proceed in the first instance by legal action in the name of the
+26 state of Idaho, pursuant to section 58-120, Idaho Code, to recover from
+27 an operator who, without bond, has conducted or is conducting explo-
+28 ration with heavy equipment on state lands, including lands between the
+29 ordinary high watermarks of navigable rivers, the cost of repairing
+30 damage to and reclaiming the affected state lands in accordance with
+31 section 47-703A(4), Idaho Code, and rules adopted pursuant thereto; or
+32 if the bond on file with the department of lands is not sufficient to
+33 adequately reclaim the affected state lands, to recover the cost in ex-
+34 cess of the bond to reclaim the affected state lands in accordance with
+35 section 47-703A(4), Idaho Code, and rules adopted pursuant thereto.
+36 (b) Proceed by legal action in the name of the state of Idaho, pursuant
+37 to section 58-120, Idaho Code, to recover from an operator who has re-
+38 moved minerals in commercial quantities from state lands, including
+39 lands between the ordinary high watermarks of navigable rivers, in vio-
+40 lation of the provisions of section 47-717, Idaho Code, damages in the
+41 amount of the prevailing royalty rate set by the board of land commis-
+42 sioners for the particular mineral removed plus interest from the date
+43 of removal at the legal rate of interest due on money judgments set by
+44 the Idaho state treasurer pursuant to section 28-22-104, Idaho Code,
+45 from the date of removal to judgment.
+46 (3) In addition to any other penalties or injunctive remedies of this
+47 chapter, any person, firm, or corporation who violates any of the provisions
+48 of this chapter or rules adopted pursuant thereto, or who fails to perform
+49 the duties imposed by these provisions, or who violates any determination or
+50 order promulgated pursuant to the provisions of this chapter, shall be li-
+
+15
+1 able to a civil penalty of not less than one hundred dollars ($100) nor more
+2 than one thousand dollars ($1,000) for each day during which any provision of
+3 this chapter, rule or order has been or is being violated. All sums recovered
+4 shall be credited to the general fund.
+5 (4) An appeal from a final judgment of the district court shall be taken
+6 in the manner provided by law for appeals in civil cases.
+7 SECTION 12. That Section 47-1317, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 47-1317. APPLICATION, PERMIT, AND BOND REQUIRED. (a) Before any per-
+10 son may conduct a placer or dredge mining operation on lands or natural wa-
+11 tercourses in the state of Idaho, such person shall file with the director
+12 an application for a permit upon a form provided by the director, and shall
+13 pay an application fee of fifty dollars ($50.00), for each ten (10) acres or
+14 fraction thereof above involved in such application, provided that no ap-
+15 plication fee shall exceed one thousand dollars ($1,000). Application fees
+16 shall be deposited in the dredge and placer mining account.
+17 (b) The permit to issue in any such case shall be in a form provided and
+18 approved by the board. No such permit shall be issued to any applicant until
+19 the applicant files with the director an initial bond in an amount necessary
+20 to pay the estimated reasonable costs of reclamation required under the per-
+21 mit for each acre of land to be disturbed during the first season of operation
+22 plus ten percent (10%). The amount of the bond shall not exceed one thou-
+23 sand eight hundred dollars ($1,800) per acre of disturbed land. At the be-
+24 ginning of each calendar year or before operations begin, the operator shall
+25 notify the director of any increase or decrease in the acreage of disturbed
+26 lands which will result from planned placer mining activity within the next
+27 operating season. A correlated increase or decrease in the bond shall be re-
+28 quired by the director for a change in disturbed acreage. In the event of
+29 failure by the permittee to reclaim disturbed lands in the permit area, the
+30 cost charged to the permittee shall be reasonable costs of reclamation plus
+31 ten percent (10%); provided that, in no event shall any bond submitted pur-
+32 suant to this section exceed one thousand eight hundred dollars ($1,800) for
+33 any given acre of disturbed land. The determination by the board of recla-
+34 mation costs shall constitute a final decision subject to judicial review
+35 as set forth in subsection (d) of section 47-1320, Idaho Code. The bond may
+36 be submitted in the form of a surety, cash, certificate of deposit, or other
+37 bond acceptable to the director, provided that any bond shall be in the ap-
+38 plicable amount set forth above.
+39 (c) It shall be unlawful for any person to conduct placer or dredge min-
+40 ing operations in this state without first having obtained a permit and bond
+41 as herein provided. The board shall determine whether a permit application
+42 and bond submitted by an applicant satisfies the requirements of this act
+43 chapter and regulations promulgated thereto. Upon such determination, the
+44 board shall notify the applicant in writing of approval or denial of the per-
+45 mit application and bond. Any notice of rejection shall state the reasons
+46 for such rejection. An applicant may submit an amended permit application
+47 and bond.
+48 (d) It shall be the duty of the board in its administration of this act
+49 chapter to cause periodic inspections to be made of the operations under such
+
+16
+1 permits to determine compliance with this law and to make rules and regula-
+2 tions with respect thereto and the cost and expense of making such inspec-
+3 tions shall be borne by the permittee, which such costs and expenses shall
+4 constitute a lien upon equipment, personal property, or real property of the
+5 permittee and upon minerals produced from the permit area, and the failure
+6 to pay the amount thereof on demand by the board shall be cause for termina-
+7 tion of the permit. All inspection fees shall be deposited in the dredge and
+8 placer mining account.
+9 (e) The board may release an applicant from the requirement that the ap-
+10 plicant submit a bond if the director determines that the applicant has in-
+11 sured faithful performance of the requirements of this act chapter and reg-
+12 ulations promulgated thereto pertinent to land and watercourse restoration
+13 by submitting and having on file a current and valid bond with the United
+14 States government, which bond equals or exceeds the amount set forth above,
+15 provided that such release by the director shall not release an applicant
+16 from bonding under this act chapter, should the permittee fail to continu-
+17 ously maintain a valid bond with the United States government or from compli-
+18 ance with any other requirement of this act chapter or regulations promul-
+19 gated thereto.
+20 (f) Upon determination by the director that restoration has been satis-
+21 factorily completed on a portion of a permit area in accordance with the ap-
+22 plicable approved permit and with subsection (a) of section 47-1314, Idaho
+23 Code, the board may reduce the bond amount to reflect the completed restora-
+24 tion.
+25 (g) That if If any applicant for such dredge or other placer mining op-
+26 erations as contemplated by this act chapter be not the owner of the lands de-
+27 scribed in the application or any part thereof, the owner of such lands shall
+28 indorse his approval of the application, and no permit shall be issued in the
+29 absence of such approval by the owner of lands described in the application
+30 not owned by the applicant.
+31 (h) No permit shall be issued proposing to alter or occupy the bed of a
+32 navigable stream or to dredge any stream or watercourse without notification
+33 to the director first notifying the department of water resources of the
+34 pending application. The department of water resources shall respond to
+35 said notification within twenty (20) days, and the response shall be in-
+36 cluded in any permit granted hereunder by a showing whether the permit
+37 constitutes a permit from the department of water resources or whether an
+38 additional permit from the department of water resources shall be required.
+39 (i) No permit shall issue hereunder to dredge nor otherwise placer
+40 mine any lands owned by the state of Idaho, including the beds of navigable
+41 streams, and including the mineral reservations in lands sold by the state,
+42 unless a mineral lease shall be made of such terms and at such royalty to the
+43 state as its board of state land commissioners shall prescribe and deter-
+44 mine.
+45 (j) The Idaho state board of land commissioners shall have the power to
+46 deny any application for a permit on state land, stream or river beds, or on
+47 any unpatented mining claims, upon its determination that a dredge mining
+48 operation on the land proposed would not be in the public interest, giving
+49 consideration to economic factors, recreational use for such lands, fish and
+50 wildlife habitat, and other factors which in the judgment of the state land
+
+17
+1 board may be pertinent, and may deny an application upon notification by the
+2 department of water resources that the grant of such permit would result in
+3 permanent damage to a stream channel.
+4 (k) Upon default, in the event that the amount of the bond is insuffi-
+5 cient to reclaim the land in compliance with the act this chapter and the ap-
+6 proved plan, the attorney general is empowered to commence legal action may
+7 be commenced, pursuant to section 58-120, Idaho Code, against the operator,
+8 in the name of the board, to recover the amount in excess of the bond neces-
+9 sary to reclaim the land in compliance with the act this chapter and the ap-
+10 proved plan.
+11 SECTION 13. That Section 47-1324, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 47-1324. ENFORCEMENT AND PENALTIES FOR VIOLATION. (a) The board may
+14 maintain an action in the name of the state of Idaho to enjoin any person from
+15 operating or maintaining a placer or dredge mining operation without hold-
+16 ing a valid permit or bond as provided in this act chapter or regulations
+17 promulgated thereto. The court, or a judge thereof at chambers, if satis-
+18 fied from a complaint or by affidavits that the alleged acts have been or
+19 are being committed, may issue a temporary restraining order, without no-
+20 tice or bond, enjoining the defendant, his agents and employees, from oper-
+21 ating or maintaining such placer or dredge mining operation without obtain-
+22 ing a permit and bond as provided in this act chapter or regulations promul-
+23 gated thereto. No showing of injury shall be required other than that this
+24 act chapter is being violated by the operation or maintenance of a placer or
+25 dredge mining operation without the approved permit and bond. Upon a show-
+26 ing of good cause therefor, the court may require the defendant to undertake
+27 mitigation or restoration of the disturbed area in conformity with section
+28 47-1314, Idaho Code, pending final disposition of the action. The action
+29 shall proceed as in other cases for injunctions. If at the trial the oper-
+30 ation and maintenance of a placer or dredge mining operation without a per-
+31 mit or bond be established, and the court further finds that it is probable
+32 that the defendant will continue therein or in similar violations, the court
+33 shall enter a decree perpetually enjoining said defendant, his agents and
+34 employees from thereafter committing said or similar actions in violation of
+35 this act chapter.
+36 (b) The board may maintain an action in the name of the state of Idaho
+37 to enjoin any person from operating or maintaining a placer or dredge mining
+38 operation when, under an existing approved permit and bond, a permittee vi-
+39 olates or exceeds the terms of the permit or violates a provision of this act
+40 chapter, and the bond, if forfeited, would not be sufficient to adequately
+41 restore the land.
+42 (c) In addition to the injunctive provisions above, the board may main-
+43 tain a civil action against any person who violates any provision of this act
+44 chapter to collect civil damages in an amount sufficient to pay for all the
+45 damages to the state caused by such violation, including but not limited to,
+46 costs of restoration in accordance with section 47-1314, Idaho Code, where
+47 a person is conducting placer or dredge mining without an approved permit or
+48 bond.
+
+18
+1 (d) Notwithstanding any other provisions of this act chapter, any per-
+2 son who violates any of the provisions of this act chapter or regulations
+3 promulgated thereto, or who violates any determination or order promul-
+4 gated pursuant to the provisions of this act chapter, shall be liable for
+5 a civil penalty of not less than five hundred dollars ($500) nor more than
+6 two thousand five hundred dollars ($2,500) for each day during which such
+7 violation continues. Such penalty shall be recoverable in an action brought
+8 in the name of the state of Idaho by the attorney general pursuant to section
+9 58-120, Idaho Code. All sums recovered shall be placed in the state treasury
+10 and credited to the dredge and placer mining account, to be administered by
+11 the board for the restoration of lands and watercourses damaged by placer or
+12 dredge mining operations.
+13 (e) No administrative action or decision by the director or board shall
+14 be required prior to enforcement of any of the above remedies, provided that
+15 no permit shall be terminated and no bond shall be forfeited without admin-
+16 istrative action as provided under sections 47-1318 and 47-1319, Idaho Code.
+17 No administrative action or decision by the Idaho board of health and welfare
+18 shall be required prior to enforcement of any of the above remedies by the
+19 state of Idaho against any person violating section 47-1315, Idaho Code.
+20 (f) Any person who wilfully or knowingly falsifies any records, plans,
+21 specifications, or other information required by the board or wilfully
+22 fails, neglects, or refuses to comply with any provisions of this act chapter
+23 shall be guilty of a misdemeanor punishable by a fine of not less than one
+24 thousand dollars ($1,000) and not more than five thousand dollars ($5,000)
+25 or imprisonment not to exceed one (1) year, or both.
+26 (g) All civil actions provided for in this section shall be filed in the
+27 district court of this state for the county wherein the violation, or some
+28 part thereof, occurs, or in the district court for the county wherein the
+29 defendant resides or has a principal place of business, or in the district
+30 court for the county of Ada if the defendant resides out-of-state, or in the
+31 appropriate court of the United States where the rules and statutes govern-
+32 ing such courts permit.
+33 SECTION 14. That Section 47-1513, Idaho Code, be, and the same is hereby
+34 amended to read as follows:
+35 47-1513. OPERATOR'S FAILURE TO COMPLY -- FORFEITURE OF FINANCIAL AS-
+36 SURANCE -- PENALTIES -- RECLAMATION FUND -- CYANIDATION CLOSURE FUND. (a)
+37 Whenever the board determines that an operator has not complied with the pro-
+38 visions of this chapter, the board may notify the operator of such noncompli-
+39 ance and may, by private conference, conciliation, and persuasion, endeavor
+40 to remedy such violation. In the event of a violation referred to in subsec-
+41 tions (d) and (e) of this section, the board may proceed without an adminis-
+42 trative action, hearing, or decision to exercise the remedies set forth in
+43 said subsections. Additionally, no administrative action, hearing, or de-
+44 cision shall be required from the Idaho board of environmental quality prior
+45 to the board proceeding under subsections (d) and (e) of this section. In the
+46 event of the failure of any conference, conciliation, and persuasion to rem-
+47 edy any alleged violation, the board may cause to have issued and served upon
+48 the operator alleged to be committing such violation a formal complaint that
+49 shall specify the provisions of this chapter that the operator allegedly is
+
+19
+1 violating and a statement of the manner in and the extent to which said op-
+2 erator is alleged to be violating the provisions of this chapter. Such com-
+3 plaint may be served by certified mail, and a. A return receipt signed by the
+4 operator, an officer of a corporate operator, or the designated agent of the
+5 operator shall constitute service. The operator shall answer the complaint
+6 and request a hearing before a designated hearing officer within thirty (30)
+7 days from receipt of the complaint if matters asserted in the complaint are
+8 disputed. If the operator fails to answer the complaint and request a hear-
+9 ing, the matters asserted in the complaint shall be deemed admitted by the
+10 operator, and the board may proceed to cancel the reclamation or permanent
+11 closure plan and forfeit the financial assurance in the amount necessary to
+12 reclaim affected lands or complete the permanent closure activities. Upon
+13 request for a hearing by an operator, the board shall schedule a hearing be-
+14 fore a hearing officer appointed by the board at a time not less than thirty
+15 (30) days after the date the operator requests a hearing. The board shall is-
+16 sue subpoenas at the request of the director of the department of lands and at
+17 the request of the charged operator, and the matter shall be otherwise han-
+18 dled and conducted in accordance with chapter 52, title 67, Idaho Code. The
+19 hearing officer shall, pursuant to said hearing, enter an order in accor-
+20 dance with chapter 52, title 67, Idaho Code, which, if adverse to the opera-
+21 tor, shall designate a time period within which corrective action should be
+22 taken. The time period designated shall be long enough to allow the opera-
+23 tor, in the exercise of reasonable diligence, to rectify any failure to com-
+24 ply designated in said order. In the event that the operator takes such ac-
+25 tion as is necessary to comply with the order within the time period desig-
+26 nated in said order, no further action shall be taken by the board to compel
+27 performance under the chapter.
+28 (b) Upon request of the board, the attorney general shall institute
+29 proceedings to have the financial assurance of an operator forfeited for the
+30 violation by the operator of an order entered pursuant to this section legal
+31 proceedings shall be initiated, pursuant to section 58-120, Idaho Code, to
+32 have an operator's financial assurance forfeited for a violation of an order
+33 entered pursuant to this chapter.
+34 (c) The forfeiture of such financial assurance shall fully satisfy
+35 all obligations of the operator to reclaim the affected land or complete
+36 permanent closure activities under the provisions of this chapter. If the
+37 violation involves an operator that has not furnished financial assurance
+38 required by this chapter, or an operator that is not required to furnish
+39 financial assurance pursuant to this chapter, or an operator who violates
+40 this chapter by performing an act not included in the original approved
+41 reclamation plan or the original approved permanent closure plan, and such
+42 departure from the plan is not subsequently approved, such operator shall
+43 be subject to a civil penalty for his failure to comply with such order in
+44 the amount determined by the board to be the anticipated cost of reason-
+45 able reclamation of affected lands or permanent closure of the cyanidation
+46 facility. Nothing in this subsection shall relieve the operator of any obli-
+47 gation, including the obligation to complete closure requirements, pursuant
+48 to a permit issued by the department of environmental quality under section
+49 39-118A, Idaho Code, or limit that department's authority to require compli-
+50 ance with such permit requirements.
+
+20
+1 (d) Notwithstanding any other provisions of this chapter, the board may
+2 commence an action without financial assurance or undertaking, in the name
+3 of the state of Idaho pursuant to section 58-120, Idaho Code, to enjoin any
+4 operator who is conducting operations without an approved plan required by
+5 section 47-1506, Idaho Code, or without the financial assurance required by
+6 this chapter. The court, or a judge thereof at chambers, if satisfied from
+7 the complaint or by affidavits that such acts have been or are being commit-
+8 ted, shall issue a temporary restraining order without notice or bond, en-
+9 joining the defendant, his agents, and employees from conducting such op-
+10 erations without said plan or bond. Upon a showing of good cause therefor,
+11 the temporary restraining order may require the defendant to perform recla-
+12 mation of the mined area in conformity with sections 47-1509 and 47-1510,
+13 Idaho Code, or to complete permanent closure activities, pending final dis-
+14 position of the action. The action shall then proceed as in other cases for
+15 injunctions. If it is established at trial that the defendant has operated
+16 without an approved plan or financial assurance, the court shall enter, in
+17 addition to any other order, a decree enjoining the defendant, his agents and
+18 employees from thereafter conducting such activities or similar actions in
+19 violation of this chapter. The board may, in conjunction with its injunc-
+20 tive procedures, proceed in the same or in a separate action to recover from
+21 an operator who is conducting mining or exploration operations or operating
+22 a cyanidation facility without the required plan or financial assurance, the
+23 cost of performing the reclamation activities required by sections 47-1509
+24 and 47-1510, Idaho Code, or the cost of permanent closure activities from any
+25 such operator who has not provided financial assurance to cover the cost of
+26 the required activities.
+27 (e) Notwithstanding any other provision of this chapter, the board may,
+28 without bond or undertaking and without any administrative action, hearing
+29 or decision, commence an action in the name of the state of Idaho (1) to legal
+30 action pursuant to section 58-120, Idaho Code, to: enjoin a permitted mining
+31 operation or cyanidation facility when, under an existing approved plan, an
+32 operator violates the terms of the plan and where immediate and irreparable
+33 injury, loss or damage may result to the state,; and (2) to recover the penal-
+34 ties and to collect civil damages provided for by law.
+35 (f) In addition to the procedures set forth in subsections (a), (d) and
+36 (e) of this section, and in addition to the civil penalty provided in subsec-
+37 tion (c) of this section, any operator who violates any of the provisions of
+38 this chapter or rules adopted pursuant thereto, or who fails to perform the
+39 duties imposed by these provisions, or who violates any determination or or-
+40 der promulgated pursuant to the provisions of this chapter, shall be liable
+41 to a civil penalty of not less than five hundred dollars ($500) nor more than
+42 two thousand five hundred dollars ($2,500) for each day during which such vi-
+43 olation continues, and in addition may be enjoined from continuing such vio-
+44 lation. Such penalties shall be recoverable in an action brought in the name
+45 of the state of Idaho by the attorney general pursuant to section 58-120,
+46 Idaho Code, in the district court for the county where the violation, or some
+47 part thereof, occurs, or in the district court for the county wherein the de-
+48 fendant resides.
+49 (1) All sums recovered related to the reclamation provisions of this
+50 chapter shall be placed in the state treasury and credited to the min-
+
+21
+1 ing reclamation fund, which is hereby created, to be used to reclaim af-
+2 fected lands and to administer the reclamation provisions of this chap-
+3 ter.
+4 (2) All sums recovered related to the cyanidation facility closure pro-
+5 visions of this chapter shall be placed in the state treasury and cred-
+6 ited to the cyanidation facility closure fund, which is hereby created.
+7 Moneys in the fund may be expended pursuant to appropriation and used to
+8 complete permanent closure activities and to administer the permanent
+9 closure provisions of this chapter.
+10 (g) Any person who willfully and knowingly falsifies any records, in-
+11 formation, plans, specifications, or other data required by the board or
+12 willfully fails, neglects, or refuses to comply with any of the provisions of
+13 this chapter shall be guilty of a misdemeanor and shall be punished by a fine
+14 of not less than one thousand dollars ($1,000) and not more than five thou-
+15 sand dollars ($5,000) or imprisonment not to exceed one (1) year, or both.
+16 (h) Reclamation plans approved by the board as of July 1, 2019, shall be
+17 deemed to be in full compliance with the requirements of this chapter.
+18 SECTION 15. That Section 58-120, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 58-120. GENERAL COUNSEL TO REPRESENT THE DEPARTMENT OF LANDS. (1)
+21 Counsel to the department of lands shall be provided by an attorney hired
+22 by the director of the department of lands subject to approval by the state
+23 land board. Such counsel shall be independent of the office of the attorney
+24 general but may consult with the office of the attorney general as determined
+25 by the counsel. Such counsel shall be The director of the department of lands
+26 shall hire a licensed attorney, subject to approval by the state board of
+27 land commissioners, who shall be known and designated the as general counsel
+28 for the department of lands.
+29 (2) General counsel shall:
+30 (a) Provide all legal services for the department and represent the de-
+31 partment in all courts and before all administrative tribunals or bod-
+32 ies of any nature;
+33 (b) Upon the request of the board, provide all legal services for the
+34 board and represent the board in all courts and before all administra-
+35 tive tribunals or bodies of any nature; and
+36 (c) Be independent from the office of the attorney general but may con-
+37 sult or contract with the office of the attorney general, as is deter-
+38 mined to be necessary by general counsel.
+39 (2) (3) General counsel may hire employ additional attorneys or con-
+40 tract with the office of the attorney general as necessary. Nothing in this
+41 section shall preclude the department of lands from hiring counsel separate
+42 from the general counsel, as is necessary, to effectuate the purposes of this
+43 section.
+44 (4) The director or general counsel may contract with and designate
+45 outside, private counsel in any matter in which general counsel is autho-
+46 rized to provide representation to the director, department, or board.
+47 (5) Nothing in this section shall preclude the director from hiring
+48 counsel separate from general counsel.
+
+22
+1 SECTION 16. That Section 58-312, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 58-312. OCCUPATION OF LAND WITHOUT LEASE -- PENALTY -- SUIT FOR CIVIL
+4 DAMAGES. All persons using or occupying any state land without a lease from
+5 the state, and all persons who shall use or occupy state lands for more than
+6 thirty (30) days after the cancellation or expiration of a lease, shall be
+7 regarded as trespassers, and upon conviction shall be fined in a sum of not
+8 less than twenty-five dollars ($25.00) nor more than $500 five hundred dol-
+9 lars ($500), or shall be punished by imprisonment in the county jail for a
+10 term of not to exceed six (6) months, or by both such fine and imprisonment.
+11 Any criminal suit under this section may be instituted by any person against
+12 any trespasser, and regardless of the fact whether or not the said land is un-
+13 der lease to any person other than the trespasser, and in case of a lessee,
+14 the sureties of his bond shall be liable to a civil suit for all damages sus-
+15 tained by the state by reason of the trespass. Any suit for civil damages
+16 against a trespasser, may be instituted by the pursuant to section 58-120,
+17 Idaho Code, or by the office of the attorney general in the name of the state,
+18 or in the event the land trespassed upon is leased, such suit for civil dam-
+19 ages may be brought by the lessee in his own name: provided further, it, pro-
+20 vided that, it shall be the duty of the prosecuting attorney to commence and
+21 prosecute all criminal actions under this section, arising in his county.
+22 SECTION 17. That Section 58-1308, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 58-1308. PENALTY FOR VIOLATION -- INJUNCTIVE RELIEF. (1) Any person
+25 who violates any of the provisions of this chapter or any valid and autho-
+26 rized regulation, rule, permit, or order of the board, or, where notified by
+27 personal service or certified mail of such violation and thereafter fails to
+28 cease and desist therein or obey an order of the board within the time pro-
+29 vided in such notification or within thirty (30) days of service of such no-
+30 tice if not otherwise provided, shall be subject to a civil penalty of not
+31 less than one hundred fifty dollars ($150) nor more than two thousand five
+32 hundred dollars ($2,500). Such civil penalty may be assessed by the board
+33 in conjunction with any other administrative action; provided, that no civil
+34 penalty shall be assessed unless the person was given notice and opportunity
+35 for a hearing pursuant to the administrative procedure act as set forth in
+36 chapter 52, title 67, Idaho Code. The board shall have authority and it shall
+37 be its duty to seek injunctive relief from the appropriate district court to
+38 restrain any person from encroaching on, in, or above the beds or waters of a
+39 navigable lake until approval therefor has been obtained as provided in this
+40 chapter.
+41 (2) In addition to the civil penalty set forth in subsection (1) of this
+42 section, any person who violates any of the provisions of this chapter or any
+43 valid and authorized regulation, rule, permit, or order of the board, and
+44 the violation causes harm to water quality, fisheries, or other public trust
+45 values, shall be liable for a civil penalty not to exceed ten thousand dol-
+46 lars ($10,000) per violation or one thousand dollars ($1,000) for each day of
+47 a continuing violation, whichever is greater. The method of recovery of said
+48 penalty shall be by a civil enforcement action in the district court in and
+
+23
+1 for the county where the violation occurred. Parties to an administrative
+2 enforcement action may agree to a civil penalty as provided in this subsec-
+3 tion.
+4 (3) In addition to such civil penalties, any person who has been deter-
+5 mined to have violated the provisions of this chapter or any valid and autho-
+6 rized regulation, rule, permit, or order of the board, shall be liable for
+7 any expense incurred by the state in enforcing the chapter, or in enforcing
+8 or terminating any nuisance, source of environmental degradation, cause of
+9 sickness or health hazard.
+10 (4) No action taken pursuant to the provisions of this chapter or of any
+11 other environmental protection law shall relieve any person from any civil
+12 action and damages that may exist for injury or damage resulting from any vi-
+13 olation of this chapter or any valid and authorized regulation, rule, per-
+14 mit, or order of the board.
+15 (5) Any legal action necessary to administer or enforce the provisions
+16 of this chapter shall be initiated pursuant to section 58-120, Idaho Code.
+17 SECTION 18. That Section 67-1406, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 67-1406. EMPLOYMENT OF ATTORNEYS RESTRICTED -- EXEMPTIONS. Notwith-
+20 standing any other provision of law to the contrary, no department, agency,
+21 office, officers, board, commission, institution or other state entity
+22 shall be represented by or obtain its legal advice from an attorney at law
+23 other than the attorney general, except as follows:
+24 (1) The legislative and judicial branches of government and the gover-
+25 nor may employ attorneys other than those under the supervision of the attor-
+26 ney general, and such attorneys may appear in any court. However, such enti-
+27 ties may, upon request, utilize the attorney general's legal services.
+28 (2) Those state entities within the department of self-governing agen-
+29 cies that are enumerated in section 67-2601(2)(a), (b), (g), (h), and (i),
+30 Idaho Code, the department of lands, the state board of land commissioners,
+31 and colleges and universities may employ private counsel to advise them and
+32 represent them before courts of the state of Idaho. Such entities may also
+33 obtain legal services from the attorney general on such terms as the parties
+34 may agree.
+35 (3) Whenever the attorney general determines that it is necessary or
+36 appropriate in the public interest, the attorney general may authorize con-
+37 tracts for legal services pursuant to the provisions of section 67-1409,
+38 Idaho Code.
+39 (4) The provisions of section 67-1401, Idaho Code, shall govern the
+40 normal relationship between the attorney general and the state entities in
+41 the executive branch of state government. However, if after consultation
+42 with the attorney general the governor determines in his sole judgment,
+43 which shall not be subject to judicial review, that counsel assigned to rep-
+44 resent or give legal advice to any state entity, other than the lieutenant
+45 governor, state controller, state treasurer, secretary of state, attorney
+46 general, and the superintendent of public instruction, cannot effectively
+47 advocate or pursue the policies of the governor, the governor shall request
+48 that other counsel be provided by the attorney general, and the attorney gen-
+49 eral shall provide from within the office of the attorney general or obtain
+
+24
+1 from outside the office of the attorney general, depending on the request of
+2 the governor, qualified counsel acceptable to the governor to represent such
+3 state entity.
+4 (5) Any separate counsel employed pursuant to the foregoing exceptions
+5 shall be compensated with funds appropriated to such state entity, unless
+6 such separate counsel shall have been employed at the request or convenience
+7 of the attorney general or because of a conflict in representation by the at-
+8 torney general.
+9 SECTION 19. An emergency existing therefor, which emergency is hereby
+10 declared to exist, this act shall be in full force and effect on and after
+11 July 1, 2026.

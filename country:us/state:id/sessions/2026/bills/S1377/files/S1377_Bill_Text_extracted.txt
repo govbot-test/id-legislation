@@ -1,0 +1,58 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1377
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC NOTICES; AMENDING CHAPTER 1, TITLE 60, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 60-106B, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 ALLOWING CERTAIN GOVERNMENTAL ENTITIES TO PUBLISH ABBREVIATED PUBLIC
+5 NOTICES IN NEWSPAPERS IN LIEU OF FULL PUBLIC NOTICES AND REQUIRING CER-
+6 TAIN GOVERNMENTAL ENTITIES TO PUBLISH FULL PUBLIC NOTICES ON THE NEWS-
+7 PAPER ASSOCIATION OF IDAHO'S WEBSITE FOR PUBLIC NOTICES; AND DECLARING
+8 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 1, Title 60, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 60-106B, Idaho Code, and to read as follows:
+13 60-106B. PUBLICATION OF NOTICES -- ABBREVIATED NOTICES ALLOWED. (1)
+14 Notwithstanding any other provision of law to the contrary, any county,
+15 city, or school district board of trustees required or provided by the laws
+16 of the state of Idaho to publish legal notices, advertisements, or publica-
+17 tions of any kind in a newspaper of general circulation in accordance with
+18 section 60-106, Idaho Code, may elect to have an abbreviated version of such
+19 notice published in accordance with the provisions of this section. The
+20 abbreviated public notice shall include, at a minimum:
+21 (a) The name of the governmental entity issuing the public notice;
+22 (b) A title and description of the contents of the public notice suffi-
+23 cient to inform the public of such contents;
+24 (c) The date, time, and location of any meeting, hearing, or action, if
+25 applicable; and
+26 (d) Either an internet link to the website address where the full public
+27 notice can be found or a quick response code that links to the website
+28 address where the full public notice can be found, or both.
+29 (2) If all requirements of subsection (1) of this section are met, an
+30 abbreviated public notice published pursuant to this section shall have the
+31 same legal force and effect as full public notices published in a newspaper
+32 pursuant to section 60-106, Idaho Code.
+33 (3) Nothing in this section prevents a county, city, or school district
+34 board of trustees from electing to publish a full public notice in a newspa-
+35 per of general circulation.
+36 (4) Whether a county, city, or school district board of trustees elects
+37 to publish an abbreviated public notice or a full public notice in a newspa-
+38 per of general circulation, such entity shall send to the newspaper a copy of
+39 the full, unabbreviated public notice to be electronically published on the
+40 public notices website of the newspaper association of Idaho.
+
+2
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 September 1, 2026.

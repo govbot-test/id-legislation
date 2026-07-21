@@ -1,0 +1,113 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1312
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PUBLIC ASSISTANCE; AMENDING SECTION 56-265, IDAHO CODE, TO RE-
+3 VISE PROVISIONS REGARDING PROVIDER PAYMENT; PROVIDING THAT CERTAIN AD-
+4 MINISTRATIVE RULES CONTAINED IN IDAPA 16.03.26 SHALL BE NULL, VOID, AND
+5 OF NO FORCE AND EFFECT; AND DECLARING AN EMERGENCY.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 56-265, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 56-265. PROVIDER PAYMENT. (1) Where there is an equivalent, the pay-
+10 ment to medicaid providers:
+11 (a) May be up to but shall not exceed one hundred percent (100%) of the
+12 current medicare rate for primary care procedure codes as defined by the
+13 centers for medicare and medicaid services; and
+14 (b) Shall be ninety percent (90%) of the current medicare rate for all
+15 other procedure codes.
+16 (2) Where there is no medicare equivalent, the payment rate to med-
+17 icaid providers shall be prescribed by rule. All home and community-based
+18 services without a medicare equivalent rate shall be cost-surveyed annu-
+19 ally with fifteen percent (15%) or more of responses being audited. The
+20 department shall use information from the cost surveys and other sources
+21 to evaluate rate adequacy. Payment rates shall be developed to include
+22 allocations to direct care worker wages, employee-related expenses, pro-
+23 gram-related expenses, and general and administrative costs.
+24 (a) On an annual basis, providers are required to expend at least the
+25 amount allocated to direct care worker wages and employee-related ex-
+26 penses to these categories.
+27 (b) Failure of the provider to meet the requirement in paragraph (a) of
+28 this subsection may result in a department-approved corrective action
+29 plan, closure of intake, or termination of the provider agreement.
+30 (c) The department shall summarize this audited cost survey work by
+31 provider type and service in a publicly available report no later than
+32 December 31 of each calendar year.
+33 (3) Notwithstanding any other provision of this chapter, if the
+34 services are provided by a private, freestanding mental health hospital
+35 facility that is an institution for mental disease as defined in 42 U.S.C.
+36 1396d(i), the department shall reimburse for inpatient services at a rate
+37 not to exceed ninety-one percent (91%) of the current medicare rate within
+38 federally allowed reimbursement under the medicaid program. The reimburse-
+39 ment provided for in this subsection shall be effective until July 1, 2021.
+40 (4) The department shall, through the annual budget process, include
+41 a line-item request for adjustments to provider rates. All changes to
+
+2
+1 provider payment rates shall be subject to approval of the legislature by
+2 appropriation.
+3 (5) Notwithstanding any other provision of this chapter, the depart-
+4 ment may enter into agreements with providers to pay for services based on
+5 their value in terms of measurable health care quality and positive impacts
+6 to participant health.
+7 (a) Any such agreement shall be designed to be cost-neutral or cost-
+8 saving compared to other payment methodologies.
+9 (b) The department is authorized to pursue waiver agreements with the
+10 federal government as needed to support value-based payment arrange-
+11 ments, up to and including fully capitated provider-based managed care.
+12 (c) Beginning with the 2024 performance period and for all future per-
+13 formance periods thereafter, federally qualified health centers and
+14 any organization owned and controlled by a federally qualified health
+15 center shall be exempt from any financial risk in value-based payment
+16 agreements created pursuant to this section.
+17 (6) Medicaid reimbursement for critical access, out-of-state, and
+18 state-owned hospitals shall be as follows:
+19 (a) In-state, critical access hospitals as designated according to 42
+20 U.S.C. 1395i-4(c)(2)(B) shall be reimbursed at one hundred one percent
+21 (101%) of cost;
+22 (b) Out-of-state hospitals shall be reimbursed at eighty-seven percent
+23 (87%) of cost;
+24 (c) State-owned hospitals shall be reimbursed at one hundred percent
+25 (100%) of cost; and
+26 (d) Out-of-state hospital institutions for mental disease as defined
+27 in 42 U.S.C. 1396d(i) shall be reimbursed at a per diem equivalent to
+28 ninety-five percent (95%) of cost.
+29 (7) The department shall equitably reduce net reimbursements for all
+30 hospital services, including in-state institutions for mental disease but
+31 excluding all hospitals and institutions described in subsection (6) of
+32 this section, by amounts targeted to reduce general fund needs for hospital
+33 payments by three million one hundred thousand dollars ($3,100,000) in state
+34 fiscal year 2020 and eight million seven hundred twenty thousand dollars
+35 ($8,720,000) in state fiscal year 2021.
+36 (8) The department shall work with all Idaho hospitals, including in-
+37 stitutions for mental disease as defined in 42 U.S.C. 1396d(i), to establish
+38 value-based payment methods for inpatient and outpatient hospital services
+39 to replace existing cost-based reimbursement methods for in-state hospi-
+40 tals, other than those hospitals and institutions described in subsection
+41 (6) of this section, effective July 1, 2021. Budgets for hospital payments
+42 shall be subject to prospective legislative approval.
+43 (9) The department shall work with Idaho hospitals to establish a
+44 quality payment program for inpatient and outpatient adjustment payments
+45 described in section 56-1406, Idaho Code. Inpatient and outpatient adjust-
+46 ment payments shall be subject to increase or reduction based on hospital
+47 service quality measures established by the department in consultation with
+48 Idaho hospitals.
+49 SECTION 2. The rules contained in IDAPA 16.03.26, Department of Health
+50 and Welfare, relating to Medicaid Plan Benefits, Section 051.; and Section
+
+3
+1 052., shall be null, void, and of no force and effect on and after July 1,
+2 2026.
+3 SECTION 3. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after its
+5 passage and approval.

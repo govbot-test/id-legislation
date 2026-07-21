@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1344
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO LEGISLATIVE AUTHORITY; AMENDING SECTION 56-202, IDAHO CODE,
+3 TO REVISE PROVISIONS REGARDING THE DUTIES OF THE DIRECTOR OF THE STATE
+4 DEPARTMENT OF HEALTH AND WELFARE; AMENDING SECTION 56-203, IDAHO CODE,
+5 TO REVISE PROVISIONS REGARDING THE POWERS OF THE STATE DEPARTMENT OF
+6 HEALTH AND WELFARE; AMENDING CHAPTER 10, TITLE 56, IDAHO CODE, BY THE
+7 ADDITION OF A NEW SECTION 56-1011, IDAHO CODE, TO ESTABLISH PROVISIONS
+8 REGARDING A REPORT ON PROGRAMS AND AUTHORITY; AMENDING SECTION 67-3516,
+9 IDAHO CODE, TO REVISE PROVISIONS REGARDING APPROPRIATIONS ACTS; AND
+10 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 56-202, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 56-202. DUTIES OF DIRECTOR OF STATE DEPARTMENT OF HEALTH AND WEL-
+15 FARE. (1) The director of the state department of health and welfare shall:
+16 (a) Administer public assistance and social services to eligible peo-
+17 ple;
+18 (b) Promulgate, adopt and enforce such rules and such methods of admin-
+19 istration as may be necessary or proper to carry out the provisions of title
+20 56, Idaho Code, except as provided in section 56-203A, Idaho Code;
+21 (c) Conduct research and compile statistics relating to public wel-
+22 fare;
+23 (d) Prepare for the governor and legislature an annual report of activ-
+24 ities and expenditures; make such reports in such form and containing such
+25 information as the federal government may from time to time require; and com-
+26 ply with such provisions as the federal government may from time to time find
+27 necessary to assure the correctness and verification of such reports;
+28 (e) Cooperate with the federal government through its appropriate
+29 agency or instrumentality in establishing, extending, and strengthening
+30 services for the protection and care of homeless, dependent, and neglected
+31 children, and children in danger of becoming delinquent; and to undertake
+32 other services for children authorized by law;
+33 (f) Cooperate with the federal government through its appropriate
+34 agency or instrumentality in establishing and maintaining a comprehensive
+35 system of in-home services as defined in section 67-5006, Idaho Code, de-
+36 signed to assist older persons, as defined in section 67-5006, Idaho Code,
+37 of Idaho to continue living in an independent and dignified home environment
+38 and to undertake other services for older persons as authorized by law;
+39 (g) Exercise the opt-out provision in section 115 of the personal re-
+40 sponsibility and work opportunity reconciliation act of 1996, P.L. 104-193.
+41 Consistent with this, the department may provide food stamps and services
+42 funded under title 4A (including cash assistance, TANF supportive services
+
+2
+1 and at-risk payments) to a person who has been convicted of a felony involv-
+2 ing a controlled substance as defined in chapter 27, title 37, Idaho Code, if
+3 they comply with the terms of a withheld judgment, probation or parole.
+4 (2) No later than July 1, 2028, the director shall complete the dis-
+5 continuation of any program or service not expressly authorized by Idaho
+6 Code. The director shall continuously monitor all department programs and
+7 services to ensure statutory compliance and shall cease all new expenditures
+8 for and complete the discontinuation of any program or service found to be
+9 not expressly authorized by Idaho Code within sixty (60) days of such find-
+10 ing.
+11 (3) If the department expends funds for a program or service found to be
+12 not expressly authorized by Idaho Code, the state controller shall:
+13 (a) Immediately revoke the spending authority and revert all unex-
+14 pended balances to the fund of origin upon a legal determination of a
+15 lack of authorization;
+16 (b) Reduce the department's maintenance appropriation for the follow-
+17 ing fiscal year by the total amount of any funds, regardless of fund
+18 source, disbursed for the unauthorized program or service prior to its
+19 revocation; and
+20 (c) Certify the amount of the unauthorized expenditure to the joint fi-
+21 nance-appropriations committee of the legislature no later than Jan-
+22 uary 15 of each year.
+23 SECTION 2. That Section 56-203, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 56-203. POWERS OF STATE DEPARTMENT. The state department shall have
+26 the power to:
+27 (1) Enter When authorized by Idaho Code, enter into contracts and
+28 agreements with the federal government through its appropriate agency
+29 or instrumentality whereby the state of Idaho shall receive federal
+30 grants-in-aid or other benefits for public assistance or public welfare pur-
+31 poses under any act or acts of congress heretofore or hereafter enacted;
+32 (2) Cooperate with the federal government in carrying out the purposes
+33 of any federal acts or programs authorized by Idaho Code pertaining to public
+34 assistance or welfare services, and in other matters of mutual concern;
+35 (3) Cooperate with county governments and other branches of government
+36 and other agencies, public or private, in administering and furnishing pub-
+37 lic welfare services authorized by Idaho Code;
+38 (4) Enter into reciprocal agreements with other states relative to the
+39 provisions of public assistance and welfare services to residents and non-
+40 residents;
+41 (5) Initiate and administer public assistance and social services
+42 authorized by Idaho Code for persons with physical or mental disabilities;
+43 (6) Establish such requirements of residence for public assistance un-
+44 der this chapter as may be deemed advisable, subject to any limitations im-
+45 posed in this chapter, including the requirements of lawful presence pur-
+46 suant to section 67-7903, Idaho Code;
+47 (7) Define persons entitled to medical assistance in such terms as will
+48 meet requirements for federal financial participation in medical assistance
+49 payments;
+
+3
+1 (8) Accept the legal custody of children committed to it by district
+2 courts of this state under the child protective act, to provide protective
+3 supervision as defined therein, to place children for adoption when such
+4 children are in the legal custody of the state department and are legally
+5 available for adoption, and to exercise consent to adoption when the author-
+6 ity to do so is vested in the department by court order or legally authorized
+7 parental relinquishment;
+8 (9) Determine the amount, duration and scope of care and services to be
+9 purchased as medical assistance on behalf of needy eligible individuals;
+10 (10) Manage and operate the southwest Idaho treatment center at Nampa,
+11 Idaho; and
+12 (11) Manage and operate state hospital north at Orofino, Idaho; state
+13 hospital south at Blackfoot, Idaho; and state hospital west at Nampa, Idaho.
+14 SECTION 3. That Chapter 10, Title 56, Idaho Code, be, and the same is
+15 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+16 ignated as Section 56-1011, Idaho Code, and to read as follows:
+17 56-1011. REPORT ON PROGRAMS AND AUTHORITIES. The department shall
+18 submit a report to the health and welfare committees of the Idaho house of
+19 representatives and the Idaho senate no later than December 1, 2026, con-
+20 taining a comprehensive list of all programs operated or managed by the
+21 department and the corresponding statutory authority that creates or other-
+22 wise authorizes the program.
+23 SECTION 4. That Section 67-3516, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 67-3516. APPROPRIATION ACTS DEEMED FIXED BUDGETS -- RATE OF EXPENDI-
+26 TURE. (1) Appropriation acts when passed by the legislature of the state of
+27 Idaho, and spending authority made thereunder, whether the appropriation is
+28 fixed or continuing, are fixed budgets beyond which state officers, depart-
+29 ments, bureaus, and institutions may not expend.
+30 (2) Moneys available to any agency from sources other than state mon-
+31 eys, if not cognizable at the time when appropriations were made whether
+32 state fiscal liability is increased or not, must have prior approval of the
+33 administrator of the division of financial management and the board of ex-
+34 aminers in order that moneys may be expended, except those moneys received
+35 under such conditions that preclude approval by the administrator of the
+36 division and/or the board of examiners. Receipts from the sale of capital
+37 outlay items and insurance claim settlements may, with the approval of the
+38 division of financial management, be included as an increase to an agency's
+39 appropriation and must be identified at an account category level. Expendi-
+40 ture of such receipts must be for capital outlay items, except in the case of
+41 a sale of a motor vehicle, which, notwithstanding section 67-3511(3), Idaho
+42 Code, may be transferred to operating expenditures with the approval of the
+43 division of financial management.
+44 (3) One state agency may bill another state agency for goods and ser-
+45 vices, provided the billing agency receives prior approval in writing from
+46 the billed agency or such billing is provided for by law. This process will
+47 be known as interagency billing to which the following rules will apply:
+
+4
+1 (a) The state controller will treat interagency receipts as revenue and
+2 not classify such revenue as a reduction of the expenditures of the re-
+3 ceiving agency. Interagency billing credits for all moneys shall be de-
+4 posited to the appropriate fund of that agency.
+5 (b) Interagency receipts may be expended by the collecting agency to
+6 the extent that authority to do so has been requested and approved by the
+7 legislature through an appropriation.
+8 (c) The agency billed for the goods and services shall classify, treat,
+9 and account for such expenses in the same manner as if such expenses had
+10 been paid by warrant and may encumber unexpended balances and may carry
+11 forward the encumbered appropriation to liquidate known or anticipated
+12 interagency billing expenses at the end of a fiscal year. The state
+13 controller shall provide for the method of liquidation of these encum-
+14 brances.
+15 (4) State agencies selling goods, products, and services to another
+16 state agency must use the interagency process detailed by subsection (3) of
+17 this section. State agencies, departments, and institutions may sell goods,
+18 products, and services to the public and/or other political entities. These
+19 cash receipts may be expended according to the following rules:
+20 (a) The state controller will classify these moneys as receipts.
+21 (b) Receipts for all moneys shall be deposited to the appropriate fund
+22 of that agency.
+23 (c) The collecting agency may expend all such receipts only to the ex-
+24 tent that authority to do so has been requested and approved by the leg-
+25 islature through an appropriation, except receipts received by agen-
+26 cies under the circumstances cited in subsection (2) of this section.
+27 (5) No appropriation act shall be construed to create, extend, or imply
+28 independent authorization in Idaho Code for any program, service, or activ-
+29 ity. Every appropriation is contingent on such express authorization as may
+30 be required by the specific title of Idaho Code governing the appropriating
+31 agency.
+32 SECTION 5. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after
+34 July 1, 2026.

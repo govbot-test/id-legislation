@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 927
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO TRAFFIC INFRACTIONS; AMENDING SECTION 49-328, IDAHO CODE, TO
+3 PROVIDE FOR REINSTATEMENT OF A DRIVER'S LICENSE THAT HAS BEEN SUS-
+4 PENDED; AMENDING CHAPTER 15, TITLE 49, IDAHO CODE, BY THE ADDITION OF
+5 A NEW SECTION 49-1505, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+6 SUSPENSION OF DRIVER'S LICENSES AND PRIVILEGES FOR FAILURE TO PAY UN-
+7 DERLYING TRAFFIC INFRACTION PENALTIES AND TO PROVIDE FOR APPEALS; AND
+8 DECLARING AN EMERGENCY.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 49-328, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 49-328. REINSTATEMENT OF REVOKED, DISQUALIFIED OR SUSPENDED DRIVER'S
+13 LICENSE -- FEE -- WHEN REINSTATEMENT PROHIBITED. (1) When the period of re-
+14 vocation, disqualification or suspension of a driver's license has expired,
+15 or the reason for the revocation, disqualification or suspension no longer
+16 exists, the department shall reinstate the driver's license or driving priv-
+17 ileges on application of the driver.
+18 (2) The application shall be in the form prescribed by the department
+19 and accompanied by a reinstatement fee of twenty-five dollars ($25.00) which
+20 shall be deposited in the state highway account.
+21 (3) A driver's license shall not be suspended for failure to pay an in-
+22 fraction penalty. All driver's licenses suspended prior to July 1, 2018, for
+23 failure to pay an infraction penalty shall be reinstated upon application
+24 and without charge to the applicant. A driver's license that has been sus-
+25 pended pursuant to section 49-1505, Idaho Code, for failure to pay an infrac-
+26 tion penalty shall not be reinstated until the licensee provides proof that
+27 the infraction penalty has been paid to the court.
+28 (4) In addition to any other fees required in this section to be col-
+29 lected, the department shall collect sixty dollars ($60.00) for reinstating
+30 a driver's license after conviction for driving under the influence, without
+31 privileges, and after conviction or other violation of any other traffic-re-
+32 lated misdemeanor or infraction, of which fees forty dollars ($40.00) shall
+33 be paid over to the county treasurer of the county in which the conviction
+34 occurred for support of that county's justice fund, or the current expense
+35 fund if no county justice fund has been established, and the twenty dollars
+36 ($20.00) shall be deposited in the state highway account.
+37 (5) In addition to any other fees required in this section to be col-
+38 lected, the department shall collect two hundred dollars ($200) for rein-
+39 stating a driver's license after a suspension imposed under the provisions
+40 of section 18-8002 or section 18-8002A, Idaho Code, or after a revocation,
+41 disqualification or suspension arising out of any alcohol or drug-related
+42 offense, other than a suspension imposed upon a person under eighteen (18)
+
+2
+1 years of age pursuant to section 18-1502(d), Idaho Code. Funds collected
+2 pursuant to this subsection shall be deposited in the state highway account.
+3 (6) When there is more than one (1) reason why a driver's license was re-
+4 voked or suspended or why a driver was disqualified, the department shall not
+5 collect multiple fees for reinstatement, but shall only collect one (1) re-
+6 instatement fee, which shall be the greater reinstatement fee, provided how-
+7 ever, the department shall collect a reinstatement fee for each revocation,
+8 disqualification or suspension under chapter 80, title 18, Idaho Code.
+9 SECTION 2. That Chapter 15, Title 49, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 49-1505, Idaho Code, and to read as follows:
+12 49-1505. SUSPENSION OF DRIVER'S LICENSE AND PRIVILEGES FOR FAILURE TO
+13 PAY UNDERLYING TRAFFIC INFRACTION PENALTY -- APPEAL. (1) Beginning on Jan-
+14 uary 1, 2027, the department shall suspend the driver's license, permit, and
+15 operating privileges of any driver who has unpaid fines for infractions upon
+16 receiving notice from any court of the state that such person is sixty (60)
+17 days or more delinquent in paying the penalty for a traffic infraction judg-
+18 ment or an established payment plan. The notice may be sent to the depart-
+19 ment by any court, which shall certify that a judgment for an infraction from
+20 a moving violation, not including citations issued to a pedestrian or a bi-
+21 cyclist or for those involving a parking violation, has been entered against
+22 the person and such person has failed to pay the penalty.
+23 (2) The suspension shall be processed by the department in the same man-
+24 ner as other suspensions under section 49-326, Idaho Code, except that no
+25 hearing shall be held by the department. Upon receipt of the notice of non-
+26 payment of the penalty from the court, the department shall perform the min-
+27 isterial duty of giving official notification of suspension or nonrenewal of
+28 the driver's license and operating privileges.
+29 (3) The department shall reinstate a driver's license, permit, or priv-
+30 ileges that have been suspended pursuant to this section upon proper appli-
+31 cation and payment of any required fees with proof of payment of the infrac-
+32 tion penalty. Upon payment of the infraction penalty, the court shall issue
+33 a receipt of proof of payment, which may be filed with the department.
+34 (4) A driver's license, permit, or driving privileges that were sus-
+35 pended pursuant to this section shall not be reinstated under the provisions
+36 of section 49-328, Idaho Code, until the penalty for the infraction has been
+37 paid to the court in the county in which the citation was issued.
+38 (5) Any person operating a motor vehicle during a suspension issued
+39 pursuant to the provisions of this section, whose driver's license, per-
+40 mit, or privileges have not been reinstated under the provisions of section
+41 49-328, Idaho Code, shall be in violation of the provisions of section
+42 49-301, Idaho Code, for operating a motor vehicle without a driver's li-
+43 cense.
+44 (6) Any person whose driver's license, permit, or privileges have been
+45 suspended under this section may appeal to the district court in the county
+46 where the infraction judgment was entered within the time and in the man-
+47 ner provided for criminal appeals from the magistrate division to the dis-
+48 trict court. The appeal shall be expedited as provided by rule of the supreme
+49 court. If the district court finds that the notice of nonpayment of the in-
+
+3
+1 fraction penalty should not have been sent to the department for suspension
+2 of the driver's license, permit, or privileges, the district court shall or-
+3 der the privileges be reinstated by the department, and upon receipt of a
+4 copy of such order, the department shall reinstate the privileges without
+5 the payment of a fee.
+6 (7) For a person whose driver's license, permit, or operating priv-
+7 ileges were suspended pursuant to this section, the department may, in
+8 its discretion, issue a temporary restricted permit to allow the person to
+9 travel to and from his place of employment only.
+10 (8) It shall not be a violation of this section for a person to operate a
+11 motor vehicle during a suspension issued pursuant to this section for medi-
+12 cal emergencies.
+13 SECTION 3. An emergency existing therefor, which emergency is hereby
+14 declared to exist, this act shall be in full force and effect on and after its
+15 passage and approval.

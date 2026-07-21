@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1330
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO THE SMALL CLAIMS DEPARTMENT OF THE MAGISTRATE DIVISION; AMENDING
+3 SECTION 1-2301, IDAHO CODE, TO REVISE A PROVISION REGARDING THE SCOPE OF
+4 A CLAIM; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 1-2301, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 1-2301. SMALL CLAIMS DEPARTMENT -- CREATION -- SCOPE OF CLAIMS --
+9 VENUE. In every magistrate's division of the district court of this state,
+10 the district court may create and organize a "Small Claims Department of
+11 the Magistrate's Division," which shall have jurisdiction in cases for the
+12 recovery of money where the amount of each claim does not exceed five fifteen
+13 thousand dollars ($5,000) ($15,000), and in cases for the recovery of per-
+14 sonal property where the value of the property does not exceed five fifteen
+15 thousand dollars ($5,000) ($15,000); provided however, that the small
+16 claims department shall not award punitive damages or damages for pain or
+17 suffering in any proceeding. Any action brought in a small claims department
+18 of the magistrate's division shall be brought in the magistrate's division
+19 in the county where the defendant resides or the county where the cause of ac-
+20 tion arose. A defendant may request a change of venue if an action is brought
+21 in an improper county.
+22 SECTION 2. An emergency existing therefor, which emergency is hereby
+23 declared to exist, this act shall be in full force and effect on and after
+24 July 1, 2026.

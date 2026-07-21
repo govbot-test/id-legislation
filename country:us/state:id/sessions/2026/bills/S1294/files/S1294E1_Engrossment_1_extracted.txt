@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1294, As Amended
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HEARING LOSS SCREENING; AMENDING CHAPTER 9, TITLE 39, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 39-905A, IDAHO CODE, TO ESTABLISH
+4 PROVISIONS REGARDING HEARING LOSS SCREENING; AND DECLARING AN EMER-
+5 GENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 9, Title 39, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 39-905A, Idaho Code, and to read as follows:
+10 39-905A. HEARING LOSS SCREENING. (1) In addition to other tests re-
+11 quired by this chapter, all infants and newborns shall be screened for
+12 hearing loss prior to discharge from a hospital, health care facility, or
+13 birthing facility. For births occurring outside of a hospital, health care
+14 facility, or birthing facility, the birthing attendant shall ensure that the
+15 infant or newborn is screened for hearing loss or is referred to a hearing
+16 screening facility to be screened for hearing loss no later than twenty-one
+17 (21) days from the date of birth.
+18 (2) The hearing loss screening required by this section shall employ
+19 physiologic screening methods approved by the Idaho educational services
+20 for the deaf and the blind (IESDB), including otoacoustic emissions or au-
+21 tomated auditory brainstem response.
+22 (3) The screening facility or provider shall report the results of all
+23 failed hearing screenings to the IESDB within seven (7) days and all other
+24 results monthly to ensure appropriate follow-up and early intervention.
+25 (4) All tests and screenings required by this section shall be per-
+26 formed in accordance with standards, schedules, and protocols established
+27 or approved by the IESDB. The IESDB may provide guidance or educational mate-
+28 rials to assist providers in carrying out the requirements of this section.
+29 (5) The provisions of this section are contingent on continued receipt
+30 of federal funding intended to support infant and newborn hearing screening
+31 and shall not be enforceable if the loss of such federal funding would result
+32 in an increased cost to the state.
+33 SECTION 2. An emergency existing therefor, which emergency is hereby
+34 declared to exist, this act shall be in full force and effect on and after
+35 July 1, 2026.

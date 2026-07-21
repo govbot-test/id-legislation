@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 941
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO ADMINISTRATIVE RULES; AMENDING SECTION 67-5202, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING THE OFFICE OF THE ADMINISTRATIVE RULES CO-
+4 ORDINATOR; REPEALING SECTION 67-5292, IDAHO CODE, RELATED TO THE PERI-
+5 ODIC REVIEW OF ADMINISTRATIVE RULES; AND DECLARING AN EMERGENCY.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 67-5202, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 67-5202. OFFICE OF THE ADMINISTRATIVE RULES COORDINATOR. (1) There is
+10 hereby established the office of the administrative rules coordinator in the
+11 division of financial management legislative services office. The coordi-
+12 nator shall be a nonclassified employee and shall be appointed by and serve
+13 at the pleasure of the administrator of the division of financial management
+14 director of the legislative services office. All other employees of the of-
+15 fice of the administrative rules coordinator shall be nonclassified posi-
+16 tions, and any persons employed to fill positions in the office of the admin-
+17 istrative rules coordinator thereafter shall be exempt from the provisions
+18 of chapter 53, title 67, Idaho Code.
+19 (2) The coordinator shall have the authority to make clerical revisions
+20 or to correct manifest typographical or grammatical errors to both proposed
+21 and existing rules that do not alter the sense, meaning or effect of such
+22 rules changes to both proposed and existing rules prior to publication in the
+23 administrative bulletin pursuant to section 67-5203, Idaho Code.
+24 (3) The coordinator shall receive all notices and rules required in
+25 this chapter to be published in the bulletin or the administrative code.
+26 The coordinator shall prescribe a uniform style, form, and numbering system
+27 which shall apply to all rules adopted by all agencies. The coordinator
+28 shall review all submitted rules for style, form, and numbering and may re-
+29 turn a rule that is not in proper style, form, or number.
+30 SECTION 2. That Section 67-5292, Idaho Code, be, and the same is hereby
+31 repealed.
+32 SECTION 3. An emergency existing therefor, which emergency is hereby
+33 declared to exist, this act shall be in full force and effect on and after its
+34 passage and approval.

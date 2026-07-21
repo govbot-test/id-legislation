@@ -1,0 +1,620 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Anthon
+Seconded by Bernt
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 670
+1 AMENDMENT TO THE BILL
+2 On page 1 of the printed bill, delete lines 6 through 42; delete page 2; on
+3 page 3, delete lines 1 through 47, and insert:
+4 "SECTION 1. That Section 63-301A, Idaho Code, be, and the same is hereby
+5 amended to read as follows:
+6 63-301A. NEW CONSTRUCTION ROLL. (1) The county assessor shall prepare
+7 a new construction roll, which shall be in addition to the property roll,
+8 which new construction roll shall show:
+9 (a) The name of the taxpayer;
+10 (b) The description of the new construction, suitably detailed to meet
+11 the requirements of the individual county;
+12 (c) The amount of taxable market value added to the property on the cur-
+13 rent year's property roll that is directly the result of new construc-
+14 tion;
+15 (d) The amount of taxable market value added as provided in subsection
+16 (3)(f) of this section as a result of dissolution of any revenue alloca-
+17 tion area; and
+18 (e) The amount of taxable market value to be deducted to reflect the ad-
+19 justments required in this paragraph:
+20 (i) Any board of tax appeals or court-ordered value change, if
+21 property has a taxable value lower than that shown on any new con-
+22 struction roll in any one (1) of the immediate five (5) tax years
+23 preceding the current tax year;
+24 (ii) Any reduction in value resulting from correction of value im-
+25 properly included on any previous new construction roll as a re-
+26 sult of double or otherwise erroneous assessment;
+27 (iii) Any reduction in value resulting from the exemption provided
+28 in section 63-602W(4), Idaho Code, in any one (1) of the immediate
+29 five (5) tax years preceding the current tax year; and
+30 (iv) Any voluntary reduction in value reflecting a portion of
+31 certain homestead exemptions as provided in section 63-602G(10),
+32 Idaho Code.
+33 (2) As soon as possible, but in any event by no later than the first Mon-
+34 day in June, the new construction roll shall be certified to the county audi-
+35 tor and a listing showing the amount of value on the new construction roll in
+36 each taxing district or unit shall be forwarded to the state tax commission
+37 on or before the fourth Monday in July. Provided however, the value shown
+38 in subsection (3)(e) of this section shall be reported to the appropriate
+39 county auditor by the state tax commission by the third Monday in July and the
+40 value sent by the county auditor to each taxing district. The value estab-
+
+2
+1 lished pursuant to subsection (3)(e) of this section is subject to correc-
+2 tion by the state tax commission until the first Monday in September, and any
+3 such corrections shall be sent to the appropriate county auditor, who shall
+4 notify any affected taxing districts.
+5 (3) Except as otherwise provided in this subsection, the value shown on
+6 the new construction roll shall include ninety percent (90%) of the taxable
+7 market value increase from:
+8 (a) Construction of any new structure that previously did not exist,
+9 once it is completed and taxable;
+10 (b) Additions or alterations to existing nonresidential structures;
+11 (c) Installation of new or used manufactured housing that did not pre-
+12 viously exist within the county;
+13 (d) Property newly taxable as a result of loss of the exemption provided
+14 by section 63-602W(3) or (4), Idaho Code;
+15 (e) The construction of any improvement or installation of any equip-
+16 ment used for or in conjunction with the generation of electricity and
+17 the addition of any improvement or equipment intended to be so used, ex-
+18 cept property that has a value allocated or apportioned pursuant to sec-
+19 tion 63-405, Idaho Code, or that is owned by a cooperative or municipal-
+20 ity as those terms are defined in section 61-332A, Idaho Code, or that
+21 is owned by a public utility as that term is defined in section 61-332A,
+22 Idaho Code, owning any other property that is allocated or apportioned.
+23 No replacement equipment or improvements may be included;
+24 (f) Provided such increases do not include increases already reported
+25 on the new construction roll as permitted in paragraphs (i) and (j) of
+26 this subsection, increases in value over the base value of property
+27 on the base assessment roll within an urban renewal revenue alloca-
+28 tion area that has been terminated pursuant to section 50-2914, Idaho
+29 Code, to the extent that this increment exceeds the incremental value
+30 as of December 31, 2006, or, for revenue allocation areas formed af-
+31 ter December 31, 2006, eighty percent (80%) of the increment value.
+32 Notwithstanding other provisions of this section, the new construction
+33 roll shall not include new construction located within an urban renewal
+34 district's revenue allocation area, except as provided in this para-
+35 graph or paragraph (k) of this subsection;
+36 (g) New construction, in any one (1) of the immediate five (5) tax years
+37 preceding the current tax year, allowable but never included on a new
+38 construction roll, provided however, that for such property the value
+39 on the new construction roll shall reflect the taxable value that would
+40 have been included on the new construction roll for the first year in
+41 which the property should have been included;
+42 (h) Formerly exempt improvements on state college-owned or state uni-
+43 versity-owned land for student dining, housing, or other education-re-
+44 lated purposes approved by the state board of education and board of
+45 regents of the university of Idaho as proper for the operation of such
+46 state college or university, provided such improvements were never in-
+47 cluded on any previous new construction roll;
+48 (i) Increases in base value when due to previously determined incre-
+49 ment value added to the base value as required in sections 50-2903 and
+50 50-2903A, Idaho Code, due to a modification of the urban renewal plan.
+
+3
+1 In this case, the amount added to the new construction roll will equal
+2 eighty percent (80%) of the amount by which the increment value in the
+3 year immediately preceding the year in which the base value adjustment
+4 described in this subsection occurs exceeds the incremental value as of
+5 December 31, 2006, or, for revenue allocation areas formed after Decem-
+6 ber 31, 2006, the entire increment value; and
+7 (j) Increases in base value when due to previously determined incre-
+8 ment value added to the base value as a result of a de-annexation within
+9 a revenue allocation area as defined in section 50-2903, Idaho Code.
+10 In this case, the amount added to the new construction roll will equal
+11 eighty percent (80%) of the amount by which the increment value in the
+12 year immediately preceding the year in which the de-annexation de-
+13 scribed in this subsection occurs exceeds the incremental value as of
+14 December 31, 2006, or, for revenue allocation areas formed after Decem-
+15 ber 31, 2006, the entire increment value within the area subject to the
+16 de-annexation.
+17 (k) In the case of a fire protection district or ambulance service
+18 district that encompasses all or part of any urban renewal revenue
+19 allocation area that such district withdrew from pursuant to section
+20 50-2906(5), Idaho Code, eighty percent (80%) of the increment value may
+21 be included on the new construction roll for the year in which the dis-
+22 trict withdrew from such urban renewal revenue allocation area. Each
+23 year thereafter, ninety percent (90%) of the taxable value of otherwise
+24 qualifying new construction shall be included in the new construction
+25 roll for such fire protection district or ambulance service district,
+26 even if such new construction would not otherwise qualify because it was
+27 located within a revenue allocation area.
+28 (4) The amount of taxable market value of new construction shall be the
+29 change in net taxable market value that is attributable directly to the new
+30 construction or loss of the exemption provided by section 63-602W(3) or (4),
+31 Idaho Code. It shall not include any change in value of existing property
+32 that is due to external market forces such as general or localized inflation,
+33 except as provided in subsection (3)(f) of this section.
+34 (5) The amount of taxable market value of new construction shall not in-
+35 clude any new construction of property that has been granted a provisional
+36 property tax exemption, pursuant to section 63-1305C, Idaho Code. A prop-
+37 erty owner may apply to the board of county commissioners, if an application
+38 is required pursuant to section 63-602, Idaho Code, for an exemption from
+39 property tax at the time the initial building permits are applied for or at
+40 the time construction of the property has begun, whichever is earlier, or at
+41 any time thereafter.
+42 (6) The amount of taxable market value of new construction shall not in-
+43 clude any new construction of property for which an exemption from sales and
+44 use tax has been granted pursuant to section 63-3622VV, Idaho Code.
+45 SECTION 2. That Section 63-802, Idaho Code, be, and the same is hereby
+46 amended to read as follows:
+47 63-802. LIMITATION ON BUDGET REQUESTS -- LIMITATION ON TAX CHARGES --
+48 EXCEPTIONS. (1) Except as otherwise provided in this section, no taxing dis-
+
+4
+1 trict shall certify a budget request for an amount of property tax revenues
+2 to finance an annual budget that exceeds the maximum sum permitted under this
+3 section:
+4 (a)(i) The highest dollar amount of property taxes certified for
+5 its annual budget for any one (1) of the three (3) tax years preced-
+6 ing the current tax year, which amount may be increased by a growth
+7 factor of not to exceed three percent (3%) plus the amount of rev-
+8 enue calculated as described in this subsection. The taxing dis-
+9 trict shall determine what portion of the three percent (3%) in-
+10 crease permitted under this subparagraph that it requires and then
+11 calculate a preliminary levy rate based on the percent chosen. In
+12 calculating the preliminary levy rate, the most current taxable
+13 market value shall be used, except that for taxable market values
+14 of centrally assessed operating property, the prior year's val-
+15 uation may be used instead of the current year's taxable market
+16 values. The preliminary previous year's levy rate shall be multi-
+17 plied by the value shown on the new construction roll compiled pur-
+18 suant to section 63-301A, Idaho Code, and by ninety percent (90%)
+19 of the value of annexation during the previous calendar year, as
+20 certified by the state tax commission for taxable market values of
+21 operating property of public utilities and by the county assessor;
+22 except for a fire protection district annexing property prior to
+23 July 1, 2021, pursuant to section 31-1429, Idaho Code, the new levy
+24 rate shall be multiplied by one hundred percent (100%) of the value
+25 of any such property annexed prior to July 1, 2021.
+26 (ii) The following provisions shall apply in calculating the
+27 total allowable budget increase calculated under this paragraph
+28 must not exceed eight percent (8%), except that any:
+29 1. For cities or counties with a population of fewer than ten
+30 thousand (10,000) people, as shown in the most recent annual
+31 population estimate reported by the United States census bu-
+32 reau, the total budget increase calculated under this para-
+33 graph shall not be subject to any limitation;
+34 2. For cities or counties with a population of at least
+35 ten thousand (10,000) people but less than thirty thousand
+36 (30,000) people, as shown in the most recent annual popula-
+37 tion estimate reported by the United States census bureau,
+38 and all other taxing districts, the total budget increase
+39 calculated under this paragraph shall not exceed fifteen
+40 percent (15%);
+41 3. For cities or counties with a population of thirty thou-
+42 sand (30,000) people or greater, as shown in the most recent
+43 annual population estimate reported by the United States
+44 census bureau, the total budget increase calculated under
+45 this paragraph shall not exceed eight percent (8%); and
+46 4. Any increase in the amount of property tax revenue to
+47 finance an annual budget added as a result of the termi-
+48 nation, deannexation, plan modification of, or the with-
+49 drawal of certain taxing districts from, a revenue alloca-
+50 tion area of an urban renewal district pursuant to section
+
+5
+1 63-301A(3)(f), (i), (j), or (k), Idaho Code, or section
+2 50-2908(1)(g), Idaho Code, shall not be subject to such lim-
+3 itation.
+4 (iii) Following the first year in which a fire protection district
+5 has annexed city property pursuant to section 31-1429, Idaho Code,
+6 the city shall subtract an amount equal to the moneys spent on fire
+7 protection services during the last full year the city provided
+8 fire protection services to its residents from its budget limita-
+9 tion under this section.
+10 (b) If the taxing district has not imposed a levy for three (3) or more
+11 years, the highest dollar amount of property taxes certified for its an-
+12 nual budget for the purpose of paragraph (a)(i) of this subsection shall
+13 be the dollar amount of property taxes certified for its annual budget
+14 during the last year in which a levy was made.
+15 (c) The dollar amount of the actual budget request may be substituted
+16 for the amount in paragraph (a) of this subsection if the taxing dis-
+17 trict is newly created, except as may be provided in paragraph (i) of
+18 this subsection.
+19 (d) This section does not apply to school district levies imposed in
+20 section 33-802, Idaho Code.
+21 (e)(i) In the case of a nonschool district for which less than the
+22 maximum allowable increase in the dollar amount of property taxes
+23 is certified for annual budget purposes in any one (1) year, such a
+24 district may, in any following year, recover the forgone increase
+25 by certifying, in addition to any increase otherwise allowed, any
+26 or all of the increase originally forgone. Provided however, that
+27 prior to budgeting any forgone increase, the district must provide
+28 notice of its intent to do so, hold a public hearing that may be in
+29 conjunction with its annual budget hearing, and certify by resolu-
+30 tion the amount of forgone increase to be budgeted and the specific
+31 purpose for which the forgone increase is being budgeted. Upon
+32 adoption of the resolution, the clerk of the district shall file a
+33 copy of the resolution with the county clerk and the state tax com-
+34 mission. Said additional amount shall be included in future cal-
+35 culations for increases as allowed, except as provided in subpara-
+36 graph (iii) of this paragraph.
+37 (ii) If the forgone increase is budgeted for the purpose of main-
+38 tenance and operations, the rate of recovering the reserved for-
+39 gone moneys may increase the taxing district's budget by no more
+40 than one percent (1%) per year.
+41 (iii) If the forgone increase is budgeted for a capital project or
+42 projects, the rate of recovering the reserved forgone moneys may
+43 not exceed three percent (3%) of the taxing district's budget for
+44 the year in which the forgone increase is budgeted. Forgone moneys
+45 budgeted for a capital project must be deducted from the taxing
+46 district's forgone balance in the year in which it is budgeted.
+47 Upon completion of such a capital project, the taxing district
+48 shall certify such completion to the state tax commission and
+49 county clerk. If, upon certification, the state tax commission
+50 finds that the taxing district included forgone moneys for a capi-
+
+6
+1 tal project in calculating the increase permitted under paragraph
+2 (a) of this subsection, the state tax commission shall direct the
+3 taxing district to reduce its property tax budget for any year
+4 in which the forgone moneys were used to calculate a budget in-
+5 crease, in an amount equal to the forgone moneys budgeted plus any
+6 increases attributed to the forgone moneys improperly included in
+7 the taxing district's property tax budget. For the purpose of this
+8 paragraph, a capital project includes:
+9 1. The construction, expansion, renovation, or replacement
+10 of public facilities, including the acquisition of land and
+11 other site improvements;
+12 2. The construction, expansion, or reconstruction of public
+13 works improvements, including roads, bridges, water sys-
+14 tems, sewer systems, and broadband systems; and
+15 3. The purchase of equipment with a useful life of ten (10)
+16 years or more.
+17 (f) If a taxing district elects to budget less than the maximum allow-
+18 able increase in the dollar amount of property taxes, the taxing dis-
+19 trict may reserve the right to recover all or any portion of that year's
+20 forgone increase in a subsequent year by adoption of a resolution spec-
+21 ifying the dollar amount of property taxes being reserved. Otherwise,
+22 that year's forgone increase may not be recovered under paragraph (e) of
+23 this subsection. The district must provide notice of its intent to do so
+24 and hold a public hearing that may be in conjunction with its annual bud-
+25 get hearing, if applicable. The resolution to reserve the right to re-
+26 cover the forgone increase for that year shall be adopted at the annual
+27 budget hearing of the taxing district if the district has a budget hear-
+28 ing requirement.
+29 (g) In the case of cities, if the immediately preceding year's levy sub-
+30 ject to the limitation provided by this section is less than 0.004, the
+31 city may increase its budget by an amount not to exceed the difference
+32 between 0.004 and the actual prior year's levy multiplied by the prior
+33 year's market value for assessment purposes. The additional amount
+34 must be approved by sixty percent (60%) of the voters voting on the ques-
+35 tion at an election called for that purpose and held on the date in May or
+36 November provided by law and may be included in the annual budget of the
+37 city for purposes of this section.
+38 (h) A taxing district may submit to the electors within the district
+39 the question of whether the budget from property tax revenues may be
+40 increased beyond the amount authorized in this section, but not beyond
+41 the levy authorized by statute. The additional amount must be approved
+42 by sixty-six and two-thirds percent (66 2/3%) or more of the voters
+43 voting on the question at an election called for that purpose and held
+44 on the May or November dates provided by section 34-106, Idaho Code.
+45 If approved by the required minimum sixty-six and two-thirds percent
+46 (66 2/3%) of the voters voting at the election, the new budget amount
+47 shall be the base budget for the purposes of this section.
+48 (i) When a nonschool district consolidates with another nonschool
+49 district or dissolves and a new district performing similar governmen-
+50 tal functions as the dissolved district forms with the same boundaries
+
+7
+1 within three (3) years, the maximum amount of a budget of the district
+2 from property tax revenues shall not be greater than the sum of the
+3 amounts that would have been authorized by this section for the district
+4 itself or for the districts that were consolidated or dissolved and in-
+5 corporated into a new district.
+6 (j) This section does not apply to cooperative service agency levies
+7 imposed in sections 33-317 and 33-317A, Idaho Code.
+8 (k) The amount of money received in the twelve (12) months immediately
+9 preceding June 30 of the current tax year as a result of distributions of
+10 the tax provided in section 63-3502B(2), Idaho Code.
+11 (2) In the case of fire districts, during the year immediately follow-
+12 ing the election of a public utility or public utilities to consent to be pro-
+13 vided fire protection pursuant to section 31-1425, Idaho Code, the maximum
+14 amount of property tax revenues permitted in subsection (1) of this section
+15 may be increased by an amount equal to the current year's taxable value of the
+16 consenting public utility or public utilities multiplied by that portion of
+17 the prior year's levy subject to the limitation provided by subsection (1) of
+18 this section.
+19 (3) No board of county commissioners shall set a levy, nor shall the
+20 state tax commission approve a levy for annual budget purposes, which ex-
+21 ceeds the limitation imposed in subsection (1) of this section unless au-
+22 thority to exceed such limitation has been approved by a majority of the tax-
+23 ing district's electors voting on the question at an election called for that
+24 purpose and held pursuant to section 34-106, Idaho Code, provided however,
+25 that such voter approval shall be for a period of not to exceed two (2) years.
+26 (4) The amount of property tax revenues to finance an annual budget does
+27 not include revenues from nonproperty tax sources and does not include rev-
+28 enue from levies for the payment of judicially confirmed obligations pur-
+29 suant to sections 63-1315 and 63-1316, Idaho Code, and revenue from levies
+30 that are voter-approved for bonds, override levies or supplemental levies,
+31 plant facilities reserve fund levies, school emergency fund levies, or for
+32 levies applicable to newly annexed property or for levies applicable to new
+33 construction as evidenced by the value of property subject to the occupancy
+34 tax pursuant to section 63-317, Idaho Code, for the preceding tax year. The
+35 amount of property tax revenues to finance an annual budget does not include
+36 any property taxes that were collected and refunded on property that is ex-
+37 empt from taxation, pursuant to section 63-1305C, Idaho Code.
+38 (5) The amount of property tax revenues to finance an annual budget
+39 shall include moneys received as recovery of property tax for a revoked pro-
+40 visional property tax exemption under section 63-1305C, Idaho Code.
+41 (6) For tax year 2023, before calculating the amount required in sub-
+42 section (1)(a)(i) of this section, the board of county commissioners shall
+43 reduce the approved property tax levy portion of its budget for the immedi-
+44 ate prior three (3) years in an amount equal to the amount levied for indigent
+45 public defense. The reduced budget amount shall be the base budget for the
+46 purpose of subsection (1)(a)(i) of this section.
+47 SECTION 3. That Section 50-2903, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+8
+1 50-2903. DEFINITIONS. The following terms used in this chapter shall
+2 have the following meanings, unless the context otherwise requires:
+3 (1) "Act" or "this act" means this revenue allocation act.
+4 (2) "Agency" or "urban renewal agency" means a public body created pur-
+5 suant to section 50-2006, Idaho Code.
+6 (3) "Authorized municipality" or "municipality" means any county or
+7 incorporated city that has established an urban renewal agency or by or-
+8 dinance has identified and created a competitively disadvantaged border
+9 community.
+10 (4) Except as provided in section 50-2903A, Idaho Code, "base assess-
+11 ment roll" means the equalized assessment rolls, for all classes of taxable
+12 property, on January 1 of the year in which the local governing body of an
+13 authorized municipality passes an ordinance adopting or modifying an urban
+14 renewal plan containing a revenue allocation financing provision, except
+15 that the base assessment roll shall be adjusted as follows: the equalized
+16 assessment valuation of the taxable property in a revenue allocation area
+17 as shown upon the base assessment roll shall be reduced by the amount by
+18 which the equalized assessed valuation as shown on the base assessment roll
+19 exceeds the current equalized assessed valuation of any taxable property
+20 located in the revenue allocation area and by the equalized assessed val-
+21 uation of taxable property in such revenue allocation area that becomes
+22 exempt from taxation subsequent to the date of the base assessment roll.
+23 The equalized assessed valuation of the taxable property in a revenue allo-
+24 cation area as shown on the base assessment roll shall be increased by the
+25 equalized assessed valuation, as of the date of the base assessment roll, of
+26 taxable property in such revenue allocation area that becomes taxable after
+27 the date of the base assessment roll. Any increase in valuation due to prop-
+28 erty owned, leased, or used in the operation of a business entity that makes
+29 capital investments in one (1) or more data centers, as defined in section
+30 63-3622VV(2)(f), Idaho Code, after July 1, 2020, in amounts of at least two
+31 hundred fifty million dollars ($250,000,000) in the aggregate within the
+32 first five (5) years after commencement of construction, that creates and
+33 maintains at least thirty (30) new jobs at the data center within two (2)
+34 calendar years after the commencement of operations, and that is located in
+35 a revenue allocation area for which no bonds have been issued pursuant to
+36 section 50-2909, Idaho Code, as of March 16, 2023, shall be added to the base
+37 assessment roll in the current tax year. An urban renewal plan containing
+38 a revenue allocation financing provision adopted or modified prior to July
+39 1, 2016, is not subject to section 50-2903A, Idaho Code. For plans adopted
+40 or modified prior to July 1, 2016, and for subsequent modifications of those
+41 urban renewal plans, the value of the base assessment roll of property within
+42 the revenue allocation area shall be determined as if the modification had
+43 not occurred.
+44 (5) "Budget" means an annual estimate of revenues and expenses for the
+45 following fiscal year of the agency. An agency shall, by September 1 of each
+46 calendar year, adopt and publish, as described in section 50-1002, Idaho
+47 Code, a budget for the next fiscal year. An agency may amend its adopted
+48 budget using the same procedures as used for adoption of the budget. For
+49 the fiscal year that immediately predates the termination date for an urban
+50 renewal plan involving a revenue allocation area or will include the termi-
+
+9
+1 nation date, the agency shall adopt and publish a budget specifically for the
+2 projected revenues and expenses of the plan and make a determination as to
+3 whether the revenue allocation area can be terminated before the January 1
+4 of the termination year pursuant to the terms of section 50-2909(4), Idaho
+5 Code. In the event that the agency determines that current tax year revenues
+6 are sufficient to cover all estimated expenses for the current year and all
+7 future years, by September 1 the agency shall adopt a resolution advising and
+8 notifying the local governing body, the county auditor, and the state tax
+9 commission and recommending the adoption of an ordinance for termination of
+10 the revenue allocation area by December 31 of the current year and declaring
+11 a surplus to be distributed as described in section 50-2909, Idaho Code,
+12 should a surplus be determined to exist. The agency shall cause the ordi-
+13 nance to be filed with the office of the county recorder and the Idaho state
+14 tax commission as provided in section 63-215, Idaho Code. Upon notification
+15 of revenues sufficient to cover expenses as provided herein, the increment
+16 value of that revenue allocation area shall be included in the net taxable
+17 value of the appropriate taxing districts when calculating the subsequent
+18 property tax levies pursuant to section 63-803, Idaho Code. The increment
+19 value shall also be included in subsequent notification of taxable value for
+20 each taxing district pursuant to section 63-1312, Idaho Code, and subsequent
+21 certification of actual and adjusted market values for each school district
+22 pursuant to section 63-315, Idaho Code.
+23 (6) "Clerk" means the clerk of the municipality.
+24 (7) "Competitively disadvantaged border community area" means a parcel
+25 of land consisting of at least forty (40) acres that is situated within the
+26 jurisdiction of a county or an incorporated city and within twenty-five (25)
+27 miles of a state or international border, which the governing body of such
+28 county or incorporated city has determined by ordinance is disadvantaged in
+29 its ability to attract business, private investment, or commercial develop-
+30 ment as a result of a competitive advantage in the adjacent state or nation
+31 resulting from inequities or disparities in comparative sales taxes, income
+32 taxes, property taxes, population or unique geographic features.
+33 (8) "Deteriorated area" means:
+34 (a) Any area, including a slum area, in which there is a predominance
+35 of buildings or improvements, whether residential or nonresidential,
+36 which by reason of dilapidation, deterioration, age or obsolescence,
+37 inadequate provision for ventilation, light, air, sanitation, or open
+38 spaces, high density of population and overcrowding, or the existence
+39 of conditions that endanger life or property by fire and other causes,
+40 or any combination of such factors, is conducive to ill health, trans-
+41 mission of disease, infant mortality, juvenile delinquency, or crime,
+42 and is detrimental to the public health, safety, morals or welfare.
+43 (b) Any area which by reason of the presence of a substantial number of
+44 deteriorated or deteriorating structures, predominance of defective or
+45 inadequate street layout, faulty lot layout in relation to size, ade-
+46 quacy, accessibility or usefulness, insanitary or unsafe conditions,
+47 deterioration of site or other improvements, diversity of ownership,
+48 tax or special assessment delinquency exceeding the fair value of the
+49 land, defective or unusual conditions of title, or the existence of con-
+50 ditions that endanger life or property by fire and other causes, or any
+
+10
+1 combination of such factors, results in economic underdevelopment of
+2 the area, substantially impairs or arrests the sound growth of a munici-
+3 pality, retards the provision of housing accommodations or constitutes
+4 an economic or social liability and is a menace to the public health,
+5 safety, morals or welfare in its present condition and use.
+6 (c) Any area which is predominately open and which because of obsolete
+7 platting, diversity of ownership, deterioration of structures or im-
+8 provements, or otherwise, results in economic underdevelopment of the
+9 area or substantially impairs or arrests the sound growth of a munici-
+10 pality. The provisions of section 50-2008(d), Idaho Code, shall apply
+11 to open areas.
+12 (d) Any area which the local governing body certifies is in need of
+13 redevelopment or rehabilitation as a result of a flood, storm, earth-
+14 quake, or other natural disaster or catastrophe respecting which the
+15 governor of the state has certified the need for disaster assistance
+16 under any federal law.
+17 (e) Any area which by reason of its proximity to the border of an ad-
+18 jacent state is competitively disadvantaged in its ability to attract
+19 private investment, business or commercial development which would
+20 promote the purposes of this chapter.
+21 (f) Deteriorated area does not mean not developed beyond agricultural,
+22 or any agricultural operation as defined in section 22-4502(1), Idaho
+23 Code, or any forest land as defined in section 63-1701(4), Idaho Code,
+24 unless the owner of the agricultural operation or the forest landowner
+25 of the forest land gives written consent to be included in the deterio-
+26 rated area, except for an agricultural operation or forest land that has
+27 not been used for three (3) consecutive years.
+28 (9) "Facilities" means land, rights in land, buildings, structures,
+29 machinery, landscaping, extension of utility services, approaches, road-
+30 ways and parking, handling and storage areas, and similar auxiliary and re-
+31 lated facilities.
+32 (10) "Increment value" means the total value calculated by summing the
+33 differences between the current equalized value of each taxable property in
+34 the revenue allocation area and that property's current base value on the
+35 base assessment roll, provided such difference is a positive value.
+36 (11) "Local governing body" means the city council or board of county
+37 commissioners of a municipality.
+38 (12) "Manufacturing project" means a manufacturing or industrial
+39 project and ancillary uses that manufactures, processes, or fabricates tan-
+40 gible personal property as defined in section 63-3616, Idaho Code.
+41 (13) "Plan" or "urban renewal plan" means a plan, as it exists or may
+42 from time to time be amended, prepared and approved pursuant to sections
+43 50-2008 and 50-2905, Idaho Code, and any method or methods of financing such
+44 plan, which methods may include revenue allocation financing provisions.
+45 (14) "Project" or "urban renewal project" or "competitively disadvan-
+46 taged border areas" may include undertakings and activities of a municipal-
+47 ity in an urban renewal area for the elimination of deteriorated or deterio-
+48 rating areas and for the prevention of the development or spread of slums and
+49 blight and may involve slum clearance and redevelopment in an urban renewal
+50 area, or rehabilitation or conservation in an urban renewal area, or any com-
+
+11
+1 bination or part thereof in accordance with an urban renewal plan. Such un-
+2 dertakings and activities may include:
+3 (a) Acquisition of a deteriorated area or a deteriorating area or por-
+4 tion thereof;
+5 (b) Demolition and removal of buildings and improvement;
+6 (c) Installation, construction, or reconstruction of streets, utili-
+7 ties, parks, playgrounds, open space, off-street parking facilities,
+8 public facilities, public recreation and entertainment facilities or
+9 buildings and other improvements necessary for carrying out, in the ur-
+10 ban renewal area or competitively disadvantaged border community area,
+11 the urban renewal objectives of this act in accordance with the urban
+12 renewal plan or the competitively disadvantaged border community area
+13 ordinance.
+14 (d) Disposition of any property acquired in the urban renewal area or
+15 the competitively disadvantaged border community area, including sale,
+16 initial leasing, or retention by the agency itself, or the municipality
+17 creating the competitively disadvantaged border community area at its
+18 fair value for uses in accordance with the urban renewal plan except for
+19 disposition of property to another public body;
+20 (e) Carrying out plans for a program of voluntary or compulsory repair
+21 and rehabilitation of buildings or other improvements in accordance
+22 with the urban renewal plan;
+23 (f) Acquisition of real property in the urban renewal area or the com-
+24 petitively disadvantaged border community area that, under the urban
+25 renewal plan, is to be repaired or rehabilitated for dwelling use or re-
+26 lated facilities, repair or rehabilitation of the structures for guid-
+27 ance purposes, and resale of the property;
+28 (g) Acquisition of any other real property in the urban renewal area
+29 or competitively disadvantaged border community area where necessary
+30 to eliminate unhealthful, insanitary or unsafe conditions, lessen den-
+31 sity, eliminate obsolete or other uses detrimental to the public wel-
+32 fare, or otherwise to remove or to prevent the spread of blight or dete-
+33 rioration, or to provide land for needed public facilities or where nec-
+34 essary to accomplish the purposes for which a competitively disadvan-
+35 taged border community area was created by ordinance;
+36 (h) Lending or investing federal funds; and
+37 (i) Construction of foundations, platforms and other like structural
+38 forms.; and
+39 (j) Acquisition, construction, rehabilitation, or improvement of
+40 buildings, facilities, or infrastructure related to providing emer-
+41 gency services.
+42 (15) "Project costs" includes, but is not limited to:
+43 (a) Capital costs, including the actual costs of the construction of
+44 public works or improvements, facilities, buildings, structures, and
+45 permanent fixtures; the demolition, alteration, remodeling, repair or
+46 reconstruction of existing buildings, structures, and permanent fix-
+47 tures; the acquisition of equipment; and the clearing and grading of
+48 land;
+
+12
+1 (b) Financing costs, including interest during construction and capi-
+2 talized debt service or repair and replacement or other appropriate re-
+3 serves;
+4 (c) Real property assembly costs, meaning any deficit incurred from the
+5 sale or lease by a municipality of real or personal property within a
+6 revenue allocation district;
+7 (d) Professional service costs, including those costs incurred for ar-
+8 chitectural, planning, engineering, and legal advice and services;
+9 (e) Direct administrative costs, including reasonable charges for the
+10 time spent by city or county employees in connection with the implemen-
+11 tation of a project plan;
+12 (f) Relocation costs; and
+13 (g) Costs related to emergency services, including equipment, vehi-
+14 cles, apparatus, or other items necessary to provide emergency services
+15 within a revenue allocation area and maintenance costs for such items;
+16 and
+17 (g) (h) Other costs incidental to any of the foregoing costs.
+18 (16) "Revenue allocation area" means that portion of an urban renewal
+19 area or competitively disadvantaged border community area where the equal-
+20 ized assessed valuation, as shown by the taxable property assessment rolls,
+21 of which the local governing body has determined, on and as a part of an urban
+22 renewal plan, is likely to increase as a result of the initiation of an urban
+23 renewal project or competitively disadvantaged border community area. The
+24 base assessment roll or rolls of revenue allocation area or areas shall not
+25 exceed at any time ten percent (10%) of the current assessed valuation of all
+26 taxable property within the municipality.
+27 (17) "State" means the state of Idaho.
+28 (18) "Tax" or "taxes" means all property tax levies upon taxable prop-
+29 erty.
+30 (19) "Taxable property" means taxable real property, personal prop-
+31 erty, operating property, or any other tangible or intangible property
+32 included on the equalized assessment rolls.
+33 (20) "Taxing district" means a taxing district as defined in section
+34 63-201, Idaho Code, as that section now exists or may hereafter be amended.
+35 (21) "Termination date" means a specific date no later than twenty (20)
+36 years from the effective date of an urban renewal plan or as described in sec-
+37 tion 50-2904, Idaho Code, on which date the plan shall terminate. Every ur-
+38 ban renewal plan shall have a termination date that can be modified or ex-
+39 tended subject to the twenty (20) year maximum limitation, except as pro-
+40 vided in section 50-2904(5), Idaho Code. Provided however, the duration of
+41 a revenue allocation financing provision may be extended as provided in sec-
+42 tion 50-2904, Idaho Code.";
+43 and renumber the subsequent section accordingly.
+44 CORRECTION TO TITLE
+45 On page 1, delete lines 2 through 4, and insert:
+46 "RELATING TO REVENUE AND TAXATION; AMENDING SECTION 63-301A, IDAHO CODE,
+47 TO REVISE A PROVISION REGARDING THE NEW CONSTRUCTION ROLL; AMENDING
+48 SECTION 63-802, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE LIMITA-
+49 TION ON BUDGET REQUESTS AND EXCEPTIONS; AMENDING SECTION 50-2903, IDAHO
+50 CODE, TO REVISE DEFINITIONS; AND DECLARING AN EMERGENCY.".

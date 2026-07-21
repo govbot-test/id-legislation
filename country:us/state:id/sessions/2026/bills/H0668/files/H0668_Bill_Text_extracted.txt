@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 668
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD CUSTODY INTERFERENCE; PROVIDING LEGISLATIVE INTENT;
+3 AMENDING SECTION 18-4506, IDAHO CODE, TO REVISE PROVISIONS REGARD-
+4 ING CHILD CUSTODY INTERFERENCE AND TO ESTABLISH PROVISIONS REGARDING
+5 PENALTIES AND ENFORCEMENT; AND DECLARING AN EMERGENCY AND PROVIDING AN
+6 EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature to
+9 strengthen Idaho's child custody interference law by clarifying enforcement
+10 duties, providing uniform guidance, establishing objective timelines for
+11 response and compliance, and implementing a graduated penalty structure
+12 that ensures proportional accountability. The Legislature affirms that
+13 child custody interference is a criminal offense under Title 18, Idaho Code,
+14 and is distinct from kidnapping. The Legislature further intends to ensure
+15 that children subject to custodial interference receive prompt welfare
+16 checks.
+17 SECTION 2. That Section 18-4506, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 18-4506. CHILD CUSTODY INTERFERENCE DEFINED -- DEFENSES -- PUNISH-
+20 MENT. 1. (1) A person commits child custody interference if the person,
+21 whether a parent or other, or agent of that person, intentionally and without
+22 lawful authority:
+23 (a) Takes, entices away, keeps or withholds any minor child from a
+24 parent or another person or institution having custody, joint cus-
+25 tody, visitation or other parental rights, whether such rights arise
+26 from temporary or permanent custody order, or from the equal custodial
+27 rights of each parent in the absence of a custody order; or
+28 (b) Takes, entices away, keeps or withholds a minor child from a parent
+29 after commencement of an action relating to child visitation or custody
+30 but prior to the issuance of an order determining custody or visitation
+31 rights.
+32 2. (2) It shall be an affirmative defense to a violation of the provi-
+33 sions of subsection 1. (1) of this section and the charged party has the bur-
+34 den to establish that:
+35 (a) The action is taken to protect the child from imminent physical
+36 harm;
+37 (b) The action is taken by a parent fleeing from imminent physical harm
+38 to himself;
+39 (c) The action is consented to by the lawful custodian of the child; or
+40 (d) The child is returned within twenty-four (24) hours after expira-
+41 tion of an authorized visitation privilege.
+
+2
+1 (d) Compliance with a custody order at the specified time was tem-
+2 porarily impracticable due to circumstances beyond the control of the
+3 charged party, provided that any of the following are established:
+4 (i) The circumstance was not reasonably avoidable through or-
+5 dinary planning or diligence at the time compliance was required
+6 and was not based on speculation, prediction, or hindsight assess-
+7 ment;
+8 (ii) The circumstance rendered timely compliance objectively im-
+9 practicable or unsafe and was not based on personal convenience,
+10 preference, or disagreement with the custody order;
+11 (iii) The failure to comply did not extend beyond the period dur-
+12 ing which compliance was actually impracticable or unsafe, and
+13 compliance was resumed at the earliest feasible time;
+14 (iv) The charged party made reasonable and timely efforts to no-
+15 tify the other parent of the delay and the reason for it as soon as
+16 practicable;
+17 (v) The charged party took reasonable steps to mitigate the de-
+18 lay and to minimize interference with the other parent's custodial
+19 time; or
+20 (vi) The circumstance was not used as a pretext to withhold the
+21 child or to interfere with the other parent's custodial rights.
+22 (3) A temporary delay attributable solely to circumstances meeting
+23 the requirements of subsection (2)(d) of this section does not constitute
+24 child custody interference where, based on objective and contemporaneously
+25 observable conditions, a law enforcement officer has no reasonable basis to
+26 doubt the explanation provided, and the officer may document the encounter
+27 by incident report rather than issuing a citation or offense report, without
+28 limiting future enforcement if a violation is later established.
+29 3. A violation of the provisions of subsection 1. of this section shall
+30 be a felony, unless the defendant did not take the child outside the state,
+31 and the child was voluntarily returned unharmed prior to the defendant's ar-
+32 rest in which case the violation shall be reduced to a misdemeanor.
+33 4. (4) Any reasonable expenses incurred by a lawful custodian in locat-
+34 ing or attempting to locate a child taken in violation of the provisions of
+35 subsection 1. of this section may be assessed against the defendant at the
+36 court's discretion in accordance with chapter 53, title 19, Idaho Code.
+37 (5)(a) A person guilty of child custody interference shall be punished
+38 as follows:
+39 (i) For a first offense, such person shall be subject to an in-
+40 fraction punishable by a fine not to exceed one hundred dollars
+41 ($100).
+42 (ii) For a second offense, such person shall be subject to an in-
+43 fraction punishable by a fine not to exceed three hundred dollars
+44 ($300).
+45 (iii) For a third and fourth offense, such person shall be guilty
+46 of a misdemeanor punishable by a fine not to exceed one thousand
+47 dollars ($1,000), imprisonment not to exceed two (2) days, or both
+48 such fine and imprisonment.
+49 (iv) For a fifth offense and subsequent offenses, such person
+50 shall be guilty of a felony punishable by a fine not to exceed five
+
+3
+1 thousand dollars ($5,000), imprisonment not to exceed one (1)
+2 year, or both such fine and imprisonment.
+3 (b) For any report of child custody interference, law enforcement offi-
+4 cers shall:
+5 (i) Verify the location of the minor child, if possible;
+6 (ii) Check the safety and well-being of the child; and
+7 (iii) Complete a written offense report based on the law enforce-
+8 ment officer's findings. Such report shall include, at a minimum:
+9 1. The date and time of the safety check;
+10 2. The location of the child;
+11 3. The observable physical condition of the child; and
+12 4. Any statements made by the child or caregivers relevant
+13 to the child's safety or well-being.
+14 (6) Additional periods of physical custody or visitation of the minor
+15 child to compensate for the denial of physical custody or visitation to the
+16 lawful custodian of the minor child in violation of this section shall be
+17 governed pursuant to chapter 7, title 32, Idaho Code.
+18 SECTION 3. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after
+20 July 1, 2026.

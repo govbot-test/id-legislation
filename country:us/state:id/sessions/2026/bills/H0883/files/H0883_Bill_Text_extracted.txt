@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 883
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 10, TITLE 33, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 33-1035, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING SCHOOL DISTRICT EARNED AUTONOMY; AMENDING CHAPTER 52, TITLE 33,
+5 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 33-5207A, IDAHO CODE, TO
+6 ESTABLISH PROVISIONS REGARDING PUBLIC CHARTER SCHOOL EARNED AUTONOMY;
+7 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 10, Title 33, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 33-1035, Idaho Code, and to read as follows:
+12 33-1035. SCHOOL DISTRICT EARNED AUTONOMY. (1) Notwithstanding any
+13 provision of law to the contrary, a school district that satisfies the re-
+14 quirements set forth in this section may spend its allocated state funding,
+15 including but not limited to discretionary funds, categorical funds, and
+16 salary apportionment, in the manner it deems best serves its students and
+17 schools.
+18 (2) A school district shall have the option to participate in the flexi-
+19 bility provided in this section if it:
+20 (a) Meets the following academic benchmarks:
+21 (i) The school district's composite proficiency rate on the Idaho
+22 standards achievement test is in the top twenty percent (20%) of
+23 school districts statewide or the school district exceeds the
+24 state proficiency average by at least fifteen (15) percentage
+25 points in both English language arts and math;
+26 (ii) Seventy-five percent (75%) or more of the school district's
+27 K-3 students score proficient on the spring administration of the
+28 Idaho reading indicator or the school district demonstrates a fif-
+29 teen percent (15%) reduction in students scoring below basic annu-
+30 ally; and
+31 (iii) The school district maintains an adjusted cohort graduation
+32 rate that is three (3) percentage points higher than the state av-
+33 erage or the percentage of graduates who earn a college and career
+34 readiness indicator that includes career technical education com-
+35 pletion, an associate's degree, qualifying advance placement, an
+36 international baccalaureate, or a dual credit course is five (5)
+37 percentage points higher than the state average;
+38 (b) Provides the following evidence demonstrating financial stability
+39 for each of the previous three (3) fiscal years:
+40 (i) An unqualified audit opinion or a qualified opinion qualified
+41 solely on the basis of not reporting the actuarial value of the
+42 public employee retirement system of Idaho sick leave plan pur-
+
+2
+1 suant to statement no. 45 of the governmental accounting stan-
+2 dards board;
+3 (ii) An audit devoid of significant findings and conditions, ma-
+4 terial weaknesses, or significant internal control deficiencies;
+5 and
+6 (iii) An audit that does not include a going concern disclosure in
+7 the notes or an explanatory paragraph within the audit report.
+8 (3) Participating school districts shall be exempt from the reporting
+9 requirements, including those established through rulemaking authority,
+10 of sections 33-119, 33-135, 33-1002B, 33-1004E, 33-1028(1)(f) and (2),
+11 33-1405, 33-1632, 33-1805, 33-1811, 33-2004, and 33-4805, Idaho Code, with-
+12 out incurring a penalty or a reduction in funding.
+13 (4) Participating school districts shall automatically maintain
+14 spending flexibility from year to year, except that the state department of
+15 education may revoke eligibility if:
+16 (a) The school district fails to receive an annual unmodified audit
+17 opinion or if the auditor's report on internal controls reports one (1)
+18 or more material weaknesses or significant deficiencies; or
+19 (b) The school district fails to satisfy the academic requirements set
+20 forth in subsection (2) of this section for two (2) or more years.
+21 (5) In 2029, the state board of education shall report to the legisla-
+22 ture the number of participating school districts and changes, if any, in
+23 student growth or proficiency on the Idaho standards achievement test. Ad-
+24 ditionally, the report shall include information regarding whether any par-
+25 ticipating school districts collected a levy, and any disclosures required
+26 pursuant to section 33-802B, Idaho Code, shall be appended to the report.
+27 SECTION 2. That Chapter 52, Title 33, Idaho Code, be, and the same is
+28 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+29 ignated as Section 33-5207A, Idaho Code, and to read as follows:
+30 33-5207A. PUBLIC CHARTER SCHOOL EARNED AUTONOMY. (1) Notwithstanding
+31 any provision of law to the contrary, a public charter school that is not a
+32 virtual school, as defined in section 33-5202A, Idaho Code, and that sat-
+33 isfies the requirements set forth in section 33-5218(2)(b), (e), and (g),
+34 Idaho Code, may spend its allocated state funding, including but not limited
+35 to discretionary funds, categorical funds, and salary apportionment, in the
+36 manner it deems best serves students and the public charter school. Partici-
+37 pation shall not require a revision to the public charter school's charter or
+38 performance certificate.
+39 (2) Participating public charter schools shall be exempt from report-
+40 ing requirements established in statute or through rulemaking authority
+41 that are not federally mandated or required for public school finance
+42 purposes. This exemption includes but is not limited to reporting require-
+43 ments established pursuant to sections 33-119, 33-135, 33-1002B, 33-1004E,
+44 33-1028(1)(f) and (2), 33-1405, 33-1632, 33-1805, 33-1811, 33-2004, and
+45 33-4805, Idaho Code, without incurring a penalty or a reduction in funding.
+46 (3) Participating public charter schools shall automatically maintain
+47 spending flexibility from year to year, except that the state department of
+48 education may revoke eligibility if:
+
+3
+1 (a) The school fails to receive an annual unmodified audit opinion or if
+2 the auditor's report on internal controls reports one (1) or more mate-
+3 rial weaknesses or significant deficiencies;
+4 (b) The school fails to satisfy the academic requirements set forth in
+5 section 33-5218(2)(g), Idaho Code, for two (2) or more years; or
+6 (c) The school's charter is subsequently revoked, not renewed, or re-
+7 newed with conditions.
+8 (4) In 2029, the state board of education shall report to the legisla-
+9 ture the number of participating public charter schools and changes, if any,
+10 in student growth or proficiency on the Idaho standards achievement test.
+11 SECTION 3. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after
+13 July 1, 2026.

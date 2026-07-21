@@ -1,0 +1,518 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 897
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3622VV, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING THE IDAHO INFORMATION TECHNOLOGY EQUIPMENT SALES TAX
+4 EXEMPTION; AMENDING SECTION 63-4502, IDAHO CODE, TO LIMIT ELIGIBILITY
+5 FOR THE TAX EXEMPTION FOR NEW CAPITAL INVESTMENTS AND TO MAKE TECHNICAL
+6 CORRECTIONS; AMENDING SECTION 50-2903, IDAHO CODE, TO PROVIDE A CORRECT
+7 CODE REFERENCE; AND DECLARING AN EMERGENCY AND PROVIDING RETROACTIVE
+8 APPLICATION.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 63-3622VV, Idaho Code, be, and the same is
+11 hereby amended to read as follows:
+12 63-3622VV. IDAHO INFORMATION TECHNOLOGY EQUIPMENT. (1) On Except as
+13 otherwise provided in this section, on and after July 1, 2020, there is ex-
+14 empted from the taxes imposed by this chapter the purchase or use of eligi-
+15 ble server equipment and new data center facilities, as defined in this sec-
+16 tion, for a period of twenty (20) years from the date a qualifying business
+17 entity's final approval certification is issued by the state tax commission
+18 pursuant to subsection (2)(l)(ii) of this section. The exemption provided
+19 in this section shall be available only to qualifying business entities and
+20 contractors installing eligible server equipment or building new data cen-
+21 ter facilities for qualifying business entities. The exemption provided in
+22 this section shall not be available for property that has been the subject of
+23 business incentives granted to a taxpayer or its affiliates, pursuant to the
+24 Idaho reimbursement incentive act, sections 67-4737 through 67-4744, Idaho
+25 Code. For purchases related to data centers that commenced construction on
+26 or after April 1, 2026, the exemption provided in this section shall apply
+27 only to eligible server equipment.
+28 (2) As used in this section:
+29 (a) "Business entity" means a separate legal entity or separately oper-
+30 ated segment of business that exists for the primary purpose of engaging
+31 in a commercial activity for profit and whose sole purpose is the oper-
+32 ation of a data center. For the purposes of this section, a separately
+33 operated segment of business is a segment of a business for which sep-
+34 arate records are maintained and that is operated by an employee or em-
+35 ployees whose primary employment responsibility is to operate the busi-
+36 ness segment.
+37 (b) "Cabling" means a fiber or copper cable used in data centers to con-
+38 nect information sources to a server or storage device.
+39 (c) "Capital investment" means real or tangible personal property that
+40 is purchased for use in Idaho and is used by a business entity for the
+41 purpose of operating a data center.
+
+2
+1 (d) "Chiller" means a cooling system used in data centers to remove heat
+2 from an element and deposit it into another element.
+3 (e) "Commenced construction" or "commences construction" means physi-
+4 cal placement, assembly, or installation of materials or equipment that
+5 will make up part of a data center and that takes place at the site of the
+6 proposed data center.
+7 (e) (f) "Commencement of operations" means the date on which a certifi-
+8 cate of occupancy is issued for a data center.
+9 (f) (g) "Data center" means a facility comprised of one (1) or more
+10 buildings in Idaho that is used to house eligible server equipment for
+11 the transmission and storage of data where the facility has the follow-
+12 ing characteristics:
+13 (i) Uninterruptible power supplies, generator power, or both;
+14 (ii) Sophisticated fire suppression and prevention systems; and
+15 (iii) Enhanced physical security and restricted access.
+16 (g) (h) "Eligible server equipment" means new server equipment ac-
+17 quired by a qualifying business entity as described in this subsection
+18 that is maintained and operated in a data center located in Idaho for
+19 the sole purpose of data transmission and storage services, providing
+20 data and transaction processing services, information technology ser-
+21 vices, or computer collocation services. "Eligible server equipment"
+22 includes servers, rack servers, chillers, storage devices, generators,
+23 cabling, and enabling software integral to or installed on such equip-
+24 ment.
+25 (h) (i) "Generator" means an engine used in data centers to convert me-
+26 chanical energy into electricity.
+27 (i) (j) "New data center facilities" means buildings or structural
+28 components of buildings, including equipment, materials, and fixtures
+29 thereof, that are used in or intended for use primarily as a data center
+30 in Idaho.
+31 (j) (k) "New jobs" means new jobs created in Idaho that are nonseasonal,
+32 full-time jobs that collectively pay an average weekly wage that equals
+33 or exceeds the average weekly wage for the county where the data center
+34 is located, as determined by the most recent report of the United States
+35 bureau of labor statistics. A job that merely changes locations within
+36 the state of Idaho shall not be considered a new job under this section.
+37 New jobs must exceed the business entity's highest number of full-time
+38 employees in Idaho during the twenty-four (24) months immediately pre-
+39 ceding the commencement of operations of the data center.
+40 (k) (l)(i) "Qualifying business entity" means a business entity
+41 that certifies to the state tax commission that it will make:
+42 1. Make capital investments in one (1) or more data centers
+43 after July 1, 2020, in amounts of at least two hundred fifty
+44 million dollars ($250,000,000) in the aggregate within the
+45 first five (5) years after commencement of construction and
+46 that it will create;
+47 2. Create and maintain at least thirty (30) new jobs at the
+48 data center within two (2) calendar years after the com-
+49 mencement of operations.;
+
+3
+1 3. For a qualifying business entity that commences con-
+2 struction on a data center on or after April 1, 2026, receive
+3 electricity service under an electricity rate schedule or
+4 energy service agreement that fully recovers from the qual-
+5 ifying business entity all costs incurred by the utility in
+6 providing electricity to the property for which the exemp-
+7 tion is claimed; and
+8 4. For a qualifying business entity that commences con-
+9 struction on a data center on or after April 1, 2026, prior
+10 to commencing construction of a data center, provide writ-
+11 ten notice to the local water provider serving such proposed
+12 data center's location and the department of water resources
+13 detailing the anticipated water consumption needs of the
+14 data center to ensure that the water consumption is compati-
+15 ble with the location in which the data center is being con-
+16 structed. Proprietary information submitted to the local
+17 water provider and the department of water resources shall
+18 be confidential. A qualifying business entity is encouraged
+19 to take action to conserve, reuse, and replace water. This
+20 includes but is not limited to:
+21 (A) Using water-efficient fixtures and practices;
+22 (B) Treating, infiltrating, or harvesting rainwater;
+23 (C) Recirculating or recycling water within the cool-
+24 ing system before discharging;
+25 (D) Partnering with state and local governmental en-
+26 tities and private individuals and entities to use data
+27 center discharge water for irrigation, water conserva-
+28 tion, aquifer recharge, or other beneficial purposes,
+29 if available;
+30 (E) Using reclaimed water where possible for data cen-
+31 ter operations; and
+32 (F) Supporting water restoration efforts in local wa-
+33 tersheds.
+34 (ii) Such business entities shall be entitled to a provisional
+35 exemption pursuant to this section during the period in which they
+36 make capital investments in data center property. If a business
+37 entity fails to meet the investment and job creation require-
+38 ments provided within the time periods required in this section,
+39 it shall pay sales or use taxes that would have been due if not
+40 for the granting of the provisional exemption. If a business en-
+41 tity meets the investment and job creation requirements provided
+42 within the time periods required in this section, its provisional
+43 exemption shall become final without further action and the state
+44 tax commission shall issue and deliver a written certification to
+45 the qualifying business entity confirming such final approval,
+46 and thereafter the exemption shall also apply to all additional
+47 purchases of eligible server equipment and purchases associated
+48 with constructing new data center facilities until the exemption
+49 expires after the time period provided in subsection (1) of this
+50 section.
+
+4
+1 (l) (m) "Rack server" means a computer in a data center dedicated to use
+2 as a server and designed to be installed in a framework called a rack.
+3 (m) (n) "Server" means a computer or computer program used in data cen-
+4 ters that manages access to a centralized resource or service in a net-
+5 work.
+6 (n) (o) "Storage device" means a piece of computer equipment on which
+7 information can be stored and that is used in data centers.
+8 (3) The state tax commission shall prepare and file the following re-
+9 ports with the senate local government and taxation committee and the house
+10 revenue and taxation committee:
+11 (a) Starting in 2027, the state tax commission shall use anonymized and
+12 aggregated data to prepare and file a report no later than February 1
+13 each year detailing the approximate amount of sales tax revenue forgone
+14 by the state in the previous calendar year due to the exemption provided
+15 in this section.
+16 (b) Starting in 2032, and every five (5) years thereafter, the state
+17 tax commission shall prepare and file along with its report pursuant to
+18 paragraph (a) of this subsection, an additional report detailing the
+19 following:
+20 (i) The approximate number of jobs that qualifying business en-
+21 tities have created in the state that are directly related to the
+22 data centers that are the subject of the exemption provided in this
+23 section;
+24 (ii) The total amount of capital investment that qualifying busi-
+25 ness entities have invested in the state that is directly related
+26 to the data centers that are the subject of the exemption provided
+27 in this section;
+28 (iii) A summary of the electricity usage of data centers that are
+29 the subject of the exemption provided in this section and how such
+30 electricity usage has impacted the availability and price of elec-
+31 tricity in the communities surrounding such data centers; and
+32 (iv) A summary of the water usage of data centers that are the sub-
+33 ject of the exemption provided in this section and how such water
+34 usage has impacted the availability and price of water in the com-
+35 munities surrounding such data centers.
+36 (3) (4) The state tax commission may promulgate rules to administer
+37 and enforce the provisions of this section, including the promulgation of
+38 rules relating to the provision of information necessary to certify that the
+39 taxpayer satisfies the criteria for a qualifying business entity. For the
+40 purpose of carrying out its duties to administer and enforce the provisions
+41 of this section, the state tax commission shall have the powers and duties
+42 provided by sections 63-217, 63-3038, 63-3039, 63-3042 through 63-3067,
+43 63-3068, 63-3071, and 63-3074 through 63-3078, Idaho Code.
+44 SECTION 2. That Section 63-4502, Idaho Code, be, and the same is hereby
+45 amended to read as follows:
+46 63-4502. TAX EXEMPTION FOR NEW CAPITAL INVESTMENTS. (1) For calendar
+47 years beginning on or after January 1, 2008, the net taxable value of all
+48 property of a taxpayer, whether acquired before, during or after the qual-
+49 ifying period, in excess of four hundred million dollars ($400,000,000)
+
+5
+1 located within a single county in Idaho shall be exempt from property taxa-
+2 tion and any special assessment, but only if the taxpayer makes a qualifying
+3 new capital investment as defined in subsection (2) of this section related
+4 to a new plant and building facilities that commenced construction prior
+5 to April 1, 2026. Beginning in tax year 2026 and each tax year thereafter,
+6 for any taxpayer qualifying for this exemption in both the current tax year
+7 and the immediately preceding tax year, such nonexempt amount shall be ad-
+8 justed annually. The adjusted amount shall equal the amount applicable to
+9 the taxpayer for the previous tax year increased by the percentage change in
+10 the aggregate property tax budgets adopted by all taxing districts that levy
+11 on the property, from the previous year to the current year, excluding any
+12 budget increases attributable to new construction or annexation in the cur-
+13 rent year. The net taxable value in excess of such adjusted nonexempt amount
+14 shall be exempt from property taxation and any special assessment.
+15 (2) For purposes of this section, the following definitions shall ap-
+16 ply:
+17 (a) "Commenced construction" means physical placement, assembly, or
+18 installation of materials or equipment that will make up part of a new
+19 plant and building facilities that is the subject of a qualifying new
+20 capital investment and that takes place at the project site of such new
+21 plant and building facilities.
+22 (a) (b) "Qualifying new capital investment" means an investment of at
+23 least one billion dollars ($1,000,000,000) made during the qualifying
+24 period by the acquisition, construction, improvement or installation
+25 of real, operating or personal property related to new plant and build-
+26 ing facilities at a project site located within the county referred to
+27 in subsection (1) of this section.
+28 (b) (c) "New plant and building facilities" means:
+29 (i) Qualified investments as defined in section 63-3029B, Idaho
+30 Code; or
+31 (ii) Buildings or structural components of buildings, includ-
+32 ing equipment, materials and fixtures thereof, whether used at a
+33 project site or temporarily stored off-site in the county referred
+34 to in subsection (1) of this section and intended for use at a
+35 project site.
+36 (c) (d) "Qualifying period" means an eighty-four (84) month period of
+37 time beginning with the issuance of a building permit for a permanent
+38 building structure at a project site and ending no later than eighty-
+39 four (84) months a thereafter.
+40 (d) (e) "Project site" means an area or areas at which the new plant
+41 and building facilities described in subsection (2) (b) paragraph (c)
+42 of this subsection are built, installed or constructed.
+43 (3) The property included in the calculation for purposes of determin-
+44 ing a qualifying new capital investment value shall include all real or op-
+45 erating property owned, and all personal property owned, leased or rented.
+46 With respect to leased or rented personal property, only that portion of the
+47 property for which a taxpayer is contractually liable for payment of prop-
+48 erty taxes thereon shall be included in the calculation of the investment.
+49 (4) Notwithstanding the exemption provided in subsection (4) of sec-
+50 tion 63-3029B, Idaho Code, no other exemption from property tax or any spe-
+
+6
+1 cial assessment provided by the statutes of this state shall be applicable
+2 to any property described in subsection (2) of this section with respect to a
+3 year in which the incentives set forth in subsection (1) of this section ap-
+4 ply to any of the same property.
+5 (5) Property subject to the provisions of this section shall not be
+6 included on any property roll or any new construction roll prepared by the
+7 county assessor in accordance with section 63-301 or 63-301A, Idaho Code,
+8 respectively.
+9 (6) The state tax commission shall adopt all rules that may be necessary
+10 to implement the provisions of this section.
+11 SECTION 3. That Section 50-2903, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 50-2903. DEFINITIONS. The following terms used in this chapter shall
+14 have the following meanings, unless the context otherwise requires:
+15 (1) "Act" or "this act" means this revenue allocation act.
+16 (2) "Agency" or "urban renewal agency" means a public body created pur-
+17 suant to section 50-2006, Idaho Code.
+18 (3) "Authorized municipality" or "municipality" means any county or
+19 incorporated city that has established an urban renewal agency or by or-
+20 dinance has identified and created a competitively disadvantaged border
+21 community.
+22 (4) Except as provided in section 50-2903A, Idaho Code, "base assess-
+23 ment roll" means the equalized assessment rolls, for all classes of taxable
+24 property, on January 1 of the year in which the local governing body of an
+25 authorized municipality passes an ordinance adopting or modifying an urban
+26 renewal plan containing a revenue allocation financing provision, except
+27 that the base assessment roll shall be adjusted as follows: the equalized
+28 assessment valuation of the taxable property in a revenue allocation area
+29 as shown upon the base assessment roll shall be reduced by the amount by
+30 which the equalized assessed valuation as shown on the base assessment roll
+31 exceeds the current equalized assessed valuation of any taxable property
+32 located in the revenue allocation area and by the equalized assessed val-
+33 uation of taxable property in such revenue allocation area that becomes
+34 exempt from taxation subsequent to the date of the base assessment roll.
+35 The equalized assessed valuation of the taxable property in a revenue allo-
+36 cation area as shown on the base assessment roll shall be increased by the
+37 equalized assessed valuation, as of the date of the base assessment roll, of
+38 taxable property in such revenue allocation area that becomes taxable after
+39 the date of the base assessment roll. Any increase in valuation due to prop-
+40 erty owned, leased, or used in the operation of a business entity that makes
+41 capital investments in one (1) or more data centers, as defined in section
+42 63-3622VV(2)(f), Idaho Code, after July 1, 2020, in amounts of at least two
+43 hundred fifty million dollars ($250,000,000) in the aggregate within the
+44 first five (5) years after commencement of construction, that creates and
+45 maintains at least thirty (30) new jobs at the data center within two (2)
+46 calendar years after the commencement of operations, and that is located in
+47 a revenue allocation area for which no bonds have been issued pursuant to
+48 section 50-2909, Idaho Code, as of March 16, 2023, shall be added to the base
+49 assessment roll in the current tax year. An urban renewal plan containing
+
+7
+1 a revenue allocation financing provision adopted or modified prior to July
+2 1, 2016, is not subject to section 50-2903A, Idaho Code. For plans adopted
+3 or modified prior to July 1, 2016, and for subsequent modifications of those
+4 urban renewal plans, the value of the base assessment roll of property within
+5 the revenue allocation area shall be determined as if the modification had
+6 not occurred.
+7 (5) "Budget" means an annual estimate of revenues and expenses for the
+8 following fiscal year of the agency. An agency shall, by September 1 of each
+9 calendar year, adopt and publish, as described in section 50-1002, Idaho
+10 Code, a budget for the next fiscal year. An agency may amend its adopted
+11 budget using the same procedures as used for adoption of the budget. For
+12 the fiscal year that immediately predates the termination date for an urban
+13 renewal plan involving a revenue allocation area or will include the termi-
+14 nation date, the agency shall adopt and publish a budget specifically for the
+15 projected revenues and expenses of the plan and make a determination as to
+16 whether the revenue allocation area can be terminated before the January 1
+17 of the termination year pursuant to the terms of section 50-2909(4), Idaho
+18 Code. In the event that the agency determines that current tax year revenues
+19 are sufficient to cover all estimated expenses for the current year and all
+20 future years, by September 1 the agency shall adopt a resolution advising and
+21 notifying the local governing body, the county auditor, and the state tax
+22 commission and recommending the adoption of an ordinance for termination of
+23 the revenue allocation area by December 31 of the current year and declaring
+24 a surplus to be distributed as described in section 50-2909, Idaho Code,
+25 should a surplus be determined to exist. The agency shall cause the ordi-
+26 nance to be filed with the office of the county recorder and the Idaho state
+27 tax commission as provided in section 63-215, Idaho Code. Upon notification
+28 of revenues sufficient to cover expenses as provided herein, the increment
+29 value of that revenue allocation area shall be included in the net taxable
+30 value of the appropriate taxing districts when calculating the subsequent
+31 property tax levies pursuant to section 63-803, Idaho Code. The increment
+32 value shall also be included in subsequent notification of taxable value for
+33 each taxing district pursuant to section 63-1312, Idaho Code, and subsequent
+34 certification of actual and adjusted market values for each school district
+35 pursuant to section 63-315, Idaho Code.
+36 (6) "Clerk" means the clerk of the municipality.
+37 (7) "Competitively disadvantaged border community area" means a parcel
+38 of land consisting of at least forty (40) acres that is situated within the
+39 jurisdiction of a county or an incorporated city and within twenty-five (25)
+40 miles of a state or international border, which the governing body of such
+41 county or incorporated city has determined by ordinance is disadvantaged in
+42 its ability to attract business, private investment, or commercial develop-
+43 ment as a result of a competitive advantage in the adjacent state or nation
+44 resulting from inequities or disparities in comparative sales taxes, income
+45 taxes, property taxes, population or unique geographic features.
+46 (8) "Deteriorated area" means:
+47 (a) Any area, including a slum area, in which there is a predominance
+48 of buildings or improvements, whether residential or nonresidential,
+49 which by reason of dilapidation, deterioration, age or obsolescence,
+50 inadequate provision for ventilation, light, air, sanitation, or open
+
+8
+1 spaces, high density of population and overcrowding, or the existence
+2 of conditions that endanger life or property by fire and other causes,
+3 or any combination of such factors, is conducive to ill health, trans-
+4 mission of disease, infant mortality, juvenile delinquency, or crime,
+5 and is detrimental to the public health, safety, morals or welfare.
+6 (b) Any area which by reason of the presence of a substantial number of
+7 deteriorated or deteriorating structures, predominance of defective or
+8 inadequate street layout, faulty lot layout in relation to size, ade-
+9 quacy, accessibility or usefulness, insanitary or unsafe conditions,
+10 deterioration of site or other improvements, diversity of ownership,
+11 tax or special assessment delinquency exceeding the fair value of the
+12 land, defective or unusual conditions of title, or the existence of con-
+13 ditions that endanger life or property by fire and other causes, or any
+14 combination of such factors, results in economic underdevelopment of
+15 the area, substantially impairs or arrests the sound growth of a munici-
+16 pality, retards the provision of housing accommodations or constitutes
+17 an economic or social liability and is a menace to the public health,
+18 safety, morals or welfare in its present condition and use.
+19 (c) Any area which is predominately open and which because of obsolete
+20 platting, diversity of ownership, deterioration of structures or im-
+21 provements, or otherwise, results in economic underdevelopment of the
+22 area or substantially impairs or arrests the sound growth of a munici-
+23 pality. The provisions of section 50-2008(d), Idaho Code, shall apply
+24 to open areas.
+25 (d) Any area which the local governing body certifies is in need of
+26 redevelopment or rehabilitation as a result of a flood, storm, earth-
+27 quake, or other natural disaster or catastrophe respecting which the
+28 governor of the state has certified the need for disaster assistance
+29 under any federal law.
+30 (e) Any area which by reason of its proximity to the border of an ad-
+31 jacent state is competitively disadvantaged in its ability to attract
+32 private investment, business or commercial development which would
+33 promote the purposes of this chapter.
+34 (f) Deteriorated area does not mean not developed beyond agricultural,
+35 or any agricultural operation as defined in section 22-4502(1), Idaho
+36 Code, or any forest land as defined in section 63-1701(4), Idaho Code,
+37 unless the owner of the agricultural operation or the forest landowner
+38 of the forest land gives written consent to be included in the deterio-
+39 rated area, except for an agricultural operation or forest land that has
+40 not been used for three (3) consecutive years.
+41 (9) "Facilities" means land, rights in land, buildings, structures,
+42 machinery, landscaping, extension of utility services, approaches, road-
+43 ways and parking, handling and storage areas, and similar auxiliary and re-
+44 lated facilities.
+45 (10) "Increment value" means the total value calculated by summing the
+46 differences between the current equalized value of each taxable property in
+47 the revenue allocation area and that property's current base value on the
+48 base assessment roll, provided such difference is a positive value.
+49 (11) "Local governing body" means the city council or board of county
+50 commissioners of a municipality.
+
+9
+1 (12) "Manufacturing project" means a manufacturing or industrial
+2 project and ancillary uses that manufactures, processes, or fabricates tan-
+3 gible personal property as defined in section 63-3616, Idaho Code.
+4 (13) "Plan" or "urban renewal plan" means a plan, as it exists or may
+5 from time to time be amended, prepared and approved pursuant to sections
+6 50-2008 and 50-2905, Idaho Code, and any method or methods of financing such
+7 plan, which methods may include revenue allocation financing provisions.
+8 (14) "Project" or "urban renewal project" or "competitively disadvan-
+9 taged border areas" may include undertakings and activities of a municipal-
+10 ity in an urban renewal area for the elimination of deteriorated or deterio-
+11 rating areas and for the prevention of the development or spread of slums and
+12 blight and may involve slum clearance and redevelopment in an urban renewal
+13 area, or rehabilitation or conservation in an urban renewal area, or any com-
+14 bination or part thereof in accordance with an urban renewal plan. Such un-
+15 dertakings and activities may include:
+16 (a) Acquisition of a deteriorated area or a deteriorating area or por-
+17 tion thereof;
+18 (b) Demolition and removal of buildings and improvement;
+19 (c) Installation, construction, or reconstruction of streets, utili-
+20 ties, parks, playgrounds, open space, off-street parking facilities,
+21 public facilities, public recreation and entertainment facilities or
+22 buildings and other improvements necessary for carrying out, in the ur-
+23 ban renewal area or competitively disadvantaged border community area,
+24 the urban renewal objectives of this act in accordance with the urban
+25 renewal plan or the competitively disadvantaged border community area
+26 ordinance.
+27 (d) Disposition of any property acquired in the urban renewal area or
+28 the competitively disadvantaged border community area, including sale,
+29 initial leasing, or retention by the agency itself, or the municipality
+30 creating the competitively disadvantaged border community area at its
+31 fair value for uses in accordance with the urban renewal plan except for
+32 disposition of property to another public body;
+33 (e) Carrying out plans for a program of voluntary or compulsory repair
+34 and rehabilitation of buildings or other improvements in accordance
+35 with the urban renewal plan;
+36 (f) Acquisition of real property in the urban renewal area or the com-
+37 petitively disadvantaged border community area that, under the urban
+38 renewal plan, is to be repaired or rehabilitated for dwelling use or re-
+39 lated facilities, repair or rehabilitation of the structures for guid-
+40 ance purposes, and resale of the property;
+41 (g) Acquisition of any other real property in the urban renewal area
+42 or competitively disadvantaged border community area where necessary
+43 to eliminate unhealthful, insanitary or unsafe conditions, lessen den-
+44 sity, eliminate obsolete or other uses detrimental to the public wel-
+45 fare, or otherwise to remove or to prevent the spread of blight or dete-
+46 rioration, or to provide land for needed public facilities or where nec-
+47 essary to accomplish the purposes for which a competitively disadvan-
+48 taged border community area was created by ordinance;
+49 (h) Lending or investing federal funds; and
+
+10
+1 (i) Construction of foundations, platforms and other like structural
+2 forms.
+3 (15) "Project costs" includes, but is not limited to:
+4 (a) Capital costs, including the actual costs of the construction of
+5 public works or improvements, facilities, buildings, structures, and
+6 permanent fixtures; the demolition, alteration, remodeling, repair or
+7 reconstruction of existing buildings, structures, and permanent fix-
+8 tures; the acquisition of equipment; and the clearing and grading of
+9 land;
+10 (b) Financing costs, including interest during construction and capi-
+11 talized debt service or repair and replacement or other appropriate re-
+12 serves;
+13 (c) Real property assembly costs, meaning any deficit incurred from the
+14 sale or lease by a municipality of real or personal property within a
+15 revenue allocation district;
+16 (d) Professional service costs, including those costs incurred for ar-
+17 chitectural, planning, engineering, and legal advice and services;
+18 (e) Direct administrative costs, including reasonable charges for the
+19 time spent by city or county employees in connection with the implemen-
+20 tation of a project plan;
+21 (f) Relocation costs; and
+22 (g) Other costs incidental to any of the foregoing costs.
+23 (16) "Revenue allocation area" means that portion of an urban renewal
+24 area or competitively disadvantaged border community area where the equal-
+25 ized assessed valuation, as shown by the taxable property assessment rolls,
+26 of which the local governing body has determined, on and as a part of an urban
+27 renewal plan, is likely to increase as a result of the initiation of an urban
+28 renewal project or competitively disadvantaged border community area. The
+29 base assessment roll or rolls of revenue allocation area or areas shall not
+30 exceed at any time ten percent (10%) of the current assessed valuation of all
+31 taxable property within the municipality.
+32 (17) "State" means the state of Idaho.
+33 (18) "Tax" or "taxes" means all property tax levies upon taxable prop-
+34 erty.
+35 (19) "Taxable property" means taxable real property, personal prop-
+36 erty, operating property, or any other tangible or intangible property
+37 included on the equalized assessment rolls.
+38 (20) "Taxing district" means a taxing district as defined in section
+39 63-201, Idaho Code, as that section now exists or may hereafter be amended.
+40 (21) "Termination date" means a specific date no later than twenty (20)
+41 years from the effective date of an urban renewal plan or as described in sec-
+42 tion 50-2904, Idaho Code, on which date the plan shall terminate. Every ur-
+43 ban renewal plan shall have a termination date that can be modified or ex-
+44 tended subject to the twenty (20) year maximum limitation, except as pro-
+45 vided in section 50-2904(5), Idaho Code. Provided however, the duration of
+46 a revenue allocation financing provision may be extended as provided in sec-
+47 tion 50-2904, Idaho Code.
+48 SECTION 4. An emergency existing therefor, which emergency is hereby
+49 declared to exist, this act shall be in full force and effect on and after its
+50 passage and approval, and retroactively to January 1, 2026.

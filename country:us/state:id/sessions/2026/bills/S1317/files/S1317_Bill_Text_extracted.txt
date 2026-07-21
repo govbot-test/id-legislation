@@ -1,0 +1,184 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1317
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 3, TITLE 33, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW SECTION 33-321, IDAHO CODE, TO PROVIDE LEGISLATIVE FIND-
+4 INGS, TO DEFINE TERMS, TO PROVIDE FOR THE FORMATION, APPROVAL, AND POW-
+5 ERS OF REGIONAL SERVICE CENTERS, TO PROVIDE LIMITATIONS, AND TO PROVIDE
+6 FOR FUNDING CERTAIN OPERATIONS; AMENDING CHAPTER 3, TITLE 33, IDAHO
+7 CODE, BY THE ADDITION OF A NEW SECTION 33-322, IDAHO CODE, TO ESTABLISH
+8 THE REGIONAL SERVICE CENTER CONTRACTS FUND; AND DECLARING AN EMERGENCY.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 3, Title 33, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 33-321, Idaho Code, and to read as follows:
+13 33-321. REGIONAL SERVICE CENTERS. (1) The legislature finds that:
+14 (a) Idaho school districts and public charter schools face persistent
+15 challenges in recruiting, retaining, and sustaining highly specialized
+16 personnel required to educate an increasingly complex student body.
+17 This is especially problematic for noninstructional staff required un-
+18 der the individuals with disabilities education act (IDEA), including
+19 psychologists, speech-language pathologists, behavior specialists,
+20 occupational and physical therapists, and special education adminis-
+21 trators.
+22 (b) These challenges contribute to uneven service delivery, dupli-
+23 cation of administrative structures, increased costs, and heightened
+24 risk of federal noncompliance under IDEA general supervision require-
+25 ments.
+26 (c) Regional service centers can aid local education agencies in areas
+27 of accounting, finance, human resources, recruitment, professional de-
+28 velopment, and information technology services.
+29 (d) Using shared, regional service delivery models, controlled by par-
+30 ticipating local education agencies and supported by predictable state
+31 funding, can reduce duplication, improve compliance, strengthen work-
+32 force pipelines, and preserve local control.
+33 (e) Idaho requires a cooperative, voluntary framework that en-
+34 ables local education agencies to pool resources for high-cost and
+35 hard-to-staff services while maintaining enrollment, instructional
+36 authority, legal responsibilities, and governance at the local level.
+37 (2) As used in this section:
+38 (a) "Board" means a regional service center board.
+39 (b) "Contracted services" means additional services offered by an RSC
+40 on a fee-for-service basis, elected by participating LEAs and outlined
+41 under a service-level agreement, memorandum of agreement, or an inter-
+42 local agreement pursuant to section 67-2332, Idaho Code.
+
+2
+1 (c) "Core services" means services supported by appropriated baseline
+2 state funding to provide for administrative support of RSCs.
+3 (d) "Individualized education program" or "IEP" means a program devel-
+4 oped collaboratively by a student's IEP team that outlines the special
+5 education program for a student with a disability, including special-
+6 ized instruction and related services.
+7 (e) "Local education agency" or "LEA" means school districts and public
+8 charter schools that are not part of a school district.
+9 (f) "Participating LEA" means a school district or public charter
+10 school that has entered into an interlocal agreement with an RSC.
+11 (g) "Regional service center" or "RSC" means a voluntary, cooperative
+12 public entity supporting two (2) or more LEAs through an interlocal
+13 agreement for the purpose of providing shared educational and adminis-
+14 trative services.
+15 (3)(a) A prospective RSC shall provide a governing charter and appli-
+16 cation to establish a new RSC to the state superintendent of public in-
+17 struction.
+18 (b) The charter and application shall specify the proposed:
+19 (i) Geographic service region;
+20 (ii) Governance structure, including board officers;
+21 (iii) Services to be provided;
+22 (iv) Procedures for LEA participation and withdrawal;
+23 (v) Rules to modify or amend the charter governing such RSC; and
+24 (vi) Fiscal management and accountability.
+25 (4) Upon the state superintendent of public instruction's approval of
+26 a prospective RSC's charter and application, a board for that RSC shall be
+27 established, which shall be vested with the authority, control, and super-
+28 vision of the RSC and its service programs and which shall have the powers
+29 required to perform the duties set forth in this section. Each RSC charter
+30 shall designate its board, which shall consist of at least two (2) superin-
+31 tendents or charter administrators, or their designees, from LEAs receiving
+32 contracted services from the RSC. The superintendent of public instruction
+33 shall appoint one (1) additional member to the board who:
+34 (a) Shall not vote on board matters, except in order to break a tied
+35 vote;
+36 (b) Shall ensure compliance with this section; and
+37 (c) Shall report the decisions of the board to the superintendent of
+38 public instruction.
+39 (5) RSC boards shall have and may exercise the following powers and du-
+40 ties:
+41 (a) To hire staff as necessary to complete the board's mission as out-
+42 lined in this section.
+43 (i) Staff requiring certification shall be properly certified
+44 and endorsed for the service being rendered pursuant to section
+45 33-1201, Idaho Code.
+46 (ii) All staff working for an RSC shall be eligible for the public
+47 employee retirement system pursuant to chapter 13, title 59, Idaho
+48 Code.
+
+3
+1 (iii) Staff working for an RSC shall maintain their career ladder
+2 and experience growth as if they were employed directly by an LEA
+3 pursuant to section 33-1004B, Idaho Code;
+4 (b) To cooperate or enter into contracts or agreements to provide ser-
+5 vices or do such other things as specified in the agreement, subject
+6 to the limitations described in this subsection. An agreement entered
+7 into pursuant to this paragraph may be between the superintendent of
+8 public instruction, institutions of higher education, and one (1) LEA
+9 or multiple LEAs. The board may enter into agreements to render ser-
+10 vices to or for agencies in exchange for a charge reasonably calculated
+11 to cover the cost of rendering such service. This authority is to be
+12 limited to services voluntarily rendered and voluntarily received;
+13 (c) To determine the location of its main office and to determine the
+14 location of branch offices, if any. Services are encouraged to be pro-
+15 vided in person to the maximum reasonable extent for student-oriented
+16 or staff-oriented positions;
+17 (d) To deposit all moneys or payment received or collected by gift,
+18 grant, devise, or any other way to the respective division or subaccount
+19 of the RSC;
+20 (e) To establish a fiscal control policy;
+21 (f) To purchase, exchange, or sell real property and construct, rent,
+22 or lease such buildings as may be required for the accomplishment of
+23 the duties imposed on the RSC and to further obtain such other personal
+24 property as may be necessary to its functions;
+25 (g) To accept, receive, and utilize any gifts, grants, or funds and per-
+26 sonal and real property that may be donated to it for the fulfillment of
+27 the purposes outlined in this section; and
+28 (h) To establish a charge whereby the board agrees to render services to
+29 or for education entities for an amount reasonably calculated to cover
+30 the cost of rendering such services.
+31 (6) For the purposes of this section, an RSC is not a subdivision of the
+32 state and shall be considered an independent body corporate and politic pur-
+33 suant to section 1, article VIII of the constitution of the state of Idaho and
+34 is not authorized hereby to levy taxes or to obligate the state of Idaho con-
+35 cerning such financing.
+36 (7) Neither the board nor the staff of an RSC has any authority or powers
+37 over curriculum, instruction, or student enrollment, which shall remain the
+38 responsibility of each LEA.
+39 (8) RSCs shall receive funding administered by the department of educa-
+40 tion, subject to legislative appropriations, for the administration of the
+41 RSCs. Nothing in this section shall be construed to create an entitlement to
+42 funding or to obligate the state to provide ongoing financial support. Funds
+43 appropriated pursuant to this section shall be separate from and shall not
+44 modify, supplant, or replace distributions made pursuant to the Idaho public
+45 school funding formula. Baseline funding shall cover core services and ad-
+46 ministrative operations that include but are not limited to:
+47 (a) Supporting workforce recruitment, training, and retention initia-
+48 tives aligned with statewide needs;
+49 (b) Supporting shared instructional and noninstructional services,
+50 including special education technical assistance and related supports;
+
+4
+1 (c) Supporting IDEA compliance, monitoring, and technical assistance;
+2 (d) Providing training and technical assistance to improve compliance
+3 with federal and state requirements;
+4 (e) Offsetting administrative and operational costs necessary to de-
+5 liver regional services efficiently; and
+6 (f) Reducing contracted service costs charged to participating LEAs.
+7 SECTION 2. That Chapter 3, Title 33, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 33-322, Idaho Code, and to read as follows:
+10 33-322. REGIONAL SERVICE CENTER CONTRACTS FUND. (1) There is hereby
+11 established in the state treasury the regional service center contracts fund
+12 to be administered by regional service centers.
+13 (2) Moneys in the fund shall consist of:
+14 (a) Legislative appropriations;
+15 (b) Donations and contributions made to the fund;
+16 (c) Interest earned on idle moneys in the fund; and
+17 (d) Moneys received for contracts authorized pursuant to section
+18 33-321(5)(b), Idaho Code.
+19 (3) Moneys in the fund shall be used exclusively to finance fee-for-
+20 services program costs outlined in memorandums of agreement or interlocal
+21 agreements authorized pursuant to section 33-321, Idaho Code, and are hereby
+22 continuously appropriated for such purposes.
+23 SECTION 3. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after its
+25 passage and approval.

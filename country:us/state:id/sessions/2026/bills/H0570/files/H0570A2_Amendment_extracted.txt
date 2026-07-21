@@ -1,0 +1,18 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Pohanka
+Seconded by Skaug(10)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO H.B. NO. 570
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 15, delete "or construction zone"
+3 and insert: "when children are present and visible or an active construction
+4 zone when workers are present and visible".

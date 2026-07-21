@@ -1,0 +1,18 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Scott
+Seconded by Holtzclaw(20)
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE AMENDMENT TO H.B. NO. 575
+1 AMENDMENT TO SECTION 1
+2 On page 2 of the printed bill, in line 33, delete "civil".
+3 CORRECTION TO TITLE
+4 On page 1, in line 4, delete "CIVIL"; and in line 6, delete "CIVIL".

@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1277
+BY LOCAL GOVERNMENT AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO ACCESSORY DWELLING UNITS; AMENDING SECTION 55-618, IDAHO CODE,
+3 TO REVISE PROVISIONS REGARDING INTERNAL ACCESSORY DWELLING UNITS;
+4 AMENDING SECTION 55-3212, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+5 ACCESSORY DWELLING UNITS AND TO REMOVE A DEFINITION; AMENDING CHAPTER
+6 65, TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 67-6541, IDAHO
+7 CODE, TO ESTABLISH PROVISIONS REGARDING ACCESSORY DWELLING UNITS AND TO
+8 PROVIDE A DEFINITION; PROVIDING SEVERABILITY; AND DECLARING AN EMER-
+9 GENCY AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 55-618, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 55-618. INTERNAL ACCESSORY DWELLING UNITS -- RESTRICTIVE COVENANTS
+14 PROHIBITED. (1) On and after July 1, 2023 2026, no restrictive covenant may
+15 be entered into that prohibits an internal or unreasonably restricts ac-
+16 cessory dwelling unit units, as defined in section 55-3212 67-6541, Idaho
+17 Code. Any such covenant is hereby declared to be against public policy and
+18 is void and unenforceable. Any person attempting to create or enforce such a
+19 covenant shall be liable for any attorney's fees, court costs, and any other
+20 damages incurred by the other party. The provisions of this section shall
+21 not be construed to protect more than one (1) internal accessory dwelling
+22 unit per homestead.
+23 (2) This section does not apply to a restrictive covenant against
+24 internal accessory dwelling units entered into prior to July 1, 2023 2026.
+25 SECTION 2. That Section 55-3212, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 55-3212. INTERNAL ACCESSORY DWELLING UNITS. (1) No covenant, condi-
+28 tion, or restriction may be added, amended, or enforced by a homeowner's
+29 association or any other parties in such a way that strictly prohibits
+30 internal or unreasonably restricts accessory dwelling units, as defined in
+31 subsection (3) of this section 67-6541, Idaho Code. The provisions of this
+32 section shall not be construed to protect more than one (1) internal acces-
+33 sory dwelling unit per homestead.
+34 (2) Notwithstanding the prohibitions provided in subsection (1) of
+35 this section, a homeowner's association may adopt reasonable rules govern-
+36 ing the use of internal accessory dwelling units otherwise allowed by law,
+37 including but not limited to size limits, height limits, setback require-
+38 ments, open space requirements, parking controls, and bedroom requirements.
+39 (3)(a) An "internal accessory dwelling unit" means a self-contained
+40 living unit that:
+
+2
+1 (i) Includes its own cooking, sleeping, and sanitation facili-
+2 ties;
+3 (ii) Is located within a detached, owner-occupied homestead, as
+4 defined in section 63-701, Idaho Code, or such homestead's at-
+5 tached or detached garage; and
+6 (iii) Is used for the purpose of housing relatives of the owner of
+7 the homestead or for the purpose of renting to a residential tenant
+8 for a period exceeding thirty (30) days.
+9 (b) An internal accessory dwelling unit does not include an alternative
+10 detached structure, motor home, camper, recreational vehicle, tiny
+11 home on wheels, or other such similar dwellings on wheels.
+12 (4) (3) Nothing in this section shall be construed to restrict a home-
+13 owner's association from adopting a less restrictive definition of acces-
+14 sory dwelling units.
+15 (5) (4) The provisions of this section do not apply to any rentals de-
+16 fined in section 63-1803(4), Idaho Code.
+17 SECTION 3. That Chapter 65, Title 67, Idaho Code, be, and the same is
+18 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+19 ignated as Section 67-6541, Idaho Code, and to read as follows:
+20 67-6541. ACCESSORY DWELLING UNITS. (1) No county, city, health dis-
+21 trict, sewer district, or water district shall enact or enforce any ordi-
+22 nance, rule, regulation, or policy that bans accessory dwelling units in any
+23 residential zoning area within its jurisdiction. An accessory dwelling unit
+24 shall be classified as a residential land use for zoning purposes subject to
+25 all applicable zoning requirements. "Accessory dwelling unit" means a self-
+26 contained living unit that includes its own cooking, sleeping, and sanita-
+27 tion facilities and that is located on the same lot as a single-family pri-
+28 mary dwelling. An accessory dwelling unit may be internal, attached, or de-
+29 tached but does not include a motorhome, camper, recreational vehicle, tiny
+30 home on wheels, or other such similar dwellings on wheels.
+31 (2) By resolution or ordinance adopted, amended, or repealed in accor-
+32 dance with the notice and hearing procedures provided under section 67-6509,
+33 Idaho Code, each governing board shall amend its comprehensive plan and land
+34 use regulations for all land zoned for single-family residential uses, ex-
+35 cept for lands falling within an area defined as a historic district under
+36 section 67-4607, Idaho Code, to:
+37 (a) Allow for one (1) accessory dwelling unit on lots with a size of up
+38 to one (1) acre and a maximum of two (2) accessory dwelling units for
+39 lots larger than one (1) acre. Where one (1) accessory dwelling unit
+40 is an internal accessory dwelling unit within the single-family primary
+41 dwelling, up to two (2) accessory dwelling units shall be allowed re-
+42 gardless of the size of the lot;
+43 (b) Prohibit requiring any off-street parking or guest parking for any
+44 accessory dwelling unit;
+45 (c) Prohibit imposing impact fees or utility connection fees on acces-
+46 sory dwelling units that are greater than those imposed on other sin-
+47 gle-family dwellings;
+
+3
+1 (d) Prohibit limiting the size of an accessory dwelling unit to less
+2 than one thousand (1000) square feet or seventy-five percent (75%) of
+3 the size of the primary dwelling;
+4 (e) Prohibit imposing a setback requirement greater than four (4) feet
+5 from the side and rear lot lines for an accessory dwelling unit that is
+6 not converted from an existing structure or for a new structure con-
+7 structed in the same location and to the same dimensions as an existing
+8 structure;
+9 (f) Prohibit an owner-occupancy requirement for the primary dwelling
+10 or for the accessory dwelling unit;
+11 (g) Prohibit restrictions for accessory dwelling units that are more
+12 restrictive than restrictions for single-family dwellings within the
+13 same zoning area with regard to height, setbacks, lot size, or coverage
+14 or building frontage;
+15 (h) Prohibit imposing a limit on density that is more restrictive than
+16 the greater of either the highest residential density allowed in the mu-
+17 nicipality or thirty-six (36) dwelling units per acre;
+18 (i) Prohibit imposing a limit on building height that is more restric-
+19 tive than the greater of either the highest height applicable to an of-
+20 fice, commercial, retail, or warehouse development constructed on the
+21 site or forty-five (45) feet; and
+22 (j) Prohibit imposing a setback or buffer requirement that is more
+23 restrictive than the lesser of either a setback or buffer requirement
+24 applicable to an office, commercial, retail, or warehouse development
+25 constructed on the site or twenty-five (25) feet.
+26 (3) Accessory dwelling unit projects that meet the jurisdiction's es-
+27 tablished land use requirements shall be approved administratively and as a
+28 matter of right, without the need for discretionary approval.
+29 (4) Any approval standards, special conditions, and procedures for ap-
+30 proval adopted by a local government shall be clear and objective and shall
+31 not have the effect, either singularly or cumulatively, of discouraging the
+32 development of accessory dwelling units through unreasonable cost or delay.
+33 (5) A property owner, housing developer, or other affected party may
+34 bring a private cause of action for injunctive relief, monetary damages,
+35 reasonable attorney's fees and costs, and any other appropriate relief
+36 available under law to enforce compliance with the provisions of this sec-
+37 tion.
+38 SECTION 4. SEVERABILITY. The provisions of this act are hereby declared
+39 to be severable and if any provision of this act or the application of such
+40 provision to any person or circumstance is declared invalid for any reason,
+41 such declaration shall not affect the validity of the remaining portions of
+42 this act.
+43 SECTION 5. An emergency existing therefor, which emergency is hereby
+44 declared to exist, this act shall be in full force and effect on and after
+45 July 1, 2026.

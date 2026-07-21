@@ -1,0 +1,603 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1345
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-111, IDAHO CODE, TO PROVIDE FOR
+3 SECURE ELECTRONIC COMMUNICATION AS A MEANS FOR TRANSMITTING CERTAIN
+4 COMMUNICATIONS; AMENDING SECTION 63-201, IDAHO CODE, TO DEFINE A TERM;
+5 AMENDING SECTION 63-510, IDAHO CODE, TO PROVIDE A CORRECT CODE REF-
+6 ERENCE; AMENDING SECTION 63-2517, IDAHO CODE, TO PROVIDE FOR SECURE
+7 ELECTRONIC COMMUNICATION AS A MEANS FOR TRANSMITTING CERTAIN NOTICES;
+8 AMENDING SECTION 63-3045, IDAHO CODE, TO PROVIDE FOR SECURE ELECTRONIC
+9 COMMUNICATION AS A MEANS FOR TRANSMITTING CERTAIN NOTICES; AMENDING
+10 SECTION 63-3045B, IDAHO CODE, TO PROVIDE FOR SECURE ELECTRONIC COMMUNI-
+11 CATION AS A MEANS FOR TRANSMITTING CERTAIN DOCUMENTS; AMENDING SECTION
+12 63-3061A, IDAHO CODE, TO PROVIDE FOR SECURE ELECTRONIC COMMUNICATION AS
+13 A MEANS FOR TRANSMITTING CERTAIN NOTICES; AMENDING SECTION 63-3065A,
+14 IDAHO CODE, TO PROVIDE FOR SECURE ELECTRONIC COMMUNICATION AS A MEANS
+15 FOR TRANSMITTING CERTAIN NOTICES; AMENDING SECTION 63-3620C, IDAHO
+16 CODE, TO PROVIDE FOR SECURE ELECTRONIC COMMUNICATION AS A MEANS FOR
+17 TRANSMITTING CERTAIN NOTICES AND TO MAKE TECHNICAL CORRECTIONS; AMEND-
+18 ING SECTION 63-4003, IDAHO CODE, TO PROVIDE FOR SECURE ELECTRONIC COM-
+19 MUNICATION AS A MEANS FOR TRANSMITTING TAX COLLECTION COMMUNICATIONS;
+20 PROVIDING SEVERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN
+21 EFFECTIVE DATE.
+22 Be It Enacted by the Legislature of the State of Idaho:
+23 SECTION 1. That Section 63-111, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 63-111. CERTIFICATE BY CHAIRMAN -- CHANGES IN ASSESSMENT. (1) On or
+26 before the first Monday of September in each year, the chairman of the state
+27 tax commission must transmit by certified mail or, by other commercial de-
+28 livery service providing proof of delivery, or by secure electronic communi-
+29 cation, whichever is the most cost-efficient, to the county auditor of each
+30 county in the state, a certified statement showing all the changes in the as-
+31 sessment of any class or all classes of property, or in the aggregate value
+32 of all property in said county, and the total increase or decrease as a result
+33 of all changes made by the state tax commission in the assessment of property
+34 in said county, and the county auditor shall, upon receipt of such certified
+35 statement, file the same in his office.
+36 (2) In transmitting the certified statement, as prescribed in subsec-
+37 tion (1) of this section, the chairman shall also transmit therewith the
+38 certificate showing the total amount of state property and special state
+39 taxes, if any, found to be due from the county, and shall also transmit
+40 therewith a certified statement showing the assessment of any railroad,
+41 telegraph, telephone or electric current transmission or distribution line
+42 and all other operating property under the jurisdiction of the state tax com-
+
+2
+1 mission situated wholly or partly within the county, specifying the number
+2 of miles, the equalized value per mile, and the total equalized value of each
+3 line in the county, and in any taxing district into or through which such
+4 line extends, and the name of such line, if any, and the name and post office
+5 address of the taxpayer or owner of such line, and the county auditor shall,
+6 upon receipt of such certified statement, file the same in his office.
+7 SECTION 2. That Section 63-201, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 63-201. DEFINITIONS. As used for property tax purposes in chapters 1
+10 through 23, title 63, Idaho Code, the terms defined in this section shall
+11 have the following meanings, unless the context clearly indicates another
+12 meaning:
+13 (1) "Appraisal" means an estimate of property value for property tax
+14 purposes.
+15 (a) For the purpose of estimated property value to place the value on
+16 any assessment roll, the value estimation must be made by the assessor
+17 or a certified property tax appraiser.
+18 (b) For the purpose of estimating property value to present for an ap-
+19 peal filed pursuant to sections 63-501A, 63-407 and 63-409, Idaho Code,
+20 the value estimation may be made by the assessor, a certified property
+21 tax appraiser, a licensed appraiser, or a certified appraiser or any
+22 party as specified by law.
+23 (2) "Bargeline" means those water transportation tugs, boats, barges,
+24 lighters and other equipment and property used in conjunction with waterways
+25 for bulk transportation of freight or ship assist.
+26 (3) "Cogenerators" means facilities that produce electric energy, and
+27 steam or forms of useful energy that are used for industrial, commercial,
+28 heating or cooling purposes.
+29 (4) "Collection costs" are amounts authorized by law to be added after
+30 the date of delinquency and collected in the same manner as property tax.
+31 (5) "Credit card" means a card or device, whether known as a credit card
+32 or by any other name, issued under an arrangement pursuant to which a card is-
+33 suer gives to a cardholder the privilege of obtaining credit from the card
+34 issuer or other person in purchasing or leasing property or services, ob-
+35 taining loans, or otherwise.
+36 (6) "Debit card" means any instrument or device, whether known as a
+37 debit card or by any other name, issued with or without a fee by an issuer for
+38 the use of the cardholder in depositing, obtaining or transferring funds.
+39 (7) "Delinquency" means any property tax, special assessment, fee,
+40 collection cost, or charge collected in the same manner as property tax, that
+41 has not been paid in the manner and within the time limits provided by law.
+42 (8) "Electronic funds transfer" means any transfer of funds that is
+43 initiated by electronic means, such as an electronic terminal, telephone,
+44 computer, ATM or magnetic tape.
+45 (9) "Fixtures" means those articles that, although once movable chat-
+46 tels, have become accessory to and a part of improvements to real property
+47 by having been physically incorporated therein or annexed or affixed thereto
+48 in such a manner that removing them would cause material injury or damage to
+49 the real property, the use or purpose of such articles is integral to the use
+
+3
+1 of the real property to which it is affixed, and a person would reasonably
+2 be considered to intend to make the articles permanent additions to the real
+3 property. "Fixtures" includes systems for the heating, air conditioning,
+4 ventilation, sanitation, lighting and plumbing of such building.
+5 (10) "Floating home" means a floating structure that is designed and
+6 built to be used, or is modified to be used, as a stationary waterborne resi-
+7 dential dwelling.
+8 (11) "Improvements" means all buildings, structures, manufactured
+9 homes, as defined in section 39-4105(8), Idaho Code, mobile homes as defined
+10 in section 39-4105(9), Idaho Code, and modular buildings, as defined in
+11 section 39-4301(10), Idaho Code, erected upon or affixed to land, fences,
+12 water ditches constructed for mining, manufacturing or irrigation purposes,
+13 fixtures, and floating homes, whether or not such improvements are owned
+14 separately from the ownership of the land upon or to which the same may be
+15 erected, affixed or attached. The term "improvements" also includes all
+16 fruit, nut-bearing and ornamental trees or vines not of natural growth,
+17 growing upon the land, except nursery stock.
+18 (12) "Late charge" means a charge of two percent (2%) of the delin-
+19 quency.
+20 (13) "Lawful money of the United States" means currency and coin of the
+21 United States at par value and checks and drafts that are payable in dollars
+22 of the United States at par value, payable upon demand or presentment.
+23 (14) "Legal tender" means lawful money as defined in subsection (13) of
+24 this section.
+25 (15) "Market value" means the amount of United States dollars or equiva-
+26 lent for which, in all probability, a property would exchange hands between a
+27 willing seller, under no compulsion to sell, and an informed, capable buyer,
+28 with a reasonable time allowed to consummate the sale, substantiated by a
+29 reasonable down or full cash payment.
+30 (16) "Operating property" means real and personal property operated
+31 in connection with any public utility, railroad or private railcar fleet,
+32 wholly or partly within this state, and which property is necessary to the
+33 maintenance and operation of the public utility, railroad or private railcar
+34 fleet, and the roads or lines thereof, and includes all rights-of-way ac-
+35 companied by title; roadbeds; tracks; pipelines; bargelines; equipment and
+36 docks; terminals; rolling stock; equipment; power stations; power sites;
+37 lands; reservoirs, generating plants, transmission lines, distribution
+38 lines and substations; and all title and interest in such property, as owner,
+39 lessee or otherwise. The term includes electrical generation plants under
+40 construction, whether or not owned by or operated in connection with any
+41 public utility. For the purpose of the appraisal, assessment and taxation of
+42 operating property, pursuant to chapter 4, title 63, Idaho Code, the value of
+43 intangible personal property shall be excluded from the taxable value of op-
+44 erating property in accordance with the provisions of section 63-602L, Idaho
+45 Code, and the value of personal property, other than intangible personal
+46 property, shall be excluded from the taxable value of operating property in
+47 accordance with the provisions of section 63-602KK, Idaho Code. Operating
+48 property shall be included in taxable value for the purpose of making a levy,
+49 as required in section 63-803, Idaho Code, except when an exemption is pro-
+50 vided or when said levy is to be made against real property only.
+
+4
+1 (17) "Party in interest" means a person who holds a recorded purchase
+2 contract, mortgage, deed of trust, security interest, lien or lease upon the
+3 property. For purposes of notice requirements in section 63-1009, Idaho
+4 Code, recording includes documents recorded in full or by memorandum provid-
+5 ing notice thereof.
+6 (18) "Person" means any entity, individual, corporation, partnership,
+7 firm, association, limited liability company, limited liability partner-
+8 ship or other such entities as recognized by the state of Idaho.
+9 (19) "Personal property" means everything that is the subject of owner-
+10 ship and that is not included within the term "real property."
+11 (20) "Private railcar fleet" means railroad cars or locomotives owned
+12 by, leased to, occupied by or franchised to any person other than a railroad
+13 company operating a line of railroad in Idaho or any company classified as a
+14 railroad by the interstate commerce commission and entitled to possess such
+15 railroad cars and locomotives except those possessed solely for the purpose
+16 of repair, rehabilitation or remanufacturing of such locomotives or rail-
+17 road cars.
+18 (21) "Public utility" means electrical companies, pipeline companies,
+19 natural gas distribution companies, or power producers included within fed-
+20 eral law, bargelines, and water companies which are under the jurisdiction
+21 of the Idaho public utilities commission. The term also includes telephone
+22 corporations, as that term is defined in section 62-603, Idaho Code, except
+23 as hereinafter provided, whether or not such telephone corporation has been
+24 issued a certificate of convenience and necessity by the Idaho public utili-
+25 ties commission. This term does not include cogenerators, mobile telephone
+26 service or companies, nor does it include pager service or companies, except
+27 when such services are an integral part of services provided by a certifi-
+28 cated utility company, nor does the term "public utility" include companies
+29 or persons engaged in the business of providing solely on a resale basis, any
+30 telephone or telecommunication service that is purchased from a telephone
+31 corporation or company.
+32 (22) "Railroad" means every kind of railway, whether its line of rails
+33 or tracks be at, above or below the surface of the earth, and without regard
+34 to the kind of power used in moving its rolling stock, and shall be consid-
+35 ered to include every kind of street railway, suburban railway or interur-
+36 ban railway excepting facilities established solely for maintenance and re-
+37 building of railroad cars or locomotives.
+38 (23) "Real property" means land and all rights and privileges thereto
+39 belonging or any way appertaining, all quarries and fossils in and under the
+40 land, and all other property that the law defines, or the courts may inter-
+41 pret, declare and hold to be real property under the letter, spirit, intent
+42 and meaning of the law, improvements and all standing timber thereon, in-
+43 cluding standing timber owned separately from the ownership of the land upon
+44 which the same may stand, except as modified in chapter 17, title 63, Idaho
+45 Code. Timber, forest, forest land, and forest products shall be defined as
+46 provided in chapter 17, title 63, Idaho Code.
+47 (24) "Record owner" means the person or persons in whose name or names
+48 the property stands upon the records of the county recorder's office. Where
+49 the record owners are husband and wife at the time of notice of pending issue
+
+5
+1 of tax deed, notice to one (1) shall be deemed and imputed as notice to the
+2 other spouse.
+3 (25) "Secure electronic communication" means a communication trans-
+4 mitted securely by means of an electronic device that includes a secure
+5 logged-in user interface process that meets federal information protection
+6 requirements for accessing data and information or similar systems of meth-
+7 ods that provide documents or other communication to any person by the state
+8 tax commission. Such communication is accomplished and is deemed sent when
+9 the notice, decision, or other document is made available in the logged-in
+10 user interface and is deemed received upon the opening of the communication
+11 by the recipient. Secure electronic communication shall be used only if the
+12 recipient elects to receive documents and other information through such
+13 means.
+14 (25) (26) "Special assessment" means a charge imposed upon property for
+15 a specific purpose, collected and enforced in the same manner as property
+16 taxes.
+17 (26) (27) "System value" means the market value for assessment purposes
+18 of the operating property when considered as a unit.
+19 (27) (28) "Tax code area" means a geographical area made up of one (1)
+20 or more taxing districts with one (1) total levy within the geographic area,
+21 except as otherwise provided by law.
+22 (28) (29) "Taxing district" means any entity or unit with the statutory
+23 authority to levy a property tax.
+24 (29) (30) "Taxable value" means market value for assessment purposes,
+25 less applicable exemptions or other statutory provisions. When statutory
+26 provisions define taxable value as limited to real property for the purpose
+27 of making a levy, operating property shall not be included.
+28 (30) (31) "Transient personal property" is personal property, specifi-
+29 cally such construction, logging or mining machinery and equipment which is
+30 kept, moved, transported, shipped, hauled into or remaining for periods of
+31 not less than thirty (30) days, in more than one (1) county in the state dur-
+32 ing the same year.
+33 (31) (32) "Warrant of distraint" means a warrant ordering the seizure of
+34 personal property to enforce payment of property tax, special assessment,
+35 expense, fee, collection cost or charge collected in the same manner as per-
+36 sonal property tax.
+37 SECTION 3. That Section 63-510, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 63-510. NOTIFICATION OF VALUATION DUE TO STATE TAX COMMISSION. (1)
+40 Prior to the first Monday of August the auditor of each county in the state
+41 shall notify the state tax commission of the net taxable value of all prop-
+42 erty situated within each taxing unit or district in the county from the
+43 property roll for the current year and shall provide an estimate of the net
+44 taxable value for each taxing unit or district from the current year's es-
+45 timated subsequent and missed property rolls. Such notification shall also
+46 include an estimate of the net taxable value within any area annexed during
+47 the immediate prior year to any taxing unit or district.
+48 (2) Prior to the first Monday of March the auditor of each county in the
+49 state shall notify the state tax commission of the net taxable value of all
+
+6
+1 property situated within each taxing unit or district in the county from the
+2 subsequent and missed property rolls. Such notification shall also include
+3 an estimate of the net taxable value within any area annexed during the im-
+4 mediate prior year, and listed on the subsequent or missed property roll, to
+5 any taxing unit or district.
+6 (3) The notification required in subsections (1) and (2) of this sec-
+7 tion shall be on forms prescribed and provided by the state tax commission
+8 and shall list separately the value exempt from property taxation in accor-
+9 dance with section 63-602G, Idaho Code, and the value in excess of the equal-
+10 ized assessment valuation as shown on the base assessment roll in any revenue
+11 allocation area, pursuant to chapters 20 and 29, title 50, Idaho Code.
+12 (4) For the purposes of this section, "taxing district," as defined in
+13 section 63-201(28) 63-201, Idaho Code, shall include each incorporated city
+14 in each county, regardless of whether said city certifies a property tax bud-
+15 get.
+16 SECTION 4. That Section 63-2517, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 63-2517. JURISDICTION OVER NONRESIDENTS. A deficiency assessed and
+19 due and payable by a person not within the state may be prosecuted against
+20 such person by an action in any court in this state having jurisdiction of
+21 the subject matter, and the court shall have personal jurisdiction of such
+22 a person in any such action for taxes imposed and assessed under this act.
+23 Notice shall be given such person by personal service without the state or
+24 by publication. In the event such notice shall be by publication, notice
+25 shall also be mailed by registered or certified mail or secure electronic
+26 communication to such person at his last known address.
+27 SECTION 5. That Section 63-3045, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 63-3045. NOTICE OF REDETERMINATION OR DEFICIENCY -- INTEREST.
+30 (1)(a) If, in the case of any taxpayer, the state tax commission de-
+31 termines that there is a deficiency in respect of the tax imposed by
+32 this title, the state tax commission shall, immediately upon discovery
+33 thereof, send notice of such deficiency to the taxpayer by first class
+34 mail or, by other commercial delivery service providing proof of de-
+35 livery, or by secure electronic communication, whichever is the most
+36 cost-efficient. The notice shall be sent to the taxpayer's last address
+37 known to the state tax commission. The notice of deficiency shall be
+38 accompanied by an explanation of the specific reason for the determi-
+39 nation and an explanation of the taxpayer's right to appeal. Within
+40 sixty-three (63) days after such notice is mailed sent, the taxpayer
+41 may, at his option, file a protest in writing with the state tax commis-
+42 sion and obtain redetermination of the deficiency.
+43 (b) If the taxpayer files a protest with the state tax commission within
+44 the period set forth in paragraph (a) of this subsection, and such
+45 protest does not comply with the rules of the state tax commission and
+46 is therefore inadequate to perfect the taxpayer's right to a redetermi-
+47 nation of the deficiency determination, then the state tax commission
+
+7
+1 shall notify the taxpayer, in the same manner as set forth in paragraph
+2 (a) of this subsection, of such inadequacies, setting forth in said
+3 notice the corrective action to be taken by the taxpayer to perfect his
+4 protest. The taxpayer shall thereafter have twenty-eight (28) days
+5 from the date of said notice to perfect his protest.
+6 (c) No assessment of a deficiency in respect to the tax imposed by this
+7 chapter, and no distraint or proceedings in court for its collection,
+8 shall be made, begun, or prosecuted until such notice has been mailed
+9 sent to the taxpayer, nor until all appeal rights relating to the defi-
+10 ciency have become final.
+11 (2)(a) Following a perfected protest, the taxpayer has the right to
+12 an independent administrative redetermination of the originating di-
+13 vision's determination before the state tax commission, including a
+14 hearing. The purpose of the hearing is to discuss the deficiency de-
+15 termination and the taxpayer's protest with a commissioner or duly
+16 authorized representative of the commission. The meeting shall be
+17 held informally and evidence shall be freely admitted regardless of the
+18 rules of evidence.
+19 (b) Tax commission staff assigned to the administrative redetermi-
+20 nation may not engage in communications relating to the taxpayer's
+21 protest with employees of the originating division without first
+22 providing the taxpayer the opportunity to participate, except for ques-
+23 tions that involve ministerial, administrative or procedural matters
+24 that do not address the substance of the issues or positions taken in the
+25 case or as otherwise allowed under title 63, Idaho Code, and the rules
+26 promulgated thereunder. The state tax commission shall promulgate
+27 rules governing communications with the originating division to ensure
+28 an independent review process. The provisions of this subsection do
+29 not create a substantive right affecting the taxpayer's tax liability
+30 or the state tax commission's ability to determine, assess or collect
+31 that tax liability, including statutory interest and any penalties, if
+32 applicable.
+33 (3) Any hearing conducted under the provisions of this section may
+34 be conducted, in whole or in part, by telephone, television, or other
+35 electronic means if each participant in the hearing has an opportunity to
+36 participate in the entire proceeding while it is taking place.
+37 (4) A taxpayer has the right to be represented by, or be accompanied by,
+38 any person of his choice in any proceeding before the tax commission. If the
+39 taxpayer is not present at a proceeding, the representative of that taxpayer
+40 must be designated in writing by the taxpayer as shall be prescribed in ad-
+41 ministrative rules or in any manner acceptable to the tax commission.
+42 (5) Following a perfected protest, the taxpayer may submit additional
+43 evidence or documentation during the redetermination process subject to the
+44 provisions of section 63-3045B(3)(a), Idaho Code.
+45 (6) If the taxpayer does not file a protest with the state tax commis-
+46 sion within the time prescribed in subsection (1)(a) of this section, the de-
+47 ficiency shall be assessed and shall become due and payable upon notice and
+48 demand from the state tax commission.
+49 (7)(a) Interest shall apply to deficiencies in tax and refunds of tax.
+50 Interest shall not apply to any penalty or to unpaid accrued interest.
+
+8
+1 Interest relating to deficiencies or refunds accruing after the origi-
+2 nal due date of the return, but not including extensions of the due date,
+3 shall be computed on the net of any underpayments and overpayments of a
+4 tax liability required to be shown as due on the same return. Interest
+5 on deficiencies shall not accrue for any period beginning on the date
+6 on which the state tax commission identifies a return for possible au-
+7 dit until the date of the issuance of a notice of deficiency determina-
+8 tion. Nor shall interest on deficiencies accrue for any period between
+9 the issuance of a notice of deficiency determination that is subject to
+10 a perfected protest and the final determination of the deficiency by the
+11 state tax commission following the state tax commission's disposition
+12 of the protest.
+13 (b) Interest upon any deficiency shall be assessed at the same time as
+14 the deficiency, shall be due and payable upon notice and demand from
+15 the state tax commission and shall be collected as a part of the tax at
+16 the rate per annum determined under the provisions of paragraph (c) of
+17 this subsection from the date prescribed for the payment of the tax.
+18 In the event any of the deficiency is reduced by reason of a carryback
+19 of a net operating loss or a capital loss carryback, such reduction in
+20 deficiency shall not affect the computation of interest under this sub-
+21 section for the period ending with the last day of the taxable year in
+22 which the net operating loss or capital loss arises.
+23 (c) The rate of interest accruing during any calendar year, or portion
+24 thereof, upon any deficiency, or payable upon an overpayment or re-
+25 fund, shall be two percent (2%) plus the rate determined under section
+26 1274(d), Internal Revenue Code, by the secretary of the treasury of the
+27 United States as the midterm federal rate as it applies on September 15
+28 of the immediately preceding calendar year rounded to the nearest whole
+29 number.
+30 (8) When the time provisions contained in this section conflict with
+31 the provisions of section 63-4208, Idaho Code, relating to the assessment of
+32 taxes on illegal possession of controlled substances, the provisions of sec-
+33 tion 63-4208, Idaho Code, shall prevail.
+34 SECTION 6. That Section 63-3045B, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 63-3045B. FINAL DECISIONS OF THE COMMISSION. (1) If a taxpayer does
+37 not file a protest within the sixty-three (63) day period allowed, the no-
+38 tice of deficiency of the tax commission becomes final on the day following
+39 the end of the protest period.
+40 (2) If a taxpayer files a protest, but does not perfect the protest,
+41 the notice of deficiency of the tax commission becomes final on the twenty-
+42 ninth day following the date the tax commission notified the taxpayer that
+43 the protest was not perfected, except that the tax commission may reduce the
+44 amount of the deficiency during the twenty-nine (29) day period.
+45 (3) When a perfected protest has been filed, the state tax commission
+46 shall, within fourteen (14) days thereof, provide the taxpayer with a writ-
+47 ten acknowledgment of the protest. After the acknowledgment, a final deci-
+48 sion of the tax commission must be rendered within one hundred eighty (180)
+49 days from either:
+
+9
+1 (a) A request in writing, in a form prescribed by rules of the tax com-
+2 mission, from the taxpayer for a final decision on that issue; if the
+3 taxpayer requests such a decision, the tax commission may refuse to ac-
+4 cept additional evidence or documentation or refuse to allow an appear-
+5 ance at any proceeding with the commission or any representative of the
+6 commission during such one hundred eighty (180) day period; or
+7 (b) The conclusion of any hearing pursuant to section 63-3045(2)(a),
+8 Idaho Code, and the taxpayer has not requested or received any extension
+9 of time to present additional evidence or testimony.
+10 (4) A final decision may be held in abeyance, notwithstanding the re-
+11 quirements of subsection (3) of this section, with the prior approval in
+12 writing of the taxpayer.
+13 (5) If a final decision of the tax commission is not rendered or the
+14 protest is not resolved by compromise, consent or withdrawal of the notice of
+15 deficiency determination within the time limits established by subsection
+16 (3) of this section, the notice of deficiency shall be null and void ab ini-
+17 tio, with prejudice.
+18 (6) A final decision of the tax commission shall be issued in writing
+19 and mailed, delivered through secure electronic communication, or served
+20 upon the taxpayer within the time limits set forth herein. The final written
+21 decision of the tax commission shall, one hundred twenty (120) days after the
+22 date of the final written decision, be available for public inspection and
+23 copying pursuant to the provisions of section 74-102, Idaho Code, except:
+24 (a) The taxpayer's name, address, taxpayer identification number, so-
+25 cial security number, permit number, or other identifying information
+26 shall be removed from the final written decision of the tax commission
+27 that is made available to the public; and
+28 (b) Any proprietary or other identifying information contained in the
+29 written decision that the taxpayer requests be excised shall be excised
+30 by the tax commission in the final written decision made available
+31 to the public. The taxpayer must make such request in writing before
+32 ninety-one (91) days have elapsed after the date of the final decision.
+33 (7) The tax commission shall label each written decision with a unique
+34 identification number and shall keep a list containing each decision num-
+35 ber and the date of issuance, as excised in accordance with the provisions
+36 of this section. A decision shall serve as precedent for the tax commis-
+37 sion in future protest determinations unless information excised, court de-
+38 cisions, changes in the Idaho Code, or changes in applicable administrative
+39 rules overrule, supersede, modify, distinguish, or otherwise make inappli-
+40 cable the written decision of the tax commission.
+41 SECTION 7. That Section 63-3061A, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 63-3061A. NOTICE OF LEVY AND DISTRAINT. (1) The state tax commission
+44 shall, at the time of levy, provide to the taxpayer and to any person in pos-
+45 session of the property subject to distraint, written notice of levy and dis-
+46 traint. The written notice of levy and distraint may be:
+47 (a) (1) Given in person;
+48 (b) (2) Left at the dwelling place or usual place of business of such
+49 person; or
+
+10
+1 (c) (3) Sent by first class mail to such person's last known address.;
+2 or
+3 (2) (4) Service may be made by other means, including electronic means
+4 as provided in chapter 50, title 28, Idaho Code, the uniform electronic
+5 transactions act, when agreed upon by the state tax commission and the party
+6 served Delivered through secure electronic communication.
+7 SECTION 8. That Section 63-3065A, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 63-3065A. JURISDICTION OVER NONRESIDENTS. A deficiency assessed and
+10 due and payable by a person not within the state may be prosecuted against
+11 such person by an action in any court having jurisdiction of the subject
+12 matter or in personam jurisdiction of such person in any action for taxes,
+13 penalty and interest owed the state tax commission. Notice shall be given
+14 and the action shall proceed in accordance with the applicable rules and
+15 statutes regulating civil procedure. In the event such notice shall be by
+16 publication, notice shall also be mailed by certified mail or secure elec-
+17 tronic communication to such person at his last known address.
+18 SECTION 9. That Section 63-3620C, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 63-3620C. PROMOTER-SPONSORED EVENTS. (1) The operator or promoter
+21 contracting with persons for participation in a promoter sponsored event,
+22 as a prerequisite to renting or leasing space to any person for conducting
+23 business as a retailer on any premises owned or controlled by that operator
+24 or promoter, shall obtain:
+25 (a) Written evidence that the retailer holds a valid seller's permit
+26 issued pursuant to this chapter or will apply to the state tax commis-
+27 sion for a regular or temporary seller's permit; or
+28 (b) A written statement from the retailer that the retailer is not of-
+29 fering for sale any item that is taxable under this chapter or is other-
+30 wise not required to hold a valid seller's permit.
+31 (2) Such written evidence or statements shall be in such form and con-
+32 tain such information as the state tax commission shall require. The opera-
+33 tor or promoter shall submit the documents to the state tax commission within
+34 ten (10) days following the beginning of the event.
+35 (3)(a) The state tax commission may appoint a sponsor or promoter as
+36 its agent for issuing temporary seller's permits to participants in the
+37 event and for accounting for such permits.
+38 (b) A sponsor or promoter appointed to issue temporary permits under
+39 this subsection shall be entitled to a credit or refund of income or
+40 franchise taxes imposed under chapter 30, title 63, Idaho Code, in the
+41 amount of one dollar ($1.00) for each such temporary permit issued by
+42 the sponsor or promoter during the taxable year.
+43 (4) Any operator or promoter of a promoter-sponsored event who fails to
+44 comply with this section may be subject to a minimum penalty of fifty dollars
+45 ($50.00) per event and twenty-five dollars ($25.00) for each seller over two
+46 (2) sellers for whom such records required by subsection (1) of this section
+47 are not obtained, but not to exceed one thousand dollars ($1,000) for each
+
+11
+1 such event. Under no circumstances, shall an operator or a promoter be re-
+2 sponsible for sales or use tax not remitted by a retailer at a promoter-spon-
+3 sored event.
+4 (5) The penalties provided in subsection (4) of this section shall not
+5 apply:
+6 (a) Unless the state tax commission shall have previously given notice
+7 to the operator or promoter or its officer, agent or employee, by cer-
+8 tified mail or secure electronic communication, of the requirements of
+9 this section and of a violation of this section by the operator or pro-
+10 moter or its officer, agent or employee; or
+11 (b) If the operator or promoter shows that such failure was due to rea-
+12 sonable cause and not to willful neglect.
+13 (6) The state tax commission shall give notice of any penalty provided
+14 in this section and it shall assess such penalties in the manner provided for
+15 deficiencies of tax.
+16 (7) "Promoter-sponsored event," as used in this section, means a swap
+17 meet, flea market, gun show, fair or similar activity involving a series
+18 of sales sufficient in number, scope and character to constitute a regu-
+19 lar course of business; or any event at which two (2) or more persons offer
+20 tangible personal property or services for sale or exchange and at which a
+21 fee is charged for the privilege of offering the services or displaying the
+22 property for sale or exchange; or at which a fee is charged to prospective
+23 buyers for admission to the area where the property or services are offered
+24 or displayed for sale or exchange.
+25 SECTION 10. That Section 63-4003, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 63-4003. COMMUNICATION IN CONNECTION WITH TAX COLLECTION. (1) Without
+28 the prior consent of the taxpayer or the express permission of a court of com-
+29 petent jurisdiction, a revenue officer may not communicate with a taxpayer
+30 in connection with the collection of any tax obligation:
+31 (a) At any unusual time or place or a time or place known or which should
+32 be known to be inconvenient to the taxpayer. In the absence of knowledge
+33 of circumstances to the contrary, a revenue officer shall presume that
+34 the convenient time for communicating with a taxpayer is after 8 o'clock
+35 antemeridian and before 9 o'clock postmeridian, local time at the tax-
+36 payer's location;
+37 (b) If the tax commission has been notified in writing that the taxpayer
+38 is represented with respect to such tax obligation and has knowledge of,
+39 or can readily ascertain such representative's name and address, unless
+40 the representative fails to respond within seven (7) days to a communi-
+41 cation with the taxpayer, except:
+42 (i) To advise the taxpayer that the revenue officer's further ef-
+43 forts are being terminated;
+44 (ii) To notify the taxpayer as required by law that the revenue of-
+45 ficer may invoke specified remedies which are ordinarily invoked
+46 by such revenue officer;
+47 (iii) Where applicable, to notify the taxpayer that the revenue
+48 office intends to invoke a specified remedy;
+
+12
+1 (iv) In regard to matters not within the scope of the notice of the
+2 representative's capacity;
+3 but nothing shall prohibit the tax commission from copying to the tax-
+4 payer all written communications with the taxpayer's representative;
+5 or
+6 (c) At the taxpayer's place of employment if the revenue officer knows
+7 or has reason to know that the taxpayer's employer prohibits the tax-
+8 payer from receiving such communication.
+9 (2) The taxpayer shall be provided the option to receive communications
+10 in connection with the collection of any tax obligation through secure elec-
+11 tronic communication as defined in section 63-201, Idaho Code.
+12 (2) (3) Except as provided in chapter 30, title 63, Idaho Code, or sec-
+13 tion 63-4002, Idaho Code, without the prior consent of the taxpayer, or the
+14 express permission of a court of competent jurisdiction, or as reasonably
+15 necessary to effectuate a postjudgment judicial remedy, a revenue officer
+16 may not communicate, in connection with the collection of any tax obliga-
+17 tion, with any person other than the taxpayer, or his representative.
+18 (3) (4) If a taxpayer notifies a revenue officer in writing that the
+19 taxpayer refuses to pay a tax obligation or that the taxpayer wishes the rev-
+20 enue officer to cease further communication with the taxpayer, the revenue
+21 officer shall not communicate further with the taxpayer with respect to such
+22 tax obligation, except:
+23 (a) To advise the taxpayer that the revenue officer's further efforts
+24 are being terminated;
+25 (b) To notify the taxpayer as required by law that the revenue officer
+26 may invoke specified remedies which are ordinarily invoked by such rev-
+27 enue officer; or
+28 (c) Where applicable, to notify the taxpayer that the revenue officer
+29 intends to invoke a specified remedy.
+30 If such notice from the taxpayer is made by mail, notification shall be
+31 complete upon receipt.
+32 SECTION 11. SEVERABILITY. The provisions of this act are hereby de-
+33 clared to be severable and if any provision of this act or the application
+34 of such provision to any person or circumstance is declared invalid for any
+35 reason, such declaration shall not affect the validity of the remaining por-
+36 tions of this act.
+37 SECTION 12. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

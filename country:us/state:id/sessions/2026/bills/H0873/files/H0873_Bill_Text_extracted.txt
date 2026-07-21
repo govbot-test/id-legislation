@@ -1,0 +1,230 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 873
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 22-2721, IDAHO CODE, TO REVISE CER-
+3 TAIN ELECTION DATES; AMENDING SECTION 34-308, IDAHO CODE, TO REVISE A
+4 PROVISION REGARDING THE MAILING OF CERTAIN BALLOTS; AMENDING SECTION
+5 34-1410, IDAHO CODE, TO REVISE A PROVISION REGARDING CANVASSING OF
+6 ELECTION RESULTS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+7 DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 22-2721, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 22-2721. ELECTION, APPOINTMENT, QUALIFICATIONS AND TENURE OF SUPER-
+12 VISORS. (1) The governing body of the district shall consist of five (5)
+13 supervisors, elected or appointed as provided in this chapter. Elections
+14 shall be conducted pursuant to the provisions of this section and the uni-
+15 form district election law, chapter 14, title 34, Idaho Code. If at any time
+16 the supervisors of a district deem it necessary, upon majority vote of the
+17 district board, they may increase the number of supervisors to seven (7) or
+18 decrease the number of supervisors to five (5). If increased, the additional
+19 supervisors shall then be appointed as outlined in this section until such
+20 time as regular district elections for two (2) supervisors in each district.
+21 At that time, those districts having seven (7) supervisors shall then elect
+22 four (4) supervisors for four (4) year terms. The two (2) supervisors ap-
+23 pointed by the district shall be persons who are by training and experience
+24 qualified to perform the specialized services that will be required of them
+25 in the performance of their duties. In the event the supervisors of a dis-
+26 trict, upon majority vote of the district board, deem it necessary to reduce
+27 the number of supervisors to five (5), there must either be two (2) vacant
+28 positions on the board or two (2) of the supervisors must first volunteer to
+29 give up their seats. Written notification of the reduction in supervisors,
+30 signed by the district board chairman, shall then be sent to the state soil
+31 and water conservation commission. Such notification shall also be sent
+32 to the secretary of state to ensure only two (2) or three (3) supervisors
+33 shall be on the ballot for the next election cycle. All supervisors shall be
+34 landowners or farmers of the district where they are elected or appointed and
+35 shall be registered to vote in the state of Idaho.
+36 (2) Within thirty (30) days after the date of issuance by the secretary
+37 of state of a certificate of organization of a soil conservation district,
+38 nominating petitions may be filed with the state soil and water conservation
+39 commission to nominate candidates for supervisors of each district. The
+40 county clerk shall conduct the election for the district in compliance with
+41 chapter 14, title 34, Idaho Code, and shall be the election official for the
+42 district. The election official shall have authority to extend the time
+
+2
+1 within which nominating petitions may be filed. Nominating petitions shall
+2 be filed with the secretary of the district, and no such nominating petition
+3 shall be accepted by the election official unless it shall be subscribed
+4 by not less than five (5) persons who are qualified electors owning land
+5 or residing within the boundaries of the district. The election official
+6 shall give due notice of an election to be held, subject to the provisions
+7 of section 34-106, Idaho Code, for the election of three (3) supervisors for
+8 the district. The names of all nominees on behalf of whom such nominating
+9 petitions have been filed within the time herein designated shall appear
+10 upon ballots, with directions to choose three (3) names to indicate the
+11 voter's preference. The three (3) candidates who receive the largest num-
+12 ber, respectively, of the votes cast in such election shall be the elected
+13 supervisors for such district.
+14 (3) All elections in districts shall be conducted by the county clerk.
+15 Such election shall be held on the first Tuesday succeeding the first Monday
+16 of November in each even-numbered odd-numbered year. Such elections shall
+17 be in compliance with the provisions of chapter 14, title 34, Idaho Code,
+18 and shall be supervised and conducted by the county clerk. The cost of con-
+19 ducting such elections shall be borne by the county that conducted the elec-
+20 tion. The county clerk shall certify to the soil and water conservation dis-
+21 trict the names of the elected supervisors. The soil and water conservation
+22 district shall issue certificates of election to each elected supervisor so
+23 certified. The county clerk or county clerks of the county or counties in
+24 which the district is located shall conduct the election for the soil conser-
+25 vation district, and the county clerk must provide a ballot for the district
+26 election and must provide a process that allows only qualified electors of
+27 the district to vote in that district's election.
+28 (4) In any election for supervisor, if, after the deadline for filing
+29 a declaration of intent as a write-in candidate, it appears that the num-
+30 ber of qualified candidates who have been nominated is equal to the number
+31 of supervisors to be elected, it shall not be necessary for the candidates to
+32 stand for election. The board of supervisors shall declare such candidates
+33 elected as supervisors, and the soil and water conservation district shall
+34 immediately make and deliver to such persons certificates of election.
+35 (5) The supervisors shall designate a chairman and may, from time to
+36 time, change such designation. The term of office of each supervisor shall
+37 be four (4) years commencing on the first day of January next following elec-
+38 tion, except that the two (2) supervisors who are first appointed shall be
+39 designated to serve for terms of two (2) years. Vacancies shall be filled for
+40 the unexpired term. The selection of successors to fill an unexpired term
+41 or for a full term shall be made by a vote of the majority of the supervi-
+42 sors duly qualified and acting at the time the vacancy shall arise, and the
+43 supervisors shall certify the name of the appointed supervisor to the state
+44 soil and water conservation commission. In the event supervisors fail to
+45 appoint a replacement within ninety (90) days following a vacancy, and the
+46 vacancy results in the loss of a quorum of the district board, the governor
+47 shall appoint a replacement sufficient to reestablish a quorum of the dis-
+48 trict board. The soil conservation district shall issue a certificate of
+49 such appointment.
+
+3
+1 (6) A quorum shall consist of three (3) supervisors for those districts
+2 with a total of five (5) supervisors and four (4) supervisors for those dis-
+3 tricts with a total of seven (7) supervisors, and the concurrence of a major-
+4 ity in any matter within their duties shall be required for its determina-
+5 tion. A supervisor shall be entitled to expenses, including travel expense,
+6 necessarily incurred in the discharge of duties. A supervisor shall receive
+7 no compensation for services from regular district funds, county funds au-
+8 thorized in section 22-2726, Idaho Code, or state funds authorized in sec-
+9 tion 22-2727, Idaho Code.
+10 (7) In the event the district has a special project, approved by the
+11 state soil and water conservation commission, making project funds avail-
+12 able from federal or other sources, a supervisor may receive compensation
+13 not to exceed thirty-five dollars ($35.00) per day plus actual and necessary
+14 expenses from project funds for services directly related to the project.
+15 (8) The supervisors may employ a secretary, technical experts, and such
+16 other officers, agents, and employees, permanent and temporary, as they may
+17 require and shall determine their qualifications, duties and compensation.
+18 The supervisors may call upon the attorney general of the state for such le-
+19 gal services as they may require or may employ their own counsel and legal
+20 staff. The supervisors may delegate to their chairman, to one (1) or more
+21 supervisors, or to one (1) or more agents or employees such powers and du-
+22 ties as they may deem proper. The supervisors shall furnish to the state soil
+23 and water conservation commission, upon request, copies of such ordinances,
+24 rules, orders, contracts, forms and other documents as they shall adopt or
+25 employ and such other information concerning the supervisors' activities as
+26 the commission may require in the performance of the commission's duties un-
+27 der this chapter.
+28 (9) The supervisors shall provide for the execution of surety bonds for
+29 all employees and officers entrusted with funds or property; shall provide
+30 for the keeping of a full and accurate record of all proceedings and of all
+31 resolutions and orders issued or adopted; and shall provide for independent
+32 financial audits in accordance with the provisions of section 67-450B, Idaho
+33 Code. Supervisors shall be subject to recall in accordance with the provi-
+34 sions of chapter 17, title 34, Idaho Code.
+35 (10) The supervisors may invite the legislative body of a municipality
+36 or county located near the territory comprised within the district to desig-
+37 nate a representative to advise and consult with the supervisors of the dis-
+38 trict on all questions of program and policy that may affect the property,
+39 water supply, or other interests of such municipality or county.
+40 (11) Notwithstanding any other provision of law to the contrary, the
+41 election for supervisor scheduled for November 2026 shall instead be held on
+42 the Tuesday following the first Monday in November 2027 and shall be for a
+43 term of four (4) years; and the election for supervisor scheduled for Novem-
+44 ber 2028 shall instead be held on the Tuesday following the first Monday in
+45 November 2029 and shall be for a term of four (4) years.
+46 SECTION 2. That Section 34-308, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+48 34-308. MAIL BALLOT PRECINCT. (1) A precinct within the county that
+49 contains no more than one hundred forty (140) registered electors at the
+
+4
+1 last general election may be designated by the board of county commissioners
+2 as a mail ballot precinct no later than April 1 in an even-numbered year.
+3 Such a designation shall apply thereafter to all elections conducted within
+4 the precinct until revoked by the board of county commissioners or until
+5 the precinct contains one hundred fifty-one (151) registered electors at
+6 the last general election. Having designated a mail ballot precinct, there
+7 shall be no voting place established within the precinct. Elections in a
+8 mail ballot precinct shall be conducted in a manner consistent with absentee
+9 voting with the special provisions provided in this section.
+10 (2) The clerk shall issue a ballot, by mail, to every registered voter
+11 in a mail ballot precinct and shall affix postage to the return envelope suf-
+12 ficient to return the ballot.
+13 (3) The ballot shall be mailed no sooner than twenty-four (24) forty-
+14 five (45) days prior to the election day and no later than the fourteenth
+15 eleventh day prior to the election.
+16 (4) The clerk shall make necessary provisions to segregate mail bal-
+17 lot precinct ballots by precinct and, for all purposes of the election, the
+18 precinct integrity shall be maintained.
+19 (5) The clerk shall make registration available in the office of the
+20 clerk on election day for any individual who is eligible to vote and who re-
+21 sides in a mail ballot precinct and has not previously registered. The clerk
+22 shall provide an official polling place in the office of the clerk, and a
+23 qualified elector who registers on election day and resides in a mail ballot
+24 precinct shall be allowed to vote at the office of the clerk.
+25 (6)(a) Except as provided in paragraph (b) of this subsection, electors
+26 who have designated a political party affiliation pursuant to section
+27 34-404, Idaho Code, shall receive the primary election ballot for that
+28 party pursuant to sections 34-904 and 34-904A, Idaho Code.
+29 (b) Electors who have designated a political party affiliation pur-
+30 suant to section 34-404, Idaho Code, may receive the primary election
+31 ballot of a political party other than the political party such elector
+32 is affiliated with if such other political party has provided notifica-
+33 tion to the secretary of state that identifies the political party such
+34 elector is affiliated with, as provided for in section 34-904A(2)(b),
+35 Idaho Code.
+36 (7) For "unaffiliated" electors, in order to receive a political
+37 party's primary election ballot pursuant to section 34-904A, Idaho Code, the
+38 county clerk shall mail a ballot request form for the primary election ballot
+39 to the electors in a mail ballot precinct for the electors to use in selecting
+40 the party ballot they choose to receive.
+41 (a) In the event that more than one (1) political party allows electors
+42 designated as "unaffiliated" to vote in their party's primary election
+43 pursuant to section 34-904A, Idaho Code, an elector designated as "un-
+44 affiliated" shall indicate on the form such elector's choice of the po-
+45 litical party's primary election ballot in order to vote in that party's
+46 primary election.
+47 (b) In the event no more than one (1) political party allows electors
+48 designated as "unaffiliated" to vote in their party's primary election
+49 pursuant to section 34-904A, Idaho Code, an elector designated as "un-
+50 affiliated" shall indicate on the form that political party's primary
+
+5
+1 election ballot in order to vote in that political party's primary elec-
+2 tion.
+3 (c) If an elector designated as "unaffiliated" is not permitted to
+4 vote in a political party's primary election as provided for in section
+5 34-904A, Idaho Code, such elector shall receive a nonpartisan ballot.
+6 (d) If an elector designated as "unaffiliated" does not indicate on the
+7 form a choice of political party's primary election ballot, such elec-
+8 tor shall receive a nonpartisan ballot.
+9 SECTION 3. That Section 34-1410, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 34-1410. CANVASSING OF ELECTION RESULTS. The board of county commis-
+12 sioners shall conduct the canvass of the election results within ten (10)
+13 nine (9) days after the election, in the manner provided in chapter 12, ti-
+14 tle 34, Idaho Code. The county clerk shall certify the election results to
+15 the clerk of each political subdivision for which an election was held. Each
+16 political subdivision shall issue the appropriate certificates of election.
+17 SECTION 4. An emergency existing therefor, which emergency is hereby
+18 declared to exist, this act shall be in full force and effect on and after
+19 July 1, 2026.

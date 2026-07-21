@@ -1,0 +1,411 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1362
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE PUBLIC SCHOOLS EDUCATIONAL SUPPORT
+3 PROGRAM; APPROPRIATING MONEYS TO THE PUBLIC SCHOOLS EDUCATIONAL SUP-
+4 PORT PROGRAM'S DIVISION OF TEACHERS FOR FISCAL YEAR 2027; APPROPRIATING
+5 MONEYS TO THE PUBLIC SCHOOLS EDUCATIONAL SUPPORT PROGRAM'S DIVISION OF
+6 STUDENT SUPPORT FOR FISCAL YEAR 2027; APPROPRIATING MONEYS TO THE PUB-
+7 LIC SCHOOLS EDUCATIONAL SUPPORT PROGRAM'S IDAHO DIGITAL LEARNING ACAD-
+8 EMY FOR FISCAL YEAR 2027; APPROPRIATING MONEYS TO THE PUBLIC SCHOOLS
+9 EDUCATIONAL SUPPORT PROGRAM'S DIVISION OF FACILITIES FOR FISCAL YEAR
+10 2027; APPROPRIATING MONEYS TO THE PUBLIC SCHOOLS EDUCATIONAL SUPPORT
+11 PROGRAM'S DIVISION OF CENTRAL SERVICES FOR FISCAL YEAR 2027; APPRO-
+12 PRIATING MONEYS TO THE PUBLIC SCHOOLS EDUCATIONAL SUPPORT PROGRAM'S
+13 DIVISION OF EDUCATIONAL SERVICES FOR THE DEAF AND THE BLIND FOR FISCAL
+14 YEAR 2027; CLARIFYING THE ORIGINAL FUND SOURCE FOR EXPENDITURES IN THE
+15 PUBLIC SCHOOLS EDUCATIONAL SUPPORT PROGRAM FOR FISCAL YEAR 2027; DI-
+16 RECTING THE USE OF MONEYS FOR PROFESSIONAL DEVELOPMENT FOR THE DIVISION
+17 OF TEACHERS; PROVIDING FOR A DISTRIBUTION OF ADDITIONAL COMPENSATION
+18 FOR INSTRUCTIONAL AND PUPIL SERVICE STAFF; PROVIDING AN ESTIMATE OF
+19 DISCRETIONARY FUNDS PER SUPPORT UNIT; PROVIDING AN ESTIMATE OF HEALTH
+20 BENEFIT AND INSURANCE FUNDS PER SUPPORT UNIT; DIRECTING THE USE OF AN
+21 APPROPRIATION FOR CLASSROOM TECHNOLOGY, WIRELESS INFRASTRUCTURE, AND
+22 LEARNING MANAGEMENT SYSTEMS; EXEMPTING THE APPROPRIATION FROM PROGRAM
+23 TRANSFER LIMITATIONS; DIRECTING THE USE OF CIGARETTE, TOBACCO, AND
+24 LOTTERY INCOME TAX MONEYS; DIRECTING THE USE OF MONEYS FOR COURSEWORK;
+25 DIRECTING COMPLIANCE WITH OPEN ENROLLMENT; DIRECTING THE USE OF MONEYS
+26 FOR ENGLISH LANGUAGE LEARNERS PROGRAMS; DIRECTING THE STATE DEPART-
+27 MENT OF EDUCATION TO COMPILE INFORMATION ON ADVANCED OPPORTUNITIES;
+28 PROVIDING A TRANSFER TO THE COMMISSION ON HISPANIC AFFAIRS; PROVIDING
+29 A TRANSFER TO THE IDAHO STATE POLICE; DIRECTING A DISTRIBUTION TO PUR-
+30 CHASE DIGITAL CONTENT AND CURRICULA; PROVIDING REQUIREMENTS REGARDING
+31 THE IDAHO DIGITAL LEARNING ACADEMY; DIRECTING THE USE OF MONEYS FOR
+32 LITERACY PROGRAMS, INTERVENTION SERVICES, MATH INITIATIVE PROGRAMS,
+33 AND LIMITED-ENGLISH PROFICIENCY PROGRAMS; DIRECTING THE USE OF MONEYS
+34 FOR STUDENT ASSESSMENTS; DIRECTING THE USE OF MONEYS FOR PROFESSIONAL
+35 DEVELOPMENT FOR THE CENTRAL SERVICES DIVISION; PROVIDING REQUIREMENTS
+36 FOR CONTENT AND CURRICULUM; PROVIDING REQUIREMENTS FOR TECHNOLOGY
+37 CONTENT AND CURRICULUM; PROVIDING FOR STATEWIDE TRAINING FOR EARLY LIT-
+38 ERACY; PROVIDING GUIDANCE ON YEAR-END RECONCILIATION; DEFINING "DIS-
+39 TRIBUTED" AND "EXPENDED"; REQUIRING AN ACQUISITIONS REPORT; APPROPRI-
+40 ATING GENERAL FUND MONEYS FOR TRANSFER TO THE PUBLIC SCHOOL INCOME FUND
+41 FOR FISCAL YEAR 2027; PROVIDING FOR CONDITIONS, LIMITATIONS, AND RE-
+42 STRICTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+43 Be It Enacted by the Legislature of the State of Idaho:
+
+2
+1 SECTION 1. There is hereby appropriated to the Public Schools Educa-
+2 tional Support Program's Division of Teachers the following amounts to be
+3 expended from the listed funds for the period July 1, 2026, through June 30,
+4 2027:
+5 FROM:
+6 Public School Income Fund $1,344,188,100
+7 Federal Grant Fund 11,000,000
+8 TOTAL $1,355,188,100
+9 SECTION 2. There is hereby appropriated to the Public Schools Educa-
+10 tional Support Program's Division of Student Support the following amounts
+11 to be expended to the designated programs from the listed funds for the pe-
+12 riod July 1, 2026, through June 30, 2027:
+13 TOTAL
+14 I. ADMINISTRATORS DIVISION:
+15 FROM:
+16 Public School Income
+17 Fund $126,042,900
+18 II. OPERATIONS DIVISION:
+19 FROM:
+20 Public School Income
+21 Fund $1,200,372,600
+22 III. CHILDREN'S PROGRAMS DIVISION:
+23 FROM:
+24 Public School Income
+25 Fund $124,182,700
+26 Federal Grant
+27 Fund 249,647,800
+28 TOTAL $373,830,500
+29 DIVISION TOTAL $1,700,246,000
+30 SECTION 3. There is hereby appropriated to the Public Schools Educa-
+31 tional Support Program's Idaho Digital Learning Academy $25,810,000 to be
+32 expended from the Public School Income Fund for the period July 1, 2026,
+33 through June 30, 2027.
+
+3
+1 SECTION 4. There is hereby appropriated to the Public Schools Educa-
+2 tional Support Program's Division of Facilities $12,589,700 to be expended
+3 from the Public School Income Fund for the period July 1, 2026, through June
+4 30, 2027.
+5 SECTION 5. There is hereby appropriated to the Public Schools Educa-
+6 tional Support Program's Division of Central Services $19,237,600 to be ex-
+7 pended for operating expenditures from the Public School Income Fund for the
+8 period July 1, 2026, through June 30, 2027.
+9 SECTION 6. There is hereby appropriated to the Public Schools Educa-
+10 tional Support Program's Division of Educational Services for the Deaf and
+11 the Blind the following amounts to be expended from the listed funds for the
+12 period July 1, 2026, through June 30, 2027:
+13 FROM:
+14 Public School Income Fund $16,871,500
+15 School for the Deaf and the Blind Endowment Fund 250,100
+16 TOTAL $17,121,600
+17 SECTION 7. Of the amounts appropriated in Sections 1 through 6 of
+18 this act for the Public Schools Educational Support Program, the following
+19 amounts shall be considered expended from the listed funds for the period
+20 July 1, 2026, through June 30, 2027:
+21 FROM:
+22 General Fund $2,773,295,400
+23 Public Schools Other Income Fund 23,450,000
+24 School for the Deaf and the Blind Endowment Fund 250,100
+25 Cigarette, Tobacco and Lottery Income Taxes Fund 4,324,900
+26 Public School Endowment Income Fund 68,224,800
+27 Federal Grant Fund 260,647,800
+28 TOTAL $3,130,193,000
+29 SECTION 8. PROFESSIONAL DEVELOPMENT -- TEACHERS. Of the moneys appro-
+30 priated in Section 1 of this act, $13,750,000 from the Public School Income
+31 Fund shall be distributed for professional development that supports in-
+32 structors and pupil service staff to increase student learning, mentoring,
+33 and collaboration. Professional development efforts should be measurable,
+34 provide the instructors and pupil service staff with a clear understanding
+35 of their progress, be incorporated into their performance evaluations, and,
+36 to the extent possible, be included in the school district or public charter
+37 school continuous improvement plans required by Section 33-320, Idaho Code.
+38 Funding shall be distributed by a formula prescribed by the State Department
+39 of Education, and the State Department of Education shall track usage and
+
+4
+1 effectiveness of professional development efforts at the state and local
+2 levels.
+3 SECTION 9. INSTRUCTIONAL AND PUPIL SERVICE STAFF COMPENSATION. In ad-
+4 dition to the distribution criteria set forth in Section 33-1004B(9)(f),
+5 Idaho Code, an additional $6,359 shall be allocated to each cell for resi-
+6 dential, professional, and advanced professional rungs. These funds must
+7 be used for instructional and pupil service compensation. Funding shall
+8 be distributed in combination with other career ladder allocations for the
+9 period July 1, 2026, through June 30, 2027. School districts and public
+10 charter schools shall report to the State Department of Education on the
+11 allocation of these funds for instructional and pupil service compensation.
+12 The State Department of Education shall provide a report to the Joint Fi-
+13 nance-Appropriations Committee by January 5, 2027, on the allocations made
+14 by school districts and public charter schools. The format of the report and
+15 the contents therein shall be determined by the Legislative Services Office
+16 Budget and Policy Analysis Division.
+17 SECTION 10. DISCRETIONARY FUNDS. Notwithstanding any law to the con-
+18 trary, for the period July 1, 2026, through June 30, 2027, it is estimated
+19 that the appropriation of state funds to the Public Schools Educational Sup-
+20 port Program's Division of Operations as part of the Student Support Divi-
+21 sion will result in total discretionary funds of $23,472 per support unit
+22 that are to be used at the discretion of the school district or public charter
+23 school.
+24 SECTION 11. HEALTH BENEFIT AND INSURANCE FUNDS. Notwithstanding any
+25 law to the contrary, for the period July 1, 2026, through June 30, 2027, it
+26 is estimated that the appropriation of state funds to the Public Schools
+27 Educational Support Program's Division of Operations as part of the Stu-
+28 dent Support Division will result in total health benefits or insurance and
+29 health benefits-related funds of $25,063.50 per support unit to be dis-
+30 tributed to schools that are on the state's health insurance plan, and funds
+31 of $24,273.43 per support unit to be distributed for schools that are not on
+32 the state's health insurance plan. Before distribution, a school district's
+33 or charter school's enrollment in the state's health insurance plan will be
+34 verified by the State Department of Education. If a school district's or
+35 charter school's enrollment status changes during the fiscal year, the State
+36 Department of Education will accordingly adjust the school district's or
+37 charter school's distribution amount per support unit. Funds are to be used
+38 to offset the costs of health, vision, and dental benefits or insurance of-
+39 fered to school employees. If the distribution provided for health, vision,
+40 and dental benefits or insurance is in excess of the individual school dis-
+41 trict's or charter school's actual costs, the excess funds may then be used
+42 at the school district's or charter school's discretion. Further, the State
+43 Department of Education shall work with the Legislative Services Office
+44 Budget and Policy Analysis Division and the Division of Financial Management
+45 to determine the information that the State Department of Education shall
+46 collect on school districts' and charter schools' health, vision, and dental
+47 benefits or insurance plan information and costs, including but not limited
+
+5
+1 to actual insurance premium costs, premium percentage increases, and health
+2 insurance revenues and expenditures from all fund sources.
+3 SECTION 12. CLASSROOM TECHNOLOGY. Of the moneys appropriated in Sec-
+4 tion 2 of this act, $36,500,000 from the Public School Income Fund shall be
+5 distributed for classroom technology, classroom technology infrastruc-
+6 ture, wireless technology infrastructure, and learning management systems
+7 that assist teachers and students in effective and efficient instruction or
+8 learning. Funding shall be distributed based on a formula prescribed by the
+9 State Department of Education. Moneys so distributed shall be used to imple-
+10 ment and operate a learning management system of each school district's or
+11 public charter school's choice. A learning management system shall include
+12 integration with a school district's or public charter school's student
+13 information system and shall administer, monitor, and document student and
+14 classroom levels of learning. The State Department of Education shall ver-
+15 ify that school districts and public charter schools are using funds to pur-
+16 chase a learning management system that is compliant with these standards.
+17 SECTION 13. EXEMPTIONS FROM PROGRAM TRANSFER LIMITATIONS. For the pe-
+18 riod July 1, 2026, through June 30, 2027, the State Department of Education
+19 is hereby granted the authority to transfer appropriations among the Teach-
+20 ers, Student Support, Facilities, and Idaho Digital Learning Academy divi-
+21 sions of the Public Schools Educational Support Program, in any amount nec-
+22 essary to comply with the public school funding provisions of appropriations
+23 and Idaho Code. Additionally, appropriations may be transferred from the
+24 Division of Central Services to the other divisions of the Public Schools Ed-
+25 ucational Support Program.
+26 SECTION 14. CIGARETTE, TOBACCO, AND LOTTERY DISTRIBUTION. Notwith-
+27 standing any provision of law to the contrary, of the moneys appropriated in
+28 Section 2 of this act, up to $4,324,900 from available cigarette, tobacco,
+29 and lottery income tax revenue funds accruing, appropriated, or distributed
+30 to the Public School Income Fund pursuant to Sections 63-2506, 63-2552A,
+31 and 63-3067, Idaho Code, for the period July 1, 2026, through June 30, 2027,
+32 shall be distributed to school districts and public charter schools through
+33 a combination of a base amount of $2,000 plus a prorated amount based on the
+34 prior year's average daily attendance. Such funds shall be used to develop
+35 and implement school safety improvements and/or to facilitate and provide
+36 substance abuse prevention programs in the public school system.
+37 SECTION 15. COURSEWORK. Of the moneys appropriated in Section 2 of this
+38 act, $4,715,000 shall be distributed for coursework for students failing to
+39 achieve proficiency on Idaho's standards-based achievement tests in dollar
+40 amounts determined by the State Department of Education. The State Depart-
+41 ment of Education shall report to the Joint Finance-Appropriations Commit-
+42 tee, the Senate Education Committee, and the House Education Committee by
+43 no later than January 5, 2027, on the uses of funds and effectiveness of the
+44 coursework and efforts.
+
+6
+1 SECTION 16. OPEN ENROLLMENT INFORMATION. The State Department of Edu-
+2 cation shall withhold the November payment for any school district that is
+3 not in compliance with the provisions of Section 33-1409, Idaho Code, until
+4 such time as the school district becomes compliant.
+5 SECTION 17. ENGLISH PROFICIENCY. Pursuant to Section 33-1617, Idaho
+6 Code, of the moneys appropriated in Section 2 of this act, $4,820,000 shall
+7 be distributed for support of students in English language learner programs
+8 as follows:
+9 (1) The State Department of Education shall distribute $4,370,000 to
+10 school districts and public charter schools pro rata based on the population
+11 of English language learners under criteria established by the department.
+12 (2) The State Department of Education shall distribute $450,000 for
+13 a competitive grant program to assist school districts and public char-
+14 ter schools in which English language learners are not reaching statewide
+15 accountability interim targets or long-term goals, as defined by federal
+16 law. This amount shall be distributed annually in three-year grant cycles,
+17 contingent on appropriation and the ability of grantees to meet program ob-
+18 jectives.
+19 The State Department of Education shall develop the program elements
+20 and objectives governing the use of these funds and include a program evalua-
+21 tion component.
+22 The purpose of these funds is to improve student English language skills
+23 to allow for better access to the educational opportunities offered in pub-
+24 lic schools. The State Department of Education shall report to the Joint
+25 Finance-Appropriations Committee, the Senate Education Committee, and the
+26 House Education Committee by no later than January 5, 2027, on the program
+27 design, use of funds, and program effectiveness.
+28 SECTION 18. ADVANCED OPPORTUNITIES COURSES AND PROGRAM EVALUATION. The
+29 State Department of Education shall compile information concerning the num-
+30 ber of students enrolling in advanced opportunities courses according to the
+31 provisions of Chapter 46, Title 33, Idaho Code, whether coursework is suc-
+32 cessfully completed, and total expenditures for fiscal year 2026. As nearly
+33 as practicable, the report shall contain information about enrollment of
+34 this student population in postsecondary education. A report containing
+35 such information shall be posted on the website of the State Department of
+36 Education no later than January 5, 2027.
+37 SECTION 19. PUBLIC SCHOOL INCOME FUND TRANSFER TO COMMISSION ON HIS-
+38 PANIC AFFAIRS. There is hereby appropriated and the Office of the State Con-
+39 troller shall transfer in accordance with Section 63-2552A(2), Idaho Code,
+40 on July 1, 2026, or as soon thereafter as practicable, $80,000 from the Pub-
+41 lic School Income Fund to the Commission on Hispanic Affairs Miscellaneous
+42 Revenue Fund to be used for substance abuse prevention efforts in collabora-
+43 tion with the State Department of Education.
+44 SECTION 20. PUBLIC SCHOOL INCOME FUND TRANSFER TO THE IDAHO STATE PO-
+45 LICE. There is hereby appropriated and the Office of the State Controller
+46 shall transfer in accordance with Section 63-2552A(2), Idaho Code, on July
+
+7
+1 1, 2026, or as soon thereafter as practicable, $200,000 from the Public
+2 School Income Fund to the Idaho State Police Miscellaneous Revenue Fund for
+3 the purpose of increasing toxicology lab capacity in forensic services.
+4 SECTION 21. DIGITAL CONTENT AND CURRICULA. Of the funds appropriated in
+5 Section 2 of this act, $1,600,000 shall be distributed by the State Depart-
+6 ment of Education to school districts and public charter schools to purchase
+7 digital content and curricula of their choice. Funding will be distributed
+8 pursuant to Section 33-4804(2), Idaho Code.
+9 SECTION 22. IDAHO DIGITAL LEARNING ACADEMY. The Idaho Digital Learning
+10 Academy (IDLA), created pursuant to Chapter 55, Title 33, Idaho Code, shall
+11 utilize state-appropriated funds for the period July 1, 2026, through June
+12 30, 2027, to achieve the following:
+13 (1) Tuition charged by IDLA to Idaho school districts and charter
+14 schools shall not exceed $40.00 per enrollment.
+15 (2) Provide remedial coursework for students failing to achieve profi-
+16 ciency in one or more areas of Idaho's standards-based tests.
+17 (3) Pursuant to State Board of Education rule, IDAPA 08.02.03, provide
+18 advanced opportunities, including access to dual credit courses, for stu-
+19 dents.
+20 The preceding list shall not be construed as excluding other instruc-
+21 tion and training that may be provided by the IDLA.
+22 SECTION 23. PROGRAM SUPPORT. Of the moneys appropriated in Section
+23 5 of this act, up to $2,459,100 from the Public School Income Fund shall
+24 be expended for the support of literacy programs, intervention services
+25 for non-Title I schools that fail to achieve proficiency on Idaho's stan-
+26 dards-based achievement tests, math initiative programs and regional math
+27 labs, and evaluation of the programs for students with non-English or lim-
+28 ited-English proficiency. The State Department of Education shall report to
+29 the Joint Finance-Appropriations Committee, the Senate Education Commit-
+30 tee, and the House Education Committee by no later than January 5, 2027, on
+31 the uses of funds and effectiveness of the programs and efforts.
+32 SECTION 24. STUDENT ASSESSMENTS. Of the moneys appropriated in Section
+33 5 of this act, the State Department of Education may expend up to $2,258,500
+34 for the development or administration of student assessments, including a
+35 college entrance exam for grade 11 students, an exam for grade 10 students
+36 that provides preparation for the college entrance exam, and end-of-course
+37 exams for high school science subjects.
+38 SECTION 25. PROFESSIONAL DEVELOPMENT -- CENTRAL SERVICES. Of the mon-
+39 eys appropriated in Section 5 of this act, the State Department of Education
+40 may expend up to $4,500,000 for professional development and teacher train-
+41 ing and to track usage and effectiveness of professional development efforts
+42 at the state and local levels.
+43 SECTION 26. CONTENT AND CURRICULUM. Of the moneys appropriated in
+44 Section 5 of this act, $1,200,000 shall be expended for the purchase of
+
+8
+1 content and curriculum for adaptive math instruction, and $2,250,000 shall
+2 be expended for research-based programs to assist with the instruction of
+3 students with non-English or limited-English proficiency and for learning
+4 loss.
+5 SECTION 27. CONTENT AND CURRICULUM -- TECHNOLOGY. Of the moneys appro-
+6 priated in Section 5 of this act, an amount not to exceed $1,570,000 from the
+7 Public School Income Fund may be expended by the State Department of Edu-
+8 cation to contract for services that provide technology education opportu-
+9 nities and/or information technology certifications to students, including
+10 faculty that prepare students for college, career, or the workplace. Fund-
+11 ing shall be awarded for projects that include three or more of the following
+12 components:
+13 (1) Certification of skills and competencies;
+14 (2) Professional development for teachers;
+15 (3) Integration with curriculum standards;
+16 (4) Online access to research-based content and curriculum; or
+17 (5) Instructional software for classroom use.
+18 The State Department of Education shall provide a report to the Joint
+19 Finance-Appropriations Committee, the Senate Education Committee, and the
+20 House Education Committee by no later than January 5, 2027, regarding the
+21 number and type of certificates earned by students and faculty.
+22 SECTION 28. STATEWIDE TRAINING FOR EARLY LITERACY. Of the moneys appro-
+23 priated in Section 5 of this act, $5,000,000 shall be expended for intensive
+24 professional development and coaching supports that leverage literacy ex-
+25 perts who are approved by the State Department of Education and trained in
+26 the science of reading in conformance with Section 33-1807(7), Idaho Code.
+27 The State Department of Education shall provide all kindergarten through
+28 grade 3 teachers this professional development on a three-year cycle, while
+29 extending the training to other support staff as time and resources allow.
+30 Additionally, the State Department of Education shall prioritize these
+31 professional development services to teachers in underperforming schools
+32 as calculated in the bottom 25 percent based on the most recent spring Idaho
+33 Reading Indicators scores. Support for low-performing schools may include
+34 pay for success models provided under Section 33-125B, Idaho Code, for
+35 turnaround school service providers. No later than January 5, 2027, the
+36 State Department of Education shall report to the Legislative Services Of-
+37 fice Budget and Policy Analysis Division on the distribution, expenditure,
+38 and results of these funds. The format and content of the report shall be
+39 determined in consultation with the State Department of Education and the
+40 Legislative Services Office Budget and Policy Analysis Division.
+41 SECTION 29. YEAR-END RECONCILIATION. If the moneys appropriated and
+42 transferred to the Public School Income Fund and the moneys appropriated
+43 from the General Fund in Section 5 of this act exceed the actual expenditures
+44 for the specified purposes, the difference shall be included in the year-end
+45 reconciliation used to calculate funding available to meet the requirements
+46 of Section 33-1018, Idaho Code, notwithstanding any other provision of law
+47 to the contrary. If the funding amounts specified in Section 24 of this act
+
+9
+1 are insufficient to meet the actual expenditures, the difference shall be
+2 included in the year-end reconciliation used to calculate funding available
+3 to meet the requirements of Section 33-1018, Idaho Code, notwithstanding any
+4 other provision of law to the contrary.
+5 SECTION 30. DEFINITIONS. (1) As used in Sections 8, 9, 12, and 21 of this
+6 act, "distributed" means moneys that are transferred to school districts and
+7 public charter schools, with no funds withheld for any other contract or ad-
+8 ministrative costs.
+9 (2) As used in Sections 14, 15, and 17 of this act, "distributed" means
+10 moneys that are transferred to school districts, public charter schools, and
+11 the Idaho Digital Learning Academy, with no funds withheld for any other con-
+12 tract or administrative costs.
+13 (3) As used in Sections 23, 26, 27, and 28 of this act, "expended" means
+14 moneys that pay for the cost of contracts that provide services to school
+15 districts, public charter schools, or students or that pay for the State
+16 Department of Education's cost of administering the programs for which the
+17 moneys are allocated.
+18 SECTION 31. ACQUISITIONS. Consistent with the provisions of Chapter
+19 92, Title 67, Idaho Code, and funding provided in Section 5 of this act, the
+20 State Department of Education is required to engage in open, competitive
+21 acquisition processes. The State Department of Education shall provide a
+22 report to the Joint Finance-Appropriations Committee by no later than De-
+23 cember 1, 2026, on all contracts signed during fiscal year 2026 for property
+24 valued at more than $25,000. The report shall include for each contract: (a)
+25 the amount; (b) the duration; (c) the parties; (d) the subject; (e) whether
+26 the contract was awarded as a result of an open, competitive acquisition
+27 process or as a sole source or other noncompetitive procurement pursuant
+28 to Section 67-9221, Idaho Code; and (f) the rationale for signing any sole
+29 source or other noncompetitive procurements.
+30 SECTION 32. There is hereby appropriated and the Office of the State
+31 Controller shall transfer $2,773,295,400 from the General Fund to the Public
+32 School Income Fund on July 1,2026, or as soon thereafter as practicable for
+33 the period July 1,2026, through June 30,2027.
+34 SECTION 33. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+35 made pursuant to this act are subject to the conditions, limitations, and re-
+36 strictions specified in this act.
+37 SECTION 34. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

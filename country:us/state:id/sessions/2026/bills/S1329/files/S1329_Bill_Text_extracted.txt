@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1329
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO WEIGHTS AND MEASURES; AMENDING SECTION 71-234, IDAHO CODE, TO
+3 PROVIDE FOR CASH ROUNDING; AND DECLARING AN EMERGENCY AND PROVIDING AN
+4 EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 71-234, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 71-234. MISREPRESENTATION OF PRICE PROHIBITED -- FRACTIONS OF CENTS
+9 -- CASH ROUNDING. (1) Whenever any commodity or service is sold, or is of-
+10 fered, exposed, or advertised for sale, by weight, measure, or count, the
+11 price shall not be misrepresented, nor shall the price be represented in any
+12 manner calculated or tending to mislead or deceive an actual or prospective
+13 purchaser.
+14 (2) Whenever an advertised, posted, or labeled price per unit of
+15 weight, measure, or count includes a fraction of a cent, all elements of the
+16 fraction shall be prominently displayed and the numeral or numerals express-
+17 ing the fraction shall be immediately adjacent to, of the same general design
+18 and style as, and at least one-half (1/2) the height and width of the numerals
+19 representing the whole cents.
+20 (3)(a) Notwithstanding any other provision of law to the contrary,
+21 whenever any service or any commodity, good, product, or other item of
+22 value, whether tangible or intangible, is sold, leased, rented, li-
+23 censed, or otherwise provided in a transaction, and payment is tendered
+24 in cash, if a seller is unable to round the cash transaction to the near-
+25 est whole cent using denominations of United States coin or currency in
+26 circulation, the seller may round either the total amount due for the
+27 transaction, or the amount of change due back to the purchaser, to the
+28 nearest multiple of five cents (5¢) as follows:
+29 (i) If the final digit of such amount is 1, 2, 6, or 7, the amount
+30 shall be rounded down to the nearest multiple of five cents (5¢);
+31 and
+32 (ii) If the final digit of such amount is 3, 4, 8, or 9, the amount
+33 shall be rounded up to the nearest multiple of five cents (5¢).
+34 (b) Payment tendered through electronic, card, check, or other non-
+35 cash means shall be settled to the exact amount.
+36 (c) For the purposes of this subsection, "total amount due" means the
+37 sum of the total price plus any applicable taxes, fees, or other charges
+38 calculated to the nearest cent. Taxes shall be computed based on the to-
+39 tal price before any rounding occurs under this subsection.
+
+2
+1 SECTION 2. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

@@ -1,0 +1,295 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 574
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAL MANDATES; REPEALING SECTION 39-1118, IDAHO CODE, RELAT-
+3 ING TO IMMUNIZATION; REPEALING SECTION 39-4801, IDAHO CODE, RELATING
+4 TO IMMUNIZATION AND EXEMPTIONS; AMENDING CHAPTER 48, TITLE 39, IDAHO
+5 CODE, BY THE ADDITION OF A NEW SECTION 39-4801, IDAHO CODE, TO DEFINE
+6 TERMS; AMENDING CHAPTER 48, TITLE 39, IDAHO CODE, BY THE ADDITION OF
+7 A NEW SECTION 39-4802, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+8 PREEMPTION OF MEDICAL INTERVENTION MANDATES; AMENDING SECTION 39-4803,
+9 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE IMMUNIZATION REGISTRY;
+10 AMENDING SECTION 39-4804, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+11 NOTIFICATION TO PARENT OR GUARDIAN AND TO PROVIDE FOR AWARD OF ATTOR-
+12 NEY'S FEES AND COSTS INCURRED; AMENDING SECTION 73-503, IDAHO CODE, TO
+13 REVISE PROVISIONS REGARDING MEDICAL MANDATE PROHIBITIONS; AND DECLAR-
+14 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+15 Be It Enacted by the Legislature of the State of Idaho:
+16 SECTION 1. That Section 39-1118, Idaho Code, be, and the same is hereby
+17 repealed.
+18 SECTION 2. That Section 39-4801, Idaho Code, be, and the same is hereby
+19 repealed.
+20 SECTION 3. That Chapter 48, Title 39, Idaho Code, be, and the same is
+21 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+22 ignated as Section 39-4801, Idaho Code, and to read as follows:
+23 39-4801. DEFINITIONS. As used in this chapter:
+24 (1) "Daycare" means a daycare center or daycare facility subject to the
+25 provisions of chapter 11, title 39, Idaho Code, or any other daycare center
+26 or daycare facility that is subject to regulation by any political subdivi-
+27 sion of this state.
+28 (2) "Medical intervention" means a medical procedure, treatment, de-
+29 vice, drug, injection, vaccine, immunization, medication, or medical action
+30 taken to diagnose, prevent, or cure a disease or alter the health or biologi-
+31 cal function of a person.
+32 (3) "Political subdivision" means any county, city, district, depart-
+33 ment, agency, board, or any other political subdivision of this state.
+34 (4) "School" means any public, private, or parochial preschool; any
+35 kindergarten, elementary, or secondary school; any postsecondary institute
+36 of education, including trade schools, colleges, and universities; or any
+37 other institute of primary, secondary, or higher learning operating in this
+38 state. The term "school" includes any governing body or administrator pro-
+39 viding oversight or acting on behalf of a school.
+
+2
+1 SECTION 4. That Chapter 48, Title 39, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 39-4802, Idaho Code, and to read as follows:
+4 39-4802. PREEMPTION OF MEDICAL INTERVENTION MANDATES. (1) The legis-
+5 lature finds that uniform laws prohibiting medical intervention mandates
+6 are necessary to preserve medical freedom for individuals and for parents
+7 and guardians of minor children, consistent with section 1, article I of the
+8 constitution of the state of Idaho. It is the intent of the legislature to
+9 wholly occupy the field of medical intervention laws within this state.
+10 (2) Except as expressly authorized by state statute, no political sub-
+11 division of this state or school may adopt or enforce any law, rule, regula-
+12 tion, ordinance, or policy that requires, mandates, advises, recommends, or
+13 encourages any medical intervention or that limits or restricts any person's
+14 access to or use of any facility or service, including a school or daycare, on
+15 the basis of the person having declined or not received a medical interven-
+16 tion.
+17 (3) Any law, rule, regulation, ordinance, or policy that is in viola-
+18 tion of this chapter is hereby declared to be null, void, and of no force and
+19 effect.
+20 (4) The provisions of this chapter may be enforced by and injunctive re-
+21 lief may be pursued by either the attorney general or the prosecuting attor-
+22 ney for the county where a violation occurs.
+23 (5) If a political subdivision of this state is found to have violated
+24 the provisions of this chapter, the attorney general or prosecuting attor-
+25 ney, as applicable, shall be awarded attorney's fees and costs incurred in
+26 pursuing the enforcement action.
+27 SECTION 5. That Section 39-4803, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 39-4803. IMMUNIZATION REGISTRY. (1) The department of health and wel-
+30 fare shall provide for the establishment of a voluntary registry of the immu-
+31 nization status of Idaho children against childhood diseases. The registry
+32 shall be maintained and its data disclosed as set out herein to further the
+33 following purposes:
+34 (a) To make immunizations readily available to every Idaho citizen that
+35 desires to have their child immunized;
+36 (b) To increase the voluntary immunization rate in Idaho to the maximum
+37 extent possible without mandating such immunizations;
+38 (c) (a) To recognize and respect the rights of parents and guardians to
+39 make health care decisions for their children; and
+40 (d) (b) To provide for timely reminders records to parents of children
+41 in the registry.
+42 (2) The name of a child and information relating to the immunization
+43 status of that child shall be collected and included in the registry unless
+44 if a parent, guardian or other person legally responsible for the care of the
+45 child chooses not to have the child included in the registry upon a specified
+46 written statement. Such statement may not be part of a general authorization
+47 or release. The registry shall contain the following information for each
+48 child:
+
+3
+1 (a) The child's name, address and birth date;
+2 (b) The name and address of each parent of the child;
+3 (c) The month, day, year and type of each immunization that has been ad-
+4 ministered to the child;
+5 (d) The name, address and phone number of each provider that has admin-
+6 istered an immunization to the child;
+7 (e) If requested by a parent or guardian, any statement made pursuant to
+8 subsection (4) of this section; and
+9 (f) Other information as authorized or requested by a parent or
+10 guardian.
+11 (3) The department of health and welfare shall only disclose informa-
+12 tion relating to an individual child in the registry to the following upon a
+13 specific request:
+14 (a) Employees of the health district in which the child resides or seeks
+15 medical services;
+16 (b) Health records staff of the school or school district in which the
+17 child is enrolled;
+18 (c) The operator of a licensed daycare facility in which the child is
+19 enrolled;
+20 (d) (b) Persons who are legally responsible for the long-term care of
+21 the child, including operators of licensed ICF/ID's and residential or
+22 assisted living facilities, adoptive and foster parents and a guardian
+23 appointed pursuant to chapter 5, title 15, Idaho Code;
+24 (e) (c) Any health care provider rendering treatment to the child, and
+25 the provider's agents;
+26 (f) (d) Any person possessing a lawful release, properly executed by
+27 the child's parent or guardian;
+28 (g) (e) A parent of the child;
+29 (h) (f) Any hospital where the child is receiving care; or
+30 (i) (g) The Idaho health data exchange.
+31 (4) A parent or guardian of the child shall have free and open access to
+32 all information in the registry that relates to their child or themselves.
+33 Upon the written request of a parent or guardian, the department of health
+34 and welfare shall:
+35 (a) Cause all information relating to the child to be removed from the
+36 registry;
+37 (b) Include in the registry the a written statement of a physician
+38 or parent pursuant to section 39-4801(5) or 39-1118(2), Idaho Code.
+39 parent or guardian declining or refusing immunizations for religious or
+40 any other reasons.
+41 (5) All information contained in the registry or disclosed from it is
+42 confidential and may not be sold and may only be disclosed as specifically
+43 authorized in this section. A person or entity to whom information is dis-
+44 closed from the registry may not thereafter disclose it to others except in
+45 accordance with state and federal laws applicable to the use of protected
+46 health information. Any person who discloses or authorizes disclosure of
+47 any information contained in the registry, except as authorized in this sec-
+48 tion, is guilty of a misdemeanor and is liable for civil damages in the amount
+49 of one hundred dollars ($100) for each violation.
+
+4
+1 SECTION 6. That Section 39-4804, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 39-4804. NOTIFICATION TO PARENT OR GUARDIAN -- ATTORNEY'S FEES AND
+4 COSTS. (1) Before an immunization is administered to any child in this state,
+5 the parent or guardian of the child shall be notified by the person adminis-
+6 tering the immunization that:
+7 (a) Immunizations are not mandatory voluntary and may be declined or
+8 refused on religious or other grounds. Disclosure or explanation of re-
+9 ligious or other grounds shall not be required of any person, parent, or
+10 guardian declining or refusing;
+11 (b) Participation in the immunization registry is voluntary and may be
+12 declined or refused for any reason;
+13 (c) The parent or guardian is entitled to an accurate explanation of the
+14 complications known to follow such immunization.
+15 (2) At the time information is initially collected regarding any child
+16 for entry into the registry created pursuant to this chapter, the parent or
+17 guardian shall be notified that:
+18 (a) They have the right under Idaho law to submit a statement pursuant
+19 to the provisions of sections 39-1118 and 39-4801(5) or (6), Idaho Code,
+20 which exempts them from any requirement to have information regarding
+21 the child entered into the registry;
+22 (b) (a) At any time they have the right to remove any information from
+23 the registry regarding the child; and
+24 (c) (b) Immunizations are not mandatory voluntary and may be declined
+25 or refused on religious or other grounds. Disclosure or explanation of
+26 religious or other grounds shall not be required of any person, parent,
+27 or guardian declining or refusing.
+28 (3) The decision of a parent or guardian to:
+29 (a) Submit a statement pursuant to the provisions of either section
+30 39-1118(2) or 39-4801(5) or (6), Idaho Code;
+31 (b) (a) Remove any information regarding the child from the registry
+32 pursuant to the provisions of section 39-4803(4), Idaho Code; or
+33 (c) (b) Refuse or decline the immunization on religious or other
+34 grounds or for any other reason;
+35 shall not be used in any manner against the interests of the parent or
+36 guardian in any administrative, civil or criminal action.
+37 (4) If it is found that any person has violated the provisions of this
+38 chapter, the parent or guardian of the affected child shall be awarded all
+39 related attorney's fees and costs incurred.
+40 SECTION 7. That Section 73-503, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 73-503. MEDICAL MANDATES PROHIBITED. (1) A business entity doing
+43 business in the state of Idaho shall not refuse to provide any service,
+44 product, admission to a venue, or transportation to a person or otherwise pe-
+45 nalize a person because that person has or has not received or used a medical
+46 intervention.
+47 (2) A business entity doing business in the state of Idaho shall not re-
+48 quire a medical intervention as a term of employment or otherwise penalize an
+
+5
+1 employee because that employee has or has not received or used a medical in-
+2 tervention unless required by federal law or in such cases where the terms of
+3 employment include travel to foreign jurisdictions requiring a medical in-
+4 tervention as the only means of entry or where the terms of employment re-
+5 quire entry into a place of business or facility in a foreign jurisdiction
+6 and such place of business or facility requires a medical intervention as the
+7 only means of entry. In any such instance where an employee is required to
+8 obtain or use a medical intervention due to travel to a foreign jurisdiction
+9 or entry into a place of business or facility in a foreign jurisdiction, said
+10 requirement shall either be included in a valid written employment contract
+11 between the employer and the employee or, when a written employment contract
+12 does not exist, advance written notice shall be provided to an impacted em-
+13 ployee no less than fourteen (14) days prior to such employee being required
+14 to receive or use a medical intervention. Business entities that receive
+15 medicare or medicaid funding shall be exempt from the requirements of this
+16 subsection.
+17 (3) A ticket issuer shall not penalize, discriminate against, or deny
+18 access to an entertainment event to a ticket holder because the ticket holder
+19 has or has not received or used a medical intervention.
+20 (4)(a) A school operating in the state or a business subject to chapter
+21 11, title 39, Idaho Code, operating in the state shall not mandate a med-
+22 ical intervention for any person to attend, enter campus or buildings,
+23 or be employed, subject to the requirements of the Idaho parental rights
+24 act, sections 32-1010 through 32-1015, Idaho Code; sections 39-4801
+25 through 39-4804, Idaho Code;, and sections 33-205 and 33-512(7), Idaho
+26 Code. For the purposes of this subsection, private and parochial
+27 schools shall be considered as having the same authority as school dis-
+28 tricts under section 33-512(7), Idaho Code.
+29 (b) A school operating in the state or businesses subject to chapter 11,
+30 title 39, Idaho Code, operating in the state shall not require medical
+31 documents, medical records, proof of immunization, or proof of immunity
+32 from any disease as conditions of attendance, enrollment, entry, or em-
+33 ployment.
+34 (5) Unless required by federal law, no No state, county, or local gov-
+35 ernmental entity or official in Idaho shall require any person to receive or
+36 use a medical intervention.
+37 (6) Unless required by federal law, no No state, county, or local gov-
+38 ernmental entity or official in Idaho shall require any person to receive or
+39 use a medical intervention as a condition for:
+40 (a) Receipt of any government benefit;
+41 (b) Receipt of any government services;
+42 (c) Receipt of any government-issued license or permit;
+43 (d) Entrance into any public building;
+44 (e) Use of public transportation; or
+45 (f) A term of employment, provided that such entities that receive
+46 medicare or medicaid funding shall be exempt from the requirements of
+47 this paragraph.
+48 (7) No state, county, or local governmental or business entity in Idaho
+49 shall provide or offer any different salary, hourly wage, or other ongoing
+
+6
+1 compensation or benefits to an employee based on whether the employee has or
+2 has not received or used a medical intervention.
+3 (8) The ability to require a medical intervention under this chapter is
+4 subject to other statutory or constitutional provisions regarding requests
+5 for medical interventions and requirements to provide reasonable accommoda-
+6 tion.
+7 (9) The prohibition on medical interventions shall not apply to any
+8 situation where personal protective equipment, items, or clothing are
+9 required by a business entity in the public or private sectors based on ex-
+10 isting traditional and accepted industry standards or federal law. These
+11 exemptions to the prohibition on medical interventions shall not apply to
+12 or include any vaccines, mask requirements, or other medical interventions
+13 introduced during the COVID-19 pandemic.
+14 (10) The provisions of this chapter may be enforced and injunctive re-
+15 lief may be pursued by either the attorney general or the prosecuting attor-
+16 ney for the county where a violation occurs. If a business entity or state,
+17 county, city, or local governmental entity in Idaho is found to have violated
+18 the provisions of this chapter, the attorney general or prosecuting attor-
+19 ney, as applicable, shall be awarded attorney's fees and costs incurred in
+20 pursuing the enforcement action.
+21 (11) A state agency shall not adopt any policy, administrative rule, or
+22 regulation that conflicts with the provisions of this chapter.
+23 (11) Any person aggrieved by a violation of this chapter may bring a
+24 civil action in a court of competent jurisdiction for injunctive relief,
+25 damages, or both. If the court finds that a person violated any of the pro-
+26 visions of this chapter, it shall award actual damages plus an amount equal
+27 to treble the amount of actual damages, or one thousand dollars ($1,000) per
+28 violation, whichever is greater. The court shall also award a prevailing
+29 plaintiff reasonable attorney's fees and costs.
+30 (12) The provisions of this chapter shall apply at all times and shall
+31 not be suspended, nullified, or otherwise disregarded during any declared
+32 emergency, public health crisis, or state of emergency issued by any local,
+33 state, or federal authority.
+34 (12) (13) Notwithstanding any other provision of law to the contrary,
+35 under no circumstance may a healthy person be excluded in a disease outbreak
+36 due to such person's vaccination status.
+37 SECTION 8. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

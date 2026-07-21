@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1279
+BY LOCAL GOVERNMENT AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO HOUSING; AMENDING CHAPTER 6, TITLE 55, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW SECTION 55-619, IDAHO CODE, TO PROHIBIT CERTAIN RESTRIC-
+4 TIVE COVENANTS AGAINST STARTER HOME SUBDIVISIONS; AMENDING CHAPTER 32,
+5 TITLE 55, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 55-3214, IDAHO
+6 CODE, TO PROVIDE PROHIBITIONS REGARDING CERTAIN COVENANTS, CONDITIONS,
+7 AND RESTRICTIONS ON STARTER HOME SUBDIVISIONS; AMENDING CHAPTER 65, TI-
+8 TLE 67, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 67-6541, IDAHO CODE,
+9 TO ESTABLISH PROVISIONS REGARDING STARTER HOME SUBDIVISIONS IN THE LO-
+10 CAL LAND USE PLANNING ACT AND TO PROVIDE A DEFINITION; PROVIDING SEVER-
+11 ABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. That Chapter 6, Title 55, Idaho Code, be, and the same is
+14 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+15 ignated as Section 55-619, Idaho Code, and to read as follows:
+16 55-619. STARTER HOME SUBDIVISIONS -- RESTRICTIVE COVENANTS PROHIB-
+17 ITED. (1) On and after July 1, 2026, no restrictive covenant shall be entered
+18 into that strictly prohibits or unreasonably restricts the construction of
+19 starter home subdivisions as provided in section 67-6541, Idaho Code. Any
+20 such covenant is hereby declared to be against public policy and is void and
+21 unenforceable. Any person attempting to create or enforce such a covenant
+22 shall be subject to a cause of action and liable for any attorney's fees,
+23 court costs, and any other damages incurred by the other party.
+24 (2) This section shall not apply to restrictive covenants against
+25 starter home subdivisions as provided in section 67-6541, Idaho Code, that
+26 are entered into prior to July 1, 2026.
+27 SECTION 2. That Chapter 32, Title 55, Idaho Code, be, and the same is
+28 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+29 ignated as Section 55-3214, Idaho Code, and to read as follows:
+30 55-3214. STARTER HOME SUBDIVISIONS. No covenant, condition, or re-
+31 striction may be added, amended, or enforced by a homeowner's association
+32 or any other parties in such a way that strictly prohibits or unreasonably
+33 restricts starter home subdivisions as provided in section 67-6541, Idaho
+34 Code. This section shall not affect any such covenant, condition, or re-
+35 striction in effect prior to July 1, 2026.
+36 SECTION 3. That Chapter 65, Title 67, Idaho Code, be, and the same is
+37 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+38 ignated as Section 67-6541, Idaho Code, and to read as follows:
+
+2
+1 67-6541. STARTER HOME SUBDIVISIONS. (1) No county or city shall enact
+2 or enforce any ordinance within its jurisdiction that bans starter home sub-
+3 divisions in any residential zoning area. "Starter home subdivision" means
+4 a proposed new subdivision for single-family dwellings located on vacant or
+5 undeveloped land that is at least four (4) acres in size.
+6 (2) By resolution or ordinance adopted, amended, or repealed in accor-
+7 dance with the notice and hearing procedures provided in section 67-6509,
+8 Idaho Code, each governing board shall amend its comprehensive plan and land
+9 use regulations for all land zoned for single-family residential use, except
+10 for lands falling within an area defined as a historic district in section
+11 67-4607, Idaho Code, to:
+12 (a) Prohibit requiring minimum lot sizes exceeding one thousand
+13 (1,000) square feet for lots located in starter home subdivisions;
+14 (b) Prohibit requiring front or rear setbacks exceeding fifteen (15)
+15 feet or side setbacks exceeding five (5) feet for a primary residential
+16 structure on a lot;
+17 (c) Prohibit requiring lot front widths exceeding thirty (30) feet for
+18 narrow lots;
+19 (d) Prohibit requiring lot depths exceeding seventy (70) feet, unless
+20 overall lot shape, topography, or environmental or infrastructure con-
+21 straints require it;
+22 (e) Allow density of at least twelve (12) dwelling units per lot acre
+23 unless infrastructure limitations, lot configuration, or environmen-
+24 tal constraints make it unfeasible; and
+25 (f) Prohibit imposing permit fees, development impact fees, or util-
+26 ity connection fees for starter home subdivisions exceeding those that
+27 would be imposed on other single-family home subdivisions. A local
+28 government may provide incentives to builders through fee reductions or
+29 waivers for compliance with smaller lot and setback options.
+30 (3) The provisions of this section shall not supersede state or local
+31 laws that protect public health, safety, and welfare, including:
+32 (a) Building codes, fire safety standards, and flood plain regula-
+33 tions;
+34 (b) Laws regarding water, sewer, storm drainage, road access, and util-
+35 ity services necessary to support the required density; and
+36 (c) Laws regarding environmental hazards, aquifer recharge zones,
+37 steep slopes, or critical habitat protections.
+38 (4) A property owner, housing developer, or other affected party may
+39 bring a private cause of action for injunctive relief, monetary damages,
+40 reasonable attorney's fees and costs, and any other appropriate relief
+41 available under law to enforce compliance with the provisions of this sec-
+42 tion.
+43 SECTION 4. SEVERABILITY. The provisions of this act are hereby declared
+44 to be severable and if any provision of this act or the application of such
+45 provision to any person or circumstance is declared invalid for any reason,
+46 such declaration shall not affect the validity of the remaining portions of
+47 this act.
+
+3
+1 SECTION 5. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

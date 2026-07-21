@@ -1,0 +1,451 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1257
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD PROTECTION; AMENDING SECTION 16-1602, IDAHO CODE, TO
+3 DEFINE A TERM; AMENDING SECTION 16-2005, IDAHO CODE, TO REVISE PROVI-
+4 SIONS REGARDING CONDITIONS UNDER WHICH TERMINATION MAY BE GRANTED; AND
+5 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 16-1602, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 16-1602. DEFINITIONS. For purposes of this chapter:
+10 (1) "Abused" means any case in which a child has been the victim of:
+11 (a) Conduct or omission resulting in skin bruising, bleeding, mal-
+12 nutrition, burns, fracture of any bone, head injury, soft tissue
+13 swelling, failure to thrive or death, and such condition or death is not
+14 justifiably explained, or where the history given concerning such con-
+15 dition or death is at variance with the degree or type of such condition
+16 or death, or the circumstances indicate that such condition or death may
+17 not be the product of an accidental occurrence; or
+18 (b) Sexual conduct, including rape, molestation, incest, commercial
+19 sexual activity, obscene or pornographic photographing, filming or de-
+20 piction for commercial purposes, human trafficking as defined in chap-
+21 ter 86, title 18, Idaho Code, or other similar forms of sexual exploita-
+22 tion harming or threatening the child's health or welfare or mental in-
+23 jury to the child.
+24 (2) "Abandoned" means the failure of the parent to maintain a normal
+25 parental relationship with his child including, but not limited to, reason-
+26 able support or regular personal contact. Failure to maintain this rela-
+27 tionship without just cause for a period of one (1) year shall constitute
+28 prima facie evidence of abandonment.
+29 (3) "Adaptive equipment" means any piece of equipment or any item that
+30 is used to increase, maintain or improve the parenting capabilities of a par-
+31 ent with a disability.
+32 (4) "Adjudicatory hearing" means a hearing to determine:
+33 (a) Whether the child comes under the jurisdiction of the court pur-
+34 suant to the provisions of this chapter;
+35 (b) Whether continuation of the child in the home would be contrary to
+36 the child's welfare and whether the best interest of the child requires
+37 protective supervision or vesting legal custody of the child in an au-
+38 thorized agency.
+39 (5) "Age of developmentally appropriate" means:
+40 (a) Activities that are generally accepted as suitable for children of
+41 the same chronological age or level of maturity or that are determined
+42 to be developmentally appropriate for a child, based on the development
+
+2
+1 of cognitive, emotional, physical and behavioral capacities that are
+2 typical for an age or age group; and
+3 (b) In the case of a specific child, activities or items that are suit-
+4 able for the child based on the developmental stages attained by the
+5 child with respect to the cognitive, emotional, physical and behavioral
+6 capacities of the child.
+7 (6) "Aggravated circumstances" includes, but is not limited to:
+8 (a) Circumstances in which the parent has engaged in any of the follow-
+9 ing:
+10 (i) Abandonment, chronic abuse or chronic neglect of the child.
+11 Chronic neglect or chronic abuse of a child shall consist of abuse
+12 or neglect that is so extreme or repetitious as to indicate that
+13 return of the child to the home would result in unacceptable risk
+14 to the health and welfare of the child.
+15 (ii) Sexual abuse against a child of the parent. Sexual abuse, for
+16 the purposes of this section, includes any conduct described in
+17 section 18-1506, 18-1506A, 18-1507, 18-1508, 18-1508A, 18-6101,
+18 or 18-6604, or chapter 86, title 18, Idaho Code.
+19 (iii) Torture of a child. Any conduct listed in section
+20 18-8303(1), Idaho Code; battery or an injury to a child that re-
+21 sults in serious or great bodily injury to a child; voluntary
+22 manslaughter of a child, or aiding or abetting such voluntary
+23 manslaughter, soliciting such voluntary manslaughter or attempt-
+24 ing or conspiring to commit such voluntary manslaughter;
+25 (b) The parent has committed murder, aided or abetted a murder, so-
+26 licited a murder or attempted or conspired to commit murder; or
+27 (c) The parental rights of the parent to another child have been termi-
+28 nated involuntarily.
+29 (7) "Authorized agency" means the department, a local agency, a person,
+30 an organization, corporation, benevolent society or association licensed
+31 or approved by the department or the court to receive children for control,
+32 care, maintenance or placement.
+33 (8) "Caregiver" means a foster parent with whom a child in foster care
+34 has been placed or a designated official for a child care institution in
+35 which a child in foster care has been placed.
+36 (9) "Case plan hearing" means a hearing to approve, modify or reject the
+37 case plan as provided in section 16-1621, Idaho Code.
+38 (10) "Child" means an individual who is under the age of eighteen (18)
+39 years.
+40 (11) "Child advocacy center" or "CAC" means an organization that ad-
+41 heres to national best practice standards established by the national
+42 membership and accrediting body for children's advocacy centers and that
+43 promotes a comprehensive and coordinated multidisciplinary team response to
+44 allegations of child abuse by maintaining a child-friendly facility at which
+45 appropriate services are provided. These services may include forensic in-
+46 terviews, forensic medical examinations, mental health services and other
+47 related victim services.
+48 (12) "Circumstances of the child" includes, but is not limited to, the
+49 joint legal custody or joint physical custody of the child.
+50 (13) "Commit" means to transfer legal and physical custody.
+
+3
+1 (14) "Concurrent planning" means a planning model that prepares for and
+2 implements different outcomes at the same time.
+3 (15) "Court" means district court or magistrate division thereof or, if
+4 the context requires, a magistrate or judge thereof.
+5 (16) "Custodian" means a person, other than a parent or legal guardian,
+6 to whom legal or joint legal custody of the child has been given by court or-
+7 der.
+8 (17) "Department" means the department of health and welfare and its au-
+9 thorized representatives.
+10 (18) "Disability" means, with respect to an individual, any mental or
+11 physical impairment that substantially limits one (1) or more major life
+12 activities of the individual including, but not limited to, self-care, man-
+13 ual tasks, walking, seeing, hearing, speaking, learning or working, or a
+14 record of such an impairment, or being regarded as having such an impairment.
+15 Disability shall not include transvestism, transsexualism, pedophilia,
+16 exhibitionism, voyeurism, other sexual behavior disorders, or substance use
+17 disorders, compulsive gambling, kleptomania or pyromania. Sexual prefer-
+18 ence or orientation is not considered an impairment or disability. Whether
+19 an impairment substantially limits a major life activity shall be determined
+20 without consideration of the effect of corrective or mitigating measures
+21 used to reduce the effects of the impairment.
+22 (19) "Family or household member" shall have the same meaning as in sec-
+23 tion 39-6303(6), Idaho Code.
+24 (20) "Foster care" means twenty-four (24) hour substitute parental care
+25 for children placed away from their parents or guardians by persons who may
+26 or may not be related to the children and for whom the state agency has place-
+27 ment and care responsibility.
+28 (21) "Foster parent" means a person or persons licensed to provide fos-
+29 ter care.
+30 (22) "Grant administrator" means the supreme court or any organization
+31 or agency as may be designated by the supreme court in accordance with such
+32 procedures as may be adopted by the supreme court. The grant administrator
+33 shall administer funds from the guardian ad litem account in accordance with
+34 the provisions of this chapter.
+35 (23) "Guardian ad litem" means a person appointed by the court pursuant
+36 to a guardian ad litem volunteer program to act as special advocate for a
+37 child under this chapter.
+38 (24) "Guardian ad litem coordinator" means a person or entity receiving
+39 moneys from the grant administrator for the purpose of carrying out any of
+40 the duties set forth in section 16-1632, Idaho Code.
+41 (25) "Guardian ad litem program" means the program to recruit, train and
+42 coordinate volunteer persons to serve as guardians ad litem for abused, ne-
+43 glected or abandoned children.
+44 (26) "Homeless," as used in this chapter, shall mean that the child is
+45 without adequate shelter or other living facilities, and the lack of such
+46 shelter or other living facilities poses a threat to the health, safety or
+47 well-being of the child.
+48 (27) "Idaho network of children's advocacy centers" means an organiza-
+49 tion that provides education and technical assistance to child advocacy cen-
+
+4
+1 ters and to interagency multidisciplinary teams developed pursuant to sec-
+2 tion 16-1617, Idaho Code.
+3 (28) "Law enforcement agency" means a city police department, the pros-
+4 ecuting attorney of any county, state law enforcement officers, or the of-
+5 fice of a sheriff of any county.
+6 (29) "Legal custody" means a relationship created by court order, which
+7 vests in a custodian the following rights and responsibilities:
+8 (a) To have physical custody and control of the child, and to determine
+9 where and with whom the child shall live.
+10 (b) To supply the child with food, clothing, shelter and incidental ne-
+11 cessities.
+12 (c) To provide the child with care, education and discipline.
+13 (d) To authorize ordinary medical, dental, psychiatric, psychologi-
+14 cal, or other remedial care and treatment for the child, including care
+15 and treatment in a facility with a program of services for children, and
+16 to authorize surgery if the surgery is deemed by two (2) physicians li-
+17 censed to practice in this state to be necessary for the child.
+18 (e) Where the parents share legal custody, the custodian may be vested
+19 with the custody previously held by either or both parents.
+20 (30) "Mental injury" means a substantial impairment in the intellectual
+21 or psychological ability of a child to function within a normal range of per-
+22 formance and/or behavior, for short or long terms.
+23 (31) "Neglected" means a child:
+24 (a) Who is without proper parental care and control, or subsistence,
+25 medical or other care or control necessary for his well-being because of
+26 the conduct or omission of his parents, guardian or other custodian or
+27 their neglect or refusal to provide them; however, no child whose parent
+28 or guardian chooses for such child treatment by prayers through spiri-
+29 tual means alone in lieu of medical treatment shall be deemed for that
+30 reason alone to be neglected or lack parental care necessary for his
+31 health and well-being, but this subsection shall not prevent the court
+32 from acting pursuant to section 16-1627, Idaho Code; or
+33 (b) Whose parent, guardian or other custodian is unable to discharge
+34 the responsibilities to and for the child and, as a result of such in-
+35 ability, the child lacks the parental care necessary for his health,
+36 safety or well-being; or
+37 (c) Who has been placed for care or adoption in violation of law; or
+38 (d) Who is without proper education because of the failure to comply
+39 with section 33-202, Idaho Code.
+40 (32) "Order to prevent removal," as described in section 16-1611(5),
+41 Idaho Code, means an order to allow a child to remain in the child's present
+42 surroundings when there is reasonable cause to believe the child is safe in
+43 the sole care of one (1) parent, legal guardian, or legal custodian and when
+44 there is alleged neglect or abuse by another parent, legal guardian, or legal
+45 custodian.
+46 (33) "Permanency hearing" means a hearing to review, approve, reject or
+47 modify the permanency plan of the department and to review reasonable ef-
+48 forts in accomplishing the permanency plan.
+49 (34) "Permanency plan" means a plan for a continuous residence and main-
+50 tenance of nurturing relationships during the child's minority.
+
+5
+1 (35) "Protective supervision" is a legal status created by court order
+2 in a child protective case whereby the child is in the legal custody of his or
+3 her parent(s), guardian(s) or other legal custodian(s), subject to supervi-
+4 sion by the department.
+5 (36) "Psychotropic medication" means a drug prescribed to affect psy-
+6 chological functioning, perception, behavior or mood. Psychotropic medi-
+7 cations include, but are not limited to, antidepressants, mood stabilizers,
+8 antipsychotics, antianxiety medications, sedatives and stimulants.
+9 (37) "Qualified individual" means a trained professional or licensed
+10 clinician who is not connected to or affiliated with any placement setting
+11 in which children are placed by the department and who is not an employee of
+12 child and family services, unless a waiver has been approved by the autho-
+13 rized agency.
+14 (38) "Qualified residential treatment program" means a program that has
+15 a trauma-informed treatment model designed to address the needs of children
+16 with serious emotional or behavioral disorders or disturbances, is able to
+17 implement the treatment identified for the child by the assessment of the
+18 child required under section 16-1619A(2), Idaho Code, and is licensed and
+19 accredited in accordance with state and federal law.
+20 (39) "Reasonable and prudent parent standard" means the standard of
+21 care characterized by careful and sensible parental decisions that main-
+22 tain the health, safety and best interests of a child while simultaneously
+23 encouraging the emotional and developmental growth of the child that a care-
+24 giver shall use when determining whether to allow a child in foster care
+25 under the responsibility of the state to participate in extracurricular,
+26 enrichment, cultural or social activities.
+27 (40) "Relative" means a child's grandparent, great grandparent, aunt,
+28 great aunt, uncle, great uncle, brother-in-law, sister-in-law, first
+29 cousin, sibling and half-sibling.
+30 (41) "Residual parental rights and responsibilities" means those
+31 rights and responsibilities remaining with the parents after the transfer of
+32 legal custody including, but not necessarily limited to, the right of visi-
+33 tation, the right to consent to adoption, the right to determine religious
+34 affiliation, the right to family counseling when beneficial, and the respon-
+35 sibility for support.
+36 (42) "Shelter care" means places designated by the department for tem-
+37 porary care of children pending court disposition or placement.
+38 (43) "Supportive services," as used in this chapter, shall mean ser-
+39 vices that assist parents with a disability to compensate for those aspects
+40 of their disability that affect their ability to care for their child and
+41 that will enable them to discharge their parental responsibilities. The
+42 term includes specialized or adapted training, evaluations or assistance
+43 with effectively using adaptive equipment and accommodations that allow
+44 parents with a disability to benefit from other services including, but not
+45 limited to, Braille texts or sign language interpreters.
+46 (44)(a) "Visitation" means contact between a child and the child's par-
+47 ent, guardian, custodian, or siblings. Visitation includes in-person
+48 visitation, video communication, telephonic contact, and written com-
+49 munication.
+
+6
+1 (b) When the department has a substantiated claim of sexual abuse or
+2 physical abuse against the parent, guardian, or custodian, in-person
+3 visitation shall not be permitted unless the court finds that in-per-
+4 son visitation is in the best interest of the child. The court shall
+5 set forth written conditions for such in-person visitation that ensures
+6 the visitation is safe and does not harm the child's physical or mental
+7 health. Unless the court finds good cause to deviate, the written con-
+8 ditions shall include:
+9 (i) The parent, guardian, or custodian shall not be left alone
+10 with the child for any reason, including restroom breaks;
+11 (ii) The parent, guardian, or custodian shall not allow the child
+12 to sit on the person's, guardian's, or custodian's lap when there
+13 is substantiated sexual abuse; and
+14 (iii) The parent, guardian, or custodian shall not be allowed to
+15 engage in secret conversations or other communication that cannot
+16 be monitored in real time.
+17 (c) For the purposes of this subsection:
+18 (i) "Physical abuse" is as defined in subsection (1)(a) of this
+19 section, where the abuse caused life-threatening, disabling, or
+20 disfiguring injury or damage, or required medical treatment as
+21 recommended by a medical provider.
+22 (ii) "Sexual abuse" is as defined in subsection (1)(b) of this
+23 section and includes "sexual exploitation" as described in sec-
+24 tions 18-1507 and 18-1507A, Idaho Code.
+25 (iii) "Substantiated claim" means:
+26 1. Abuse was witnessed by an employee of the department;
+27 2. A court determines in an adjudicatory hearing that an
+28 abused child comes within the jurisdiction of this chapter;
+29 3. An alleged offender confessed;
+30 4. Abuse was corroborated by physical or medical evidence;
+31 or
+32 5. Abuse has been established by a preponderance of the evi-
+33 dence.
+34 SECTION 2. That Section 16-2005, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 16-2005. CONDITIONS UNDER WHICH TERMINATION MAY BE GRANTED.
+37 (1)(a) The court may grant an order terminating the relationship where
+38 it finds that termination of parental rights is in the best interests of
+39 the child and that one (1) or more of the following conditions exist:
+40 (i) The parent has abandoned the child;
+41 (ii) The parent has neglected or abused the child;
+42 (iii) The presumptive parent is not the biological parent of the
+43 child;
+44 (iv) The parent is unable to discharge parental responsibilities
+45 and such inability will continue for a prolonged indeterminate pe-
+46 riod and will be injurious to the health, morals or well-being of
+47 the child; or
+
+7
+1 (v) The parent has been incarcerated and is likely to remain in-
+2 carcerated for a substantial period of time during the child's mi-
+3 nority.; or
+4 (vi) The parent is incarcerated at the time of the termination
+5 hearing and has been or likely will remain incarcerated for a sub-
+6 stantial portion of the child's minority, and termination is ini-
+7 tiated by the department for such child who is in the legal custody
+8 of the department.
+9 (b) For terminations arising from a case filed pursuant to chapter 16,
+10 title 16, Idaho Code, additional factors that inform what is in the best
+11 interest of the child, beyond those otherwise identified by the courts,
+12 include:
+13 (i) The parent's efforts to improve the parent's capacity to
+14 safely reunify with the child;
+15 (ii) The parent's demonstrated ability to live a law-abiding
+16 life, excepting infraction violations; and
+17 (iii) When the child has formed a strong and positive bond with the
+18 child's substitute caretaker, the strong and positive bond has ex-
+19 isted for a substantial portion of the child's life, the removal of
+20 the child from the substitute caretaker would likely cause serious
+21 psychological harm to the child, and the parent lacks the capacity
+22 to meet the needs of the child upon removal.
+23 (2) The court may grant an order terminating the relationship and may
+24 rebuttably presume that such termination of parental rights is in the best
+25 interests of the child where:
+26 (a) The parent caused the child to be conceived as a result of rape,
+27 incest, lewd conduct with a minor child under the age of sixteen (16)
+28 years, or sexual abuse of a child under the age of sixteen (16) years, as
+29 defined in sections 18-6101, 18-1508, 18-1506, and 18-6601, Idaho Code;
+30 (b) The following circumstances are present:
+31 (i) Abandonment, chronic abuse or chronic neglect of the child.
+32 Chronic neglect or chronic abuse of a child shall consist of abuse
+33 or neglect that is so extreme or repetitious as to indicate con-
+34 tinuing the relationship would result in unacceptable risk to the
+35 health and welfare of the child;
+36 (ii) Sexual abuse against a child of the parent. Sexual abuse, for
+37 the purposes of this section, includes any conduct described in
+38 section 18-1506, 18-1506A, 18-1507, 18-1508, 18-1508A, 18-6101,
+39 or 18-6604, Idaho Code;
+40 (iii) Torture of a child; any conduct described in the code sec-
+41 tions listed in section 18-8303(1), Idaho Code; battery or an
+42 injury to a child that results in serious or great bodily in-
+43 jury to a child; voluntary manslaughter of a child, or aiding or
+44 abetting such voluntary manslaughter, soliciting such voluntary
+45 manslaughter or attempting or conspiring to commit such voluntary
+46 manslaughter;
+47 (iv) The parent has committed murder, aided or abetted a murder,
+48 solicited a murder or attempted or conspired to commit murder; or
+
+8
+1 (c) The court determines the child to be an abandoned infant, except in
+2 a parental termination action brought by one (1) parent against another
+3 parent.
+4 (3) The court shall not grant an order terminating the relationship
+5 based on the child's immunization status.
+6 (4) The court may grant an order terminating the relationship if termi-
+7 nation is found to be in the best interest of the parent and child.
+8 (5) The court may grant an order terminating the relationship where a
+9 consent to termination in the manner and form prescribed by this chapter has
+10 been filed by the parent or parents of the child in conjunction with a peti-
+11 tion for adoption initiated by the person or persons proposing to adopt the
+12 child, where the consent to termination has been filed by a licensed adop-
+13 tion agency, or where the termination is initiated by the department per-
+14 taining to a child who is in the legal custody of the department, and no sub-
+15 sequent hearing on the merits of the petition shall be held. Consents re-
+16 quired by this chapter must be witnessed by a district judge or magistrate of
+17 a district court, or equivalent judicial officer of the state, where a person
+18 consenting resides or is present, whether within or without the county, and
+19 shall be substantially in the following form:
+20 IN THE DISTRICT COURT OF THE.... JUDICIAL DISTRICT OF THE STATE OF IDAHO, IN
+21 AND FOR THE COUNTY OF....
+22 In the matter of the termination )
+23 of the parental rights of )
+24 ................... )
+25 ................... )
+26 I (we), the undersigned, being the.... of...., do hereby give my (our)
+27 full and free consent to the complete and absolute termination of my (our)
+28 parental right(s), to the said...., who was born....,...., unto...., hereby
+29 relinquishing completely and forever, all legal rights, privileges, du-
+30 ties and obligations, including all rights of inheritance to and from the
+31 said...., and I (we) do hereby expressly waive my (our) right(s) to hear-
+32 ing on the petition to terminate my (our) parental relationship with the
+33 said...., and respectfully request the petition be granted.
+34 DATED:...., 20..
+35 ................
+36 STATE OF IDAHO )
+37 ) ss.
+38 COUNTY OF.... )
+39 On this.... day of...., 20.., before me, the undersigned....,....
+40 (Judge or Magistrate) of the District Court of the.... Judicial District of
+41 the state of Idaho, in and for the county of...., personally appeared....,
+42 known to me (or proved to me on the oath of....) to be the person(s) whose
+43 name(s) is (are) subscribed to the within instrument, and acknowledged to me
+44 that he (she, they) executed the same.
+45 IN WITNESS WHEREOF, I have hereunto set my hand and affixed my official
+46 seal the day and year in this certificate first above written.
+47 ...................... (District Judge or Magistrate)
+
+9
+1 (6) The court shall accept a consent or a surrender and release executed
+2 in another state if:
+3 (a) It is witnessed by a magistrate or district judge of the state where
+4 signed; or
+5 (b) The court receives an affidavit or a certificate from a court of
+6 comparable jurisdiction stating that the consent or the surrender and
+7 release was executed in accordance with the laws of the state in which it
+8 was executed, or the court is satisfied by other showing that the con-
+9 sent or surrender and release was executed in accordance with the laws
+10 of the state in which it was executed.
+11 (7) The court shall accept a termination or relinquishment from a sis-
+12 ter state that has been ordered by a court of competent jurisdiction under
+13 like proceedings or in any other manner authorized by the laws of a sister
+14 state. In a state where the father has failed to file notice of claim to pa-
+15 ternity and willingness to assume responsibility as provided for pursuant to
+16 the laws of such state, and where such failure constitutes an abandonment of
+17 such child and constitutes a termination or relinquishment of the rights of
+18 the putative father, the court shall accept such failure as a termination in
+19 this state without further hearing on the merits if the court is satisfied
+20 that such failure constitutes a termination or relinquishment of parental
+21 rights pursuant to the laws of that state.
+22 (8) The court shall hold a hearing unless:
+23 (a) A consent to termination signed by the parent or parents of the
+24 child has been filed by an adoption agency licensed in the state of
+25 Idaho;
+26 (b) A consent to termination was filed in conjunction with a petition
+27 for adoption of the child; or
+28 (c) A consent to termination signed by the parent or parents of the
+29 child has been filed and the termination is initiated by the department
+30 pertaining to a child who is in legal custody of the department.
+31 (9) If the parent has a disability, as defined in this chapter, the par-
+32 ent shall have the right to provide evidence to the court regarding the man-
+33 ner in which the use of adaptive equipment or supportive services will enable
+34 the parent to carry out the responsibilities of parenting the child. Nothing
+35 in this section shall be construed to create any new or additional obligation
+36 on state or local governments to purchase or provide adaptive equipment or
+37 supportive services for parents with disabilities.
+38 SECTION 3. An emergency existing therefor, which emergency is hereby
+39 declared to exist, this act shall be in full force and effect on and after
+40 July 1, 2026.

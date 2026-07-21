@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1308
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO THE UNIFORM MEDIATION ACT; AMENDING SECTION 9-807, IDAHO CODE,
+3 TO REMOVE A PROVISION REGARDING WHAT A MEDIATOR MAY DISCLOSE AND TO MAKE
+4 TECHNICAL CORRECTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+5 FECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 9-807, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 9-807. PROHIBITED MEDIATOR REPORTS. (1) Except as otherwise provided
+10 in subsection (2) of this section, a mediator may not make a report, assess-
+11 ment, evaluation, recommendation, finding, or other communication regard-
+12 ing a mediation to a court, administrative agency, or other authority that
+13 may make a ruling on the dispute that is the subject of the mediation.
+14 (2) A mediator may disclose:
+15 (a) Whether the mediation occurred or has terminated, whether a settle-
+16 ment was reached, and attendance;
+17 (b) A mediation communication as permitted under pursuant to section
+18 9-806, Idaho Code; or
+19 (c) A mediation communication evidencing abuse, neglect, abandonment,
+20 or exploitation of an individual to a public agency responsible for pro-
+21 tecting individuals against such mistreatment; or.
+22 (d) In mediation governed by Idaho rule of civil procedure 16(j), in-
+23 formation permitted under Idaho rule of civil procedure 16(j).
+24 (3) A communication made in violation of subsection (1) of this section
+25 may not be considered by a court, administrative agency, or arbitrator.
+26 SECTION 2. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

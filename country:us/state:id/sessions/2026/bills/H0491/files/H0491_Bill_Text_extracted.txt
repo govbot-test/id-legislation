@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 491
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO IMMUNITY OF PERSONS GIVING EMERGENCY FIRST AID; AMENDING SECTION
+3 5-330, IDAHO CODE, TO REVISE PROVISIONS REGARDING IMMUNITY OF PERSONS
+4 GIVING EMERGENCY FIRST AID FROM DAMAGE CLAIMS; AND DECLARING AN EMER-
+5 GENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 5-330, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 5-330. IMMUNITY OF PERSONS GIVING EMERGENCY FIRST AID FROM DAMAGE
+10 CLAIM. That no action shall lie or be maintained for civil damages in any
+11 court of this state against any person or persons, or group of persons, who
+12 in good faith and without compensation, being at, or stopping at the scene
+13 of an accident or emergency, including a mental health or suicidal crisis,
+14 offers and administers emergency first aid, or emergency medical attention,
+15 or emergency psychological attention, including responding to suicidal
+16 thoughts, to any person or persons injured in such accident or emergency
+17 unless it can be shown that the person or persons offering or administering
+18 emergency first aid, or emergency medical attention, or emergency psycho-
+19 logical attention is guilty of gross negligence in the care or treatment of
+20 said injured person or persons or has treated them in a grossly negligent
+21 manner. The immunity described herein shall cease upon delivery of the in-
+22 jured person to either a generally recognized hospital for treatment of ill
+23 or injured persons, or upon assumption of treatment in the office or facility
+24 of any person undertaking to treat said injured person or persons, or upon
+25 delivery of said injured person or persons into custody of an ambulance at-
+26 tendant.
+27 SECTION 2. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2026.

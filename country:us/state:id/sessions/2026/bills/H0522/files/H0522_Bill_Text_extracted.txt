@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 522
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO UNMANNED AIRCRAFT SYSTEMS; AMENDING CHAPTER 2, TITLE 20, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 20-251, IDAHO CODE, TO DEFINE
+4 TERMS AND TO ESTABLISH PROVISIONS REGARDING UNMANNED AIRCRAFT SYSTEMS
+5 NEAR DEPARTMENT OF CORRECTION FACILITIES; AND DECLARING AN EMERGENCY
+6 AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 2, Title 20, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 20-251, Idaho Code, and to read as follows:
+11 20-251. UNMANNED AIRCRAFT SYSTEMS NEAR DEPARTMENT OF CORRECTION FA-
+12 CILITIES. (1) As used in this section:
+13 (a) "Mitigation measures" means actions, such as jamming, that are
+14 taken to cause electronic interference to neutralize, intercept, dis-
+15 able, or disrupt an unmanned aircraft system in order to prevent illegal
+16 or harmful activity.
+17 (b) "Nefarious manner" means a manner in which an unmanned aircraft
+18 system is used for an illegal, dangerous, or harmful purpose. Such
+19 purpose may include but is not limited to spying, smuggling contraband,
+20 facilitating criminal activity, or posing a direct threat to public
+21 safety or security of a correctional facility.
+22 (c) "Restricted airspace" means the airspace from the surface to a
+23 height of four hundred (400) feet above ground level within the defined
+24 perimeter of a correctional facility.
+25 (2) The department of correction or a law enforcement officer or agency
+26 may take reasonable and necessary mitigation measures against a threat posed
+27 by an unmanned aircraft system operating in a nefarious manner within re-
+28 stricted airspace within this state. Such measures may include but are not
+29 limited to:
+30 (a) The use of detection, tracking, and identification methods; and
+31 (b) The interception or disabling of an unmanned aircraft system
+32 through legal and safe methods, including but not limited to jamming,
+33 hacking, or physical capture.
+34 (3) The department of correction or a law enforcement officer or agency
+35 may act pursuant to subsection (2) of this section only if there is reason-
+36 able suspicion that the unmanned aircraft system is operating in a nefarious
+37 manner within the restricted airspace of any department of correction facil-
+38 ity where prisoners are held. The department of correction or a law enforce-
+39 ment officer or agency shall not be liable for any loss of or damage to an
+40 unmanned aircraft system due to mitigation measures taken pursuant to this
+41 section. The department of correction shall post notices on roads near cor-
+42 rectional facilities that the area is a "Drone No Fly Zone."
+
+2
+1 (4) The use of an unmanned aircraft system within the restricted
+2 airspace of a correctional facility shall be unlawful. Whoever commits the
+3 crime of unlawful use of an unmanned aircraft system within the restricted
+4 airspace of a correctional facility shall be guilty of a misdemeanor and
+5 shall be fined no less than two thousand dollars ($2,000) and no more than
+6 five thousand dollars ($5,000) or imprisoned for no more than one (1) year.
+7 In addition to the sentence imposed pursuant to this subsection, the court
+8 shall order the forfeiture of the unmanned aircraft system used in connec-
+9 tion with the unlawful act.
+10 (5) It shall be the responsibility of unmanned aircraft system opera-
+11 tors to be familiar with all airspace restrictions and the location of cor-
+12 rectional facilities and all other restricted airspace when operating un-
+13 manned aircraft systems. Lack of knowledge that the prohibited act occurred
+14 within the restricted airspace of the correctional facility shall not be a
+15 defense.
+16 SECTION 2. An emergency existing therefor, which emergency is hereby
+17 declared to exist, this act shall be in full force and effect on and after
+18 July 1, 2026.

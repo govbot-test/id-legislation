@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1432
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE DEPARTMENT OF HEALTH AND WELFARE; AP-
+3 PROPRIATING ADDITIONAL MONEYS TO THE DEPARTMENT OF HEALTH AND WELFARE
+4 FOR THE DIVISIONS OF INDIRECT SUPPORT SERVICES AND INDEPENDENT COUNCILS
+5 FOR FISCAL YEAR 2027; REDUCING THE APPROPRIATION TO THE DEPARTMENT OF
+6 HEALTH AND WELFARE FOR THE DIVISION OF INDIRECT SUPPORT SERVICES FOR
+7 FISCAL YEAR 2027; REDUCING AUTHORIZED FULL-TIME EQUIVALENT POSITIONS
+8 FOR FISCAL YEAR 2027; PROVIDING A TRANSFER LIMITATION EXEMPTION FOR
+9 FISCAL YEAR 2027; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+10 DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. In addition to any other appropriation provided by law,
+13 there is hereby appropriated to the Department of Health and Welfare the
+14 following amounts to be expended according to the designated programs and
+15 expense classes from the listed funds for the period July 1, 2026, through
+16 June 30, 2027:
+17 FOR FOR FOR
+18 PERSONNEL OPERATING CAPITAL
+19 COSTS EXPENDITURES OUTLAY TOTAL
+20 I. INDIRECT SUPPORT SERVICES:
+21 FROM:
+22 Cooperative Welfare (General)
+23 Fund $2,789,400 $2,789,400
+24 Cooperative Welfare (Dedicated)
+25 Fund $40,000 40,000
+26 Miscellaneous Revenue
+27 Fund $1,629,300 1,477,100 3,106,400
+28 State Hospital North Endowment Income
+29 Fund 305,000 305,000
+30 Cooperative Welfare (Federal)
+31 Fund 0 4,733,800 85,000 4,818,800
+32 TOTAL $1,629,300 $9,000,300 $430,000 $11,059,600
+
+2
+1 FOR FOR FOR
+2 PERSONNEL OPERATING CAPITAL
+3 COSTS EXPENDITURES OUTLAY TOTAL
+4 II. INDEPENDENT COUNCILS - DOMESTIC VIOLENCE COUNCIL:
+5 FROM:
+6 Cooperative Welfare (General)
+7 Fund $40,000 $20,000 $60,000
+8 GRAND TOTAL $1,669,300 $9,020,300 $430,000 $11,119,600
+9 SECTION 2. Notwithstanding any other provision of law to the contrary,
+10 the appropriation made to the Department of Health and Welfare for the Divi-
+11 sion of Indirect Support Services is hereby reduced by the following amounts
+12 from the designated expense classes from the listed funds for the period July
+13 1, 2026, through June 30, 2027:
+14 FOR FOR
+15 PERSONNEL OPERATING
+16 COSTS EXPENDITURES TOTAL
+17 FROM:
+18 CooperativeWelfare(General)
+19 Fund $2,600,800 $2,600,800
+20 CooperativeWelfare(Dedicated)
+21 Fund 1,629,300 $1,477,100 3,106,400
+22 CooperativeWelfare(Federal)
+23 Fund 4,547,500 0 4,547,500
+24 TOTAL $8,777,600 $1,477,100 $10,254,700
+25 SECTION 3. FTP AUTHORIZATION. Notwithstanding any other provision of
+26 law to the contrary, the full-time equivalent position authorization pro-
+27 vided to the Department of Health and Welfare for the Division of Indirect
+28 Support Services is hereby reduced by fifty-eight (58.00) for the period
+29 July 1, 2026, through June 30, 2027.
+30 SECTION 4. TRANSFER LIMITATION EXEMPTION. Notwithstanding any other
+31 provisions of law to the contrary, the Division of Licensing and Certifica-
+32 tion may transfer moneys appropriated for personnel costs and trustee and
+33 benefit payments pursuant to Section 67-3511, Idaho Code, for the period
+34 July 1, 2026, through June 30, 2027.
+35 SECTION 5. An emergency existing therefor, which emergency is hereby
+36 declared to exist, this act shall be in full force and effect on and after
+37 July 1, 2026.

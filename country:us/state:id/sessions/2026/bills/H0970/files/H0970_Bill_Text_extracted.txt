@@ -1,0 +1,211 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 970
+BY SCOTT
+1 AN ACT
+2 RELATING TO CAMPAIGN DISCLOSURES; AMENDING SECTION 67-6607, IDAHO CODE, TO
+3 REQUIRE CERTAIN ADDITIONAL REPORTING FOR POLITICAL COMMITTEES SUPPORT-
+4 ING ANY MEASURE; AMENDING SECTION 67-6610D, IDAHO CODE, TO PROHIBIT
+5 CERTAIN FOREIGN INFLUENCE OF CANDIDATES, POLITICAL COMMITTEES, AND
+6 MEASURES; AMENDING CHAPTER 66, TITLE 67, IDAHO CODE, BY THE ADDITION OF
+7 A NEW SECTION 67-6610E, IDAHO CODE, TO PROVIDE RESTRICTIONS ON COLLEC-
+8 TION AND RELEASE OF CERTAIN DONOR INFORMATION AND TO PROVIDE A PENALTY
+9 FOR VIOLATIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+10 DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Section 67-6607, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 67-6607. REPORTS OF CONTRIBUTIONS AND EXPENDITURES BY CANDIDATES AND
+15 POLITICAL COMMITTEES. (1) Each candidate or the political treasurer for each
+16 candidate, and each political committee or the political treasurer of each
+17 political committee, shall file with the secretary of state a statement of
+18 all contributions received and all expenditures and encumbrances made by or
+19 on behalf of the candidate or political committee, according to the schedule
+20 provided in this section. The statement shall itemize each contribution re-
+21 ceived and each expenditure or encumbrance made during the reporting period
+22 and shall include the following:
+23 (a) Under contributions, the statement shall include a list of all the
+24 contributions received, including any funds or property of the candi-
+25 date used to cover expenditures. The statement shall list the full name
+26 and complete address of each person who contributed an aggregate amount
+27 of more than fifty dollars ($50.00) and the amount contributed by that
+28 person. The statement may list as a single item the total amount of con-
+29 tributions of fifty dollars ($50.00) or less; and
+30 (b) Under expenditures, the statement shall include the name and ad-
+31 dress of each person to whom an expenditure or encumbrance was made in
+32 the amount of twenty-five dollars ($25.00) or more, and the amount,
+33 date, and purpose of each such expenditure. Each expenditure or encum-
+34 brance in the amount of twenty-five dollars ($25.00) or more shall be
+35 evidenced by an invoice, receipt, or canceled check or an accurate copy
+36 thereof. Such evidence shall not be filed with the statement but shall
+37 be retained by the committee or candidate for a period of one (1) year
+38 after the statement has been filed. The statement may list as a single
+39 item the total amount of expenditures and encumbrances of less than
+40 twenty-five dollars ($25.00) without showing the exact amount of or re-
+41 quiring evidence of each such expenditure or encumbrance. Anything of
+
+2
+1 value, other than money, paid for or contributed by any person shall be
+2 listed both as an expenditure and as a contribution.
+3 (2) For the first report under this section, the reporting period shall
+4 cover the period beginning with the first contribution, expenditure, or en-
+5 cumbrance through the end of the current reporting period. Each candidate
+6 and each political committee, or the treasurer for a candidate or political
+7 committee or ballot measure, shall file the report described under subsec-
+8 tion (1) of this section as follows:
+9 (a) In the year of the election, a monthly report shall be filed for each
+10 month of the year. Each report shall be filed by the tenth day of the
+11 month following the month being reported; and
+12 (b) For the nonelection year, an annual report covering the nonelection
+13 year shall be filed by January 10 of the following year.
+14 (3) Notwithstanding any other reports required under this section,
+15 each candidate and each political committee, or the political treasurer for
+16 each candidate and each political committee, shall notify the secretary of
+17 state of any contribution of one thousand dollars ($1,000) or more. This
+18 notification shall be made within forty-eight (48) hours after the receipt
+19 of such contribution and shall include the name of the candidate, political
+20 committee or measure, the identification of the contributor, and the date of
+21 receipt and amount of the contribution. The notification shall be in addi-
+22 tion to the reporting of these contributions in the regular reports.
+23 (4) All reports required pursuant to this section shall be filed online
+24 with the secretary of state, unless a waiver has been provided under section
+25 67-6623, Idaho Code, by no later than midnight on the date the filing is due.
+26 (5)(a) In the case of any political committee organized for the purpose
+27 of supporting any measure, the following additional information shall
+28 be included in its reports filed pursuant to subsection (2) of this sec-
+29 tion:
+30 (i) A certification from the political treasurer of the political
+31 committee that no preliminary activity was funded by any foreign
+32 national, whether directly or indirectly; and
+33 (ii) A certification from the political treasurer of the politi-
+34 cal committee that the donor associated with each contribution is
+35 not a foreign national and such donor has not knowingly or will-
+36 fully received, solicited, or accepted, whether directly or indi-
+37 rectly, contributions or expenditures from one (1) or more foreign
+38 nationals in excess of ten thousand dollars ($10,000) within the
+39 four (4) year period immediately preceding the date of the contri-
+40 bution.
+41 (b) Upon receipt of a contribution, the political treasurer of the
+42 political committee shall obtain a written certification from each
+43 donor that the donor is not a foreign national and has not knowingly or
+44 willfully accepted funds aggregating in excess of ten thousand dollars
+45 ($10,000) from one (1) or more foreign nationals within the four (4)
+46 year period immediately preceding the date of the contribution. The
+47 donor certifications shall be retained by the committee but are not
+48 required to be filed with the political treasurer certifications re-
+49 quired by paragraph (a) of this subsection. If the committee does not
+50 receive this certification from each donor, the contribution shall be
+
+3
+1 divested in the same manner as unlawful contributions pursuant to sec-
+2 tion 67-6610(b), Idaho Code.
+3 (6) Each person, or political treasurer of any entity, who makes any ex-
+4 penditure supporting or opposing any measure shall certify that such person
+5 has not knowingly or willfully accepted funds aggregating in excess of ten
+6 thousand dollars ($10,000) from one (1) or more foreign nationals within the
+7 four (4) year period immediately preceding the date the expenditure is made
+8 and that such person will not do so through the remainder of the calendar year
+9 in which the ballot initiative or referendum will appear on the ballot.
+10 (7) For the purposes of this section:
+11 (a) "Foreign national" has the same meaning as defined in section
+12 67-6610D, Idaho Code.
+13 (b) "Preliminary activity" means any activity undertaken by the propo-
+14 nents of a proposed measure prior to the time such proposal is deemed a
+15 measure pursuant to the provisions of section 67-6602(11), Idaho Code.
+16 Such activity includes but is not limited to conducting a poll, draft-
+17 ing ballot measure language, conducting a focus group, making telephone
+18 calls, or undertaking travel related to the proposed measure.
+19 (5) (8) Reports required to be filed under the provisions of this sec-
+20 tion shall be filed until the account no longer shows any unexpended balance
+21 of contributions or expenditure deficit.
+22 SECTION 2. That Section 67-6610D, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 67-6610D. FOREIGN CONTRIBUTIONS, FOREIGN INDEPENDENT EXPENDITURES,
+25 AND FOREIGN ELECTIONEERING COMMUNICATIONS, AND FOREIGN INFLUENCE PROHIB-
+26 ITED.
+27 (1)(a) A Except as provided in paragraph (b) of this subsection, a for-
+28 eign national shall not make a contribution, directly or indirectly, to
+29 any candidate, political committee, or measure or, make electioneer-
+30 ing communications or, make independent expenditures, or direct, dic-
+31 tate, control, or directly or indirectly participate in the decision-
+32 making process related to any election campaign, including any deci-
+33 sions concerning the making of contributions or expenditures to influ-
+34 ence an election campaign. A foreign national shall not solicit, di-
+35 rectly or indirectly, the making of a contribution or expenditure by an-
+36 other person to influence an election campaign, and no candidate or po-
+37 litical committee shall knowingly or willfully receive, solicit, or ac-
+38 cept contributions from any foreign national, whether directly or indi-
+39 rectly.
+40 (b) A foreign national, pursuant to subsection (2)(e) of this section,
+41 may make contributions and independent expenditures if such contri-
+42 butions or expenditures originate entirely from funds generated by
+43 such entity's United States operations and all decisions concerning
+44 such contributions or expenditures, except for setting overall budget
+45 amounts, are made by individuals who are United States citizens or per-
+46 manent residents.
+47 (2) As used in this section, "foreign national" means:
+48 (a) An individual who is not a citizen of the United States and is not
+49 lawfully admitted for permanent residence;
+
+4
+1 (b) A government or subdivision of a foreign country;
+2 (c) A foreign political party; or
+3 (d) Any entity, such as a partnership, association, corporation, or-
+4 ganization, union, or other combination of persons, that is organized
+5 under the laws of or has its principal place of business in a foreign
+6 country.; or
+7 (e) Any entity, such as a partnership, association, corporation, or-
+8 ganization, union, or other combination of persons, that is organized
+9 under the laws of the United States or has its principal place of busi-
+10 ness in the United States that is wholly owned or majority-owned by any
+11 foreign national.
+12 (3) A violation of the provisions of this section shall be prosecuted
+13 and punished as provided in section 67-6625(2) through (5), Idaho Code. Pro-
+14 vided, however, any person who knowingly and willfully violates the provi-
+15 sions of this section is guilty of a felony when:
+16 (a) The aggregate amount of contributions, independent expenditures,
+17 or cost of electioneering communications made in violation of this sec-
+18 tion exceeds one thousand dollars ($1,000) in a consecutive twelve (12)
+19 month period; or
+20 (b) The person pleads guilty to or is found guilty of a knowing and will-
+21 ful violation of the provisions of this section for a second time within
+22 ten (10) years, notwithstanding the form of the judgment or withheld
+23 judgment.
+24 (4) If any provision of this section or its application to any person or
+25 circumstance is held invalid, the remainder of the section or the applica-
+26 tion of the provision to other persons or circumstances is not affected.
+27 SECTION 3. That Chapter 66, Title 67, Idaho Code, be, and the same is
+28 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+29 ignated as Section 67-6610E, Idaho Code, and to read as follows:
+30 67-6610E. RESTRICTIONS ON COLLECTION AND RELEASE OF DONOR INFORMATION
+31 -- PENALTY. (1) Lawful donors to a tax-exempt organization possess a right
+32 of privacy in their donations. Any investigation of an alleged violation of
+33 section 67-6607 or 67-6610D, Idaho Code, must occur in a manner that shields
+34 the identity of lawful donors as much as possible. The secretary of state,
+35 county clerks, and other state or local governmental entities may not col-
+36 lect or require the submission of information on the identity of any donor
+37 to a tax-exempt organization other than those directly related to an alleged
+38 violation of section 67-6607 or 67-6610D, Idaho Code.
+39 (2) The secretary of state, county clerks, and other state or local gov-
+40 ernmental entities may not disclose to the public, or to another government
+41 official not directly involved in the investigation, information revealing
+42 the identity of any donor to a tax-exempt organization, unless the informa-
+43 tion is regarding the identity of a donor that engaged in conduct prohibited
+44 by section 67-6607 or 67-6610D, Idaho Code, after a final determination has
+45 been made confirming that such violation occurred.
+46 (3) Knowing or willful violations of this section shall be punishable
+47 as a misdemeanor.
+
+5
+1 SECTION 4. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

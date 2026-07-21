@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 851
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO LIBEL AND SLANDER; AMENDING SECTION 6-712, IDAHO CODE, TO PRO-
+3 VIDE FOR PUNITIVE DAMAGES IN CASES OF LIBEL PER SE AND SLANDER PER SE,
+4 TO DEFINE A TERM, AND TO MAKE A TECHNICAL CORRECTION; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 6-712, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 6-712. RETRACTION BY NEWSPAPER, RADIO OR TELEVISION BROADCASTING STA-
+10 TION OR NETWORK OF STATIONS -- LIMIT OF RECOVERY. (1) In Except as provided
+11 in subsection (2) of this section, in any action for damages for the publi-
+12 cation of a libel, in a newspaper, or of a slander or libel by radio or tele-
+13 vision broadcast, plaintiff shall recover no more than actual damages unless
+14 a correction be demanded and be not published or broadcast, as hereinafter
+15 provided. Plaintiff shall serve upon the publisher, at the place of publi-
+16 cation or broadcaster at the place of broadcast, a written notice specify-
+17 ing the statements and the manner in which said statements are claimed to be
+18 slanderous or libelous and demanding that the same be corrected. Said notice
+19 and demand must be served within twenty (20) days after knowledge of the pub-
+20 lication or broadcast of the statement claimed to be slanderous or libelous.
+21 If a correction be demanded within said period and be not published or broad-
+22 cast in substantially as conspicuous a manner in said newspaper or on said
+23 radio or television broadcasting station as were the statements claimed to
+24 be slanderous or libelous, in a regular issue thereof published or broad-
+25 cast within three (3) weeks after such service, plaintiff, if he proves such
+26 notice, demand and failure to correct, and if his cause of action be main-
+27 tained, may recover general, actual and exemplary damages; provided that
+28 no exemplary damages may be recovered unless the plaintiff shall prove that
+29 defendant made the publication or broadcast with actual malice, and actual
+30 malice shall not be inferred or presumed from the publication or broadcast.
+31 A correction published or broadcast in substantially as conspicuous a manner
+32 in said newspaper or on said broadcasting station as the statements claimed
+33 in the complaint to be defamatory, prior to receipt of a demand therefor,
+34 shall be of the same force and effect as though such correction has been pub-
+35 lished or broadcast within three (3) weeks after a demand therefor.
+36 (2) In any action for damages for the publication of a libel in a news-
+37 paper or of a slander or libel by a radio or television broadcast that con-
+38 stitutes libel per se or slander per se, a plaintiff may recover punitive
+39 damages regardless of whether a retraction has been published or broadcast.
+40 As used in this section, "libel per se or slander per se" means a malicious
+41 defamation, as described in section 18-4801, Idaho Code, that is knowingly
+
+2
+1 and deliberately false, or in reckless disregard of the truth, without re-
+2 gard to context.
+3 SECTION 2. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after
+5 July 1, 2026.

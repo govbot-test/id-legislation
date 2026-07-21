@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 799
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ALCOHOLIC BEVERAGES; PROVIDING LEGISLATIVE INTENT; REPEALING
+3 SECTION 23-103, IDAHO CODE, RELATING TO PRIOR OFFENSES AND RIGHTS NOT
+4 AFFECTED; REPEALING SECTION 23-215, IDAHO CODE, RELATING TO PRICE LISTS
+5 TO BE FURNISHED BY SELLERS; REPEALING SECTION 23-216, IDAHO CODE, RE-
+6 LATING TO THE ATTORNEY OR AGENT OF SELLERS; AND DECLARING AN EMERGENCY
+7 AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+10 of the Legislature to ensure that the state laws provided in Idaho Code are
+11 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+12 serving the public health, safety, and welfare. In accordance with the Idaho
+13 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+14 tified the provisions of this act as obsolete, outdated, or unnecessary.
+15 SECTION 2. That Section 23-103, Idaho Code, be, and the same is hereby
+16 repealed.
+17 SECTION 3. That Section 23-215, Idaho Code, be, and the same is hereby
+18 repealed.
+19 SECTION 4. That Section 23-216, Idaho Code, be, and the same is hereby
+20 repealed.
+21 SECTION 5. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after
+23 July 1, 2026.

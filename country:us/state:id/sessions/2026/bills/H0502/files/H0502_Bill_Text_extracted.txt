@@ -1,0 +1,212 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 502
+BY RESOURCES AND CONSERVATION COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO FOREST PRODUCTS COMMISSION; AMENDING SECTION 38-1502,
+3 IDAHO CODE, TO REVISE DEFINITIONS AND TO MAKE TECHNICAL CORRECTIONS;
+4 AMENDING SECTION 38-1503, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+5 THE IDAHO FOREST PRODUCTS COMMISSION AND TO MAKE TECHNICAL CORRECTIONS;
+6 AMENDING SECTION 38-1506, IDAHO CODE, TO ESTABLISH PROVISIONS REGARD-
+7 ING OFFICERS OF THE COMMISSION; AMENDING SECTION 38-1515, IDAHO CODE,
+8 TO REVISE PROVISIONS REGARDING THE IMPOSITION OF ASSESSMENTS AND LATE
+9 FEES AND TO MAKE TECHNICAL CORRECTIONS; PROVIDING THAT CERTAIN ADMINIS-
+10 TRATIVE RULES CONTAINED IN IDAPA 15.03.01 SHALL BE NULL, VOID, AND OF NO
+11 FORCE AND EFFECT; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+12 DATE.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. That Section 38-1502, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 38-1502. DEFINITIONS. As used in this chapter:
+17 (1) "Assessment year" means January 1 through December 31 of any calen-
+18 dar year in which the commission levies an assessment.
+19 (2) "Base year" means the calendar year immediately preceding the as-
+20 sessment year.
+21 (3) "Business entity" means a person, firm, partnership, corporation,
+22 association, trust, or other recognized legal entity.
+23 (4) "Commission" means the Idaho forest products commission created by
+24 section 38-1503, Idaho Code.
+25 (5) "Financial supporter" means entities who have paid assessments
+26 pursuant to this chapter.
+27 (6) "Forest lands" means federal, state, and private land growing for-
+28 est tree species which that are, or could be at maturity, capable of furnish-
+29 ing raw material used in the manufacture of lumber or other forest products.
+30 The term includes federal, state, and private land from which forest tree
+31 species have been removed but have not yet been restocked, but it does not in-
+32 clude land affirmatively converted to uses other than the growing of forest
+33 tree species.
+34 (7) "Forest product manufacturer" means a business entity that engages
+35 in the processing, cutting, fabricating or other process which that converts
+36 timber, chips, sawdust, or shavings into lumber, paper, plywood, particle
+37 board, or other usable products for sale in commerce, provided, however, as
+38 used in this chapter, forest products. Forest product manufacturers shall
+39 include those business entities that buy timber in Idaho and then sell it to
+40 other persons outside of the state for manufacture into finished products.
+41 Forest product manufacturers shall not include the following business enti-
+42 ties engaged in:
+
+2
+1 (a) The production of fence or corral posts or rails;
+2 (b) Producing shingles or shakes;
+3 (c) Producing firewood or pellets for energy; or
+4 (d) Producing logs which that have been shaped or scribed and used in
+5 the construction of log structures.
+6 (8) "Hog fuel" means wood or wood scraps that have been shredded or pul-
+7 verized and used by forest product manufacturers to generate energy.
+8 (9) "Private forest lands" means forest lands not owned by the federal
+9 government, state government, an Indian tribe, or a political subdivision of
+10 the state.
+11 SECTION 2. That Section 38-1503, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 38-1503. FOREST PRODUCTS COMMISSION CREATED -- MEMBERS. (1) There is
+14 hereby created and established in the department of self-governing agencies
+15 the Idaho forest products commission, to be composed of five (5) voting mem-
+16 bers appointed by the governor from a list of names with at least two (2)
+17 names for each appointive office for each district submitted to the gover-
+18 nor by the financial supporters of the commission in each district. Initial
+19 members of the commission shall serve either a three (3) or five (5) year
+20 term, with two (2) members of the commission serving three (3) year terms,
+21 and three (3) members of the commission serving five (5) year terms. For the
+22 initial commission members, the duration of each member's term shall be de-
+23 termined by lot. Thereafter, all All commission members shall serve terms
+24 of three (3) years, and may be reappointed. The commission shall may adopt
+25 rules to, subject to legislative approval, to further define the process for
+26 filling vacancies to the commission and to provide for determining the terms
+27 of office for all members of the commission after the expiration of the terms
+28 of the original members.
+29 (2) The governor shall also name as permanent advisory members to the
+30 commission, the director of the department of lands, a representative of the
+31 United States forest service, the dean of the University university of Idaho
+32 college of natural resources or the dean's designee, a representative of the
+33 Idaho department of commerce and the Idaho department of agriculture with
+34 expertise in marketing and promotion, and the executive director of the as-
+35 sociated logging contractors. No advisory member of the commission shall
+36 have a vote on the commission.
+37 (3) Nominations for expiring seats on the commission shall be made by
+38 the financial supporters of the commission from the district in which the
+39 seat is expiring, or from all districts if an at-large member seat is expir-
+40 ing, no later than June 1 of the year in which the seat is expiring. The com-
+41 mission shall provide nomination applications to all financial supporters
+42 of the commission. The commission shall send the names of all qualified nom-
+43 inees to the governor and may make its own recommendations and nominations.
+44 In making the appointments, the governor shall take into consideration the
+45 recommendations made by the commission and organizations that represent or
+46 are engaged in harvesting, transporting, or manufacturing forest products.
+47 (4) Vacancies in any unexpired term shall be filled by the governor.
+48 The commission shall identify qualified candidates and send their names to
+49 the governor. The appointed member shall serve on the commission for the re-
+
+3
+1 mainder of the unexpired term and shall represent the same region and inter-
+2 ests as the person whose seat had become vacant. A member appointed to fill
+3 an at-large member vacancy shall represent all regions.
+4 SECTION 3. That Section 38-1506, Idaho Code, be, and the same is hereby
+5 amended to read as follows:
+6 38-1506. CHAIRMAN AND STAFF, CHAIR, AND VICE CHAIR OF THE COMMIS-
+7 SION. (1) The commission shall elect a chairman and may employ clerical or
+8 other staff who are not members of the commission.
+9 (2) The commission shall nominate and elect, by majority vote, a chair
+10 to serve as the presiding officer at all commission meetings.
+11 (3) The commission may nominate and elect, by majority vote, a vice
+12 chair to accept the duties of the chair in the event that the chair is unable
+13 to attend a commission meeting.
+14 (4) The term of office for chair and vice chair positions, if elected,
+15 shall be one (1) year, commencing on July 30 of each year.
+16 SECTION 4. That Section 38-1515, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 38-1515. IMPOSITION OF ASSESSMENTS AND PROVISION FOR LATE FEES. (1)
+19 From and after the first day of July, 1995, the The commission is hereby au-
+20 thorized to levy the following assessments:
+21 (a) For all forest products product manufacturers, an amount no greater
+22 than fifty cents (50¢) per thousand board feet or the equivalent thereof
+23 for all logs either harvested in Idaho, or measured or processed by a
+24 manufacturing entity located in the state of Idaho, regardless of the
+25 state in which the logs might may have been cut, or cut within Idaho and
+26 then distributed to other persons outside of the state. For purposes
+27 of this chapter, "forest products manufacturers" shall include those
+28 business entities which buy timber in Idaho and then sell it to other
+29 persons outside the state for manufacture into finished products. Such
+30 business entities shall be liable for the assessments described in this
+31 paragraph for all timber cut within Idaho and then distributed to other
+32 persons outside the state.
+33 (b) For all business entities engaged in the harvest or transport of
+34 timber, logs, unfinished lumber, chips, sawdust, shavings, or hog fuel
+35 in Idaho, a sum no greater than twenty-five dollars ($25.00) per em-
+36 ployee, including single, self-employers and the individuals involved
+37 in partnerships, as measured by the records of the department of labor
+38 during the month of July of the preceding year, or as provided in sub-
+39 section (2) of this section, provided, however, those business entities
+40 engaged solely in the harvest or transport of those exclusions to forest
+41 products product manufacturers as set forth in subsection (7)(a), (b),
+42 (c) and through (d) of section 38-1502, Idaho Code, shall owe no duty or
+43 assessment under pursuant to this chapter, nor shall any assessment be
+44 levied upon on forest products transported by railroad.
+45 (c) For business entities or persons owning more than ten thousand
+46 (10,000) acres of private forest land within the state of Idaho, a sum no
+47 greater than ten cents (10¢) per each acre of forest land.
+
+4
+1 (d) No person, firm, or business entity shall be liable for assessments
+2 under pursuant to this chapter in more than one (1) of the categories
+3 described in this section. In the event that a person, firm, or busi-
+4 ness entity qualifies to pay more than one (1) assessment as described
+5 herein, then the greater of the assessments shall be assessed, due, and
+6 payable.
+7 (2) In collecting assessments due the commission, the commission is au-
+8 thorized to cooperate with and coordinate its actions to collect assessments
+9 with the various efforts of the Idaho board of scaling practices, the state
+10 tax commission, the department of labor, the transportation department,
+11 and the department of lands to either collect assessments or taxes due under
+12 pursuant to the provisions of this chapter or to identify those who may owe
+13 assessments under pursuant to the provisions of this chapter.
+14 (3) Any person or firm who makes payment to the commission at a date
+15 later than that prescribed in rules set forth by the commission under this
+16 section may be subject to a late payment penalty as set forth by the commis-
+17 sion by rule. Such penalty shall not exceed fifteen percent (15%) per annum
+18 on the amount due. In addition to the above penalty, the commission shall be
+19 entitled to recover all costs, fees, and reasonable attorney's fees incurred
+20 in the collection of the tax and penalty provided for in this section.
+21 (4) (3) An assessment levied under pursuant to this chapter shall be
+22 based upon on data compiled from the base year. Assessments shall be paid to
+23 the commission according to such rules as may be adopted by the commission.
+24 The assessment shall be set by the commission no later than January 1 of the
+25 assessment year. The commission shall mail notice of the assessment no later
+26 than the last day of the fourth week of May of the assessment year to the last
+27 known address of each financial supporter. Assessments shall not be reduced
+28 for financial supporters who cease business during an assessment year.
+29 (4) Financial supporters may pay assessments in either one (1) full
+30 payment due thirty (30) days after the date the notice of assessment is
+31 mailed or in four (4) equal payments with payment in full due by December 31
+32 of the assessment year.
+33 (5) A payment in full or a quarterly payment that is not received within
+34 thirty (30) days of the date the notice of assessment is mailed shall re-
+35 sult in the account being considered delinquent. Delinquent accounts shall
+36 accrue a one percent (1%) interest per calendar month on the balance due.
+37 Such interest shall begin to accrue thirty-one (31) calendar days after the
+38 date the notice of assessment was mailed. Any person, firm, or business that
+39 fails to make a payment may be subject to a late payment penalty that shall
+40 not exceed fifteen percent (15%) per annum on the amount due. The commission
+41 shall be entitled to recover all costs, fees, and reasonable attorney's fees
+42 incurred in the collection of the tax and penalty provided for in this chap-
+43 ter.
+44 (6) The commission may establish a policy and schedule for checks that
+45 are returned due to insufficient funds. The policy and schedule shall be
+46 made available to the public pursuant to chapter 1, title 74, Idaho Code.
+47 SECTION 5. The rules contained in IDAPA 15.03.01, Forest Products Com-
+48 mission, relating to Rules of Administrative Procedure of the Idaho Forest
+49 Products Commission, shall be null, void, and of no force and effect on and
+50 after July 1, 2026.
+
+5
+1 SECTION 6. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

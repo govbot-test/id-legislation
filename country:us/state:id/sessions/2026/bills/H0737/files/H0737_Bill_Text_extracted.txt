@@ -1,0 +1,965 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 737
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE OFFICE OF SPECIES, MINERALS, AND ENERGY COORDINATION; RE-
+3 PEALING SECTION 67-818, IDAHO CODE, RELATING TO THE COORDINATION OF
+4 POLICY AND PROGRAMS RELATED TO THREATENED OR ENDANGERED SPECIES IN
+5 IDAHO; AMENDING CHAPTER 8, TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW
+6 SECTION 67-818, IDAHO CODE, TO ESTABLISH THE OFFICE OF SPECIES, MINER-
+7 ALS, AND ENERGY COORDINATION; AMENDING SECTION 67-819, IDAHO CODE, TO
+8 REVISE PROVISIONS REGARDING THE SPECIES CONSERVATION FUND AND TO RENAME
+9 THE FUND; AMENDING SECTION 22-5501, IDAHO CODE, TO PROVIDE FOR THE OF-
+10 FICE OF SPECIES, MINERALS, AND ENERGY COORDINATION; AMENDING SECTION
+11 36-715, IDAHO CODE, TO PROVIDE FOR THE OFFICE OF SPECIES, MINERALS, AND
+12 ENERGY COORDINATION; AMENDING SECTION 36-1121, IDAHO CODE, TO PROVIDE
+13 FOR THE OFFICE OF SPECIES, MINERALS, AND ENERGY COORDINATION; AMENDING
+14 SECTION 36-2402, IDAHO CODE, TO PROVIDE FOR THE OFFICE OF SPECIES, MIN-
+15 ERALS, AND ENERGY COORDINATION; AMENDING SECTION 36-2403, IDAHO CODE,
+16 TO PROVIDE FOR THE OFFICE OF SPECIES, MINERALS, AND ENERGY COORDINA-
+17 TION; AMENDING SECTION 36-2405, IDAHO CODE, TO PROVIDE FOR THE OFFICE OF
+18 SPECIES, MINERALS, AND ENERGY COORDINATION; AMENDING SECTION 42-251,
+19 IDAHO CODE, TO PROVIDE FOR THE OFFICE OF SPECIES, MINERALS, AND ENERGY
+20 COORDINATION; AMENDING SECTION 47-1706, IDAHO CODE, TO PROVIDE FOR THE
+21 OFFICE OF SPECIES, MINERALS, AND ENERGY COORDINATION; AMENDING SECTION
+22 57-1306, IDAHO CODE, TO PROVIDE FOR THE OFFICE OF SPECIES, MINERALS, AND
+23 ENERGY COORDINATION; AMENDING SECTION 67-826, IDAHO CODE, TO PROVIDE
+24 FOR THE OFFICE OF SPECIES, MINERALS, AND ENERGY COORDINATION; AMENDING
+25 SECTION 67-5303, IDAHO CODE, TO PROVIDE FOR THE OFFICE OF SPECIES, MIN-
+26 ERALS, AND ENERGY COORDINATION; AMENDING SECTION 67-5806, IDAHO CODE,
+27 TO PROVIDE FOR THE OFFICE OF SPECIES, MINERALS, AND ENERGY COORDINA-
+28 TION; AMENDING SECTION 67-5807, IDAHO CODE, TO PROVIDE FOR THE OFFICE OF
+29 SPECIES, MINERALS, AND ENERGY COORDINATION; AND DECLARING AN EMERGENCY
+30 AND PROVIDING AN EFFECTIVE DATE.
+31 Be It Enacted by the Legislature of the State of Idaho:
+32 SECTION 1. That Section 67-818, Idaho Code, be, and the same is hereby
+33 repealed.
+34 SECTION 2. That Chapter 8, Title 67, Idaho Code, be, and the same is
+35 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+36 ignated as Section 67-818, Idaho Code, and to read as follows:
+37 67-818. SPECIES, MINERALS, AND ENERGY COORDINATION.
+38 (1)(a) The legislature finds that:
+39 (i) Idaho has been a leader in the nation promoting conservation
+40 of endangered, threatened, rare, declining, and candidate species
+41 by working with willing landowners, state agencies, and federal
+
+2
+1 agencies to cooperatively and voluntarily preserve and protect
+2 species rather than use regulatory force;
+3 (ii) Idaho has a rich mining history, as evidenced by the pres-
+4 ence of a miner on the state seal, and is rightfully known as the
+5 gem state given that at least thirty (30) of the sixty (60) crit-
+6 ical minerals and fifteen (15) rare earth elements have been dis-
+7 covered in the state, which puts Idaho in a unique position to pro-
+8 duce and develop minerals that are vital for our national defense
+9 and economy and are necessary to advance technology and the modern
+10 lifestyle;
+11 (iii) Idaho is a recognized national leader in research, develop-
+12 ment, and deployment of advanced nuclear technology and is home to
+13 the first nuclear-powered city in the United States and the devel-
+14 opment of the nation's nuclear navy program;
+15 (iv) Idaho citizens and businesses enjoy some of the least expen-
+16 sive electric rates in the nation, mostly due to our extensive hy-
+17 dropower system and energy infrastructure; and
+18 (v) Coordinated and consolidated advancement in species con-
+19 servation and energy and mineral development within the state of
+20 Idaho is necessary to reduce regulatory burden, streamline state
+21 and federal processes, and ensure Idaho's resources are responsi-
+22 bly developed.
+23 (b) Therefore, the intent of the legislature is to improve coordina-
+24 tion, policy alignment, and operational efficiency by merging the of-
+25 fice of energy and mineral resources, an entity formally established by
+26 executive order, and the office of species conservation, an entity for-
+27 mally established by statute, into a single administrative office that
+28 advances Idaho's natural resource priorities, facilitates federal and
+29 state permitting processes and coordination between federal and state
+30 agencies, and ensures prompt review and timely decision-making in com-
+31 pliance with all applicable federal and state laws. This merger does
+32 not create a new regulatory agency nor establish any additional layers
+33 of approval beyond those already required by law.
+34 (2) As used in this section:
+35 (a) "Administrator" means the administrator of the office of species,
+36 minerals, and energy coordination.
+37 (b) "Appropriate agency" means any and all state and federal agencies
+38 deemed relevant and appropriate by the administrator.
+39 (c) "Clean energy resource" has the same meaning as provided by section
+40 67-8903, Idaho Code.
+41 (d) "Energy" means and includes electricity, oil, natural gas, bioen-
+42 ergy, nuclear energy, clean energy, hydrogen, transportation fuels,
+43 and other similar sources.
+44 (e) "Mineral" means and includes naturally occurring, inorganic,
+45 metallic, nonmetal, or solid energy substances that are leasable, sal-
+46 able, or locatable.
+47 (f) "Natural resource" means and includes land, air, water, species,
+48 and energy and mineral resources.
+49 (g) "Office" means the office of species, minerals, and energy coordi-
+50 nation.
+
+3
+1 (h) "Species" means and includes any species or subspecies of fish or
+2 wildlife or plants, and any distinct population segment of any species
+3 of vertebrate fish or wildlife that interbreeds when mature, and the
+4 habitat thereof that is listed as endangered or threatened pursuant to
+5 the endangered species act, is petitioned to be a listed species or is
+6 listed as a candidate species pursuant to the endangered species act,
+7 or is found to be rare and declining, as that term is defined in section
+8 36-2401, Idaho Code.
+9 (3) There is hereby created in the office of the governor the office of
+10 species, minerals, and energy coordination. The administrator of the office
+11 shall be appointed by, and serve at the pleasure of, the governor and shall be
+12 subject to confirmation by the senate.
+13 (4) The administrator shall:
+14 (a) Be the official in the state designated to oversee implementation
+15 of federal recovery plans, as provided in 16 U.S.C. 1533(f);
+16 (b) Oversee and coordinate the state's energy, mineral, and species
+17 planning;
+18 (c) Coordinate statewide response to federal natural resource-related
+19 projects and activities that are proposed to occur in the state; and
+20 (d) Fulfill the duties provided by this section.
+21 (5) The office shall:
+22 (a) Serve as Idaho's primary liaison to federal natural resource agen-
+23 cies;
+24 (b) Serve as a cooperating agency for natural resource-related
+25 projects that are subject to federal environmental laws and regula-
+26 tions;
+27 (c) Design, implement, and facilitate a coordinated permitting process
+28 that will improve transparency, predictability, and timeliness for
+29 natural resource-related projects;
+30 (d) Assist with state and federal natural resource-related permit
+31 process coordination;
+32 (e) Ensure state and federal agencies, departments, and divisions are
+33 adhering to statutory time frames applicable to issuance of permits or
+34 other natural resource-related project documents, processes, and deci-
+35 sions and take appropriate action when such state or federal entity is
+36 refusing to act;
+37 (f) Notify the appropriate state agency of proposed natural re-
+38 source-related projects and lead coordination of state comments on
+39 proposed natural resource-related projects or activities within the
+40 state;
+41 (g) Provide input, comment, and assistance to federal, state, and
+42 tribal governments, agencies, and divisions on natural resource is-
+43 sues;
+44 (h) Participate in regional efforts to cooperatively address species
+45 and energy-related activities, planning, and conservation;
+46 (i) Coordinate:
+47 (i) With federal agencies, state agencies, local governments,
+48 and stakeholders on issues concerning the state's energy require-
+49 ments, supply, transmission, management, efficiency, conserva-
+50 tion, and permitting processes and other relevant efforts;
+
+4
+1 (ii) With federal agencies, state agencies, local governments,
+2 and stakeholders on issues concerning mineral exploration, pro-
+3 duction, planning, and permitting processes and other relevant
+4 efforts;
+5 (iii) With the various state departments and divisions that have
+6 duties and responsibilities affecting species in the state;
+7 (iv) State implementation and response to federal recovery plans,
+8 biological opinions, guidance, and projects among all state and
+9 local governments in the state; and
+10 (v) The state's energy, mineral, and species planning with appro-
+11 priate state agencies;
+12 (j) Advise the governor, the legislature, and other public officials
+13 on:
+14 (i) The state's energy requirements, supply, transmission, man-
+15 agement, efficiency, conservation, and permitting processes and
+16 on other relevant efforts;
+17 (ii) Mineral exploration, production, planning, and permitting
+18 processes and other relevant efforts within the state; and
+19 (iii) Issues regarding species.
+20 (k) Ensure federal land management plans, policies, and projects align
+21 with state natural resource-related plans, policies, and projects and
+22 coordinate with appropriate agencies to resolve inconsistencies;
+23 (l) Develop and implement state conservation plans, assessments, and
+24 strategies for species in the state of Idaho;
+25 (m) Serve as a repository for agreements and plans among governmental
+26 entities in the state of Idaho for the conservation of species;
+27 (n) Provide the people of the state of Idaho with an ombudsman who
+28 can listen to citizens being harmed or hindered by the regulations of
+29 the endangered species act and direct them to the appropriate state
+30 or federal agency or speak on their behalf, as deemed appropriate by
+31 the ombudsman, to address issues or concerns related to the endangered
+32 species act;
+33 (o) Identify sections of statute or administrative rule that are du-
+34 plicative or unnecessary or that unreasonably prolong the state's per-
+35 mitting process; and
+36 (p) Cooperate, consult, and enter into agreements or contracts as is
+37 necessary or appropriate to carry out the provisions of this section.
+38 (5) State management plans developed pursuant to this section shall be
+39 developed in consultation with the appropriate state agencies.
+40 (6) The state of Idaho asserts primacy over the management of its nat-
+41 ural resources. Accordingly, any introduction or reintroduction of any
+42 species onto lands within the state or into state waters, including those
+43 actions that would impair or impede the state's primacy over its natural
+44 resources, without state consultation and approval is against the policy of
+45 the state of Idaho and is hereby prohibited.
+46 (7) No provision of this section shall be interpreted as to supersede,
+47 abrogate, injure, or create rights to divert or store water and apply water
+48 to beneficial uses established under section 3, article XV of the constitu-
+49 tion of the state of Idaho and title 42, Idaho Code.
+
+5
+1 (a) The duties, responsibilities, and authority of this section shall
+2 not alter any existing authorities of state agencies established by
+3 state law.
+4 (b) Nothing in this section shall be construed to provide or imply any
+5 regulatory authority by the office over activities that are subject to
+6 the jurisdiction of another state agency.
+7 (8) On July 1, 2026, all personnel, records, and equipment of the of-
+8 fice of energy and mineral resources and of the office of species conserva-
+9 tion shall be transferred to the office of species, minerals, and energy co-
+10 ordination.
+11 SECTION 3. That Section 67-819, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 67-819. FUNDING -- ACCOUNT CREATED. (1) The governor's office of
+14 species conservation species, minerals, and energy coordination may accept
+15 private contributions, federal funds, funds from other public agencies or
+16 any other source. The moneys shall be used solely for the purposes provided
+17 in section 67-818, Idaho Code, and be expended and accounted for as provided
+18 by law.
+19 (2) There is hereby established in the state treasury the species con-
+20 servation species, minerals, and energy coordination fund which shall con-
+21 sist of all moneys received pursuant to subsection (1) of this section. Mon-
+22 eys in the species conservation species, minerals, and energy coordination
+23 fund shall be used for purposes described in section 67-818, Idaho Code.
+24 SECTION 4. That Section 22-5501, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 22-5501. IDAHO DEPREDATING WILDLIFE APPEALS BOARD. (1) There is
+27 hereby created the Idaho depredating wildlife appeals board in the office
+28 of the governor. The purpose of the board is to provide an appeal option for
+29 individuals who have suffered losses or damages from depredating wildlife
+30 but received a determination that such depredation could not be confirmed
+31 following the initial investigation. For purposes of this section, depre-
+32 dating wildlife includes grizzly bears, black bears, mountain lions, and
+33 wolves. The Idaho state department of agriculture, in consultation with
+34 the department of fish and game, is authorized to carry out the purposes of
+35 this section. The Idaho depredating wildlife appeals board shall consist of
+36 three (3) members representing the following executive agencies and profes-
+37 sional expertise:
+38 (a) The director of the Idaho state department of agriculture or the di-
+39 rector's authorized designee;
+40 (b) The director of the Idaho department of fish and game or the direc-
+41 tor's authorized designee; and
+42 (c) A large animal veterinarian appointed by the governor.
+43 (2) The office of species conservation office of species, minerals, and
+44 energy coordination shall receive appeal requests from appellants and coor-
+45 dinate meetings with the Idaho depredating wildlife appeals board.
+46 (3) The board shall consider all forms of evidence submitted by the ap-
+47 pellant related to the depredation event, including but not limited to:
+
+6
+1 (a) Testimony of the affected individual;
+2 (b) Testimony of the initial investigator;
+3 (c) The initial investigator's report;
+4 (d) Eyewitness testimony;
+5 (e) Telemetry data;
+6 (f) Photographs and video footage;
+7 (g) Trapping and hunting reports from the past six (6) months;
+8 (h) Previous depredation incidents in the area; and
+9 (i) Expert analysis.
+10 (4) The board shall make a ruling based on submitted evidence and, if
+11 justified, amend the original determination based on a majority vote of the
+12 board. The decision of the board shall be final and binding for the purpose
+13 of receiving compensation for depredation.
+14 (5) Any ruling made by the Idaho depredating wildlife appeals board of
+15 confirmed depredation shall be counted toward official counts of depreda-
+16 tion incidents.
+17 (6) The board shall be considered a state authorized investigator but
+18 shall only serve as an appeal to the initial investigation.
+19 (7) Meetings of the board shall not be subject to the provisions of
+20 chapter 2, title 74, Idaho Code.
+21 (8) Initial investigators of depredation incidents from depredating
+22 wildlife shall inform individuals of their right to appeal any ruling to the
+23 Idaho depredating wildlife appeals board in writing.
+24 SECTION 5. That Section 36-715, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 36-715. WOLVES -- TRANSITION -- AUTHORITIES AND DUTIES OF THE OFFICE
+27 OF SPECIES CONSERVATION SPECIES, MINERALS, AND ENERGY COORDINATION -- FISH
+28 AND GAME COMMISSION -- DEPARTMENT OF FISH AND GAME. (1) During the transi-
+29 tion from federal management of wolves to state management, the governor's
+30 office of species conservation species, minerals, and energy coordination
+31 shall be the lead agency and direct implementation of wolf management pol-
+32 icy. The department of fish and game may assist the office of species conser-
+33 vation species, minerals, and energy coordination in efforts to expedite an
+34 orderly transition to state management of wolves pursuant to the provisions
+35 of the Idaho wolf conservation and management plan. This transition shall be
+36 implemented through new or existing cooperative agreements with any agency,
+37 department or entity of the United States government or any state agencies as
+38 authorized by the Idaho wolf conservation and management plan.
+39 (2) The office of species conservation species, minerals, and energy
+40 coordination, and the commission through the department, are authorized to
+41 participate in activities regarding nuisance wolves, and are allowed to meet
+42 and confer with state, local and federal agencies, departments or entities
+43 or federally recognized Indian tribes to discuss monitoring wolf recovery
+44 programs. Additionally, the office of species conservation species, miner-
+45 als, and energy coordination, and the commission through the department, may
+46 cooperate with the legislature, counties, federal agencies, departments,
+47 such as the United States department of agriculture wildlife services, en-
+48 tities or federally recognized Indian tribes regarding damage complaints,
+
+7
+1 depredation, effects on ungulate populations, and other conflicts regarding
+2 wolves in this state.
+3 (3) The office of species conservation species, minerals, and energy
+4 coordination, in conjunction with the department, shall prepare and sub-
+5 mit an annual report to the senate resources and environment committee and
+6 the house resources and conservation committee on the implementation and
+7 progress of the Idaho wolf conservation and management plan. Such report
+8 shall document gray wolf effects upon wildlife, depredation on domestic
+9 livestock, and any other subject matter as deemed appropriate and requested
+10 in writing by the chairman of the senate resources and environment committee
+11 or the chairman of the house resources and conservation committee, or any
+12 member of the legislature.
+13 (4) The office of species conservation species, minerals, and energy
+14 coordination, in conjunction with the department, is authorized to develop
+15 and coordinate wolf management plans with state agency officials of the
+16 states of Wyoming and Montana.
+17 (5) In implementing the wolf conservation and management plan, the
+18 office of species conservation species, minerals, and energy coordination,
+19 and the commission through the department, shall consult with local units of
+20 government with respect to, and take into consideration, local economies,
+21 custom, culture, and private property rights. The office of species con-
+22 servation species, minerals, and energy coordination and the department
+23 may consult with federal entities and shall coordinate with state and local
+24 government entities in the implementation of the plan.
+25 (6) The department of fish and game, under the direction of the com-
+26 mission, is authorized to participate in the development of wolf delisting
+27 procedures and interim management activities including, but not limited to,
+28 studies relating to the management of game herds impacted by wolves.
+29 SECTION 6. That Section 36-1121, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 36-1121. LIVESTOCK DEPREDATION BY GRIZZLY BEAR AND WOLVES. (1) It is
+32 the intent of the legislature to provide compensation to livestock owners
+33 that have experienced depredation of livestock by grizzly bear and wolves.
+34 (2) The Idaho state department of agriculture, in consultation with the
+35 department of fish and game and the office of species conservation species,
+36 minerals, and energy coordination, is authorized to carry out the purposes
+37 of this section and has spending authority for compensation pursuant to this
+38 section to the extent of legislative appropriation. The depredation of
+39 livestock and prevention fund is hereby established in the state treasury.
+40 All expenditures from the fund will be paid according to rules promulgated
+41 by the Idaho state department of agriculture. Beginning on July 1, 2024,
+42 and each July 1 thereafter, the legislature shall appropriate two hundred
+43 twenty-five thousand dollars ($225,000) annually to the fund. One hundred
+44 fifty thousand dollars ($150,000) of that amount shall be used annually to
+45 compensate confirmed claims for depredation, and seventy-five thousand
+46 dollars ($75,000) of that amount shall be used annually for conflict preven-
+47 tion and the provision of information regarding deterrents that have proven
+48 effective as determined pursuant to rule as promulgated by the Idaho state
+49 department of agriculture. All claims shall be made to the office of species
+
+8
+1 conservation species, minerals, and energy coordination on or before De-
+2 cember 31 of each year. Confirmed claims for depredation shall be paid on
+3 a pro rata basis in the event moneys in the fund are insufficient to pay all
+4 confirmed claims in full, until such time as moneys in the fund are depleted.
+5 Any moneys in the fund after payment of confirmed claims shall then be paid
+6 to those livestock owners with probable claims for depredation on a pro rata
+7 basis in the event moneys in the fund are insufficient to pay all probable
+8 claims in full, until such moneys in the fund are depleted. Any moneys in
+9 the fund after payment of claims deemed probable shall then be paid to those
+10 livestock owners with claims reviewed and deemed possible on a pro rata basis
+11 in the event moneys in the fund are insufficient to pay all possible claims
+12 in full, until such moneys in the fund are depleted. Any moneys in the fund
+13 after possible depredation claims are paid shall be carried over to the next
+14 calendar year. Interest accruing on moneys in the fund shall be retained in
+15 the fund. Moneys shall be continuously appropriated to the fund, but the
+16 fund shall not exceed four hundred thousand dollars ($400,000).
+17 (3) Compensation for claims confirmed or deemed probable or possible
+18 shall be based on current fair market value as provided by the Idaho state de-
+19 partment of agriculture. Any other compensation paid to a livestock owner
+20 for depredation shall be deducted from the fair market value prior to pay-
+21 ment.
+22 (4) For purposes of this section, "livestock" means cattle, sheep,
+23 goat, swine, poultry, bees, llamas, or equine animals used for food or in the
+24 production of food, fiber, feed, or other agriculture-based consumer prod-
+25 ucts, domesticated game, or other nonplant life; such term shall not include
+26 aquatic animals.
+27 SECTION 7. That Section 36-2402, Idaho Code, be, and the same is hereby
+28 amended to read as follows:
+29 36-2402. DELISTING ADVISORY TEAM -- DUTIES -- MEMBERSHIP. (1) The
+30 director of the department of fish and game for animal species and plant
+31 species, in cooperation and consultation with the governor's office of
+32 species conservation species, minerals, and energy coordination, may estab-
+33 lish a delisting advisory team (DAT) of no more than nine (9) members for a
+34 threatened species or endangered species, to recommend an appropriate state
+35 species management plan for a listed species in response to a notification
+36 from the secretary of interior or secretary of commerce of intent to delist
+37 the species or sooner if deemed appropriate.
+38 (2) The delisting advisory team members shall be broadly representa-
+39 tive of the constituencies with an interest in the species and its management
+40 or conservation and in the economic or social impacts of management or con-
+41 servation including, where appropriate, depending on the specific species,
+42 representatives of tribal governments, local governments, academic insti-
+43 tutions, private individuals and organizations and commercial enterprises.
+44 The delisting advisory team members shall be selected based upon:
+45 (a) Their knowledge of the species;
+46 (b) Their knowledge and expertise in the potential conflicts between a
+47 species' habitat requirements or management and human activities;
+48 (c) Their knowledge and expertise in the interests that may be affected
+49 by species management or conservation; or
+
+9
+1 (d) Other factors that may provide knowledge, information, or data that
+2 will further the intent of this act.
+3 SECTION 8. That Section 36-2403, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 36-2403. OPERATIONS OF DELISTING ADVISORY TEAM. (1) The delisting ad-
+6 visory team shall elect a team leader who shall chair all meetings of the team
+7 and otherwise administer its operations. The team shall meet as necessary,
+8 but shall meet no less than once every six (6) months.
+9 (2) Members of the team not in the employ of public agencies may be com-
+10 pensated as provided in section 59-509(b), Idaho Code, from the budget of
+11 the governor's office of species conservation species, minerals, and energy
+12 coordination. Their department or division shall compensate its members of
+13 the team who are state employees.
+14 SECTION 9. That Section 36-2405, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 36-2405. RECOMMENDATION ON MANAGEMENT PLANS. (1) The delisting advi-
+17 sory team shall submit the management plan to the director of the department
+18 of fish and game for animal or plant species, for review and recommendation.
+19 (2) The director shall review the management plan and make a recommen-
+20 dation to the fish and game commission. The director may recommend either
+21 approval of the management plan, or recommend to return the management plan
+22 to the delisting advisory team for further study and review, with instruc-
+23 tions, prior to return of the species strategy or management plan to the di-
+24 rectors.
+25 (3) If the fish and game commission finds that the management plan pro-
+26 vides for the management and conservation of the species when it is delisted
+27 by the secretary of the interior or secretary of commerce and that reason-
+28 able safeguards are included in the management plan to protect the health,
+29 safety, private property and economic well-being of the citizens of the
+30 state of Idaho, the fish and game commission shall approve the management
+31 plan.
+32 (4) If the fish and game commission makes the finding required in sub-
+33 section (3) of this section, the fish and game commission shall forward the
+34 state management plan, to the governor's office of species conservation
+35 species, minerals, and energy coordination and the legislature. The man-
+36 agement plan is subject to legislative approval, amendment or rejection by
+37 concurrent resolution at the regular session immediately following the com-
+38 mission's finding and approval of the plan.
+39 (5) The governor's office of species conservation species, minerals,
+40 and energy coordination may petition the responsible public agencies to ini-
+41 tiate rulemaking to facilitate the implementation of the approved manage-
+42 ment plan.
+43 (6) Each management plan developed pursuant to this chapter shall in-
+44 clude a public education component that shall be developed and implemented
+45 in cooperation with other appropriate bureaus of the department of fish and
+46 game.
+
+10
+1 (7) Nothing in this act shall be interpreted as granting the department
+2 of fish and game with new or additional authority.
+3 SECTION 10. That Section 42-251, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 42-251. APPROPRIATION OF UNAPPROPRIATED FLOWS FOR LEMHI BASIN STREAM
+6 FLOW MAINTENANCE -- LEGISLATIVE FINDINGS OF FACT CONCERNING HISTORIC USE OF
+7 HIGH FLOWS IN THE LEMHI RIVER BASIN AND NEED FOR PROTECTION AND EFFECTIVE
+8 MANAGEMENT OF SUCH USE. (1) Legislative Findings.
+9 (a) In the absence of storage reservoirs in the Lemhi Basin, the diver-
+10 sion of "high water or flood water" onto irrigated land in the spring
+11 developed as a way of holding water underground within the basin, which
+12 would later contribute to the flows in the Lemhi River and its tribu-
+13 taries.
+14 (b) The 1982 Lemhi Basin Decree recognized the practice of diverting
+15 "high water or flood water" onto irrigated lands. It defined "high wa-
+16 ter or flood water" as "natural flow of water over and above the amount
+17 required to fulfill (1) existing quantified rights as shown in the de-
+18 cree of water rights and (2) any future rights that may be established
+19 pursuant to statutory procedures of the state of Idaho." Proposed Find-
+20 ings of Water Rights, In the Matter of the General Determination of
+21 the Rights to the Use of the Surface Waters and Tributaries from What-
+22 ever Source of the Lemhi River Drainage Basin, Civil No. 4948, Feb.
+23 16, 1982, at 3, paragraph n. The Lemhi Decree included a conclusion
+24 of law stating the practice "of diverting so called 'high waters or
+25 flood waters' in addition to the quantified rights as described in the
+26 recommended decree of water rights (and future rights that may be estab-
+27 lished pursuant to statutory procedures) [is] allowed provided: (a)
+28 the waters so diverted are applied to beneficial use. (b) the existing
+29 quantified rights (including future appropriations of water) are first
+30 satisfied."
+31 (c) Based on the conclusions of law in the Lemhi Basin Decree, many
+32 Lemhi Basin irrigators filed claims in the Snake River Basin Adjudica-
+33 tion (SRBA) seeking water rights for their historic "high water or flood
+34 water" practice.
+35 (d) On January 3, 2012, the SRBA Court affirmed the Special Master's Re-
+36 port and Recommendation finding that "Idaho case law precludes the high
+37 flow claimants from seeking to establish high flow water rights in the
+38 SRBA as a matter of law." Memorandum Decision and Order on Challenge at
+39 11, Subcase Nos. 74-15051, In re SRBA Case No. 39576. Although the SRBA
+40 Court disallowed the high flow claims, it reaffirmed the Lemhi Basin De-
+41 cree conclusion of law regarding "high water or flood water" use through
+42 its Partial Decree pursuant to I.R.C.P. 54(b) of the Basin 74 High Flow
+43 General Provision (Basin 74 General Provision). Basin 74 General Pro-
+44 vision provides: "The following general provision shall govern the use
+45 of 'High Flow' surface water for irrigation use within the Lemhi Basin:
+46 The practice of diverting high flows in the Lemhi Basin, in addition to
+47 diverting decreed and future water rights that may be established pur-
+48 suant to statutory procedures of the State of Idaho, is allowed provided
+
+11
+1 (a) the waters so diverted are applied to beneficial use. (b) existing
+2 decreed rights and future appropriations of water are first satisfied."
+3 (e) Since the early 1990s Lemhi irrigators, with the assistance of
+4 state agencies, have led an effort to protect and enhance salmon runs in
+5 the Lemhi River Basin, including but not limited to providing passage
+6 flows for salmon, screening diversion works and implementing habitat
+7 improvement projects.
+8 (f) The long-term goal of the Lemhi irrigators is to conserve, restore,
+9 and enhance sufficient habitat to sustain viable fish populations in
+10 the Lemhi River Basin while protecting private property rights and pre-
+11 serving and enhancing the farming and ranching lifestyle and economy of
+12 the Lemhi River Basin.
+13 (g) In 2001, the Idaho Legislature enacted section 42-1506, Idaho Code,
+14 at the request of the Lemhi Basin irrigators. This statute authorized
+15 the Idaho Water Resource Board to appropriate a minimum stream flow in
+16 the lower reach of the Lemhi River for the purpose of providing fish pas-
+17 sage and for protection of Lemhi water users from enforcement actions
+18 under the Endangered Species Act.
+19 (h) Use of high flows under the Basin 74 General Provision is not a pro-
+20 tected property interest under Idaho law. Because the SRBA Court disal-
+21 lowed all "high water or flood water" claims, a conflict developed be-
+22 tween irrigators who rely on the use of high flows under the Basin 74
+23 General Provision and persons desiring to appropriate high flow for new
+24 uses.
+25 (i) The legislature finds (1) that the use of Lemhi River Basin high
+26 flow for holding water underground to augment the natural flow of the
+27 Lemhi River later in the irrigation season is a beneficial use of wa-
+28 ter; and (2) that it is in the public interest to protect through the
+29 appropriation process the entitlements to divert and use high flows un-
+30 der the Basin 74 General Provision for efficient administration of such
+31 uses and to aid in the proper planning for future development of the wa-
+32 ter resources of the Lemhi River Basin.
+33 (j) The Lemhi Basin stream flow maintenance applications provided for
+34 in this section are based upon the historic practice recognized by the
+35 Basin 74 High Flow General Provision, and therefore, are not intended to
+36 nor shall be construed as establishing a precedent for issuance of any
+37 future water rights in the State of Idaho.
+38 (2) Stream Flow Maintenance Applications. Lemhi irrigators who hold
+39 irrigation water rights decreed in the SRBA, and claim authority to divert
+40 and use Lemhi Basin high flows for stream flow maintenance pursuant to the
+41 Basin 74 General Provision may file an application for permit with the de-
+42 partment of water resources to convert such use into a protectable water
+43 right on or before July 1, 2024. The application shall be upon forms provided
+44 by the department. The department shall process the application as provided
+45 in section 42-203A, Idaho Code.
+46 (3) Quantity of Right. The quantity of a stream flow maintenance water
+47 right shall be limited to the historic high flow use under the Basin 74 Gen-
+48 eral Provision ancillary to irrigation water rights decreed in the SRBA, but
+49 not to exceed the ditch capacity of the decreed irrigation water rights on
+50 August 25, 2014.
+
+12
+1 (4) Proof of Beneficial Use. The department may consider as part of its
+2 beneficial use examination for licensing of a permit under this section a
+3 permit holder's past historic diversions of high flow under the Basin 74 Gen-
+4 eral Provision.
+5 (5) Comprehensive Settlement. All applications filed under this sec-
+6 tion shall be subject to the terms and conditions of the Lemhi Basin Compre-
+7 hensive Settlement Agreement Between the Idaho Water Resource Board, Idaho
+8 Department of Fish and Game, Idaho Office of Species Conservation Species,
+9 Minerals, and Energy Coordination, and Various Lemhi Water Users, including
+10 but not limited to the following conditions:
+11 (a) Regardless of their priority dates, stream flow maintenance wa-
+12 ter rights shall include a condition requiring them to cease diversion
+13 while the McFarland Campground minimum stream flow water right estab-
+14 lished pursuant to section 42-1506A, Idaho Code, is being exercised.
+15 (b) Regardless of priority date, the water supply legally available to
+16 stream flow maintenance water rights created under this section that
+17 divert from a common source shall be distributed proportionately among
+18 the stream flow maintenance water rights diverting from the common
+19 source, except as otherwise provided for in the Lemhi Basin Compre-
+20 hensive Settlement Agreement Between the Idaho Water Resource Board,
+21 Idaho Department of Fish and Game, Idaho Office of Species Conservation
+22 Species, Minerals, and Energy Coordination, and Various Lemhi Water
+23 Users. For purposes of this section each tributary administered as a
+24 separate source pursuant to the SRBA Basin 74 Separate Streams General
+25 Provision is a common source. The mainstem Lemhi River and all trib-
+26 utaries in Basin 74 not listed in the SRBA Basin 74 Separate Streams
+27 General Provision are a common source.
+28 (6) Notice - How Given - Requirements. To ensure all persons claiming
+29 authority to divert or withdraw and use water under the Basin 74 General Pro-
+30 vision are notified of the provisions of this section, the department of wa-
+31 ter resources is directed to give notice of the provisions of this section as
+32 follows:
+33 (a) By regular mail upon all persons within Idaho department of water
+34 resources Administrative Basin 74 who currently own an irrigation water
+35 right decreed in the SRBA a notice in writing of the existence of this
+36 section;
+37 (b) By publishing a notice in writing in a prominent and conspicuous
+38 place in at least one (1) newspaper of general circulation in Lemhi
+39 County, for at least one (1) day a month for three (3) consecutive
+40 months;
+41 (c) By posting a written notice, with the cooperation of the Lemhi
+42 County commission, in a prominent and conspicuous location in the Lemhi
+43 County courthouse;
+44 (d) By providing sufficient number of copies of the notice and decla-
+45 ration to the Lemhi County treasurer for enclosure with each mailing of
+46 one (1) or more statements of taxes due issued in 2023; and
+47 (e) By such other means the director of the department in his discretion
+48 determines will carry out the purposes of this section.
+49 SECTION 11. That Section 47-1706, Idaho Code, be, and the same is hereby
+50 amended to read as follows:
+
+13
+1 47-1706. DUTIES AND POWERS OF BOARD. In addition to the other duties
+2 and powers of the board prescribed by law, the board is granted and shall be
+3 entitled to exercise the following authority and powers and perform the fol-
+4 lowing duties:
+5 (1) To reclaim any eligible mine and affected lands. Reclamation on
+6 federal lands shall be completed only upon consent of the federal agency re-
+7 sponsible for the administration of those lands. Reclamation activities may
+8 include:
+9 (a) The reclamation and restoration of abandoned surface mined areas;
+10 (b) The reclamation of abandoned milling and processing areas;
+11 (c) The sealing, filling, and grading of abandoned deep mine entries;
+12 (d) The planting of land adversely affected by past mining to prevent
+13 erosion and sedimentation;
+14 (e) The prevention, abatement, treatment, and control of water pollu-
+15 tion created by abandoned mine drainage;
+16 (f) The control of surface subsidence due to abandoned deep mines; and
+17 (g) Such other reclamation activities as may be necessary to accomplish
+18 the purposes of this act.
+19 (2) To administer and enforce the provisions of this act and the rules
+20 and orders promulgated thereunder as provided in this act.
+21 (3) To conduct and promote the coordination and acceleration of re-
+22 search, studies, surveys, experiments, demonstrations, and training in
+23 carrying out the provisions of this act. In carrying out the activities
+24 authorized in this section, the board may enter into contracts with and make
+25 grants to institutions, agencies, organizations, and individuals, and shall
+26 collect and make available any information obtained therefrom.
+27 (4) To adopt and promulgate reasonable rules respecting the adminis-
+28 tration of this act and such rules as may be necessary to carry out the intent
+29 and purposes of this act. All such rules shall be adopted in accordance with
+30 and subject to the provisions of chapter 52, title 67, Idaho Code.
+31 (5) To enter upon eligible mines and affected lands at reasonable
+32 times, for inspection purposes and to determine whether the provisions of
+33 this act are being complied with. Inspections on private lands shall be con-
+34 ducted in the presence of the landowner or his duly authorized employees or
+35 representatives, or with written permission of the landowner.
+36 (6) To establish an advisory committee to assist the department in set-
+37 ting priorities and planning reclamation work. The committee members shall
+38 be nominated by the governor and approved by the board. The committee shall
+39 consist of:
+40 (a) One (1) representative from the Idaho department of environmental
+41 quality;
+42 (b) One (1) representative from the governor's office of energy and
+43 mineral resources species, minerals, and energy coordination;
+44 (c) One (1) representative who is a county commissioner from a county
+45 with active mines;
+46 (d) One (1) representative representing conservation interests; and
+47 (e) Three (3) representatives from mining organizations or companies
+48 who are actively mining within the state of Idaho.
+49 SECTION 12. That Section 57-1306, Idaho Code, be, and the same is hereby
+50 amended to read as follows:
+
+14
+1 57-1306. IMPACT FUNDS.
+2 (1)(a) Upon receipt of any moneys from the federal government from
+3 sales, royalties, bonuses or rentals of oil, gas or mineral lands of the
+4 federal government, the state treasurer shall remit ten percent (10%)
+5 of such receipts to the general fund of the several counties from which
+6 the resources were extracted. The state treasurer shall compute a par-
+7 ticular county's share of such receipts by computing the proportion of
+8 the moneys generated by sales, royalties, bonuses or rentals of federal
+9 lands situated within that particular county to the total of moneys
+10 received from the federal government from sales, royalties, bonuses
+11 or rentals of all oil, gas or mineral lands of the federal government
+12 within the state of Idaho for the same period. The moneys remitted to
+13 the various counties according to the provisions of this section shall
+14 be used for the construction and maintenance of public roads or for the
+15 support of public schools.
+16 (b) The remaining ninety percent (90%) of any moneys received from the
+17 federal government from sales, royalties, bonuses or rentals of oil,
+18 gas or mineral lands of the federal government shall be deposited into
+19 the public school income fund, pursuant to the provisions of section
+20 33-903, Idaho Code.
+21 (2)(a) The state treasurer shall remit ten percent (10%) of any moneys
+22 received from the sale, royalties, bonuses or rental of renewable en-
+23 ergy resources on lands of the federal government to the general fund of
+24 the several counties from which the resources were developed. The state
+25 treasurer shall compute a particular county's share of such receipts by
+26 computing the proportion of the moneys generated by sales, royalties,
+27 bonuses or rentals of federal lands situated within that particular
+28 county to the total of moneys received from the federal government from
+29 sales, royalties, bonuses or rentals of all renewable energy resource
+30 lands of the federal government within the state of Idaho for the same
+31 period. The moneys remitted to the various counties according to the
+32 provisions of this section shall be used for the construction and main-
+33 tenance of public roads or for the support of public schools.
+34 (b) The remaining ninety percent (90%) of any moneys received from the
+35 sale, royalties, bonuses or rental of renewable energy resources on
+36 lands of the federal government and any moneys from the federal govern-
+37 ment collected pursuant to the federal power act, 16 U.S.C. 803(e)(1),
+38 for the use of lands of the federal government shall be deposited by
+39 the state treasurer into the renewable energy resources fund, which is
+40 hereby created. Any interest earned on the investment of idle moneys
+41 in the renewable energy resources fund shall be returned to the fund.
+42 Moneys in the renewable energy resources fund may be expended pursuant
+43 to appropriation and may be used by the administrator of the office of
+44 energy and mineral resources species, minerals, and energy coordina-
+45 tion consistent with duties, powers and authorities of the office.
+46 (3) For the purposes of this section, "renewable energy resources"
+47 shall only include geothermal, wind and solar resources.
+48 SECTION 13. That Section 67-826, Idaho Code, be, and the same is hereby
+49 amended to read as follows:
+
+15
+1 67-826. IDAHO ROADLESS RULE IMPLEMENTATION COMMISSION. (1) There is
+2 hereby established in the office of the governor an Idaho roadless rule im-
+3 plementation commission, hereinafter referred to as the "commission."
+4 (2) The commission, in conjunction with the United States forest ser-
+5 vice, shall coordinate, advise, and propose projects, plans, and policies
+6 occurring within or affecting "Idaho roadless areas," as defined in 36 CFR
+7 294.21.
+8 (3) The commission shall, as a part of its role of reviewing and propos-
+9 ing projects, plans, and policies for Idaho roadless areas, coordinate and
+10 advise on activities related to shared stewardship, good neighbor author-
+11 ity, forest health, and the protection of communities at risk from wildfire
+12 within and adjacent to Idaho roadless areas.
+13 (4) The commission shall coordinate and develop policies related to
+14 the United States forest service's implementation and interpretation of the
+15 Idaho roadless rule as codified in 36 CFR 294, subpart C.
+16 (5) The commission shall, as necessary, enter into memoranda of under-
+17 standing or other agreements with the United States forest service to coop-
+18 erate on activities subject to the Idaho roadless rule as provided in 36 CFR
+19 294, subpart C.
+20 (6) The commission shall be supported by the governor's office of
+21 species conservation species, minerals, and energy coordination. Support
+22 for the commission shall include but is not limited to working with the
+23 United States forest service staff to propose and support projects within
+24 and adjacent to Idaho roadless areas, coordinate commission meetings, and
+25 other tasks as assigned by the commission or the governor.
+26 (7) The members of the commission shall be appointed by and serve at
+27 the pleasure of the governor. The commission shall be composed of nine (9)
+28 to twelve (12) members. Three (3) members shall serve initial terms of four
+29 (4) years, three (3) members shall serve initial terms of three (3) years,
+30 and three (3) members shall serve initial terms of two (2) years. In the
+31 event that more than nine (9) members are appointed, such additional members
+32 shall serve initial terms of five (5) years. Following initial terms, mem-
+33 bers shall serve four (4) year terms. Members may be appointed from the fol-
+34 lowing three (3) categories:
+35 (a) Individuals who:
+36 (i) Represent developed outdoor recreation, off-highway vehicle
+37 users or commercial recreation activities;
+38 (ii) Represent energy or mineral development interests;
+39 (iii) Represent the commercial timber industry; or
+40 (iv) Hold a federal grazing lease or other federal land use lease.
+41 (b) Individuals who:
+42 (i) Represent an environmental organization;
+43 (ii) Represent dispersed recreation activities;
+44 (iii) Represent archaeological and historical interests; or
+45 (iv) Represent a nationally or regionally recognized wildlife or
+46 sportsmen's interest group.
+47 (c) Individuals who:
+48 (i) Participated in the development of the Idaho roadless rule or
+49 were members of the roadless area conservation national advisory
+50 committee;
+
+16
+1 (ii) Hold state, county, or local elected office;
+2 (iii) Represent an American Indian tribe within the state of
+3 Idaho; or
+4 (iv) Represent the public at large.
+5 (8) There shall be a chairman and a vice chairman of the commission
+6 elected by a majority of the members of the commission. A majority of the
+7 commissioners shall constitute a quorum.
+8 (9) The commission meetings shall, if determined warranted, be held
+9 semiannually or at other times upon the call of the chairman or a majority of
+10 the commission.
+11 (10) The commission shall prepare and submit an annual report, on or be-
+12 fore January 15 of each year, to the senate resources and environment com-
+13 mittee and the house resources and conservation committee reflecting the ac-
+14 tions of the commission pursuant to the provisions of this section and set-
+15 ting forth the membership of the commission.
+16 SECTION 14. That Section 67-5303, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 67-5303. APPLICATION TO STATE EMPLOYEES. All departments of the state
+19 of Idaho and all employees in such departments, except those employees
+20 specifically defined as nonclassified, shall be classified employees who
+21 are subject to this chapter and to the system of personnel administration
+22 it prescribes. All nonclassified employees are subject to conformity with
+23 classified positions as set forth in section 59-1603, Idaho Code. Nonclas-
+24 sified employees shall be:
+25 (a) Members of the state legislature and all other officers of the state
+26 of Idaho elected by popular vote and persons appointed to fill vacancies in
+27 elective offices and employees of the state legislature.
+28 (b) Members of statutory boards and commissions and heads of depart-
+29 ments appointed by and serving at the pleasure of the governor, deputy di-
+30 rectors appointed by the director of a department, and members of advisory
+31 boards and councils appointed by the departments.
+32 (c) All employees and officers in the office, and at the residence, of
+33 the governor; and all employees and officers in the offices of the lieutenant
+34 governor, secretary of state, attorney general, state treasurer, state con-
+35 troller, and state superintendent of public instruction.
+36 (d) Except as otherwise provided by law, one (1) declared position des-
+37 ignated by the appointing authority of a participating department, in addi-
+38 tion to those declared to be nonclassified by other provisions of law.
+39 (e) Part-time professional consultants who are paid on a fee basis for
+40 any form of legal, medical or other professional service and who are not en-
+41 gaged in the performance of administrative duties for the state.
+42 (f) Judges, temporary referees, receivers and jurors.
+43 (g) All employees of the Idaho supreme court, Idaho court of appeals and
+44 district courts.
+45 (h) All employees of the Idaho state bar.
+46 (i) Assistant attorneys general attached to the office of the attorney
+47 general.
+48 (j) Officers, members of the teaching staffs of state higher educa-
+49 tional institutions, the professional staffs of the office of the state
+
+17
+1 board of education and the Idaho department of education administered by the
+2 board of regents and the board of education, all professional staff of the
+3 public charter school commission, and the professional staffs of the Idaho
+4 division of career technical education and vocational rehabilitation admin-
+5 istered by the state board for career technical education. "Teaching staff"
+6 includes teachers, coaches, resident directors, librarians and those prin-
+7 cipally engaged in academic research. The word "officer" means presidents,
+8 vice presidents, deans, directors, or employees in positions designated by
+9 the state board who receive an annual salary of not less than step A of the pay
+10 grade equivalent to three hundred fifty-five (355) Hay points in the state
+11 compensation schedule. In consultation with the Idaho division of human
+12 resources, the state board of education shall implement policies and pro-
+13 cedures for nonclassified employees to conform with section 59-1603, Idaho
+14 Code.
+15 (k) Employees of the military division.
+16 (l) Patients, inmates or students employed in a state institution.
+17 (m) Temporary employees.
+18 (n) All employees and officers of the following named commodity commis-
+19 sions, and all employees and officers of any commodity commission created
+20 hereafter: the Idaho potato commission, as provided in chapter 12, title 22,
+21 Idaho Code; the Idaho honey commission, as provided in chapter 28, title 22,
+22 Idaho Code; the Idaho bean commission, as provided in chapter 29, title 22,
+23 Idaho Code; the Idaho hop grower's commission, as provided in chapter 31, ti-
+24 tle 22, Idaho Code; the Idaho wheat commission, as provided in chapter 33,
+25 title 22, Idaho Code; the Idaho pea and lentil commission, as provided in
+26 chapter 35, title 22, Idaho Code; the Idaho apple commission, as provided in
+27 chapter 36, title 22, Idaho Code; the Idaho cherry commission, as provided in
+28 chapter 37, title 22, Idaho Code; the Idaho mint commission, as provided in
+29 chapter 38, title 22, Idaho Code; the Idaho sheep and goat health board, as
+30 provided in chapter 1, title 25, Idaho Code; the state brand inspector, and
+31 all district supervisors, as provided in chapter 11, title 25, Idaho Code;
+32 the Idaho beef council, as provided in chapter 29, title 25, Idaho Code; and
+33 the Idaho dairy products commission, as provided in chapter 31, title 25,
+34 Idaho Code.
+35 (o) All inspectors of the fresh fruit and vegetable inspection service
+36 of the Idaho department of agriculture, except those positions involved in
+37 the management of the program.
+38 (p) All employees of correctional industries within the department of
+39 correction.
+40 (q) All deputy administrators and wardens employed by the department of
+41 correction. Deputy administrators are defined as only the deputy adminis-
+42 trators working directly for the nonclassified division administrators un-
+43 der the director of the department of correction.
+44 (r) All public information positions, with the exception of secretar-
+45 ial positions, in any department.
+46 (s) Any division administrator and all executive employees.
+47 (t) Any regional administrator or division administrator in the de-
+48 partment of environmental quality.
+49 (u) All employees of the division of financial management, all employ-
+50 ees of the STEM action center, all employees of the office of species conser-
+
+18
+1 vation species, minerals, and energy coordination, and all employees of the
+2 office of drug policy, and all employees of the office of energy and mineral
+3 resources.
+4 (v) All employees of the Idaho food quality assurance institute.
+5 (w) All employees of the office of the state appellate public defender,
+6 pursuant to chapter 59, title 19, Idaho Code, and the office of the state pub-
+7 lic defender, pursuant to chapter 60, title 19, Idaho Code.
+8 (x) All quality assurance specialists or medical investigators of the
+9 Idaho board of medicine.
+10 (y) All pest survey and detection employees and their supervisors hired
+11 specifically to carry out activities under the Idaho plant pest act, chapter
+12 20, title 22, Idaho Code, including but not limited to pest survey, detec-
+13 tion, and eradication, except those positions involved in the management of
+14 the program.
+15 (z) All medical directors employed by the department of health and
+16 welfare who are engaged in the practice of medicine, as defined by section
+17 54-1803, Idaho Code, at a state hospital or other treatment facility managed
+18 and operated by the department of health and welfare.
+19 (aa) All hearing officers and all other employees of the office of ad-
+20 ministrative hearings, as provided for in chapter 52, title 67, Idaho Code.
+21 (bb) All attorneys employed by the division of occupational and profes-
+22 sional licenses.
+23 SECTION 15. That Section 67-5806, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 67-5806. DECLARATION OF EMERGENCY. A disaster emergency, as defined
+26 in section 46-1002(2) and (3), Idaho Code, is in existence as a result of
+27 the introduction of Canadian gray wolves, which have caused and continue to
+28 threaten vast devastation of Idaho's social culture, economy and natural re-
+29 sources. The geographical extent of this emergency shall include any part
+30 of the state of Idaho where gray wolves have been sighted and whose sighting
+31 has been documented or otherwise confirmed by the office of species conser-
+32 vation species, minerals, and energy coordination or the department of fish
+33 and game.
+34 SECTION 16. That Section 67-5807, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 67-5807. GOVERNOR -- EXECUTIVE ORDERS. (1) Pursuant to this act, the
+37 governor may issue executive orders and proclamations and amend or rescind
+38 such orders and proclamations. Executive orders and proclamations have the
+39 force and effect of law. A disaster emergency may be declared by executive
+40 order or proclamation of the governor if the governor finds any of the fol-
+41 lowing:
+42 (a) Any Canadian gray wolf within the state is a carrier of a disease
+43 harmful to humans, livestock, pets and wild game and that there is a risk
+44 of transmission of such disease to humans, livestock, pets or wild game;
+45 (b) The potential of human-wolf conflict exists and that the Canadian
+46 gray wolf is frequenting areas inhabited by humans or showing habitu-
+47 ated behavior toward humans;
+
+19
+1 (c) That the potential for livestock-wolf conflict exists and that the
+2 Canadian gray wolf is frequenting areas that are largely ranchland with
+3 livestock or showing evidence of habituated behavior toward livestock;
+4 (d) The numbers of Canadian gray wolves are such that there is an im-
+5 pact to Idaho big game herds as identified in the wolf management plan
+6 of 2002, and that there is evidence that increasing the number of wolves
+7 beyond one hundred (100) has had detrimental impacts on big game popula-
+8 tions, the economic viability of the Idaho department of fish and game,
+9 outfitters and guides, and others who depend on a viable population of
+10 big game animals;
+11 (e) The numbers of big game animals have been significantly impacted
+12 below that of recent historical numbers and that there has been a mea-
+13 surable diminution in the value of businesses tied to outfitting and
+14 other game or hunting based businesses.
+15 (2) The executive order or proclamation shall direct the office of
+16 species conservation species, minerals, and energy coordination to initiate
+17 emergency proceedings in accordance with section 67-5247, Idaho Code. Any
+18 person may challenge an action or proposed action of the office of species
+19 conservation species, minerals, and energy coordination by following the
+20 appeals process prescribed by the Idaho administrative procedure act, chap-
+21 ter 52, title 67, Idaho Code.
+22 (3) The state of disaster emergency shall continue until the governor
+23 finds that either gray wolves are delisted in Idaho with full state manage-
+24 ment restored or the threat has been dealt with to the extent that emergency
+25 conditions no longer exist. When either or both of these events occur, the
+26 governor shall terminate the state of disaster emergency by executive order
+27 or proclamation. Provided however, that no state of disaster emergency pur-
+28 suant to the provisions of this act may continue for longer than one (1) year.
+29 The legislature by concurrent resolution may terminate a state of disaster
+30 emergency at any time. Thereupon, the governor shall issue an executive
+31 order or proclamation ending the state of disaster emergency. All executive
+32 orders or proclamations issued pursuant to this section shall indicate which
+33 of the conditions in this section exist, the area or areas threatened and the
+34 actions planned to resolve the issue, including contracting with USDA-APHIS
+35 wildlife services. An executive order or proclamation shall be disseminated
+36 promptly by means calculated to bring its contents to the attention of the
+37 general public and, unless the circumstances attendant upon the disaster
+38 prevent or impede, be promptly filed with the office of species conservation
+39 species, minerals, and energy coordination, the department of fish and game,
+40 the office of the secretary of state, and the office of the sheriff of each
+41 county where the state of disaster emergency applies.
+42 SECTION 17. An emergency existing therefor, which emergency is hereby
+43 declared to exist, this act shall be in full force and effect on and after
+44 July 1, 2026.

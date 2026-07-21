@@ -1,0 +1,182 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 805
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO THE PRACTICE OF DENTAL HYGIENE; AMENDING SECTION 54-902, IDAHO
+3 CODE, TO REVISE PROVISIONS REGARDING THE PRACTICE OF DENTAL HYGIENE;
+4 REPEALING SECTION 54-904, IDAHO CODE, RELATING TO THE AUTHORIZATION
+5 FOR PROCEDURES PERFORMED UNDER GENERAL SUPERVISION BY DENTAL HYGIEN-
+6 ISTS; AMENDING CHAPTER 9, TITLE 54, IDAHO CODE, BY THE ADDITION OF A
+7 NEW SECTION 54-904, IDAHO CODE, TO PROVIDE AUTHORIZATION FOR DENTAL
+8 HYGIENISTS; AMENDING SECTION 54-906, IDAHO CODE, TO REMOVE A PROVISION
+9 REGARDING SUPERVISION BY A DENTIST; AMENDING SECTION 54-924, IDAHO
+10 CODE, TO PROVIDE FOR LICENSEES AND LICENSURE BY THE BOARD; AND DECLARING
+11 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+12 Be It Enacted by the Legislature of the State of Idaho:
+13 SECTION 1. That Section 54-902, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 54-902. DEFINITION -- PRACTICE OF DENTAL HYGIENE. The practice of
+16 dental hygiene is the doing by one (1) person for a direct or indirect con-
+17 sideration of one (1) or more of the following with respect to the teeth
+18 or dental health of another person, namely, cleaning, polishing, remov-
+19 ing stains or concretions; performing nonsurgical periodontal therapy;
+20 administering prescribed anesthetics or medicaments; applying preventive
+21 agents; performing nonsurgical, clinical and laboratory oral diagnostic
+22 tests for interpretation by a dentist; preparation of preliminary records of
+23 oral conditions; and such other dental services as specified by the dentist
+24 unless prohibited by the board in its adopted rules within such person's edu-
+25 cation, training, and experience or as delegated by a supervising dentist.
+26 SECTION 2. That Section 54-904, Idaho Code, be, and the same is hereby
+27 repealed.
+28 SECTION 3. That Chapter 9, Title 54, Idaho Code, be, and the same is
+29 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+30 ignated as Section 54-904, Idaho Code, and to read as follows:
+31 54-904. AUTHORIZATION FOR DENTAL HYGIENISTS. (1) A dental hygienist
+32 is authorized to perform any dental intervention within the individual's ed-
+33 ucation, training, and experience or as delegated by a supervising dentist,
+34 including but not limited to:
+35 (a) Dental hygiene assessment;
+36 (b) Dental hygiene diagnosis; and
+37 (c) Treatment planning and implementation in the identification, pre-
+38 vention, and management of oral disease.
+39 (2) A dental hygienist who possesses a current and valid certificate
+40 pursuant to section 54-1729, Idaho Code, may obtain and administer any topi-
+
+2
+1 cal pharmacological agent used in the course of treatment for minor and self-
+2 limiting oral diseases.
+3 (3) A dental hygienist who practices independently shall refer a pa-
+4 tient to a dentist:
+5 (a) For any necessary dental care beyond the individual's education,
+6 training, and experience; or
+7 (b) Upon the patient's request.
+8 SECTION 4. That Section 54-906, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 54-906. UNLAWFUL PRACTICE OF DENTAL HYGIENE. (1) Any person, not a
+11 dentist, who shall practice, or shall in any manner hold himself out to any
+12 other person, or to the public, as qualified or licensed to practice dental
+13 hygiene within the state of Idaho without at the time being a licensed dental
+14 hygienist, or who performs any act, function, or service permitted a dental
+15 hygienist by this act without the supervision of a dentist as specified by
+16 the rules of the board, shall be guilty of a misdemeanor and upon conviction
+17 shall be fined not less than one hundred dollars ($100) nor more than three
+18 hundred dollars ($300), or be imprisoned in the county jail for not less than
+19 thirty (30) days nor more than six (6) months, or both.
+20 Each act of practice, or holding out, or representation shall consti-
+21 tute a separate offense.
+22 (2) Conviction under the provisions of this section shall not prevent
+23 issuance of an injunction as provided in section 54-933, Idaho Code.
+24 SECTION 5. That Section 54-924, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 54-924. OTHER GROUNDS OF REFUSAL, REVOCATION OR SUSPENSION OF DEN-
+27 TISTS -- PROBATION AGREEMENTS. The board may refuse to issue or renew a
+28 dental license or may revoke, suspend, place on probation, reprimand or take
+29 other disciplinary action with respect to a dental license as the board may
+30 deem proper, including administrative penalties not to exceed ten thousand
+31 dollars ($10,000) per violation and assessment of the costs of disciplinary
+32 proceedings in the event a dentist licensee shall:
+33 (1) Intentionally misstate or fail fully to disclose a fact material
+34 to determination of fitness and qualification in an application for licen-
+35 sure to practice dentistry or cheat in an examination to practice dentistry;
+36 or procure a certificate or finding of qualification to practice dentistry
+37 or subsequently a license by false, fraudulent or deceitful means or in any
+38 other name than his own true name; or
+39 (2) Practice dentistry under any name other than his own true name ex-
+40 cept as a professional service corporation or professional limited liabil-
+41 ity company or as a limited managed care plan pursuant to chapter 39, title
+42 41, Idaho Code; or
+43 (3) Practice or in any manner or by any means or at any place hold out
+44 or represent himself as practicing dentistry in or under the name of, or as
+45 a member, representative, agent or employee of, or in connection with, any
+46 company, association, or corporation, or under any trade, fictitious or
+47 business name except as a professional service corporation or professional
+
+3
+1 limited liability company or as a limited managed care plan pursuant to chap-
+2 ter 39, title 41, Idaho Code, except for:
+3 (a) A dentist practicing dentistry and providing dentistry services to
+4 prisoners in the custody of the Idaho department of correction as an em-
+5 ployee of:
+6 (i) The state of Idaho;
+7 (ii) A contractor under contract as defined by section 67-9203,
+8 Idaho Code, with the state of Idaho; or
+9 (iii) A subcontractor for a contractor under contract as defined
+10 by section 67-9203, Idaho Code, with the state of Idaho; or
+11 (b) A dentist practicing dentistry as an employee or contracting den-
+12 tist providing dentistry services to any health center as defined and
+13 authorized in section 330 of the public health service act, codified as
+14 amended at 42 U.S.C. 254b; or
+15 (4)(a) Make, or cause to be made, or assist in making, any fraudulent,
+16 false, or misleading statement as to his own or an employee's, asso-
+17 ciate's, or other dentist's, dental therapist's, or dental hygienist's
+18 skill or lack of skill, or method of practice; or
+19 (b) Claim to practice dentistry without causing pain; or
+20 (c) Claim superiority over other dentists; or
+21 (d) Publish, advertise, or circulate reports, letters, certificates,
+22 endorsements, or evidence of cures or corrections of dental conditions
+23 by such dentist, his employee, or his associate by reason of his or
+24 their skill, experience, or ability or of his or their use of any system,
+25 method, technique, device, drug, medicine, material, manipulation or
+26 machine; or
+27 (e) Advertise the use of, or use, any system, method, technique, de-
+28 vice, drug, medicine, material or machine that is either falsely adver-
+29 tised or misnamed; or
+30 (5) Use intoxicants or drugs to such a degree as to render him unfit to
+31 practice; or
+32 (6) Commit malpractice, that is, to provide dental care that fails to
+33 meet the standard of dental care provided by other qualified dentists in the
+34 same community or similar communities, taking into account his training, ex-
+35 perience and the degree of expertise to which he holds himself out to the pub-
+36 lic; or
+37 (7) Engage in unprofessional conduct, as defined by board rules; or
+38 (8) Advertise in such way as to deceive or defraud, or probably deceive
+39 or defraud, the public or patrons; or
+40 (9) Employ or permit any person not a dentist to practice dentistry, or
+41 any person not a dentist or dental therapist to practice dental therapy, or
+42 any person not a dentist or dental hygienist to practice dental hygiene, in
+43 his office or under his control or direction; or
+44 (10) Fail, neglect or refuse to keep his office or equipment, or oth-
+45 erwise conduct his work, in accordance with current state and federal laws,
+46 rules and regulations; or
+47 (11) Violate any other provisions of law or rules adopted by the board;
+48 or
+49 (12) Falsely identify himself to the public as a specialist in a spe-
+50 cialty area of dentistry as defined by rule; or
+
+4
+1 (13) Engage in the practice of dentistry as a member, stockholder, em-
+2 ployee, director, partner or proprietor in any business entity in which a
+3 person, not duly licensed to practice dentistry in this state by the board
+4 pursuant to this chapter, holds an ownership interest. The provisions of
+5 this subsection shall not apply to:
+6 (a) Such engagement in a limited managed care plan pursuant to chapter
+7 39, title 41, Idaho Code;
+8 (b) A dentist practicing dentistry and providing dentistry services to
+9 prisoners in the custody of the Idaho department of correction as an em-
+10 ployee of:
+11 (i) The state of Idaho;
+12 (ii) A contractor under contract as defined by section 67-9203,
+13 Idaho Code, with the state of Idaho; or
+14 (iii) A subcontractor for a contractor under contract as defined
+15 by section 67-9203, Idaho Code, with the state of Idaho; or
+16 (c) A dentist practicing dentistry for any health care center as de-
+17 fined and authorized in section 330 of the public health service act,
+18 codified as amended at 42 U.S.C. 254b; or
+19 (14) Supervise more than three (3) dental therapists; or
+20 (15) Require directly, or as a member, representative, contracted
+21 agent, or employee of or in connection with any company, association, corpo-
+22 ration, or partnership, that a patient sign an agreement limiting his right
+23 or ability to file a complaint with the board.
+24 SECTION 6. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

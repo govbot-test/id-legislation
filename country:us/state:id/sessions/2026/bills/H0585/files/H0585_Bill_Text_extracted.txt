@@ -1,0 +1,118 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 585
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTRICAL, PLUMBING, AND HEATING, VENTILATION, AND AIR CONDI-
+3 TIONING INSPECTIONS; AMENDING CHAPTER 10, TITLE 54, IDAHO CODE, BY THE
+4 ADDITION OF A NEW SECTION 54-1004A, IDAHO CODE, TO PROVIDE FOR CERTAIN
+5 INSPECTION REQUIREMENTS; AMENDING CHAPTER 26, TITLE 54, IDAHO CODE,
+6 BY THE ADDITION OF A NEW SECTION 54-2626A, IDAHO CODE, TO PROVIDE FOR
+7 CERTAIN INSPECTION REQUIREMENTS; AMENDING CHAPTER 50, TITLE 54, IDAHO
+8 CODE, BY THE ADDITION OF A NEW SECTION 54-5020A, IDAHO CODE, TO PROVIDE
+9 FOR CERTAIN INSPECTION REQUIREMENTS; AND DECLARING AN EMERGENCY AND
+10 PROVIDING AN EFFECTIVE DATE.
+11 Be It Enacted by the Legislature of the State of Idaho:
+12 SECTION 1. That Chapter 10, Title 54, Idaho Code, be, and the same is
+13 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+14 ignated as Section 54-1004A, Idaho Code, and to read as follows:
+15 54-1004A. INSPECTIONS -- TIMELINESS -- REFUNDS. (1) If an inspection
+16 requested by a permit holder is not performed within forty-eight (48) busi-
+17 ness hours, such permit holder shall be authorized to hire a third-party in-
+18 spector to perform such inspection. The permit holder or third-party in-
+19 spector shall notify the division or local government that such inspection
+20 is being completed by a third-party inspector. The permit holder shall pro-
+21 vide a copy of the results of the completed inspection to the division or lo-
+22 cal government. A permit holder who obtains a third-party inspection under
+23 this section shall be refunded any fee, or portion thereof, that the permit
+24 holder paid to the division or local government for such inspection. If a lo-
+25 cal government contracts with and pays the division, county, or third party
+26 for an inspection that requires a refund pursuant to this section, the divi-
+27 sion, county, or third party shall be responsible for refunding the permit
+28 holder.
+29 (2) The division or a local government shall refund ten percent (10%) of
+30 the fees, or the portion thereof, paid by a permit holder for an inspection if
+31 an inspector or electrical code administrator:
+32 (a) Conducts an inspection on the work relating to the permit;
+33 (b) Determines that the work has failed an inspection; and
+34 (c) Fails to, within three (3) business days, provide the permit holder
+35 or his agent with a reason for the failure of such inspection pursuant to
+36 the provisions of this chapter.
+37 (3) A third-party inspector under this section shall meet the qualifi-
+38 cations prescribed by section 54-1019, Idaho Code, and shall conduct the in-
+39 spection in substantial accord with the applicable jurisdiction's standards
+40 provided by law, rule, or ordinance.
+
+2
+1 SECTION 2. That Chapter 26, Title 54, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 54-2626A, Idaho Code, and to read as follows:
+4 54-2626A. INSPECTIONS -- TIMELINESS -- REFUNDS. (1) If an inspection
+5 requested by a permit holder is not performed within forty-eight (48) busi-
+6 ness hours, such permit holder shall be authorized to hire a third-party in-
+7 spector to perform such inspection. The permit holder or third-party in-
+8 spector shall notify the division or local government that such inspection
+9 is being completed by a third-party inspector. The permit holder shall pro-
+10 vide a copy of the results of the completed inspection to the division or lo-
+11 cal government. A permit holder who obtains a third-party inspection under
+12 this section shall be refunded any fee, or portion thereof, that the permit
+13 holder paid to the division or local government for such inspection. If a lo-
+14 cal government contracts with and pays the division, county, or third party
+15 for an inspection that requires a refund pursuant to this section, the divi-
+16 sion, county, or third party shall be responsible for refunding the permit
+17 holder.
+18 (2) The division or a local government shall refund ten percent (10%) of
+19 the fees, or the portion thereof, paid by a permit holder for an inspection if
+20 an inspector or plumbing code administrator:
+21 (a) Conducts an inspection on the work relating to the permit;
+22 (b) Determines that the work has failed an inspection; and
+23 (c) Fails to, within three (3) business days, provide the permit holder
+24 or his agent with a reason for the failure of such inspection pursuant to
+25 the provisions of this chapter.
+26 (3) A third-party inspector under this section shall meet the qualifi-
+27 cations prescribed by section 54-2627, Idaho Code, and shall conduct the in-
+28 spection in substantial accord with the applicable jurisdiction's standards
+29 provided by law, rule, or ordinance.
+30 SECTION 3. That Chapter 50, Title 54, Idaho Code, be, and the same is
+31 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+32 ignated as Section 54-5020A, Idaho Code, and to read as follows:
+33 54-5020A. INSPECTIONS -- TIMELINESS -- REFUNDS. (1) If an inspection
+34 requested by a permit holder is not performed within forty-eight (48) busi-
+35 ness hours, such permit holder shall be authorized to hire a third-party in-
+36 spector to perform such inspection. The permit holder or third-party in-
+37 spector shall notify the division or local government that such inspection
+38 is being completed by a third-party inspector. The permit holder shall pro-
+39 vide a copy of the results of the completed inspection to the division or lo-
+40 cal government. A permit holder who obtains a third-party inspection under
+41 this section shall be refunded any fee, or portion thereof, that the permit
+42 holder paid to the division or local government for such inspection. If a lo-
+43 cal government contracts with and pays the division, county, or third party
+44 for an inspection that requires a refund pursuant to this section, the divi-
+45 sion, county, or third party shall be responsible for refunding the permit
+46 holder.
+
+3
+1 (2) The division or a local government shall refund ten percent (10%) of
+2 the fees, or the portion thereof, paid by a permit holder for an inspection if
+3 an inspector or mechanical code administrator:
+4 (a) Conducts an inspection on the work relating to the permit;
+5 (b) Determines that the work has failed an inspection; and
+6 (c) Fails to, within three (3) business days, provide the permit holder
+7 or his agent with a reason for the failure of such inspection pursuant to
+8 the provisions of this chapter.
+9 (3) A third-party inspector under this section shall meet the qualifi-
+10 cations prescribed by section 54-5021, Idaho Code, and shall conduct the in-
+11 spection in substantial accord with the applicable jurisdiction's standards
+12 provided by law, rule, or ordinance.
+13 SECTION 4. An emergency existing therefor, which emergency is hereby
+14 declared to exist, this act shall be in full force and effect on and after
+15 July 1, 2026.

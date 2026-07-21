@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 776
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO NEWBORN SAFETY REVIEW; PROVIDING LEGISLATIVE INTENT; AMEND-
+3 ING CHAPTER 16, TITLE 16, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+4 16-1650, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING NEWBORN SAFETY
+5 REVIEW; AND DECLARING AN EMERGENCY.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. LEGISLATIVE INTENT. It is the intent of the Legislature to
+8 protect infants and children from abuse, neglect, and sexual exploitation
+9 by requiring an expedited child protection safety review of children less
+10 than one year of age when parents, guardians, or legal custodians have a
+11 history of child abuse, sexual offenses, or prior termination of parental
+12 rights due to abuse or neglect. Infants are uniquely vulnerable and may suf-
+13 fer irreparable harm when safety concerns are not identified and addressed
+14 immediately. It is the intent of the Legislature to ensure timely safety
+15 verification and appropriate planning for children born into high-risk cir-
+16 cumstances.
+17 SECTION 2. That Chapter 16, Title 16, Idaho Code, be, and the same is
+18 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+19 ignated as Section 16-1650, Idaho Code, and to read as follows:
+20 16-1650. NEWBORN SAFETY REVIEW. (1) Any report made to the department
+21 by a mandatory reporter pursuant to section 16-1605, Idaho Code, alleging a
+22 parent, guardian, or legal custodian is a caregiver to a child that is less
+23 than one (1) year of age and has a risk factor described in subsection (2)
+24 of this section, the department shall verify the reported risk factor within
+25 twelve (12) hours of receiving the report. If the reported risk factor is
+26 verified, the department shall initiate a priority I response, as defined by
+27 the department, and shall complete a full written safety assessment.
+28 (2) Risk factors that require action by the department pursuant to sub-
+29 section (1) of this section are as follows:
+30 (a) A parent, guardian, or legal custodian's identifying information
+31 appears in the department's child protection central registry going
+32 back no more than ten (10) years;
+33 (b) A parent, guardian, or legal custodian has been convicted of injury
+34 to a child pursuant to section 18-1501, Idaho Code;
+35 (c) A parent, guardian, or legal custodian's parental rights were ter-
+36 minated in a proceeding pursuant to this chapter; or
+37 (d) A parent, guardian, or legal custodian's child was born with neona-
+38 tal abstinence syndrome.
+39 (3) For the purposes of this section, "verify" means use of the depart-
+40 ment's internal records to substantiate termination of parental rights and,
+41 when possible, the use of official, public-facing repositories of Idaho
+
+2
+1 criminal or medical records in order to confirm the existence of a reported
+2 risk factor.
+3 (4) The department's safety assessment shall include:
+4 (a) The current compliance of each parent, guardian, or legal custodian
+5 with court-ordered conditions, treatment, or supervision related to a
+6 prior offense, insofar as can be determined;
+7 (b) The child's living environment with the parent, guardian, legal
+8 custodian, or caregiver and other household members; and
+9 (c) A summary of the department's prior investigation of allegations
+10 of child abuse, abandonment, or neglect pertaining to members of the
+11 household and any services provided to members of the household by the
+12 division for youth safety and permanency at the department.
+13 (5) When a law enforcement agency makes a report to the department pur-
+14 suant to section 16-1605, Idaho Code, such report shall include any known or
+15 reported risk factors described in subsection (2) of this section.
+16 (6) Nothing in this section shall be construed to create a presumption
+17 of abuse or neglect based solely on a medical condition, diagnosis, or indi-
+18 cator.
+19 (7) If the department concludes that verification of a risk factor
+20 described in subsection (2) of this section cannot be accomplished within
+21 twelve (12) hours or if the department concludes that public safety would
+22 be better served by immediately escalating the response, the department may
+23 initiate a priority I response instead of making continued efforts to ver-
+24 ify the risk factors and shall prepare a safety assessment as set forth in
+25 subsection (4) of this section, notwithstanding the lack of a verified risk
+26 factor.
+27 SECTION 3. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after its
+29 passage and approval.

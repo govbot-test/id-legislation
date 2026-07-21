@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 655
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PRECEPTOR PRIOR AUTHORIZATION EXEMPTION; AMENDING CHAPTER 2,
+3 TITLE 56, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 56-276, IDAHO
+4 CODE, TO ESTABLISH PROVISIONS REGARDING PRECEPTORS AND PRIOR AU-
+5 THORIZATION EXEMPTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN
+6 EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 2, Title 56, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 56-276, Idaho Code, and to read as follows:
+11 56-276. PRECEPTORS -- PRIOR AUTHORIZATION EXEMPTION. (1) A physician
+12 practicing an eligible specialty who provides three hundred sixty (360)
+13 hours or more of preceptorship in a calendar year, with at least sixty per-
+14 cent (60%) of those hours occurring in a qualified rural area, shall qualify
+15 for a twelve (12) month exemption from prior authorization requirements for
+16 medically necessary services billed to Idaho medicaid plans.
+17 (2)(a) A physician shall be responsible for tracking the physician's
+18 preceptorship hours and may report such hours to the department of
+19 health and welfare upon reaching the minimum amount of hours needed to
+20 qualify for the exemption described in subsection (1) of this section.
+21 (b) The department of health and welfare shall verify the hours sub-
+22 mitted by a physician, and upon verification shall exempt the physician
+23 from prior authorization requirements as described in subsection (1) of
+24 this section at the start of the next calendar year.
+25 (3) The department of health and welfare may rescind an exemption from
+26 prior authorization requirements if:
+27 (a) On the basis of a review of a random sample of a statistically sig-
+28 nificant number of claims submitted by a physician during an exempted
+29 period, the department determines that the physician has fallen below
+30 the acceptable risk-weighted claim sampling score. Such a review may
+31 not be conducted more than once per year; and
+32 (b) The department notifies the physician at least twenty-five (25)
+33 days before the proposed rescinding from exemption is to take effect.
+34 (4) No more than one hundred (100) physicians from each eligible spe-
+35 cialty shall receive an exemption from prior authorization requirements
+36 pursuant to this section per year.
+37 (5) The department shall promulgate rules, subject to legislative ap-
+38 proval, to carry out the provisions of this section, including the develop-
+39 ment of a risk-weighted sampling methodology and scoring system that incor-
+40 porates both the number and dollar amount of claims.
+41 (6) For the purpose of this section, the following definitions apply:
+
+2
+1 (a) "Eligible specialty" means primary care, psychiatry, or obstetrics
+2 and gynecology.
+3 (b) "Graduate student" means an individual matriculating at the gradu-
+4 ate level at any accredited Idaho institution of higher education seek-
+5 ing a degree in any of the areas of doctor of osteopathy or physician as-
+6 sistant.
+7 (c) "Preceptorship" means an uncompensated mentoring experience in
+8 which a preceptor provides a program of personalized instruction,
+9 training, and supervision that is offered to eligible graduate students
+10 to enable the students to obtain professional degrees in primary care
+11 fields.
+12 (d) "Qualified rural area" means a primary care health professional
+13 shortage area or a medically underserved area, as those terms are de-
+14 fined in section 39-5903, Idaho Code.
+15 SECTION 2. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

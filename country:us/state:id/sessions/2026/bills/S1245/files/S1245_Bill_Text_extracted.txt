@@ -1,0 +1,341 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1245
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; PROVIDING LEGISLATIVE INTENT; REPEALING SECTION
+3 33-117, IDAHO CODE, RELATING TO PUBLIC SCHOOL FINANCIAL REQUIREMENTS;
+4 REPEALING SECTION 33-125B, IDAHO CODE, RELATING TO PAY FOR SUCCESS
+5 CONTRACTING AND DUTIES OF THE STATE DEPARTMENT OF EDUCATION; REPEALING
+6 SECTION 33-140, IDAHO CODE, RELATING TO A REPORT OF HIGH PERFORMING
+7 SCHOOLS AND TEACHERS; REPEALING SECTION 33-356, IDAHO CODE, RELATING
+8 TO SCHOOL BUILDING DESIGN AND ENERGY EFFICIENCY; REPEALING SECTION
+9 33-523, IDAHO CODE, RELATING TO STEM DIPLOMA; REPEALING SECTION 33-524,
+10 IDAHO CODE, RELATING TO BILITERACY DIPLOMA; REPEALING SECTION 33-526,
+11 IDAHO CODE, RELATING TO WORKFORCE READINESS AND CAREER TECHNICAL ED-
+12 UCATION DIPLOMA; REPEALING SECTION 33-1010, IDAHO CODE, RELATING TO
+13 APPORTIONMENTS WHEN MINES NET PROFITS ARE CONSIDERED; REPEALING SEC-
+14 TION 33-1011, IDAHO CODE, RELATING TO TAXES TO BE LEVIED BY COUNTY
+15 COMMISSIONERS; REPEALING SECTION 33-1012, IDAHO CODE, RELATING TO
+16 TRANSMITTAL OF COUNTY SCHOOL MONEYS; REPEALING SECTION 33-1624, IDAHO
+17 CODE, RELATING TO RULES; REPEALING SECTION 33-2007, IDAHO CODE, RELAT-
+18 ING TO COST OF INSTRUCTION AND POSTAGE SUBJECT REIMBURSEMENT; REPEALING
+19 SECTION 33-2213, IDAHO CODE, RELATING TO THE INDUSTRY PARTNER FUND;
+20 REPEALING SECTION 33-3305, IDAHO CODE, RELATING TO APPROPRIATION FOR
+21 ASBESTOS REMOVAL AND BUILDING DEMOLITION OF ALL ALBION STATE NORMAL
+22 SCHOOL BUILDINGS NOT OF PRACTICAL VALUE TO THE CITY OF ALBION; RE-
+23 PEALING SECTION 33-4605, IDAHO CODE, RELATING TO POSTSECONDARY CREDIT
+24 SCHOLARSHIP; AMENDING SECTION 33-1002, IDAHO CODE, TO REMOVE OBSOLETE
+25 LANGUAGE; AMENDING SECTION 33-3304, IDAHO CODE, TO REMOVE OBSOLETE LAN-
+26 GUAGE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+27 Be It Enacted by the Legislature of the State of Idaho:
+28 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+29 of the Legislature to ensure that the state laws provided in Idaho Code are
+30 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+31 serving the public health, safety, and welfare. In accordance with the Idaho
+32 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+33 tified the provisions of this act as obsolete, outdated, or unnecessary.
+34 SECTION 2. That Section 33-117, Idaho Code, be, and the same is hereby
+35 repealed.
+36 SECTION 3. That Section 33-125B, Idaho Code, be, and the same is hereby
+37 repealed.
+38 SECTION 4. That Section 33-140, Idaho Code, be, and the same is hereby
+39 repealed.
+
+2
+1 SECTION 5. That Section 33-356, Idaho Code, be, and the same is hereby
+2 repealed.
+3 SECTION 6. That Section 33-523, Idaho Code, be, and the same is hereby
+4 repealed.
+5 SECTION 7. That Section 33-524, Idaho Code, be, and the same is hereby
+6 repealed.
+7 SECTION 8. That Section 33-526, Idaho Code, be, and the same is hereby
+8 repealed.
+9 SECTION 9. That Section 33-1010, Idaho Code, be, and the same is hereby
+10 repealed.
+11 SECTION 10. That Section 33-1011, Idaho Code, be, and the same is hereby
+12 repealed.
+13 SECTION 11. That Section 33-1012, Idaho Code, be, and the same is hereby
+14 repealed.
+15 SECTION 12. That Section 33-1624, Idaho Code, be, and the same is hereby
+16 repealed.
+17 SECTION 13. That Section 33-2007, Idaho Code, be, and the same is hereby
+18 repealed.
+19 SECTION 14. That Section 33-2213, Idaho Code, be, and the same is hereby
+20 repealed.
+21 SECTION 15. That Section 33-3305, Idaho Code, be, and the same is hereby
+22 repealed.
+23 SECTION 16. That Section 33-4605, Idaho Code, be, and the same is hereby
+24 repealed.
+25 SECTION 17. That Section 33-1002, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 33-1002. EDUCATIONAL SUPPORT PROGRAM. The educational support pro-
+28 gram is calculated as follows:
+29 (1) State Educational Support Funds. Add the state appropriation, in-
+30 cluding the moneys available in the public school income fund, together with
+31 all miscellaneous revenues to determine the total state funds.
+32 (2) From the total state funds subtract the following amounts needed
+33 for state support of special programs provided by a school district:
+34 (a) Pupil tuition-equivalency allowances as provided in section
+35 33-1002B, Idaho Code;
+36 (b) Transportation support program as provided in section 33-1006,
+37 Idaho Code;
+38 (c) Feasibility studies allowance as provided in section 33-1007A,
+39 Idaho Code;
+
+3
+1 (d) The approved costs for border district allowance, provided in sec-
+2 tion 33-1403, Idaho Code, as determined by the state superintendent of
+3 public instruction;
+4 (e) The approved costs for exceptional child approved contract al-
+5 lowance, provided in subsection 2. of section 33-2004, Idaho Code, as
+6 determined by the state superintendent of public instruction;
+7 (f) Salary-based apportionment calculated as provided in sections
+8 33-1004 through 33-1004F, Idaho Code;
+9 (g) Unemployment insurance benefit payments according to the provi-
+10 sions of section 72-1349A, Idaho Code;
+11 (h) For expenditure as provided by the public school technology pro-
+12 gram;
+13 (i) For employee severance payments as provided in section 33-521,
+14 Idaho Code;
+15 (j) For distributions to the Idaho digital learning academy as provided
+16 in section 33-1020, Idaho Code;
+17 (k) For charter school facilities funds and reimbursements paid pur-
+18 suant to section 33-5207, Idaho Code;
+19 (l) For an online course portal as provided for in section 33-1024,
+20 Idaho Code;
+21 (m) For advanced opportunities as provided for in chapter 46, title 33,
+22 Idaho Code;
+23 (n) For additional math and science courses for high school students as
+24 provided in section 33-1021, Idaho Code;
+25 (o) For master teacher premiums as provided in section 33-1004I, Idaho
+26 Code;
+27 (p) For the support of provisions that provide a safe environment con-
+28 ducive to student learning and maintain classroom discipline, an allo-
+29 cation of three hundred dollars ($300) per support unit;
+30 (q) An amount specified in the appropriation bill for the public
+31 schools educational support program for counseling support as provided
+32 for in section 33-1212A, Idaho Code, shall be distributed for grades 8
+33 through 12 as follows:
+34 (i) For school districts and public charter schools with one hun-
+35 dred (100) or more students enrolled in grades 8 through 12, a pro
+36 rata distribution based on students enrolled in grades 8 through
+37 12 or eighteen thousand dollars ($18,000), whichever is greater;
+38 (ii) For school districts and public charter schools with fewer
+39 than one hundred (100) students enrolled in grades 8 through 12,
+40 one hundred eighty dollars ($180) per student enrolled in grades
+41 8 through 12 or nine thousand dollars ($9,000), whichever is
+42 greater;
+43 (r) An amount specified in the public schools educational support pro-
+44 gram appropriation bill for literacy intervention. The disbursements
+45 made to the school districts and public charter schools shall be calcu-
+46 lated as follows:
+47 (i) Fifty percent (50%) based on average full-time equivalent
+48 enrollment of students in kindergarten through grade 3 as of the
+49 first Friday in November;
+
+4
+1 (ii) Fifty percent (50%) based on the number of kindergarten
+2 through grade 3 students who move a full level or who are profi-
+3 cient from the spring-to-spring administration of the statewide
+4 reading assessment in the prior fiscal year or, if there is not a
+5 prior spring assessment for the student, from fall to spring; and
+6 (iii) Funds will be distributed to the school district or pub-
+7 lic charter school where the student is enrolled and takes the
+8 statewide reading assessment. Any school district or public char-
+9 ter school that has greater than one (1) but fewer than five (5)
+10 students in kindergarten through grade 3 will receive a minimum of
+11 two thousand dollars ($2,000). Economically disadvantaged stu-
+12 dents shall count as one and three quarters (1.75) students for the
+13 purpose of calculating the distribution of the funds in subpara-
+14 graph (ii) of this paragraph.
+15 (s) For mastery-based education as provided for in section 33-1632,
+16 Idaho Code; and
+17 (t) For pay for success contracting as provided in section 33-125B,
+18 Idaho Code; and
+19 (u) (t) Any additional amounts as required by statute to effect admin-
+20 istrative adjustments or as specifically required by the provisions of
+21 any bill of appropriation;
+22 to secure the total educational support distribution funds.
+23 (3) Average Daily Attendance. The total state average daily attendance
+24 shall be the sum of the average daily attendance of all of the school dis-
+25 tricts of the state. The state board of education shall establish rules set-
+26 ting forth the procedure to determine average daily attendance and the time
+27 for, and method of, submission of such report. Average daily attendance cal-
+28 culation shall be carried out to the nearest hundredth. Computation of av-
+29 erage daily attendance shall also be governed by the provisions of section
+30 33-1003A, Idaho Code.
+31 (4) Support Units. The total state support units shall be determined
+32 by using the tables set out hereafter called computation of kindergarten
+33 support units, computation of elementary support units, computation of sec-
+34 ondary support units, computation of exceptional education support units,
+35 and computation of alternative school support units. The sum of all of the
+36 total support units of all school districts of the state shall be the total
+37 state support units.
+38 COMPUTATION OF KINDERGARTEN SUPPORT UNITS
+39 Average Daily
+40 Attendance Attendance Divisor Units Allowed
+41 41 or more.... 40...................... 1 or more as computed
+42 31 - 40.99 ADA.... -....................... 1
+43 26 - 30.99 ADA.... -....................... .85
+44 21 - 25.99 ADA.... -....................... .75
+45 16 - 20.99 ADA.... -....................... .6
+46 8 - 15.99 ADA.... -....................... .5
+47 1 - 7.99 ADA.... -....................... count as elementary
+
+5
+1 COMPUTATION OF ELEMENTARY SUPPORT UNITS
+2 Average Daily Minimum Units
+3 Attendance Attendance Divisor Allowed
+4 300 or more ADA....... ............................... .. 15
+5 ..23...grades 4,5 & 6....
+6 ..22...grades 1,2 & 3....1994-95
+7 ..21...grades 1,2 & 3....1995-96
+8 ..20...grades 1,2 & 3....1996-97
+9 and each year thereafter.
+10 160 to 299.99 ADA... 20................................ 8.4
+11 110 to 159.99 ADA... 19................................ 6.8
+12 71.1 to 109.99 ADA... 16................................ 4.7
+13 51.7 to 71.0 ADA... 15................................ 4.0
+14 33.6 to 51.6 ADA... 13................................ 2.8
+15 16.6 to 33.5 ADA... 12................................ 1.4
+16 1.0 to 16.5 ADA... n/a............................... 1.0
+17 COMPUTATION OF SECONDARY SUPPORT UNITS
+18 Average Daily Minimum Units
+19 Attendance Attendance Divisor Allowed
+20 750 or more.... 18.5..............................47
+21 400 - 749.99 ADA.... 16................................28
+22 300 - 399.99 ADA.... 14.5..............................22
+23 200 - 299.99 ADA.... 13.5..............................17
+24 100 - 199.99 ADA.... 12................................9
+25 99.99 or fewer Units allowed as follows:
+26 Grades 7 - 12 ..................................8
+27 Grades 9 - 12 ..................................6
+28 Grades 7 - 9 ..................................1 per 14 ADA
+29 Grades 7 - 8 ..................................1 per 16 ADA
+30 COMPUTATION OF EXCEPTIONAL EDUCATION SUPPORT UNITS
+31 Average Daily Minimum Units
+32 Attendance Attendance Divisor Allowed
+33 14 or more.... 14.5..............................1 or more as
+34 computed
+35 12 - 13.99.... -.................................1
+36 8 - 11.99.... -..................................75
+
+6
+1 4 - 7.99.... -..................................5
+2 1 - 3.99.... -..................................25
+3 COMPUTATION OF ALTERNATIVE SCHOOL SUPPORT UNITS
+4 (Computation of alternative school support units shall include
+5 grades 6 through 12)
+6 Pupils in Attendance Attendance Divisor Minimum Units
+7 Allowed
+8 12 or more.......... 12................................ 1 or more as
+9 computed
+10 In applying these tables to any given separate attendance unit, no
+11 school district shall receive less total money than it would receive if it
+12 had a lesser average daily attendance in such separate attendance unit. In
+13 applying the kindergarten table to a kindergarten program of fewer days
+14 than a full school year, the support unit allowance shall be in ratio to the
+15 number of days of a full school year. The attendance of students attending
+16 an alternative school in a school district reporting fewer than one hundred
+17 (100) secondary students in average daily attendance shall not be assigned
+18 to the alternative table if the student is from a school district reporting
+19 fewer than one hundred (100) secondary students in average daily attendance,
+20 but shall instead be assigned to the secondary table of the school district
+21 in which they are attending the alternative school, unless the alternative
+22 school in question serves students from multiple districts reporting fewer
+23 than one hundred (100) secondary students in average daily attendance. The
+24 tables for exceptional education and alternative school support units shall
+25 be applicable only for programs approved by the state department of educa-
+26 tion following rules established by the state board of education. Moneys
+27 generated from computation of support units for alternative schools shall be
+28 utilized for alternative school programs. School district administrative
+29 and facility costs may be included as part of the alternative school expen-
+30 ditures.
+31 (5) State Distribution Factor per Support Unit. Divide educational
+32 support program distribution funds, after subtracting the amounts necessary
+33 to pay the obligations specified in subsection (2) of this section, by the
+34 total state support units to secure the state distribution factor per sup-
+35 port unit.
+36 (6) District Support Units. The number of support units for each school
+37 district in the state shall be determined as follows:
+38 (a)(i) Divide the actual average daily attendance, excluding stu-
+39 dents approved for inclusion in the exceptional child educational
+40 program for the administrative schools and each of the separate
+41 schools and attendance units, by the appropriate divisor from the
+42 tables of support units in this section, then add the quotients
+43 to obtain the district's support units allowance for regular stu-
+44 dents, kindergarten through grade 12 including alternative school
+45 students. Calculations in application of this subsection shall be
+46 carried out to the nearest hundredth.
+
+7
+1 (ii) Divide the combined totals of the average daily attendance
+2 of all preschool, kindergarten, elementary, secondary, juvenile
+3 detention center students and students with disabilities approved
+4 for inclusion in the exceptional child program of the district by
+5 the appropriate divisor from the table for computation of excep-
+6 tional education support units to obtain the number of support
+7 units allowed for the district's approved exceptional child pro-
+8 gram. Calculations for this subsection shall be carried out to the
+9 nearest hundredth when more than one (1) unit is allowed.
+10 (iii) The total number of support units of the district shall be
+11 the sum of the total support units for regular students, subpara-
+12 graph (i) of this paragraph, and the support units allowance for
+13 the approved exceptional child program, subparagraph (ii) of this
+14 paragraph.
+15 (b) Total District Allowance Educational Program. Multiply the dis-
+16 trict's total number of support units, carried out to the nearest hun-
+17 dredth, by the state distribution factor per support unit and to this
+18 product add the approved amount of programs of the district provided in
+19 subsection (2) of this section to secure the district's total allowance
+20 for the educational support program.
+21 (c) District Share. The district's share of state apportionment is the
+22 amount of the total district allowance, paragraph (b) of this subsec-
+23 tion.
+24 (d) Adjustment of District Share. The contract salary of every noncer-
+25 tificated teacher shall be subtracted from the district's share as cal-
+26 culated from the provisions of paragraph (c) of this subsection.
+27 (7) Property Tax Computation Ratio. In order to receive state funds
+28 pursuant to this section, a charter district shall utilize a school mainte-
+29 nance and operation property tax computation ratio for the purpose of calcu-
+30 lating its maintenance and operation levy that is no greater than that which
+31 it utilized in tax year 1994, less four-tenths of one percent (.4%). As used
+32 herein, the term "property tax computation ratio" shall mean a ratio deter-
+33 mined by dividing the district's certified property tax maintenance and op-
+34 eration budget by the actual or adjusted market value for assessment pur-
+35 poses as such values existed on December 31, 1993. Such maintenance and op-
+36 eration levy shall be based on the property tax computation ratio multiplied
+37 by the actual or adjusted market value for assessment purposes as such values
+38 existed on December 31 of the prior calendar year.
+39 SECTION 18. That Section 33-3304, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 33-3304. APPROPRIATION FOR THE DEPARTMENT OF EDUCATION AT IDAHO STATE
+42 UNIVERSITY. Fifty percent (50%) of all the moneys that now are in or which
+43 may hereafter accrue to the normal school income fund are hereby appropri-
+44 ated and set apart for the support and maintenance of the department of edu-
+45 cation at Idaho State University, the same to be available for such purpose
+46 immediately upon their being credited to the fund. Should the legislature,
+47 by adoption of a concurrent resolution in both houses, approve a memorandum
+48 of understanding negotiated by the Idaho department of parks and recreation
+49 between the city of Albion and other public or private agencies interested
+
+8
+1 in cooperative management of an Albion Normal School Field Institute within
+2 an Albion State Normal School state park complex, the percentage share for
+3 the department of education at Idaho State University shall be reduced from
+4 fifty percent (50%) to forty-seven percent (47%). In the event that the mem-
+5 orandum of understanding is not approved, section 33-3305, Idaho Code, shall
+6 apply.
+7 SECTION 19. An emergency existing therefor, which emergency is hereby
+8 declared to exist, this act shall be in full force and effect on and after
+9 July 1, 2026.

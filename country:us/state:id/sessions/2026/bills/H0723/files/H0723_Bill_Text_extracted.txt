@@ -1,0 +1,243 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 723
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD CARE LICENSING; PROVIDING LEGISLATIVE FINDINGS AND IN-
+3 TENT; AMENDING CHAPTER 12, TITLE 39, IDAHO CODE, BY THE ADDITION OF A
+4 NEW SECTION 39-1210A, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+5 THE DEPARTMENT'S QUALITY OF CARE OVERSIGHT; AMENDING CHAPTER 12, TI-
+6 TLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-1210B, IDAHO
+7 CODE, TO ESTABLISH PROVISIONS REGARDING INDIVIDUALIZED SERVICE PLAN-
+8 NING AND DOCUMENTATION REQUIREMENTS FOR RESIDENTIAL CARE FACILITIES;
+9 AMENDING CHAPTER 12, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+10 TION 39-1225, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING THE YOUTH
+11 BILL OF RIGHTS IN LICENSED CHILDREN'S RESIDENTIAL FACILITIES; AMEND-
+12 ING CHAPTER 12, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+13 39-1226, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING CRITICAL IN-
+14 CIDENT REPORTING IN LICENSED CHILDREN'S FACILITIES; AND DECLARING AN
+15 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+16 Be It Enacted by the Legislature of the State of Idaho:
+17 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. It is the intent of the Leg-
+18 islature to protect children in licensed children's residential care facil-
+19 ities through the creation of the Youth Bill of Rights, enhanced inspection
+20 and quality care oversight, and comprehensive critical incident report-
+21 ing. The Legislature finds that all children placed in licensed children's
+22 residential care facilities are entitled to be treated with dignity, pro-
+23 tected from harm, and fully informed of their rights. It is the intent of the
+24 Legislature that the Department of Health and Welfare establish, develop,
+25 distribute, post, and include an explanation and interpretation of the Youth
+26 Bill of Rights to ensure children and their families can exercise those
+27 rights during care and understand how to seek assistance or file complaints
+28 with the department. The Legislature further finds that Idaho's children
+29 and youth in licensed residential care facilities, when taking into account
+30 a child's individual needs, should expect to receive care that is safe, evi-
+31 dence-based, trauma-informed, and consistent with professional and ethical
+32 standards. It is the intent of the Legislature for the Department of Health
+33 and Welfare to establish a comprehensive framework for evaluating quality of
+34 care, staff competency, family engagement, and resident well-being across
+35 all licensed facilities, inspections to assess compliance with all appli-
+36 cable licensing rules and health and safety standards, and full and focused
+37 surveys to assess adherence to the Youth Bill of Rights.
+38 SECTION 2. That Chapter 12, Title 39, Idaho Code, be, and the same is
+39 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+40 ignated as Section 39-1210A, Idaho Code, and to read as follows:
+
+2
+1 39-1210A. QUALITY OF CARE OVERSIGHT -- INSPECTIONS AND INTERVIEWS
+2 -- LICENSING. (1) The department shall assess the quality of care of all
+3 licensed children's residential care facilities. To assess the quality of
+4 care, the department shall:
+5 (a) Conduct an annual unannounced inspection of each licensed residen-
+6 tial care facility and additional inspections as warranted by substan-
+7 tiated complaints, serious incidents, prior deficiencies, significant
+8 operational changes, or patterns of noncompliance. The annual inspec-
+9 tion shall include:
+10 (i) Review of the facility's quality assurance program required
+11 by the department, including documentation demonstrating its im-
+12 plementation and effectiveness in meeting residents' individual
+13 safety needs and service plan. Accreditation reports issued by a
+14 nationally recognized accrediting organization may be accepted as
+15 evidence of compliance with this requirement; and
+16 (ii) Review of the program description to ensure the facility's
+17 compliance with its approved program description and its capacity
+18 to serve the specific safety needs of each child.
+19 (b) Conduct announced and unannounced interviews and surveys with
+20 children in the facility to identify strengths and weaknesses of the
+21 program and then integrate the children's feedback into the quality
+22 improvement and licensing review processes;
+23 (c) Review adherence to the youth bill of rights; and
+24 (d) Conduct other activities as it deems appropriate.
+25 (2) As part of the licensing inspection process, the department shall
+26 conduct confidential, in-person interviews with a sample representative
+27 of current residents and facility staff selected exclusively by department
+28 personnel using an independent and objective process. Facility administra-
+29 tors or staff shall not participate in the selection of interviewees. The
+30 department shall document the findings of these interviews and incorporate
+31 the results into its overall compliance assessment, quality review, and any
+32 required corrective action plan.
+33 (3) Findings from inspections and interviews by the department that re-
+34 veal violations of licensing requirements, the youth bill of rights, docu-
+35 mentation requirements, or statutory protections shall be grounds for en-
+36 forcement action, including corrective plans, sanctions, or referral to the
+37 child abuse reporting hotline or law enforcement as appropriate. Addition-
+38 ally, upon a finding of a violation, the department shall:
+39 (a) Complete a critical incident report;
+40 (b) Uphold standards for interview procedures, documentation, and con-
+41 fidentiality;
+42 (c) Maintain the criteria for determining inspection frequency and
+43 scope; and
+44 (d) Maintain timelines for follow-up inspections and compliance veri-
+45 fications.
+46 SECTION 3. That Chapter 12, Title 39, Idaho Code, be, and the same is
+47 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+48 ignated as Section 39-1210B, Idaho Code, and to read as follows:
+
+3
+1 39-1210B. INDIVIDUALIZED SERVICE PLANNING AND DOCUMENTATION REQUIRE-
+2 MENTS FOR RESIDENTIAL CARE FACILITIES. (1) Residential care facilities
+3 shall document the following information at the time of a child's placement:
+4 (a) The physical and emotional state of the child upon intake;
+5 (b) The child's primary diagnosis;
+6 (c) The nature of the child's problems;
+7 (d) The child's physical, social, and emotional development and any
+8 special problems and needs the child may have; and
+9 (e) Reports on psychological tests, psychiatric examinations, and fol-
+10 low-up treatment, if obtained.
+11 (2) The facility shall develop and document an individualized service
+12 plan for each child. The initial individualized service plan shall be writ-
+13 ten within thirty (30) days after a child has been admitted to the facility
+14 and shall include:
+15 (a) The needs of the child and the child's family;
+16 (b) The goals for the child and time frames to achieve such goals;
+17 (c) The services the facility will provide to assure the safety, health,
+18 and well-being of the child; and
+19 (d) The criteria for discharge and the projected discharge date.
+20 (3) The facility shall update the individualized service plan every
+21 ninety (90) days to document the progress toward achieving the goals refer-
+22 enced in the initial plan.
+23 (4) If a child is placed in the facility for less than thirty (30) days,
+24 the initial service plan shall include, upon admission:
+25 (a) The immediate needs of the child; and
+26 (b) The services the facility will provide to assure the safety,
+27 health, and well-being of the child.
+28 (5) The facility shall complete a discharge summary written within
+29 seven (7) days of the discharge of a child, which shall include:
+30 (a) The date and reason for the child's discharge from the facility;
+31 (b) The physical, emotional, medical, and educational needs of the
+32 child; and
+33 (c) Recommendations for treatment.
+34 SECTION 4. That Chapter 12, Title 39, Idaho Code, be, and the same is
+35 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+36 ignated as Section 39-1225, Idaho Code, and to read as follows:
+37 39-1225. YOUTH BILL OF RIGHTS IN LICENSED CHILDREN'S RESIDENTIAL
+38 FACILITIES. (1) The department shall develop, publish, and periodically
+39 update a youth bill of rights that applies to all children residing in fa-
+40 cilities licensed by the department pursuant to this chapter and department
+41 rules. The youth bill of rights shall include, at a minimum, rights related
+42 to:
+43 (a) Physical and emotional safety;
+44 (b) Access to medical and behavioral health care;
+45 (c) Communication and visitation with family, legal representatives,
+46 and advocates;
+47 (d) Privacy and confidentiality;
+48 (e) Participation in educational and recreational activities;
+49 (f) Freedom from abuse, neglect, and unreasonable restraints;
+
+4
+1 (g) Fair grievance and complaint processes without retaliation; and
+2 (h) Reporting of concerns or violations to the department.
+3 (2) The youth bill of rights shall clearly be explained, in plain lan-
+4 guage appropriate for the child's age and abilities, how to contact the child
+5 abuse reporting hotline, including the phone number, website, and mailing
+6 address.
+7 (3) Each licensed children's residential facility shall:
+8 (a) Post the youth bill of rights in a prominent, public area of the fa-
+9 cility accessible to children and visitors;
+10 (b) Distribute a copy of the youth bill of rights to each child and the
+11 child's parent or legal guardian at the time of admission and upon re-
+12 quest thereafter;
+13 (c) Interpret and explain the youth bill of rights to the child and fam-
+14 ily in age-appropriate and culturally and linguistically appropriate
+15 formats, including provision of interpretation services for limited-
+16 English-proficient and disabled persons as necessary;
+17 (d) Document that the youth bill of rights has been provided and ex-
+18 plained, including the date, the recipients' names, and the name of the
+19 staff member who conducted the explanation;
+20 (e) Ensure that children are provided with access to private and un-
+21 monitored communication with the child abuse reporting hotline upon re-
+22 quest;
+23 (f) Document compliance with mandated requirements; and
+24 (g) Adopt processes and procedures for children to confidentially con-
+25 tact the child abuse reporting hotline and for staff to assist children
+26 in doing so when requested.
+27 (4) The department shall develop enforcement mechanisms and penalties
+28 for noncompliance with this section, including consideration as a licensing
+29 violation.
+30 (5) No child or family member may be retaliated against for invoking or
+31 attempting to exercise any right provided in the youth bill of rights or for
+32 contacting the child abuse reporting hotline. Retaliation shall constitute
+33 a licensing violation subject to corrective action and potential sanctions
+34 determined by the department.
+35 SECTION 5. That Chapter 12, Title 39, Idaho Code, be, and the same is
+36 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+37 ignated as Section 39-1226, Idaho Code, and to read as follows:
+38 39-1226. CRITICAL INCIDENT REPORTING IN LICENSED CHILDREN'S FACILI-
+39 TIES. (1) As used in this section, "critical incident" means any event that
+40 threatens or significantly impacts the physical or psychological safety,
+41 health, rights, or well-being of a child in a licensed children's residen-
+42 tial care facility, including but not limited to:
+43 (a) The death of a child;
+44 (b) A suicide attempt or serious self-harm;
+45 (c) Use of physical restraint, seclusion, or any emergency safety in-
+46 tervention;
+47 (d) Denial or unreasonable delay of requested or necessary medical
+48 care;
+
+5
+1 (e) Admission to, or transport to or from, a hospital or emergency medi-
+2 cal facility;
+3 (f) Any allegation or incident of physical, sexual, or emotional abuse
+4 or harm;
+5 (g) Any child detained, charged, or arrested by law enforcement or a
+6 regulatory agency;
+7 (h) Any unauthorized absence, runaway, or attempted elopement;
+8 (i) Any fire, evacuation, or environmental hazard on site;
+9 (j) Any condition of the facility that poses an immediate threat to
+10 health or safety; and
+11 (k) Any other incident designated by the department by rule.
+12 (2) Each licensed children's residential facility shall:
+13 (a) Notify the department by close of the next business day of any crit-
+14 ical incident using the department-approved reporting process;
+15 (b) Notify the child's parent, legal guardian, or placing agency of the
+16 incident by close of the next business day, unless prohibited by court
+17 order or safety concerns documented by the agency; and
+18 (c) Maintain an internal critical incident log and supporting documen-
+19 tation, including incident reports, staff notes, and any follow-up or
+20 investigation records, which shall be made available for review during
+21 inspections.
+22 (3) All reports and logs must protect personally identifiable infor-
+23 mation and comply with applicable state and federal confidentiality laws,
+24 including the health insurance portability and accountability act and the
+25 family educational rights and privacy act, as applicable. The department
+26 shall:
+27 (a) Maintain and safeguard content of critical incident reports;
+28 (b) Follow best practices for emergency safety interventions;
+29 (c) Conduct reviews, follow-up, and data analysis of reported inci-
+30 dents; and
+31 (d) Publicize the results with any substantiated findings and enforce-
+32 ment actions.
+33 (4) This section shall not be construed to alter any reporting require-
+34 ments pursuant to section 16-1605, Idaho Code.
+35 SECTION 6. An emergency existing therefor, which emergency is hereby
+36 declared to exist, this act shall be in full force and effect on and after
+37 July 1, 2026.

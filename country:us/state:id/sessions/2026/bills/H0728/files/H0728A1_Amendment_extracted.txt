@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Carlson
+Seconded by Kohl
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 728
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 31, following "employment;" in-
+3 sert: "or"; delete lines 32 through 34; and in line 35, delete "(c)" and in-
+4 sert: "(b)".
+5 On page 3, following line 28, insert:
+6 "(17) "Instructional support staff" means those who hold an Idaho
+7 certificate issued pursuant to section 33-1201, Idaho Code, whose primary
+8 employment involves supporting instructional staff, pupil service staff, or
+9 administrators with instruction-related services. This includes mentor-
+10 ing, curriculum coaching, or other instruction support positions.";
+11 in line 29, delete "(17)" and insert: "(18)"; in line 32, delete "(18)" and
+12 insert: "(19)"; and in line 38, delete "(19)" and insert: "(20)".
+13 On page 4, in line 22, delete "(20)" and insert: "(21)"; in line 29,
+14 delete "(21)" and insert: "(22)"; and in line 31, delete "(22)" and insert:
+15 "(23)".
+16 On page 5, in line 4, delete "(23)" and insert: "(24)"; in line 7, delete
+17 "(24)" and insert: "(25)"; in line 11, delete "(25)" and insert: "(26)";
+18 in line 13, delete "(26)" and insert: "(27)"; in line 16, delete "(27)" and
+19 insert: "(28)"; in line 18, delete "(28)" and insert: "(29)"; in line 25,
+20 delete "(29)" and insert: "(30)"; in line 31, delete "(30)" and insert:
+21 "(31)"; in line 35, delete "(31)" and insert: "(32)"; in line 42, delete
+22 "(32)" and insert: "(33)"; and in line 46, delete "(33)" and insert: "(34)".
+23 On page 6, in line 17, delete "(34)" and insert: "(35)"; in line 21,
+24 delete "(35)" and insert: "(36)"; and in line 24, delete "(36)" and insert:
+25 "(37)".

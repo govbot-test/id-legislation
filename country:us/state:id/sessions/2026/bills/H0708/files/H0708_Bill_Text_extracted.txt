@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 708
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO THE HOMEOWNER'S ASSOCIATION ACT; AMENDING CHAPTER 32, TITLE 55,
+3 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 55-3204C, IDAHO CODE, TO ES-
+4 TABLISH PROVISIONS REGARDING THE AUTOMATIC DISSOLUTION OF HOMEOWNER'S
+5 ASSOCIATIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 32, Title 55, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 55-3204C, Idaho Code, and to read as follows:
+11 55-3204C. AUTOMATIC DISSOLUTION OF HOMEOWNER'S ASSOCIATIONS. (1) Any
+12 homeowner's association that has been in existence for ten (10) years or
+13 more, pursuant to the date of filing of the articles of incorporation, as
+14 of July 1, 2026, shall automatically dissolve on July 1, 2029, unless its
+15 members vote against such dissolution pursuant to the provisions of this
+16 section. Any homeowner's association that has been in existence for less
+17 than ten (10) years as of July 1, 2026, or that is created after July 1, 2026,
+18 shall automatically dissolve after ten (10) years from the date of filing of
+19 the articles of incorporation unless its members vote against such dissolu-
+20 tion pursuant to the provisions of this section.
+21 (2) A homeowner's association shall hold a meeting of its membership
+22 before the automatic dissolution dates provided for in subsection (1) of
+23 this section to provide an opportunity for its members to vote against
+24 the automatic dissolution of the homeowner's association. A homeowner's
+25 association shall give notice to its members of the proposed meeting in ac-
+26 cordance with the provisions of section 30-30-505, Idaho Code. The notice
+27 shall state that the purpose, or one (1) of the purposes, of the meeting is
+28 to consider the automatic dissolution of the homeowner's association and
+29 shall contain or be accompanied by a copy or summary of a plan of dissolution.
+30 Automatic dissolution of a homeowner's association shall not occur if a ma-
+31 jority of the eligible voters vote against such automatic dissolution.
+32 (3) Unless otherwise provided for in the declaration or governing doc-
+33 uments, all common property, including common areas, limited common areas,
+34 other property or improvements owned or maintained by a homeowner's associa-
+35 tion, or property owned in common by the members of a homeowner's association
+36 shall remain dedicated to the common use of the members of the homeowner's
+37 association. The plan of dissolution shall provide for the disposition of
+38 the assets of a homeowner's association by transfer to a successor entity,
+39 the lot owners, or a local government.
+40 (4) If members of a homeowner's association do not vote against the au-
+41 tomatic dissolution of the homeowner's association, the homeowner's asso-
+42 ciation shall dissolve pursuant to the plan of dissolution. If members of a
+
+2
+1 homeowner's association vote against the automatic dissolution of the home-
+2 owner's association, the homeowner's association shall continue under the
+3 same terms. Homeowner's associations shall automatically dissolve ten (10)
+4 years after the date of the first successful vote against automatic disso-
+5 lution. Automatic dissolution shall occur every ten (10) years thereafter
+6 while a homeowner's association is in existence unless and until the members
+7 fail to vote against such dissolution and the homeowner's association is au-
+8 tomatically dissolved as provided in this section.
+9 SECTION 2. An emergency existing therefor, which emergency is hereby
+10 declared to exist, this act shall be in full force and effect on and after
+11 July 1, 2026.

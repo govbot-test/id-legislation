@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 576
+BY TRANSPORTATION AND DEFENSE COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO CONSUMER ASSET RECOVERY FUND; AMENDING SECTION
+3 49-1608E, IDAHO CODE, TO ESTABLISH PROVISIONS FOR IDAHO RESIDENTS; AND
+4 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 49-1608E, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 49-1608E. SUBMISSION OF CLAIMS. (1) Except as otherwise provided in
+9 this section, whenever any person an Idaho resident or a person who was an
+10 Idaho resident at the time of purchase is awarded a final judgment certified
+11 in a court of competent jurisdiction in the state of Idaho for:
+12 (a) Any actual loss or damage in connection with the purchase or lease
+13 of a motor vehicle by reason of any fraud practiced on him or fraudulent
+14 representation made to him by a licensed motor vehicle dealer; or
+15 (b) Any actual loss or damage by reason of a violation by a dealer of any
+16 of the provisions of chapter 6, title 48, Idaho Code, chapter 5, title
+17 49, Idaho Code, or section 49-1418, Idaho Code, in connection with the
+18 purchase or lease of a motor vehicle on or after July 1, 2014,;
+19 the judgment creditor may file a verified claim with the board requesting
+20 payment from the fund of the amount unpaid on the judgment.
+21 (2) Verified claims filed pursuant to subsection (1) of this section
+22 shall be subject to the following conditions:
+23 (i) (a) Unless the judgment has been appealed, the claim shall be filed
+24 with the department, acting on behalf of the board, no sooner than
+25 forty-five (45) days and no later than one (1) year after the judgment
+26 becomes final.
+27 (ii) (b) The board shall not consider claims submitted by motor vehicle
+28 dealers, financial institutions or institutions providing floorplans
+29 for motor vehicle dealers.
+30 (2) (3) To For a person to be eligible to receive any payment from the
+31 fund, any such person must be an Idaho resident or an Idaho resident at the
+32 time of the purchase of the motor vehicle. Any action instituted by a person
+33 against a licensee that may become a claim against the fund shall be served to
+34 the board in a manner consistent with the provisions of section 48-613, Idaho
+35 Code.
+36 SECTION 2. An emergency existing therefor, which emergency is hereby
+37 declared to exist, this act shall be in full force and effect on and after
+38 July 1, 2026.

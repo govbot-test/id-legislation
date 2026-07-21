@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1337
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO IRRIGATION DISTRICTS; AMENDING SECTION 43-201, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING IRRIGATION DISTRICT DIRECTORS; AND DECLAR-
+4 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 43-201, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 43-201. ELECTION, TERM OF OFFICE, NOMINATIONS AND QUALIFICATIONS. (1)
+9 Following the organization of any district, an election shall be held in ac-
+10 cordance with section 34-106, Idaho Code, at which shall be elected one (1)
+11 director for each division of said district by the electors of the district
+12 at large.
+13 (2) The term of office of the directors shall, immediately after the
+14 first election following such organization, be selected by lot so that as
+15 nearly as may be one-third (1/3) of the number shall hold office for the term
+16 of one (1) year, one-third (1/3) for the term of two (2) years, and the bal-
+17 ance for the term of three (3) years. An election shall be held in the dis-
+18 trict each year thereafter in accordance with section 34-106, Idaho Code, to
+19 elect directors to succeed those whose terms expire. Each director's term
+20 of office shall commence on the regularly scheduled board meeting closest
+21 to the date specified for taking office in section 34-106, Idaho Code, and
+22 shall continue for a term of three (3) years and until their successors are
+23 elected and qualified. If no director is elected and qualified at the end of
+24 an incumbent director's three (3) year term, an election shall be held at the
+25 next regular election of the irrigation district for the incumbent direc-
+26 tor's successor to hold office for the remainder of the unexpired term. This
+27 election requirement shall apply retroactively where an incumbent director
+28 remains in office on the date of the effective date of this act because the
+29 incumbent's successor was not elected and qualified in the 2012 election.
+30 (3)(a) Every director must be a qualified elector and a resident of the
+31 division of the director whom he is to succeed in office; provided that
+32 the:
+33 (i) The district's bylaws may, by resolution of two-thirds (2/3)
+34 of the board and adoption by two-thirds (2/3) of the electors
+35 voting in a district election conducted in accordance with the
+36 general election laws of the state applicable to irrigation dis-
+37 tricts, set forth a provision allowing a district landowner to
+38 serve as the director from the division in which the landowner owns
+39 land, if the landowner possesses all the qualifications required
+40 of electors under the general laws of the state and has resided
+41 within fifteen (15) miles of the district for a period of at least
+42 thirty (30) days prior to the election; provided further that any
+
+2
+1 landowner who owns land in more than one (1) division may serve as
+2 the director only from the division nearest which he resides.; and
+3 (ii) Any landowner who owns land in more than one (1) division may
+4 serve as the director only from the division nearest which he re-
+5 sides.
+6 (b) Notwithstanding any other provision of this subsection, for dis-
+7 tricts of fifteen thousand (15,000) acres or less, and upon approval of
+8 two-thirds (2/3) of the board, a district landowner may serve as a di-
+9 rector from a division in which the landowner owns land as long as the
+10 landowner resides in the county where some portion of the district is
+11 located or in an adjoining county.
+12 (4) Candidates for election to the office of director of an irrigation
+13 district shall be nominated by nominating petitions on forms provided by the
+14 district. Each nominating petition shall:
+15 (a) Identify the name of the nominee;
+16 (b) Identify the office for which the nomination is made;
+17 (c) Identify the term for which nomination is made;
+18 (d) Be signed by at least six (6) electors in districts having less than
+19 one hundred (100) resident electors and by at least twelve (12) electors
+20 in districts having more than one hundred (100) resident electors; and
+21 (e) Be filed with the secretary of the district not less than forty (40)
+22 days or more than sixty (60) days before the date of election; and the
+23 names of the persons so nominated shall be placed upon the official bal-
+24 lot to be furnished by the district.
+25 (5) Each nominee shall subscribe to a nominee's oath on a form provided
+26 by the irrigation district and shall submit the oath to the secretary of the
+27 district with the written nomination. The oath shall:
+28 (a) Identify the land the nominee owns within the district;
+29 (b) Provide the address of the nominee's residence;
+30 (c) Certify that the nominee meets the residency and qualification re-
+31 quirements of subsection (3) of this section and section 43-111, Idaho
+32 Code; and
+33 (d) Certify that the nominee will meet such requirements on the date of
+34 election.
+35 The secretary of the district shall verify the qualifications of each nom-
+36 inee and shall, no more than seven (7) days after the close of filing, cer-
+37 tify the qualified nominees for inclusion on the election ballot. If at any
+38 time prior to the election, circumstances change so that a nominee no longer
+39 meets the qualification requirements of section 43-111, Idaho Code, the nom-
+40 inee shall be disqualified, shall not take office if elected, and shall im-
+41 mediately file with the secretary of the district a written withdrawal of his
+42 nomination for the office of director. The secretary shall not place on the
+43 election ballot the name of any candidate that does not meet the qualifica-
+44 tion requirements of section 43-111, Idaho Code.
+45 SECTION 2. An emergency existing therefor, which emergency is hereby
+46 declared to exist, this act shall be in full force and effect on and after
+47 July 1, 2026.

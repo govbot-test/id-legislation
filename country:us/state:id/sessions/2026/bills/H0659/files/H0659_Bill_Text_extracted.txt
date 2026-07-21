@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 659
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO A MEMORANDUM OF AGREEMENT WITH IMMIGRATION AND CUSTOMS ENFORCE-
+3 MENT; AMENDING CHAPTER 6, TITLE 19, IDAHO CODE, BY THE ADDITION OF A NEW
+4 SECTION 19-626, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING LAW EN-
+5 FORCEMENT ENTERING INTO A MEMORANDUM OF AGREEMENT WITH IMMIGRATION AND
+6 CUSTOMS ENFORCEMENT; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+7 TIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 6, Title 19, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 19-626, Idaho Code, and to read as follows:
+12 19-626. MEMORANDUM OF AGREEMENT WITH IMMIGRATION AND CUSTOMS ENFORCE-
+13 MENT. (1) As used in this section:
+14 (a) "Enforcement and removal operations" means the directorate of
+15 United States immigration and customs enforcement under the department
+16 of homeland security that manages all aspects of the immigration en-
+17 forcement process, including the identification, arrest, detention,
+18 and removal of aliens who are subject to removal or are unlawfully
+19 present in the United States.
+20 (b) "Immigration and customs enforcement" means the federal law en-
+21 forcement agency under the department of homeland security, with the
+22 primary mission to promote homeland security and public safety through
+23 criminal and civil enforcement of federal laws governing border con-
+24 trol, customs, trade, and immigration.
+25 (c) "Law enforcement agency" means any law enforcement agency of any
+26 political subdivision of the state, including any municipal police de-
+27 partment or county sheriff's department.
+28 (d) "Section 287(g)" refers to section 287(g) of the immigration and
+29 nationality act, 8 U.S.C. 1357(g), that permits the delegation of cer-
+30 tain immigration enforcement functions to local law enforcement agen-
+31 cies and that enables specially trained local peace officers to perform
+32 specific functions relating to the investigation, apprehension, or de-
+33 tention of noncitizens during a predetermined time frame and under fed-
+34 eral oversight by immigration and customs enforcement.
+35 (2) Each law enforcement agency in this state shall make an application
+36 for a section 287(g) program for which the local or county law enforcement
+37 agency is eligible, including but not limited to the jail enforcement model
+38 and the warrant service officer model operated by the department of homeland
+39 security, and shall participate in any future program or successor to an ex-
+40 isting program.
+41 (3) If a law enforcement agency is unable to enter into a section 287(g)
+42 memorandum of agreement, such agency shall publish a statement declaring the
+
+2
+1 reasons for its inability to enter into the memorandum and any efforts made
+2 to establish alternate cooperation with enforcement and removal operations
+3 of immigration and customs enforcement.
+4 SECTION 2. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after
+6 July 1, 2026.

@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1286
+BY COMMERCE AND HUMAN RESOURCES COMMITTEE
+1 AN ACT
+2 RELATING TO CONSUMER PROTECTION OF VETERANS BENEFITS; AMENDING CHAPTER 6,
+3 TITLE 48, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 48-603H, IDAHO
+4 CODE, TO ESTABLISH PROVISIONS REGARDING VETERANS BENEFITS CONSUMER
+5 PROTECTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 6, Title 48, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 48-603H, Idaho Code, and to read as follows:
+11 48-603H. VETERANS BENEFITS CONSUMER PROTECTIONS. (1) As used in this
+12 section:
+13 (a) "Compensation" means a payment of any money, thing of value, or fi-
+14 nancial benefit.
+15 (b) "Veterans benefits matter" means the preparation, presentation, or
+16 prosecution of, or advertising or consulting for, any claim affecting
+17 any person who has filed or expressed an intent to file a claim for any
+18 benefit, program, service, commodity, function, or status to which en-
+19 titlement is determined under the laws and regulations administered by
+20 the United States department of veterans affairs, the United States de-
+21 partment of war, or the Idaho division of veterans services pertaining
+22 to veterans, veterans' dependents or survivors, or any other individ-
+23 ual eligible for such benefit, program, service, commodity, function,
+24 or status.
+25 (2)(a) Except as permitted under federal law, no individual shall re-
+26 ceive compensation for a veterans benefits matter before the United
+27 States department of veterans affairs, the United States department of
+28 war, or the Idaho division of veterans services.
+29 (b) No person shall receive compensation for referring any individ-
+30 ual to another person for a veterans benefits matter before the United
+31 States department of veterans affairs, the United States department of
+32 war, or the Idaho division of veterans services.
+33 (3) Persons not accredited by the United States department of veterans
+34 affairs and not acting as agents or attorneys but seeking to receive compen-
+35 sation for any veterans benefits matter shall enter into a written fee agree-
+36 ment signed by both parties. Such agreement shall provide that compensation
+37 is contingent on an increase in benefits awarded, and if successful, compen-
+38 sation shall not exceed five (5) times the amount of the monthly increase in
+39 benefits awarded based on the claim. No initial or nonrefundable fee may be
+40 charged by a person handling a veterans benefits matter.
+41 (4) Any person receiving compensation for a veterans benefit matter
+42 pursuant to subsection (3) of this section shall provide the following writ-
+
+2
+1 ten disclosure clearly and conspicuously before the consumer signs the fee
+2 agreement:
+3 This business is not sponsored by or affiliated with the United
+4 States Department of Veterans Affairs, the Idaho Division of
+5 Veterans Services, or any federally chartered veterans service
+6 organization. Other organizations, including but not limited to
+7 the Idaho Division of Veterans Services, local veterans service
+8 organizations, and federally chartered veterans service organiza-
+9 tions, may be able to provide you with this service free of charge.
+10 Products or services offered by this business are not necessarily
+11 endorsed by any of these organizations. You may qualify for other
+12 veterans benefits beyond the benefits for which you are receiving
+13 services here.
+14 (5) Any person receiving compensation for a veterans benefits matter
+15 under a fee agreement pursuant to subsection (3) of this section:
+16 (a) May not utilize international call centers or data centers for pro-
+17 cessing veterans' personal information;
+18 (b) May not use a veteran's personal log-in, username, or password in-
+19 formation to access a veteran's medical, financial, or government bene-
+20 fits information;
+21 (c) Shall ensure that any individual who has access to a veteran's medi-
+22 cal or financial information undergoes a background check prior to hav-
+23 ing access to such information. The background check must be conducted
+24 by a reputable source and include identity verification and a criminal
+25 records check; and
+26 (d) May not receive any compensation for any services rendered in con-
+27 nection with any claim filed within the one (1) year presumptive period
+28 of active-duty release, unless the veteran acknowledges in writing that
+29 the veteran is within this period and choosing to deny available free
+30 services.
+31 (6) Nothing in this section shall be construed as applying to, limit-
+32 ing, or expanding the requirements imposed on agents, attorneys, or other
+33 representatives accredited and regulated by the United States department of
+34 veterans affairs.
+35 SECTION 2. An emergency existing therefor, which emergency is hereby
+36 declared to exist, this act shall be in full force and effect on and after
+37 July 1, 2026.

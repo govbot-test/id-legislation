@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 774
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO DEPARTMENT OF FISH AND GAME; PROVIDING LEGISLATIVE IN-
+3 TENT; REPEALING SECTION 36-1120, IDAHO CODE, RELATING TO PENALTIES; AND
+4 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. IDAHO CODE CLEANUP -- LEGISLATIVE INTENT. It is the intent
+7 of the Legislature to ensure that the state laws provided in Idaho Code are
+8 streamlined, up-to-date, and essential for the citizens of Idaho, while best
+9 serving the public health, safety, and welfare. In accordance with the Idaho
+10 Code Cleanup Act, following comprehensive review, the Legislature has iden-
+11 tified the provisions of this act as obsolete, outdated, or unnecessary.
+12 SECTION 2. That Section 36-1120, Idaho Code, be, and the same is hereby
+13 repealed.
+14 SECTION 3. An emergency existing therefor, which emergency is hereby
+15 declared to exist, this act shall be in full force and effect on and after
+16 July 1, 2026.

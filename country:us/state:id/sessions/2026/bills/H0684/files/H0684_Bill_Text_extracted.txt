@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 684
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO COUNTY SHERIFFS; AMENDING CHAPTER 6, TITLE 20, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 20-629, IDAHO CODE, TO AUTHORIZE A SHERIFF'S
+4 OFFICE TO SEEK REIMBURSEMENT FOR COSTS OF RECAPTURE; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 6, Title 20, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 20-629, Idaho Code, and to read as follows:
+10 20-629. COSTS FOR RECAPTURE. Whenever any Idaho county sheriff's of-
+11 fice is required to expend money from its budget in order to travel to another
+12 state to collect a prisoner, probationer, or parolee who has absconded from
+13 the supervision of the Idaho department of correction, the sheriff, upon
+14 completion of the collection of the prisoner, probationer, or parolee and
+15 the placement of such person in the county jail, may seek reimbursement for
+16 the cost of returning the person to Idaho from the agency from which the
+17 person absconded as indicated in court records. Such reimbursement shall
+18 be sought by submitting an invoice detailing the cost of such recapture,
+19 including any mileage or travel costs, costs for personnel, overtime costs
+20 associated with coverage for traveling personnel, or any other reasonable
+21 costs associated with returning the absconding person to custody in Idaho.
+22 The Idaho department of correction shall appropriate moneys annually for
+23 expenses as provided in this section and shall, upon receiving the invoice
+24 from a county sheriff's office, ensure reimbursement occurs within thirty
+25 (30) days of receiving such invoice.
+26 SECTION 2. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

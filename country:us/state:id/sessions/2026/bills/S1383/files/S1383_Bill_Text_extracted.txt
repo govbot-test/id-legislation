@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1383
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE DIVISION OF VETERANS SERVICES; APPRO-
+3 PRIATING ADDITIONAL MONEYS TO THE DIVISION OF VETERANS SERVICES FOR
+4 FISCAL YEAR 2027; REDUCING THE APPROPRIATION TO THE DIVISION OF VETER-
+5 ANS SERVICES FOR FISCAL YEAR 2027; PROVIDING REAPPROPRIATION AUTHORITY
+6 FOR THE FEDERAL GRANT FUND; AND DECLARING AN EMERGENCY AND PROVIDING AN
+7 EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. In addition to any other appropriation provided by law,
+10 there is hereby appropriated to the Division of Veterans Services the fol-
+11 lowing amounts to be expended according to the designated expense classes
+12 from the listed funds for the period July 1, 2026, through June 30, 2027:
+13 FOR FOR
+14 OPERATING CAPITAL
+15 EXPENDITURES OUTLAY TOTAL
+16 FROM:
+17 Veterans Home Endowment Income
+18 Fund $124,800 $618,800 $743,600
+19 Federal Grant
+20 Fund 0 220,000 220,000
+21 TOTAL $124,800 $838,800 $963,600
+22 SECTION 2. Notwithstanding any other appropriation provided by law to
+23 the contrary, the appropriation made to the Division of Veterans Services is
+24 hereby reduced by $51,000 for operating expenditures from the Federal Grant
+25 Fund for the period July 1, 2026, through June 30, 2027.
+26 SECTION 3. REAPPROPRIATION AUTHORITY. There is hereby reappropriated
+27 to the Division of Veterans Services any unexpended and unencumbered bal-
+28 ances appropriated or reappropriated to the division from the Federal Grant
+29 Fund for fiscal year 2026, to be used for nonrecurring expenditures related
+30 to the replacement of the state veterans home in Boise and the renovation of
+31 the state veterans home in Lewiston for the period July 1, 2026, through June
+32 30, 2027. The Office of the State Controller shall confirm the reappropri-
+33 ation amounts, by fund and expense class, with the Legislative Services Of-
+34 fice prior to processing the reappropriation authorized herein.
+35 SECTION 4. An emergency existing therefor, which emergency is hereby
+36 declared to exist, this act shall be in full force and effect on and after
+37 July 1, 2026.

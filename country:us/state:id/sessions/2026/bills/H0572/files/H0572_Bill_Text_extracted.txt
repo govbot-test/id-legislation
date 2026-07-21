@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 572
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT; AMEND-
+3 ING CHAPTER 10, TITLE 32, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+4 32-1016, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO PROVIDE LEGISLATIVE
+5 FINDINGS AND INTENT, TO DEFINE TERMS, TO ESTABLISH PROVISIONS REGARDING
+6 CERTAIN PROHIBITED ACTS, TO PROVIDE FOR CIVIL ACTIONS, AND TO PROVIDE
+7 FOR ATTORNEY GENERAL ENFORCEMENT; PROVIDING SEVERABILITY; AND DECLAR-
+8 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 10, Title 32, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 32-1016, Idaho Code, and to read as follows:
+13 32-1016. PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT. (1)
+14 This section shall be known and may be cited as the "Pediatric Secretive
+15 Transitions Parental Rights Act."
+16 (2) The legislature finds that:
+17 (a) Parents have a fundamental right to raise their children and make
+18 medical and educational decisions on their behalf;
+19 (b) Medical and social sex transitions can inflict severe and irre-
+20 versible harm to a child's well-being; and
+21 (c) It is undoubtedly a parental purview and prerogative to have knowl-
+22 edge of, and the authority to deny, a child's efforts at sex transition
+23 procedures or social transitions.
+24 (3) It is the intent of the legislature to prohibit any health care
+25 provider, educational institution, or mandated reporter of child neglect
+26 or abuse from facilitating a pediatric sex transition or social transition
+27 without informing and obtaining informed consent from a minor child's par-
+28 ents or guardians.
+29 (4) As used in this section:
+30 (a) "Aggrieved person" means the parent or guardian of a child sub-
+31 jected to social transition or sex transition procedures.
+32 (b) "Child" means an individual who is less than eighteen (18) years of
+33 age and who is not married or legally emancipated.
+34 (c) "Covered entity" means a mandated reporter of child abuse or
+35 neglect pursuant to state law, a primary or secondary educational in-
+36 stitution, a child care provider, or a medical, behavioral, or mental
+37 health care provider.
+38 (d)(i) "Sex transition procedure" means engaging in any one (1)
+39 or more of the following for the purpose of: (i) intentionally de-
+40 laying, halting, or disrupting the natural development of an in-
+41 dividual's body, including the onset or progression of puberty, so
+42 that it does not develop or halts developing to correspond to the
+
+2
+1 individual's sex; or (ii) intentionally changing an individual's
+2 body, including the individual's external appearance or biologi-
+3 cal functions, to no longer correspond to the individual's sex:
+4 1. The use of puberty blockers, including gonadotropin re-
+5 leasing hormone agonists and antagonists;
+6 2. The use of sex hormones, such as androgen blockers, es-
+7 trogen, anti-estrogen, progesterone, testosterone, or di-
+8 hydrotestosterone blockers; or
+9 3. Surgical procedures that attempt to transform an indi-
+10 vidual's physical appearance or that attempt to alter or re-
+11 move an individual's sexual organs.
+12 (ii) "Sex transition procedure" does not include:
+13 1. Appropriate and medically necessary procedures to treat
+14 a verifiable disorder of sexual development, including an
+15 individual born with forty-six (46) XX chromosomes with vir-
+16 ilization, an individual born with forty-six (46) XY chromo-
+17 somes with undervirilization, or an individual having both
+18 ovarian and testicular tissue;
+19 2. The treatment of any infection, injury, disease, or dis-
+20 order that has been caused or exacerbated by the performance
+21 of an intervention described in paragraph (d)(i) of this
+22 section without regard to whether the intervention was per-
+23 formed in accordance with state or federal law; or
+24 3. Any intervention undertaken because an individual suf-
+25 fers from any diagnosed and verifiable condition of the
+26 body's organ systems, including traumatic bodily injuries,
+27 congenital structural anomalies of major organs or systems,
+28 or acute illnesses with a high probability of rapid mortal-
+29 ity.
+30 (e) "Social transition" means the nonmedical process by which an in-
+31 dividual adopts a name, pronouns, appearance, or mannerisms associated
+32 with a gender other than from such individual's biological sex.
+33 (5) A covered entity shall not withhold information from a child's par-
+34 ent or guardian related to the parent's child's expressed interest in or de-
+35 sire for sex transition procedures.
+36 (6) A covered entity shall not facilitate or contribute to a child's ef-
+37 forts to obtain sex transition procedures without the express written con-
+38 sent of such child's parent or guardian.
+39 (7) An aggrieved person may commence an action at law or equity in a
+40 court of competent jurisdiction against a covered entity for violations of
+41 this section.
+42 (8) If an aggrieved person proves that a covered entity violated the
+43 provisions of this section, such aggrieved person is entitled to recover:
+44 (a) Declaratory relief;
+45 (b) Injunctive relief;
+46 (c) Statutory damages of not less than fifty thousand dollars ($50,000)
+47 assessed against the covered entity found by a court or jury to have vio-
+48 lated this section;
+49 (d) Compensatory damages; and
+50 (e) Reasonable costs and attorney's fees.
+
+3
+1 (9) The attorney general shall have the authority to investigate alle-
+2 gations of violations of this section.
+3 (10) In addition to any relief granted to aggrieved persons under a
+4 civil action, the attorney general may seek civil penalties of up to one hun-
+5 dred thousand dollars ($100,000) against a covered entity for violation of
+6 this section. Such civil penalties shall be deposited in the state general
+7 fund.
+8 (11) The attorney general may file suit for a writ of mandamus com-
+9 pelling covered entities to comply with the provisions of this section.
+10 SECTION 2. SEVERABILITY. The provisions of this act are hereby declared
+11 to be severable and if any provision of this act or the application of such
+12 provision to any person or circumstance is declared invalid for any reason,
+13 such declaration shall not affect the validity of the remaining portions of
+14 this act.
+15 SECTION 3. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

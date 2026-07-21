@@ -1,0 +1,364 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 496
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO PODIATRISTS; REPEALING CHAPTER 6, TITLE 54, IDAHO CODE, RELATING
+3 TO PODIATRISTS; AMENDING TITLE 54, IDAHO CODE, BY THE ADDITION OF A NEW
+4 CHAPTER 6, TITLE 54, IDAHO CODE, TO DEFINE PODIATRY, TO PROVIDE THAT
+5 LICENSURE IS A PREREQUISITE TO PRACTICE, TO ESTABLISH POWERS AND DUTIES
+6 OF THE STATE BOARD OF MEDICINE, TO ESTABLISH PROVISIONS REGARDING AP-
+7 PLICATION AND EXAMINATION FOR LICENSE, TO PROVIDE FOR LICENSE ISSUANCE
+8 AND RENEWALS, TO ESTABLISH GROUNDS FOR LICENSE SUSPENSION, DENIAL,
+9 REFUSAL TO RENEW, OR REVOCATION, TO DEFINE UNPROFESSIONAL CONDUCT, TO
+10 ESTABLISH PROCEEDINGS FOR SUSPENSION, REVOCATION, OR OTHER DISCIPLINE
+11 OF LICENSURE, TO PROVIDE FOR LICENSURE BY ENDORSEMENT, AND TO PROVIDE
+12 THAT PRACTICING WITHOUT A LICENSE SHALL BE A FELONY; AMENDING SECTION
+13 54-1805, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE COMPOSITION
+14 OF THE BOARD OF MEDICINE AND TO MAKE A TECHNICAL CORRECTION; AMENDING
+15 SECTION 39-1395, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE PRAC-
+16 TICE OF PODIATRY AND TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION
+17 54-4401, IDAHO CODE, TO REVISE A DEFINITION AND TO MAKE A TECHNICAL COR-
+18 RECTION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+19 Be It Enacted by the Legislature of the State of Idaho:
+20 SECTION 1. That Chapter 6, Title 54, Idaho Code, be, and the same is
+21 hereby repealed.
+22 SECTION 2. That Title 54, Idaho Code, be, and the same is hereby amended
+23 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+24 ter 6, Title 54, Idaho Code, and to read as follows:
+25 CHAPTER 6
+26 PODIATRIC MEDICAL PRACTICE ACT
+27 54-601. PODIATRY DEFINED. (1) Podiatry shall, for the purpose of this
+28 chapter, mean the diagnosis and mechanical, electrical, medical, physical,
+29 and surgical treatment of ailments of the human foot and leg and the casting
+30 of feet for the purpose of preparing or prescribing corrective appliances,
+31 prosthetics, or custom orthopedic shoes for corrective treatment; how-
+32 ever, the casting of feet for preparing corrective appliances, prosthetics,
+33 or custom orthopedic shoes may be permitted on the prescription of a duly
+34 licensed person in the healing arts in this state. Podiatrists shall be
+35 limited in their practice to the human foot and leg. Surgical treatment,
+36 as herein used, shall mean the surgical treatment of the foot and ankle and
+37 those soft tissue structures below the knee governing the function of the
+38 foot and ankle, but it shall not include the amputation of the leg, surgery of
+39 the knee joint, surgery of the bony structures proximal to the distal half of
+40 the tibia, or the administration or monitoring of general anesthesia.
+
+2
+1 (2) Advanced surgical procedures, as determined by the state board of
+2 medicine, shall be performed in a licensed hospital or certified ambulatory
+3 surgical center accredited by the joint commission or the accreditation as-
+4 sociation for ambulatory health care where a peer review system is in place.
+5 (3) A podiatrist may administer narcotics and medications in the treat-
+6 ment of ailments of the human foot and leg in the same manner as a physician
+7 licensed to practice pursuant to chapter 18, title 54, Idaho Code.
+8 (4) A podiatrist is defined as a natural person who practices podiatry
+9 within the scope of this chapter and shall be referred to as a podiatric
+10 physician and surgeon. Nothing within this chapter shall prohibit any
+11 physician or surgeon, registered and licensed as such and authorized to
+12 practice under the laws of the state of Idaho, or any physician or surgeon of
+13 the United States army, navy, or public health service when in actual perfor-
+14 mance of his duties from practicing medicine and surgery.
+15 54-602. LICENSE A PREREQUISITE TO PRACTICE. It is unlawful for any
+16 person to practice podiatry unless licensed to do so as provided in this
+17 chapter.
+18 54-603. POWERS AND DUTIES OF STATE BOARD OF MEDICINE. (1) The state
+19 board of medicine, herein referred to as the board, shall have the following
+20 powers and duties:
+21 (a) To designate examinations to ascertain the qualifications and fit-
+22 ness of applicants to practice podiatry; to pass upon the qualifica-
+23 tions of applicants for licenses by endorsement; and to establish, by
+24 rule, the specific examinations to be required of each applicant for li-
+25 censure;
+26 (b) To prescribe rules, subject to legislative approval, defining for
+27 the podiatrists what shall constitute a reputable school, college or
+28 university, or department of a university or other institution in good
+29 standing and to determine such reputability of good standing by refer-
+30 ence to compliance with such rules;
+31 (c) To conduct hearings and proceedings for discipline of licensees as
+32 set forth in this chapter;
+33 (d) To make and promulgate rules, subject to legislative approval,
+34 prescribing the standards for the ethical practice of podiatry in the
+35 state;
+36 (e) To make and promulgate rules, subject to legislative approval,
+37 defining and requiring a podiatric residency as a condition of licen-
+38 sure; and
+39 (f) To prescribe the fees required by this chapter in board rule, sub-
+40 ject to legislative approval.
+41 (2) Rules regarding the practice of podiatry that are in effect on July
+42 1, 2026, shall remain in effect as if promulgated by the board of medicine and
+43 may be amended as necessary by the board of medicine consistent with chapter
+44 52, title 67, Idaho Code, subject to legislative approval.
+45 54-604. APPLICATION AND EXAMINATION FOR LICENSE. (1) Every person,
+46 except as hereinafter provided, desiring to practice podiatry within this
+47 state shall make application to the board in the form designated by the
+
+3
+1 board. Such application shall be accompanied by a fee as established by
+2 board rule, not to exceed four hundred dollars ($400).
+3 (2) Each applicant shall:
+4 (a) Not have been convicted or found guilty in this state or in any other
+5 state of a crime that is deemed relevant in accordance with the provi-
+6 sions of section 67-9411(1), Idaho Code;
+7 (b) Submit to a fingerprint-based criminal history background check in
+8 accordance with the provisions of section 67-9411A, Idaho Code;
+9 (c) Be a graduate of a school of podiatry approved by the board; and
+10 (d) Have completed an accredited podiatric residency as defined by
+11 board rule.
+12 (3) Each applicant shall take and pass a competency exam approved by
+13 board rule. The examination shall test for entry-level competency to pro-
+14 vide podiatric medical services.
+15 (4) The examination fee shall not exceed the amount charged by the
+16 board-approved exam provider. The applicant shall pay the examination fee
+17 directly to the exam provider.
+18 54-605. LICENSES -- ISSUANCE -- RENEWALS. (1) If an applicant passes a
+19 satisfactory examination and shows that he is a person who has not been con-
+20 victed or found guilty in this state or in any other state of a crime that is
+21 deemed relevant in accordance with section 67-9411(1), Idaho Code, and that
+22 he possesses the qualifications of a licensed podiatrist required by this
+23 chapter, he shall be entitled to a license authorizing him to practice podi-
+24 atry within the state of Idaho. The successful applicant shall be issued a
+25 license by the division of occupational and professional licenses upon pay-
+26 ment of the original license fee, which shall be established by board rule
+27 and shall not exceed the renewal fee.
+28 (2) The board shall keep on file a register of all applicants for li-
+29 cense, rejected applicants, and licensees.
+30 54-606. LICENSES -- GROUNDS FOR SUSPENSION, DENIAL, REFUSAL TO RENEW,
+31 OR REVOCATION. No license may be issued, and a license previously issued may
+32 be suspended, revoked, or otherwise disciplined, if the person applying or
+33 the person licensed is:
+34 (1) Found guilty by a court of competent jurisdiction of a crime that is
+35 deemed relevant in accordance with section 67-9411(1), Idaho Code;
+36 (2) Found by the board to be a repeated and excessive abuser of any drug,
+37 including alcohol, or any controlled substance;
+38 (3) Found by the board to be in violation of any provision of this chap-
+39 ter or the rules promulgated pursuant thereto;
+40 (4) Found by the board to have used fraud or deception in the procuring
+41 of any license;
+42 (5) Found by the board to have had any action, including denial of a li-
+43 cense or the voluntary surrender of or voluntary limitation on a license,
+44 taken against the licensee by any peer review body, any health care insti-
+45 tution, any professional medical society or association, or any court, law
+46 enforcement, or governmental agency;
+47 (6) Found by the board to have been unethical or unprofessional in the
+48 practice of healing the sick; or
+
+4
+1 (7) Found by the board to have failed to cooperate in a board investiga-
+2 tion or to comply with a board order.
+3 54-607. UNPROFESSIONAL CONDUCT DEFINED. It shall constitute unpro-
+4 fessional conduct justifying suspension, revocation, or other discipline of
+5 a license for any person holding a license to practice podiatry to:
+6 (1) Offer, give, or promise, either directly or indirectly, any gift in
+7 return for the procurement of a patient or patients for podiatric treatment;
+8 (2) Request, list, accept, or receive any rebates or commission for
+9 prescribing or recommending any footwear, drug, medicine, or any other ar-
+10 ticle, to his patients;
+11 (3) Prescribe, dispense, or pretend to use, in treating any patient,
+12 any secret remedial agent, or manifest or promote its use in any way, or guar-
+13 antee or imply to guarantee any treatment, therapy, or remedy whatsoever;
+14 (4) Use any form of advertising that is false, misleading, or decep-
+15 tive;
+16 (5) Use any title other than that of podiatrist or doctor of podiatric
+17 medicine. The term "foot specialist" or "physician and surgeon of the feet"
+18 may be used as explanatory terms of the title podiatrist but not alone or as a
+19 substitute therefor;
+20 (6) Employ a solicitor or solicitors to obtain business;
+21 (7) Publish or use untruthful or improbable statements with the intent
+22 of deceiving or defrauding the public or any patient; or
+23 (8) Violate any rule promulgated by the board that prescribes the stan-
+24 dards for the ethical practice of podiatry in this state.
+25 54-608. PROCEEDINGS FOR SUSPENSION, REVOCATION, OR OTHER DISCIPLINE
+26 OF LICENSE. (1) Proceedings for the suspension, revocation, or other disci-
+27 pline of a license shall be conducted in accordance with the provisions of
+28 chapter 52, title 67, Idaho Code.
+29 (2) The board shall have the power to administer oaths, take deposi-
+30 tions of witnesses within or without the state in the manner provided by law
+31 in civil cases, and, throughout the state of Idaho, to require the attendance
+32 of such witnesses and the production of such books, records, and papers as
+33 it may desire, relevant to any hearing before it of any matter that it has
+34 authority to investigate, and for that purpose, the board may issue a sub-
+35 poena for any witness or a subpoena duces tecum to compel the production of
+36 books, records, or papers, directed to the sheriff of any county of the state
+37 of Idaho where such witness resides or may be found, which shall be served
+38 and returned in the same manner as a subpoena in a criminal case. Fees and
+39 mileage of the witnesses shall be the same as that allowed in the district
+40 courts in criminal cases and shall be paid from any funds in the state trea-
+41 sury in the same manner as other expenses of the board are paid. In the event
+42 of disobedience to or neglect of any subpoena or subpoena duces tecum served
+43 on any person, or the refusal of any witness to testify to any matter regard-
+44 ing which he may be lawfully interrogated, it shall be the duty of the dis-
+45 trict court of any county in this state in which such disobedience, neglect,
+46 or refusal occurs, or any judge thereof, upon application by the board, to
+47 compel obedience by proceedings for contempt as in the case of disobedience
+48 of the requirements of a subpoena issued from such court or for refusal to
+
+5
+1 testify therein. The licensed person accused shall have the same right of
+2 subpoena upon making application to the board therefor.
+3 (3) If the board finds that the licensed person accused has violated any
+4 of the provisions of this chapter, the board may enter an order that includes
+5 one (1) or more of the following:
+6 (a) Revoking the respondent's license to practice podiatric medicine;
+7 (b) Suspending or restricting the respondent's license to practice po-
+8 diatric medicine;
+9 (c) Imposing conditions or probation on the respondent's license, in-
+10 cluding requiring rehabilitation or remediation;
+11 (d) Issuing a public reprimand;
+12 (e) Imposing an administrative fine not to exceed ten thousand dollars
+13 ($10,000) for each count or offense; or
+14 (f) Assessing costs and attorney's fees against the respondent for any
+15 investigation, administrative proceeding, or both.
+16 54-609. LICENSE BY ENDORSEMENT. The board may issue a license to an ap-
+17 plicant by endorsement where the applicant has passed an examination for and
+18 is currently licensed to practice podiatry in another state. The applicant
+19 must satisfy in all other respects the requirements for licensure in this
+20 chapter and any rules adopted by the board. All applications for licensure
+21 by endorsement must be accompanied by an application fee as established by
+22 board rule.
+23 54-610. PRACTICE WITHOUT A LICENSE A FELONY. Any person who practices
+24 or attempts to practice podiatry, who publicly advertises as a podiatrist,
+25 who uses the title chiropodist, podiatrist, or any other word, title, or ab-
+26 breviation calculated to induce belief that he is engaged in the practice of
+27 podiatry, or who holds himself out to the public as diagnosing the ailments
+28 of or treating in any manner the human foot by medical, physical, or surgical
+29 methods without a license as provided in this chapter shall be deemed guilty
+30 of a felony.
+31 SECTION 3. That Section 54-1805, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 54-1805. THE STATE BOARD OF MEDICINE ESTABLISHED. (1) There is hereby
+34 established in the division of occupational and professional licenses a
+35 state board of medicine to be composed of eleven (11) members.
+36 (2)(a) The board shall consist of eleven (11) members. The director
+37 of the Idaho state police or the director's designated agent shall be a
+38 member of the board. Seven (7) members shall be physicians who are res-
+39 idents of this state and engaged in the active practice of medicine in
+40 this state, two (2) members shall be public members, and one (1) member
+41 shall be a physician assistant who is a resident of this state and en-
+42 gaged in the active practice of medicine in this state.
+43 (b) All physician and physician assistant appointments to the board
+44 shall be for a single six (6) year term. The physician members shall
+45 consist of six (6) members who are licensed to practice medicine in
+46 this state and one (1) member who is licensed to practice osteopathic
+47 medicine in this state. The physician assistant member shall be
+
+6
+1 licensed to practice medicine in this state. Whenever a term of a mem-
+2 ber of the board who is licensed to practice medicine or osteopathic
+3 medicine expires or becomes vacant, the governor shall consider rec-
+4 ommendations provided by professional organizations of physicians and
+5 physician assistants and by any individual residing in this state for
+6 appointment.
+7 (c) All public members shall be appointed by the governor for three (3)
+8 year terms. Public members must reside in the state and be persons of
+9 integrity and good reputation who have lived in this state for at least
+10 five (5) years immediately preceding their appointment, who have never
+11 been authorized to practice a healing art, and who have never had a sub-
+12 stantial personal, business, professional, or pecuniary connection
+13 with a healing art or with a medical education or health care facility,
+14 except as patients or potential patients.
+15 (2)(a) Six (6) members shall be physicians who are licensed and engaged
+16 in the active practice of medicine in this state, one (1) member shall
+17 be licensed and engaged in the active practice of osteopathic medicine
+18 in this state, one (1) member shall be licensed and engaged in the active
+19 practice of podiatric medicine in this state, one (1) member shall be a
+20 physician assistant who is licensed and engaged in the active practice
+21 of medicine in this state, and two (2) members shall be public members.
+22 (b) All members of the board shall be residents of this state.
+23 (c) All members of the board shall be appointed by the governor for five
+24 (5) year terms and shall serve at the pleasure of the governor.
+25 (d) Public members must be persons of integrity and good reputation who
+26 have lived in this state for at least five (5) years immediately pre-
+27 ceding their appointment, who have never been authorized to practice a
+28 healing art, and who have never had a substantial personal, business,
+29 professional, or pecuniary connection with a healing art or with a med-
+30 ical education or health care facility, except as patients or potential
+31 patients.
+32 (3) Appointments to fill vacancies occurring from some other reason
+33 than expiration of a term for which a member was appointed shall be made in
+34 the same manner as hereinabove set forth for the unexpired term. All board
+35 members shall serve at the pleasure of the governor.
+36 (4) The board shall elect a chairman from its membership. The members
+37 of the board, except for state employees, shall be compensated as provided
+38 by section 59-509(p), Idaho Code. Six (6) members of the board shall consti-
+39 tute a quorum, and the board may act by virtue of a majority vote of members
+40 present at a meeting.
+41 SECTION 4. That Section 39-1395, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 39-1395. PRACTICE OF PODIATRY -- MEDICAL STAFF MEMBERSHIP. Except as
+44 otherwise provided in this section, no provision or provisions of this sec-
+45 tion shall in any way change or modify the authority or power of the governing
+46 body of any hospital to make such rules, standards or qualifications for med-
+47 ical staff membership as they, in their discretion, may deem necessary or ad-
+48 visable, or to grant or refuse membership on a medical staff.
+
+7
+1 An applicant for medical staff membership may not be denied membership
+2 solely on the ground that the applicant holds a license to practice podiatry
+3 issued by the Idaho state board of podiatry medicine. The criteria utilized
+4 for granting medical staff membership shall be reasonable and shall not dis-
+5 criminate against podiatry.
+6 The process for considering applications for medical staff membership
+7 and privileges shall afford each applicant due process.
+8 All applications for medical staff membership shall be acted upon on
+9 within one hundred twenty (120) days from the date the required information
+10 is submitted.
+11 The accordance and delineation of clinical privileges for podiatrists
+12 shall be determined on an individual basis and commensurate with the appli-
+13 cant's education, training, experience and demonstrated competence. In im-
+14 plementing these procedures, each hospital shall formulate and apply rea-
+15 sonable standards that do not discriminate in the evaluation of an appli-
+16 cant's credentials.
+17 A member of the medical staff licensed pursuant to chapter 18, title 54,
+18 Idaho Code, shall have responsibility for the overall medical care of the pa-
+19 tient while in the hospital. Arrangements for the services of a member of the
+20 medical staff licensed pursuant to chapter 18, title 54, Idaho Code, for the
+21 purposes of this section shall be the sole responsibility of the admitting
+22 podiatrist and not that of the hospital or any other member of the medical
+23 staff.
+24 SECTION 5. That Section 54-4401, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 54-4401. DEFINITIONS. As used in this chapter:
+27 (1) "Board" means:
+28 (a) The state board of podiatry as established in chapter 6, title 54,
+29 Idaho Code;
+30 (b) (a) The state board of chiropractic physicians as established in
+31 chapter 7, title 54, Idaho Code;
+32 (c) (b) The state board of dentistry as established in chapter 9, title
+33 54, Idaho Code;
+34 (d) (c) The state board of nursing as established in chapter 14, title
+35 54, Idaho Code;
+36 (e) (d) The state board of optometry as established in chapter 15, title
+37 54, Idaho Code;
+38 (f) (e) The state board of pharmacy as established in chapter 17, title
+39 54, Idaho Code;
+40 (g) (f) The state board of medicine as established in chapter 18, title
+41 54, Idaho Code;
+42 (h) (g) The board of veterinary medicine as established in chapter 21,
+43 title 54, Idaho Code;
+44 (i) (h) The Idaho state board of psychologist examiners as established
+45 in chapter 23, title 54, Idaho Code;
+46 (j) (i) The state board of social work examiners as established in chap-
+47 ter 32, title 54, Idaho Code;
+48 (k) (j) The Idaho state counselor licensing board as established in
+49 chapter 34, title 54, Idaho Code; and
+
+8
+1 (l) (k) Any health care related board granted licensing authority by
+2 the legislature after July 1, 1993.
+3 (2) "Peer assistance entity" means an organization, a program, a com-
+4 mittee or a professional association which that is designed to address any
+5 or all of the following issues affecting practitioners of the health care
+6 professions: chemical dependency and/or impairment; psychological impair-
+7 ment; and mental or physical impairment.
+8 SECTION 6. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2026.

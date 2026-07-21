@@ -1,0 +1,165 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 758
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO DAYCARE LICENSING; AMENDING SECTION 39-1102, IDAHO CODE, TO RE-
+3 VISE A DEFINITION AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+4 39-1109, IDAHO CODE, TO PROVIDE AN EXCEPTION REGARDING CHILDREN TO BE
+5 COUNTED IN ATTENDANCE; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+6 FECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 39-1102, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 39-1102. DEFINITIONS. As used in this chapter:
+11 (1) "Board" means the Idaho board of health and welfare.
+12 (2) "Child" means a person less than thirteen (13) years of age.
+13 (3) "Daycare" means care and supervision provided for compensation
+14 during part of a twenty-four (24) hour day, for a child or children not
+15 related by blood, marriage or legal guardianship to the person or persons
+16 providing the care, in a place other than the child's or children's own home
+17 or homes.
+18 (4) "Daycare center" means a place or facility providing daycare for
+19 compensation for thirteen (13) or more children.
+20 (5) "Daycare facility" means a place or facility providing daycare
+21 services for compensation to seven (7) or more children not related to the
+22 provider.
+23 (6) "Department" means the Idaho department of health and welfare.
+24 (7) "Employee" means any person working for compensation in a facility
+25 that provides daycare.
+26 (8) "Family daycare home" means a home, place, or facility providing
+27 daycare for six (6) or fewer children.
+28 (9) "Group daycare facility" means a home, place, or facility providing
+29 daycare for seven (7) to twelve (12) children.
+30 (10) "Group size" means the maximum number of children in one (1) group
+31 or classroom.
+32 (11) "Mixed age group" means a care group that includes children of mul-
+33 tiple ages.
+34 (12) "Operator" means a person who operates or maintains a licensed day-
+35 care facility.
+36 (13) "Owner" means a person, group of individuals, or entity that has
+37 legal control and authority over a daycare business.
+38 (14) "Provider" means a person who provides care and supervision at a
+39 daycare facility and is included in the child:staff ratio.
+40 (15) "Ratio" means the number of staff required to supervise a certain
+41 number of children.
+
+2
+1 (16) "Single age group" means a care group that includes children of
+2 similar age.
+3 (17) "Staff" means anyone who is sixteen (16) years of age or older who
+4 is employed by a daycare facility to provide care and supervision. "Staff"
+5 includes operators, owners, and providers.
+6 (14) (18) "Supervision" means:
+7 (a) For a child less than five (5) years of age, a provider is within
+8 sight or normal hearing range of the child and near enough to render im-
+9 mediate assistance to the child;
+10 (b) For a child five (5) years of age and older, a provider is within
+11 sight or normal hearing range of the child as appropriate to the child's
+12 individual age, needs, and capabilities; and
+13 (c) Notwithstanding paragraph (b) of this subsection, for all children
+14 while sleeping, swimming or engaging in other water activity involving
+15 a pool, hot tub, or other body of water, or on field trips or activities
+16 away from the facility, a provider is within sight and normal hearing
+17 range of the child. For the purposes of a child sleeping, the require-
+18 ments of this subsection are met if the provider uses live video and au-
+19 dio to monitor the child and remains near enough to render immediate as-
+20 sistance to the child.
+21 (15) (18) (19) "Training" means continuing education in child develop-
+22 ment areas relating to child care.
+23 SECTION 2. That Section 39-1109, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 39-1109. SAFETY STANDARDS. (1) Daycare facilities, owners and opera-
+26 tors shall comply with the following safety standards in the area of the day-
+27 care facility in which daycare is provided:
+28 (a) Adequate fire and smoke alarms;
+29 (b) A functional telephone located on the daycare premises during the
+30 hours of operation;
+31 (c) Adequate fire extinguishers;
+32 (d) Adequate exits;
+33 (e) Firearms or other weapons that are stored on the premises of a day-
+34 care facility must be kept in a locked container that is inaccessible to
+35 children while daycare attendees are present;
+36 (f) Pools, hot tubs, ponds and other bodies of water that are on the day-
+37 care facility premises must provide the following safeguards:
+38 (i) The area surrounding the body of water must be fenced and
+39 locked in a manner that prevents access by children and meets the
+40 following requirements:
+41 1. The fence must be at least four (4) feet high with no ver-
+42 tical opening more than four (4) inches wide, be designed so
+43 that a young child cannot climb or squeeze under or through
+44 the fence, surround all sides of the pool and have a gate that
+45 is self-closing and that has a self-latching mechanism in
+46 proper working order out of the reach of young children;
+47 2. If the house forms one (1) side of the barrier for the
+48 pool, all doors that provide unrestricted access to the pool
+
+3
+1 must have alarms that produce an audible sound when the door
+2 is opened;
+3 3. Furniture or other large objects must not be left near the
+4 fence in a manner that would enable a child to climb on the
+5 furniture or other large object and gain access to the pool;
+6 and
+7 (ii) If the area surrounding a pool, hot tub, pond or other body of
+8 water is not fenced and locked, there must be a secured protective
+9 covering that will not allow access by a child;
+10 (iii) Wading pools must be empty when not in use;
+11 (iv) Children must be under direct supervision of at least one (1)
+12 adult employee while using a pool, hot tub, pond or other body of
+13 water; and
+14 (v) A minimum of a four (4) foot high fence must be present that
+15 prevents access from the daycare facility premises if the daycare
+16 premises are adjacent to a body of water; and
+17 (g) The owner or operator of a daycare facility shall ensure that at
+18 all times when a child or children are present, at least one (1) adult
+19 employee on the premises has current certification in pediatric rescue
+20 breathing and first aid treatment from a certified instructor.
+21 (2) No fire standards developed pursuant to this chapter shall be more
+22 stringent than the standards contained in the International Fire Code, as
+23 adopted by Idaho.
+24 (3) At least one (1) adult employee must be present at all times when a
+25 child or children are in attendance.
+26 (4)(a) The maximum allowable child:staff ratio shall be a maximum of
+27 twelve (12) points per staff member using the following point system:
+28 (i) Each child in attendance under the age of twenty-four (24)
+29 months shall equal two (2) points.
+30 (ii) Each child in attendance from twenty-four (24) months to un-
+31 der thirty-six (36) months of age shall equal one and thirty-three
+32 hundredths (1.33) points.
+33 (iii) Each child in attendance from thirty-six (36) months to un-
+34 der five (5) years of age shall equal nine hundred twenty-three
+35 thousandths (0.923) of a point.
+36 (iv) Each child in attendance from five (5) years to under thirteen
+37 (13) years of age shall equal forty-eight hundredths (0.48) of a
+38 point.
+39 (b) Each child in attendance shall be counted by the department for pur-
+40 poses of calculating maximum allowable points, counting the number of
+41 children in attendance and for determining compliance with child:staff
+42 ratios; however, in a family daycare home or a group daycare facility,
+43 the provider's own children who are five (5) years of age or older shall
+44 not be counted if the provider is operating out of the provider's home.
+45 (c) Daycare facilities may operate with child:staff ratios more strin-
+46 gent than those specified in paragraph (a) of this subsection.
+47 (5) Sleeping children must be within sight and normal hearing range of a
+48 provider.
+49 (6) For daycare facilities providing overnight care of children:
+50 (a) A sleeping child shall sleep on the same level as a staff member;
+
+4
+1 (b) At least one (1) staff member shall be awake and on duty;
+2 (c) Sleeping children shall have separate cots, mats, or beds and blan-
+3 kets; and
+4 (d) A child shall not share a bed with a non-parent adult.
+5 SECTION 3. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2026.

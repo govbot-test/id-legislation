@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1440
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING CHAPTER 29, TITLE 26, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 26-2929, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING THE IMPOSITION OF AN EXCISE TAX ON INTERNATIONAL MONEY TRANS-
+5 MISSIONS; AMENDING CHAPTER 30, TITLE 63, IDAHO CODE, BY THE ADDITION
+6 OF A NEW SECTION 63-3029E, IDAHO CODE, TO PROVIDE FOR AN INTERNATIONAL
+7 MONEY TRANSMISSION TAX CREDIT OR REFUND; AND DECLARING AN EMERGENCY AND
+8 PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Chapter 29, Title 26, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 26-2929, Idaho Code, and to read as follows:
+13 26-2929. EXCISE TAX ON INTERNATIONAL MONEY TRANSMISSIONS. (1) As used
+14 in this section:
+15 (a) "International money transmission" means a money transmission to a
+16 recipient outside of the boundaries of the United States by any and all
+17 means, including but not limited to payment instrument, wire, facsim-
+18 ile, or electronic transfer, when such transmission originates within
+19 the state of Idaho.
+20 (b) "Transaction amount" means the amount intended to be received by
+21 the recipient of an international money transmission.
+22 (2) An excise tax is hereby imposed on international money transmis-
+23 sions as set forth in this section. The excise tax shall be collected by a
+24 licensee or its authorized representative pursuant to this chapter in addi-
+25 tion to any fee that the licensee or its authorized representative may charge
+26 for an international money transmission. The excise tax shall be imposed on
+27 the individual sender of every international money transmission at the time
+28 of the transaction, whether the individual sender is acting on behalf of the
+29 sender or on behalf of any other person or any corporate or legal entity, ex-
+30 cept as provided in subsection (8) of this section. The excise tax shall
+31 be in the amount of five dollars ($5.00) for the first five hundred dollars
+32 ($500) of each transaction plus an amount equal to four percent (4%) of the
+33 transaction amount in excess of five hundred dollars ($500).
+34 (3) A sender of an international money transmission subject to the tax
+35 imposed by this section shall be provided a receipt by the licensee or its au-
+36 thorized representative at the time of the transaction that states the tax
+37 amount imposed and paid for the transaction. The receipt shall also notify
+38 the sender that an individual legally present in the United States may be
+39 entitled to an income tax credit or refund for the amount of the interna-
+40 tional money transmission excise tax pursuant to the provisions of section
+41 63-3029E, Idaho Code, provide information on how such individual may obtain
+42 such credit or refund, and state that the receipt should be retained for the
+
+2
+1 individual's Idaho income tax records. The language of the notice shall be
+2 prescribed by the state tax commission and disseminated to every licensee.
+3 (4) The tax imposed by subsection (2) of this section shall be remitted
+4 by the licensee on a quarterly basis to the state tax commission on such forms
+5 as the state tax commission may prescribe for such purpose. All of the re-
+6 quired forms and records of international money transmissions shall be filed
+7 with the state tax commission no later than the twentieth day of the month
+8 following the close of each calendar quarter.
+9 (5) The state tax commission shall distribute the revenues derived from
+10 the excise tax as follows:
+11 (a) An amount equal to the sum of the income tax credits and refunds
+12 granted pursuant to section 63-3029E, Idaho Code, during the previous
+13 twelve (12) months shall be distributed to the state refund account of
+14 the general fund; and
+15 (b) The remaining amount shall be transferred to the general fund.
+16 (6) The state tax commission shall have the power and duty to estab-
+17 lish necessary procedures to enable licensees to comply with the provisions
+18 of this section. Any deficiency in tax and notice of deficiency, as well as
+19 the review, audit, collection, and enforcement procedures provided by chap-
+20 ter 30, title 63, Idaho Code, not directly conflicting with the provisions
+21 of this section shall apply and be available to the state tax commission for
+22 enforcement of the provisions of this section and the assessment and collec-
+23 tion of any amounts due. Whenever liens or any other proceedings are defined
+24 as income tax liens or proceedings, such provisions shall, when applied in
+25 enforcement or collection pursuant to this section, be described as inter-
+26 national money transmission excise tax liens and proceedings. For the pur-
+27 poses of this section, any reference to taxable year in the income tax act
+28 shall be considered a calendar quarter.
+29 (7) If a licensee fails to file reports or fails to remit the tax imposed
+30 by the provisions of this section, the state tax commission shall notify the
+31 department of finance, which shall have the authority to suspend the money
+32 transmitter license of the licensee and its authorized representatives in
+33 accordance with the provisions of this chapter. The licensee and its autho-
+34 rized representatives may not reapply for a license until all required re-
+35 ports have been filed and all required tax amounts have been remitted. Fur-
+36 ther, upon request from the state tax commission, the department of finance
+37 may make a claim against the security device required by section 26-2908,
+38 Idaho Code, of the licensee on behalf of the state to secure any amounts owing
+39 from the tax imposed by the provisions of this section.
+40 (8) The excise tax imposed by the provisions of this section shall not
+41 apply to transactions where money is debited from the international money
+42 transmission sender's own account with a banking institution or other entity
+43 licensed by the department of finance or when such banking institution or en-
+44 tity has proof of the sender's legal residence in the United States. Such
+45 proof shall be in the form of a valid Idaho state-issued identification card
+46 or driver's license, United States passport, or birth certificate showing
+47 the requester was born in the United States.
+48 (9) The department of finance and the state tax commission may each pro-
+49 mulgate rules, pursuant to chapter 52, title 67, Idaho Code, to implement the
+50 provisions of this section, subject to legislative approval.
+
+3
+1 SECTION 2. That Chapter 30, Title 63, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 63-3029E, Idaho Code, and to read as follows:
+4 63-3029E. INCOME TAX CREDIT OR REFUND FOR INTERNATIONAL MONEY TRANS-
+5 MISSION. (1) Any taxpayer who is required to file and who has filed an Idaho
+6 income tax return shall be allowed a refundable credit in the amount of in-
+7 ternational money transmission excise taxes paid by such taxpayer during a
+8 tax year pursuant to the provisions of section 26-2929, Idaho Code. The tax-
+9 payer shall provide proof of legal residence in the United States with the
+10 Idaho income tax return to be eligible to claim the credit. If taxes due are
+11 less than the total credit allowed, the taxpayer shall be paid a refund equal
+12 to the balance of the unused credit.
+13 (2) Any person not required to file an Idaho income tax return shall be
+14 entitled to a refund in the amount provided in subsection (1) of this section
+15 if the person provides proof of such person's legal residence status in the
+16 United States.
+17 (3) Any refund shall be paid to such individual only upon application
+18 therefor, at such time and in such manner as may be prescribed by the state
+19 tax commission. The state tax commission shall prescribe the method by which
+20 the refund is to be made to the taxpayer or other applicant. The refunds au-
+21 thorized by this section shall be paid from the state refund account in the
+22 same manner as the refunds authorized by section 63-3067, Idaho Code.
+23 (4) An application for any refund that is due and payable pursuant to
+24 the provisions of this section must be filed with the state tax commission
+25 within three (3) years of:
+26 (a) The due date, including extensions, of the return required pursuant
+27 to section 63-3030, Idaho Code, if the applicant is required to file a
+28 return; or
+29 (b) The fifteenth day of April of the year following the year in which
+30 the tax was paid.
+31 (5) The state tax commission may audit an application for a refund is-
+32 sued pursuant to this section in the same manner as an income tax return au-
+33 dit.
+34 SECTION 3. An emergency existing therefor, which emergency is hereby
+35 declared to exist, this act shall be in full force and effect on and after
+36 July 1, 2026.

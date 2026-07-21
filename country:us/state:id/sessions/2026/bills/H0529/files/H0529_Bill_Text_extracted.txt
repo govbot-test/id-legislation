@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 529
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO HEALTH CARE; AMENDING CHAPTER 18, TITLE 41, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 41-1854, IDAHO CODE, TO DEFINE TERMS, TO PRO-
+4 VIDE FOR CERTAIN PROHIBITIONS AND DUTIES OF HEALTH CARRIERS AND HEALTH
+5 CARE PROVIDERS WITH REGARD TO CERTAIN COVERED PERSONS WHO PAY OUT OF
+6 POCKET FOR HEALTH CARE SERVICES; AND DECLARING AN EMERGENCY AND PROVID-
+7 ING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 18, Title 41, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 41-1854, Idaho Code, and to read as follows:
+12 41-1854. HEALTH CARE -- CASH PRICE FOR SERVICES. (1) As used in this
+13 section, the terms "covered person," "health benefit plan," "health care
+14 provider," "health care services," "health carrier," and "medically nec-
+15 essary" shall have the same meanings as provided in section 41-5903, Idaho
+16 Code.
+17 (2) A health carrier may not prohibit a health care provider from of-
+18 fering a covered person the option of paying the provider's discounted cash
+19 price for health care services. For the purposes of this subsection, "dis-
+20 counted cash price" means the charge that applies to a covered person who
+21 pays cash for a health care service without filing any claim with a health
+22 carrier. With respect to a hospital, the discounted cash price shall have
+23 the same meaning as provided in 45 CFR 180.20 if the hospital has a discounted
+24 cash price. It does not mean the amount charged to individuals who are eligi-
+25 ble for free care or are eligible for the amounts charged pursuant to a hospi-
+26 tal's financial assistance policy.
+27 (3) A covered person may choose to pay out of pocket for a health care
+28 service from a health care provider instead of submitting a claim to insur-
+29 ance.
+30 (4) If a covered person obtains a medically necessary health care ser-
+31 vice covered by such person's health benefit plan and negotiates for a price
+32 lower than the average allowed amount established by the benefit plan, as
+33 provided to the covered person upon request, and the covered person pays out
+34 of pocket for the health care service, the amount of the out-of-pocket cost
+35 shall be counted toward the covered person's out-of-pocket deductible and
+36 annual maximum out-of-pocket expense if the requirements of this section are
+37 met.
+38 (5) A health carrier that receives the documentation described in
+39 subsection (6) of this section shall count the full amount that the cov-
+40 ered person paid out of pocket toward the deductible and annual maximum
+41 out-of-pocket expense if:
+
+2
+1 (a) The health care service is covered under the health benefit plan of
+2 the covered person; and
+3 (b) The covered person negotiated for a lower cost for the health care
+4 service than the average allowed amount established by the covered per-
+5 son's health benefit plan for that covered health care service.
+6 (6) A covered person shall electronically send documentation to the
+7 health carrier that provides the following information:
+8 (a) The health care service the covered person or patient received and
+9 the name of the health care provider and contact information;
+10 (b) If an order by the health care provider is required by the policy,
+11 the order from the health care provider given to the covered person or
+12 patient and the final bill or statement for the health care service; and
+13 (c) The negotiated cost of the health care service that the covered per-
+14 son received and documentation that:
+15 (i) The covered person paid out of pocket for the health care ser-
+16 vices received; and
+17 (ii) The health care provider is not making a claim against the
+18 health carrier for payment of the health care service provided to
+19 the covered person or patient.
+20 (7) The health care provider shall accept the discounted cash payment
+21 from the covered person as payment in full and shall not bill the covered per-
+22 son or the health carrier for any balance between the amount collected from
+23 the covered person and the billed charge for the service by the provider.
+24 (8) The amount of the out-of-pocket cost shall be attributed to the
+25 in-network deductible and annual maximum out-of-pocket expense if the
+26 provider was an in-network provider and to the out-of-network deductible and
+27 annual maximum out-of-pocket expense if the provider was an out-of-network
+28 provider.
+29 (9) The amount counted toward an applicable out-of-pocket deductible
+30 and annual maximum out-of-pocket expense shall not exceed the total amount
+31 that the covered person is required to pay out of pocket during a contractu-
+32 ally agreed on period of time for health care services that are included un-
+33 der the health benefit plan of the covered person and shall not carry over
+34 once a new contract or agreement period for the plan begins.
+35 (10) The provisions of subsections (4) through (9) of this section shall
+36 not apply to:
+37 (a) A plan that provides coverage:
+38 (i) Only for a specified disease or diseases;
+39 (ii) Only for accidental death or dismemberment;
+40 (iii) Only for dental or vision care;
+41 (iv) Under an individual limited benefit policy;
+42 (v) For a hospital confinement indemnity policy;
+43 (vi) For disability income insurance or a combination of acci-
+44 dent-only and disability income insurance; or
+45 (vii) As a supplement to liability insurance;
+46 (b) Any programs administered by the Idaho department of health and
+47 welfare through the state medicaid program under title XIX of the fed-
+48 eral social security act, as amended;
+49 (c) A medicare supplemental policy as defined by section 1882(g)(1) of
+50 the social security act;
+
+3
+1 (d) Worker's compensation insurance coverage;
+2 (e) Medical payment insurance issued as part of a motor vehicle insur-
+3 ance policy;
+4 (f) A long-term care policy, including a nursing home fixed indemnity
+5 policy, unless a determination is made that the policy provides bene-
+6 fit coverage so comprehensive that the policy meets the definition of a
+7 health benefit plan; or
+8 (g) Short-term health insurance issued on a nonrenewable basis with a
+9 duration of six (6) months or less.
+10 SECTION 2. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2026.

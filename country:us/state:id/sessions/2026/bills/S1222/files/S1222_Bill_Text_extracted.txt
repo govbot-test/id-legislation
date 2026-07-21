@@ -1,0 +1,202 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1222
+BY RESOURCES AND ENVIRONMENT COMMITTEE
+1 AN ACT
+2 RELATING TO DOMESTIC WELLS; AMENDING SECTION 42-111, IDAHO CODE, TO RE-
+3 VISE DEFINITIONS AND TO DEFINE TERMS; AMENDING SECTION 42-227, IDAHO
+4 CODE, TO REVISE PROVISIONS REGARDING THE DRILLING AND USE OF WELLS FOR
+5 DOMESTIC PURPOSES; AMENDING SECTION 31-3805, IDAHO CODE, TO REVISE A
+6 PROVISION REGARDING THE APPLICABILITY OF LAW RELATED TO WATER DELIVERY
+7 WITHIN SUBDIVISIONS; AMENDING SECTION 50-1334, IDAHO CODE, TO REVISE
+8 PROVISIONS REGARDING THE REVIEW OF WATER SYSTEMS; AND DECLARING AN
+9 EMERGENCY.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 42-111, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 42-111. DOMESTIC PURPOSES DEFINED. (1) For purposes of sections
+14 42-221, 42-227, 42-230, 42-235, 42-237a, 42-242, 42-243, and 42-1401A,
+15 Idaho Code:
+16 (a) The phrase "domestic purposes" or "domestic uses" means:
+17 (a)(i) "Domestic purposes" or "domestic uses" means:
+18 (i) 1. The use of water for homes, organization camps,
+19 public campgrounds, livestock, and for any other purpose
+20 in connection therewith, including irrigation of up to
+21 one-half (1/2) acre of land, if the total use does not exceed
+22 thirteen thousand (13,000) gallons per day; or
+23 (ii) 2. The use of water for any other purpose, if the to-
+24 tal use does not exceed a diversion volume of two and eight-
+25 tenths (2.8) acre feet per year.
+26 (b) (ii) "Domestic purposes" or "domestic uses" shall not include
+27 water for the following purposes, unless the use meets the diver-
+28 sion rate and volume limitations set forth in paragraph (a)(i)2.
+29 of this subsection:
+30 (i) 1. Mobile home parks or recreational vehicle parks;
+31 (ii) 2. Apartments, condominiums, and similar developments
+32 with multiple dwelling units;
+33 (iii) 3. Except Subdivisions, except as provided in subsec-
+34 tion (3) of this section, subdivisions, as defined in chap-
+35 ter 13, title 50, Idaho Code; or
+36 (iv) 4. Commercial or business establishments or mixed-use
+37 establishments where the water is used primarily for commer-
+38 cial or business purposes.
+39 (b) "In-home use" means the utilization of water within a residence or
+40 household, including all activities that require water, such as drink-
+41 ing, cooking, bathing, and cleaning within and around the household. It
+
+2
+1 does not include irrigation of lawns, gardens, landscaping, pastures,
+2 or other open spaces.
+3 (c) "Subdivision" means a tract of land divided into five (5) or more
+4 lots, parcels, or sites for the purpose of sale or building development,
+5 whether immediate or future; provided that this definition shall not
+6 include a bona fide division or partition of agricultural land for agri-
+7 cultural purposes. For purposes of this paragraph, "bona fide division
+8 or partition of agricultural land for agricultural purposes" means the
+9 division of land into lots, all of which are five (5) acres or larger and
+10 maintained as agricultural lands.
+11 (2) Except as provided in subsection (3) of this section, multiple wa-
+12 ter rights for domestic uses or domestic purposes shall not be established or
+13 exercised in a manner to satisfy a single combined water use or purpose that
+14 would not itself come within the definition of a domestic use or purpose un-
+15 der this section. The purpose of this limitation is to prohibit the diver-
+16 sion and use of water, under a combination of domestic purposes or domestic
+17 uses as defined in this section, to provide a supply of water for a use that
+18 does not meet the exemption of section 42-227, Idaho Code, and is required
+19 to comply with the mandatory application and permit process for developing a
+20 right to the use of water pursuant to chapter 2, title 42, Idaho Code.
+21 (3) Multiple water rights for domestic purposes or uses may be estab-
+22 lished and exercised from the same point or points of diversion if the use
+23 is limited to residential, in-home use. This subsection does not affect any
+24 other permitting requirement or other requirement that may apply to the use
+25 of water within a subdivision. For the purposes of this section, the term
+26 "in-home use" means the utilization of water within a residence or house-
+27 hold, including all activities that require water, such as drinking, cook-
+28 ing, bathing, and cleaning within and around the household. It does not in-
+29 clude irrigation of lawns, gardens, landscaping, pastures, or other open
+30 spaces.
+31 SECTION 2. That Section 42-227, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 42-227. DRILLING AND USE OF WELLS FOR DOMESTIC PURPOSES EXCEPTED. (1)
+34 Except as provided in subsection (4) of this section, excavation and opening
+35 of wells and the withdrawal of water therefrom for domestic purposes or uses
+36 as defined in section 42-111, Idaho Code, shall not be subject to permit re-
+37 quirements under section 42-229, Idaho Code. Rights to ground water for such
+38 domestic purposes may be acquired by withdrawal and use.
+39 (2) Wells and withdrawal devices for domestic purposes or uses shall be
+40 subject to inspection by the department of water resources and the depart-
+41 ment of environmental quality.
+42 (3) Well drillers shall be licensed pursuant to the licensing provi-
+43 sions of section 42-238, Idaho Code.
+44 (4) For purposes of new diversions for use within subdivisions, as de-
+45 fined in chapter 13, title 50, Idaho Code, section 42-111, Idaho Code, where
+46 the completed application to develop the subdivision is filed pursuant to
+47 chapter 65, title 67, Idaho Code, on or after July 1, 2025, in any area where
+48 the director of the department of water resources has issued a moratorium
+49 order on the development of new water rights or has designated a critical
+
+3
+1 ground water area or ground water management area, an application for a per-
+2 mit, pursuant to section 42-229, Idaho Code, shall be required for the di-
+3 version of water for any new domestic purposes or uses, as defined in sec-
+4 tion 42-111, Idaho Code, other than for in-home uses, as defined in section
+5 42-111, Idaho Code, or watering livestock.
+6 SECTION 3. That Section 31-3805, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 31-3805. DELIVERY OF WATER WITHIN SUBDIVISIONS. (1) The provisions of
+9 this section shall apply to any proposed subdivision, as defined in chapter
+10 13, title 50, Idaho Code, within the state of Idaho or to a subdivision sub-
+11 ject to a more restrictive county or city zoning ordinance. A completed ap-
+12 plication to develop a subdivision filed pursuant to chapter 65, title 67,
+13 Idaho Code, that was filed on or before June 30, 2025, is governed by the law
+14 as it existed at the time of filing.
+15 (2) For any subdivision that lies within the service area or area of
+16 city impact of a municipal provider, the following requirements apply:
+17 (a) If a shared well or public water system is installed, it shall be
+18 designed to meet requirements of that municipal provider and be planned
+19 to integrate with and connect to the municipal provider's system when
+20 appropriate. The requirements of this paragraph shall not apply if an
+21 agreement is reached with the municipal provider;
+22 (b) The municipal provider shall be consulted in the design of the
+23 shared well or public water system to ensure proper integration; and
+24 (c) Upon connection to the municipal provider's system, the water
+25 rights associated with the subdivision's shared well or public water
+26 system shall be conveyed to the municipal provider.
+27 (3) If surface water for irrigation is reasonably available to all or
+28 any part of a subdivision, as provided in section 67-6537, Idaho Code, then
+29 no subdivision plat, amendment to a subdivision plat, or any other plat or
+30 map recognized by the city or county for the division of land will be ac-
+31 cepted, approved, and recorded unless the owner or entity has provided for
+32 the irrigation of lots within the subdivision using the available surface
+33 water.
+34 (4) For subdivisions using water provided by an irrigation entity, as
+35 required by section 67-6537, Idaho Code, the subdivision plat or with the
+36 plat mat as an exhibit shall include a description of the system used to de-
+37 liver irrigation water from the irrigation entity's point of delivery to the
+38 individual lots. In such cases:
+39 (a) For proposed subdivisions within the incorporated limits of a city,
+40 the irrigation system must be approved by the city zoning authority or
+41 the city council, as provided by city ordinance, with the advice of the
+42 irrigation entity charged with the delivery of water to such lands; and
+43 (b) For proposed subdivisions located outside an incorporated city,
+44 the irrigation system must be approved by the board of county commis-
+45 sioners, with the advice of the irrigation entity charged with the
+46 delivery of water to such lands.
+47 (5) For subdivisions receiving water from an irrigation entity, the
+48 subdivision plat or amendment to a subdivision plat shall contain notes
+49 stating the following:
+
+4
+1 (a) That the subdivision or a portion of it is located within the ser-
+2 vice area of the irrigation entity and the name and contact information
+3 for the irrigation entity;
+4 (b) That a system for the delivery of irrigation water to lots within
+5 the subdivision has been provided;
+6 (c) That the system has been approved as required by subsection (4) of
+7 this section;
+8 (d) That the purchaser of each lot shall remain subject to all assess-
+9 ments levied by the irrigation entity; and
+10 (e) That unpaid irrigation entity assessments are a lien on the land
+11 within the irrigation entity.
+12 SECTION 4. That Section 50-1334, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 50-1334. REVIEW OF WATER SYSTEMS ENCOMPASSED BY PLATS. Whenever any
+15 plat is subject to the terms and requirements of sections 50-1326 through
+16 50-1329, Idaho Code, no person shall offer for recording, or cause to be
+17 recorded, a plat unless he or she shall have certified that he or she is in
+18 compliance with section 31-3805(2), Idaho Code, where applicable, and that
+19 at least one (1) of the following is the case:
+20 (1) The individual lots described in the plat will not be served by any
+21 water system common to one (1) or more of the lots, but will be served by indi-
+22 vidual wells.
+23 (2) All of the lots in the plat will be eligible to receive water service
+24 from an existing water system, be the water system municipal, a water dis-
+25 trict, a public utility subject to the regulation of the Idaho public utili-
+26 ties commission, or a mutual or nonprofit water company, and the existing wa-
+27 ter distribution system has agreed in writing to serve all of the lots in the
+28 subdivision.
+29 (3) If a new water system will come into being be developed to serve the
+30 subdivision, that it the entity in charge of that system has or will have suf-
+31 ficient contributed capital to allow the water system's wells, springboxes,
+32 reservoirs, and mains to be constructed to provide service without further
+33 connection charges or fees to the landowners of the lots required to lot own-
+34 ers, except for connection of laterals, meters or other plant exclusively
+35 for the lot owner's own use.
+36 Failure to comply with this section is a misdemeanor subject to the
+37 provisions of section 50-1329, Idaho Code. The certification must be filed
+38 or recorded as part of the plat document preserved for public inspection.
+39 Property Lot owners in the area encompassed by the plat will subdivision
+40 shall be entitled to the benefits of the third provision subsection (3) of
+41 this section when that option is chosen.
+42 SECTION 5. An emergency existing therefor, which emergency is hereby
+43 declared to exist, this act shall be in full force and effect on and after its
+44 passage and approval.

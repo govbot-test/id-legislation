@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 936
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO PROPERTY; AMENDING SECTION 18-7102, IDAHO CODE, AS ADDED IN
+3 SECTION 1 OF SENATE BILL NO. 1326, AS AMENDED, IF ENACTED BY THE SEC-
+4 OND REGULAR SESSION OF THE SIXTY-EIGHTH IDAHO LEGISLATURE, TO REVISE
+5 A DEFINITION; AMENDING SECTION 18-7104, IDAHO CODE, AS ADDED IN SEC-
+6 TION 1 OF SENATE BILL NO. 1326, AS AMENDED, IF ENACTED BY THE SECOND
+7 REGULAR SESSION OF THE SIXTY-EIGHTH IDAHO LEGISLATURE, TO REVISE PROVI-
+8 SIONS REGARDING FEDERAL GOVERNMENT AGENTS AND LOCAL COORDINATION; AND
+9 DECLARING AN EMERGENCY.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Sections 18-7102, Idaho Code, as added in Section 1 of
+12 Senate Bill No. 1326, As Amended, if enacted by the Second Regular Session
+13 of the Sixty-eighth Idaho Legislature, be, and the same is hereby amended to
+14 read as follows:
+15 18-7102. DEFINITIONS. As used in this chapter:
+16 (1) "Exigent circumstances" means only those limited, judicially rec-
+17 ognized exceptions to the warrant requirement under section 17, article I of
+18 the constitution of the state of Idaho and the fourth amendment to the United
+19 States constitution.
+20 (2) "Government agent" means any employee or representative of the
+21 state of Idaho, or any political subdivision thereof, or the federal govern-
+22 ment, acting in an official capacity.
+23 (3) "Private land not open to the public" or "private land" means any
+24 privately owned real property, not including any place of habitation or the
+25 associated curtilage, where a person knows or has reason to know that the
+26 person's presence is not permitted pursuant to the provisions of section
+27 18-7008(2)(a), Idaho Code.
+28 (4) "Search warrant" or "warrant" has the same meaning as that term is
+29 defined in section 19-4401, Idaho Code, and shall include an arrest warrant
+30 as described in section 19-507, Idaho Code.
+31 SECTION 2. That Sections 18-7104, Idaho Code, as added in Section 1 of
+32 Senate Bill No. 1326, As Amended, if enacted by the Second Regular Session
+33 of the Sixty-eighth Idaho Legislature, be, and the same is hereby amended to
+34 read as follows:
+35 18-7104. FEDERAL GOVERNMENT AGENTS AND LOCAL COORDINATION. Prior to
+36 executing a search warrant on private land pursuant to section 18-7103,
+37 Idaho Code, federal government agents shall should notify the county sher-
+38 iff, unless exigent circumstances exist.
+
+2
+1 SECTION 3. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after its
+3 passage and approval.

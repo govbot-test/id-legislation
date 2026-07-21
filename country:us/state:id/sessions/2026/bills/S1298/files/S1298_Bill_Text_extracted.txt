@@ -1,0 +1,163 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1298
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO SELF-DEFENSE; AMENDING CHAPTER 2, TITLE 19, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 19-202B, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING IMMUNITY AND REIMBURSEMENT FOR JUSTIFIABLE HOMICIDE AND DE-
+5 FENSE OF SELF, OTHERS, AND CERTAIN PLACES; PROVIDING SEVERABILITY; AND
+6 DECLARING AN EMERGENCY.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 2, Title 19, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 19-202B, Idaho Code, and to read as follows:
+11 19-202B. IMMUNITY AND REIMBURSEMENT FOR JUSTIFIABLE HOMICIDE AND DE-
+12 FENSE OF SELF, OTHERS, AND CERTAIN PLACES. (1) As used in this section:
+13 (a) "Criminal prosecution" includes arresting, detaining in custody,
+14 and charging or prosecuting the defendant.
+15 (b) "Expunge" or "expungement" means to destroy, delete, or erase a
+16 criminal history record as appropriate for the record's physical or
+17 electronic form or characteristic so that the record is permanently
+18 irretrievable.
+19 (c) "Law enforcement officer" means any court personnel, sheriff,
+20 constable, peace officer, state police officer, correctional officer,
+21 probation or parole official, prosecuting attorney, city attorney, or
+22 attorney general, or their employees or agents, or any other person
+23 charged with the duty of enforcement of the criminal, traffic, or penal
+24 laws of this state or any other law enforcement personnel or peace offi-
+25 cer as defined in chapter 51, title 19, Idaho Code.
+26 (d) "Person" means a natural person, legal corporation, limited li-
+27 ability corporation, partnership, sole proprietorship, or any other
+28 business entity recognized by the state of Idaho.
+29 (e) "Public office or agency" shall have the same meaning as the defini-
+30 tion of "public official" in section 74-101, Idaho Code.
+31 (f) "Use of force" includes deadly force or the attempted or threatened
+32 use of force.
+33 (2) A person who uses force as justified in section 18-4009, Idaho Code,
+34 or as otherwise permitted in sections 19-201 through 19-205, Idaho Code,
+35 shall be immune from any criminal prosecution for the use of such force or
+36 threat of force.
+37 (3) For any use of force described in subsection (2) of this section:
+38 (a) A law enforcement officer may exercise his constitutionally enu-
+39 merated powers to facilitate an impartial investigation of the use of
+40 force incident;
+41 (b) A law enforcement officer may not arrest the person alleged to have
+42 used or threatened to use force without first obtaining a valid warrant
+
+2
+1 unless exigent circumstances exist. The warrant must state that there
+2 is probable cause that the force threatened or used was unlawful; and
+3 (c) If an arrest and detention is made pursuant to the provisions of
+4 this subsection, the arrestee may not be held for more than twenty-four
+5 (24) hours without an opportunity to make bail or post bond, pursuant to
+6 the Idaho bail act, chapter 29, title 19, Idaho Code.
+7 (4) Upon motion to the court, a pretrial immunity hearing must be held
+8 within fourteen (14) days. A single thirty (30) day continuance for good
+9 cause may be granted only in a criminal proceeding and only if the defendant
+10 is out on bail. The motion shall be styled as a motion for summary adjudica-
+11 tion and may be made during any probable cause hearing or after a grand jury
+12 indictment. Grounds for the motion shall be a justified use of force. Once
+13 the moving party makes a prima facie showing of justifiable use of force un-
+14 der Idaho law, the burden shall shift to the nonmoving party.
+15 (a) In a criminal proceeding, the court shall grant the motion for im-
+16 munity and dismiss the indictment or information unless the nonmoving
+17 party proves beyond a reasonable doubt that there is a sufficient ev-
+18 identiary dispute for the case to move forward to trial. If the court
+19 denies the motion, such denial shall be inadmissible in any subsequent
+20 criminal or civil trial.
+21 (b) In a civil proceeding, the court shall dismiss any claim, counter-
+22 claim, or defense predicated on unlawful use of force, unless the non-
+23 moving party establishes by clear and convincing evidence that there is
+24 a sufficient evidentiary dispute for the case to move forward. If the
+25 court denies the motion, such denial shall be inadmissible to the trier
+26 of fact in any subsequent trial.
+27 (c) The dismissal in a criminal action shall be provisionally deemed to
+28 be with prejudice unless new evidence is discovered that the prosecut-
+29 ing agency did not know, or have reason to know, existed at the time of
+30 the dismissal. The timeliness of the new evidence may be raised during a
+31 renewed motion for immunity.
+32 (d) The dismissal in a civil action shall be deemed to be with prejudice
+33 and shall have the full effects of res judicata and collateral estoppel.
+34 (e) The moving party in either type of action may, but need not, testify
+35 at the hearing. Both the prima facie case and any rebuttal to the non-
+36 moving party's case may be made with any admissible evidence.
+37 (5)(a) When a person subject to criminal prosecution is found not
+38 guilty of a crime or has had charges dismissed by reason of justified use
+39 of force or threat of force pursuant to section 18-4009, Idaho Code, or
+40 sections 19-201 through 19-205, Idaho Code, the county where the person
+41 was arrested or was subject to criminal prosecution shall reimburse the
+42 defendant for all reasonable costs, including but not limited to com-
+43 pensatory damages, loss of time, legal fees, including any expungement
+44 under this or any other section, and other expenses incurred during the
+45 proceedings.
+46 (b) Such reimbursement shall not be an independent cause of action. If
+47 the trier of fact makes a determination of self-defense, the judge shall
+48 determine the amount of the award.
+49 (c)(i) When a person subject to criminal prosecution is found not
+50 guilty of a crime or has had all charges dismissed by reason of jus-
+
+3
+1 tified use of force or threat of force pursuant to section 18-4009,
+2 Idaho Code, or sections 19-201 through 19-205, Idaho Code, the
+3 court shall order that the criminal history records taken in con-
+4 nection with the criminal prosecution be expunged. The court
+5 shall send notice of the order of expungement to each public office
+6 or agency that the court has reason to believe may have a record
+7 pertaining to the criminal prosecution that is the subject of the
+8 order of expungement.
+9 (ii) If the court enters an order of expungement, then the arrest
+10 and all other proceedings that are the subject of the order of ex-
+11 pungement shall be considered not to have occurred, and the crim-
+12 inal history records taken in connection with the criminal pros-
+13 ecution shall be expunged. The criminal history records that are
+14 expunged shall not be used against the person granted expungement
+15 for any purpose.
+16 (iii) Upon the entry of an order of expungement pursuant to this
+17 section, the person granted expungement shall be deemed to have
+18 never been arrested, detained in custody, charged, or prosecuted
+19 with respect to the matters that are the subject of the order of ex-
+20 pungement, and the person granted expungement may so swear under
+21 oath.
+22 (iv) All records regarding a motion for expungement conducted in
+23 accordance with the provisions of this section that are in the cus-
+24 tody of the court shall be sealed, and all references to an ar-
+25 rest or prosecution resulting in dismissal or acquittal shall be
+26 removed from all indices and records available to the public. A
+27 special index of the expungement proceedings and records shall be
+28 kept by the court ordering the expungement but shall not be avail-
+29 able to the public and shall be revealed only to the person granted
+30 expungement or upon order of a court of competent jurisdiction.
+31 (6) Whenever the issue of justified use of force or threat of force un-
+32 der this section is decided by a judge, the judge shall consider the same
+33 question as must be answered in the special verdict pursuant to subsection
+34 (7) of this section.
+35 (7) Whenever the issue of justified use of force or threat of force un-
+36 der this section has been submitted to a jury, and the jury has found the
+37 defendant not guilty, the court shall instruct the jury to return a special
+38 verdict in substantially the following form: "Was the finding of not guilty
+39 based upon self-defense? (answer yes or no)."
+40 (8) Nothing in this section shall be construed to limit or impair any
+41 defense to civil or criminal liability otherwise available.
+42 (9) All judicial proceedings that are currently pending or were con-
+43 cluded within the twelve (12) months preceding the effective date of this act
+44 shall qualify for judicial relief pursuant to this section.
+45 SECTION 2. SEVERABILITY. The provisions of this act are hereby declared
+46 to be severable and if any provision of this act or the application of such
+47 provision to any person or circumstance is declared invalid for any reason,
+48 such declaration shall not affect the validity of the remaining portions of
+49 this act.
+
+4
+1 SECTION 3. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after its
+3 passage and approval.

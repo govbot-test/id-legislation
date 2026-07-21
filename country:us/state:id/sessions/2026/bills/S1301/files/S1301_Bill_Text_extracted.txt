@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1301
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO BEER; AMENDING SECTION 23-1003, IDAHO CODE, TO REVISE PROVISIONS
+3 REGARDING SALES BY CERTAIN LICENSED BREWERS AND TO MAKE TECHNICAL COR-
+4 RECTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 23-1003, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 23-1003. BREWERS', DEALERS' AND WHOLESALERS' LICENSES. (a) Before
+9 any brewer shall manufacture or any dealer or wholesaler import or sell
+10 beer within the state of Idaho, such brewer shall apply to the director for
+11 a license. The application form shall be prescribed and furnished by the
+12 director and require that the applicant show that such brewer possesses
+13 all the qualifications and none of the disqualifications of a licensee. To
+14 determine qualification for a license, the director shall cause an inves-
+15 tigation that shall include a fingerprint-based criminal history check of
+16 the Idaho central criminal history database and the federal bureau of inves-
+17 tigation criminal history database. Each person listed as an applicant on
+18 an initial application shall submit a full set of fingerprints and the fee
+19 to cover the cost of the criminal history background check with the appli-
+20 cation. The application shall also be accompanied by the required licensee
+21 license fee; provided, that where the applicant is or will be within more
+22 than one (1) of the foregoing classifications, the applicant shall apply
+23 for each classification but shall pay only one (1) license fee, which shall
+24 be for the classification requiring the highest fee. If the director is
+25 satisfied that the applicant possesses the qualifications and none of the
+26 disqualifications for the license, the director shall issue a license for
+27 each classification applied for, subject to the restrictions and upon the
+28 conditions in this act specified, which license or licenses shall be at all
+29 times prominently displayed in the place of business of the licensee.
+30 (b) Each wholesaler shall, in addition to the application, file with
+31 the director a notice in writing signed by the dealer or brewer and the whole-
+32 saler stating the geographic territory within which the wholesaler will dis-
+33 tribute beer to retailers. The territory will be agreed upon between the
+34 dealer or brewer and the wholesaler and may not be changed or modified with-
+35 out the consent of both the dealer or brewer and the wholesaler. Provided
+36 however, nothing in this section shall be interpreted to prohibit a brewer or
+37 dealer from permitting more than one (1) distributor for the same geographic
+38 territory.
+39 (c) In the event that a wholesaler sells beer to a retailer who is lo-
+40 cated outside the geographical territory designated by that wholesaler on
+41 the notice provided for in subsection (b) of this section, the dealer or
+42 wholesaler who has designated the geographical territory in which the sale
+
+2
+1 occurred may apply to a district court of this state for the issuance of an
+2 injunction enjoining sales of beer by the wholesaler outside of its desig-
+3 nated geographical territory. The procedure for issuance of an injunction
+4 pursuant to this act shall be subject to the Idaho rules of civil procedure.
+5 Upon proof to the court that a wholesaler has made a sale of beer outside of
+6 its designated geographical territory, the court shall issue an injunction
+7 directed to the wholesaler prohibiting sales of beer outside of its desig-
+8 nated geographical territory.
+9 (d) Any licensed brewer that produces fewer than thirty thousand
+10 (30,000) barrels of beer in the aggregate annually, including any beer pro-
+11 duced outside the state of Idaho, may be issued a brewer's retail license.
+12 Upon payment of a retailer's annual license fee, and subject to the fees
+13 in sections 23-1015 and 23-1016, Idaho Code, a brewer may, at its licensed
+14 main production brewery or and at one (1) no more than two (2) remote retail
+15 location, or both locations, sell at retail the products of any brewery by
+16 the individual bottle, can, or glass. Any brewer selling beer at retail or
+17 selling products of its brewery to a retailer must pay the taxes required in
+18 section 23-1008, Idaho Code, on the products of its brewery, but need not be
+19 licensed as a wholesaler for the purpose of selling beer at the brewery or at
+20 one (1) its two (2) remote retail location locations. Upon annual approval
+21 by the director, a brewer licensed pursuant to this subsection shall not for-
+22 feit its right to sell the products of any brewery by the individual bottle,
+23 can, or glass at its licensed main production brewery or one (1) at either
+24 of its two (2) remote retail location, or both, locations should the brewer
+25 produce more than thirty thousand (30,000) barrels of beer, provided such
+26 brewer:
+27 (1) Has continuously brewed beer in and continuously maintained a phys-
+28 ical presence in the state of Idaho for no less than five (5) years;
+29 (2) Has not violated any of the provisions of this chapter resulting
+30 in a revocation or suspension of a license for multiple days during any
+31 point of the brewery's production operations; and
+32 (3) Has surrendered any wholesale license.
+33 (e) A brewer that produces fewer than thirty thousand (30,000) barrels
+34 of beer in the aggregate annually, including any beer produced outside the
+35 state of Idaho, may be licensed as a wholesaler for the sale of beer produced
+36 by such brewery. Such brewer shall maintain a warehouse physically located
+37 within the state of Idaho, distribute its beer using employees of the brew-
+38 ery with equipment owned or controlled by the brewery, and comply with and be
+39 subject to all other regulations or provisions of law that apply to a whole-
+40 saler's license, except as the laws may restrict sales at the licensed brew-
+41 ery or one (1) other remote retail location in accordance with the provisions
+42 of subsection (d) of this section. The holder of a brewer's retail license
+43 shall not be disqualified from holding a retail wine license or wine by the
+44 drink license for the sale of wine at the brewery's premises on the grounds
+45 that the licensee is also licensed as a wholesaler.
+46 SECTION 2. An emergency existing therefor, which emergency is hereby
+47 declared to exist, this act shall be in full force and effect on and after
+48 July 1, 2026.

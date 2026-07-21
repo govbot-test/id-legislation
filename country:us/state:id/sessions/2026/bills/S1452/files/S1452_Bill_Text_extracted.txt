@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1452
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE PUBLIC SCHOOLS EDUCATIONAL SUPPORT PRO-
+3 GRAM'S DIVISION OF THE IDAHO DIGITAL LEARNING ACADEMY; AMENDING SECTION
+4 22 OF SENATE BILL NO. 1362, IF ENACTED BY THE SECOND REGULAR SESSION OF
+5 THE SIXTY-EIGHTH IDAHO LEGISLATURE TO REVISE PROVISIONS REGARDING THE
+6 IDAHO DIGITAL LEARNING ACADEMY; AND DECLARING AN EMERGENCY AND PROVID-
+7 ING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 22 of House Bill No. 1362, if enacted by the
+10 Second Regular Session of the Sixty-eighth Idaho Legislature, be, and the
+11 same is hereby amended to read as follows:
+12 SECTION 22. IDAHO DIGITAL LEARNING ACADEMY. The Idaho Digital
+13 Learning Academy (IDLA), created pursuant to Chapter 55, Title 33,
+14 Idaho Code, shall utilize state-appropriated funds for the period
+15 July 1, 2026, through June 30, 2027, to achieve the following:
+16 (1) Tuition charged by IDLA to Idaho school districts and ch-
+17 arter schools shall not exceed $40.00 per enrollment.
+18 (2) (1) Provide remedial coursework for students failing to
+19 achieve proficiency in one or more areas of Idaho's standards-based
+20 tests.
+21 (3) (2) Pursuant to State Board of Education rule, IDAPA
+22 08.02.03, provide advanced opportunities, including access to dual
+23 credit courses, for students.
+24 The preceding list shall not be construed as excluding other
+25 instruction and training that may be provided by the IDLA.
+26 SECTION 2. An emergency existing therefor, which emergency is hereby
+27 declared to exist, this act shall be in full force and effect on and after
+28 July 1, 2026.

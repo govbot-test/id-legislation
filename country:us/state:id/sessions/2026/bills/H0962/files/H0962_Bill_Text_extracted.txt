@@ -1,0 +1,248 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 962
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 12, TITLE 72, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 72-1207, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING A RETURN ON INVESTMENT ANALYSIS OF THE IDAHO LAUNCH GRANT PRO-
+5 GRAM; PROVIDING A SUNSET DATE; AND DECLARING AN EMERGENCY AND PROVIDING
+6 AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 12, Title 72, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 72-1207, Idaho Code, and to read as follows:
+11 72-1207. IDAHO LAUNCH GRANT PROGRAM RETURN ON INVESTMENT ANALY-
+12 SIS. (1) At least biennially, the legislative services office shall conduct
+13 a return on investment analysis of the Idaho launch grant program estab-
+14 lished in section 72-1205, Idaho Code, and student outcomes to:
+15 (a) Determine the alignment of the program's in-demand careers with em-
+16 ployer demand, postsecondary degree or certificate programs, and in-
+17 dustry-valued credentials;
+18 (b) Identify the program's eligible in-demand careers that are linked
+19 to high-skill and higher-wage in-demand occupations;
+20 (c) Evaluate student participation and outcomes, such as postsecondary
+21 attainment, employment status, and wage earnings associated with eli-
+22 gible coursework under the program as defined in section 72-1204, Idaho
+23 Code;
+24 (d) Provide information that can be used to improve the alignment and
+25 quality of the program and increase access and successful outcomes for
+26 all students; and
+27 (e) Provide information about the availability, quality, and student
+28 outcomes of the program and its eligible institutions under the program
+29 as defined in section 72-1204, Idaho Code, to support students and fami-
+30 lies in making informed decisions about educational options.
+31 (2) The return on investment analysis of the Idaho launch grant program
+32 provided for in this section shall be conducted in collaboration with the
+33 Idaho workforce development council, all eligible institutions under the
+34 program, representatives from business and industry, and any other appro-
+35 priate stakeholders. These entities shall:
+36 (a) Support the completion of a high-quality return on investment anal-
+37 ysis of the program by timely collecting and providing data and infor-
+38 mation in the manner specified by the legislative services office and in
+39 accordance with state and federal law; and
+40 (b) Support the implementation of recommendations resulting from the
+41 return on investment analysis of the program, which may include align-
+
+2
+1 ment or revision of agency or entity policies, processes, and proce-
+2 dures.
+3 (3) The legislative services office, in consultation with the Idaho
+4 workforce development council, all eligible institutions under the pro-
+5 gram, representatives from business and industry, and any other appropriate
+6 stakeholders, shall develop and publish a methodology to conduct the return
+7 on investment analysis of the program and its outcomes. The methodology
+8 shall use consistent data definitions, criteria, or thresholds across edu-
+9 cation systems and program institutions, to the extent practicable.
+10 (4) The return on investment analysis of the program shall include but
+11 is not limited to an analysis of:
+12 (a) Statewide and regional labor market information, including cur-
+13 rent and projected economic, labor market, and wage data reflecting the
+14 needs of the state, regional, and global economy and workforce that in-
+15 cludes:
+16 (i) Development of a methodology to classify occupations at the
+17 statewide and regional levels based on measures of skill, demand,
+18 wage, and growth; and
+19 (ii) Identification of statewide and regional employment oppor-
+20 tunities in high-demand, high-growth, and higher-wage occupa-
+21 tions;
+22 (b) Alignment of current program in-demand careers, eligible institu-
+23 tions, and eligible coursework with statewide and regional employment
+24 opportunities, including:
+25 (i) Identification of eligible institutions and eligible course-
+26 work under the program leading to high-skill, high-demand, high-
+27 growth, and higher-wage occupations;
+28 (ii) Identification of gaps in program offerings leading to high-
+29 growth, high-demand, and higher-wage occupations;
+30 (iii) Identification of in-demand careers, eligible institu-
+31 tions, and eligible coursework under the program that do not lead
+32 students to high-growth, high-demand, or higher-wage employment
+33 opportunities;
+34 (iv) Postsecondary certificate or degree programs offered; and
+35 (v) Industry-valued credentials used by employers in the state in
+36 hiring and promotion decisions;
+37 (c) Experiences of participating students that can be disaggregated by
+38 student demographics, eligible institutions, and eligible coursework
+39 under the program and compared to experiences of nonparticipating stu-
+40 dents, including but not limited to:
+41 (i) Program eligible institution enrollment, progression, and
+42 completion, including:
+43 1. Programs offered by all public and private schools or
+44 postsecondary institutions;
+45 2. Student enrollment in each eligible coursework offered
+46 by an eligible institution under the program;
+47 3. Student course completion and credit attainment in each
+48 eligible institution under the program;
+49 4. Student completion of each eligible coursework under the
+50 program; and
+
+3
+1 5. Unmet student demand for each eligible institution under
+2 the program, including waiting lists and students not en-
+3 rolled due to space constraints;
+4 (ii) Industry-valued credentials, including:
+5 1. Student enrollment in courses or institutions aligned
+6 with each industry-valued credential;
+7 2. Student participation, including attempts, in each in-
+8 dustry-valued credential examination or assessment;
+9 3. Student attainment of each industry-valued credential;
+10 and
+11 4. Student attainment of each industry-valued credential
+12 that articulates to postsecondary credit;
+13 (iii) Postsecondary credit attainment, including:
+14 1. Postsecondary credits or hours earned as part of the pro-
+15 gram; and
+16 2. Postsecondary credits or hours earned outside of the pro-
+17 gram; and
+18 (iv) Work-based learning experiences, including:
+19 1. The type of each work-based learning experience;
+20 2. The characteristics of each work-based learning experi-
+21 ence, including but not limited to the duration, whether it
+22 was paid or unpaid, or whether it was for credit or no credit;
+23 3. Placement information including industry code (the North
+24 American industry classification system) and occupation
+25 code (the standard industrial classification);
+26 4. Pre-apprenticeship and youth apprenticeship program en-
+27 rollment and progression; and
+28 5. Apprenticeship program enrollment and progression; and
+29 (d) Student outcomes that can be disaggregated by student demograph-
+30 ics, eligible institutions, and eligible coursework under the program
+31 compared to outcomes of students not participating in the program, in-
+32 cluding:
+33 (i) Enrollment and persistence data disaggregated by type of in-
+34 stitution, including technical colleges, two (2) year colleges,
+35 four (4) year colleges, or private providers, and by type of cul-
+36 minating credential, including certificates or diplomas and asso-
+37 ciate or bachelor's degrees, including:
+38 1. Enrollment in a postsecondary program;
+39 2. Postsecondary persistence, including credit or hour at-
+40 tainment; and
+41 3. Postsecondary degree or credential attainment; and
+42 (ii) Employment outcomes, including:
+43 1. Employment status, including full-time or part-time em-
+44 ployment;
+45 2. Employment field by industry code (the North American
+46 industry classification system) and occupation code (the
+47 standard industrial classification);
+48 3. Wage earnings; and
+
+4
+1 4. Other indicators of quality that can be disaggregated by
+2 student demographics, eligible institutions, and eligible
+3 coursework, including educator workforce, including:
+4 (A) Current educator qualifications, expertise, and
+5 specialized knowledge;
+6 (B) Opportunities for educators to learn new skills
+7 valued by employers;
+8 (C) Educator positions that are unfilled or filled
+9 by instructors who do not have appropriate knowledge,
+10 skills, or experience; and
+11 (D) Total and per-student amount of program funding
+12 allocated to each student and amount spent per student
+13 and amount reverted.
+14 (5) Using the findings from the return on investment analysis of the
+15 Idaho launch grant program provided for in this section, the legislative
+16 services office, in consultation with the Idaho workforce development coun-
+17 cil, all eligible institutions under the program, representatives from
+18 business and industry, and any other appropriate stakeholders, shall de-
+19 velop recommendations to improve labor market alignment, quality, student
+20 access and outcomes, and operational efficiencies of the program. These
+21 recommendations shall include detailed information, including roles, re-
+22 sponsibilities, action steps, and timelines to achieve state agency policy,
+23 process, and resource allocation strategies that will:
+24 (a) Increase the alignment between the program and the state's economy,
+25 including:
+26 (i) Offering new programs that lead to high-skill, high-demand,
+27 high-growth, and higher-wage occupations but that are not offered
+28 by eligible institutions under the program;
+29 (ii) Phasing out program offerings that are not aligned with the
+30 needs of employers or do not provide program participants with a
+31 middle-wage or high-wage job; and
+32 (iii) Requiring school districts and eligible institutions to
+33 align offerings to ensure seamless pathways for students from
+34 grades K-12 through postsecondary school;
+35 (b) Identify and address gaps between student groups in access, partic-
+36 ipation, and successful outcomes through the program;
+37 (c) Identify policies, processes, legal and resource barriers, or
+38 other barriers that prevent students from accessing or succeeding in
+39 eligible institutions and eligible coursework under the program, along
+40 with detailed recommendations for the agency or stakeholder responsi-
+41 ble for removing these barriers; and
+42 (d) Identify and develop a plan and timeline to collect data elements
+43 needed for a complete and high-quality return on investment analysis of
+44 the program that are not currently available or accessible.
+45 (6) By December 31, the legislative services office shall submit to
+46 the governor, the president pro tempore of the senate, and the speaker of
+47 the house of representatives a summary report and publicly post such report
+48 on the Idaho legislature's website and the workforce development council's
+49 website. The summary report shall contain detailed supporting data, includ-
+50 ing, at a minimum:
+
+5
+1 (a) The findings of the return on investment analysis of the program
+2 broken down by student demographics, eligible institution, and in-de-
+3 mand career;
+4 (b) The recommendations to improve labor market alignment, quality,
+5 student access and outcomes, and operational efficiencies across the
+6 eligible institutions and eligible coursework under the program;
+7 (c) A list of existing eligible institutions and eligible coursework
+8 under the program that are not aligned to employer demand or do not pre-
+9 pare students for a middle-wage or high-wage job;
+10 (d) A list of in-demand knowledge, skills, and competencies from em-
+11 ployers that are currently not being met through existing eligible in-
+12 stitutions and eligible coursework under the program; and
+13 (e) Beginning with the second return on investment analysis of the pro-
+14 gram, an update on the implementation status, activities, and outcomes
+15 stemming from the prior report's recommendations.
+16 (7) Following the release of the summary report, the legislative ser-
+17 vices office and collaborating agencies shall publicly present the findings
+18 and seek feedback from stakeholders across the state to inform future itera-
+19 tions of the return on investment analysis of the program under this section.
+20 Stakeholder engagement and feedback shall not be prevented throughout the
+21 return on investment analysis of the program process.
+22 (8) By January 1, the legislative services office shall provide com-
+23 plete, matched data sets used in the return on investment analysis of the
+24 program to the Idaho workforce development council, all eligible institu-
+25 tions under the program, representatives from business and industry, and any
+26 other appropriate stakeholders. The data sets shall be provided in a manner
+27 and format that:
+28 (a) Supports continuous program improvement and robust feedback of el-
+29 igible institutions and eligible coursework under the program;
+30 (b) Allows for aggregated findings for each eligible institution and
+31 eligible coursework under the program, including outcomes, to be re-
+32 ported publicly to students, families, and community members; and
+33 (c) Complies with all applicable state and federal laws.
+34 SECTION 2. The provisions of Section 1 of this act shall be null, void,
+35 and of no force and effect on and after July 1, 2029.
+36 SECTION 3. An emergency existing therefor, which emergency is hereby
+37 declared to exist, this act shall be in full force and effect on and after
+38 July 1, 2026.

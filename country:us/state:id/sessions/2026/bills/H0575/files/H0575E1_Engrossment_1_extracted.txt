@@ -1,0 +1,446 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 575, As Amended
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO DUTIES OF THE STATE CONTROLLER; AMENDING SECTION 67-1001, IDAHO
+3 CODE, TO REQUIRE THE STATE CONTROLLER TO STORE, MAINTAIN, AND PUBLISH
+4 A CURRENT LIST OF CERTAIN ASSET FORFEITURES; AMENDING SECTION 37-2744,
+5 IDAHO CODE, TO REQUIRE STATE, COUNTY, AND LOCAL LAW ENFORCEMENT AGEN-
+6 CIES TO SHARE INFORMATION RELATING TO CERTAIN ASSET FORFEITURES WITH
+7 THE STATE CONTROLLER; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+8 FECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 67-1001, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 67-1001. DUTIES OF CONTROLLER. It is the duty of the state controller:
+13 (1) To superintend the fiscal concerns of the state, with its account-
+14 ing, informational, payroll, and related data processing services.
+15 (2) To deliver to the governor and the legislative services office on
+16 or before the first day of January a financial statement that complies with
+17 generally accepted accounting principles of the funds of the state, its rev-
+18 enues, and of the public expenditures during the preceding fiscal year.
+19 (3) When requested, to give information in writing to either house of
+20 the legislature relating to the fiscal affairs of the state or the duties of
+21 his office.
+22 (4) To suggest plans and provide internal control standards for the im-
+23 provement and management of the public revenues, assets, expenditures, and
+24 liabilities.
+25 (5) To keep and state all funds in which the state is interested.
+26 (6) To keep an account of all warrants drawn upon the treasurer, and a
+27 separate account under the head of each specified appropriation, showing at
+28 all times the unexpended balance of such appropriation.
+29 (7) To keep an account between the state and the treasurer and therein
+30 to charge the treasurer with the balance in the treasury when he came into
+31 office and with all moneys received by him and to credit him with all warrants
+32 drawn on and paid by him.
+33 (8) To keep a register of warrants showing the fund or funds upon which
+34 they are drawn, the number, in whose favor, the appropriation applicable to
+35 the payment thereof, and when the liability accrued.
+36 (9) To examine and settle the accounts of all persons indebted to the
+37 state.
+38 (10) In his discretion, to require any person presenting an account for
+39 settlement to be sworn before him and to answer, orally or in writing, as to
+40 any facts relating to the account for settlement.
+41 (11) To require all persons who have received any moneys belonging to
+42 the state, and have not accounted therefor, to settle their accounts.
+
+2
+1 (12) To account for the collection of all moneys due the state that are
+2 not the responsibility of any other agency and institute suits in its name
+3 for all official delinquencies in relation to assessment, collection and
+4 payment of the revenue, against persons who by any means have become pos-
+5 sessed of public money or property and fail to pay over or deliver the same,
+6 and against all debtors of the state, of which suits the courts of Ada county
+7 have jurisdiction, without regard to the residence of the defendants.
+8 (13) To draw warrants on the treasurer for the payment of moneys di-
+9 rected by law to be paid out of the treasury; but no warrant must be drawn
+10 unless authorized by law.
+11 (14) To furnish the state treasurer with a daily total dollar amount, by
+12 fund and/or account when requested by the state treasurer, of warrants drawn
+13 upon the treasury.
+14 (15) To authenticate with his signature, his electronic signature, or
+15 his facsimile signature all warrants drawn by him and all copies of official
+16 documents issued from his office.
+17 (16) To charge the state treasurer with money and evidences of indebted-
+18 ness received from, and to credit him for money drawn by, the state board of
+19 land commissioners in the moneys or accounts over which said board has con-
+20 trol.
+21 (17) To act ex officio as member of the state board of canvassers and
+22 state board of land commissioners, secretary of the state board of examin-
+23 ers, and participant in other organizations in the performance of such du-
+24 ties as prescribed by law for such officer.
+25 (18) To create and establish such divisions and other administrative
+26 units within the office as necessary.
+27 (19) To be the official repository of all audit reports of the state and
+28 political subdivisions that are required to be audited pursuant to sections
+29 67-450B, 67-450C, and 67-450D, Idaho Code.
+30 (20) To store, maintain, and publish a current list of agreements en-
+31 tered into by state officers and agencies pursuant to section 67-1085, Idaho
+32 Code.
+33 (21) To store, maintain, and publish a current list of asset forfei-
+34 tures pursuant to section 37-2744, Idaho Code.
+35 SECTION 2. That Section 37-2744, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 37-2744. FORFEITURES. (a) The following are subject to forfeiture:
+38 (1) All controlled substances that have been manufactured, dis-
+39 tributed, dispensed, acquired, possessed or held in violation of this
+40 act or with respect to which there has been any act by any person in vio-
+41 lation of this act;
+42 (2) All raw materials, products and equipment of any kind that are used,
+43 or intended for use, in manufacturing, compounding, processing, deliv-
+44 ering, importing, or exporting any controlled substances or counter-
+45 feit substances in violation of this act;
+46 (3) All property that is used, or intended for use, as a container
+47 for property used in the commission of an act prohibited by section
+48 37-2732B, 37-2732(a) or (b), or 37-2737A, Idaho Code;
+
+3
+1 (4) All conveyances, including aircraft, vehicles, or vessels, that
+2 are used, or intended for use, to transport, or in any manner to fa-
+3 cilitate the transportation, delivery, receipt or manufacture of
+4 substances as prohibited by section 37-2732B, 37-2732(a) or (b), or
+5 37-2737A, Idaho Code, but:
+6 (A) No conveyance used by any person as a common carrier in the
+7 transaction of business as a common carrier is subject to forfei-
+8 ture under this section unless it appears that the owner or other
+9 person in charge of the conveyance is a consenting party or privy
+10 to a violation of this act;
+11 (B) No conveyance is subject to forfeiture under this section if
+12 the owner establishes that he could not have known in the exercise
+13 of reasonable diligence that the conveyance was being used, had
+14 been used, was intended to be used or had been intended to be used
+15 in any manner described in subsection (a)(4) of this section;
+16 (C) A forfeiture of a conveyance encumbered by a bona fide secu-
+17 rity interest is subject to the interest of the secured party if
+18 the security interest was created without any knowledge or reason
+19 to believe that the conveyance was being used, had been used, was
+20 intended to be used, or had been intended to be used for the purpose
+21 alleged.
+22 (5) All books, records, and research products and materials, including
+23 formulas, microfilm, tapes, and data that are used, or intended for use,
+24 in violation of this act.
+25 (6)(A) All moneys, currency, negotiable instruments, securities
+26 or other items easily liquidated for cash, such as, but not lim-
+27 ited to, jewelry, stocks and bonds, or other property described in
+28 paragraphs (2) and (3) of this subsection that is found in close
+29 proximity to property described in paragraph (1), (2), (3), (5),
+30 (7) or (8) of this subsection and that has been used or is intended
+31 for use in connection with the illegal manufacture, distribution,
+32 dispensing or possession of property described in paragraph (1),
+33 (2), (3), (5), (7) or (8) of this subsection;
+34 (B) Items described in subparagraph (A) of this paragraph or other
+35 things of value furnished or intended to be furnished by any person
+36 in exchange for a contraband controlled substance in violation of
+37 this chapter, all proceeds, including items of property traceable
+38 to such an exchange, and all moneys or other things of value used or
+39 intended to be used to facilitate any violation of this chapter,
+40 except that no property shall be forfeited under this paragraph
+41 to the extent of the interest of an owner, by reason of any act or
+42 omission established by that owner to have been committed or omit-
+43 ted without the knowledge or consent of that owner.
+44 (7) All drug paraphernalia as defined by section 37-2701, Idaho Code.
+45 (8) All simulated controlled substances, which are used or intended for
+46 use in violation of this chapter.
+47 (9) All weapons, or firearms, which are used in any manner to facilitate
+48 a violation of the provisions of this chapter.
+49 (b) Property subject to forfeiture under this chapter may be seized by
+50 the director, or any peace officer of this state, upon process issued by any
+
+4
+1 district court, or magistrate division thereof, having jurisdiction over
+2 the property. Seizure without process may be made if:
+3 (1) The seizure is incident to an arrest or a search under a search war-
+4 rant or an inspection under an administrative inspection warrant;
+5 (2) The property subject to seizure has been the subject of a prior
+6 judgment in favor of the state in a criminal racketeering or civil for-
+7 feiture proceeding based upon a violation of this chapter;
+8 (3) Probable cause exists to believe that the property is directly or
+9 indirectly dangerous to health or safety; or
+10 (4) Probable cause exists to believe that the property was used or is
+11 intended to be used in violation of this chapter.
+12 Mere presence or possession of United States currency, without other indicia
+13 of criminal activity, is insufficient cause for seizure.
+14 (c) In the event of seizure pursuant to subsection (b) of this sec-
+15 tion, proceedings under subsection (d) of this section shall be instituted
+16 promptly.
+17 (1) When property is seized under this section, the director or the
+18 peace officer who seized the property may:
+19 (A) Place the property under seal;
+20 (B) Remove the property to a place designated by him; or
+21 (C) Take custody of the property and remove it to an appropriate
+22 location for disposition in accordance with law.
+23 (2) The peace officer who seized the property shall within five (5) days
+24 notify the director of such seizure.
+25 (3) In the event of seizure pursuant to subsection (b) of this section,
+26 proceedings under subsection (d) of this section shall be instituted
+27 within thirty (30) days by the director or appropriate prosecuting at-
+28 torney.
+29 (d) Property taken or detained under this section may be subject to re-
+30 plevin during the pendency of the forfeiture proceedings upon a hearing and
+31 finding by the district court, or magistrate division thereof, having juris-
+32 diction over the forfeiture proceedings, that the property is: (i) reason-
+33 ably necessary for the owner's employment or personal use, that the property
+34 will not be disposed of or used for criminal activity, and that reasonable
+35 security has been posted; or (ii) that the seizure violated the provisions
+36 of this section. The right of replevin shall terminate upon an order of for-
+37 feiture as set forth in this section. Property that is being held that has
+38 evidentiary value in the underlying criminal case shall not be subject to re-
+39 plevin. Forfeiture proceedings shall be civil actions against the property
+40 subject to forfeiture and the standard of proof shall be preponderance of the
+41 evidence.
+42 (1) All property described in paragraphs (1), (7) and (8) of subsection
+43 (a) of this section shall be deemed contraband and shall be summarily
+44 forfeited to the state. Controlled substances that are seized or come
+45 into possession of the state, the owners of which are unknown, shall be
+46 deemed contraband and shall be summarily forfeited to the state.
+47 (2) When property described in paragraphs (2), (3), (4), (5), (6) or (9)
+48 of subsection (a) of this section is seized pursuant to this section,
+49 forfeiture proceedings shall be filed in the office of the clerk of the
+50 district court for the county wherein such property is seized. The pro-
+
+5
+1 cedure governing such proceedings shall be the same as that prescribed
+2 for civil proceedings by the Idaho rules of civil procedure. The court
+3 shall determine whether such property was used, or intended for use,
+4 in violation of this chapter. The court shall also determine whether a
+5 property forfeiture is proportionate to the crime alleged, charged or
+6 proven. Factors to be considered by the court in making such a determi-
+7 nation shall include, but are not limited to, the nature and severity of
+8 the crime, the fair market value of the property, the intangible or sub-
+9 jective value of the property, the hardship to the defendant, the effect
+10 of forfeiture on the defendant's family or financial circumstances, and
+11 any other sanctions or penalties that have been imposed upon the defen-
+12 dant. The court may tailor the forfeiture of property according to its
+13 determination of proportionality as justice requires.
+14 (3) When conveyances, including aircraft, vehicles, or vessels, are
+15 seized pursuant to this section, a complaint instituting forfeiture
+16 proceedings shall be filed in the office of the clerk of the district
+17 court for the county wherein such conveyance is seized.
+18 (A) Notice of forfeiture proceedings shall be given to each owner
+19 or party in interest who has a right, title, or interest which in
+20 the case of a conveyance shall be determined by the record in the
+21 Idaho transportation department, or a similar department of an-
+22 other state if the records are maintained in that state, by serving
+23 a copy of the complaint and summons according to one (1) of the fol-
+24 lowing methods:
+25 (I) Upon each owner or party in interest by mailing a copy of
+26 the complaint and summons by certified mail to the address as
+27 given upon the records of the appropriate department.
+28 (II) Upon each owner or party in interest whose name and ad-
+29 dress is known, by mailing a copy of the notice by registered
+30 mail to the last known address.
+31 (B) Within twenty (20) days after the mailing or publication of
+32 the notice, the owner of the conveyance or claimant may file a ver-
+33 ified answer and claim to the property described in the complaint
+34 instituting forfeiture proceedings.
+35 (C) If at the end of twenty (20) days after the notice has been
+36 mailed there is no verified answer on file, the court shall hear
+37 evidence upon the fact of the unlawful use, or intent to use, and
+38 shall order the property forfeited to the director, or appropriate
+39 prosecuting attorney, if such fact is proved.
+40 (D) If a verified answer is filed, the forfeiture proceeding shall
+41 be set for hearing before the court without a jury on a day not less
+42 than thirty (30) days therefrom; and the proceeding shall have
+43 priority over other civil cases.
+44 (I) At the hearing any owner who has a verified answer on
+45 file may show by competent evidence that the conveyance was
+46 not used or intended to be used in any manner described in
+47 subsection (a)(4) of this section.
+48 (II) At the hearing any owner who has a verified answer on
+49 file may show by competent evidence that his interest in the
+50 conveyance is not subject to forfeiture because he did not
+
+6
+1 know that the conveyance was being used, had been used, was
+2 intended to be used or had been intended to be used in any
+3 manner described in subsection (a)(4) of this section.
+4 (III) If the court finds that the property was not used or was
+5 not intended to be used in violation of this act, or is not
+6 subject to forfeiture under this act, the court shall order
+7 the property released to the owner as his right, title, or
+8 interest appears on records in the appropriate department as
+9 of the seizure.
+10 (IV) An owner, co-owner or claimant of any right, title, or
+11 interest in the conveyance may prove that his right, title,
+12 or interest, whether under a lien, mortgage, conditional
+13 sales contract or otherwise, was created without any knowl-
+14 edge or reason to believe that the conveyance was being used,
+15 had been used, was intended to be used, or had been intended
+16 to be used for the purpose alleged;
+17 (i) In the event of such proof, the court shall or-
+18 der the conveyance released to the bona fide or inno-
+19 cent owner, purchaser, lienholder, mortgagee, or con-
+20 ditional sales vendor.
+21 (ii) If the amount due to such person is less than the
+22 value of the conveyance, the conveyance may be sold at
+23 public auction by the director or appropriate prose-
+24 cuting attorney. The director, or appropriate prose-
+25 cuting attorney, shall publish a notice of the sale by
+26 at least one (1) publication in a newspaper published
+27 and circulated in the city, community or locality where
+28 the sale is to take place at least one (1) week prior
+29 to sale of the conveyance. The proceeds from such sale
+30 shall be distributed as follows in the order indicated:
+31 1. To the bona fide or innocent owner, purchaser,
+32 conditional sales vendor, lienholder or mort-
+33 gagee of the conveyance, if any, up to the value
+34 of his interest in the conveyance.
+35 2. The balance, if any, in the following order:
+36 A. To the director, or appropriate prose-
+37 cuting attorney, for all expenditures made
+38 or incurred by him in connection with the
+39 sale, including expenditure for any neces-
+40 sary repairs, storage, or transportation
+41 of the conveyance, and for all expendi-
+42 tures made or incurred by him in connection
+43 with the forfeiture proceedings includ-
+44 ing, but not limited to, expenditures for
+45 witnesses' fees, reporters' fees, tran-
+46 scripts, printing, traveling and investi-
+47 gation.
+48 B. To the law enforcement agency of this
+49 state which seized the conveyance for all
+50 expenditures for traveling, investiga-
+
+7
+1 tion, storage and other expenses made or
+2 incurred after the seizure and in connec-
+3 tion with the forfeiture of any conveyance
+4 seized under this act.
+5 C. The remainder, if any, to the director
+6 for credit to the drug and driving while
+7 under the influence enforcement donation
+8 fund or to the appropriate prosecuting
+9 attorney for credit to the local drug en-
+10 forcement donation fund, or its equiva-
+11 lent.
+12 (iii) In any case, the director, or appropriate pros-
+13 ecuting attorney, may, within thirty (30) days after
+14 judgment, pay the balance due to the bona fide lien-
+15 holder, mortgagee or conditional sales vendor and
+16 thereby purchase the conveyance for use to enforce this
+17 act.
+18 (e) When property is forfeited under this section, or is received from a
+19 federal enforcement agency, the director, or appropriate prosecuting attor-
+20 ney, may:
+21 (1) Upon a showing that the property as set forth in this section is
+22 suited for and likely to be used for law enforcement activities, the
+23 plaintiff or law enforcement agency may, with judicial approval, retain
+24 it for official use;
+25 (2) Sell that which is not required to be destroyed by law and which is
+26 not harmful to the public.
+27 The director, or appropriate prosecuting attorney, shall publish a no-
+28 tice of the sale by at least one (1) publication in a newspaper published
+29 and circulated in the city, community or locality where the sale is to
+30 take place at least one (1) week prior to sale of the property. The pro-
+31 ceeds from such sale shall be distributed as follows in the order indi-
+32 cated:
+33 (A) To the director, or prosecuting attorney on behalf of the
+34 county or city law enforcement agency, for all expenditures made
+35 or incurred in connection with the sale, including expenditure
+36 for any necessary repairs, maintenance, storage or transporta-
+37 tion, and for all expenditures made or incurred in connection
+38 with the forfeiture proceedings including, but not limited to,
+39 expenditures for witnesses' fees, reporters' fees, transcripts,
+40 printing, traveling and investigation.
+41 (B) To the law enforcement agency of this state which seized the
+42 property for all expenditures for traveling, investigation, stor-
+43 age and other expenses made or incurred after the seizure and in
+44 connection with the forfeiture of any property seized under this
+45 act.
+46 (C) The remainder, if any, to the director for credit to the drug
+47 and driving while under the influence enforcement donation fund
+48 or to the appropriate prosecuting attorney for credit to the local
+49 agency's drug enforcement donation fund; or
+
+8
+1 (3) Take custody of the property and remove it for disposition in accor-
+2 dance with law.
+3 (f)(1) The director or any peace officer of this state seizing any of
+4 the property described in paragraphs (1) and (2) of subsection (a) of
+5 this section shall cause a written inventory to be made and maintain
+6 custody of the same until all legal actions have been exhausted unless
+7 such property has been placed in lawful custody of a court or state
+8 or federal law enforcement agency. After all legal actions have been
+9 exhausted with respect to such property, the property shall be surren-
+10 dered by the court, law enforcement agency, or person having custody
+11 of the same to the director to be destroyed pursuant to paragraph (2)
+12 of this subsection. The property shall be accompanied with a written
+13 inventory on forms furnished by the director.
+14 (2) All property described in paragraphs (1) and (2) of subsection (a)
+15 of this section that is seized or surrendered under the provisions of
+16 this act may be destroyed after all legal actions have been exhausted.
+17 The destruction shall be done under the supervision of the Idaho state
+18 police by a representative of the office of the director. An official
+19 record listing the property destroyed and the location of destruction
+20 shall be kept on file at the office of the director. Except, however,
+21 that the director of the Idaho state police or his designee may autho-
+22 rize the destruction of drug or nondrug evidence, or store those items
+23 at government expense when, in the opinion of the director or his de-
+24 signee, it is not reasonable to remove or transport such items from the
+25 location of the seizure for destruction. In such case, a representative
+26 sample will be removed and preserved for evidentiary purposes and, when
+27 practicable, destroyed as otherwise is in accordance with this chapter.
+28 On-site destruction of such items shall be witnessed by at least two (2)
+29 persons, one (1) of whom shall be the director or his designee who shall
+30 make a record of the destruction.
+31 (g) Species of plants from which controlled substances in schedules I
+32 and II may be derived that have been planted or cultivated in violation of
+33 this act, or of which the owners or cultivators are unknown, or that are wild
+34 growths, may be seized and summarily forfeited to the state.
+35 (h) The failure, upon demand by the director, or his duly authorized
+36 agent, of the person in occupancy or in control of land or premises upon which
+37 the species of plants are growing or being stored, to produce an appropriate
+38 registration, or proof that he is the holder thereof, constitutes authority
+39 for the seizure and forfeiture of the plants.
+40 (i) The director shall have the authority to enter upon any land or into
+41 any dwelling pursuant to a search warrant, to cut, harvest, carry off or de-
+42 stroy such plants described in subsection (g) of this section.
+43 (j)(1) On or before March 31, 2019, and by March 31 of each year there-
+44 after, each state, county, or local law enforcement agency in this state
+45 that has seized or forfeited property pursuant to this section shall re-
+46 tain the following information from the previous calendar year:
+47 (1) (A) Name of the law enforcement agency that seized the prop-
+48 erty;
+49 (2) (B) Date of seizure;
+
+9
+1 (3) (C) Type and description of property seized, including make,
+2 model, year, and serial number, if applicable;
+3 (4) (D) Crime, if any, for which the suspect has been charged, in-
+4 cluding whether such crime is a violation of state or federal law;
+5 (5) (E) Criminal case number, if any;
+6 (6) (F) Outcome, if any, of suspect's case;
+7 (7) (G) If forfeiture was not processed under state law, the rea-
+8 son for the federal transfer, if known;
+9 (8) (H) Forfeiture case number;
+10 (9) (I) Date of forfeiture decision;
+11 (10) (J) Whether there was a forfeiture settlement agreement;
+12 (11) (K) Date and outcome of property disposition as described by
+13 one (1) of the following: returned to owner, partially returned to
+14 owner, sold, destroyed, or retained by law enforcement; and
+15 (12) (L) Value of the property forfeited based on the value real-
+16 ized, if sold, or a reasonable good faith estimate of the value, if
+17 possible.
+18 (2) Local and county law enforcement agencies shall submit the informa-
+19 tion required by this subsection to the county prosecutor for its juris-
+20 diction on a form as promulgated in rule by the Idaho state police, and
+21 such prosecutor shall retain the form for a period of seven (7) years.
+22 (3) State, county, and local law enforcement agencies shall, by April 1
+23 of each year, submit information described pursuant to this subsection
+24 relating to the previous calendar year to the state controller for stor-
+25 age, maintenance, and publication pursuant to section 67-1001, Idaho
+26 Code.
+27 SECTION 3. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2026.

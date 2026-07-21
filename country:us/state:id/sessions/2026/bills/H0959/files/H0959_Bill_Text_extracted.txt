@@ -1,0 +1,335 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 959
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING CHAPTER 18, TITLE 34, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW SECTION 34-1801D, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING INITIATIVE PROCEDURES FOR FIRE PROTECTION DISTRICTS AND AMBU-
+5 LANCE SERVICE DISTRICTS; AMENDING SECTION 63-802, IDAHO CODE, TO REVISE
+6 PROVISIONS REGARDING LIMITATIONS OF BUDGET REQUESTS AND CERTAIN EXCEP-
+7 TIONS; AMENDING SECTION 31-1423, IDAHO CODE, TO PROVIDE A CORRECT CODE
+8 REFERENCE; AND DECLARING AN EMERGENCY, PROVIDING RETROACTIVE APPLICA-
+9 TION, AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Chapter 18, Title 34, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 34-1801D, Idaho Code, and to read as follows:
+14 34-1801D. INITIATIVE PROCEDURES FOR FIRE PROTECTION DISTRICTS AND
+15 AMBULANCE SERVICE DISTRICTS. Each fire protection district and ambulance
+16 service district shall allow direct legislation by the people through the
+17 initiative to increase or decrease the property tax budget of the district.
+18 Such districts shall follow the procedures set forth in this chapter subject
+19 to the following provisions:
+20 (1) The county prosecuting attorney of the county in which the district
+21 office is located shall perform those duties assigned to the attorney gen-
+22 eral.
+23 (2) The district clerk shall perform those duties assigned to the sec-
+24 retary of state.
+25 (3) District initiative elections shall be held on the Tuesday follow-
+26 ing the first Monday in November in odd-numbered years.
+27 (4) Pursuant to section 34-1809, Idaho Code, the county prosecuting at-
+28 torney of the county in which the district office is located shall prepare
+29 recommendations concerning revision of the initiative, shall issue a cer-
+30 tificate of review to the district clerk, and shall prepare the ballot title
+31 and short title.
+32 (5) An action brought pursuant to section 34-1809, Idaho Code, chal-
+33 lenging the ballot title or short title shall be brought in the district
+34 court in the county in which the district office is located.
+35 (6) To be eligible to sign a petition for a district initiative, a
+36 person shall be a qualified elector of the district at the time of signing
+37 thereon.
+38 (7) To perfect a petition for a district initiative, the petition shall
+39 have signatures from at least twenty percent (20%) of the total number of
+40 qualified electors voting in the most recent general district election ac-
+41 tually held in November of an odd-numbered year.
+
+2
+1 (8) The provisions of section 34-1805, Idaho Code, relating to the num-
+2 ber of required signatures and geographic distribution of signatures shall
+3 not apply to district initiatives.
+4 (9) Any person who circulates a petition for a district initiative
+5 shall be a resident of the state of Idaho and at least eighteen (18) years of
+6 age and, pursuant to section 34-1807, Idaho Code, shall certify such per-
+7 son's belief that each signer of the petition is a qualified elector of the
+8 state of Idaho and the district.
+9 (10) A copy of all petitions and signature sheets shall be kept by the
+10 district clerk as a public record.
+11 (11) The deadline for submission of signatures to the district clerk is
+12 one hundred eighty (180) days after the petitioners for initiative receive
+13 the official ballot title from the district clerk, or April 30 of the year of
+14 the initiative election, whichever is earlier.
+15 (12) Petitioners must submit the signed initiative petitions to the
+16 county clerk for verification no later than the close of business on the
+17 first day of May in the year of the initiative election, or one hundred eighty
+18 (180) days after the petitioners receive the official ballot title from the
+19 district clerk, whichever is earlier.
+20 (13) The county clerk shall have sixty (60) calendar days to verify the
+21 signatures as provided in section 34-1802(3), Idaho Code.
+22 (14) The district board shall have the option to adopt the property tax
+23 budget reduction proposed by initiative within thirty (30) days after the
+24 notification pursuant to section 34-1807, Idaho Code, provided that the pe-
+25 tition has the required number of signatures. The district board shall hold
+26 a public hearing on the proposed property tax budget reduction within the
+27 thirty (30) day period, preceded by legal notice published once in the dis-
+28 trict at least seven (7) days preceding the hearing. If the property tax bud-
+29 get reduction is not adopted by the district board by the end of the thirty
+30 (30) day period, the initiative shall be put on the ballot.
+31 (15) As provided by sections 34-1812A through 34-1812C, Idaho Code, a
+32 voters' pamphlet shall be prepared by the district clerk.
+33 (16) To be passed into law, an initiative shall be approved by the same
+34 percentage of votes cast as required for the passage of a budget increase
+35 pursuant to section 63-802(1)(h), Idaho Code.
+36 (17) The district board shall issue the proclamation provided by sec-
+37 tion 34-1813, Idaho Code.
+38 (18) The district clerk shall notify the county clerk and the state tax
+39 commission of any property tax budget change, within thirty (30) days after:
+40 (a) The proclamation by the district board provided in subsection (17)
+41 of this section; or
+42 (b) The approval by the district board of a property tax budget reduc-
+43 tion that obviates the need to place the initiative on the ballot pur-
+44 suant to subsection (14) of this section.
+45 (19) This section does not apply to bond elections.
+46 SECTION 2. That Section 63-802, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+48 63-802. LIMITATION ON BUDGET REQUESTS -- LIMITATION ON TAX CHARGES --
+49 EXCEPTIONS. (1) Except as otherwise provided in this section, no taxing dis-
+
+3
+1 trict shall certify a budget request for an amount of property tax revenues
+2 to finance an annual budget that exceeds the maximum sum permitted under this
+3 section:
+4 (a)(i) The highest dollar amount of property taxes certified for
+5 its annual budget for any one (1) of the three (3) tax years preced-
+6 ing the current tax year, which amount may be increased by a growth
+7 factor of not to exceed three percent (3%) plus the amount of rev-
+8 enue calculated as described in this subsection. The Except for
+9 fire protection districts and ambulance service districts, the
+10 taxing district shall determine what portion of the three percent
+11 (3%) increase permitted under this subparagraph that it requires
+12 and then calculate a preliminary levy rate based on the percent
+13 chosen. In calculating the preliminary levy rate, the most cur-
+14 rent taxable market value shall be used, except that for taxable
+15 market values of centrally assessed operating property, the prior
+16 year's valuation may be used instead of the current year's taxable
+17 market values. The preliminary levy rate shall be multiplied by
+18 the value shown on the new construction roll compiled pursuant to
+19 section 63-301A, Idaho Code, and by ninety percent (90%) of the
+20 value of annexation during the previous calendar year, as cer-
+21 tified by the state tax commission for taxable market values of
+22 operating property of public utilities and by the county assessor.
+23 For fire protection districts and ambulance service districts,
+24 the previous year's levy rate shall be multiplied by the value
+25 shown on the new construction roll compiled pursuant to section
+26 63-301A, Idaho Code, and by ninety percent (90%) of the value of
+27 annexation during the previous calendar year, as certified by the
+28 state tax commission for the taxable market values of operating
+29 property of public utilities and by the county assessor; except
+30 for a fire protection district annexing property prior to July 1,
+31 2021, pursuant to section 31-1429, Idaho Code, the new levy rate
+32 shall be multiplied by one hundred percent (100%) of the value of
+33 any such property annexed prior to July 1, 2021.
+34 (ii) The Except as provided in this subparagraph, the total budget
+35 increase calculated under this paragraph must not exceed eight
+36 percent (8%), except. For fire protection districts and ambulance
+37 service districts, the total budget increase calculated under
+38 this paragraph shall not exceed fifteen percent (15%). Provided,
+39 however, that any increase in the amount of property tax revenue
+40 to finance an annual budget added as a result of the termination,
+41 deannexation, plan modification of, or the withdrawal of certain
+42 taxing districts from, a revenue allocation area of an urban re-
+43 newal district pursuant to section 63-301A(3)(f), (i), (j), or
+44 (k), Idaho Code, or section 50-2908(1)(g), Idaho Code, shall not
+45 be subject to such limitation.
+46 (iii) Following the first year in which a fire protection district
+47 has annexed city property pursuant to section 31-1429, Idaho Code,
+48 the city shall subtract an amount equal to the moneys spent on fire
+49 protection services during the last full year the city provided
+
+4
+1 fire protection services to its residents from its budget limita-
+2 tion under this section.
+3 (b) If the taxing district has not imposed a levy for three (3) or more
+4 years, the highest dollar amount of property taxes certified for its an-
+5 nual budget for the purpose of paragraph (a)(i) of this subsection shall
+6 be the dollar amount of property taxes certified for its annual budget
+7 during the last year in which a levy was made.
+8 (c) The dollar amount of the actual budget request may be substituted
+9 for the amount in paragraph (a) of this subsection if the taxing dis-
+10 trict is newly created, except as may be provided in paragraph (i) of
+11 this subsection.
+12 (d) This section does not apply to school district levies imposed in
+13 section 33-802, Idaho Code.
+14 (e)(i) In the case of a fire protection district or ambulance ser-
+15 vice district for which less than the maximum allowable increase
+16 in the dollar amount of property taxes is certified for annual bud-
+17 get purposes in any one (1) year prior to property tax year 2026,
+18 or any other nonschool district for which less than the maximum al-
+19 lowable increase in the dollar amount of property taxes is certi-
+20 fied for annual budget purposes in any one (1) year, such a dis-
+21 trict may, in any following year, recover the forgone increase by
+22 certifying, in addition to any increase otherwise allowed, any or
+23 all of the increase originally forgone. Provided however, that
+24 prior to budgeting any forgone increase, the district must provide
+25 notice of its intent to do so, hold a public hearing that may be in
+26 conjunction with its annual budget hearing, and certify by resolu-
+27 tion the amount of forgone increase to be budgeted and the specific
+28 purpose for which the forgone increase is being budgeted. Upon
+29 adoption of the resolution, the clerk of the district shall file a
+30 copy of the resolution with the county clerk and the state tax com-
+31 mission. Said additional amount shall be included in future cal-
+32 culations for increases as allowed, except as provided in subpara-
+33 graph (iii) of this paragraph.
+34 (ii) If the forgone increase is budgeted for the purpose of main-
+35 tenance and operations, the rate of recovering the reserved for-
+36 gone moneys may increase the taxing district's budget by no more
+37 than one percent (1%) per year.
+38 (iii) If the forgone increase is budgeted for a capital project or
+39 projects, the rate of recovering the reserved forgone moneys may
+40 not exceed three percent (3%) of the taxing district's budget for
+41 the year in which the forgone increase is budgeted. Forgone moneys
+42 budgeted for a capital project must be deducted from the taxing
+43 district's forgone balance in the year in which it is budgeted.
+44 Upon completion of such a capital project, the taxing district
+45 shall certify such completion to the state tax commission and
+46 county clerk. If, upon certification, the state tax commission
+47 finds that the taxing district included forgone moneys for a capi-
+48 tal project in calculating the increase permitted under paragraph
+49 (a) of this subsection, the state tax commission shall direct the
+50 taxing district to reduce its property tax budget for any year
+
+5
+1 in which the forgone moneys were used to calculate a budget in-
+2 crease, in an amount equal to the forgone moneys budgeted plus any
+3 increases attributed to the forgone moneys improperly included in
+4 the taxing district's property tax budget. For the purpose of this
+5 paragraph, a capital project includes:
+6 1. The construction, expansion, renovation, or replacement
+7 of public facilities, including the acquisition of land and
+8 other site improvements;
+9 2. The construction, expansion, or reconstruction of public
+10 works improvements, including roads, bridges, water sys-
+11 tems, sewer systems, and broadband systems; and
+12 3. The purchase of equipment with a useful life of ten (10)
+13 years or more.
+14 (f) If a fire protection district or ambulance service district elects
+15 to budget less than the maximum allowable increase in the dollar amount
+16 of property taxes for any property tax year prior to 2026, or any other
+17 taxing district elects to budget less than the maximum allowable in-
+18 crease in the dollar amount of property taxes, the taxing district may
+19 reserve the right to recover all or any portion of that year's forgone
+20 increase in a subsequent year by adoption of a resolution specifying
+21 the dollar amount of property taxes being reserved. Otherwise, that
+22 year's forgone increase may not be recovered under paragraph (e) of this
+23 subsection. The district must provide notice of its intent to do so and
+24 hold a public hearing that may be in conjunction with its annual budget
+25 hearing, if applicable. The resolution to reserve the right to recover
+26 the forgone increase for that year shall be adopted at the annual bud-
+27 get hearing of the taxing district if the district has a budget hearing
+28 requirement.
+29 (g) In the case of cities, if the immediately preceding year's levy sub-
+30 ject to the limitation provided by this section is less than 0.004, the
+31 city may increase its budget by an amount not to exceed the difference
+32 between 0.004 and the actual prior year's levy multiplied by the prior
+33 year's market value for assessment purposes. The additional amount
+34 must be approved by sixty percent (60%) of the voters voting on the ques-
+35 tion at an election called for that purpose and held on the date in May or
+36 November provided by law and may be included in the annual budget of the
+37 city for purposes of this section.
+38 (h) A taxing district may submit to the electors within the district
+39 the question of whether the budget from property tax revenues may be
+40 increased beyond the amount authorized in this section, but not beyond
+41 the levy authorized by statute. The additional amount must be approved
+42 by sixty-six and two-thirds percent (66 2/3%) or more of the voters
+43 voting on the question at an election called for that purpose and held
+44 on the May or November dates provided by section 34-106, Idaho Code.
+45 If approved by the required minimum sixty-six and two-thirds percent
+46 (66 2/3%) of the voters voting at the election, the new budget amount
+47 shall be the base budget for the purposes of this section.
+48 (i) When a nonschool district consolidates with another nonschool
+49 district or dissolves and a new district performing similar governmen-
+50 tal functions as the dissolved district forms with the same boundaries
+
+6
+1 within three (3) years, the maximum amount of a budget of the district
+2 from property tax revenues shall not be greater than the sum of the
+3 amounts that would have been authorized by this section for the district
+4 itself or for the districts that were consolidated or dissolved and in-
+5 corporated into a new district.
+6 (j) This section does not apply to cooperative service agency levies
+7 imposed in sections 33-317 and 33-317A, Idaho Code.
+8 (k) The amount of money received in the twelve (12) months immediately
+9 preceding June 30 of the current tax year as a result of distributions of
+10 the tax provided in section 63-3502B(2), Idaho Code.
+11 (2) In the case of fire districts, during the year immediately follow-
+12 ing the election of a public utility or public utilities to consent to be pro-
+13 vided fire protection pursuant to section 31-1425, Idaho Code, the maximum
+14 amount of property tax revenues permitted in subsection (1) of this section
+15 may be increased by an amount equal to the current year's taxable value of the
+16 consenting public utility or public utilities multiplied by that portion of
+17 the prior year's levy subject to the limitation provided by subsection (1) of
+18 this section.
+19 (3) No board of county commissioners shall set a levy, nor shall the
+20 state tax commission approve a levy for annual budget purposes, which ex-
+21 ceeds the limitation imposed in subsection (1) of this section unless au-
+22 thority to exceed such limitation has been approved by a majority of the tax-
+23 ing district's electors voting on the question at an election called for that
+24 purpose and held pursuant to section 34-106, Idaho Code, provided however,
+25 that such voter approval shall be for a period of not to exceed two (2) years.
+26 (4) The amount of property tax revenues to finance an annual budget does
+27 not include revenues from nonproperty tax sources and does not include rev-
+28 enue from levies for the payment of judicially confirmed obligations pur-
+29 suant to sections 63-1315 and 63-1316, Idaho Code, and revenue from levies
+30 that are voter-approved for bonds, override levies or supplemental levies,
+31 plant facilities reserve fund levies, school emergency fund levies, or for
+32 levies applicable to newly annexed property or for levies applicable to new
+33 construction as evidenced by the value of property subject to the occupancy
+34 tax pursuant to section 63-317, Idaho Code, for the preceding tax year. The
+35 amount of property tax revenues to finance an annual budget does not include
+36 any property taxes that were collected and refunded on property that is ex-
+37 empt from taxation, pursuant to section 63-1305C, Idaho Code.
+38 (5) The amount of property tax revenues to finance an annual budget
+39 shall include moneys received as recovery of property tax for a revoked pro-
+40 visional property tax exemption under section 63-1305C, Idaho Code.
+41 (6) For tax year 2023, before calculating the amount required in sub-
+42 section (1)(a)(i) of this section, the board of county commissioners shall
+43 reduce the approved property tax levy portion of its budget for the immedi-
+44 ate prior three (3) years in an amount equal to the amount levied for indigent
+45 public defense. The reduced budget amount shall be the base budget for the
+46 purpose of subsection (1)(a)(i) of this section.
+47 SECTION 3. That Section 31-1423, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+7
+1 31-1423. LEVY -- RECOMMENDED LEVY -- ELECTION. (1) Each year, immedi-
+2 ately prior to the annual county levy of taxes, the board of commissioners
+3 of each fire protection district, organized and existing under this chapter,
+4 may levy a tax upon all the taxable property within the boundaries of such
+5 district sufficient to defray the cost of equipping and maintaining the dis-
+6 trict of twenty-four hundredths percent (.24%) of market value for assess-
+7 ment purposes, to be used for the purposes of this chapter and for no other
+8 purpose. The levy shall be made by resolution entered upon the minutes of the
+9 board of commissioners of the fire protection district, and it shall be the
+10 duty of the secretary of the district, immediately after entry of the resolu-
+11 tion in the minutes, to transmit to the county auditor and the county asses-
+12 sor certified copies of the resolution providing for such levy. Said taxes
+13 shall be collected as provided by section 63-812, Idaho Code.
+14 (2) If two (2) or more fire protection districts consolidate into one
+15 (1) district, the provisions of section 63-802, Idaho Code, shall apply to
+16 the consolidated district's budget request. In addition, the consolidated
+17 district shall receive the benefit of foregone increases accumulated by the
+18 former districts under section 63-802(1)(a), Idaho Code.
+19 SECTION 4. An emergency existing therefor, which emergency is hereby
+20 declared to exist, Section 2 of this act shall be in full force and effect
+21 on and after passage and approval and retroactively to January 1, 2026, and
+22 Sections 1 and 3 of this act shall be in full force and effect on and after
+23 July 1, 2026.

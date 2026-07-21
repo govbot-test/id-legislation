@@ -1,0 +1,694 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 889
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO STATE PROCUREMENT; AMENDING SECTION 67-9203, IDAHO CODE, TO RE-
+3 VISE DEFINITIONS AND TO DEFINE TERMS; AMENDING SECTION 67-9205, IDAHO
+4 CODE, TO REVISE PROVISIONS REGARDING THE POWERS AND DUTIES OF THE ADMIN-
+5 ISTRATOR; AMENDING SECTION 67-9208, IDAHO CODE, TO REVISE PROVISIONS
+6 REGARDING SOLICITATIONS; AMENDING SECTION 67-9210, IDAHO CODE, TO RE-
+7 VISE PROVISIONS REGARDING THE AWARD OF CONTRACT; REPEALING SECTION
+8 67-9211, IDAHO CODE, RELATING TO MULTIPLE AWARDS; AMENDING CHAPTER 92,
+9 TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 67-9211, IDAHO
+10 CODE, TO ESTABLISH PROVISIONS REGARDING MULTIPLE AWARDS; AMENDING SEC-
+11 TION 67-9212, IDAHO CODE, TO REVISE PROVISIONS REGARDING CONTRACTS IN
+12 WRITING; AMENDING SECTION 67-9215, IDAHO CODE, TO PROVIDE FOR A CERTAIN
+13 EXCEPTION TO THE DISCLOSURE OF RECORDS; AMENDING SECTION 67-9217, IDAHO
+14 CODE, TO REVISE PROVISIONS REGARDING DISQUALIFICATION OF VENDORS;
+15 AMENDING SECTION 67-9230, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+16 CERTAIN PROHIBITIONS; AMENDING SECTION 67-9232, IDAHO CODE, TO REVISE
+17 PROVISIONS REGARDING CHALLENGES AND APPEALS; AMENDING SECTION 67-9233,
+18 IDAHO CODE, TO REVISE PROVISIONS REGARDING ETHICS IN PROCUREMENT; AND
+19 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+20 Be It Enacted by the Legislature of the State of Idaho:
+21 SECTION 1. That Section 67-9203, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 67-9203. DEFINITIONS. As used in this chapter:
+24 (1) "Acquisition" means the process of procuring property.
+25 (2) "Administrator" means the administrator of the division of pur-
+26 chasing as created by section 67-9204, Idaho Code.
+27 (3) "Agency" means all officers, departments, divisions, bureaus,
+28 boards, commissions and institutions of the state, including the public
+29 utilities commission, but excluding:
+30 (a) The legislative and judicial branches of government;
+31 (b) The governor, lieutenant governor, secretary of state, state con-
+32 troller, state treasurer, attorney general and superintendent of pub-
+33 lic instruction; and
+34 (c) Except as provided in section 67-9234, Idaho Code, a state insti-
+35 tution of higher education that complies with the provisions of section
+36 67-9225, Idaho Code.
+37 (4) "Best and final offer" means a final written offer submitted by a
+38 bidder in response to a request by the administrator during negotiations or
+39 following material changes to a solicitation.
+40 (4) (5) "Bid" means a written offer to perform a contract to sell or oth-
+41 erwise supply property in response to a solicitation.
+
+2
+1 (5) (6) "Bidder" means a vendor who has submitted a bid on property to be
+2 acquired by the state.
+3 (6) (7) "Contract" means an agreement for the acquisition of property,
+4 including a purchase order.
+5 (7) (8) "Contractor" means a vendor who has been awarded a contract.
+6 (8) (9) "Director" means the director of the department of administra-
+7 tion as created by section 67-5701, Idaho Code.
+8 (9) (10) "Environmental, social, and governance standards" means pro-
+9 curement standards that screen or score bids, in whole or in part, on subjec-
+10 tive ethical or sustainability criteria unrelated to the specifications in a
+11 solicitation or the qualifications of a bidder.
+12 (11) "Frivolous protest" means a challenge to a solicitation or con-
+13 tract award that:
+14 (a) Lacks any arguable basis in law or fact;
+15 (b) Is not supported by a good faith argument for the extension, modifi-
+16 cation, or reversal of an existing contract award;
+17 (c) Is filed for an improper purpose, such as to harass, cause unneces-
+18 sary delay, or needlessly increase the cost of the procurement process;
+19 or
+20 (d) Asserts claims that are identical or substantially similar to
+21 claims previously adjudicated by the administrator or a court of com-
+22 petent jurisdiction, including proceedings in Idaho and other states,
+23 involving the same vendor and a similar procurement.
+24 (10) (12) "Lowest responsible bidder" means the responsible bidder
+25 whose bid reflects the lowest acquisition price to be paid by the state and
+26 meets the bid qualifications, except that when specifications are valued or
+27 comparative performance evaluations are conducted, the results of such ex-
+28 aminations and the relative score of valued specifications will be weighed,
+29 as set out in the specifications, in determining the lowest acquisition
+30 price.
+31 (13) "Multiple-award contract" means a contract awarded to two (2) or
+32 more bidders to furnish the same or similar property when necessary or conve-
+33 nient to ensure adequate delivery, service, or product compatibility.
+34 (11) (14) "Open contract" means a contract awarded by the state through
+35 the division of purchasing as a result of a competitive solicitation to one
+36 (1) or more vendors who have agreed to allow all agencies to procure speci-
+37 fied property under the terms and conditions set forth in the contract.
+38 (12) (15) "Procure" means to obtain property for state use in a manner
+39 other than by gift, including, but not limited to, purchase, lease, or rent.
+40 (13) (16) "Property" means goods, services, parts, supplies, and equip-
+41 ment, both tangible and intangible, including, but not limited to, designs,
+42 plans, programs, systems, techniques, and any rights or interests in such
+43 property.
+44 (17) "Request for information" means a formal request to potential ven-
+45 dors to provide information on their capabilities, services, and pricing for
+46 the purpose of identifying the scope of requested work, which may include
+47 eventual procurement of property, in order to create a draft request for pro-
+48 posals.
+
+3
+1 (18) "Request for proposal" means a formal request for vendors to sub-
+2 mit a bid, which includes the total scope of services and is the basis of the
+3 award of a contract.
+4 (19) "Request for quote" means an informal request to vendors for pric-
+5 ing and terms on specific property.
+6 (14) (20) "Sole source" means the only vendor from whom specific prop-
+7 erty is available to procure.
+8 (15) (21) "Solicitation" means an invitation to bid, a request for pro-
+9 posal, or a request for quote issued pursuant to this chapter for the purpose
+10 of procuring property.
+11 (16) (22) "Specifications" means the standards or requirements for
+12 property to be procured as explicitly stated in a solicitation or contract.
+13 (17) (23) "State institution of higher education" means Boise state
+14 university, Idaho state university, or Lewis-Clark state college.
+15 (18) (24) "Vendor" means a person or entity capable of supplying prop-
+16 erty to the state.
+17 SECTION 2. That Section 67-9205, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 67-9205. POWERS AND DUTIES OF THE ADMINISTRATOR. The administrator of
+20 the division of purchasing:
+21 (1) Shall acquire all property for state agencies according to the pro-
+22 visions of this chapter;
+23 (2) Shall acquire all property by competitive solicitation, except as
+24 otherwise provided;
+25 (3) Shall determine, based on the specifications and matters relating
+26 to responsibility, the lowest responsible bidder or bidders in all competi-
+27 tive solicitations;
+28 (4) Shall enter into contracts and any modifications thereto for the
+29 acquisition of property on behalf of and in the name of state agencies;
+30 (5) Shall, when economically feasible and practical, consolidate so-
+31 licitations and acquire property in amounts as large as can be efficiently
+32 managed and controlled;
+33 (6) Shall establish a common time and date for the submission of best
+34 and final offers. If a bidder does not submit a notice of withdrawal or a best
+35 and final offer, the bidder's immediate previous offer shall be the bidder's
+36 best and final offer;
+37 (6) (7) May, in the evaluation of paper product bids, give those items
+38 that meet the recycled content standards as specified by the administrator
+39 a five percent (5%) purchasing preference. As such, those qualifying paper
+40 products may be considered to cost five percent (5%) less when choosing the
+41 lowest responsible bidder;
+42 (7) (8) May appoint a deputy who shall have the power to act for the
+43 administrator and in the administrator's place while absent, which deputy
+44 shall be bonded to the state of Idaho as prescribed by chapter 8, title 59,
+45 Idaho Code;
+46 (8) (9) May require from any contractor the submission of a performance
+47 bond for such sum as will, in the opinion of the administrator, guarantee the
+48 faithful performance of such contract, and the amount and requirement there-
+49 for shall be set out in the specifications;
+
+4
+1 (9) (10) May enter into open contracts based on actual or estimated re-
+2 quirements;
+3 (10) (11) May enter into contracts, including leases and rentals, for
+4 periods of time exceeding one (1) year, provided that such contracts contain
+5 no penalty to or restriction upon on the state in the event cancellation is
+6 necessitated by a lack of funding for any such contract;
+7 (11) (12) Is authorized and empowered to formulate rules, subject to the
+8 approval of the director, to effect the provisions of this chapter;
+9 (12) (13) May enter into negotiations for acquisitions in accordance
+10 with established rules of the division, provided that for all complex or
+11 high-value acquisitions, the administrator shall ensure that subject matter
+12 experts from the requisitioning agency are included as active participants
+13 in the negotiation process alongside procurement staff to ensure contrac-
+14 tual terms meet the functional and operational requirements of the state;
+15 (13) (14) May inspect property supplied by a contractor to determine
+16 whether it meets specifications;
+17 (14) (15) May classify, after review with the various agencies, the
+18 requirements of the state for all property that may be acquired, and may
+19 adopt standards of quality for property, and may establish specifications
+20 for acquisition. Each specification shall, until revised or rescinded,
+21 apply alike in terms and effect to each future acquisition of the classified
+22 property;
+23 (15) (16) May delegate authority pursuant to section 67-9206, Idaho
+24 Code; and
+25 (16) (17) May carry out such acts as are necessary to enforce the provi-
+26 sions of this chapter; and
+27 (18) May issue a multiple-award contract to two (2) or more bidders.
+28 SECTION 3. That Section 67-9208, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 67-9208. SOLICITATIONS. (1) The administrator shall not make or
+31 cause to be made any acquisition until a requisition for the property to
+32 be acquired has been submitted to the administrator's office by the req-
+33 uisitioning agency. The requisition shall certify to the administrator's
+34 satisfaction that there are sufficient funds or balance in appropriations
+35 out of which the amount of the requisition may be lawfully paid, except as
+36 provided in section 67-9221(3), Idaho Code.
+37 (2) Upon determining that an agency's requisition complies with the
+38 provisions of subsection (1) of this section, the administrator shall issue
+39 a solicitation. Notice of the solicitation shall be posted in a conspicuous
+40 manner as prescribed by rule. The notice shall describe the property to be
+41 acquired in sufficient detail to apprise a vendor of the exact nature of the
+42 property being sought and shall set forth the bid closing date, time and
+43 location.
+44 (3) The administrator may establish by rule exceptions to the notice
+45 provisions in subsection (2) of this section; provided however, that the
+46 procurements excepted from the notice provisions must be minor in nature.
+47 (4) At the time a notice of solicitation is issued, the administrator
+48 shall also publish the process for bid analysis or scoring. Such process
+49 shall not change after the solicitation is issued unless formally revised
+
+5
+1 through a written solicitation amendment or best and final offer process
+2 that does not materially change the intent or purpose of the original solic-
+3 itation.
+4 SECTION 4. That Section 67-9210, Idaho Code, be, and the same is hereby
+5 amended to read as follows:
+6 67-9210. AWARD OF CONTRACT. (1) The administrator shall award con-
+7 tracts to, and place orders for property with, the lowest responsible
+8 bidder. Qualifications for responsibility shall be prescribed by rule.
+9 However, environmental, social, and governance standards may not be used as
+10 a qualification for responsibility. Prior performance on state contracts
+11 may be used to determine qualifications.
+12 (2) Where both the bids and quality of property offered are the same,
+13 preference shall be given to property of local and domestic production and
+14 manufacture or from bidders having a significant Idaho economic presence as
+15 defined in section 67-2349, Idaho Code. In connection with the award of any
+16 contract for the placement of any order for state printing, binding, engrav-
+17 ing or stationery work, the provisions of sections 60-101 and 60-103, Idaho
+18 Code, shall apply to the extent that the same may be inconsistent with any re-
+19 quirements contained in this section.
+20 (3) In awarding contracts, the administrator shall not discriminate
+21 against, or grant preferential treatment to, any individual or group on the
+22 basis of race, sex, color, ethnicity, or national origin unless permitted by
+23 an exception described in section 67-5909A, Idaho Code.
+24 (4) The administrator may award a contract to two (2) or more qualified
+25 bidders to furnish the same or similar property when necessary or convenient
+26 to ensure adequate delivery, service, or product compatibility.
+27 SECTION 5. That Section 67-9211, Idaho Code, be, and the same is hereby
+28 repealed.
+29 SECTION 6. That Chapter 92, Title 67, Idaho Code, be, and the same is
+30 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+31 ignated as Section 67-9211, Idaho Code, and to read as follows:
+32 67-9211. MULTIPLE AWARDS. (1) When a contract for property has been
+33 awarded to two (2) or more bidders in accordance with the provisions of sec-
+34 tion 67-9210, Idaho Code, a state agency shall select which bidder to pur-
+35 chase the property from based on factors including but not limited to:
+36 (a) Total cost of ownership, including acquisition price, shipping or
+37 delivery charges, and any applicable maintenance or licensing fees;
+38 (b) The degree to which the property integrates with existing agency
+39 equipment, software, or workflows without requiring excessive modifi-
+40 cation or retraining;
+41 (c) The vendor's compatibility, price, availability, support ser-
+42 vices, delivery, and past performance;
+43 (d) The vendor's ability to meet the agency's required delivery sched-
+44 ule or project timeline;
+45 (e) The vendor's quality and proximity of technical support, warranty
+46 terms, and the availability of training or installation services;
+
+6
+1 (f) The vendor's documented history of reliability, quality of goods,
+2 and responsiveness under the current contract or previous agency en-
+3 gagements; and
+4 (g) The vendor's willingness to cover costs and liabilities related to
+5 the replacement of existing property.
+6 (2) State agencies that make recurring purchases pursuant to a contract
+7 awarded pursuant to this section shall perform the analysis outlined in sub-
+8 section (1) of this section at least annually and provide the analysis to the
+9 administrator.
+10 (3) State agencies shall notify the administrator of purchases made un-
+11 der a multiple-award contract that provides the names of the considered ven-
+12 dors, the factors provided in subsection (1) of this section that were pri-
+13 oritized for the purchase, and an explanation of why the selected vendor was
+14 chosen over other vendors.
+15 SECTION 7. That Section 67-9212, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 67-9212. CONTRACTS SHALL BE IN WRITING. (1) Every contract made by the
+18 administrator on behalf of the state shall be in writing and shall be signed
+19 manually or electronically by the contracting parties. Every contract shall
+20 be filed in the office of the administrator, together with all bids, specifi-
+21 cations, and other documents and records associated with the acquisition or
+22 intended acquisition.
+23 (2) For acquisitions involving federal funding requiring approval by
+24 the centers for medicare and medicaid services or other federal oversight
+25 agencies, the administrator shall ensure that all vendor negotiations are
+26 completed and a final contract is agreed on prior to the submission of the
+27 contract for federal review, unless otherwise prohibited by federal law.
+28 SECTION 8. That Section 67-9215, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 67-9215. PRESERVATION AND DISCLOSURE OF RECORDS -- EXCEPTION. (1) The
+31 administrator shall preserve all records relating to solicitations in the
+32 administrator's office, and information with respect thereto, in such form
+33 as the administrator shall prescribe by rule, for a period of three (3) years
+34 after the date of final action, or for a period of time as may be prescribed
+35 by a record retention guideline schedule approved by the director. Records
+36 preserved under the provisions of this section shall be subject to disclo-
+37 sure according to chapter 1, title 74, Idaho Code.
+38 (2) If a solicitation is canceled prior to award of a contract, the
+39 administrator shall immediately return all bids to the submitting vendors
+40 or delete bids that were received electronically. Bids returned or deleted
+41 pursuant to this subsection shall not be subject to disclosure under chapter
+42 1, title 74, Idaho Code.
+43 (3) Vendor information provided in a request for information shall not
+44 be subject to disclosure unless the vendors respond to the relevant solici-
+45 tation as provided in section 67-9208, Idaho Code.
+
+7
+1 SECTION 9. That Section 67-9217, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 67-9217. DEBARMENT AND DISQUALIFICATION OF VENDORS. (1) A debarred or
+4 disqualified vendor may not submit a bid.
+5 (2) The administrator may debar a vendor from bidding on any state
+6 project or service for a period of up to three (3) years upon a finding of per-
+7 formance failure. Performance failure shall include but not be limited to:
+8 (a) A documented record of unsatisfactory performance on one (1) or
+9 more state contracts within the preceding three (3) years based on in-
+10 cluded contract metrics;
+11 (b) Failure to complete a project or service within the time frames es-
+12 tablished in the contract without good cause; or
+13 (c) A history of filing three (3) or more frivolous bid protests, as es-
+14 tablished by final agency decisions issued pursuant to section 67-9232,
+15 Idaho Code, within a twenty-four (24) month period.
+16 (2) (3) A vendor may be disqualified by the administrator for any of the
+17 following reasons:
+18 (a) Failure to perform according to the terms of any contract;
+19 (b) Attempts by whatever means to cause specifications to be drawn so as
+20 to favor a specific vendor;
+21 (c) Use of the provisions of this chapter to obstruct or unreasonably
+22 delay acquisitions by the state;
+23 (d) Perjury in a vendor disqualification hearing;
+24 (e) Knowingly violate violating the provisions of this chapter; or
+25 (f) Debarment, suspension, or ineligibility from federal contracting
+26 of the vendor, its principals or its affiliates.
+27 (4)(a) Upon determination of a performance failure or contract breach
+28 that does not represent an immediate risk to public health, safety, or
+29 integrity, the administrator shall issue a written cure notice to the
+30 vendor of the exact nature of the failure and the violated contract pro-
+31 visions.
+32 (b) The vendor shall have fourteen (14) calendar days from receipt of
+33 the cure notice to correct the deficiency or provide a correction plan
+34 acceptable to the administrator.
+35 (c) If the vendor fails to correct the deficiency or provide a correc-
+36 tion plan accepted by the administrator within fourteen (14) calendar
+37 days, the administrator may proceed with debarment or disqualification
+38 of the vendor.
+39 (d) If the vendor fails to complete the approved correction plan, the
+40 administrator may proceed with debarment or disqualification.
+41 (3) (5) A vendor shall be notified by registered mail within ten (10)
+42 days of the vendor's debarment or disqualification by the administrator.
+43 The vendor may, within thirty (30) days of the receipt of such notice, re-
+44 quest a hearing, which shall be held in accordance with chapter 52, title 67,
+45 Idaho Code.
+46 (6) The vendor may submit a challenge to the debarment or disqualifica-
+47 tion based on documented state actions that interfered with or delayed con-
+48 tract execution.
+
+8
+1 (4) (7) In lieu of debarment or disqualification, for reasons not
+2 listed in subsection (3) of this section, the determinations officer at a
+3 hearing conducted pursuant to subsection (3) of this section the provisions
+4 of chapter 52, title 67, Idaho Code, may recommend to the director specific
+5 conditions to the vendor's continued participation in acquisitions by the
+6 state.
+7 (5) (8) Disqualification or conditions may be imposed for a period of
+8 not less than six (6) months or not more than five (5) years.
+9 (6) (9) For purposes of this section, "obstruction" means a lack of suc-
+10 cess in more than fifty percent (50%) of the specification challenges made in
+11 each of three (3) different acquisitions during any twenty-four (24) month
+12 period.
+13 SECTION 10. That Section 67-9230, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 67-9230. PROHIBITIONS. (1) No contract or any interest therein shall
+16 be transferred by the contractor to whom such contract is given to any other
+17 party without approval in writing by the administrator and by the board of
+18 examiners pursuant to section 67-1027, Idaho Code. Transfer of a contract
+19 without approval shall cause the annulment of the contract so transferred,
+20 at the option of the state. All rights of action, however, for any breach of
+21 such contract by the contracting parties are reserved to the state.
+22 (2) No member of the legislature or any officer or employee of any
+23 branch of the state government shall directly, himself, or by any other per-
+24 son in trust for him or for his use or benefit or on his account, undertake,
+25 execute, hold or enjoy, in whole or in part, any contract made or entered into
+26 by or on behalf of the state of Idaho, if made by, through, or on behalf of the
+27 department in which he is an officer or employee; or if made by, through or
+28 on behalf of any other department unless the same is made after competitive
+29 bids.
+30 (3) Except as provided in this chapter, no officer or employee shall in-
+31 fluence or attempt to influence the award of a contract to a particular ven-
+32 dor, or to deprive or attempt to deprive any vendor of a contract.
+33 (4) No officer or employee shall conspire with a vendor or its agent,
+34 and no vendor or its agent shall conspire with an officer or employee, to in-
+35 fluence or attempt to influence the award of a contract, or to deprive or at-
+36 tempt to deprive a vendor of a contract.
+37 (5) No officer or employee shall fail to use an open contract except as
+38 provided in this chapter.
+39 (6) No officer or employee shall accept property knowing that the prop-
+40 erty does not meet specifications or other acceptance criteria set forth in
+41 the contract.
+42 (7) Deprivation, influence or attempts thereat shall not include writ-
+43 ten reports, based upon on substantial evidence, sent to the administrator
+44 concerning matters relating to the responsibility of vendors.
+45 (8)(a) No vendor or related party, or subsidiary, or affiliate of a ven-
+46 dor, may submit a bid to obtain a contract to provide property to the
+47 state, if the vendor or related party, or affiliate, or subsidiary was
+48 paid for services used in preparing the specifications or if the ser-
+
+9
+1 vices influenced the procurement process to prepare the specifications
+2 for the property.
+3 (b) Nothing in this subsection shall prohibit a vendor from submitting
+4 a bid after providing technical assistance relating to such bid, pro-
+5 viding consulting or other services to a state agency, or participating
+6 in legislative committee meetings related to the property that is the
+7 subject of planned solicitation as long as:
+8 (i) Such technical assistance, consulting or other services, or
+9 participation in legislative committee meetings does not result
+10 in bid specifications to be drawn such that only the vendor or re-
+11 lated party, or affiliate or subsidiary of the vendor, can meet the
+12 bid specifications;
+13 (ii) Such technical assistance, consulting or other services,
+14 or participation in legislative committee meetings does not oth-
+15 erwise provide the vendor or related party, or affiliate or sub-
+16 sidiary of the vendor, with a quantifiable and objective advantage
+17 in the bid process; and
+18 (iii) Any work product or written documentation produced as a re-
+19 sult of the technical assistance, consulting or other services, or
+20 participation in legislative committee meetings is accessible to
+21 a public records request if the vendor responds to a relevant so-
+22 licitation as provided in section 67-9208, Idaho Code.
+23 (9) No person who has served in elected public office within three hun-
+24 dred sixty-five (365) days of a bid submission deadline shall participate
+25 in the solicitation, bid, or contract process pursuant to the provisions of
+26 this chapter on behalf of a vendor.
+27 (10) No vendor shall employ an individual who has served in public of-
+28 fice, or worked in a state agency or institution, within three hundred sixty-
+29 five (365) days of winning a bid where such individual participated in the
+30 solicitation, bid, or contract process pursuant to the provisions of this
+31 chapter.
+32 SECTION 11. That Section 67-9232, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 67-9232. CHALLENGES AND APPEALS. (1) Bid specifications.
+35 (a) There shall be, beginning with the date of receipt of notice, a
+36 period of no more than ten (10) working days in which any vendor, quali-
+37 fied and able to sell or supply the items to be acquired, may notify the
+38 administrator in writing of his intention to challenge the specifica-
+39 tions and shall specifically state the exact nature of his challenge.
+40 The specific challenge shall describe the location of the challenged
+41 portion or clause in the specification document, unless the challenge
+42 concerns an omission, explain why any provision should be struck, added
+43 or altered, and contain suggested corrections.
+44 (b) Upon receipt of the challenge, the administrator shall either deny
+45 the challenge, and such denial shall be considered the final agency de-
+46 cision, or he shall present the matter to the director for appointment
+47 of a determinations officer. If the director appoints a determinations
+48 officer, then all vendors, who are invited to bid on the property sought
+49 to be acquired, shall be notified of the appeal and the appointment of
+
+10
+1 a determinations officer and may indicate in writing their agreement or
+2 disagreement with the challenge within five (5) days. The notice to the
+3 vendors may be electronic. Any vendor may note his agreement or dis-
+4 agreement with the challenge. The determinations officer may, on his
+5 own motion, refer the challenge portion and any related portions of the
+6 challenge to the author of the specification to be rewritten with the
+7 advice and comments of the vendors capable of supplying the property,
+8 rewrite the specification himself and/or reject all or any part of any
+9 challenge. If specifications are to be rewritten, the matter shall be
+10 continued until the determinations officer makes a final determination
+11 of the acceptability of the revised specifications.
+12 (c) The administrator shall reset the bid opening no later than fif-
+13 teen (15) days after final determination of challenges or the amendment
+14 of the specifications. If the administrator denies the challenge, then
+15 the bid opening date shall not be reset.
+16 (d) The final decision of the determinations officer or administrator
+17 on the challenge to specifications shall not be considered a contested
+18 case within the meaning of the administrative procedure act; provided
+19 that a vendor disagreeing with specifications may include such dis-
+20 agreement as a reason for asking for appointment of a determinations
+21 officer pursuant to subsection (3) of this section.
+22 (2) Nonresponsive bids.
+23 (a) There shall be, beginning with the day following receipt of notice
+24 of rejection, a period of five (5) working days in which a bidder whose
+25 bid was found nonresponsive may appeal such decision to the director
+26 of the department of administration. A nonresponsive bid, within the
+27 meaning of this chapter, is a bid that does not comply with the bid invi-
+28 tation and specifications and shall not apply to a vendor whose bid is
+29 considered but who is determined not to be the lowest responsible bidder
+30 as defined in this chapter. The director shall:
+31 (i) Deny the application; or
+32 (ii) Appoint a determinations officer to review the record and
+33 submit a recommended order to the director to affirm or reverse the
+34 administrator's decision of bid nonresponsiveness.
+35 (b) The director shall, upon receipt of a written recommendation from
+36 the determinations officer, sustain, modify or reverse the administra-
+37 tor's nonresponsive bid decision. An appeal conducted under the pro-
+38 visions of this subsection shall not be considered a contested case and
+39 shall not be subject to judicial review under the provisions of chapter
+40 52, title 67, Idaho Code.
+41 (3) Lowest responsible bidder.
+42 (a) A vendor whose bid is considered may, within five (5) working days
+43 following receipt of notice that he is not the lowest responsible bid-
+44 der, apply to the director for appointment of a determinations officer.
+45 The application shall set forth in specific terms the reasons why the
+46 administrator's decision is thought to be erroneous. Upon receipt of
+47 the application, the director shall within five (5) working days:
+48 (i) Deny the application, and such denial shall be considered the
+49 final agency decision;
+
+11
+1 (ii) Appoint a determinations officer to review the record to de-
+2 termine whether the administrator's selection of the lowest re-
+3 sponsible bidder is correct; or
+4 (iii) Appoint a determinations officer with authority to conduct a
+5 contested case hearing in accordance with the provisions of chap-
+6 ter 52, title 67, Idaho Code.
+7 (b) The period for filing an application pursuant to paragraph (a) of
+8 this subsection shall be suspended upon a request by a bidder for pub-
+9 lic records related to the solicitation pursuant to chapter 1, title 74,
+10 Idaho Code. The period for filing an application shall resume upon the
+11 public agency's written confirmation it has produced the public records
+12 requested or written denial of the request pursuant to section 74-103,
+13 Idaho Code.
+14 (c) A determinations officer appointed pursuant to paragraph (a)(ii)
+15 of this subsection shall inform the director by written recommendation
+16 whether, in his opinion, the administrator's selection of the lowest
+17 responsible bidder is correct. The determinations officer in making
+18 this recommendation may rely on the documents of record, statements
+19 of employees of the state of Idaho participating in any phase of the
+20 selection process, and statements of any vendor submitting a bid. A
+21 contested case hearing shall not be allowed and the determinations
+22 officer shall not be required to solicit statements from any person.
+23 Upon receipt of the recommendation from the determinations officer,
+24 the director shall sustain, modify or reverse the decision of the ad-
+25 ministrator on the selection of the lowest responsible bidder, or the
+26 director may appoint a determinations officer pursuant to paragraph
+27 (a)(iii) of this subsection.
+28 (d)(i) Any final decision rendered by the director that denied
+29 an application pursuant to paragraph (a)(i) of this subsection or
+30 that sustained the decision of the administrator under paragraph
+31 (c) of this subsection shall be subject to judicial review. A pe-
+32 tition for judicial review pursuant to this subsection shall be
+33 filed within twenty-eight (28) days of any final decision rendered
+34 by the director. The director shall as soon as possible transmit
+35 to the reviewing court the original record or a certified copy of
+36 the record that shall consist of all information received or re-
+37 lied on by the administrator in making the lowest responsible bid-
+38 der determination, all information submitted to the director or
+39 the determinations officer, and any other information allowed by
+40 the court. The court shall affirm the decision rendered by the di-
+41 rector unless the court finds that the administrator's determina-
+42 tion of the lowest responsible bidder or the director's findings,
+43 inferences, conclusions, or decisions rendered are:
+44 1. In violation of constitutional or statutory provisions;
+45 2. In excess of the statutory authority of the agency;
+46 3. Made on unlawful procedure;
+47 4. Not supported by substantial evidence on the record as a
+48 whole; or
+49 5. Arbitrary, capricious, or an abuse of discretion.
+
+12
+1 (ii) In judicial review proceedings pursuant to the provisions
+2 of this paragraph, the time for filing of briefs and for hearings
+3 shall be set by the court at the earliest possible time, or in no
+4 event beyond twenty-eight (28) calendar days from the date of fil-
+5 ing of the petition.
+6 (iii) If the court does not affirm the decision rendered by the di-
+7 rector, the proposed award of the contract or the award of the con-
+8 tract shall be deemed in violation of this chapter.
+9 (e) A determinations officer appointed pursuant to paragraph (a)(iii)
+10 of this subsection shall conduct a contested case hearing and upon con-
+11 clusion of the hearing shall prepare findings of fact, conclusions of
+12 law and a recommended order for the director of the department of admin-
+13 istration. Upon receipt of the findings of fact, conclusions of law and
+14 recommended order, the director shall enter a final order sustaining,
+15 modifying or reversing the decision of the administrator on the selec-
+16 tion of the lowest responsible bidder.
+17 (4) Sole source procurement.
+18 (a) In the case of a sole source procurement, there shall be a period of
+19 not more than five (5) working days from the last date of public notice
+20 in which any vendor, able to sell or supply the property to be acquired,
+21 may notify the administrator, in writing, of his intention to challenge
+22 the sole source procurement and briefly explain the nature of the chal-
+23 lenge.
+24 (b) Upon receipt of the challenge, the director shall either:
+25 (i) Deny the application; or
+26 (ii) Appoint a determinations officer to review the record and
+27 submit a recommended order to the director to affirm or reverse the
+28 administrator's sole source determination.
+29 (c) The director shall, upon receipt of a written recommendation from
+30 the determinations officer, sustain, modify or reverse the administra-
+31 tor's sole source determination. An appeal conducted under the provi-
+32 sions of this subsection shall not be considered a contested case and
+33 shall not be subject to judicial review under the provisions of chapter
+34 52, title 67, Idaho Code.
+35 (5) The administrator may, on his own initiative, file a complaint with
+36 the director for a hearing before a determinations officer. The director
+37 shall appoint a determinations officer who shall make written recommenda-
+38 tions to the director and the director shall render whatever decision is nec-
+39 essary to resolve the complaint.
+40 (6) The director is hereby authorized and directed to appoint a deter-
+41 minations officer whenever one is required by this chapter. The officer
+42 shall meet and render whatever determination is called for. When a complaint
+43 is filed pursuant to subsection (2) of this section, no bid may be awarded
+44 until the final decision is rendered by the director; provided that in all
+45 other cases where a determinations officer is appointed by the director, the
+46 director shall have the power to allow the acquisition contract to be awarded
+47 to the successful bidder prior to or after the decision of the determinations
+48 officer if he determines such award to be in the best interests of the state.
+49 Any determinations officer appointed pursuant to this section shall exist
+50 only for the duration of unresolved complaints on an acquisition and shall
+
+13
+1 be dismissed upon resolution of all such complaints. The determinations
+2 officer shall be guided in his determination by the best economic interests
+3 of the state for both the near future and more extended periods of time. In
+4 addition to the powers conferred on the determinations officer, the director
+5 may:
+6 (a) Impose the penalty prescribed by section 67-9231(3), Idaho Code;
+7 (b) Enjoin any activity that violates this chapter;
+8 (c) Direct that bids be rejected or sustained;
+9 (d) Direct that specifications be rejected, sustained or modified; and
+10 (e) Direct further legal action.
+11 (7) Challenges or appeals conducted pursuant to subsection (1), (2),
+12 (3)(a)(i), or (3)(a)(ii) of this section shall not be considered to be a con-
+13 tested case as that term is defined in the administrative procedure act. An
+14 appeal conducted pursuant to subsection (3)(a)(iii) of this section shall be
+15 conducted as a contested case according to the provisions of chapter 52, ti-
+16 tle 67, Idaho Code.
+17 (8) Any person or vendor filing a formal written protest of his inten-
+18 tion to challenge bid specifications pursuant to subsection (1) of this sec-
+19 tion, or an appeal pursuant to subsection (2) of this section, shall post
+20 with the administrator at the time of filing a protest bond in the form of a
+21 certified check, cashier's check, bid bond, or surety bond.
+22 (a) For contract bids with an estimated total value of less than ten
+23 million dollars ($10,000,000) over the initial term, the protest bond
+24 amount shall be equal to one percent (1%).
+25 (b) For contract bids with an estimated total value of ten million
+26 dollars ($10,000,000) or more over the initial term, the protest bond
+27 amount shall be equal to one-half percent (0.5%) and capped at ten mil-
+28 lion dollars ($10,000,000).
+29 (c) The agency shall provide the estimated contract value to any
+30 prospective protester within twenty-four (24) hours of a written re-
+31 quest.
+32 (d) Failure to post the protest bond at the time of filing the formal
+33 written protest shall result in the immediate summary dismissal of the
+34 protest by the administrator.
+35 (e) If the protest or appeal is successful, the protest bond shall be
+36 returned to the protester in full. If the protest or appeal is denied,
+37 and the final agency decision issued by the administrator or direc-
+38 tor finds the protest to be a frivolous protest as defined in section
+39 67-9203, Idaho Code, the state shall retain the protest bond in its en-
+40 tirety as liquidated damages for the delay and administrative costs of
+41 the procurement. Such findings shall constitute a determined frivolous
+42 protest for the purposes of debarment under section 67-9217, Idaho
+43 Code.
+44 SECTION 12. That Section 67-9233, Idaho Code, be, and the same is hereby
+45 amended to read as follows:
+46 67-9233. ETHICS IN PROCUREMENT. (1) It is the intent of the legisla-
+47 ture that all persons involved in the process of procuring property for the
+48 state conduct themselves in a manner that protects the public interest and
+
+14
+1 fosters confidence in the integrity of the process. To that end, this sec-
+2 tion shall apply to all such persons, including:
+3 (a) State officers, even if the officer or officer's employer is ex-
+4 cluded from the definition of "agency" under section 67-9203, Idaho
+5 Code;
+6 (b) State employees, even if the employee works for an officer, insti-
+7 tution or entity that is excluded from the definition of "agency" under
+8 section 67-9203, Idaho Code; and
+9 (c) Vendors or any person acting on behalf of a vendor.
+10 (2) In any matter relating to state procurement, it is an unethical
+11 breach of the public trust to:
+12 (a) Knowingly attempt to realize personal gain through state office or
+13 employment by any conduct inconsistent with this chapter or any other
+14 applicable law or rule;
+15 (b) Attempt to influence a state officer or employee to violate the pol-
+16 icy or provisions of this chapter or any other applicable law or rule; or
+17 (c) Knowingly violate an applicable law or rule.
+18 (3) Subject to due process requirements, and in addition to any other
+19 administrative, civil or criminal sanctions provided by law or rule, a state
+20 employee's supervisor may impose the following sanctions on the employee for
+21 an unethical breach of the public trust:
+22 (a) A reprimand or warning, either oral or written;
+23 (b) Suspension with or without pay for a specified period of time; or
+24 (c) Termination of employment.
+25 (4) In addition to any other administrative, civil or criminal sanction
+26 provided by law or rule, a vendor who commits an unethical breach of the pub-
+27 lic trust, or whose advocate or representative commits an unethical breach
+28 of the public trust, may be disqualified pursuant to section 67-9217, Idaho
+29 Code.
+30 (5) Vendors, employees of a vendor, or any persons acting on behalf of
+31 a vendor shall report to the secretary of state any financial expenditures
+32 over fifty dollars ($50.00), including but not limited to reimbursements for
+33 meals and travel.
+34 SECTION 13. An emergency existing therefor, which emergency is hereby
+35 declared to exist, this act shall be in full force and effect on and after
+36 July 1, 2026.

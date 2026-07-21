@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 670
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO URBAN RENEWAL; AMENDING SECTION 50-2906, IDAHO CODE, TO REVISE
+3 A PROVISION REGARDING SPECIAL RULES FOR CERTAIN TAXING DISTRICTS; AND
+4 DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 50-2906, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 50-2906. PUBLIC HEARING AND ORDINANCE REQUIRED -- SPECIAL RULES FOR
+9 CERTAIN TAXING DISTRICTS. (1) To adopt a new urban renewal plan or create
+10 a competitively disadvantaged border community area containing a revenue
+11 allocation financing provision, the local governing body of an authorized
+12 municipality must enact an ordinance in accordance with chapter 9, title 50,
+13 Idaho Code, and section 50-2008, Idaho Code. To modify an existing urban
+14 renewal plan, to add or change a revenue allocation, an authorized munici-
+15 pality must enact an ordinance in accordance with chapter 9, title 50, Idaho
+16 Code, and conduct a public hearing as provided in section 50-2008(c), Idaho
+17 Code. No urban renewal project, plan, competitively disadvantaged border
+18 community area or modification thereto, or revenue allocation financial
+19 provision shall be held ineffective for failure to comply with the require-
+20 ments of this section if compliance with the section is substantial and in
+21 good faith and administrative authority of both the local governing body
+22 and urban renewal agency does not extend beyond the municipal boundary of
+23 the authorized municipality. Urban renewal plans and revenue allocation
+24 financing provisions may be held ineffective if an urban renewal area or rev-
+25 enue allocation area extends outside the municipal boundary of an authorized
+26 municipality and a transfer of powers ordinance has not been adopted by the
+27 cooperating county.
+28 (2) A revenue allocation financing provision adopted in accordance
+29 with this chapter shall be effective retroactively to January 1 of the year
+30 in which the local governing body of the authorized municipality enacts such
+31 ordinance.
+32 (3)(a) Prior to taking action on an ordinance to adopt a revenue alloca-
+33 tion financing provision, the local governing body of an authorized mu-
+34 nicipality shall prepare a notice stating:
+35 (i) That an urban renewal plan or modification thereto or a com-
+36 petitively disadvantaged border community area has been proposed
+37 and is being considered for adoption, and that such plan or modi-
+38 fication thereto or proposal to create a competitively disadvan-
+39 taged border community area contains a revenue allocation financ-
+40 ing provision that will cause property taxes resulting from any
+41 increases in equalized assessed valuation in excess of the equal-
+42 ized assessed valuation as shown on the base assessment roll to be
+
+2
+1 allocated to the agency for urban renewal and competitively disad-
+2 vantaged border community area purposes;
+3 (ii) That an agreement on the administration of a revenue alloca-
+4 tion financing provision extending beyond the municipal boundary
+5 of the authorized municipality has been negotiated with the coop-
+6 erating county having extraterritorial power and that the agree-
+7 ment has been formalized by a transfer of power ordinance adopted
+8 by that county; and
+9 (iii) That a public hearing on such plan or modification will be
+10 held by the local governing body pursuant to section 50-2008(c),
+11 Idaho Code.
+12 (b) The notice shall also state the time, date, and place of the hear-
+13 ing. At least thirty (30) days but not more than sixty (60) days prior
+14 to the date set for final reading of the ordinance, the local governing
+15 body shall publish the notice in a newspaper of general circulation and
+16 transmit the notice, together with a copy of the plan and recommenda-
+17 tion of the urban renewal agency or the municipality which by ordinance
+18 created the competitively disadvantaged border community area, to the
+19 governing body of each taxing district which levies taxes upon any tax-
+20 able property in the revenue allocation area and which would be affected
+21 by the revenue allocation financing provision of the urban renewal plan
+22 proposed to be approved by the local governing body.
+23 (4) No fire protection district or ambulance service district shall be
+24 subject to the financing provisions of an urban renewal revenue allocation
+25 area, or any modification thereof, created or modified after July 1, 2025,
+26 unless the local governing body of the authorized municipality proposing to
+27 create or modify such financing provision requests such district to consent
+28 to be subject to the financing provision and the district receiving such
+29 request consents. To request such a district to consent, the local governing
+30 body of an authorized municipality shall send a request to the district at
+31 the same time it sends notice to taxing districts of its intent to create or
+32 modify an urban renewal plan that includes a revenue allocation financing
+33 provision pursuant to subsection (3) of this section. If the governing board
+34 of the district receiving a request to consent agrees with the request, it
+35 shall adopt a resolution providing that such district shall be subject to
+36 the financing provisions of the proposed urban renewal area plan or proposed
+37 urban renewal area plan modification that was identified in the request, and
+38 shall thereafter be subject to such financing provision. The consenting
+39 district shall, within ten (10) business days, file a copy of the resolution
+40 with the local governing body of the authorized municipality. Upon receipt
+41 of the district's resolution consenting to be subject to the financing pro-
+42 vision, the governing body of the municipality shall transmit a copy of such
+43 resolution to the county clerk and the state tax commission within ten (10)
+44 business days.
+45 (5)(a) Any fire protection district or ambulance service district may
+46 withdraw from being subject to an urban renewal revenue allocation fi-
+47 nancing provision under an urban renewal plan established by local gov-
+48 erning body ordinance prior to July 1, 2025, if the urban renewal plan
+49 establishing the revenue allocation financing provision does not have
+50 any outstanding bonds, contractual obligations, or other indebtedness
+
+3
+1 being funded by such revenue allocation financing provision greater
+2 than the amount of the revenue allocation proceeds that was attribut-
+3 able to the fire protection district or ambulance service district as of
+4 December 31 of the immediate prior tax year.
+5 (b) Any fire protection district or ambulance service district that
+6 seeks to withdraw shall:
+7 (i) By May 1 of the withdrawal year request an accounting from
+8 the county showing the amount of revenue allocation proceeds that
+9 was attributable to the fire protection district or ambulance ser-
+10 vice district as of December 31 of the immediate prior tax year. A
+11 copy of the accounting shall be simultaneously transmitted by the
+12 county to the requesting district and the agency within fifteen
+13 (15) days of receipt of the request from the district; and
+14 (ii) By June 1 of the withdrawal year adopt a resolution express-
+15 ing an intent to withdraw and transmit the same to the urban re-
+16 newal agency that governs the urban renewal plan and revenue al-
+17 location financing provision that the district seeks to withdraw
+18 from.
+19 (c) The agency shall schedule a special meeting within ten (10) busi-
+20 ness days of receipt of the fire protection district's or ambulance ser-
+21 vice district's resolution approving the withdrawal and the accounting
+22 from the county to accept the request to withdraw by agency resolution,
+23 or to deny the request to withdraw in writing due to the existence of
+24 outstanding bonds, contractual obligations, or other indebtedness be-
+25 ing funded by the district's revenue allocation proceeds, and setting
+26 forth specific information about the indebtedness.
+27 (d) The agency shall not deny a fire protection district's or ambulance
+28 service district's request to withdraw if there are no outstanding
+29 bonds, contractual obligations, or other indebtedness being funded by
+30 the district's revenue allocation proceeds or if the agency has suffi-
+31 cient revenue allocation proceeds from other sources to satisfy current
+32 outstanding bonds, contractual obligations, or other indebtedness.
+33 (d) (e) If the withdrawal is accepted, the urban renewal agency shall
+34 transmit a copy of the district resolution and the agency resolution to
+35 the county clerk, the county recorder, and the state tax commission no
+36 later than the fourth Monday of July. If the resolutions are received
+37 by the state tax commission and the county by the fourth Monday of July,
+38 then the levy rate for the next fiscal year will be calculated pursuant
+39 to section 50-2908(1)(g), Idaho Code, and any budget increases as set
+40 forth in sections 63-802 and 63-301A, Idaho Code. If the resolutions
+41 are transmitted to the county clerk, the county recorder, and the state
+42 tax commission after the fourth Monday of July, then the effect of the
+43 withdrawal will be the following tax year.
+44 (f) For the purposes of this subsection, "contractual obligation"
+45 means an obligation expressly set forth in a written contract or other
+46 written agreement that is executed by the parties to such contract or
+47 agreement.
+48 SECTION 2. An emergency existing therefor, which emergency is hereby
+49 declared to exist, this act shall be in full force and effect on and after its
+50 passage and approval.

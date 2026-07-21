@@ -1,0 +1,315 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 900
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO STATE AFFAIRS; AMENDING CHAPTER 57, TITLE 67, IDAHO CODE, BY THE
+3 ADDITION OF A NEW SECTION 67-5775A, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING PRIVATE INSURANCE COVERAGE AND CLAIMS FOR STATE PROPERTY;
+5 AMENDING SECTION 67-1085, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+6 REPORTING OF AGREEMENTS ENTERED INTO BY STATE OFFICERS OR STATE AGEN-
+7 CIES; AMENDING SECTION 74-105, IDAHO CODE, TO EXEMPT CERTAIN RECORDS
+8 FROM DISCLOSURE; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+9 DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Chapter 57, Title 67, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 67-5775A, Idaho Code, and to read as follows:
+14 67-5775A. PRIVATE INSURANCE COVERAGE AND CLAIMS FOR STATE PROP-
+15 ERTY. (1) In the event of damage to or loss of state property that results in
+16 the state filing a formal claim with a private insurer, the following shall
+17 be completed prior to the state's acceptance of any settlement offer or pay-
+18 out for a property claim or damage exceeding one hundred thousand dollars
+19 ($100,000):
+20 (a) Procurement of law enforcement reports, surveillance footage, or
+21 eyewitness statements confirming any third-party liability, if appli-
+22 cable;
+23 (b) Assessment of damages conducted by a state engineer, certified ap-
+24 praiser, or independent adjuster with valuations based on prevailing
+25 market replacement costs at the time of the loss, regardless of whether
+26 the state utilizes internal inventory or state-contracted pricing to
+27 effectuate the repair, including:
+28 (i) All recoverable soft costs, including but not limited to ar-
+29 chitectural and engineering fees, project management oversight,
+30 specialized permit fees, and the cost of temporary relocation or
+31 bypass measures required to maintain state services during the re-
+32 pair period; and
+33 (ii) All costs associated with ordinance or law requirements.
+34 If the repair of state property triggers a mandatory upgrade to
+35 meet current building, safety, or environmental codes, such costs
+36 shall be documented and included as a mandatory component of the
+37 claim.
+38 (c) Review of the insurance policy limits and exclusions to ensure the
+39 state is pursuing the maximum possible recovery across all possible
+40 payout scenarios; and
+41 (d) Verification that no other secondary insurance or bonds are avail-
+42 able to cover the loss.
+
+2
+1 (2) After completing the requirements provided in subsection (1) of
+2 this section, the director shall provide a report of the findings to the
+3 affected agency director or administrator and any state board or commission
+4 with administrative authority over the affected agency. The report re-
+5 quired in this section shall be exempt from disclosure as provided in section
+6 74-105, Idaho Code. Legislators may review a copy of the report with the
+7 expectation that it shall remain confidential until a settlement is reached
+8 or the claim is otherwise closed.
+9 (3) The affected agency shall have the right to perform or contract for
+10 an independent appraisal or engineering assessment of the damage to ensure
+11 the settlement is sufficient to restore the property to its prior utility and
+12 value.
+13 (4) The director shall pursue the maximum possible recovery across all
+14 payout scenarios under the terms and conditions of all applicable private
+15 insurance policies.
+16 (5) Following receipt of a proposed final settlement agreement from
+17 the insurance company, the director shall report such proposed settlement
+18 agreement to the state controller for publication as required in section
+19 67-1085, Idaho Code, at least fourteen (14) days prior to accepting such
+20 settlement agreement. Upon acceptance of a final settlement agreement, the
+21 director shall notify the state controller if the accepted final settlement
+22 agreement differs from the proposed final settlement agreement and shall
+23 report the updated settlement agreement to the state controller for publica-
+24 tion pursuant to section 67-1085, Idaho Code.
+25 (6) No settlement agreement shall be finalized and no release shall
+26 be signed by the director without the written concurrence of the affected
+27 agency director, administrator, board, or commission confirming that the
+28 payout meets the maximum amount of funds available to the state. If the di-
+29 rector and the affected agency cannot reach an agreement on the adequacy of
+30 a settlement agreement, the matter shall be referred to the state board of
+31 examiners for final determination.
+32 (7) If acceptance of a settlement agreement creates conditions for
+33 other operational changes for an agency, including but not limited to the
+34 sale of the damaged property or the transfer of state activities to another
+35 location, then the affected agency shall hold a public hearing where:
+36 (a) The published agenda for the hearing shall include proposed opera-
+37 tional changes;
+38 (b) The affected agency shall present the proposed operational changes
+39 and accept public comment; and
+40 (c) The affected agency shall notify the legislature of any operational
+41 changes adopted by the agency within seven (7) days of the decision.
+42 SECTION 2. That Section 67-1085, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 67-1085. AGREEMENTS ENTERED INTO BY STATE OFFICERS OR STATE AGEN-
+45 CIES -- REPORTING. (1) For purposes of this section, "state agency" means
+46 any state officer, department, division, bureau, or agency of the state of
+47 Idaho. All state officers and departments, divisions, bureaus, and agen-
+48 cies of the state of Idaho agencies shall report to the state controller any
+49 agreement entered into, including any memorandum of agreement or memorandum
+
+3
+1 of understanding, within ten (10) days of the state officer or department,
+2 division, bureau, or agency entering into such agreement. The state con-
+3 troller shall store, maintain, and publish a current list of all such agree-
+4 ments, as provided in section 67-1001(20), Idaho Code. Agreements shall be
+5 reported pursuant to the provisions of section 67-1085A, Idaho Code.
+6 (2) All state agencies shall report to the state controller any pro-
+7 posed final insurance settlement agreements entered into as provided in sec-
+8 tion 67-5775A, Idaho Code.
+9 SECTION 3. That Section 74-105, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 74-105. RECORDS EXEMPT FROM DISCLOSURE -- LAW ENFORCEMENT RECORDS,
+12 INVESTIGATORY RECORDS OF AGENCIES, EVACUATION AND EMERGENCY RESPONSE PLANS,
+13 WORKER'S COMPENSATION. The following records are exempt from disclosure:
+14 (1) Investigatory records of a law enforcement agency as defined in
+15 section 74-101(7), Idaho Code, under the conditions set forth in section
+16 74-124, Idaho Code.
+17 (2) Juvenile records of a person maintained pursuant to chapter 5,
+18 title 20, Idaho Code, except that facts contained in such records shall be
+19 furnished upon request in a manner determined by the court to persons and
+20 governmental and private agencies and institutions conducting pertinent
+21 research studies or having a legitimate interest in the protection, welfare
+22 and treatment of the juvenile who is thirteen (13) years of age or younger.
+23 If the juvenile is petitioned or charged with an offense that would be a
+24 criminal offense if committed by an adult, the name, offense of which the
+25 juvenile was petitioned or charged, and disposition of the court shall be
+26 subject to disclosure as provided in section 20-525, Idaho Code. Addi-
+27 tionally, facts contained in any records of a juvenile maintained pursuant
+28 to chapter 5, title 20, Idaho Code, shall be furnished upon request to any
+29 school district where the juvenile is enrolled or is seeking enrollment.
+30 (3) Records of the custody review board of the Idaho department of ju-
+31 venile corrections, including records containing the names, addresses and
+32 written statements of victims and family members of juveniles, shall be ex-
+33 empt from public disclosure pursuant to section 20-533A, Idaho Code.
+34 (4)(a) The following records of the department of correction:
+35 (i) Records of which the public interest in confidentiality, pub-
+36 lic safety, security and habilitation clearly outweighs the pub-
+37 lic interest in disclosure as identified pursuant to the authority
+38 of the state board of correction under section 20-212, Idaho Code;
+39 (ii) Records that contain any identifying information or any in-
+40 formation that would lead to the identification of any victims or
+41 witnesses;
+42 (iii) Records that reflect future transportation or movement of a
+43 prisoner;
+44 (iv) Records gathered during the course of the presentence inves-
+45 tigation; and
+46 (v) Records of a prisoner as defined in section 74-101(10), Idaho
+47 Code, or probationer shall not be disclosed to any other prisoner
+48 or probationer.
+
+4
+1 (b) Records, other than public expenditure records, related to pro-
+2 posed or existing critical infrastructure held by or in the custody
+3 of any public agency only when the disclosure of such information is
+4 reasonably likely to jeopardize the safety of persons, property or the
+5 public safety. Such records may include emergency evacuation, escape
+6 or other emergency response plans, vulnerability assessments, oper-
+7 ation and security manuals, plans, blueprints or security codes. For
+8 purposes of this paragraph, "system" includes electrical, computer
+9 and telecommunications systems, electric power (including produc-
+10 tion, generating, transportation, transmission and distribution), and
+11 heating, ventilation, and air conditioning. For purposes of this sub-
+12 section, "critical infrastructure" means any system or asset, whether
+13 physical or virtual, so vital to the state of Idaho, including its po-
+14 litical subdivisions, that the incapacity or destruction of such system
+15 or asset would have a debilitating impact on state or national economic
+16 security, state or national public health or safety, or any combination
+17 of those matters.
+18 (c) Records of the Idaho commission of pardons and parole shall be ex-
+19 empt from public disclosure pursuant to sections 20-1003 and 20-1005,
+20 Idaho Code. Records exempt from disclosure shall also include those
+21 containing the names, addresses and written statements of victims.
+22 (5) Voting records of the former sexual offender classification board.
+23 The written record of the vote to classify an offender as a violent sexual
+24 predator by each board member in each case reviewed by that board member
+25 shall be exempt from disclosure to the public and shall be made available
+26 upon request only to the governor, the chairman of the senate judiciary and
+27 rules committee, and the chairman of the house of representatives judiciary,
+28 rules and administration committee for all lawful purposes.
+29 (6) Records of the sheriff or Idaho state police received or maintained
+30 pursuant to sections 18-3302, 18-3302H and 18-3302K, Idaho Code, relating
+31 to an applicant or licensee, except that any law enforcement officer and law
+32 enforcement agency, whether inside or outside the state of Idaho, may access
+33 information maintained in the license record system as set forth in section
+34 18-3302K(16), Idaho Code.
+35 (7) Records of investigations prepared by the department of health and
+36 welfare pursuant to its statutory responsibilities dealing with the protec-
+37 tion of children, the rehabilitation of youth, adoptions and the commitment
+38 of mentally ill persons. For reasons of health and safety, best interests of
+39 the child or public interest, the department of health and welfare may pro-
+40 vide for the disclosure of records of investigations associated with actions
+41 pursuant to the provisions of chapter 16, title 16, Idaho Code, prepared by
+42 the department of health and welfare pursuant to its statutory responsibil-
+43 ities dealing with the protection of children, except any such records re-
+44 garding adoptions shall remain exempt from disclosure.
+45 (8) Records, including but not limited to investigative reports, re-
+46 sulting from investigations conducted into complaints of discrimination
+47 made to the Idaho human rights commission, unless the public interest in
+48 allowing inspection and copying of such records outweighs the legitimate
+49 public or private interest in maintaining confidentiality of such records.
+50 A person may inspect and copy documents from an investigative file to which
+
+5
+1 he or she is a named party if such documents are not otherwise prohibited from
+2 disclosure by federal law or regulation or state law. The confidentiality of
+3 this subsection will no longer apply to any record used in any judicial pro-
+4 ceeding brought by a named party to the complaint or investigation, or by the
+5 Idaho human rights commission, relating to the complaint of discrimination.
+6 (9) Records containing information obtained by the manager of the Idaho
+7 state insurance fund pursuant to chapter 9, title 72, Idaho Code, from or on
+8 behalf of employers or employees contained in underwriting and claims for
+9 benefits files.
+10 (10) The worker's compensation records of the Idaho industrial commis-
+11 sion, provided that the industrial commission shall make such records avail-
+12 able:
+13 (a) To the parties in any worker's compensation claim and to the indus-
+14 trial special indemnity fund of the state of Idaho; or
+15 (b) To employers and prospective employers subject to the provisions of
+16 the Americans with disabilities act, 42 U.S.C. 12112, or other statu-
+17 tory limitations, who certify that the information is being requested
+18 with respect to a worker to whom the employer has extended an offer of
+19 employment and will be used in accordance with the provisions of the
+20 Americans with disabilities act, 42 U.S.C. 12112, or other statutory
+21 limitations; or
+22 (c) To employers and prospective employers not subject to the provi-
+23 sions of the Americans with disabilities act, 42 U.S.C. 12112, or other
+24 statutory limitations, provided the employer presents a written autho-
+25 rization from the person to whom the records pertain; or
+26 (d) To others who demonstrate that the public interest in allowing in-
+27 spection and copying of such records outweighs the public or private in-
+28 terest in maintaining the confidentiality of such records, as deter-
+29 mined by a civil court of competent jurisdiction; or
+30 (e) Although a claimant's records maintained by the industrial commis-
+31 sion, including medical and rehabilitation records, are otherwise ex-
+32 empt from public disclosure, the quoting or discussing of medical or re-
+33 habilitation records contained in the industrial commission's records
+34 during a hearing for compensation or in a written decision issued by the
+35 industrial commission shall be permitted; provided further, the true
+36 identification of the parties shall not be exempt from public disclo-
+37 sure in any written decision issued and released to the public by the in-
+38 dustrial commission.
+39 (11) Records of investigations compiled by the commission on aging in-
+40 volving vulnerable adults as defined in section 18-1505, Idaho Code, alleged
+41 to be abused, neglected or exploited.
+42 (12) Criminal history records and fingerprints as defined in section
+43 67-3001, Idaho Code, and compiled by the Idaho state police. Such records
+44 shall be released only in accordance with chapter 30, title 67, Idaho Code.
+45 (13) Records furnished or obtained pursuant to section 41-1019, Idaho
+46 Code, regarding termination of an appointment, employment, contract or
+47 other insurance business relationship between an insurer and a producer.
+48 (14) Records of a prisoner or former prisoner in the custody of any state
+49 or local correctional facility, when the request is made by another prisoner
+50 in the custody of any state or local correctional facility.
+
+6
+1 (15) Except as provided in section 72-1007, Idaho Code, records of the
+2 Idaho industrial commission relating to compensation for crime victims pur-
+3 suant to chapter 10, title 72, Idaho Code.
+4 (16) Records or information identifying a complainant maintained by the
+5 department of health and welfare pursuant to section 39-3556, Idaho Code,
+6 relating to certified family homes, unless the complainant consents in writ-
+7 ing to the disclosure or the disclosure of the complainant's identity is re-
+8 quired in any administrative or judicial proceeding.
+9 (17) Records of any certification or notification required by federal
+10 law to be made in connection with the acquisition or transfer of a firearm,
+11 including a firearm as defined in 26 U.S.C. 5845(a).
+12 (18) Records of the office of the state public defender and the office of
+13 the state appellate public defender containing information protected or ex-
+14 empted from disclosure under the rules adopted by the Idaho supreme court,
+15 attorney work product, attorney-client privileged communication, records
+16 containing confidential information from an individual about his criminal
+17 case or performance of his attorney, or confidential information about an
+18 inquiry into an attorney's fitness to represent indigent defendants.
+19 (19) Records and information received by the office of the state con-
+20 troller from any local government, state agency and department, or volunteer
+21 nongovernmental entity for purposes of entry into the criminal justice
+22 integrated data system pursuant to section 19-4803, Idaho Code, and all
+23 records created by persons authorized to research and analyze information
+24 entered into the criminal justice integrated data system, regardless of
+25 whether such records were previously exempted from disclosure or redacted
+26 pursuant to state or federal law or court order. This exemption does not
+27 apply to projects, reports, and data analyses approved for release by the
+28 data oversight council and issued by persons authorized to conduct research
+29 and analysis as set forth in chapter 48, title 19, Idaho Code. Records and
+30 information relating to the management of the criminal justice integrated
+31 data system shall not be exempt from disclosure except as otherwise provided
+32 in law.
+33 (20) Records that contain any identifying information or any informa-
+34 tion that could lead to the identification of any persons or entities that
+35 participate in or assist with an execution of a death sentence as described
+36 in section 19-2716A, Idaho Code.
+37 (21) Records, other than public expenditure records, relating to
+38 the nature, location, or function of cybersecurity devices, programs, or
+39 systems designed to protect computer, information technology, or communica-
+40 tions systems against terrorist or other attacks.
+41 (22) Any index, report, or records of any person arrested for, prose-
+42 cuted for, or convicted of a crime in this state who has successfully peti-
+43 tioned a court to have his records shielded from disclosure pursuant to sec-
+44 tion 67-3004(11), Idaho Code.
+45 (23) Any record of an unlawful detainer under section 6-303, Idaho Code,
+46 if shielded by the court pursuant to section 6-303A, Idaho Code.
+47 (24) The report required in section 67-5775A, Idaho Code, until a set-
+48 tlement is reached or the claim is otherwise closed.
+
+7
+1 SECTION 4. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.

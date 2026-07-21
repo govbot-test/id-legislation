@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 976
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO APPROPRIATIONS; AMENDING SECTION 5 OF HOUSE BILL NO. 968, IF EN-
+3 ACTED BY THE SECOND REGULAR SESSION OF THE SIXTY-EIGHTH IDAHO LEGISLA-
+4 TURE, TO PROVIDE A CASH TRANSFER TO THE LOCAL HIGHWAY DISTRIBUTION FUND;
+5 AND DECLARING AN EMERGENCY.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 5 of House Bill No. 968, if enacted by the Sec-
+8 ond Regular Session of the Sixty-eighth Idaho Legislature, be, and the same
+9 is hereby amended to read as follows:
+10 Section 5. CASH TRANSFER TO THE STRATEGIC INITIATIVES
+11 PROGRAM FUND AND LOCAL HIGHWAY DISTRIBUTION FUND FOR FISCAL YEAR
+12 2026. There is hereby appropriated and the Office of the State
+13 Controller shall transfer 50% of the interest earnings generated
+14 in fiscal years 2024, 2025, and 2026 to the American Rescue Plan
+15 Act State and Local Fiscal Recovery Fund or $32,877,300, whichever
+16 is greater, to be distributed as 60% to the Strategic Initiatives
+17 Program (Dedicated) Fund and 40% to the Local Highway Distribution
+18 Fund as soon as practicable for the period July 1, 2025, through
+19 June 30, 2026. The amount shall be confirmed with the Legislative
+20 Services Office Budget and Policy Analysis Division.
+21 SECTION 2. An emergency existing therefor, which emergency is hereby
+22 declared to exist, this act shall be in full force and effect on and after its
+23 passage and approval.

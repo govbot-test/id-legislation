@@ -1,0 +1,266 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1395
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO CHILD CUSTODY; PROVIDING LEGISLATIVE FINDINGS AND INTENT;
+3 AMENDING SECTION 32-717, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+4 CHILD CUSTODY; AMENDING SECTION 32-717B, IDAHO CODE, TO PROVIDE FOR A
+5 PRESUMPTION OF EQUAL CUSTODY ALLOCATION; AMENDING CHAPTER 7, TITLE 32,
+6 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 32-721, IDAHO CODE, TO DE-
+7 FINE TERMS; AMENDING SECTION 32-1705, IDAHO CODE, TO PROVIDE A CORRECT
+8 CODE REFERENCE; AND PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. (1) The Legislature finds
+11 that:
+12 (a) Parenthood is a natural and fundamental relationship from which
+13 inherent parental rights and responsibilities arise, protected by the
+14 United States Constitution and the Constitution of the State of Idaho;
+15 (b) A parent has the right, obligation, responsibility, and authority
+16 to raise, manage, train, educate, provide for, and reasonably disci-
+17 pline the parent's child;
+18 (c) The role of the state is secondary and supportive to the primary
+19 role of a parent;
+20 (d) A parent's fundamental rights may be restricted only upon a judi-
+21 cial finding of unfitness or necessity, supported by clear and convinc-
+22 ing evidence; and
+23 (e) The interests of the state favor preservation and not severance of
+24 natural familial bonds in circumstances where a positive, nurturing
+25 parent-child relationship can exist, including extended family associ-
+26 ation and support. The procedural safeguards contained in this act are
+27 essential to the best interests of the child.
+28 (2) The Legislature declares that family court proceedings affecting
+29 the custody, care, or visitation of a child implicate fundamental liberty
+30 interests.
+31 (3) It is the intent of the Legislature to:
+32 (a) Protect children by preserving stable relationships with fit par-
+33 ents;
+34 (b) Ensure that restrictions on parental rights are narrowly tailored,
+35 based on clear and convincing evidence, and are the least restrictive
+36 means available;
+37 (c) Promote transparency, accountability, and timely judicial action
+38 in all custody matters; and
+39 (d) Promote stability, reduce unnecessary litigation, and support
+40 the child's meaningful relationship with fit parents by establishing
+41 clear, uniform standards for custody determinations.
+
+2
+1 SECTION 2. That Section 32-717, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 32-717. CUSTODY OF CHILDREN -- BEST INTEREST. (1) In an action for di-
+4 vorce When parents cannot reach an agreement regarding custody or parenting
+5 time of a minor child, the court may, before and after judgment, give such di-
+6 rection for the custody, care and education of the children of the marriage
+7 as may seem necessary or proper in the best interests of the children. The
+8 court shall consider all relevant factors which may include:
+9 (a) The wishes of the child's parent or parents as to his or her custody;
+10 (b) The wishes of the child as to his or her custodian;
+11 (c) The interaction and interrelationship of the child with his or her
+12 parent or parents, and his or her siblings;
+13 (d) The child's adjustment to his or her home, school, and community;
+14 (e) The character and circumstances of all individuals involved;
+15 (f) The need to promote continuity and stability in the life of the
+16 child; and
+17 (g) Domestic violence as defined in section 39-6303, Idaho Code,
+18 whether or not in the presence of the child.
+19 (2) If the parent has a disability as defined in this section 32-721,
+20 Idaho Code, the parent shall have the right to provide evidence and informa-
+21 tion regarding the manner in which the use of adaptive equipment or support-
+22 ive services will enable the parent to carry out the responsibilities of par-
+23 enting the child. The court shall advise the parent of such right. Evalua-
+24 tions of parental fitness shall take into account the use of adaptive equip-
+25 ment and supportive services for parents with disabilities and shall be con-
+26 ducted by, or with the assistance of, a person who has expertise concerning
+27 such equipment and services. Nothing in this section shall be construed to
+28 create any new or additional obligations on state or local governments to
+29 purchase or provide adaptive equipment or supportive services for parents
+30 with disabilities.
+31 (3) In any case where the child is actually residing with a grandparent
+32 in a stable relationship, the court may recognize the grandparent as having
+33 the same standing as a parent for evaluating what custody arrangements are in
+34 the best interests of the child. purposes of presenting evidence regarding
+35 the child's best interests, but not for purposes of diminishing, supplant-
+36 ing, or rebutting the fundamental parental rights. Nothing in this subsec-
+37 tion shall create a presumption in favor of a de facto custodian over a fit
+38 parent.
+39 (4) As used in this chapter:
+40 (a) "Adaptive equipment" means any piece of equipment or any item that
+41 is used to increase, maintain or improve the parenting capabilities of a
+42 parent with a disability.
+43 (b) "Disability" means, with respect to an individual, any mental or
+44 physical impairment which substantially limits one (1) or more ma-
+45 jor life activities of the individual including, but not limited to,
+46 self-care, manual tasks, walking, seeing, hearing, speaking, learn-
+47 ing or working, or a record of such an impairment, or being regarded as
+48 having such an impairment. Disability shall not include transvestism,
+49 transsexualism, pedophilia, exhibitionism, voyeurism, other sexual
+
+3
+1 behavior disorders, substance use disorders, compulsive gambling,
+2 kleptomania or pyromania. Sexual preference or orientation is not
+3 considered an impairment or disability. Whether an impairment sub-
+4 stantially limits a major life activity shall be determined without
+5 consideration of the effect of corrective or mitigating measures used
+6 to reduce the effects of the impairment.
+7 (c) "Supportive services" means services which assist a parent with a
+8 disability to compensate for those aspects of their disability which
+9 affect their ability to care for their child and which will enable
+10 them to discharge their parental responsibilities. The term includes
+11 specialized or adapted training, evaluations, or assistance with ef-
+12 fective use of adaptive equipment, and accommodations which allow a
+13 parent with a disability to benefit from other services, such as braille
+14 texts or sign language interpreters.
+15 (5) (4) Nothing in this chapter shall be construed to allow discrimina-
+16 tion on the basis of disability. In any case where the disability of a parent
+17 is found by the court to be relevant to an award of custody of a child, the
+18 court shall make specific findings concerning the disability and what ef-
+19 fect, if any, the court finds the disability has on the best interests of the
+20 child.
+21 (6) (5) With reference to this section, when an active member of the
+22 Idaho national guard has been ordered or called to duty as defined in section
+23 46-409, Idaho Code, or when a member of the military reserve is ordered to ac-
+24 tive federal service under title 10, United States Code, such military ser-
+25 vice thereunder shall not be a substantial or material and permanent change
+26 in circumstance to modify by reducing the member's previously decreed child
+27 custody and visitation privileges.
+28 (6) Prior to any contested divorce or custody proceeding being set for
+29 trial, the court shall require the parties to participate in alternative
+30 dispute resolution, including but not limited to mediation or a judicial
+31 settlement conference, absent good cause.
+32 SECTION 3. That Section 32-717B, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 32-717B. JOINT PRESUMPTION IN FAVOR OF EQUAL CUSTODY ALLOCATION. (1)
+35 "Joint custody" means an order awarding custody of the minor child or chil-
+36 dren to both parents and providing that physical custody shall be shared by
+37 the parents in such a way as to assure the child or children of frequent and
+38 continuing contact with both parents. The court may award either joint phys-
+39 ical custody or joint legal custody or both as between the parents or parties
+40 as the court determines is for the best interests of the minor child or chil-
+41 dren. If the court declines to enter an order awarding joint custody, the
+42 court shall state in its decision the reasons for denial of an award of joint
+43 custody.
+44 (2) "Joint physical custody" means an order awarding each of the par-
+45 ents significant periods of time in which a child resides with or is under the
+46 care and supervision of each of the parents or parties.
+47 Joint physical custody shall be shared by the parents in such a way to
+48 assure the child a frequent and continuing contact with both parents but does
+49 not necessarily mean the child's time with each parent should be exactly the
+
+4
+1 same in length nor does it necessarily mean the child should be alternating
+2 back and forth over certain periods of time between each parent.
+3 The actual amount of time with each parent shall be determined by the
+4 court.
+5 (3) "Joint legal custody" means a judicial determination that the par-
+6 ents or parties are required to share the decision-making rights, responsi-
+7 bilities and authority relating to the health, education and general welfare
+8 of a child or children.
+9 (4) (1) Except as provided in subsection (5), (2) of this section, ab-
+10 sent a preponderance of the evidence showing of good cause by clear and con-
+11 vincing evidence to the contrary, there shall be a presumption that joint
+12 custody substantially equal parenting time and joint legal custody is in the
+13 best interests of a minor child or children. If the court declines to enter
+14 an order awarding substantially equal parenting time and joint legal cus-
+15 tody, the court shall state in its decision the reasons for denial of an award
+16 of substantially equal parenting time and joint legal custody.
+17 (5) (2) There shall be a presumption that joint custody substantially
+18 equal parenting time and joint legal custody is not in the best interests of
+19 a minor child if one (1) of the parents is found by the court to be a habitual
+20 perpetrator of domestic violence as defined in section 39-6303, Idaho Code.
+21 SECTION 4. That Chapter 7, Title 32, Idaho Code, be, and the same is
+22 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+23 ignated as Section 32-721, Idaho Code, and to read as follows:
+24 32-721. DEFINITIONS. For the purpose of this chapter:
+25 (1) "Adaptive equipment" means equipment used to enhance the parenting
+26 capabilities of a parent with a disability.
+27 (2) "Custodial parent" means a parent awarded more than substantially
+28 equal physical custody of the parent's child, or, if no order exists, the
+29 parent providing the child's principal residence more than fifty-five per-
+30 cent (55%) of the time.
+31 (3) "Custodian" means a parent or other adult recognized by the court
+32 as having standing to exercise care, supervision, or custody of a child, in-
+33 cluding grandparents in stable, ongoing caregiving arrangements.
+34 (4) "Custody" means responsibility for a child, including legal, phys-
+35 ical, joint, or sole custody.
+36 (5) "Disability" means a mental or physical impairment substantially
+37 limiting a major life activity. "Disability" does not include sexual orien-
+38 tation, sexual behavior disorders, substance use disorders, compulsive gam-
+39 bling, kleptomania, or pyromania.
+40 (6) "Joint legal custody" means equally shared decision-making rights,
+41 responsibilities, and authority relating to the health, education, and gen-
+42 eral welfare of a child, unless otherwise specified in a court order.
+43 (7) "Joint physical custody" means equal periods of residence or su-
+44 pervision, except for temporary deviations for events such as documented
+45 travel, military deployment, temporary relocation, or medical conditions.
+46 (8) "Legal custody" means the right and responsibility to make major
+47 decisions regarding the child's upbringing, including health, education,
+48 and welfare.
+
+5
+1 (9) "Non-custodial parent" means a parent with less than forty-five
+2 percent (45%) physical custody of the parent's child.
+3 (10) "Parent" means a biological or adoptive mother or father whose
+4 parental rights are not terminated. "Parent" does not include persons
+5 serving in loco parentis, de facto caregivers, temporary guardians, or
+6 court-ordered visitation-only persons.
+7 (11) "Parental fitness" means the ability to provide for the child's
+8 health, safety, education, and welfare, including consistent parenting.
+9 (12) "Parenting time" means periods of time during which a parent exer-
+10 cises care of and interaction with the child. Parenting time reflects inher-
+11 ent parental rights and may be structured by court order.
+12 (13) "Physical custody" means the legal allocation of day-to-day care
+13 of the child.
+14 (14) "Sole legal custody" means the exclusive authority to make major
+15 decisions regarding the child's upbringing, including health, education,
+16 and welfare.
+17 (15) "Sole physical custody" means the exclusive right and responsibil-
+18 ity for primary residence and daily care of the child, subject to parenting
+19 time rights of the other parent.
+20 (16) "State" includes the legislative, executive, and judicial
+21 branches of government.
+22 (17) "Substantially equal parenting time" means both parents have equal
+23 legal custody and nearly equal physical custody of the child, with each par-
+24 ent having physical custody of the child at least forty-five percent (45%) of
+25 the time.
+26 (18) "Supportive services" means services that aid a parent with a dis-
+27 ability in fulfilling parental responsibilities.
+28 SECTION 5. That Section 32-1705, Idaho Code, be, and the same is hereby
+29 amended to read as follows:
+30 32-1705. NATURE OF DE FACTO CUSTODIAN ORDER -- ACCESS TO RECORDS --
+31 TERMINATION OF DE FACTO CUSTODIANSHIP. (1) A court may enter an order grant-
+32 ing a de facto custodian sole or joint legal and/or physical custody as
+33 defined in section 32-717B(1), (2) and (3) 32-721, Idaho Code, in the same
+34 manner as it would grant such custody to a parent.
+35 (2) An order granting custody to a de facto custodian is subject to the
+36 continuing jurisdiction of the court and is modifiable in the same manner
+37 as an order establishing parental custody pursuant to section 32-717, Idaho
+38 Code, or a similar provision.
+39 (3) A de facto custodian who has been granted sole or joint legal cus-
+40 tody of a child shall have access to records pertaining to the child who is
+41 the subject of the de facto custodianship to the same extent as a parent would
+42 have such access pursuant to an order of legal custody.
+43 (4) Any party to the proceeding granting custody to a de facto custodian
+44 may move for the termination of the custody order. A de facto custodian may
+45 move for permission to resign as de facto custodian.
+46 (a) A party moving for termination of the de facto custodian-child re-
+47 lationship must show by a preponderance of the evidence that termina-
+48 tion of the relationship would be in the best interests of the child.
+
+6
+1 (b) A motion for termination or for resignation may, but need not, in-
+2 clude a proposal for the continuing custody of the child.
+3 (c) After notice and hearing on a motion for termination or resigna-
+4 tion, the court may terminate the custody of the de facto custodian and
+5 may make any further orders that may be appropriate in the best inter-
+6 ests of the child.
+7 SECTION 6. This act shall be in full force and effect on and after Jan-
+8 uary 1, 2027.

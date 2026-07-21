@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 792
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3622K, IDAHO CODE, TO REVISE A
+3 PROVISION REGARDING OCCASIONAL SALES AND TO MAKE TECHNICAL CORREC-
+4 TIONS; AMENDING SECTION 63-3622XX, IDAHO CODE, AS ENACTED BY SECTION 1,
+5 CHAPTER 86, LAWS OF 2025, TO REVISE PROVISIONS REGARDING SMALL SELLER
+6 SALES TAX PROVISIONS AND TO REDESIGNATE THE SECTION; AND DECLARING AN
+7 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Section 63-3622K, Idaho Code, be, and the same is hereby
+10 amended to read as follows:
+11 63-3622K. OCCASIONAL SALES. (a) There are exempted from the taxes im-
+12 posed by this chapter occasional sales of tangible personal property.
+13 (b) As used in this section, the term "occasional sales" means:
+14 (1) A sale of property not held or used by a person in the course of an
+15 activity for which he is required to hold a seller's permit, provided
+16 such sale is not one (1) of a series of sales sufficient in number or
+17 of such a nature as to constitute the seller a "retailer" under section
+18 63-3610(c), Idaho Code. The definition of "occasional sales" provided
+19 in this subsection does not apply to use tax in regard to tangible per-
+20 sonal property used to improve real property when such property is ob-
+21 tained, directly or indirectly, from a person in the business of making
+22 like or similar improvements to real property.
+23 (2) Any transfer of all or substantially all of the property held or
+24 used by a person in a business requiring a seller's permit when, after
+25 such transfer, the real or ultimate ownership of such property is sub-
+26 stantially similar to that which existed before such transfer. For the
+27 purpose of this section, stockholders, bondholders, partners, or other
+28 persons holding an interest in a corporation or other entity are re-
+29 garded as having a "real or ultimate ownership" of the property of such
+30 corporation or other entity.
+31 (3) A transfer of capital assets to or by a business when the transfer
+32 is accomplished through an adjustment of the beneficial interest of the
+33 business and the transferor has paid sales or use taxes pursuant to sec-
+34 tion 63-3619 or 63-3621, Idaho Code, on the capital assets, incidental
+35 to:
+36 (i) A division of joint venture, partnership, or limited liabil-
+37 ity company assets among the members or partners in exchange for a
+38 proportional reduction of the transferee's interest in the joint
+39 venture, partnership, or limited liability company. For the pur-
+40 poses of this section, the term "limited liability company" means
+41 a business organization as defined in chapter 6, title 53, Idaho
+
+2
+1 Code, or as defined in section 30-6-102, Idaho Code, as appropri-
+2 ate pursuant to section 30-6-1104, Idaho Code;
+3 (ii) The formation of a partnership, joint venture, or limited
+4 liability company by the transfer of assets to the partnership,
+5 joint venture, or limited liability company or transfers to a
+6 partnership, joint venture, or limited liability company in ex-
+7 change for proportionate interests in the partnership, joint
+8 venture, or limited liability company;
+9 (iii) The formation of a corporation by the owners of a business
+10 and the transfer of their business assets to the corporation in ex-
+11 change for stock in proportion to assets contributed;
+12 (iv) The transfer of assets of shareholders in the formation or
+13 dissolution of a corporation;
+14 (v) The transfer of capital assets by a corporation to its stock-
+15 holders in exchange for surrender of capital stock;
+16 (vi) The transfer of assets from a parent corporation to a sub-
+17 sidiary corporation which is owned at least eighty percent (80%)
+18 by the parent corporation, which transfer is solely in exchange
+19 for stock or securities of the subsidiary corporation;
+20 (vii) The transfer of assets from a subsidiary corporation which
+21 is owned at least eighty percent (80%) by the parent corporation to
+22 a parent corporation or another subsidiary which is owned at least
+23 eighty percent (80%) by the parent corporation, which transfer is
+24 solely in exchange for stock or securities of the parent corpora-
+25 tion or the subsidiary which received the assets.
+26 (4) The sale, lease or rental of a capital asset in substantially
+27 the same form as acquired by the transferor and on which the initial
+28 transferor has paid sales or use taxes pursuant to section 63-3619 or
+29 63-3621, Idaho Code, when the owners of all of the outstanding stock,
+30 equity or interest of the transferor are the same as the transferee or
+31 are members of the same family within the second degree of consanguinity
+32 or affinity.
+33 (5) The sale of substantially all of the operating assets of a business
+34 or of a separate division, branch, or identifiable segment to a buyer
+35 who continues operation of the business. For the purpose of this sub-
+36 section, a "separate division, branch, or identifiable segment" shall
+37 be deemed to exist if, prior to its sale, the income and expense attrib-
+38 utable to such "separate division, branch, or identifiable segment"
+39 could be separately ascertained from the books of accounts and records.
+40 (6) Sales by persons who are not defined as "retailers" in section
+41 63-3610, Idaho Code.
+42 (7) Sales of animals by any 4-H club or FFA club held in conjunction with
+43 a fair or the western Idaho spring lamb sale.
+44 (8) The sale or purchase of tangible personal property at home yard
+45 sales; provided however, that no more than two (2) such home yard sales
+46 per individual calendar year shall be exempt. If a homeowner has more
+47 than two (2) home yard sales and the total sales are less than five thou-
+48 sand dollars ($5,000) in a calendar year, such homeowner may qualify as
+49 a small seller as defined in section 63-3622YY, Idaho Code.
+
+3
+1 (c) As used in this section, the term "occasional sales," when applied
+2 to the sale of a motor vehicle, means only:
+3 (1) Sales of motor vehicles between members of a family related within
+4 the second degree of consanguinity, unless a sales or use tax was not im-
+5 posed on the sale of that motor vehicle at the time of purchase, in which
+6 situation the sale is taxable.
+7 (2) Sales of motor vehicles that fall within the scope of the transac-
+8 tions detailed in subsection (b)(2) through (b)(5) of this section.
+9 (d) The exemption provided by subsection (b)(1), (b)(4), (b) (6), or
+10 (b) (8) of this section shall not apply to the sale, purchase or use of air-
+11 craft, as defined in section 21-201, Idaho Code, nor shall it apply to the
+12 sale, purchase or use of boats or vessels, as defined in section 67-7003,
+13 Idaho Code, nor shall it apply to the sale, purchase or use of snowmobiles,
+14 recreational vehicles or off-highway motorbikes, as defined in section
+15 63-3622HH, Idaho Code.
+16 SECTION 2. That Section 63-3622XX, Idaho Code, as enacted by Section 1,
+17 Chapter 86, Laws of 2025, be, and the same is hereby amended to read as fol-
+18 lows:
+19 63-3622XX 63-3622YY. SMALL SELLER. (1) There is hereby exempted from
+20 the taxes imposed by this chapter sales of tangible personal property made by
+21 an individual making small sales. A small seller shall not collect or remit
+22 any state sales or use tax imposed by this chapter.
+23 (2) For purposes of this section, "small seller" means an Idaho resi-
+24 dent making sales that do not exceed five thousand dollars ($5,000) in cumu-
+25 lative gross receipts in the current or previous calendar year. It shall not
+26 include partnerships, corporations, or limited liability corporations.
+27 (3) The exemption provided in this section shall not apply to:
+28 (a) Sales of motor vehicles, trailers, all-terrain vehicles, utility
+29 type vehicles, specialty off-highway vehicles, motorcycles intended
+30 for off-road use, snowmobiles, aircraft, vessels as defined in section
+31 67-7003, Idaho Code, alcohol, or tobacco; or
+32 (b) Items purchased to be sold or incorporated into items to be sold.
+33 (4) A small seller with gross receipts exceeding five thousand dollars
+34 ($5,000) in a calendar year shall within thirty (30) days file with the state
+35 tax commission an application for a temporary seller's permit and begin col-
+36 lecting and remitting sales and use tax on all sales exceeding five thousand
+37 dollars ($5,000) in such calendar year. No temporary seller's permit shall
+38 be issued for a period of time greater than the remaining calendar year in
+39 which sales exceeded five thousand dollars ($5,000) for a small seller. The
+40 following year, If such seller reasonably anticipates to exceed five thou-
+41 sand dollars ($5,000) in sales for the next calendar year, such seller shall
+42 apply for a seller's permit under the provisions of section 63-3620(a),
+43 Idaho Code. A small seller with gross receipts exceeding seven thousand five
+44 hundred dollars ($7,500) in a calendar year shall collect and remit sales and
+45 use tax on all sales made during such calendar year.
+46 (5) A small seller shall indicate on such seller's invoice, if re-
+47 quested by the purchaser, that the sale was exempt from sales and use tax
+48 pursuant to the provisions of this section.
+
+4
+1 (6) A small seller shall not permanently maintain, occupy, or use an
+2 office, place of distribution, sales or sample room or place, warehouse or
+3 storage place, or other place of business or maintain a stock of goods with
+4 anticipation of exceeding gross receipts of five thousand dollars ($5,000).
+5 (7) A small seller may file an application with the state tax commission
+6 for a seller's permit pursuant to section 63-3620, Idaho Code, before such
+7 seller reaches the five thousand dollar ($5,000) threshold provided in sub-
+8 section (2) of this section.
+9 (8) Nothing in this section relieves a small seller from filing indi-
+10 vidual income tax returns for persons who meet the filing requirements under
+11 section 63-3030, Idaho Code.
+12 (9) A small seller with sales exceeding three thousand dollars ($3,000)
+13 annually shall keep such records for not less than four (4) years pursuant to
+14 section 63-3624, Idaho Code.
+15 SECTION 3. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

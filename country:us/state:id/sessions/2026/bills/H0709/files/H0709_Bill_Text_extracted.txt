@@ -1,0 +1,860 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 709
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO PROGRAMMABLE MONEY; AMENDING SECTION 28-1-201, IDAHO CODE, TO
+3 REVISE A DEFINITION; AMENDING SECTION 28-9-102, IDAHO CODE, TO REVISE A
+4 DEFINITION AND TO MAKE A TECHNICAL CORRECTION; AMENDING TITLE 28, IDAHO
+5 CODE, BY THE ADDITION OF A NEW CHAPTER 54, TITLE 28, IDAHO CODE, TO DE-
+6 FINE TERMS, TO LIMIT THE USE OF PROGRAMMABLE MONEY, TO PROVIDE REMEDIES,
+7 AND TO ESTABLISH PROVISIONS REGARDING CRIMINAL PENALTIES; PROVIDING
+8 SEVERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+9 DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Section 28-1-201, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 28-1-201. GENERAL DEFINITIONS. (a) Unless the context otherwise re-
+14 quires, words or phrases defined in this section, or in the additional defi-
+15 nitions contained in other chapters of the uniform commercial code that ap-
+16 ply to particular chapters or parts thereof, have the meanings stated.
+17 (b) Subject to definitions contained in other articles of the uniform
+18 commercial code that apply to particular articles or parts thereof:
+19 (1) "Action," in the sense of a judicial proceeding, includes recoup-
+20 ment, counterclaim, set-off, suit in equity, and any other proceeding
+21 in which rights are determined.
+22 (2) "Aggrieved party" means a party entitled to pursue a remedy.
+23 (3) "Agreement," as distinguished from "contract," means the bargain
+24 of the parties in fact, as found in their language or inferred from other
+25 circumstances, including course of performance, course of dealing or
+26 usage of trade as provided in section 28-1-303, Idaho Code.
+27 (4) "Bank" means a person engaged in the business of banking and in-
+28 cludes a savings bank, savings and loan association, credit union, and
+29 trust company.
+30 (5) "Bearer" means a person in control of a negotiable electronic docu-
+31 ment of title or a person in possession of a negotiable instrument, ne-
+32 gotiable tangible document of title, or certificated security that is
+33 payable to bearer or indorsed in blank.
+34 (6) "Bill of lading" means a document of title evidencing the receipt
+35 of goods for shipment issued by a person engaged in the business of di-
+36 rectly or indirectly transporting or forwarding goods. The term does
+37 not include a warehouse receipt.
+38 (7) "Branch" includes a separately incorporated foreign branch of a
+39 bank.
+40 (8) "Burden of establishing" a fact means the burden of persuading the
+41 trier of fact that the existence of the fact is more probable than its
+42 nonexistence.
+
+2
+1 (9) "Buyer in ordinary course of business" means a person that buys
+2 goods in good faith, without knowledge that the sale violates the rights
+3 of another person in the goods, and in the ordinary course from a per-
+4 son, other than a pawnbroker, in the business of selling goods of that
+5 kind. A person buys goods in the ordinary course if the sale to the
+6 person comports with the usual or customary practices in the kind of
+7 business in which the seller is engaged or with the seller's own usual
+8 or customary practices. A person that sells oil, gas or other minerals
+9 at the wellhead or minehead is a person in the business of selling goods
+10 of that kind. A buyer in ordinary course of business may buy for cash,
+11 by exchange of other property, or on secured or unsecured credit, and
+12 may acquire goods or documents of title under a preexisting contract for
+13 sale. Only a buyer that takes possession of the goods or has a right to
+14 recover the goods from the seller under chapter 2, title 28, Idaho Code,
+15 may be a buyer in ordinary course of business. "Buyer in ordinary course
+16 of business" does not include a person that acquires goods in a transfer
+17 in bulk or as security for or in total or partial satisfaction of a money
+18 debt.
+19 (10) "Conspicuous," with reference to a term, means so written, dis-
+20 played, or presented that a reasonable person against which it is to op-
+21 erate ought to have noticed it. Whether a term is "conspicuous" or not
+22 is a decision for the court. Conspicuous terms include the following:
+23 (A) A heading in capitals equal to or greater in size than the sur-
+24 rounding text, or in contrasting type, font, or color to the sur-
+25 rounding text of the same or lesser size; and
+26 (B) Language in the body of a record or display in larger type than
+27 the surrounding text, or in contrasting type, font, or color to the
+28 surrounding text of the same size, or set off from the surrounding
+29 text of the same size by symbols or other marks that call attention
+30 to the language.
+31 (11) "Consumer" means an individual who enters into a transaction pri-
+32 marily for personal, family, or household purposes.
+33 (12) "Contract," as distinguished from "agreement," means the total le-
+34 gal obligation that results from the parties' agreement as determined
+35 by the uniform commercial code as supplemented by any other applicable
+36 laws.
+37 (13) "Creditor" includes a general creditor, a secured creditor, a lien
+38 creditor, and any representative of creditors, including an assignee
+39 for the benefit of creditors, a trustee in bankruptcy, a receiver in eq-
+40 uity, and an executor or administrator of an insolvent debtor's or as-
+41 signor's estate.
+42 (14) "Defendant" includes a person in the position of defendant in a
+43 counterclaim, cross-claim, or third-party claim.
+44 (15) "Delivery," with respect to an electronic document of title means
+45 voluntary transfer of control and with respect to an instrument, a tan-
+46 gible document of title, or chattel paper, means voluntary transfer of
+47 possession.
+48 (16) "Document of title" means a record (i) that in the regular course
+49 of business or financing is treated as adequately evidencing that the
+50 person in possession or control of the record is entitled to receive,
+
+3
+1 control, hold, and dispose of the record and the goods the record cov-
+2 ers and (ii) that purports to be issued by or addressed to a bailee and
+3 to cover goods in the bailee's possession which are either identified or
+4 are fungible portions of an identified mass. The term includes a bill of
+5 lading, transport document, dock warrant, dock receipt, warehouse re-
+6 ceipt, and order for delivery of goods. An electronic document of title
+7 means a document of title evidenced by a record consisting of informa-
+8 tion stored in an electronic medium. A tangible document of title means
+9 a document of title evidenced by a record consisting of information that
+10 is inscribed on a tangible medium.
+11 (17) "Fault" means a default, breach, or wrongful act or omission.
+12 (18) "Fungible goods" means:
+13 (A) Goods of which any unit, by nature or usage of trade, is the
+14 equivalent of any other like unit; or
+15 (B) Goods that by agreement are treated as equivalent.
+16 (19) "Genuine" means free of forgery or counterfeiting.
+17 (20) "Good faith" means honesty in fact in the conduct or transaction
+18 concerned.
+19 (21) "Holder" means:
+20 (A) The person in possession of a negotiable instrument that is
+21 payable either to bearer or to an identified person that is the
+22 person in possession;
+23 (B) The person in possession of a negotiable tangible document of
+24 title if the goods are deliverable either to bearer or to the order
+25 of the person in possession; or
+26 (C) The person in control of a negotiable electronic document of
+27 title.
+28 (22) "Insolvency proceeding" includes an assignment for the benefit of
+29 creditors or other proceeding intended to liquidate or rehabilitate the
+30 estate of the person involved.
+31 (23) "Insolvent" means:
+32 (A) Having generally ceased to pay debts in the ordinary course of
+33 business other than as a result of bona fide dispute;
+34 (B) Being unable to pay debts as they become due; or
+35 (C) Being insolvent within the meaning of federal bankruptcy law.
+36 (24) "Money" means a medium of exchange currently authorized or adopted
+37 by a domestic or foreign government. The term includes a monetary
+38 unit of account established by an intergovernmental organization or by
+39 agreement between two (2) or more countries. "Money" does not include
+40 programmable money.
+41 (25) "Organization" means a person other than an individual.
+42 (26) "Party," as distinguished from "third party," means a person that
+43 has engaged in a transaction or made an agreement subject to the uniform
+44 commercial code.
+45 (27) "Person" means an individual, corporation, business trust, es-
+46 tate, trust, partnership, limited liability company, association,
+47 joint venture, government, governmental subdivision, agency, or in-
+48 strumentality, public corporation, or any other legal or commercial
+49 entity.
+
+4
+1 (28) "Present value" means the amount as of a date certain of one (1)
+2 or more sums payable in the future, discounted to the date certain by
+3 use of either an interest rate specified by the parties if that rate is
+4 not manifestly unreasonable at the time the transaction is entered into
+5 or, if an interest rate is not so specified, a commercially reasonable
+6 rate that takes into account the facts and circumstances at the time the
+7 transaction is entered into.
+8 (29) "Purchase" means taking by sale, lease, discount, negotiation,
+9 mortgage, pledge, lien, security interest, issue or reissue, gift, or
+10 any other voluntary transaction creating an interest in property.
+11 (30) "Purchaser" means a person that takes by purchase.
+12 (31) "Record" means information that is inscribed on a tangible medium
+13 or that is stored in an electronic or other medium and is retrievable in
+14 perceivable form.
+15 (32) "Remedy" means any remedial right to which an aggrieved party is
+16 entitled with or without resort to a tribunal.
+17 (33) "Representative" means a person empowered to act for another,
+18 including an agent, an officer of a corporation or association, and a
+19 trustee, executor, or administrator of an estate.
+20 (34) "Rights" includes remedy.
+21 (35) "Security interest" means an interest in personal property or fix-
+22 tures which secures payment or performance of an obligation. "Security
+23 interest" includes any interest of a consignor and a buyer of accounts,
+24 chattel paper, a payment intangible, or a promissory note in a trans-
+25 action that is subject to chapter 9, title 28, Idaho Code. "Security
+26 interest" does not include the special property interest of a buyer
+27 of goods on identification of those goods to a contract for sale under
+28 section 28-2-401, Idaho Code, but a buyer may also acquire a "security
+29 interest" by complying with chapter 9, title 28, Idaho Code. Except
+30 as otherwise provided in section 28-2-505, Idaho Code, the right of a
+31 seller or lessor of goods under chapter 2 or chapter 12, title 28, Idaho
+32 Code, to retain or acquire possession of the goods is not a "security
+33 interest," but a seller or lessor may also acquire a "security interest"
+34 by complying with chapter 9, title 28, Idaho Code. The retention or
+35 reservation of title by a seller of goods notwithstanding shipment or
+36 delivery to the buyer under section 28-2-401, Idaho Code, is limited in
+37 effect to a reservation of a "security interest." Whether a transaction
+38 in the form of a lease creates a "security interest" is determined pur-
+39 suant to section 28-1-203, Idaho Code.
+40 (36) "Send" in connection with a writing, record, or notice means:
+41 (A) To deposit in the mail or deliver for transmission by any other
+42 usual means of communication with postage or cost of transmission
+43 provided for and properly addressed and, in the case of an instru-
+44 ment, to an address specified thereon or otherwise agreed, or if
+45 there be none to any address reasonable under the circumstances;
+46 or
+47 (B) In any other way to cause to be received any record or notice
+48 within the time it would have arrived if properly sent.
+49 (37) "Signed" includes using any symbol executed or adopted with
+50 present intention to adopt or accept a writing.
+
+5
+1 (38) "State" means a state of the United States, the District of Colum-
+2 bia, Puerto Rico, the United States Virgin Islands, or any territory or
+3 insular possession subject to the jurisdiction of the United States.
+4 (39) "Surety" includes a guarantor or other secondary obligor.
+5 (40) "Term" means a portion of an agreement that relates to a particular
+6 matter.
+7 (41) "Unauthorized signature" means a signature made without actual,
+8 implied, or apparent authority. The term includes a forgery.
+9 (42) "Warehouse receipt" means a document of title issued by a person
+10 engaged in the business of storing goods for hire.
+11 (43) "Written" or "writing" includes printing, typewriting, or any
+12 other intentional reduction to tangible form.
+13 SECTION 2. That Section 28-9-102, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 28-9-102. DEFINITIONS AND INDEX OF DEFINITIONS. (a) In this chapter:
+16 (1) "Accession" means goods that are physically united with other goods
+17 in such a manner that the identity of the original goods is not lost.
+18 (2) "Account," except as used in "account for," means a right to payment
+19 of a monetary obligation, whether or not earned by performance: (i) for
+20 property that has been or is to be sold, leased, licensed, assigned, or
+21 otherwise disposed of; (ii) for services rendered or to be rendered;
+22 (iii) for a policy of insurance issued or to be issued; (iv) for a sec-
+23 ondary obligation incurred or to be incurred; (v) for energy provided
+24 or to be provided; (vi) for the use or hire of a vessel under a charter
+25 or other contract; (vii) arising out of the use of a credit or charge
+26 card or information contained on or for use with the card; or (viii) as
+27 winnings in a lottery or other game of chance operated or sponsored by a
+28 state, governmental unit of a state, or a person licensed or authorized
+29 to operate the game by a state or governmental unit of a state. The term
+30 includes health care insurance receivables. The term does not include:
+31 (i) rights to payment evidenced by chattel paper or an instrument; (ii)
+32 commercial tort claims; (iii) deposit accounts; (iv) investment prop-
+33 erty; (v) letter of credit rights or letters of credit; or (vi) rights to
+34 payment for money or funds advanced or sold, other than rights arising
+35 out of the use of a credit or charge card or information contained on or
+36 for use with the card.
+37 (3) "Account debtor" means a person obligated on an account, chat-
+38 tel paper, or general intangible. The term does not include persons
+39 obligated to pay a negotiable instrument, even if the instrument con-
+40 stitutes part of chattel paper.
+41 (4) "Accounting," except as used in "accounting for," means a record:
+42 (A) authenticated by a secured party;
+43 (B) indicating the aggregate unpaid secured obligations as of a
+44 date not more than thirty-five (35) days earlier or thirty-five
+45 (35) days later than the date of the record; and
+46 (C) identifying the components of the obligations in reasonable
+47 detail.
+48 (5) "Agricultural lien" means an interest, other than a security inter-
+49 est, in farm products:
+
+6
+1 (A) which secures payment or performance of an obligation for:
+2 (i) goods or services furnished in connection with a
+3 debtor's farming operation; or
+4 (ii) rent on real property leased by a debtor in connection
+5 with its farming operation;
+6 (B) which is created by statute in favor of a person that:
+7 (i) in the ordinary course of its business furnished goods
+8 or services to a debtor in connection with a debtor's farming
+9 operation; or
+10 (ii) leased real property to a debtor in connection with the
+11 debtor's farming operation; and
+12 (C) whose effectiveness does not depend on the person's posses-
+13 sion of the personal property.
+14 (6) "As-extracted collateral" means:
+15 (A) oil, gas, or other minerals that are subject to a security in-
+16 terest that:
+17 (i) is created by a debtor having an interest in the miner-
+18 als before extraction; and
+19 (ii) attaches to the minerals as extracted; or
+20 (B) accounts arising out of the sale at the wellhead or minehead
+21 of oil, gas, or other minerals in which the debtor had an interest
+22 before extraction.
+23 (7) "Authenticate" means:
+24 (A) to sign; or
+25 (B) with the intent to adopt or accept a record, to attach to or
+26 logically associate with the record an electronic sound, symbol or
+27 process.
+28 (8) "Bank" means an organization that is engaged in the business of
+29 banking. The term includes savings banks, savings and loan associa-
+30 tions, credit unions and trust companies.
+31 (9) "Cash proceeds" means proceeds that are money, checks, deposit ac-
+32 counts, or the like.
+33 (10) "Certificate of title" means a certificate of title with respect to
+34 which a statute provides for the security interest in question to be in-
+35 dicated on the certificate as a condition or result of the security in-
+36 terest's obtaining priority over the rights of a lien creditor with re-
+37 spect to the collateral. The term includes another record maintained as
+38 an alternative to a certificate of title by the governmental unit that
+39 issues certificates of title if a statute permits the security interest
+40 in question to be indicated on the record as a condition or result of the
+41 security interest's obtaining priority over the rights of a lien credi-
+42 tor with respect to the collateral.
+43 (11) "Chattel paper" means a record or records that evidence both a mon-
+44 etary obligation and a security interest in specific goods, a security
+45 interest in specific goods and software used in the goods, a security
+46 interest in specific goods and license of software used in the goods,
+47 a lease of specific goods, or a lease of specific goods and license of
+48 software used in the goods. In this paragraph, "monetary obligation"
+49 means a monetary obligation secured by the goods or owed under a lease
+50 of the goods and includes a monetary obligation with respect to software
+
+7
+1 used in the goods. The term does not include: (i) charters or other con-
+2 tracts involving the use or hire of a vessel; or (ii) records that evi-
+3 dence a right to payment arising out of the use of a credit or charge card
+4 or information contained on or for use with the card. If a transaction
+5 is evidenced by records that include an instrument or series of instru-
+6 ments, the group of records taken together constitutes chattel paper.
+7 (12) "Collateral" means the property subject to a security interest or
+8 agricultural lien. The term includes:
+9 (A) proceeds to which a security interest attaches;
+10 (B) accounts, chattel paper, payment intangibles, and promissory
+11 notes that have been sold; and
+12 (C) goods that are the subject of a consignment.
+13 (13) "Commercial tort claim" means a claim arising in tort with respect
+14 to which:
+15 (A) the claimant is an organization; or
+16 (B) the claimant is an individual and the claim:
+17 (i) arose in the course of the claimant's business or pro-
+18 fession; and
+19 (ii) does not include damages arising out of personal injury
+20 to or the death of an individual.
+21 (14) "Commodity account" means an account maintained by a commodity in-
+22 termediary in which a commodity contract is carried for a commodity cus-
+23 tomer.
+24 (15) "Commodity contract" means a commodity futures contract, an option
+25 on a commodity futures contract, a commodity option, or another con-
+26 tract if the contract or option is:
+27 (A) traded on or subject to the rules of a board of trade that has
+28 been designated as a contract market for such a contract pursuant
+29 to federal commodities laws; or
+30 (B) traded on a foreign commodity board of trade, exchange, or
+31 market, and is carried on the books of a commodity intermediary for
+32 a commodity customer.
+33 (16) "Commodity customer" means a person for which a commodity interme-
+34 diary carries a commodity contract on its books.
+35 (17) "Commodity intermediary" means a person that:
+36 (A) is registered as a futures commission merchant under federal
+37 commodities law; or
+38 (B) in the ordinary course of its business provides clearance or
+39 settlement services for a board of trade that has been designated
+40 as a contract market pursuant to federal commodities law.
+41 (18) "Communicate" means:
+42 (A) to send a written or other tangible record;
+43 (B) to transmit a record by any means agreed upon by the persons
+44 sending and receiving the record; or
+45 (C) in the case of transmission of a record to or by a filing of-
+46 fice, to transmit a record by any means prescribed by filing office
+47 rule.
+48 (19) "Consignee" means a merchant to which goods are delivered in a con-
+49 signment.
+
+8
+1 (20) "Consignment" means a transaction, regardless of its form, in
+2 which a person delivers goods to a merchant for the purpose of sale and:
+3 (A) the merchant:
+4 (i) deals in goods of that kind under a name other than the
+5 name of the person making delivery;
+6 (ii) is not an auctioneer; and
+7 (iii) is not generally known by its creditors to be substan-
+8 tially engaged in selling the goods of others;
+9 (B) with respect to each delivery, the aggregate value of the
+10 goods is one thousand dollars ($1,000) or more at the time of de-
+11 livery;
+12 (C) the goods are not consumer goods immediately before delivery;
+13 and
+14 (D) the transaction does not create a security interest that se-
+15 cures an obligation.
+16 (21) "Consignor" means a person that delivers goods to a consignee in a
+17 consignment.
+18 (22) "Consumer debtor" means a debtor in a consumer transaction.
+19 (23) "Consumer goods" means goods that are used or bought for use pri-
+20 marily for personal, family or household purposes.
+21 (24) "Consumer goods transaction" means a consumer transaction in
+22 which:
+23 (A) an individual incurs an obligation primarily for personal,
+24 family or household purposes; and
+25 (B) a security interest in consumer goods secures the obligation.
+26 (25) "Consumer obligor" means an obligor who is an individual and who
+27 incurred the obligation as part of a transaction entered into primarily
+28 for personal, family or household purposes.
+29 (26) "Consumer transaction" means a transaction in which: (i) an indi-
+30 vidual incurs an obligation primarily for personal, family or household
+31 purposes; (ii) a security interest secures the obligation; and (iii)
+32 the collateral is held or acquired primarily for personal, family or
+33 household purposes. The term includes consumer goods transactions.
+34 (27) "Continuation statement" means an amendment of a financing state-
+35 ment which:
+36 (A) identifies, by its file number, the initial financing state-
+37 ment to which it relates; and
+38 (B) indicates that it is a continuation statement for, or that it
+39 is filed to continue the effectiveness of, the identified financ-
+40 ing statement.
+41 (28) "Debtor" means:
+42 (A) a person having an interest, other than a security interest
+43 or other lien, in the collateral, whether or not the person is an
+44 obligor;
+45 (B) a seller of accounts, chattel paper, payment intangibles or
+46 promissory notes; or
+47 (C) a consignee.
+48 (29) "Deposit account" means a demand, time, savings, passbook, or sim-
+49 ilar account maintained with a bank. The term does not include invest-
+
+9
+1 ment property, or accounts evidenced by an instrument, or programmable
+2 money.
+3 (30) "Document" means a document of title or a receipt of the type de-
+4 scribed in section 28-7-201(b), Idaho Code.
+5 (31) "Electronic chattel paper" means chattel paper evidenced by a
+6 record or records consisting of information stored in an electronic
+7 medium.
+8 (32) "Encumbrance" means a right, other than an ownership interest,
+9 in real property. The term includes mortgages and other liens on real
+10 property.
+11 (33) "Equipment" means goods other than inventory, farm products or
+12 consumer goods.
+13 (34) "Farm products" means goods, other than standing timber, with re-
+14 spect to which the debtor is engaged in a farming operation and which
+15 are:
+16 (A) crops grown, growing, or to be grown, including:
+17 (i) crops produced on trees, vines and bushes; and
+18 (ii) aquatic goods produced in aquacultural operations;
+19 (B) livestock, born or unborn, including aquatic goods produced
+20 in aquacultural operations;
+21 (C) supplies used or produced in a farming operation; or
+22 (D) products of crops or livestock in their unmanufactured
+23 states.
+24 (35) "Farming operation" means raising, cultivating, propagating, fat-
+25 tening, grazing, or any other farming, livestock, or aquacultural oper-
+26 ation.
+27 (36) "File number" means the number assigned to an initial financing
+28 statement pursuant to section 28-9-519(a), Idaho Code.
+29 (37) "Filing office" means an office designated in section 28-9-501,
+30 Idaho Code, as the place to file a financing statement.
+31 (38) "Filing office rule" means a rule adopted pursuant to section 28-9-
+32 526, Idaho Code.
+33 (39) "Financing statement" means a record or records composed of an ini-
+34 tial financing statement and any filed record relating to the initial
+35 financing statement.
+36 (40) "Fixture filing" means the filing of a financing statement cov-
+37 ering goods that are or are to become fixtures and satisfying section
+38 28-9-502(a) and (b), Idaho Code. The term includes the filing of a fi-
+39 nancing statement covering goods of a transmitting utility which are or
+40 are to become fixtures.
+41 (41) "Fixtures" means goods that have become so related to particular
+42 real property that an interest in them arises under real property law.
+43 (42) "General intangible" means any personal property, including
+44 things in action, other than accounts, chattel paper, commercial tort
+45 claims, deposit accounts, documents, goods, instruments, investment
+46 property, letter of credit rights, letters of credit, money, and oil,
+47 gas, or other minerals before extraction. The term includes payment
+48 intangibles and software.
+49 (43) "Good faith" means honesty in fact and the observance of reasonable
+50 commercial standards of fair dealing.
+
+10
+1 (44) "Goods" means all things that are movable when a security inter-
+2 est attaches. The term includes: (i) fixtures; (ii) standing timber
+3 that is to be cut and removed under a conveyance or contract for sale;
+4 (iii) the unborn young of animals; (iv) crops grown, growing, or to be
+5 grown, even if the crops are produced on trees, vines or bushes; and (v)
+6 manufactured homes. The term also includes a computer program embed-
+7 ded in goods and any supporting information provided in connection with
+8 a transaction relating to the program if: (i) the program is associ-
+9 ated with the goods in such a manner that it customarily is considered
+10 part of the goods; or (ii) by becoming the owner of the goods, a person
+11 acquires a right to use the program in connection with the goods. The
+12 term does not include a computer program embedded in goods that consist
+13 solely of the medium in which the program is embedded. The term also
+14 does not include accounts, chattel paper, commercial tort claims, de-
+15 posit accounts, documents, general intangibles, instruments, invest-
+16 ment property, letter of credit rights, letters of credit, money, or
+17 oil, gas, or other minerals before extraction.
+18 (45) "Governmental unit" means a subdivision, agency, department,
+19 county, parish, municipality, or other unit of the government of the
+20 United States, a state, or a foreign country. The term includes an or-
+21 ganization having a separate corporate existence if the organization is
+22 eligible to issue debt on which interest is exempt from income taxation
+23 under the laws of the United States.
+24 (46) "Health care insurance receivable" means an interest in or claim
+25 under a policy of insurance which is a right to payment of a monetary
+26 obligation for health care goods or services provided or to be provided.
+27 (47) "Instrument" means a negotiable instrument or any other writing
+28 that evidences a right to the payment of a monetary obligation, is not
+29 itself a security agreement or lease, and is of a type that in the ordi-
+30 nary course of business is transferred by delivery with any necessary
+31 indorsement or assignment. The term does not include: (i) investment
+32 property; (ii) letters of credit; or (iii) writings that evidence a
+33 right to payment arising out of the use of a credit or charge card or
+34 information contained on or for use with the card.
+35 (48) "Inventory" means goods, other than farm products, which:
+36 (A) are leased by a person as lessor;
+37 (B) are held by a person for sale or lease or to be furnished under
+38 a contract of service;
+39 (C) are furnished by a person under a contract of service; or
+40 (D) consist of raw materials, work in process, or materials used
+41 or consumed in a business.
+42 (49) "Investment property" means a security, whether certificated or
+43 uncertificated, security entitlement, securities account, commodity
+44 contract or commodity account.
+45 (50) "Jurisdiction of organization," with respect to a registered or-
+46 ganization, means the jurisdiction under whose law the organization is
+47 formed or organized.
+48 (51) "Letter of credit right" means a right to payment or performance
+49 under a letter of credit, whether or not the beneficiary has demanded or
+50 is at the time entitled to demand payment or performance. The term does
+
+11
+1 not include the right of a beneficiary to demand payment or performance
+2 under a letter of credit.
+3 (52) "Lien creditor" means:
+4 (A) a creditor that has acquired a lien on the property involved by
+5 attachment, levy, or the like;
+6 (B) an assignee for benefit of creditors from the time of assign-
+7 ment;
+8 (C) a trustee in bankruptcy from the date of the filing of the pe-
+9 tition; or
+10 (D) a receiver in equity from the time of appointment.
+11 (53) "Manufactured home" means a structure, transportable in one (1) or
+12 more sections, which, in the traveling mode, is eight (8) body feet or
+13 more in width or forty (40) body feet or more in length, or, when erected
+14 on site, is three hundred twenty (320) or more square feet, and which
+15 is built on a permanent chassis and designed to be used as a dwelling
+16 with or without a permanent foundation when connected to the required
+17 utilities, and includes the plumbing, heating, air conditioning, and
+18 electrical systems contained therein. The term includes any structure
+19 that meets all of the requirements of this paragraph except the size re-
+20 quirements and with respect to which the manufacturer voluntarily files
+21 a certification required by the United States secretary of housing and
+22 urban development and complies with the standards established under ti-
+23 tle 42 of the United States Code.
+24 (54) "Manufactured home transaction" means a secured transaction:
+25 (A) that creates a purchase-money security interest in a manufac-
+26 tured home, other than a manufactured home held as inventory; or
+27 (B) in which a manufactured home, other than a manufactured home
+28 held as inventory, is the primary collateral.
+29 (55) "Mortgage" means a consensual interest in real property, including
+30 fixtures, which secures payment or performance of an obligation.
+31 (56) "New debtor" means a person that becomes bound as debtor under sec-
+32 tion 28-9-203(d), Idaho Code, by a security agreement previously en-
+33 tered into by another person.
+34 (57) "New value" means: (i) money; (ii) money's worth in property, ser-
+35 vices or new credit; or (iii) release by a transferee of an interest in
+36 property previously transferred to the transferee. The term does not
+37 include an obligation substituted for another obligation.
+38 (58) "Noncash proceeds" means proceeds other than cash proceeds.
+39 (59) "Obligor" means a person that, with respect to an obligation
+40 secured by a security interest in or an agricultural lien on the col-
+41 lateral: (i) owes payment or other performance of the obligation; (ii)
+42 has provided property other than the collateral to secure payment or
+43 other performance of the obligation; or (iii) is otherwise accountable
+44 in whole or in part for payment or other performance of the obligation.
+45 The term does not include issuers or nominated persons under a letter of
+46 credit.
+47 (60) "Original debtor," except as used in section 28-9-310(c), Idaho
+48 Code, means a person that, as debtor, entered into a security agreement
+49 to which a new debtor has become bound under section 28-9-203(d), Idaho
+50 Code.
+
+12
+1 (61) "Payment intangible" means a general intangible under which the
+2 account debtor's principal obligation is a monetary obligation.
+3 (62) "Person related to," with respect to an individual, means:
+4 (A) the spouse of the individual;
+5 (B) a brother, brother-in-law, sister, or sister-in-law of the
+6 individual;
+7 (C) an ancestor or lineal descendant of the individual or the in-
+8 dividual's spouse; or
+9 (D) any other relative, by blood or marriage, of the individual or
+10 the individual's spouse who shares the same home with the individ-
+11 ual.
+12 (63) "Person related to," with respect to an organization, means:
+13 (A) a person directly or indirectly controlling, controlled by,
+14 or under common control with the organization;
+15 (B) an officer or director of, or a person performing similar
+16 functions with respect to, the organization;
+17 (C) an officer or director of, or a person performing similar
+18 functions with respect to, a person described in subparagraph (A)
+19 of this paragraph;
+20 (D) the spouse of an individual described in subparagraph (A), (B)
+21 or (C) of this paragraph; or
+22 (E) an individual who is related by blood or marriage to an indi-
+23 vidual described in subparagraph (A), (B), (C) or (D) of this para-
+24 graph and shares the same home with the individual.
+25 (64) "Proceeds" means the following property:
+26 (A) whatever is acquired upon the sale, lease, license, exchange
+27 or other disposition of collateral;
+28 (B) whatever is collected on, or distributed on account of, col-
+29 lateral;
+30 (C) rights arising out of collateral;
+31 (D) to the extent of the value of collateral, claims arising out of
+32 the loss, nonconformity, or interference with the use of, defects
+33 or infringement of rights in, or damage to, the collateral; or
+34 (E) to the extent of the value of collateral and to the extent
+35 payable to the debtor or the secured party, insurance payable by
+36 reason of the loss or nonconformity of, defects or infringement of
+37 rights in, or damage to, the collateral.
+38 (65) "Promissory note" means an instrument that evidences a promise to
+39 pay a monetary obligation, does not evidence an order to pay, and does
+40 not contain an acknowledgment by a bank that the bank has received for
+41 deposit a sum of money or funds.
+42 (66) "Proposal" means a record authenticated by a secured party which
+43 includes the terms on which the secured party is willing to accept col-
+44 lateral in full or partial satisfaction of the obligation it secures
+45 pursuant to sections 28-9-620, 28-9-621 and 28-9-622, Idaho Code.
+46 (67) "Public-finance transaction" means a secured transaction in con-
+47 nection with which:
+48 (A) debt securities are issued;
+49 (B) all or a portion of the securities issued have an initial
+50 stated maturity of at least twenty (20) years; and
+
+13
+1 (C) the debtor, obligor, secured party, account debtor or other
+2 person obligated on collateral, assignor or assignee of a secured
+3 obligation, or assignor or assignee of a security interest is a
+4 state or a governmental unit of a state.
+5 (68) "Public organic record" means a record that is available to the
+6 public for inspection and that is:
+7 (A) a record consisting of the record initially filed with or is-
+8 sued by a state or the United States to form or organize an organ-
+9 ization and any record filed with or issued by the state or the
+10 United States which amends or restates the initial record;
+11 (B) an organic record of a business trust consisting of the record
+12 initially filed with a state and any record filed with the state
+13 which amends or restates the initial record, if a statute of the
+14 state governing business trusts requires that the record be filed
+15 with the state; or
+16 (C) a record consisting of legislation enacted by the legislature
+17 of a state or the congress of the United States which forms or or-
+18 ganizes an organization, any record amending the legislation, and
+19 any record filed with or issued by the state or United States which
+20 amends or restates the name of the organization.
+21 (69) "Pursuant to commitment," with respect to an advance made or other
+22 value given by a secured party, means pursuant to the secured party's
+23 obligation, whether or not a subsequent event of default or other event
+24 not within the secured party's control has relieved or may relieve the
+25 secured party from its obligation.
+26 (70) "Record," except as used in "for record," "of record," "record or
+27 legal title," and "record owner," means information that is inscribed
+28 on a tangible medium or which is stored in an electronic or other medium
+29 and is retrievable in perceivable form.
+30 (71) "Registered organization" means an organization formed or orga-
+31 nized solely under the law of a single state or the United States by the
+32 filing of a public organic record with, the issuance of a public or-
+33 ganic record by, or the enactment of legislation by the state or United
+34 States. The term includes a business trust that is formed or organized
+35 under the law of a single state if a statute of the state governing busi-
+36 ness trusts requires that the business trust's organic record be filed
+37 with the state.
+38 (72) "Secondary obligor" means an obligor to the extent that:
+39 (A) the obligor's obligation is secondary; or
+40 (B) the obligor has a right of recourse with respect to an obliga-
+41 tion secured by collateral against the debtor, another obligor, or
+42 property of either.
+43 (73) "Secured party" means:
+44 (A) a person in whose favor a security interest is created or pro-
+45 vided for under a security agreement, whether or not any obliga-
+46 tion to be secured is outstanding;
+47 (B) a person that holds an agricultural lien;
+48 (C) a consignor;
+49 (D) a person to which accounts, chattel paper, payment intangi-
+50 bles or promissory notes have been sold;
+
+14
+1 (E) a trustee, indenture trustee, agent, collateral agent, or
+2 other representative in whose favor a security interest or agri-
+3 cultural lien is created or provided for; or
+4 (F) a person that holds a security interest arising under sec-
+5 tion 28-2-401, 28-2-505, 28-2-711(3), 28-4-210, 28-5-120 or
+6 28-12-508(5), Idaho Code.
+7 (74) "Security agreement" means an agreement that creates or provides
+8 for a security interest.
+9 (75) "Send," in connection with a record or notification, means:
+10 (A) to deposit in the mail, deliver for transmission, or trans-
+11 mit by any other usual means of communication, with postage or cost
+12 of transmission provided for, addressed to any address reasonable
+13 under the circumstances; or
+14 (B) to cause the record or notification to be received within the
+15 time that it would have been received if properly sent under sub-
+16 paragraph (A) of this paragraph.
+17 (76) "Software" means a computer program and any supporting information
+18 provided in connection with a transaction relating to the program. The
+19 term does not include a computer program that is included in the defini-
+20 tion of goods.
+21 (77) "State" means a state of the United States, the District of Colum-
+22 bia, Puerto Rico, the United States Virgin Islands, or any territory or
+23 insular possession subject to the jurisdiction of the United States.
+24 (78) "Supporting obligation" means a letter of credit right or sec-
+25 ondary obligation that supports the payment or performance of an ac-
+26 count, chattel paper, a document, a general intangible, an instrument
+27 or investment property.
+28 (79) "Tangible chattel paper" means chattel paper evidenced by a record
+29 or records consisting of information that is inscribed on a tangible
+30 medium.
+31 (80) "Termination statement" means an amendment of a financing state-
+32 ment which:
+33 (A) identifies, by its file number, the initial financing state-
+34 ment to which it relates; and
+35 (B) indicates either that it is a termination statement or that
+36 the identified financing statement is no longer effective.
+37 (81) "Transmitting utility" means a person primarily engaged in the
+38 business of:
+39 (A) operating a railroad, subway, street railway, or trolley bus;
+40 (B) transmitting communications electrically, electromagneti-
+41 cally or by light;
+42 (C) transmitting goods by pipeline or sewer; or
+43 (D) transmitting or producing and transmitting electricity,
+44 steam, gas or water.
+45 (b) "Control" as provided in section 28-7-106, Idaho Code, and the fol-
+46 lowing definitions in other chapters apply to this chapter:
+47 "Applicant" section 28-5-102, Idaho Code.
+48 "Beneficiary" section 28-5-102, Idaho Code.
+49 "Broker" section 28-8-102, Idaho Code.
+
+15
+1 "Certificated security" section 28-8-102, Idaho Code.
+2 "Check" section 28-3-104, Idaho Code.
+3 "Clearing corporation" section 28-8-102, Idaho Code.
+4 "Contract for sale" section 28-2-106, Idaho Code.
+5 "Customer" section 28-4-104, Idaho Code.
+6 "Entitlement holder" section 28-8-102, Idaho Code.
+7 "Financial asset" section 28-8-102, Idaho Code.
+8 "Holder in due course" section 28-3-302, Idaho Code.
+9 "Issuer" (with respect to a letter of credit
+10 or letter of credit right) section 28-5-102, Idaho Code.
+11 "Issuer" (with respect to a security) section 28-8-201, Idaho Code.
+12 "Issuer" (with respect to documents
+13 of title) section 28-7-102, Idaho Code.
+14 "Lease" section 28-12-103, Idaho Code.
+15 "Lease agreement" section 28-12-103, Idaho Code.
+16 "Lease contract" section 28-12-103, Idaho Code.
+17 "Leasehold interest" section 28-12-103, Idaho Code.
+18 "Lessee" section 28-12-103, Idaho Code.
+19 "Lessee in ordinary course of business" section 28-12-103, Idaho Code.
+20 "Lessor" section 28-12-103, Idaho Code.
+21 "Lessor's residual interest" section 28-12-103, Idaho Code.
+22 "Letter of credit" section 28-5-102, Idaho Code.
+23 "Merchant" section 28-2-104, Idaho Code.
+24 "Negotiable instrument" section 28-3-104, Idaho Code.
+25 "Nominated person" section 28-5-102, Idaho Code.
+26 "Note" section 28-3-104, Idaho Code.
+27 "Proceeds of a letter of credit" section 28-5-114, Idaho Code.
+28 "Prove" section 28-3-103, Idaho Code.
+29 "Sale" section 28-2-106, Idaho Code.
+30 "Securities account" section 28-8-501, Idaho Code.
+31 "Securities intermediary" section 28-8-102, Idaho Code.
+32 "Security" section 28-8-102, Idaho Code.
+33 "Security certificate" section 28-8-102, Idaho Code.
+34 "Security entitlement" section 28-8-102, Idaho Code.
+35 "Uncertificated security" section 28-8-102, Idaho Code.
+36 (c) Chapter 1, title 28, Idaho Code, contains general definitions and
+37 principles of construction and interpretation applicable throughout this
+38 chapter.
+39 SECTION 3. That Title 28, Idaho Code, be, and the same is hereby amended
+40 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+41 ter 54, Title 28, Idaho Code, and to read as follows:
+
+16
+1 CHAPTER 54
+2 CONSUMER PAYMENT RIGHTS AND TRANSPARENCY ACT
+3 28-5401. DEFINITIONS. As used in this chapter:
+4 (1) "Automation" means actions used by, on behalf of, or in support of
+5 an issuer by computer code, algorithms, or artificial intelligence for the
+6 issuer, the issuer's products, or the issuer's affiliates.
+7 (2) "Issuer" means any person or entity that creates, controls, or dis-
+8 tributes programmable money.
+9 (3) "Programmable money" means money or currency that can be encoded
+10 with specific rules and conditions that allow it to be automatically con-
+11 trolled and used according to predefined parameters, including:
+12 (a) The capability to deny or approve a specific transaction;
+13 (b) Allowing user-specific restrictions on location, time, use, and
+14 identity of the transaction or parties to the transaction;
+15 (c) Expiring or diminishing, instead of being subject to ordinary in-
+16 flation; or
+17 (d) Being used to implement a social credit score system.
+18 (4) "Social credit score system" means a system to monitor the behavior
+19 of persons in order to restrict access to financial services using a rating
+20 or score based on lawful activities or factors, including but not limited to:
+21 (a) The factors described in section 28-5402(1)(b), Idaho Code;
+22 (b) The manufacture, distribution, sale, purchase, or use of firearms,
+23 including firearm accessories and ammunition;
+24 (c) Fossil fuel or agricultural activities;
+25 (d) Lawful advocacy of the state or federal government;
+26 (e) Refusal to participate in or to meet social governance standards,
+27 environmental standards, or employment composition standards, pro-
+28 vided the person is in compliance with applicable state and federal law;
+29 and
+30 (f) Participation in or refusal to participate in social justice pro-
+31 grams, such as diversity, equity, and inclusion.
+32 28-5402. PROGRAMMABLE MONEY -- UNLAWFUL ACTS AND PRACTICES. (1) It
+33 shall be a violation of the provisions of this chapter for an issuer to:
+34 (a) Require the use of programmable money for any transaction without
+35 offering a non-digital alternative free of charge;
+36 (b) Deny a transaction based on the following factors:
+37 (i) Sex, race, or ethnicity;
+38 (ii) Political opinion, speech, religion, or affiliations;
+39 (iii) Medical history, including vaccination status;
+40 (iv) Purchase and browsing history;
+41 (v) Geographical location;
+42 (vi) A person's trade, profession, or business activity;
+43 (vii) Application of a social credit score system or similar eval-
+44 uation; or
+45 (viii) Any other lawful activity; or
+46 (c) Cause or allow, through an act or omission, the denial of a trans-
+47 action based on criteria listed in paragraph (b) of this subsection,
+48 through direct action, automation, or programming.
+
+17
+1 (2) If an issuer denies a transaction, a party may request a statement
+2 of specific reason within ninety (90) days of the denial.
+3 (3) If a statement of specific reason is requested pursuant to subsec-
+4 tion (2) of this section, the issuer shall respond with a statement of spe-
+5 cific reason within thirty (30) days of receiving the request. Such state-
+6 ment shall include:
+7 (a) The reason for the denial with a detailed description and citation
+8 to the specific terms of service that were the basis for the denial;
+9 (b) A phone number, email address, and physical address where the re-
+10 questing party can further inquire; and
+11 (c) A copy of the terms of service.
+12 28-5403. REMEDIES. (1) An aggrieved party, pursuant to a violation of
+13 this chapter, may bring a civil action for declaratory or injunctive relief
+14 and may recover actual and punitive damages against the violating party.
+15 (2) In an action pursuant to this chapter, the prevailing party, upon
+16 each separate cause of action, shall recover reasonable attorney's fees.
+17 (3) If the court finds, by a preponderance of the evidence, that the de-
+18 fendant acted intentionally or knowingly or repeatedly violated the provi-
+19 sions of this chapter, the court may order revocation of the defendant's au-
+20 thorization to conduct business in Idaho.
+21 28-5404. CRIMINAL PENALTIES. (1) An issuer who violates the provi-
+22 sions of this chapter is guilty of a misdemeanor and, upon conviction, may be
+23 sentenced to pay a fine of ten thousand dollars ($10,000) per violation, to
+24 imprisonment not exceeding one (1) year, or both such fine and imprisonment.
+25 (2) Pursuant to section 28-5402(1), Idaho Code, each denial or failed
+26 transaction not justified constitutes a separate offense.
+27 (3) Nothing in this section shall be construed to prohibit a pro-
+28 grammable money issuer the ability to decline a transaction that constitutes
+29 a criminal offense or payment for a criminal act.
+30 (4) Nothing in this chapter shall be construed to prohibit the purchase
+31 or sale of cryptocurrency or other assets by public or private parties.
+32 SECTION 4. SEVERABILITY. The provisions of this act are hereby declared
+33 to be severable and if any provision of this act or the application of such
+34 provision to any person or circumstance is declared invalid for any reason,
+35 such declaration shall not affect the validity of the remaining portions of
+36 this act.
+37 SECTION 5. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

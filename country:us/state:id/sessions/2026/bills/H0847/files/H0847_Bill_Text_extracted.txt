@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 847
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE JUDICIAL BRANCH; APPROPRIATING MONEYS
+3 TO THE JUDICIAL BRANCH FOR FISCAL YEAR 2027; EXEMPTING THE APPROPRI-
+4 ATION FROM EXPENSE CLASS AND PROGRAM TRANSFER LIMITATIONS; PROVIDING
+5 REQUIREMENTS FOR RETIREMENT CONTRIBUTIONS; PROVIDING REAPPROPRIATION
+6 AUTHORITY; PROVIDING FOR CONDITIONS, LIMITATIONS, AND RESTRICTIONS;
+7 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. There is hereby appropriated to the Judicial Branch the fol-
+10 lowing amounts to be expended according to the designated programs and ex-
+11 pense classes from the listed funds for the period July 1, 2026, through June
+12 30, 2027:
+13 FOR
+14 FOR FOR FOR TRUSTEE AND
+15 PERSONNEL OPERATING CAPITAL BENEFIT
+16 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+17 I. COURT OPERATIONS:
+18 A. SUPREME COURT:
+19 FROM:
+20 General
+21 Fund $16,635,900 $1,295,500 $225,600 $18,157,000
+22 Miscellaneous Revenue
+23 Fund 271,000 271,000
+24 Federal Grant
+25 Fund 440,100 1,419,300 0 1,859,400
+26 TOTAL $17,076,000 $2,985,800 $225,600 $20,287,400
+27 B. COURT OF APPEALS:
+28 FROM:
+29 General
+30 Fund $2,756,700 $43,900 $2,800,600
+31 C. DISTRICT COURTS:
+32 FROM:
+33 General
+34 Fund $24,165,200 $1,102,800 $25,268,000
+
+2
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 Court Technology
+6 Fund 5,751,300 $3,348,300 9,099,600
+7 DrugCourt, MentalHealthCourtandFamilyCourtServices
+8 Fund 1,930,400 3,368,500 0 5,298,900
+9 TOTAL $26,095,600 $10,222,600 $3,348,300 $39,666,500
+10 D. MAGISTRATE DIVISION:
+11 FROM:
+12 General
+13 Fund $23,094,100 $382,800 $23,476,900
+14 DrugCourt, MentalHealthCourtandFamilyCourtServices
+15 Fund 1,278,600 1,890,700 3,169,300
+16 Guardianship Pilot Project
+17 Fund 371,600 66,200 437,800
+18 Senior Magistrate Judges
+19 Fund 600,000 600,000
+20 Federal Grant
+21 Fund 21,000 90,100 111,100
+22 TOTAL $24,765,300 $3,029,800 $27,795,100
+23 E. WATER ADJUDICATION:
+24 FROM:
+25 General
+26 Fund $757,500 $161,900 $919,400
+27 F. COMMUNITY-BASED SUBSTANCE USE TREATMENT SERVICES:
+28 FROM:
+29 Substance Abuse Treatment
+30 Fund $264,200 $434,200 $4,230,800 $4,929,200
+31 G. SENIOR JUDGES:
+32 FROM:
+33 General
+34 Fund $1,181,900 $1,181,900
+35 DIVISIONTOTAL $72,897,200 $16,878,200 $3,348,300 $4,456,400 $97,580,100
+
+3
+1 FOR
+2 FOR FOR FOR TRUSTEE AND
+3 PERSONNEL OPERATING CAPITAL BENEFIT
+4 COSTS EXPENDITURES OUTLAY PAYMENTS TOTAL
+5 II. GUARDIAN AD LITEM PROGRAM:
+6 FROM:
+7 General
+8 Fund $16,700 $2,750,800 $2,767,500
+9 III. JUDICIAL COUNCIL:
+10 FROM:
+11 General
+12 Fund $22,500 $132,500 $155,000
+13 GRANDTOTAL $72,936,400 $17,010,700 $3,348,300 $7,207,200 $100,502,600
+14 SECTION 2. EXEMPTIONS FROM EXPENSE CLASS AND PROGRAM TRANSFER LIMITA-
+15 TIONS. The Judicial Branch is hereby exempted from the provisions of Section
+16 67-3511(1), (2), and (3), Idaho Code, allowing unlimited transfers between
+17 expense classes and between programs for all moneys appropriated to it for
+18 the period July 1, 2026, through June 30, 2027. Legislative appropriations
+19 shall not be transferred from one fund to another fund unless expressly ap-
+20 proved by the Legislature.
+21 SECTION 3. RETIREMENT CONTRIBUTIONS. Of the amount appropriated in
+22 Section 1 of this act from the General Fund for the state's share of retire-
+23 ment contribution remittances to the Judges' Retirement Fund for justices'
+24 and judges' retirement benefits pursuant to Section 1-2004(2), Idaho Code,
+25 those amounts that are uncommitted shall be transferred monthly into op-
+26 erating expenditures and then paid by the Judicial Branch into the Judges'
+27 Retirement Fund.
+28 SECTION 4. REAPPROPRIATION AUTHORITY. There is hereby reappropriated
+29 to the Judicial Branch any unexpended and unencumbered balances appropri-
+30 ated or reappropriated to the Judicial Branch from the American Rescue Plan
+31 Act (ARPA) State Fiscal Recovery Fund for fiscal year 2026, in an amount not
+32 to exceed $16,222,200 from the American Rescue Plan Act (ARPA) State Fiscal
+33 Recovery Fund, to be used for nonrecurring expenditures for the period July
+34 1, 2026, through June 30, 2027. The Office of the State Controller shall con-
+35 firm the reappropriation amount, by fund, expense class, and program, with
+36 the Legislative Services Office prior to processing the reappropriation au-
+37 thorized herein.
+
+4
+1 SECTION 5. CONDITIONS, LIMITATIONS, AND RESTRICTIONS. Appropriations
+2 made pursuant to this act are subject to the conditions, limitations, and re-
+3 strictions specified in this act.
+4 SECTION 6. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after
+6 July 1, 2026.

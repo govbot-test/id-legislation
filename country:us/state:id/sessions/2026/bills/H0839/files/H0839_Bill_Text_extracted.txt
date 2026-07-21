@@ -1,0 +1,188 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 839
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING SECTION 63-3612, IDAHO CODE, TO REVISE A DEF-
+3 INITION; AMENDING SECTION 63-3613, IDAHO CODE, TO REVISE A DEFINITION;
+4 PROVIDING APPLICABILITY; AND DECLARING AN EMERGENCY AND PROVIDING
+5 RETROACTIVE APPLICATION.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 63-3612, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 63-3612. SALE. (1) The term "sale" means any transfer of title, ex-
+10 change or barter, conditional or otherwise, of tangible personal property
+11 for a consideration and shall include any similar transfer of possession
+12 found by the state tax commission to be in lieu of, or equivalent to, a trans-
+13 fer of title, exchange or barter.
+14 (2) "Sale" shall also include the following transactions when a consid-
+15 eration is transferred, exchanged or bartered:
+16 (a) Producing, fabricating, processing, printing, or imprinting of
+17 tangible personal property for consumers who furnish, either directly
+18 or indirectly, the tangible personal property used in the producing,
+19 fabricating, processing, printing, or imprinting.
+20 (b) Furnishing, preparing, or serving food, meals, or drinks and nonde-
+21 preciable goods and services directly consumed by customers included in
+22 the charge thereof.
+23 (c) A transfer of possession of property where the seller retains the
+24 title as security for the payment of the sales price.
+25 (d) A transfer of the title or possession of tangible personal property
+26 which has been produced, fabricated, or printed to the special order of
+27 the customer, or of any publication.
+28 (e) Admission to a place or for an event in Idaho, provided that an or-
+29 ganization conducting an exempt function as defined in section 527 or
+30 exempted by section 501(c)(3) of the Internal Revenue Code, as incor-
+31 porated in section 63-3004, Idaho Code, and collecting any charges for
+32 attendance at the aforementioned event, shall not have those admission
+33 charges be defined as a sale if the event:
+34 (i) Is not predominately recreational or commercial; and
+35 (ii) Any included entertainment value is minimal when compared to
+36 the charge for attendance; and
+37 (iii) Such entity has paid sales and use tax on taxable property or
+38 services used during the event.
+39 (f) The use of or the privilege of using tangible personal property or
+40 facilities for recreation.
+
+2
+1 (g) Providing hotel, motel, campground, or trailer court accommo-
+2 dations, nondepreciable goods directly consumed by customers and
+3 included services, except:
+4 (i) where Where residence is maintained continuously under the
+5 terms of a lease or similar agreement for a period in excess of
+6 thirty (30) days.; or
+7 (ii) Accommodations for redemptions of loyalty or rewards program
+8 points where monetary consideration has not been paid for the ac-
+9 commodations by the program member; however, sales tax shall apply
+10 to monetary consideration paid by a loyalty program to an accom-
+11 modations owner or operator when loyalty or reward points are re-
+12 deemed for the providing of customer accommodations.
+13 (h) The lease or rental of tangible personal property.
+14 (i) The intrastate transportation for hire by air of freight or passen-
+15 gers, except (1) as part of a regularly scheduled flight by a certified
+16 air carrier, under authority of the United States, or (2) when providing
+17 air ambulance services.
+18 (3) As used in subsections (2)(b) and (2)(g) of this section, goods "di-
+19 rectly consumed by customers" shall not be interpreted to mean any linens,
+20 bedding, cloth napkins or similar nondisposable property.
+21 SECTION 2. That Section 63-3613, Idaho Code, be, and the same is hereby
+22 amended to read as follows:
+23 63-3613. SALES PRICE. (a) The term "sales price" means the total
+24 amount for which tangible personal property, including services agreed to be
+25 rendered as a part of the sale, is sold, rented or leased, valued in money,
+26 whether paid in money or otherwise, without any deduction on account of any
+27 of the following:
+28 1. The cost of the property sold. However, in accordance with such
+29 rules as the state tax commission may prescribe, a deduction may be
+30 taken if the retailer has purchased property for some purpose other than
+31 resale or rental, has reimbursed his vendor for tax which the vendor is
+32 required to pay to the state or has paid the use tax with respect to the
+33 property, and has resold or rented the property prior to making any use
+34 of the property other than retention, demonstration or display while
+35 holding it for sale in the regular course of business. If such a deduc-
+36 tion is taken by the retailer, no refund or credit will be allowed to his
+37 vendor with respect to the sale of the property.
+38 2. The cost of materials used, labor or service cost, losses, or any
+39 other expense.
+40 3. The cost of transportation of the property prior to its sale.
+41 4. The face value of manufacturer's discount coupons. A manufacturer's
+42 discount coupon is a price reduction coupon presented by a consumer to
+43 a retailer upon purchase of a manufacturer's product, the face value of
+44 which may only be reimbursed by the manufacturer to the retailer.
+45 (b) The term "sales price" does not include any of the following:
+46 1. Retailer discounts allowed and taken on sales, but only to the extent
+47 that such retailer discounts represent price adjustments as opposed to
+48 cash discounts offered only as an inducement for prompt payment.
+
+3
+1 2. Any sums allowed on merchandise accepted in payment of other mer-
+2 chandise, provided that this allowance shall not apply to the sale of a
+3 "new manufactured home," a "new park model recreational vehicle" or a
+4 "modular building" as defined herein.
+5 3. The amount charged for property returned by customers when the
+6 amount charged therefor is refunded either in cash or credit; but this
+7 exclusion shall not apply in any instance when the customer, in order
+8 to obtain the refund, is required to purchase other property at a price
+9 greater than the amount charged for the property that is returned.
+10 4. The amount charged for labor or services rendered in installing or
+11 applying the property sold, provided that said amount is stated sepa-
+12 rately and such separate statement is not used as a means of avoiding
+13 imposition of this tax upon the actual sales price of the tangible per-
+14 sonal property; except that charges by a manufactured homes dealer or
+15 park model recreational vehicle dealer for set up of a manufactured
+16 home or park model recreational vehicle shall be included in the "sales
+17 price" of such manufactured home or park model recreational vehicle.
+18 5. The amount of any tax (not including, however, any manufacturers' or
+19 importers' excise tax) imposed by the United States upon or with respect
+20 to retail sales whether imposed upon the retailer or the consumer.
+21 6. The amount charged for finance charges, carrying charges, service
+22 charges, time-price differential, or interest on deferred payment
+23 sales, provided such charges are not used as a means of avoiding impo-
+24 sition of this tax upon the actual sales price of the tangible personal
+25 property.
+26 7. Delivery and handling charges for transportation of tangible per-
+27 sonal property to the consumer, provided that the transportation is
+28 stated separately and the separate statement is not used as a means of
+29 avoiding imposition of the tax upon the actual sales price of the tan-
+30 gible personal property; except that charges by a manufactured homes
+31 dealer or park model recreational vehicle dealer for transportation
+32 of a manufactured home or park model recreational vehicle shall be in-
+33 cluded in the "sales price" of such manufactured home or park model
+34 recreational vehicle.
+35 8. Manufacturers' rebates when used at the time of a retail sale as a
+36 down payment on or reduction to the retail sales price of a motor vehi-
+37 cle the following products to which the rebate applies: motor vehicles
+38 as defined in section 63-3605L, Idaho Code; and all-terrain vehicles,
+39 utility type vehicles, specialty off-highway vehicles, motorbikes, and
+40 snowmobiles, as those terms are defined in section 67-7101, Idaho Code.
+41 A manufacturer's rebate is a cash payment made by a manufacturer to a re-
+42 tailer or to a consumer who has purchased or is purchasing the manufac-
+43 turer's product from the retailer.
+44 9. The amount of any fee imposed upon an outfitter as defined in section
+45 36-2102, Idaho Code, by a governmental entity pursuant to statute for
+46 the purpose of conducting outfitting activities on land or water sub-
+47 ject to the jurisdiction of the governmental entity, provided that the
+48 fee is stated separately and is presented as a use fee paid by the out-
+49 fitted public to be passed through to the governmental entity.
+
+4
+1 10. The amount of any discount or other price reduction on telecommuni-
+2 cations equipment when offered as an inducement to the consumer to com-
+3 mence or continue telecommunications service, or the amount of any com-
+4 mission or other indirect compensation received by a retailer or seller
+5 as a result of the consumer commencing or continuing telecommunications
+6 service.
+7 (c) The sales price of a "new manufactured home" or a "modular building"
+8 as defined in this chapter shall be limited to and include only fifty-five
+9 percent (55%) of the sales price as otherwise defined herein.
+10 (d) Taxes previously paid on amounts represented by accounts found to
+11 be worthless may be credited upon a subsequent payment of the tax provided in
+12 this chapter or, if no such tax is due, refunded. If such accounts are there-
+13 after collected, a tax shall be paid upon the amount so collected.
+14 (e) Tangible personal property when sold at retail for more than eleven
+15 cents (11¢) but less than one dollar and one cent ($1.01) through a vending
+16 machine shall be deemed to have sold at a sales price equal to one hundred
+17 seventeen percent (117%) of the price which is paid for such tangible per-
+18 sonal property and/or its component parts including packaging by the owner
+19 or operator of the vending machines.
+20 (f) Sales price shall not include a gratuity or tip received when paid
+21 to the service provider of a meal. The gratuity or tip can be either volun-
+22 tary or mandatory, but must be given for the service provided and as a supple-
+23 ment to the service provider's income.
+24 (g) The sales price of a "new park model recreational vehicle" shall in-
+25 clude one hundred percent (100%) of the sales price as otherwise defined in
+26 this section.
+27 SECTION 3. The provisions of this act shall apply to all appeals pend-
+28 ing on and after January 1, 2026, involving interpretation or application of
+29 sections 63-3612 and 63-3613, Idaho Code.
+30 SECTION 4. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after its
+32 passage and approval, and retroactively to January 1, 2026.

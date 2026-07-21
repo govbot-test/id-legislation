@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 872
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 34-906, IDAHO CODE, TO REMOVE A PRO-
+3 VISION REGARDING CERTAIN BALLOTS FOR GENERAL ELECTIONS; AND DECLARING
+4 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 34-906, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 34-906. BALLOTS FOR GENERAL ELECTIONS. (1) There shall be a single
+9 general election ballot on which the complete ticket of each political party
+10 shall be printed. Each political party ticket shall include that party's
+11 nominee for each particular office. The secretary of state shall design the
+12 general election ballot to allow for write-in candidates when needed.
+13 (2) The office titles shall be listed in order beginning with the high-
+14 est federal office. The secretary of state has the discretion and authority
+15 to arrange the above classifications of offices as provided by law.
+16 (3) At any general election at which the electors are to vote upon con-
+17 stitutional amendments or other issues, the secretary of state shall provide
+18 separate general election ballot forms on which such amendments and issues
+19 shall be printed.
+20 SECTION 2. An emergency existing therefor, which emergency is hereby
+21 declared to exist, this act shall be in full force and effect on and after
+22 July 1, 2026.

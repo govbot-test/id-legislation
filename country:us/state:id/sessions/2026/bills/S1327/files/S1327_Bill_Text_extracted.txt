@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1327
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO ELECTIONS; AMENDING SECTION 34-624, IDAHO CODE, TO PROVIDE
+3 THAT POLITICAL PARTIES MAY ADD ADDITIONAL QUALIFICATIONS FOR PRECINCT
+4 COMMITTEEMEN AND TO MAKE A TECHNICAL CORRECTION; AND DECLARING AN EMER-
+5 GENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 34-624, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 34-624. ELECTION OF PRECINCT COMMITTEEMEN -- QUALIFICATIONS. (1) At
+10 the primary election, 1980, and every two (2) years thereafter, a precinct
+11 committeeman for each political party shall be elected in every voting
+12 precinct within each county. The term of office of a precinct committeeman
+13 shall be from the eighth day following the primary election until the eighth
+14 day following the next succeeding primary election.
+15 (2) No person shall be elected to the office of precinct committeeman
+16 unless he has attained the age of eighteen (18) years of age at the time of his
+17 election, is a citizen of the United States, and is a registered elector of
+18 the voting precinct for a period of six (6) months next preceding his elec-
+19 tion.
+20 (3) Each candidate shall file a declaration of candidacy with the
+21 county clerk.
+22 (4) No filing fee shall be charged any candidate at the time of his fil-
+23 ing his declaration of candidacy.
+24 (5) A political party may add additional qualifications for such
+25 party's precinct committeemen that are not in conflict with the provisions
+26 of this section.
+27 SECTION 2. An emergency existing therefor, which emergency is hereby
+28 declared to exist, this act shall be in full force and effect on and after
+29 July 1, 2026.

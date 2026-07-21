@@ -1,0 +1,218 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1339
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; REPEALING SECTION 33-320, IDAHO CODE, RELATING TO
+3 CONTINUOUS IMPROVEMENT PLANS AND TRAINING; AMENDING CHAPTER 3, TITLE
+4 33, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 33-320, IDAHO CODE, TO
+5 PROVIDE FOR STRATEGIC PERFORMANCE PLANS AND TRAINING; AND DECLARING AN
+6 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 33-320, Idaho Code, be, and the same is hereby
+9 repealed.
+10 SECTION 2. That Chapter 3, Title 33, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 33-320, Idaho Code, and to read as follows:
+13 33-320. STRATEGIC PERFORMANCE PLANS AND TRAINING. (1) Each school
+14 district and public charter school in Idaho shall develop and submit to the
+15 state department of education a strategic performance plan that has a con-
+16 tinuous focus on innovating and improving:
+17 (a) Student academic proficiency;
+18 (b) Student academic growth;
+19 (c) College and career readiness at the high school level;
+20 (d) Outcomes of at-risk and economically disadvantaged students as de-
+21 fined in section 33-1001, Idaho Code; and
+22 (e) Local school board performance and stewardship of monitoring stu-
+23 dent performance, including compliance with all applicable laws, reg-
+24 ulations, and any terms of a public charter school's performance cer-
+25 tificate.
+26 (2) The local governing board and the school district superintendent
+27 or charter administrator shall collaborate to develop the strategic perfor-
+28 mance plan by coordinating outreach to students, parents, educators, local
+29 industry partners, and the business community, as appropriate.
+30 (3) The strategic performance plan shall:
+31 (a) Set clear and measurable goals for student outcomes and postsec-
+32 ondary achievements, including key indicators for monitoring perfor-
+33 mance, and consider student growth and proficiency goals established by
+34 the state board of education;
+35 (b) Include strategies based on evidence-based research to meet each
+36 goal;
+37 (c) Be data-driven and include student outcomes and growth data in lit-
+38 eracy, math, graduation rates, achievement of individual postsecondary
+39 goals, and any other metric required by the state board of education;
+40 (d) Include a clearly developed and articulated vision and mission;
+
+2
+1 (e) Outline a plan for the local governing board's continued learning
+2 regarding school board and leadership development in monitoring stu-
+3 dent performance;
+4 (f) Utilize a template developed by the state department of education
+5 or submit required data points in a manner consistent with the state
+6 template; and
+7 (g) At the local governing board's direction, include other areas of
+8 strategic performance that may be necessary to achieve other goals of
+9 the school district or public charter school.
+10 (4) A school district or public charter school may apply to use alterna-
+11 tive student success measures if it demonstrates that a combined twenty-five
+12 percent (25%) or greater of its students include special education students,
+13 homeless students, economically disadvantaged students, students enrolled
+14 in an alternative high school, or English language learners.
+15 (5) Beginning with the 2027-2028 school year, the local governing board
+16 shall adopt and submit its strategic performance plan to the state depart-
+17 ment of education no later than October 1 of each year. In each subsequent
+18 year, the strategic plan shall include an annual progress report on all
+19 established goals. The plan shall cover a period of no less than four (4)
+20 years, including the fiscal year in which the plan is submitted, and shall be
+21 updated annually each summer.
+22 (6) The state board of education shall adopt a matrix to be used by the
+23 state department of education to evaluate a school district's or public
+24 charter school's progress toward the student-outcome goals in its strategic
+25 performance plan. The matrix shall give determinative weight to locally ap-
+26 proved goals and alternative success measures. The matrix shall be adopted
+27 no later than September 1, 2026.
+28 (7) For the purposes of this section, "progress" means measurable im-
+29 provement toward goals identified in a school district's or public charter
+30 school's strategic performance plan. Demonstration of progress may include
+31 but is not limited to student success measures, baselines, benchmarks, and
+32 implementation evidence selected by the school district or public charter
+33 school. Evidence of progress may include but is not limited to:
+34 (a) Year-over-year improvement in student academic growth, profi-
+35 ciency, graduation rates, or postsecondary readiness, as applicable;
+36 (b) Measurable improvement among identified student subgroups, in-
+37 cluding at-risk students and economically disadvantaged students;
+38 (c) Implementation of evidence-based strategies identified in the
+39 strategic performance plan, including documented changes to curricu-
+40 lum, instruction, assessment, professional development, or resource
+41 allocation; and
+42 (d) Demonstrated improvement toward interim benchmarks or milestones
+43 established in the strategic performance plan, provided that long-term
+44 outcome targets may not have been fully achieved yet.
+45 (8)(a) The local governing board shall, at least quarterly, review,
+46 discuss, and approve progress reports on two (2) or more key areas of the
+47 strategic performance plan at a regular or special board meeting.
+48 (b) The state department of education shall evaluate the progress re-
+49 ports to:
+
+3
+1 (i) Identify high-performing school districts and public char-
+2 ter schools and determine best practices to incorporate into
+3 statewide professional development training; and
+4 (ii) Identify school districts and public charter schools that
+5 are not demonstrating improved student performance.
+6 (9) During an annual evaluation of progress reports, the state de-
+7 partment of education shall recognize the top ten percent (10%) of school
+8 districts and public charter schools that meet or exceed the goals of the
+9 respective strategic performance plans as "schools or districts of educa-
+10 tional excellence."
+11 (10) Flexibility may be granted within the accountability framework for
+12 school districts and public charter schools that demonstrate sustained high
+13 levels of academic achievement. For such districts or charters, account-
+14 ability determinations may include but are not limited to multi-year perfor-
+15 mance trends and overall performance relative to established goals, recog-
+16 nizing that annual growth may not be statistically significant when achieve-
+17 ment levels are consistently high.
+18 (11) If during its annual evaluation of progress reports the state
+19 department of education finds that a school district or public charter
+20 school has not demonstrated progress in achieving a majority of the goals
+21 identified in its strategic performance plan, the superintendent of public
+22 instruction shall:
+23 (a) Support the local governing board and school district superinten-
+24 dent or charter administrator in reassessing and adjusting, if neces-
+25 sary, the plan's strategies while focusing on improved student perfor-
+26 mance;
+27 (b) Support the local governing board and school district superinten-
+28 dent or charter administrator in reviewing school district or public
+29 charter school performance, including in the areas of local budget,
+30 curricula, and professional development, to identify areas hindering
+31 student performance;
+32 (c) Offer recommendations to the local governing board and school dis-
+33 trict superintendent or charter administrator intended to improve the
+34 areas hindering student performance; and
+35 (d) Provide a list of high-performing school districts and public char-
+36 ter schools of similar size and student demographics to offer opportu-
+37 nities for mentorship in areas of evidence-based practices, peer sup-
+38 ports, or locally implemented strategies from high-performing school
+39 districts or public charter schools that may assist in the development
+40 of revised goals or strategies for improvement.
+41 (12) If the state department of education finds that the school district
+42 or public charter school has not demonstrated progress in achieving a major-
+43 ity of the goals identified in its strategic performance plan after two (2)
+44 consecutive annual evaluations of progress reports, the superintendent of
+45 public instruction shall:
+46 (a) Support the local governing board and school district superinten-
+47 dent or charter administrator as required in subsection (11)(a) of this
+48 section;
+49 (b) Direct the state department of education to approve ISAT reme-
+50 diation funds, professional development and literacy budgets, pro-
+
+4
+1 fessional development plans, and curricular materials that are in
+2 alignment with the school district's or public charter school's student
+3 performance goals; and
+4 (c) Assist the local governing board and school district superinten-
+5 dent or charter administrator with formal training in areas directly
+6 related to the deficiencies in meeting strategic performance plan
+7 goals.
+8 (13) If the state department of education finds that a school district
+9 or public charter school has not demonstrated progress in achieving a major-
+10 ity of the goals identified in its strategic performance plan after three (3)
+11 consecutive annual reviews of progress reports, the superintendent of pub-
+12 lic instruction shall:
+13 (a) Support the local governing board and school district superinten-
+14 dent or charter administrator as required in subsection (11)(a) and (b)
+15 of this section; and
+16 (b) Direct the state department of education to conduct a comprehensive
+17 review of school district and public charter school operations, includ-
+18 ing a review of instructional calendars. The state department of educa-
+19 tion shall have final approval of instructional calendars for the next
+20 school year.
+21 (14) Regarding a public charter school's performance, the superinten-
+22 dent of public instruction shall consult with the charter school's autho-
+23 rizer in addition to the local governing board.
+24 (15) Upon request, the superintendent of public instruction shall
+25 present an annual report to the house of representatives and senate edu-
+26 cation committees regarding school districts and public charter schools
+27 with high performance based on the respective strategic performance plans
+28 adopted pursuant to this section.
+29 (16) The strategic performance plan provided for in this section shall
+30 be made available to the public and posted on the school district or public
+31 charter school website.
+32 (17) Of the moneys appropriated in the public school educational sup-
+33 port program, up to six thousand six hundred dollars ($6,600) shall be dis-
+34 tributed to each school district and public charter school to be expended for
+35 school board and leadership development training. Funds utilized for ad-
+36 ministrator mentorships shall be capped at twenty-five percent (25%) of such
+37 distribution. Funds shall be distributed on a reimbursement basis based on a
+38 process prescribed by the superintendent of public instruction. To qualify
+39 for reimbursement, training shall cover strategic performance planning, fi-
+40 nance, ethics, governance, superintendent evaluations, and public charter
+41 administrator evaluations.
+42 (18) A public charter school may use its performance certificate crite-
+43 ria and framework toward fulfilling the requirements provided in subsection
+44 (1) of this section.
+45 (19) The state department of education is authorized to withhold a por-
+46 tion of funds for any school district or public charter school that does not
+47 submit its strategic performance plan by the date required in this section.
+48 The amount of withheld funds shall be proportional to the administrative
+49 burden and state resources expended due to the noncompliance. The withheld
+
+5
+1 funds shall be returned to the school district or public charter school upon
+2 the submission of the outstanding strategic performance plan.
+3 (20) Any reporting requirements for school districts and public char-
+4 ter schools as of July 1, 2026, that are not federally mandated, necessary
+5 for public school finance purposes, or related to the professional standards
+6 commission shall be eliminated.
+7 SECTION 3. An emergency existing therefor, which emergency is hereby
+8 declared to exist, this act shall be in full force and effect on and after
+9 July 1, 2026.

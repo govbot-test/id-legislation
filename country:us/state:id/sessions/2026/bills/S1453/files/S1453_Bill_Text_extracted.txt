@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1453
+BY FINANCE COMMITTEE
+1 AN ACT
+2 RELATING TO RURAL HEALTH TRANSFORMATION; AMENDING TITLE 56, IDAHO CODE, BY
+3 THE ADDITION OF A NEW CHAPTER 25, TITLE 56, IDAHO CODE, TO ESTABLISH
+4 THE IDAHO RURAL HEALTH TRANSFORMATION FUND AND TO ESTABLISH THE RURAL
+5 HEALTH TRANSFORMATION COMMITTEE; APPROPRIATING ADDITIONAL MONEYS TO
+6 THE DEPARTMENT OF HEALTH AND WELFARE FOR THE INDIRECT SUPPORT SERVICES
+7 DIVISION FOR FISCAL YEAR 2026; INCREASING THE NUMBER OF AUTHORIZED
+8 FULL-TIME EQUIVALENT POSITIONS FOR FISCAL YEAR 2026; APPROPRIATING AD-
+9 DITIONAL MONEYS TO THE DEPARTMENT OF HEALTH AND WELFARE FOR THE INDIRECT
+10 SUPPORT SERVICES DIVISION FOR FISCAL YEAR 2027; INCREASING THE NUMBER
+11 OF AUTHORIZED FULL-TIME EQUIVALENT POSITIONS FOR FISCAL YEAR 2027;
+12 PROVIDING FOR A REPORT ON SCOPE OF PRACTICE REFORMS FOR PHYSICIAN ASSIS-
+13 TANTS AND DENTAL HYGIENISTS; AND DECLARING AN EMERGENCY AND PROVIDING
+14 EFFECTIVE DATES.
+15 Be It Enacted by the Legislature of the State of Idaho:
+16 SECTION 1. That Title 56, Idaho Code, be, and the same is hereby amended
+17 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+18 ter 25, Title 56, Idaho Code, and to read as follows:
+19 CHAPTER 25
+20 IDAHO RURAL HEALTH TRANSFORMATION PROGRAM
+21 56-2501. IDAHO RURAL HEALTH TRANSFORMATION FUND.(1) There is hereby
+22 created and established in the state treasury the Idaho rural health trans-
+23 formation fund. The fund shall consist of moneys received by the state of
+24 Idaho from the federal rural health transformation program grant. Moneys in
+25 the fund shall be used solely for federally approved rural health transfor-
+26 mation program purposes, subject to appropriation by the legislature upon
+27 recommendation from the rural health transformation committee as estab-
+28 lished in section 56-2502, Idaho Code.
+29 (2) The Idaho rural health transformation fund shall be subject to an-
+30 nual public reporting of all receipts and expenditures.
+31 56-2502. RURAL HEALTH TRANSFORMATION COMMITTEE.(1) There is hereby
+32 created the rural health transformation committee, hereafter referred to
+33 as the committee. The committee shall consist of nine (9) members to be
+34 appointed as follows: four (4) members of the senate shall be appointed by
+35 the president pro tempore of the senate, one (1) of whom shall be cochair of
+36 the committee; four (4) members of the house of representatives shall be ap-
+37 pointed by the speaker of the house of representatives, one (1) of whom shall
+38 be cochair of the committee; and one (1) nonvoting member shall be selected
+39 by the governor. The term of a legislative member of the committee shall
+40 coincide with the term of election to the legislature. A vacancy during the
+
+2
+1 term of a member of the committee shall be filled by the appointing authority
+2 of that member, and members may be reappointed to a subsequent term.
+3 (2) The committee shall have the following powers and duties:
+4 (a) To establish rules for governance and operation of committee pro-
+5 ceedings;
+6 (b) To establish any additional requirements for funding subawards,
+7 which shall include application scoring rubrics, for the first award
+8 year and by September 30 for the four (4) remaining award years;
+9 (c) To establish an expedited award review process with the department
+10 of health and welfare for funding subawards. The award review process
+11 shall align with federally approved timelines as outlined in Idaho's
+12 rural health transformation plan;
+13 (d) To receive no less than quarterly updates on progress toward funded
+14 projects, expenditures, and outcomes from the department of health and
+15 welfare;
+16 (e) To evaluate the potential and actual success of programs funded
+17 with moneys from the Idaho rural health transformation fund;
+18 (f) To retain oversight of moneys in the Idaho rural health transforma-
+19 tion fund;
+20 (g) To require a sustainability plan for any initiative funded by Idaho
+21 rural health transformation moneys; and
+22 (h) To make any recommendations to the legislature on the use of funds,
+23 as long as recommendations are within the parameters of the federally
+24 approved Idaho plan.
+25 (3) The committee shall remain active until all moneys in the Idaho ru-
+26 ral transformation fund have been appropriated and expended.
+27 (4) The committee shall have access to all data regarding rural health
+28 transformation program awards received or created by the department of
+29 health and welfare, including but not limited to scoring data, rubrics, and
+30 reporting information. Such data shall be readily accessible through a se-
+31 cure portal, website, shared drive, or other method providing instantaneous
+32 or real-time access.
+33 SECTION 2. In addition to the appropriation in Section 1, Chapter 209,
+34 Laws of 2025, there is hereby appropriated to the Department of Health and
+35 Welfare for the Division of Indirect Support Services from the Idaho Rural
+36 Health Transformation Fund, the following amounts to be expended for the
+37 designated expense classes, for the period July 1, 2025, through June 30,
+38 2026:
+39 FOR:
+40 Personnel Costs $264,300
+41 Operating Expenditures 3,444,500
+42 Capital Outlay 28,800
+43 TOTAL $3,737,600
+44 SECTION 3. FTP AUTHORIZATION. In addition to any other authorization
+45 provided by law, the full-time equivalent position authorization provided
+46 to the Department of Health and Welfare for the Division of Indirect Support
+
+3
+1 Services is increased by twelve (12.00) for the period July 1, 2025, through
+2 June 30, 2026.
+3 SECTION 4. In addition to any other appropriation provided by law,
+4 there is hereby appropriated to the Department of Health and Welfare for the
+5 Division of Indirect Support Services from the Idaho Rural Health Transfor-
+6 mation Fund, the following amounts to be expended for the designated expense
+7 classes, for the period July 1, 2026, through June 30, 2027:
+8 FOR:
+9 Personnel Costs $1,328,700
+10 Operating Expenditures 294,076,500
+11 TOTAL $295,405,200
+12 SECTION 5. FTP AUTHORIZATION. In addition to any other authorization
+13 provided by law, the full-time equivalent position authorization provided
+14 to the Department of Health and Welfare for the Division of Indirect Support
+15 Services is increased by twelve (12.00) for the period July 1, 2026, through
+16 June 30, 2027.
+17 SECTION 6. RURAL HEALTH TRANSFORMATION PROGRAM -- SCOPE OF PRACTICE
+18 COMMITMENTS. It is the intent of the Legislature that the State of Idaho con-
+19 tinue to pursue the scope of practice reforms for physician assistants and
+20 dental hygienists that were identified in the Rural Health Transformation
+21 Program proposal submitted to the Centers for Medicare and Medicaid Services
+22 and that contributed to the state's program scoring and award determination.
+23 The Department of Health and Welfare shall report to the Joint Finance-Ap-
+24 propriations Committee and the germane policy committees on the status of
+25 efforts to advance those reforms, including legislative or administrative
+26 actions taken during the prior year and any additional steps necessary to
+27 fulfill those commitments.
+28 SECTION 7. An emergency existing therefor, which emergency is hereby
+29 declared to exist, Sections 1 through 3 of this act shall be in full force and
+30 effect on and after passage and approval, and Sections 4 through 6 of this act
+31 shall be in full force and effect on and after July 1, 2026.

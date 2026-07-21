@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 917
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO AI REGULATORY REVIEW; AMENDING TITLE 67, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW CHAPTER 34, TITLE 67, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 FOR THE AI REGULATORY REVIEW ACT; AND DECLARING AN EMERGENCY.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Title 67, Idaho Code, be, and the same is hereby amended
+7 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+8 ter 34, Title 67, Idaho Code, and to read as follows:
+9 CHAPTER 34
+10 AI REGULATORY REVIEW ACT
+11 67-3401. SHORT TITLE. This chapter shall be known and may be cited as
+12 the "AI Regulatory Review Act."
+13 67-3402. LEGISLATIVE FINDINGS AND INTENT. (1) The legislature finds
+14 that:
+15 (a) Outdated and unnecessarily burdensome regulations impose substan-
+16 tial costs to the state and on individuals and businesses;
+17 (b) Artificial intelligence can systematically analyze regulatory
+18 frameworks at scales impractical by manual human review; and
+19 (c) Regular systematic review ensures regulations remain relevant, ef-
+20 fective, and minimally burdensome.
+21 (2) Therefore, it is the intent of the legislature to establish AI-em-
+22 powered regulatory review so as to reduce unnecessary regulatory burdens
+23 while maintaining public protections.
+24 67-3403. DEFINITIONS. As used in this chapter:
+25 (1) "Agency" means any department, board, commission, or other entity
+26 of the state authorized by the legislature to adopt rules or regulations.
+27 (2) "Artificial intelligence" or "AI" or "AI system" means advanced ar-
+28 tificial intelligence systems capable of autonomous analysis and recommen-
+29 dation generation regarding regulatory requirements.
+30 (3) "Guidance document" means any agency statement that lacks the force
+31 and effect of law but provides direction regarding regulatory compliance or
+32 interpretation.
+33 (4) "Plain language" means clear, concise, well-organized writing that
+34 is appropriate to the subject matter and intended audience.
+35 (5) "Regulation" means any rule, standard, or other mandate adopted by
+36 an agency that has the force and effect of law.
+37 (6) "Qualified agency personnel" means a person employed by an agency
+38 that has subject matter expertise or legal or regulatory analysis expertise.
+
+2
+1 67-3404. AI REVIEW REQUIRED. All agencies shall cause their regula-
+2 tions and guidance documents to be reviewed by an AI system when conducting
+3 their periodic review pursuant to section 67-5292, Idaho Code. The AI system
+4 shall:
+5 (1) Analyze:
+6 (a) The mandates provided for by the regulation or guidance document
+7 and determine:
+8 (i) Whether such mandates are required by state or federal law
+9 or regulation or another binding authority or are discretionary,
+10 including relevant binding and persuasive state and federal case
+11 law;
+12 (ii) Whether such mandates conflict with or are duplicative of
+13 other regulatory or statutory provisions of the state;
+14 (iii) How such mandates compare to those of neighboring states and
+15 federal laws and regulations; and
+16 (iv) Whether such mandates can be simplified and written in plain
+17 language while achieving the same mandated objective.
+18 (b) The language of the regulation and guidance document to determine
+19 whether the text uses plain language;
+20 (c) The cost of complying with the regulation or guidance document, in-
+21 cluding:
+22 (i) Agency and public training hours required to ensure compli-
+23 ance;
+24 (ii) Time associated with filing and processing various forms and
+25 paperwork required to be done by the agency or public;
+26 (iii) Fees and direct costs associated with compliance for the
+27 agency and public; and
+28 (iv) Other resources required for compliance with the regulation
+29 or guidance document; and
+30 (d) The economic impact of its proposed modifications to the agency's
+31 regulation or guidance document; and
+32 (2) Provide:
+33 (a) Recommendations for proposed modifications based on its analysis;
+34 (b) A cost-benefit analysis of the proposed modifications; and
+35 (c) An estimate of the potential savings from accepting a proposed mod-
+36 ification.
+37 67-3405. HUMAN REVIEW REQUIRED. (1) All AI-generated analyses and
+38 recommendations shall be reviewed and approved by qualified agency person-
+39 nel. No agency regulation or guidance document shall be amended or repealed
+40 based solely on AI analysis without human review and approval conducted by
+41 qualified agency personnel.
+42 (2) Within thirty (30) days of the AI completing its review, the quali-
+43 fied agency personnel shall:
+44 (a) Verify the factual accuracy of the AI analyses;
+45 (b) Assess appropriateness of the AI-proposed modification recommen-
+46 dations;
+47 (c) Ensure AI-proposed modifications maintain and align with applica-
+48 ble statutory authority and legislative intent;
+
+3
+1 (d) Approve or reject each of the AI-proposed modification recommenda-
+2 tions;
+3 (e) Eliminate mandates duplicative of or contradictory to state or fed-
+4 eral law or regulation;
+5 (f) Correct plain language deficiencies;
+6 (g) Streamline and reduce any unnecessary regulatory burden on the
+7 agency or public;
+8 (h) Ensure references and citations remain current and remove or revise
+9 such provisions; and
+10 (i) Initiate rulemaking pursuant to the provisions of this chapter and
+11 chapter 52, title 67, Idaho Code.
+12 (3) If, after conducting the review, the qualified agency personnel de-
+13 termines that certain provisions identified by the AI as potentially unnec-
+14 essary should, nevertheless, be retained, the agency shall document:
+15 (a) The rationale for such determination;
+16 (b) The benefit provided by such provision; and
+17 (c) Why less burdensome alternatives or use of plain language is insuf-
+18 ficient.
+19 67-3406. RULEMAKING AND REPORTING REQUIRED. (1) Rulemaking, pursuant
+20 to the Idaho administrative procedures act, chapter 52, title 67, Idaho
+21 Code, shall be promptly initiated by an agency to incorporate changes based
+22 on review conducted pursuant to the provisions of this chapter. Agencies
+23 shall use such act's expedited rulemaking procedures for non-substantive
+24 corrections and burden-reducing changes whenever possible.
+25 (2) Each agency shall annually publish a report containing:
+26 (a) The number of regulations and guidance documents reviewed;
+27 (b) The AI-generated review for each regulation and guidance document,
+28 including its analysis and recommendations;
+29 (c) The review process conducted by the qualified agency personnel;
+30 (d) The number of AI-generated recommendations that were accepted by
+31 the agency and appear as proposed changes to the rule;
+32 (e) The estimated quantified burden reductions achieved; and
+33 (f) The estimated cost savings to the agency and the public, including
+34 regulated persons.
+35 (3) Such report shall:
+36 (a) Be publicly available and published on the respective agency's web-
+37 site; and
+38 (b) Be delivered and presented to the appropriate legislative commit-
+39 tee for review and approval pursuant to section 29, article III of the
+40 constitution of the state of Idaho and chapter 52, title 67, Idaho Code.
+41 (4) An agency may combine the report required by this section with the
+42 legislative report required by section 67-5292, Idaho Code.
+43 67-3407. IMMEDIATE AGENCY ACTION REQUIRED. Within six (6) months of
+44 the effective date of this chapter, each agency shall:
+45 (1) Acquire or develop AI systems capable of performing the analyses
+46 required by this chapter;
+47 (2) Complete an AI-assisted comprehensive review of all regulations
+48 and guidance documents under its authority;
+
+4
+1 (3) Complete its human review required by this chapter; and
+2 (4) Initiate rulemaking procedures pursuant to this chapter and chap-
+3 ter 52, title 67, Idaho Code.
+4 SECTION 2. An emergency existing therefor, which emergency is hereby
+5 declared to exist, this act shall be in full force and effect on and after its
+6 passage and approval.

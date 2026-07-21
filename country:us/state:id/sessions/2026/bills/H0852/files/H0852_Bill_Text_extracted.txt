@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 852
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO HOSPITALS; PROVIDING LEGISLATIVE FINDINGS AND INTENT; AMEND-
+3 ING CHAPTER 13, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+4 39-1360, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING CONTINUING
+5 ACCOUNTABILITY FOR DISTRICT-CONVERTED HOSPITALS; AND DECLARING AN
+6 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. (1) The Legislature finds
+9 that:
+10 (a) Idaho law authorizes the conveyance of public hospital district as-
+11 sets to nonprofit corporations under specific statutory conditions in-
+12 tended to preserve community accountability, transparency, and public
+13 benefit;
+14 (b) Subsequent experience has revealed that the elimination of pub-
+15 lic governance structures may significantly reduce public oversight,
+16 transparency, and local control over essential health care institu-
+17 tions; and
+18 (c) Public trust in health care governance is a compelling state in-
+19 terest and that additional safeguards are necessary to ensure that non-
+20 profit hospitals receiving public assets continue to operate consis-
+21 tently with the public purposes for which those assets were conveyed.
+22 (2)(a) It is the intent of the Legislature that this act be remedial and
+23 prospective in nature and to clarify, enforce, and preserve the condi-
+24 tions under which public hospital assets may continue to be held by non-
+25 profit entities.
+26 (b) It is not the intent of the Legislature to invalidate or retroac-
+27 tively void any prior lawful conveyance, but rather to establish rea-
+28 sonable conditions on the continued holding and control of public hos-
+29 pital assets in order to protect patients, taxpayers, and local commu-
+30 nities.
+31 SECTION 2. That Chapter 13, Title 39, Idaho Code, be, and the same is
+32 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+33 ignated as Section 39-1360, Idaho Code, and to read as follows:
+34 39-1360. CONTINUING ACCOUNTABILITY FOR DISTRICT-CONVERTED HOSPI-
+35 TALS. (1) Any nonprofit hospital corporation that has received hospital
+36 facilities or assets from a hospital district pursuant to section 39-1359,
+37 Idaho Code, shall remain subject to the requirements of this section
+38 notwithstanding the dissolution of the hospital district.
+39 (2) A nonprofit hospital as described in subsection (1) of this section
+40 shall annually publish and make publicly available:
+
+2
+1 (a) A description of its membership structure, including eligibility
+2 criteria and selection process;
+3 (b) The method by which members nominate and select members of the gov-
+4 erning board;
+5 (c) A list of governing board members, terms of service, and any mate-
+6 rial conflicts of interest; and
+7 (d) A summary of any material transactions, affiliations, or negoti-
+8 ations that may result in a transfer of control, merger, or consolida-
+9 tion.
+10 (3) A failure to comply with the provisions of this section shall con-
+11 stitute a violation of the conditions under which the hospital assets were
+12 conveyed pursuant to section 39-1359, Idaho Code, and shall be enforceable
+13 by the attorney general through an action for declaratory or injunctive re-
+14 lief in district court.
+15 SECTION 3. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

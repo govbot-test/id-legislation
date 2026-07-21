@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 632
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO GOVERNMENT TRANSPARENCY AND ETHICS; AMENDING SECTION 6-2105,
+3 IDAHO CODE, TO REVISE A PROVISION REGARDING REMEDIES FOR EMPLOYEE AC-
+4 TIONS AND PROOF REQUIRED; AMENDING CHAPTER 21, TITLE 6, IDAHO CODE, BY
+5 THE ADDITION OF A NEW SECTION 6-2110, IDAHO CODE, TO ESTABLISH PROVI-
+6 SIONS REGARDING PUBLIC EMPLOYEE COMMUNICATIONS WITH THE LEGISLATURE
+7 AND TO PROVIDE PROTECTIONS FOR SUCH COMMUNICATIONS; AMENDING CHAPTER
+8 1, TITLE 74, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 74-127, IDAHO
+9 CODE, TO PROVIDE FOR LEGISLATIVE PUBLIC RECORDS REQUESTS AND AGENCY
+10 DUTY TO RESPOND; AMENDING SECTION 74-127, IDAHO CODE, TO REDESIGNATE
+11 THE SECTION; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+12 DATE.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. That Section 6-2105, Idaho Code, be, and the same is hereby
+15 amended to read as follows:
+16 6-2105. REMEDIES FOR EMPLOYEE BRINGING ACTION -- PROOF REQUIRED. (1)
+17 As used in this section, "damages" means damages for injury or loss caused
+18 by each violation of this chapter, and includes court costs and reasonable
+19 attorneys' fees.
+20 (2) An employee who alleges a violation of this chapter may bring a
+21 civil action for appropriate injunctive relief or actual damages, or both,
+22 within one hundred eighty (180) days after the occurrence of the alleged
+23 violation of this chapter.
+24 (3) An action begun under pursuant to this section may be brought in
+25 the district court for the county where the alleged violation occurred, the
+26 county where the complainant resides, or the county where the person against
+27 whom the civil complaint is filed resides or has his principal place of busi-
+28 ness.
+29 (4) To prevail in an action brought under the authority of this section,
+30 the employee shall establish, by a preponderance of the evidence, that the
+31 employee has suffered an adverse action because the employee, or a person
+32 acting on his behalf, engaged or intended to engage in an activity protected
+33 under section 6-2104 or 6-2110, Idaho Code.
+34 (5)(a) In no action brought pursuant to this chapter shall a judgment
+35 for noneconomic damages be entered for a claimant exceeding the limita-
+36 tion on damages contained in section 6-1603(1), Idaho Code.
+37 (b) The limitation contained in this subsection shall apply to the sum
+38 of noneconomic damages sustained by a claimant.
+39 (c) Governmental entities and their employees shall not be liable for
+40 punitive damages on any claim allowed under the provisions of this sec-
+41 tion.
+
+2
+1 SECTION 2. That Chapter 21, Title 6, Idaho Code, be, and the same is
+2 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+3 ignated as Section 6-2110, Idaho Code, and to read as follows:
+4 6-2110. PUBLIC EMPLOYEE COMMUNICATIONS WITH THE LEGISLATURE -- PRO-
+5 TECTIONS. (1) An employee may communicate in good faith with any member of
+6 the Idaho legislature, any member of a legislative committee, or legisla-
+7 tive staff regarding information, data, analysis, or professional exper-
+8 tise, whether or not such communication constitutes a report of any type of
+9 abuse or any type of waste or violation of law pursuant to section 6-2104,
+10 Idaho Code. For purposes of this subsection, an employee communicates in
+11 good faith if there is a reasonable basis in fact for the communication. Good
+12 faith is lacking where the employee knew or reasonably ought to have known
+13 that a communication is malicious, false, or frivolous.
+14 (2) An employer shall not take or threaten adverse action against an em-
+15 ployee because the employee:
+16 (a) Communicated in good faith with any member of the Idaho legis-
+17 lature, any member of a legislative committee, or legislative staff
+18 regarding information, data, analysis, or professional expertise,
+19 whether or not such communication constitutes a report of any type
+20 of abuse or any type of waste or violation of law pursuant to section
+21 6-2104, Idaho Code;
+22 (b) Provided information or assistance in response to a legislative re-
+23 quest made pursuant to section 74-127, Idaho Code; or
+24 (c) Participated in a legislative hearing, briefing, inquiry, or pro-
+25 ceeding regarding information, data, analysis, or professional exper-
+26 tise, whether or not such communication constitutes a report of any type
+27 of abuse or any type of waste or violation of law pursuant to section
+28 6-2104, Idaho Code.
+29 (3) No employer may adopt, enforce, or maintain any policy, rule, di-
+30 rective, practice, or agreement, written or unwritten, that:
+31 (a) Prohibits or restricts employee communication with any member of
+32 the Idaho legislature, any member of a legislative committee, or leg-
+33 islative staff regarding information, data, analysis, or professional
+34 expertise, whether or not such communication constitutes a report of
+35 any type of abuse or any type of waste or violation of law pursuant to
+36 section 6-2104, Idaho Code;
+37 (b) Requires prior approval, notification, or authorization before
+38 such communication; or
+39 (c) Subjects an employee to discipline or retaliation for such communi-
+40 cation.
+41 (4) Protection under this section applies only to communications made
+42 in good faith and does not authorize knowingly false statements or unlawful
+43 disclosure of confidential information.
+44 SECTION 3. That Chapter 1, Title 74, Idaho Code, be, and the same is
+45 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+46 ignated as Section 74-127, Idaho Code, and to read as follows:
+47 74-127. LEGISLATIVE PUBLIC RECORDS REQUESTS -- AGENCY DUTY TO RE-
+48 SPOND. (1) Every agency shall respond in good faith and as provided in this
+
+3
+1 section to a public records request from a member of the Idaho legislature,
+2 a legislative committee or subcommittee, or legislative services office
+3 staff acting on behalf of the legislature. For the purposes of this section,
+4 "agency" means any department, board, commission, office, or institution in
+5 the executive branch of the Idaho state government.
+6 (2) Unless a different deadline is specified by law or agreed to by the
+7 requesting legislator or committee, the agency shall acknowledge receipt of
+8 the request within three (3) working days and shall provide a substantive re-
+9 sponse within ten (10) working days of receipt.
+10 (3) If the agency cannot reasonably provide a substantive response
+11 within ten (10) working days, it shall within that period provide written no-
+12 tice explaining the reason for delay and provide a date certain for response
+13 not to exceed an additional ten (10) working days, absent extraordinary cir-
+14 cumstances.
+15 (4) A substantive response may include records, data, explanations,
+16 analysis, or other information responsive to the request, including identi-
+17 fication of information not maintained by the agency.
+18 (5) Nothing in this section requires disclosure of information made
+19 confidential by state or federal law or otherwise exempt from disclosure
+20 pursuant to this chapter. The agency shall identify the legal basis for
+21 nondisclosure and provide any reasonably segregable nonconfidential infor-
+22 mation.
+23 SECTION 4. That Section 74-127, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 74-127 74-128. SEVERABILITY. The provisions of this act are hereby de-
+26 clared to be severable and if any provision of this act or the application of
+27 such provision to any person or circumstance is declared invalid for any rea-
+28 son, such declaration shall not affect the validity of remaining portions of
+29 this act.
+30 SECTION 5. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after
+32 July 1, 2026.

@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 769
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLE FINANCIAL RESPONSIBILITY; AMENDING CHAPTER 12,
+3 TITLE 49, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 49-1211, IDAHO
+4 CODE, TO PROVIDE FOR APPRAISALS AND TO ESTABLISH A DISPUTE RESOLUTION
+5 PROCESS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 12, Title 49, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 49-1211, Idaho Code, and to read as follows:
+10 49-1211. APPRAISALS -- COMPETENT AND DISINTERESTED APPRAISERS AND UM-
+11 PIRES. (1) Every automobile insurer licensed to write automobile insurance
+12 policies in this state shall ensure that each policy issued, executed, re-
+13 newed, or delivered to a consumer contains a provision allowing for an ap-
+14 praisal by a competent and disinterested appraiser if the policyholder and
+15 insurer disagree on:
+16 (a) The actual cash value or amount of a loss, including the repairable
+17 amount and total loss amount, of an automobile reported on a claim; or
+18 (b) The offer of settlement to a third-party liability claim.
+19 (2)(a) If a policyholder and an insurer disagree as to the actual cash
+20 value or amount of a loss reported on a claim or disagree on the offer of
+21 settlement to a third party, either the policyholder or insurer may sub-
+22 mit a written demand letter to the other invoking the policy's appraisal
+23 provision to select a competent and disinterested appraiser. The writ-
+24 ten demand shall notify the other party of the appraiser selected. The
+25 party receiving the written demand shall have twenty (20) calendar days
+26 to notify the other of the appraiser selected. The parties shall be re-
+27 sponsible for the cost of their own appraisal.
+28 (b) An appraiser who is selected pursuant to this subsection shall,
+29 within twenty (20) business days after such selection, appraise the
+30 loss, stating separately the actual cash value and amount of loss, or
+31 the offer of settlement, and shall deliver a copy of the appraisal to the
+32 other party.
+33 (3) If, following the procedures provided for in subsection (2) of this
+34 section, a policyholder's appraiser and an insurer's appraiser fail to agree
+35 on the actual cash value and amount of loss, or on an appropriate offer of
+36 settlement, then either party may, within twenty (20) calendar days after
+37 receipt of the other party's appraisal, initiate a dispute resolution pur-
+38 suant to subsection (4) of this section with a competent and disinterested
+39 umpire.
+40 (4) If a dispute resolution is initiated, a competent and disinterested
+41 umpire shall be mutually selected by the appraisers. Each party shall submit
+42 documentation to the umpire memorializing the differences, including the
+
+2
+1 actual cash value and amount of loss as calculated by each appraiser. Within
+2 twenty (20) business days after receiving the documentation submitted by
+3 the parties, the umpire shall issue an award to one (1) of the appraisers
+4 selected by the parties, which shall be filed with the insurer and shall be
+5 considered the actual cash value or amount of loss.
+6 (5) An insurer's failure to comply with the procedures of this section
+7 shall be a violation of chapter 13, title 41, Idaho Code.
+8 (6) The department of insurance is authorized to promulgate rules, sub-
+9 ject to legislative approval, for the implementation and administration of
+10 this section.
+11 SECTION 2. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after
+13 July 1, 2026.

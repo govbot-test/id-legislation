@@ -1,0 +1,876 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 714
+BY ENVIRONMENT, ENERGY AND TECHNOLOGY COMMITTEE
+1 AN ACT
+2 RELATING TO HAZARDOUS WASTE; REPEALING CHAPTER 58, TITLE 39, IDAHO CODE,
+3 RELATING TO HAZARDOUS WASTE FACILITY SITING; AMENDING SECTION 39-4402,
+4 IDAHO CODE, TO PROVIDE LEGISLATIVE INTENT AND TO MAKE TECHNICAL COR-
+5 RECTIONS; AMENDING SECTION 39-4403, IDAHO CODE, TO REVISE DEFINITIONS
+6 AND TO DEFINE TERMS; AMENDING SECTION 39-4406, IDAHO CODE, TO REVISE
+7 PROVISIONS REGARDING THE POWERS AND DUTIES OF THE DIRECTOR OF THE DE-
+8 PARTMENT OF ENVIRONMENTAL QUALITY; AMENDING SECTION 39-4408, IDAHO
+9 CODE, TO REVISE PROVISIONS REGARDING THE UNAUTHORIZED TREATMENT, STOR-
+10 AGE, RELEASE, USE, OR DISPOSAL OF HAZARDOUS WASTE; AMENDING SECTION
+11 39-4409, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE PERMIT RE-
+12 QUIRED FOR HAZARDOUS WASTE TREATMENT, STORAGE, OR DISPOSAL FACILITIES;
+13 AMENDING SECTION 39-4411, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+14 RECORDS, REPORTING, AND MONITORING; AMENDING SECTION 39-4412, IDAHO
+15 CODE, TO REVISE PROVISIONS REGARDING INSPECTIONS AND RIGHT OF ENTRY;
+16 AMENDING CHAPTER 44, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW
+17 SECTION 39-4433, IDAHO CODE, TO REQUIRE SITING LICENSES AND TO PROVIDE
+18 EXEMPTIONS; AMENDING CHAPTER 44, TITLE 39, IDAHO CODE, BY THE ADDITION
+19 OF A NEW SECTION 39-4434, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING
+20 THE SITING LICENSE APPLICATION AND FEE; AMENDING CHAPTER 44, TITLE 39,
+21 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-4435, IDAHO CODE, TO ES-
+22 TABLISH MINIMUM SITING CRITERIA FOR HAZARDOUS WASTE FACILITIES; AMEND-
+23 ING CHAPTER 44, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION
+24 39-4436, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING THE DUTIES OF
+25 THE DIRECTOR OF THE DEPARTMENT OF ENVIRONMENTAL QUALITY UPON RECEIPT OF
+26 AN APPLICATION; AMENDING CHAPTER 44, TITLE 39, IDAHO CODE, BY THE ADDI-
+27 TION OF A NEW SECTION 39-4437, IDAHO CODE, TO PROVIDE FOR THE ESTABLISH-
+28 MENT AND ORGANIZATION OF SITE REVIEW PANELS; AMENDING CHAPTER 44, TITLE
+29 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-4438, IDAHO CODE,
+30 TO ESTABLISH PROVISIONS REGARDING THE DUTIES OF A SITE REVIEW PANEL;
+31 AMENDING CHAPTER 44, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+32 TION 39-4439, IDAHO CODE, TO PROHIBIT LOCAL RESTRICTIONS ON HAZARDOUS
+33 WASTE FACILITIES; AMENDING CHAPTER 44, TITLE 39, IDAHO CODE, BY THE
+34 ADDITION OF A NEW SECTION 39-4440, IDAHO CODE, TO ESTABLISH PROVISIONS
+35 REGARDING THE CERTIFICATION OF A CITY, COUNTY, OR HEALTH DISTRICT;
+36 AMENDING CHAPTER 44, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SEC-
+37 TION 39-4441, IDAHO CODE, TO ESTABLISH PROVISIONS REGARDING THE REMEDY
+38 FOR DEVALUATION OF PROPERTY CAUSED BY AN APPROVED FACILITY; AMENDING
+39 SECTION 39-7402A, IDAHO CODE, TO REVISE A PROVISION REGARDING EXCLUDED
+40 FACILITIES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+41 Be It Enacted by the Legislature of the State of Idaho:
+42 SECTION 1. That Chapter 58, Title 39, Idaho Code, be, and the same is
+43 hereby repealed.
+
+2
+1 SECTION 2. That Section 39-4402, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 39-4402. LEGISLATIVE FINDINGS AND, PURPOSES, AND INTENT. (1) The leg-
+4 islature of the State of Idaho finds:
+5 (a) That continuing technological progress, increases in manufactur-
+6 ing, and the abatement of air and water pollution have resulted in ever-
+7 increasing quantities of hazardous waste;
+8 (b) That the public health and safety, and the environment, are threat-
+9 ened when hazardous wastes are not managed in an environmentally sound
+10 manner;
+11 (c) That the knowledge and technology necessary for alleviating ad-
+12 verse health, environmental, and aesthetic impacts resulting from
+13 current hazardous waste management and disposal practices are gener-
+14 ally available; and,
+15 (d) That the problem of proper management of hazardous waste has become
+16 a matter of great statewide concern.
+17 (2) Therefore, it is hereby declared that the purposes of this act
+18 chapter are:
+19 (a) To protect the public health and safety, the health of living organ-
+20 isms, and the environment from the effects of the improper, inadequate,
+21 or unsound management of hazardous waste;
+22 (b) To establish a program to track and control hazardous wastes from
+23 the time they are generated through transportation, treatment, stor-
+24 age, and disposal; and,
+25 (c) To assure the safe and adequate management of hazardous wastes
+26 within this state.
+27 (3) It is the intent of the legislature that the site licensing process
+28 provided for by this chapter not duplicate processes otherwise provided for
+29 by state or federal law. The site licensing procedure provided by sections
+30 39-4433 through 39-4441, Idaho Code, is intended to be a preliminary, gen-
+31 eral review that does not include the type of specific, detailed technical
+32 information required for the hazardous waste management act permit process
+33 provided for by section 39-4409, Idaho Code.
+34 SECTION 3. That Section 39-4403, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 39-4403. DEFINITIONS. As used in this chapter:
+37 (1) "Board" means the Idaho board of environmental quality.
+38 (2) "Commercial hazardous waste facility or site" means any haz-
+39 ardous waste facility whose primary business is the treatment, storage, or
+40 disposal, for a fee or other consideration, of hazardous waste generated
+41 offsite by generators other than the owner and operator of the facility.
+42 (3) "Department" means the Idaho department of environmental quality.
+43 (4) "Designated facility" means a hazardous waste treatment, storage,
+44 or disposal facility that has received a permit, has interim status under, or
+45 is otherwise permitted pursuant to 42 U.S.C. 6901 et seq.
+46 (4) (5) "Director" means the director of the Idaho department of envi-
+47 ronmental quality or the director's authorized agent.
+
+3
+1 (5) (6) "Disposal" means the discharge, deposit, injection, dumping,
+2 spilling, leaking, or placing of any hazardous waste into or on any land or
+3 water so that such hazardous waste or any constituent thereof may enter the
+4 environment or be emitted into the air or discharged into any waters, includ-
+5 ing ground waters.
+6 (7) "Disposal facility" means a facility or a part thereof where the
+7 disposal of hazardous waste will remain after closure of the facility.
+8 (6) (8) "Gate ton" means the weight, in tons (2,000 pounds/ton), of
+9 waste material received at a facility. This weight does not include any
+10 subsequent changes to the weight resulting from the management of the waste
+11 by the facility.
+12 (7) (9) "Generator" means any person, who, by virtue of ownership, man-
+13 agement, or control, is responsible for causing or allowing to be caused the
+14 creation of a hazardous waste.
+15 (8) (10) "Hazardous waste" means a waste or combination of wastes of a
+16 solid, liquid, semisolid, or contained gaseous form which, because of its
+17 quantity, concentration or characteristics (physical, chemical or biologi-
+18 cal) may:
+19 (a) Cause or significantly contribute to an increase in deaths or an
+20 increase in serious, irreversible or incapacitating reversible ill-
+21 nesses; or
+22 (b) Pose a substantial threat to human health or to the environment
+23 if improperly treated, stored, disposed of, or managed. Such wastes
+24 include, but are not limited to, materials which are toxic, corrosive,
+25 ignitible ignitable, or reactive, or materials which may have muta-
+26 genic, teratogenic, or carcinogenic properties but do not include solid
+27 or dissolved material in domestic sewage, or solid or dissolved materi-
+28 als in irrigation return flows or industrial discharges which are point
+29 sources subject to national pollution discharge elimination system
+30 permits under the federal water pollution control act, as amended, 33
+31 U.S.C., section 1251 et seq., or source, special nuclear, or byproduct
+32 material as defined by the atomic energy act of 1954, as amended, 42
+33 U.S.C., section 2011 et seq.
+34 (9) (11) "Hazardous waste management" means the systematic control of
+35 the collection, source separation, storage, treatment, transportation,
+36 processing, and disposal of hazardous wastes.
+37 (10) (12) "Hazardous waste facility or site" means any property, struc-
+38 ture, or ancillary equipment intended or used for the transportation, treat-
+39 ment, storage, or disposal of hazardous wastes.
+40 (11) (13) "Injection" means the subsurface emplacement of free liquids.
+41 (14) "Major modification" means any material and substantial alter-
+42 ation, expansion, or addition to the facility or an activity conducted at a
+43 facility after a siting license has been issued that warrants an application
+44 to be submitted to the department to determine whether the license's condi-
+45 tions need to be amended. The term may be further defined by rule, subject to
+46 legislative approval.
+47 (12) (15) "Manifest" means a form used for identifying the quantity,
+48 composition, origin, routing, waste identification code(s), and des-
+49 tination of hazardous waste during any transportation from the point of
+50 generation to the point of treatment, storage, or disposal.
+
+4
+1 (13) (16) "Manifested waste" means waste which at the point of origin or
+2 generation is required to be manifested for transportation in a manner simi-
+3 lar to that of the federal uniform hazardous waste manifest or by other man-
+4 ifest requirements designed to assure proper treatment, storage, and dis-
+5 posal of such waste.
+6 (17) "On-site" means on the same or geographically contiguous property
+7 that may be divided by a public or private right-of-way if the entrance and
+8 exit between the pieces of property are at a crossroads intersection and ac-
+9 cess is by crossing rather than going along the right-of-way. Noncontiguous
+10 pieces of property owned by the same person but connected by a right-of-way
+11 that the owner controls and to which the public does not have access shall be
+12 considered on-site property.
+13 (18) "Operator" means the person responsible for the overall operation
+14 of a hazardous waste facility authorized to operate pursuant to this chap-
+15 ter.
+16 (19) "Panel" means a site review panel established pursuant to section
+17 39-4437, Idaho Code.
+18 (14) (20) "PCB waste" means any waste or waste item which is not included
+19 in the definition of "hazardous waste" and which is contaminated with poly-
+20 chlorinated biphenyls.
+21 (15) (21) "Person" means any individual, association, partnership,
+22 firm, joint stock company, trust, estate, political subdivision, public or
+23 private corporation, state or federal governmental department, agency, or
+24 instrumentality, or any other legal entity which is recognized by law as the
+25 subject of rights and duties.
+26 (16) (22) "RCRA" means the resource conservation and recovery act of
+27 1976 as amended from time to time.
+28 (17) (23) "Restricted hazardous waste" means a waste or combination of
+29 wastes regulated as land disposal restricted pursuant to federal statutes
+30 and regulations, including 40 CFR part 268. Restricted hazardous waste also
+31 includes byproduct, source, special nuclear materials or devices or equip-
+32 ment, except as provided below, utilizing such materials regulated under the
+33 federal atomic energy act of 1954, as amended. Restricted hazardous waste
+34 shall not include radiologically contaminated waste materials from "For-
+35 merly Utilized Sites Remedial Action Program (FUSRAP)" sites administered
+36 by the United States army corps of engineers or materials that have been ex-
+37 empted or released from radiological control or regulation under the atomic
+38 energy act of 1954, as amended, to be disposed of in a commercial hazardous
+39 waste facility as regulated pursuant to the rules, permit requirements, and
+40 acceptance criteria provided for by this chapter.
+41 (18) (24) "Storage" means the containment of hazardous wastes, on a tem-
+42 porary basis or for a period of years, in such a manner as not to constitute
+43 disposal of such hazardous wastes holding of hazardous waste for a temporary
+44 period, at the end of which the hazardous waste is treated, disposed of, or
+45 stored elsewhere.
+46 (25) "Storage facility" means a facility or a part thereof where haz-
+47 ardous waste is subject to storage.
+48 (19) (26) "Transportation" means the movement of any hazardous waste to
+49 or from a hazardous waste facility or site from a hazardous waste facility or
+50 site by air, rail, highway, or water.
+
+5
+1 (20) (27) "Transporter" means any person who transports a hazardous
+2 waste to or from a hazardous waste facility or site engaged in the off-site
+3 transportation of hazardous waste.
+4 (21) (28) "Treatment" means any method, technique, or process, includ-
+5 ing neutralization, which is designed not to be an integral part of a produc-
+6 tion process, but which is rather designed to change the physical, chemical,
+7 or biological character or composition of any hazardous waste prior to stor-
+8 age or final disposal so as to:
+9 (a) neutralize Neutralize such waste or so as to render;
+10 (b) Render such waste:
+11 (i) nonhazardous Nonhazardous or less hazardous;
+12 (ii) safer Safer to transport, store, or dispose of; or
+13 (iii) amenable for recovery, amenable for storage or reduced in
+14 volume. Such term includes any activity or processing designed
+15 to change the physical form or chemical composition of hazardous
+16 waste so as to render it nonhazardous. Amenable for recovery or
+17 storage;
+18 (c) Reduce such waste in volume; or
+19 (d) Recover energy or material resources from such waste.
+20 (22) (29) "Waste" means any solid, semisolid, liquid, or contained
+21 gaseous material for which no reasonable use or reuse is intended or which is
+22 intended to be discarded.
+23 SECTION 4. That Section 39-4406, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 39-4406. GENERAL POWERS AND DUTIES OF DIRECTOR. The director:
+26 (1) Shall take all actions not inconsistent with this chapter as are
+27 necessary and feasible to enable the department to assume and continue pri-
+28 macy over hazardous waste management, pursuant to RCRA;
+29 (2) May conduct and publish studies of hazardous waste management in
+30 this state; and
+31 (3) Shall develop, publish, and revise as necessary a plan for the safe
+32 and effective management of hazardous wastes within this state. Such a plan
+33 may identify those locations in the state which are not suitable for the es-
+34 tablishment of hazardous waste treatment or disposal facilities or sites;
+35 (4) (3) Shall exercise all powers and discharge all duties expressed in
+36 or implied from the other sections of this chapter.
+37 SECTION 5. That Section 39-4408, Idaho Code, be, and the same is hereby
+38 amended to read as follows:
+39 39-4408. UNAUTHORIZED TREATMENT, STORAGE, RELEASE, USE OR DISPOSAL
+40 OF HAZARDOUS WASTE PROHIBITED. (1) No person shall treat or store hazardous
+41 waste, nor shall any person discharge, incinerate, release, spill, place,
+42 or dispose any hazardous waste in such a manner that the waste, or any con-
+43 stituent thereof, may enter the environment, unless the department has
+44 issued said person a permit or a variance as required for the specific activ-
+45 ity involved or exempted the activity from permit requirements.
+46 (2) Effective six (6) months after the effective date of this provi-
+47 sion, nonhazardous Nonhazardous liquids shall not be disposed of in a land-
+
+6
+1 fill for which a permit is required under section 39-4409, Idaho Code, or
+2 which is operating pursuant to interim status granted under section 3005(c)
+3 of RCRA, unless the owner or operator of the landfill demonstrates to the di-
+4 rector that:
+5 (a) The only reasonable alternative is placement in a landfill or
+6 unlined surface impoundment which contains or may contain hazardous
+7 waste; and
+8 (b) Placement in the owner or operator's landfill will not present a
+9 risk of contamination of any existing or potential underground source
+10 of drinking water.
+11 (3) Waste or used oil or other material which is contaminated or mixed
+12 with any hazardous waste, other than wastes identified solely on the basis of
+13 ignitibility, shall not be used for dust suppression or road treatment.
+14 (4) The board shall have authority to prohibit:
+15 (a) Land disposal of any hazardous waste; and
+16 (b) Storage of any hazardous waste prohibited from land disposal, un-
+17 less such storage is solely for the purpose of the accumulation of such
+18 quantities of hazardous waste as are necessary to facilitate proper re-
+19 covery, treatment or disposal.
+20 SECTION 6. That Section 39-4409, Idaho Code, be, and the same is hereby
+21 amended to read as follows:
+22 39-4409. PERMIT REQUIREMENTS FOR HAZARDOUS WASTE TREATMENT, STORAGE,
+23 OR DISPOSAL FACILITIES. (1) No person shall construct, operate, or modify a
+24 hazardous waste treatment, storage, or disposal facility or site without a
+25 permit from the department. The owner or operator of the facility or site
+26 rather than the builder shall be responsible for obtaining the permit. Per-
+27 mits may contain such conditions necessary to protect human health and en-
+28 vironment. The board may exempt classes or categories of hazardous waste
+29 treatment, storage, or disposal facilities from the permit requirement if
+30 the exemption is in the public interest and consistent with RCRA require-
+31 ments. The fact that a class or category of such facilities is not required
+32 to obtain a federal permit shall be persuasive evidence that an exemption is
+33 in the public interest.
+34 (2) Interim status granted by RCRA or a permit issued by the United
+35 States environmental protection agency prior to the date that the state pro-
+36 gram is authorized by the administrator of that agency shall be adopted by
+37 the department as a state granted interim status or as a state granted permit
+38 until the department issues a new state permit. The board may adopt such
+39 rules and regulations as necessary to:
+40 (a) Allow other facilities to qualify for interim status;
+41 (b) Require existing interim status surface impoundments, new units,
+42 replacement of existing units and lateral expansions of existing in-
+43 terim status facilities to comply with all regulations which apply to
+44 new facilities; and
+45 (c) Provide for the termination of interim status.
+46 (3) The board shall promulgate rules and regulations establishing the
+47 terms and conditions for issuing permits to the described facilities and
+48 sites. The rules and regulations shall provide for, but not be limited to:
+
+7
+1 (a) Standards and procedures for the safe operation and maintenance of
+2 the facilities and sites;
+3 (b) Education and training qualifications of personnel at the facili-
+4 ties and sites;
+5 (c) Contractual commitment or consent to each facility or site from all
+6 holders of interests in the real property committed to that facility or
+7 site;
+8 (d) Monetary assurances in such form and amount as are necessary for ef-
+9 fective management, maintenance, and monitoring of the facilities and
+10 sites during and after operation;
+11 (e) Evidence of financial responsibility for corrective action on-site
+12 and off-site;
+13 (f) Liability insurance in such form and amount as is necessary to com-
+14 pensate for potential damages caused by the facilities and sites; pro-
+15 vided, that liability insurance shall not be required in the event that
+16 liability insurance is not required by the federal regulations adopted
+17 pursuant to the RCRA;
+18 (g) Emergency equipment and emergency response plans appropriate to
+19 the facilities and sites;
+20 (h) Public participation in the permitting process consistent with 42
+21 U.S.C. section 6974(b).
+22 (4) Permits shall be issued for a period not to exceed ten (10) years or
+23 the maximum period allowed under RCRA, whichever is greater. However, per-
+24 mits may be reviewed at least every five (5) years and modified as necessary
+25 to take into account changes in this chapter or regulations promulgated pur-
+26 suant to it thereto and improvements in technology. Permits issued to haz-
+27 ardous waste facilities and sites by the department prior to the effective
+28 date of this chapter shall be reissued to conform with the provisions of this
+29 chapter and the rules and regulations promulgated under this chapter.
+30 (5) Any permit issued after the effective date of this provision
+31 pursuant to this chapter shall require corrective action to be taken on-site
+32 and off-site for all releases of hazardous waste or constituents, from any
+33 solid waste management unit at the treatment, storage, or disposal facility
+34 seeking the permit, regardless of the time when the waste was placed in such
+35 unit. Permits issued from November 8, 1985, until the effective date of this
+36 provision shall be reissued to conform with this provision.
+37 (6) Any permit issued under pursuant to this section may be revoked by
+38 the director pursuant to the provisions of section 39-4413, Idaho Code, if
+39 the permitted party fails to comply with the terms and conditions of the per-
+40 mit, this chapter, or the rules and regulations promulgated under this chap-
+41 ter pursuant thereto.
+42 (7) The department may issue a variance from the requirements of the
+43 rules and regulations promulgated under this section, if, in the judgment
+44 of the director, application of the requirements would cause unreasonable
+45 hardship and the granting of a variance would not be harmful to the public in-
+46 terest or inconsistent with RCRA requirements. A variance shall not exceed
+47 one (1) year three (3) years in duration and may be renewed or extended only
+48 after the department provides public notice and an opportunity for public
+49 comment.
+
+8
+1 (8)(a) The director of the department may issue a research, develop-
+2 ment, and demonstration permit for any hazardous waste treatment tech-
+3 nology or process for which permit standards for such experimental ac-
+4 tivity have not been promulgated. Any such permit shall include such
+5 terms and conditions as will assure ensure protection of human health
+6 and the environment. Such permits shall:
+7 1. Provide for the construction of such facilities, as necessary,
+8 and for operation of the facility for not longer than one (1) year
+9 (unless renewed as provided below); and
+10 2. Provide for the receipt and treatment by the facility of only
+11 those types and quantities of hazardous waste which the director
+12 deems necessary for purposes of determining the efficiency and
+13 performance capabilities of the technology or process and the
+14 effects of such technology or process on human health and the en-
+15 vironment; and
+16 3. Include such requirements as the director deems necessary to
+17 protect human health and the environment (including, but not lim-
+18 ited to, requirements regarding monitoring, operation, insurance
+19 or bonding, financial responsibility, closure, and remedial ac-
+20 tion); and
+21 4. Include such requirements as the director deems necessary re-
+22 garding testing and providing of information to the director with
+23 respect to the operation of the facility.
+24 (b) The director may apply the criteria set forth in paragraph (a) of
+25 this subsection in establishing the conditions of each permit without
+26 separate establishment of regulations implementing such criteria.
+27 (c) For the purpose of expediting review and issuance of permits un-
+28 der this subsection, the director may, consistent with the protection
+29 of human health and the environment, modify or waive permit application
+30 and permit issuance requirements established in the general permit reg-
+31 ulations except that there may be no modification or waiver of regula-
+32 tions regarding financial responsibility (including insurance) or of
+33 applicable public participation procedures.
+34 (d) The director may renew a research, development and demonstration
+35 permit which has been issued pursuant to this subsection. The renewal
+36 term shall be no longer than one (1) year. A permit shall not be renewed
+37 more than three (3) times.
+38 SECTION 7. That Section 39-4411, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 39-4411. RECORDS -- REPORTING -- MONITORING. (1) Pursuant to the pro-
+41 visions of section 39-4405, Idaho Code, the board shall adopt, and amend as
+42 necessary, such rules relating to records, reporting, and monitoring as may
+43 be needed to achieve the purposes of this chapter. These rules may include,
+44 but shall not be limited to, prescribing procedures and requirements for:
+45 (a) The establishment, maintenance, and format of records and reports;
+46 (b) The submittal of records and reports;
+47 (c) The taking of samples and the performing of tests and of analyses;
+48 (d) The use of approved monitoring methods and techniques;
+
+9
+1 (e) The installation, calibration, use, and maintenance of monitoring
+2 equipment; and
+3 (f) The provision of relevant information to the department.
+4 (2) Sixty (60) days after promulgation of the criteria and lists spec-
+5 ified under section 39-4407, Idaho Code, and the rules required under sec-
+6 tion 39-4405, Idaho Code, and subsection (1) of this section, the genera-
+7 tion, transportation, treatment, storage, or disposal of a hazardous waste
+8 in this state by any person without reporting such activity to the department
+9 as required by the rules issued pursuant to subsection (1) of this section
+10 shall be unlawful.
+11 (3) Information obtained by the department or by agents, contractors,
+12 or other representatives of the department, under any provisions of this
+13 chapter, shall be subject to disclosure according to chapter 1, title 74,
+14 Idaho Code.
+15 (4) Effective January 1, 1996, each Each generator shall, at the dis-
+16 cretion of the director, no later than thirty (30) days after the end January
+17 31 of each calendar year, submit a written annual report to the department
+18 including the following information:
+19 (a) The types and quantities of hazardous wastes generated;
+20 (b) The types and quantities of such wastes shipped for treatment and
+21 disposal by landfilling or other means of disposal;
+22 (c) The types and quantities of such wastes remaining in storage at the
+23 end of the reporting period;
+24 (d) Whether such wastes are destined for disposal or treatment in this
+25 state or whether such wastes are destined for disposal or treatment out-
+26 side this state.
+27 (5) Effective January 1, 1996, the The operator of each commercial
+28 hazardous waste disposal facility or site in the state shall, no later than
+29 thirty (30) days after the end January 31 of each calendar year, submit a
+30 written annual report to the department providing information on the types
+31 and quantities of wastes received which were generated in Idaho, and infor-
+32 mation on the types and quantities of wastes received which were generated
+33 in other states.
+34 (6) Prior to March 1 of each year the department shall submit a report to
+35 the governor and the legislature detailing:
+36 (a) the The types and quantities of hazardous wastes generated in this
+37 state, the;
+38 (b) The types and quantities of such wastes shipped for treatment and
+39 disposal by landfilling or other means of disposal, the;
+40 (c) The types and quantities of such wastes remaining in storage at the
+41 end of the most recent reporting period; and
+42 (d) the The types and quantities of hazardous waste generated outside
+43 this state and shipped into this state for storage or disposal.
+44 SECTION 8. That Section 39-4412, Idaho Code, be, and the same is hereby
+45 amended to read as follows:
+46 39-4412. INSPECTIONS -- RIGHT OF ENTRY. (1) All inspections and
+47 searches conducted under the authority of this chapter shall be performed in
+48 conformity with the prohibitions against unreasonable searches and seizures
+49 contained in the fourth amendment to the constitution of the United States
+
+10
+1 and article I, section 17, of the constitution of the state of Idaho. The
+2 state shall not, under the authority granted by this chapter, conduct war-
+3 rantless administrative searches of private property in the absence of
+4 either consent from the property owner or occupier or exigent circumstances
+5 such as a public health or environmental emergency.
+6 (2) For the purposes of developing or enforcing any provision of this
+7 chapter or any rule or regulation authorized by this chapter, any duly autho-
+8 rized state employee or representative may, upon presentation of appropri-
+9 ate credentials state identification, at any reasonable time:
+10 (a) Enter upon any private or public property where hazardous wastes
+11 are or have been generated, transported, treated, stored, or disposed
+12 of to inspect and to secure samples of such wastes, their containers,
+13 and their labels;
+14 (b) Enter into any aircraft, vehicle, vessel, rail car, trailer, van,
+15 or other means of conveyance where hazardous wastes are or have been
+16 contained to inspect and to secure samples of such wastes, their con-
+17 tainers, and their labels;
+18 (c) Enter any private or public property, or means of conveyance, where
+19 records, reports, information, or test results relating to the gener-
+20 ation, transportation, treatment, storage, or disposal of hazardous
+21 wastes exist to inspect and copy such documents.
+22 (3) Upon request by an authorized agent of a property owner or facil-
+23 ity operator, the department shall provide the property owner or facility
+24 operator with a receipt for samples taken and a copy of sample analysis. Du-
+25 plicate samples shall similarly be provided upon request if the requesting
+26 party agrees to have the samples analyzed and to share the results of the
+27 analysis with the department.
+28 (4) The right of entry of a duly authorized state employee or represen-
+29 tative shall not be subject to the waiver of any potential tort liability of
+30 the facility owner or operator. The right of entry of a duly authorized state
+31 or health district employee shall not be subject to any confidentiality re-
+32 quirements other than those specified in section 39-4411(3), Idaho Code, and
+33 chapter 1, title 74, Idaho Code. The right of entry of a private contrac-
+34 tor working in a representative capacity for the department may, however,
+35 be made subject to additional confidentiality requirements so long as those
+36 requirements do not interfere unreasonably with the development of informa-
+37 tion by the department or the transmission of information from the contrac-
+38 tor to the department or the United States environmental protection agency.
+39 (5) Any magistrate or district court judge is authorized to issue an ad-
+40 ministrative search warrant upon a request from the director describing rea-
+41 sonable cause for issuance of the warrant or the existence of a reasonable
+42 program of inspection.
+43 SECTION 9. That Chapter 44, Title 39, Idaho Code, be, and the same is
+44 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+45 ignated as Section 39-4433, Idaho Code, and to read as follows:
+46 39-4433. SITING LICENSE REQUIRED -- EXEMPTIONS. (1) No person shall
+47 commence construction of or undertake any major modification of a commercial
+48 hazardous waste facility or any on-site land disposal facility for wastes
+49 listed in section 201(d)(2) and (e), as modified by section 209 of the haz-
+
+11
+1 ardous and solid waste amendments of 1984, without a siting license issued by
+2 the director.
+3 (2) A permit shall not be issued pursuant to section 39-4409, Idaho
+4 Code, unless the applicant has been issued a site license by the director.
+5 (3) The owner or operator of the facility or site, rather than a con-
+6 tractor or other third-party agent thereof, shall be responsible for obtain-
+7 ing the siting license.
+8 (4) Facilities exempted from permitting pursuant to the provisions of
+9 section 39-4409, Idaho Code, shall not require a license under the provi-
+10 sions of this chapter.
+11 (5) The director may exempt a facility from the requirement to obtain a
+12 siting license if the director determines that the exemption is in the public
+13 interest and is consistent with state and federal law.
+14 (6) A hazardous waste facility that was in existence on July 1, 1985,
+15 shall not be subject to the provisions of this chapter unless a major modifi-
+16 cation is being proposed to such facility.
+17 SECTION 10. That Chapter 44, Title 39, Idaho Code, be, and the same is
+18 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+19 ignated as Section 39-4434, Idaho Code, and to read as follows:
+20 39-4434. SITING LICENSE APPLICATION AND FEE. (1) An application for a
+21 siting license shall include:
+22 (a) The name and address of the applicant;
+23 (b) The location or proposed location of the hazardous waste facility;
+24 (c) Engineering or hydrogeologic information demonstrating compliance
+25 with the technical criteria required by section 39-4435, Idaho Code, if
+26 applicable;
+27 (d) A description of the types of activities and wastes that are pro-
+28 posed to be handled at the facility;
+29 (e) Information showing that harm to scenic, historic, cultural, or
+30 recreational values is not substantial or that it can be mitigated;
+31 (f) Information showing that the risk and impact of accident during
+32 transport of hazardous waste is not substantial or that it can be miti-
+33 gated;
+34 (g) Information showing that the impact on local government is not ad-
+35 verse regarding health, safety, cost, and consistency with local plan-
+36 ning and existing development or that it can be mitigated; and
+37 (h) The fee required by this section.
+38 (2) The director shall establish a sliding fee scale for determining
+39 the requisite siting license application fee.
+40 (a) The scale shall be based on the cost to the department for reviewing
+41 the siting license application and various site-specific characteris-
+42 tics, including the site size, projected waste volume, and hydrogeo-
+43 logic characteristics surrounding the site.
+44 (b) The fee shall not exceed seven thousand five hundred dollars
+45 ($7,500).
+46 (c) Fees received pursuant to this section may be expended by the direc-
+47 tor to pay the actual, reasonable, and necessary costs incurred by the
+48 department in acting on a siting license application.
+
+12
+1 (3) The director may promulgate rules, subject to legislative approval
+2 and in compliance with chapter 52, title 67, Idaho Code, to implement and ad-
+3 minister the provisions of this section.
+4 SECTION 11. That Chapter 44, Title 39, Idaho Code, be, and the same is
+5 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+6 ignated as Section 39-4435, Idaho Code, and to read as follows:
+7 39-4435. MINIMUM SITING CRITERIA FOR HAZARDOUS WASTE FACILITIES. (1)
+8 A new hazardous waste facility shall not be sited:
+9 (a) Where:
+10 (i) The seasonal high depth of ground water, beneath the proposed
+11 site, is less than one hundred (100) feet below the lowest point of
+12 disposal. Perched saturated zones may be exempt from exclusionary
+13 criteria if it can be demonstrated that the saturated zone has no
+14 economic or consumptive usable purpose;
+15 (ii) The thickness of fine-grained unconsolidated sediments
+16 above the water table is less than twenty-five (25) feet; or
+17 (iii) The depth to fractured rock is less than one hundred (100)
+18 feet below the lowest point of disposal; or
+19 (b) Within:
+20 (i) Two thousand five hundred (2,500) feet of surface water bod-
+21 ies;
+22 (ii) One thousand (1,000) feet of existing public, private, or ir-
+23 rigation water supply wells, unless it can be demonstrated that
+24 natural hydrogeologic barriers isolate the site location from the
+25 aquifer;
+26 (iii) A five hundred (500) year floodplain;
+27 (iv) Areas that are in close proximity to active fault zones or
+28 other tectonically active or unstable areas; or
+29 (v) Areas overlying any subsurface mining.
+30 (2) A new hazardous waste disposal or incineration facility shall not
+31 be sited within:
+32 (a) Five thousand (5,000) feet of any off-site residential structure
+33 that is routinely occupied at least eight (8) hours per day;
+34 (b) Three (3) miles of schools, airports, hospitals, or churches; or
+35 (c) Three (3) miles from a population center greater than one hundred
+36 fifty (150) people.
+37 (3) Incineration facilities may not be located in a class I area desig-
+38 nated in accordance with section 162 or 164 of the federal clean air act.
+39 (4) An area of at least five hundred (500) feet surrounding the active
+40 disposal location portion of the site shall be provided as an inactive buffer
+41 zone.
+42 SECTION 12. That Chapter 44, Title 39, Idaho Code, be, and the same is
+43 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+44 ignated as Section 39-4436, Idaho Code, and to read as follows:
+45 39-4436. DUTIES OF DIRECTOR UPON RECEIPT OF SITING LICENSE APPLICA-
+46 TION. (1) Within forty-five (45) days of receiving an application, the di-
+47 rector shall determine whether the application is complete and complies with
+
+13
+1 the technical criteria required by section 39-4435, Idaho Code, if applica-
+2 ble. If the application is not complete, the director shall notify the ap-
+3 plicant in writing and identify the deficiencies.
+4 (2) Once the director determines an application is complete, the direc-
+5 tor shall:
+6 (a) Notify the applicant of such determination;
+7 (b) Establish a site review panel pursuant to section 39-4437, Idaho
+8 Code;
+9 (c) Notify the city and county in which the hazardous waste facility is
+10 or is proposed to be located, the state fire marshal, the director of the
+11 department of fish and game, the director of the Idaho state police, the
+12 relevant divisions within the department, and other appropriate state
+13 and federal agencies. The notice shall describe the review process and
+14 expected schedule based on the complexity of the application; and
+15 (d) Publish a notice that an application has been received by the de-
+16 partment in a newspaper of general circulation in the county and immedi-
+17 ate vicinity of the hazardous waste facility or proposed facility. The
+18 notice shall include:
+19 (i) A map indicating the location or proposed location of the haz-
+20 ardous waste facility;
+21 (ii) A description of the proposed action;
+22 (iii) A brief description of the review, participation, and ap-
+23 proval process by which the application may be approved and a sit-
+24 ing license may be granted; and
+25 (iv) The location where the complete application package may be
+26 reviewed.
+27 (3) Upon official establishment of the panel, as provided for by sec-
+28 tion 39-4437, Idaho Code, the director shall:
+29 (a) Submit such information as the panel may require to conduct its re-
+30 view and provide its recommendation to the director;
+31 (b) Within sixty-five (65) days, submit preliminary findings that rec-
+32 ommend approval or rejection of the application and, if approval is rec-
+33 ommended, contain preliminary conditions for the license to ensure the
+34 facility's compliance with applicable law, which may be more stringent
+35 than such provisions; and
+36 (c) Make department staff available to assist the panel in carrying out
+37 its duties.
+38 (4) Within thirty (30) days of receiving the panel's recommendation
+39 pursuant to section 39-4438, Idaho Code, the director shall make a final
+40 decision on the application. The director shall approve the application and
+41 issue a siting license, with appropriate conditions, if any, if the director
+42 determines that:
+43 (a) The technical criteria required by section 39-4435, Idaho Code, are
+44 met, if applicable;
+45 (b) The harm to scenic, historic, cultural, or recreational values is
+46 not substantial or that it can be mitigated by appropriate license con-
+47 ditions;
+48 (c) The risk and impact of accident during transportation of hazardous
+49 waste is not substantial or that it can be mitigated with appropriate
+50 license conditions;
+
+14
+1 (d) The impact on local government is not adverse regarding health,
+2 safety, cost, and consistency with local planning and existing devel-
+3 opment or that it can be mitigated with appropriate license conditions;
+4 and
+5 (e) No other major concerns have been raised by the panel regarding pub-
+6 lic health or the environment that cannot be mitigated by special li-
+7 cense conditions.
+8 (5) Any person aggrieved by a decision of the director pursuant to this
+9 chapter may, within twenty-eight (28) days and after all of this chapter's
+10 remedies have been exhausted, seek judicial review pursuant to chapter 52,
+11 title 67, Idaho Code.
+12 SECTION 13. That Chapter 44, Title 39, Idaho Code, be, and the same is
+13 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+14 ignated as Section 39-4437, Idaho Code, and to read as follows:
+15 39-4437. SITE REVIEW PANELS -- ESTABLISHMENT AND ORGANIZATION. (1) A
+16 site review panel shall be established pursuant to this section to review
+17 each siting license application received by the department, ensure public
+18 input and involvement in the application and licensing process, and provide
+19 recommendations to the director regarding the director's final decision.
+20 (2)(a) The panel shall consist of ten (10) members to be appointed as
+21 follows:
+22 (i) One (1) member shall be the director or the director's autho-
+23 rized representative;
+24 (ii) One (1) member shall be the director of the Idaho transporta-
+25 tion department or the director's authorized representative;
+26 (iii) One (1) member shall be the director of the Idaho department
+27 of water resources or the director's authorized representative;
+28 (iv) Three (3) members shall be public members appointed by the
+29 director. Of such members, one (1) shall be a geologist or hydrol-
+30 ogist, one (1) an engineer, and one (1) a representative of indus-
+31 tries that generate hazardous waste;
+32 (v) Two (2) members shall be appointed by the city council of the
+33 city located closest to or in which the hazardous waste facility
+34 is located or is proposed to be located. At least one (1) of such
+35 members shall be an actual resident of the city; and
+36 (vi) Two (2) members shall be appointed by the board of commis-
+37 sioners of the county in which the facility is located or is pro-
+38 posed to be located. Both members shall be actual residents of the
+39 county.
+40 (b) The director or the member appointed as the director's representa-
+41 tive shall be the chair of each panel established pursuant to this sec-
+42 tion. The chair shall be a nonvoting member of the panel except when the
+43 chair's vote is necessary to break an otherwise tied vote.
+44 (c) Six (6) of the ten (10) members shall constitute a quorum for the
+45 purposes of conducting business and executing the panel's duties.
+46 (d) Members of the panel who are not state employees shall be entitled
+47 to receive reimbursement as provided in section 59-509(b), Idaho Code.
+48 (e) All meetings of the panel shall be conducted pursuant to the state
+49 open meetings law, chapter 2, title 74, Idaho Code.
+
+15
+1 (3)(a) Once the director determines an application is complete, the di-
+2 rector shall:
+3 (i) Appoint the three (3) public members of the panel;
+4 (ii) Notify the director of the department of transportation and
+5 the director of the department of water resources of the applica-
+6 tion and of their obligation to serve, or appoint a representative
+7 to serve, on the panel; and
+8 (iii) Notify the appropriate city council and board of county
+9 commissioners of the application and instruct them to appoint the
+10 necessary representatives to the panel.
+11 (b) Within thirty (30) days of the director's notification, the re-
+12 quired appointments shall be made and the director of the department of
+13 transportation, the director of the department of water resources, the
+14 city council, and the board of county commissioners shall notify the
+15 director of their respective selections.
+16 SECTION 14. That Chapter 44, Title 39, Idaho Code, be, and the same is
+17 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+18 ignated as Section 39-4438, Idaho Code, and to read as follows:
+19 39-4438. DUTIES OF SITE REVIEW PANEL. (1) The panel's primary respon-
+20 sibility shall be to consider the concerns and objections submitted by the
+21 public. The panel shall facilitate efforts to provide that the concerns and
+22 objections are mitigated by proposing additional conditions for licensure
+23 to the director. Such conditions may, among other objectives:
+24 (a) Integrate the provisions of the city or county ordinances, permits,
+25 or requirements; and
+26 (b) Include measures to mitigate public concerns for:
+27 (i) The establishment or major modification of a hazardous waste
+28 facility; and
+29 (ii) On-site disposal of wastes listed in section 201(d)(2) and
+30 (e) as modified by section 209 of the hazardous and solid waste
+31 amendments of 1984.
+32 (2) Within thirty (30) days of the panel's official establishment, the
+33 panel shall conduct its first meeting where it shall:
+34 (a) Establish a timetable for the review of an application, public par-
+35 ticipation in the process, and submission of a recommendation to the di-
+36 rector; and
+37 (b) Set a date for a public hearing. Notice of the hearing shall be pub-
+38 lished at least thirty (30) days before such hearing. Such notice shall
+39 be published in a newspaper of general circulation in the county and im-
+40 mediate vicinity of the facility or proposed facility. The notice shall
+41 include:
+42 (i) A map indicating the location or proposed location of the haz-
+43 ardous waste facility;
+44 (ii) A description of the proposed action;
+45 (iii) Information regarding the time, place, and location of the
+46 public hearing;
+47 (iv) Information on how to submit public comment; and
+48 (v) The location where the complete application package may be
+49 reviewed.
+
+16
+1 (3) The panel shall accept written comment for at least thirty (30) days
+2 prior to the public hearing and shall continue to accept written comment for
+3 fifteen (15) days after the public hearing date. Oral comment shall be pro-
+4 vided for by the panel at the public hearing.
+5 (4) When reviewing an application, the panel shall, among other things,
+6 consider:
+7 (a) The risk and impact of accident during the transportation of haz-
+8 ardous waste;
+9 (b) The risk of fires or explosions from improper treatment, storage,
+10 or disposal methods;
+11 (c) The impact on local units of government in terms of health, safety,
+12 and cost;
+13 (d) Whether the application is consistent with local planning and ex-
+14 isting development;
+15 (e) City and county ordinances, permits, or other requirements and
+16 their potential relationship to the proposed hazardous waste facility;
+17 (f) The nature of the probable environmental impact;
+18 (g) What conditions, if any, would eliminate or mitigate concerns,
+19 risks, and impacts;
+20 (h) The director's preliminary recommendation and associated condi-
+21 tions, if any such conditions are provided; and
+22 (i) The public comment received.
+23 (5) Within thirty (30) days of the end of the public comment period, the
+24 panel shall submit its recommendation to the director. The panel shall rec-
+25 ommend that the application be approved and the license be issued or that the
+26 application and license be denied.
+27 (a) If the panel recommends approval, it shall include recommended
+28 conditions, which may be the same as, different than, or in addition to
+29 the preliminary conditions submitted by the director. If such condi-
+30 tions are different or additional conditions, the panel shall provide a
+31 statement explaining the need for the condition.
+32 (b) If the panel recommends denial, the panel shall provide a statement
+33 explaining the reasons for its recommended denial.
+34 SECTION 15. That Chapter 44, Title 39, Idaho Code, be, and the same is
+35 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+36 ignated as Section 39-4439, Idaho Code, and to read as follows:
+37 39-4439. LOCAL RESTRICTIONS ON HAZARDOUS WASTE FACILITIES. An ordi-
+38 nance, permit requirement, or other requirement of a city or county shall
+39 not prohibit the construction of a hazardous waste facility in that city or
+40 county.
+41 SECTION 16. That Chapter 44, Title 39, Idaho Code, be, and the same is
+42 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+43 ignated as Section 39-4440, Idaho Code, and to read as follows:
+44 39-4440. CERTIFICATION OF CITY, COUNTY, OR HEALTH DISTRICT. (1) The
+45 director may certify a city, county, or health district to administer and
+46 enforce portions of this chapter to the extent consistent with maintaining
+
+17
+1 authorization of the state's hazardous waste management program pursuant to
+2 chapter 44, title 31, Idaho Code.
+3 (2) The director may rescind certification upon the request of the cer-
+4 tified city, county, or health district or after reasonable notice and hear-
+5 ing if the director finds that a city, county, or health district is not ad-
+6 ministering and enforcing the provisions of this chapter as required.
+7 (3) Certification procedures may be established by rule, subject to
+8 legislative approval.
+9 SECTION 17. That Chapter 44, Title 39, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 39-4441, Idaho Code, and to read as follows:
+12 39-4441. REMEDY FOR DEVALUATION OF PROPERTY CAUSED BY APPROVED FACIL-
+13 ITY. (1) Before construction of a hazardous waste facility, but in no case
+14 later than nine (9) months after approval of a site license for such facil-
+15 ity, any owner or user of real property adversely affected by approval may
+16 bring an action in a district court of competent jurisdiction against the
+17 owner of the proposed facility.
+18 (2) If a court determines that the planned construction and operation
+19 of the facility will result in the devaluation of the plaintiff's property
+20 or will otherwise interfere with the plaintiff's rights in the property,
+21 the court shall order the facility's owner to compensate the plaintiff in an
+22 amount equal to the value of the plaintiff's loss.
+23 (3) The remedy provided by this section shall be in addition to other
+24 remedies provided by law for property owners or users aggrieved by the pro-
+25 posed construction and operation of a hazardous waste facility.
+26 (4) Nothing in this chapter shall prevent a property owner or user ag-
+27 grieved by the construction and operation of a facility from seeking damages
+28 that result from a subsequent modification of the design or operation of the
+29 facility, but such damages are limited to the incremental damage that re-
+30 sults from such modification. Any action for such damages under this section
+31 shall be brought within nine (9) months after the siting license for modifi-
+32 cation of the design or operation of the facility is approved.
+33 (5) For the purpose of assessing damages, the value of the rights af-
+34 fected shall be fixed at the date the siting license is approved and the ac-
+35 tual value of the right at that date shall be the basis for the determination
+36 of the amount of damage suffered, and no improvements to the property subse-
+37 quent to the date of approval of the plans shall be included in the assess-
+38 ment of damages. For any subsequent modification of a facility, the value is
+39 fixed at the date of approval of the siting license.
+40 (6) The owner or operator of a proposed facility may at any time be-
+41 fore an award of damages abandon the construction or operation of the facil-
+42 ity or any modification thereof and cause the action to be dismissed. As a
+43 condition of dismissal, the facility's owner or operator shall compensate
+44 the plaintiff for any actual damage sustained as a result of construction or
+45 operation of the facility before abandonment together with court costs and
+46 reasonable attorney's fees.
+47 (7) Nothing in this chapter shall prevent a court from enjoining any ac-
+48 tivity at a hazardous waste facility that is outside of, or not in compli-
+
+18
+1 ance with, the terms and conditions of an approved hazardous waste opera-
+2 tions permit issued pursuant to section 39-4409, Idaho Code.
+3 SECTION 18. That Section 39-7402A, Idaho Code, be, and the same is
+4 hereby amended to read as follows:
+5 39-7402A. EXCLUDED FACILITIES. This chapter shall not apply to any
+6 facility subject to the provisions of subtitle C of RCRA, or the hazardous
+7 waste management act of 1983, as amended (section 39-4401, et seq., Idaho
+8 Code) or the state hazardous waste facility siting act, as amended (section
+9 39-5801, et seq., Idaho Code), chapter 44, title 39, Idaho Code.
+10 SECTION 19. An emergency existing therefor, which emergency is hereby
+11 declared to exist, this act shall be in full force and effect on and after
+12 July 1, 2026.

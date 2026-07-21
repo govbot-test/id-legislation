@@ -1,0 +1,246 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1418, As Amended
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO KRATOM; AMENDING TITLE 37, IDAHO CODE, BY THE ADDITION OF A NEW
+3 CHAPTER 31, TITLE 37, IDAHO CODE, TO ESTABLISH THE KRATOM CONSUMER PRO-
+4 TECTION AND SAFETY ACT; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+5 FECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Title 37, Idaho Code, be, and the same is hereby amended
+8 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+9 ter 31, Title 37, Idaho Code, and to read as follows:
+10 CHAPTER 31
+11 KRATOM CONSUMER PROTECTION AND SAFETY
+12 37-3101. SHORT TITLE. This chapter shall be known and may be cited as
+13 the "Idaho Kratom Consumer Protection and Safety Act."
+14 37-3102. LEGISLATIVE FINDINGS AND INTENT. (1) The legislature finds
+15 that:
+16 (a) Kratom is legally sold in Idaho and used by adults for a variety of
+17 personal purposes;
+18 (b) Public health risks arise primarily from adulterated or chemically
+19 enhanced kratom products, particularly those containing artificially
+20 elevated levels of 7-hydroxymitragynine (7-OH); and
+21 (c) Kratom's natural alkaloid profile contains only trace amounts of
+22 7-OH, while potentially dangerous products often include synthetic or
+23 spiked levels of 7-OH.
+24 (2) It is the intent of the legislature:
+25 (a) To preserve adult access to natural kratom while preventing the
+26 sale of unsafe, adulterated, or synthetic products;
+27 (b) That regulation of natural kratom products be limited, minimal, and
+28 fiscally neutral, and not include the imposition of licensing fees nor
+29 registration requirements; and
+30 (c) To occupy the whole field of regulation regarding natural kratom
+31 products such that no political subdivision of the state shall adopt
+32 or enact any standard or other requirement that is inconsistent with,
+33 varies from, exceeds, or imposes additional burdens than the provisions
+34 of this chapter. Any such standard or requirement that now exists, or
+35 that may hereinafter exist, is hereby declared to be unenforceable.
+36 37-3103. DEFINITIONS. As used in this chapter:
+37 (1) "Adulterated kratom product" means a kratom product that:
+38 (a) Contains any synthesized material, semisynthetic alkaloid, or syn-
+39 thetic kratom-like compound;
+
+2
+1 (b) Contains added or artificially increased 7-hydroxymitragynine
+2 (7-OH);
+3 (c) Contains 7-OH that exceeds two percent (2%) of its total alkaloid
+4 content;
+5 (d) Contains more than one (1) milligram per serving of 7-OH;
+6 (e) Contains heavy metals exceeding applicable federal limits;
+7 (f) Contains microbial contamination, mold, salmonella, E. coli, or
+8 other harmful adulterants; or
+9 (g) Contains any controlled substance listed under chapter 27, title
+10 37, Idaho Code.
+11 (2) "Alkaloid" means a compound found in the mitragyna speciosa leaf,
+12 including but not limited to mitragynine, paynantheine, speciociliatine, or
+13 speciogynine.
+14 (3) "Department" means the Idaho department of agriculture.
+15 (4) "Kratom" means the mitragyna speciosa plant or any part of that
+16 plant.
+17 (5) "Kratom distributor" means a person that sells, transports,
+18 stores, or wholesales a finished kratom product that the person did not manu-
+19 facture, process, extract, alter, repackage, or relabel.
+20 (6) "Kratom extract" means a substance or compound obtained by extrac-
+21 tion from the mitragyna speciosa leaf that contains kratom alkaloids and
+22 that does not contain any controlled substances or levels of residual sol-
+23 vents higher than is allowed in the U.S. pharmacopoeia (USP) 467.
+24 (7) "Kratom product" means a finished product containing kratom or
+25 kratom extract that is intended for human consumption that contains any part
+26 of the mitragyna speciosa plant in any form.
+27 (8) "Kratom processor" means a person that:
+28 (a) Manufactures, distributes, or warehouses a kratom product; or
+29 (b) Advertises, represents, or holds itself out as manufacturing, dis-
+30 tributing, or warehousing a kratom product.
+31 (9) "Kratom retailer" means a person that sells or advertises itself as
+32 selling kratom products directly to consumers for human consumption.
+33 (10) "Person" means any individual, partnership, corporation, associa-
+34 tion, governmental subdivision or agency, or public or private organization
+35 or entity of any character.
+36 37-3104. PROHIBITED CONDUCT. (1) A kratom processor or retailer shall
+37 not:
+38 (a) Sell, prepare, or distribute an adulterated kratom product;
+39 (b) Add, introduce, or apply any substance intended to increase the
+40 concentration or potency of 7-OH in a kratom product;
+41 (c) Sell a synthetic product falsely represented as a kratom product;
+42 and
+43 (d) Mislabel or intentionally misrepresent the alkaloid content of a
+44 kratom product.
+45 (2) A kratom retailer or distributor does not violate this chapter if it
+46 is shown by a preponderance of the evidence that the retailer or distributor,
+47 in good faith, relied on the representation of a kratom processor that the
+48 product was a kratom product and not an adulterated kratom product.
+
+3
+1 (3) This chapter shall not be construed to prohibit the production or
+2 sale of kratom products that include other substances, such as vitamins,
+3 minerals, botanicals, concentrates, metabolites, extracts, or combinations
+4 thereof, that are not otherwise prohibited by law.
+5 37-3105. AGE RESTRICTION. (1) No person shall sell, deliver, or give
+6 away kratom or cause or permit kratom to be sold, delivered, or given away to
+7 any person under twenty-one (21) years of age.
+8 (2) Proof of age shall be a validly issued state, district, territo-
+9 rial, possession, provincial, national, or other equivalent government
+10 driver's license, identification card, or military identification card
+11 bearing a photograph and date of birth, or a valid passport.
+12 (3) Any person who knowingly misrepresents age for the purpose of ob-
+13 taining kratom shall be guilty of a misdemeanor.
+14 (4)(a) It shall be an affirmative defense for a kratom retailer that re-
+15 quested, examined, and reasonably relied on identification establish-
+16 ing age pursuant to this section provided to the retailer by a person in-
+17 tending to purchase a kratom product.
+18 (b) A kratom retailer's failure to request and examine identification
+19 from a person intending to purchase a kratom product prior to the sale
+20 of such product to such person shall be construed against the retailer
+21 and shall form a conclusive basis for the retailer's violation of this
+22 section.
+23 37-3106. TESTING REQUIREMENTS. (1) A kratom processor shall keep, and
+24 make available upon request by the department, a certification that the pro-
+25 cessor's operations are consistent with applicable federal regulations and
+26 guidelines, including:
+27 (a) 21 CFR 111 and 117;
+28 (b) Requirements related to the processor establishing limits and con-
+29 trols for contaminants reasonably likely to occur; and
+30 (c) Other such requirements that apply to kratom products made avail-
+31 able pursuant to the provisions of this chapter for facilities that man-
+32 ufacture, process, pack, or store a kratom product that is being offered
+33 for sale in the state of Idaho.
+34 (2) A kratom retailer or distributor may rely, in good faith, on the
+35 kratom processor's certification and shall not be subject to penalty for
+36 violations resulting solely from inaccurate or fraudulent information pro-
+37 vided by a kratom processor.
+38 37-3107. LABELING REQUIREMENTS. A kratom product offered for sale in
+39 Idaho shall include on its package:
+40 (1) The name and business address of the processor or retailer;
+41 (2) A batch number;
+42 (3) The full list of ingredients in the kratom product;
+43 (4) Directions for use that include, at a minimum, the recommended
+44 amount of the kratom product per serving; and
+45 (5) A statement that the product:
+46 (a) Contains kratom;
+
+4
+1 (b) Has not been evaluated by the U.S. food and drug administration, and
+2 is not intended to diagnose, treat, cure, or prevent any disease;
+3 (c) Should be used only after consulting with a health care provider;
+4 (d) Should be used only after consulting with a health care provider if
+5 that consumer is or may be pregnant or breast-feeding;
+6 (e) Should be kept out of reach from children;
+7 (f) Is not for sale to persons under twenty-one (21) years of age;
+8 (g) May be habit forming; and
+9 (h) May interact with certain medications, drugs, and controlled sub-
+10 stances.
+11 37-3108. ENFORCEMENT AND PENALTIES. (1) A person that knowingly vio-
+12 lates this chapter is subject to a civil penalty not to exceed:
+13 (a) One thousand dollars ($1,000) for a first violation; and
+14 (b) Two thousand five hundred dollars ($2,500) for each subsequent vio-
+15 lation.
+16 (2) Each batch or individually packaged product sold in violation of
+17 this chapter constitutes a separate offense.
+18 (3) The department and the Idaho state police shall jointly enforce and
+19 administer the provisions of this chapter to ensure compliance therewith.
+20 The department and state police shall have the authority to enter property
+21 where kratom is processed, produced, sold, stored, or handled for the pur-
+22 pose of inspections, sample collection, testing, or investigation to ensure
+23 compliance with the provisions of this chapter and rules that may be promul-
+24 gated pursuant thereto. Such inspections may be random and unannounced but
+25 shall be conducted during the establishment's standard business hours.
+26 (4) The attorney general or a county prosecuting attorney in which the
+27 alleged violation occurred shall bring a civil action to enforce this chap-
+28 ter.
+29 (a) A political subdivision of the state may request the office of the
+30 attorney general and the county prosecuting attorney to bring a civil
+31 action to enforce this chapter.
+32 (b) A private cause of action is prohibited, unless such action is
+33 brought pursuant to chapter 6, title 48, Idaho Code, or laws related
+34 to consumer protection or product liability. Nothing in this chapter
+35 shall be construed to limit civil remedies that may be available pur-
+36 suant to law.
+37 (5) Any adulterated kratom product may be seized and destroyed pursuant
+38 to court order.
+39 (6) Any retailer violating this chapter for a third or subsequent time
+40 within a two (2) year period may be subject to an injunction. The department
+41 or the prosecuting attorney may petition the district court for an injunc-
+42 tion to prohibit the sale of kratom products in the establishment where the
+43 violation occurred.
+44 (a) If a court finds that the retailer in the action has violated the
+45 provisions of this chapter for a third or subsequent time within a two
+46 (2) year period and may continue to violate this chapter, it may grant an
+47 injunction prohibiting the retailer from selling kratom products in the
+48 establishment where the violation occurred for a period of not more than
+49 one hundred eighty (180) days.
+
+5
+1 (b) For the purposes of this subsection, multiple violations occurring
+2 before the petition for the injunction is filed shall be deemed part of
+3 the violation for which the injunction is sought.
+4 (c) If the person against whom the injunction is sought operates multi-
+5 ple geographically separate establishments, the injunction shall apply
+6 only to the establishment where the violation occurred.
+7 (d) The injunction shall prohibit all sales of kratom products in the
+8 establishment where the violation occurred, regardless of any change in
+9 ownership or management of the establishment that is not a bona fide,
+10 arms-length transaction while the injunction is in effect.
+11 (7) Notwithstanding the provisions of this chapter, no fine for a vi-
+12 olation of this chapter shall be imposed for a first offense in any twenty-
+13 four (24) month period if the retailer can show it has:
+14 (a) Adopted and enforced a written policy against selling kratom prod-
+15 ucts to persons under twenty-one (21) years of age;
+16 (b) Informed its employees of the applicable laws regarding the sale of
+17 kratom products to persons under twenty-one (21) years of age;
+18 (c) Required employees to verify the age of kratom product customers by
+19 way of photographic identification or by means of electronic transac-
+20 tion scan device; and
+21 (d) Established and imposed disciplinary sanctions for noncompliance.
+22 (8) All civil penalties collected pursuant to this chapter shall be
+23 distributed equally between the department and the Idaho state police.
+24 (a) The civil penalties collected pursuant to this chapter shall be re-
+25 mitted to the state treasurer for deposit into the agriculture depart-
+26 ment inspection fund established in section 22-104, Idaho Code, and the
+27 Idaho law enforcement fund established in section 67-2914, Idaho Code.
+28 (b) Moneys collected and deposited pursuant to this section shall be
+29 used by the department and Idaho state police for employee compensa-
+30 tion, enforcement, training, investigation, and laboratory testing
+31 related to the provisions of this chapter.
+32 (c) Moneys deposited into the funds pursuant to this chapter shall re-
+33 main in such funds until such time as they may be appropriated by the
+34 legislature to be expended by the department and Idaho state police for
+35 the purposes provided by this chapter.
+36 37-3109. RULEMAKING AUTHORITY. The department may adopt only mini-
+37 mal rules, subject to legislative approval, necessary to define acceptable
+38 contaminant limits and testing standards. No rule may impose any licensing
+39 requirement, registration requirement, fee, or regulatory burden not ex-
+40 pressly authorized in this chapter.
+41 SECTION 2. An emergency existing therefor, which emergency is hereby
+42 declared to exist, this act shall be in full force and effect on and after
+43 January 1, 2027.

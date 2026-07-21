@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Anthon
+Seconded by Den Hartog
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1442
+1 AMENDMENT TO SECTION 3
+2 On page 2 of the printed bill, in line 40, delete "record and publish"
+3 and insert: "file with the state controller"; in line 43, delete "investi-
+4 gated, apprehended, detained, and"; in line 46, following "cable." insert:
+5 "The state controller shall make such report available for inspection at all
+6 times on the website of the state controller."; and delete lines 47 through
+7 49, and insert:
+8 "(4) If the attorney general determines that a local, county, or state
+9 law enforcement agency is not in compliance with the provisions of this sec-
+10 tion, he shall notify such agency of its noncompliance and that it has thirty
+11 (30) days to cure the violation. If the law enforcement agency fails to cure
+12 its noncompliance within thirty (30) days, the attorney general may seek
+13 injunctive relief against the agency, and the agency may be subject to the
+14 withholding of state funding by the legislature.".

@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 622
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1020, IDAHO CODE, TO REVISE PRO-
+3 VISIONS REGARDING IDAHO DIGITAL LEARNING ACADEMY FUNDING; AND DECLAR-
+4 ING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 33-1020, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 33-1020. IDAHO DIGITAL LEARNING ACADEMY FUNDING.
+9 (1)(a) An amount of four hundred forty-five dollars ($445) four hundred
+10 twenty-seven dollars ($427) per enrollment shall be distributed to sup-
+11 port the Idaho digital learning academy, created pursuant to chapter
+12 55, title 33, Idaho Code. For the purposes of this section, an "enroll-
+13 ment" shall be counted each time an Idaho school age child enrolls in
+14 an Idaho digital learning academy class and continues to be enrolled in
+15 such class past the deadline to withdraw, where such withdrawal would
+16 not result in the class appearing on such child's transcript in any way.
+17 A single child enrolled in multiple classes shall count as multiple en-
+18 rollments may be counted for only up to three (3) enrollments per school
+19 year, not including summer enrollments. Summer enrollments shall be
+20 included in the fiscal year that begins that summer. An enrollment
+21 shall be eligible for state funding only if:
+22 (i) The student is enrolled full time in an Idaho school district
+23 or public charter school that is not entirely virtual;
+24 (ii) The student is in grades 6 through 12;
+25 (iii) The class is not a driver's education class; and
+26 (iv) The student is not enrolled in a public school or public char-
+27 ter school that is located in a city with a population of more than
+28 fifty thousand (50,000) and is not enrolled in a custom section. A
+29 "custom section" means an Idaho digital learning academy class in
+30 which all enrollments are from one (1) school district.
+31 (b) If a student wants to enroll in an Idaho digital learning academy
+32 class that does not meet the criteria for state funding under this sec-
+33 tion, such student may enroll in such class if the school district or
+34 public charter school pays the fees for the class as set by the Idaho
+35 digital learning academy.
+36 (2) The state department of education shall make an estimated distri-
+37 bution of funds to the Idaho digital learning academy by no later than July
+38 31 of each fiscal year, consisting of eighty percent (80%) of the estimated
+39 funding for the fiscal year. The balance of all remaining funds to be dis-
+40 tributed, pursuant to the calculations in this section, shall be distributed
+41 by no later than May 15 of the same fiscal year. The state department of
+42 education shall reconcile the enrollments prior to the May 15 payment and
+
+2
+1 withhold or recover any costs necessary to align the funding with verified
+2 enrollments. The joint finance-appropriations committee shall consider
+3 adjusting the per enrollment amount each legislative session by a percent-
+4 age increase equal to the percentage increase approved for salary increases
+5 for instructional and pupil service staff pursuant to section 33-1004B,
+6 Idaho Code, and for administrative and classified staff pursuant to section
+7 33-1004E, Idaho Code.
+8 SECTION 2. An emergency existing therefor, which emergency is hereby
+9 declared to exist, this act shall be in full force and effect on and after
+10 July 1, 2026.

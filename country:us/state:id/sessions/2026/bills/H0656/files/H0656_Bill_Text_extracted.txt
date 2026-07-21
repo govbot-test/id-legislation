@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 656
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 1, TITLE 33, IDAHO CODE, BY THE AD-
+3 DITION OF A NEW SECTION 33-144, IDAHO CODE, TO ESTABLISH PROVISIONS RE-
+4 GARDING THE COLLECTION OF AGGREGATED STUDENT DATA REGARDING IMMIGRA-
+5 TION STATUS AND NATIONALITY FOR STUDENTS ENROLLED IN IDAHO PUBLIC EDU-
+6 CATIONAL INSTITUTIONS; AND DECLARING AN EMERGENCY AND PROVIDING AN EF-
+7 FECTIVE DATE.
+8 Be It Enacted by the Legislature of the State of Idaho:
+9 SECTION 1. That Chapter 1, Title 33, Idaho Code, be, and the same is
+10 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+11 ignated as Section 33-144, Idaho Code, and to read as follows:
+12 33-144. STUDENT IMMIGRATION STATUS AND NATIONALITY IN IDAHO PUBLIC
+13 EDUCATIONAL INSTITUTIONS -- DATA COLLECTION. (1) It is the intent of the leg-
+14 islature to collect aggregated immigration data for Idaho students to enable
+15 the legislature to estimate more accurately the cost of educating Idaho stu-
+16 dents and to illustrate the financial impact that federal immigration policy
+17 has on the state of Idaho.
+18 (2) As used in this section:
+19 (a) "Aggregated data" has the same meaning as that term is defined in
+20 section 33-133, Idaho Code.
+21 (b) "Immigration status" means an individual's legal status in the
+22 United States as governed by the United States immigration and nation-
+23 ality act, including:
+24 (i) An individual who is a lawful permanent resident who is "law-
+25 fully admitted for permanent residence" as that term is defined in
+26 8 U.S.C. 1101(20);
+27 (ii) An individual who is a "national of the United States" as that
+28 term is defined in 8 U.S.C. 1101(22);
+29 (iii) An individual who is a "qualified alien" as that term is de-
+30 fined in 8 U.S.C. 1641; and
+31 (iv) An individual who is a non-qualified alien. For purposes
+32 of this section, "non-qualified alien" means an individual who is
+33 unauthorized and not lawfully admitted into the United States.
+34 (c) "Public institution of higher education" means any state univer-
+35 sity, college, or community college in the state of Idaho.
+36 (d) "School district" has the same meaning as that term is defined in
+37 section 33-133, Idaho Code.
+38 (3) The Idaho state board of education shall collect from all public
+39 institutions of higher education, charter schools, and school districts
+40 aggregated data regarding the immigration status, nationality, and primary
+41 language of all enrolled students. Such data shall be subject to the data
+
+2
+1 protection and privacy requirements provided for in section 33-133, Idaho
+2 Code.
+3 (4) The collection of aggregated student data regarding immigration
+4 status, nationality, and primary language provided for under the provisions
+5 of this section shall be for the purpose of analyzing data only. Such student
+6 data shall not be used to discriminate against any student in any manner.
+7 All student data collected pursuant to the provisions of this section and
+8 reported to the state board of education shall be aggregated data.
+9 (5) The state board of education shall submit an annual report to the
+10 legislature including the aggregated data collected pursuant to the provi-
+11 sions of this section.
+12 SECTION 2. An emergency existing therefor, which emergency is hereby
+13 declared to exist, this act shall be in full force and effect on and after
+14 July 1, 2026.

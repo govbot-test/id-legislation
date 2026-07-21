@@ -1,0 +1,954 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 728, As Amended in the Senate
+BY EDUCATION COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING SECTION 33-1001, IDAHO CODE, TO REVISE DEF-
+3 INITIONS; AMENDING SECTION 33-512D, IDAHO CODE, TO PROVIDE A CORRECT
+4 CODE REFERENCE; AMENDING SECTION 33-515, IDAHO CODE, TO PROVIDE A COR-
+5 RECT CODE REFERENCE; AMENDING SECTION 33-911, IDAHO CODE, TO PROVIDE A
+6 CORRECT CODE REFERENCE; AMENDING SECTION 33-915, IDAHO CODE, TO PRO-
+7 VIDE A CORRECT CODE REFERENCE; AMENDING SECTION 33-1201, IDAHO CODE, TO
+8 REVISE PROVISIONS REGARDING REQUIRED CERTIFICATES; AMENDING SECTION
+9 33-1201A, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AMENDING
+10 SECTION 33-1204, IDAHO CODE, TO REVISE PROVISIONS REGARDING LIFETIME
+11 INSTRUCTIONAL AND LIFETIME ADMINISTRATOR CERTIFICATES; AMENDING SEC-
+12 TION 33-1636, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AND
+13 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+14 Be It Enacted by the Legislature of the State of Idaho:
+15 SECTION 1. That Section 33-1001, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 33-1001. DEFINITIONS. As used in this chapter:
+18 (1) "Administrative schools" means and applies to all elementary
+19 schools and kindergartens within a district that are situated ten (10) miles
+20 or less from both the other elementary schools and the principal administra-
+21 tive office of the district and all secondary schools within a district that
+22 are situated fifteen (15) miles or less from other secondary schools of the
+23 district.
+24 (2) "Administrative staff" means those who hold an administrator cer-
+25 tificate and are employed as a superintendent, an elementary or secondary
+26 school principal, or are assigned administrative duties over and above those
+27 commonly assigned to teachers.:
+28 (a) Hold an administrator certificate and are employed as a superinten-
+29 dent, a deputy superintendent, an elementary or secondary school prin-
+30 cipal or vice principal, a director of special education, or a public
+31 charter school administrator as their primary employment; or
+32 (b) Are assigned administrative duties over and above those commonly
+33 assigned to teachers.
+34 (3) "At-risk student" means a student in grades 6 through 12 who:
+35 (a) Meets at least three (3) of the following criteria:
+36 (i) Has repeated at least one (1) grade;
+37 (ii) Has absenteeism greater than ten percent (10%) during the
+38 preceding semester;
+39 (iii) Has an overall grade point average less than 1.5 on a 4.0
+40 scale prior to enrolling in an alternative secondary program;
+41 (iv) Has failed one (1) or more academic subjects in the past year;
+
+2
+1 (v) Is below proficient, based on local criteria, standardized
+2 tests, or both;
+3 (vi) Is two (2) or more credits per year behind the rate required
+4 to graduate or for grade promotion; or
+5 (vii) Has attended three (3) or more schools within the previous
+6 two (2) years, not including dual enrollment; or
+7 (b) Meets any of the following criteria:
+8 (i) Has documented substance abuse or a pattern of substance
+9 abuse;
+10 (ii) Is pregnant or a parent;
+11 (iii) Is an emancipated youth or unaccompanied youth;
+12 (iv) Is a previous dropout;
+13 (v) Has a serious personal, emotional, or medical issue or is-
+14 sues;
+15 (vi) Has a court or agency referral; or
+16 (vii) Demonstrates behavior detrimental to the student's academic
+17 progress.
+18 (4) "Average daily attendance" or "pupils in average daily attendance"
+19 means the aggregate number of days enrolled students are present, divided by
+20 the number of days of school in the reporting period; provided, however, that
+21 students for whom no Idaho school district is a home district shall not be
+22 considered in such computation.
+23 (5) "Career ladder" means the compensation table used for determining
+24 the allocations districts receive for instructional staff and pupil service
+25 staff based on specific performance criteria and is made up of a residency
+26 compensation rung and, a professional compensation rung, and an advanced
+27 professional compensation rung.
+28 (6) "Child with a disability" means a child evaluated as having an
+29 intellectual disability, a hearing loss including deafness, a speech or
+30 language impairment, a visual impairment including blindness, an emo-
+31 tional behavioral disorder, an orthopedic impairment, autism, a traumatic
+32 brain injury, another health impairment, a specific learning disability,
+33 deaf-blindness, or multiple disabilities and who, by reason thereof, needs
+34 special education and related services.
+35 (7) "Classified staff" means those who are employed in positions that
+36 are not administrative staff, instructional staff, or pupil service staff.
+37 Classified staff are not required to have certification as provided in sec-
+38 tion 33-1201, Idaho Code.
+39 (7) (8) "Compensation rung" means the rung on the career ladder that
+40 corresponds with the compensation level performance criteria.
+41 (8) (9) "Economically disadvantaged student" means a student who:
+42 (a) Is eligible for a free or reduced-price lunch under the Richard B.
+43 Russell national school lunch act, 42 U.S.C. 1751 et seq., excluding
+44 students who are eligible only through a school's community eligibility
+45 program;
+46 (b) Resides with a family receiving assistance under the program of
+47 block grants to states for temporary assistance for needy families
+48 (TANF) established under part A of title IV of the social security act,
+49 42 U.S.C. 601 et seq.;
+
+3
+1 (c) Is eligible to receive medical assistance under the medicaid pro-
+2 gram under title XIX of the social security act, 42 U.S.C. 1396 et seq.;
+3 or
+4 (d) Is considered homeless for purposes of the federal McKinney-Vento
+5 homeless assistance act, 42 U.S.C. 11301 et seq.
+6 (9) (10) "Elementary grades" or "elementary average daily attendance"
+7 means and applies to students enrolled in grades 1 through 6, inclusive, or
+8 any combination thereof.
+9 (10) (11) "Elementary schools" are schools that serve grades 1 through
+10 6, inclusive, or any combination thereof.
+11 (11) (12) "Elementary/secondary schools" are schools that serve grades
+12 1 through 12, inclusive, or any combination thereof.
+13 (12) (13) "English language learner" or "ELL" means a student who does
+14 not score proficient on the English language development assessment estab-
+15 lished by rule of the state board of education.
+16 (13) (14) "Gifted and talented" shall have the same meaning as provided
+17 in section 33-2001(4), Idaho Code.
+18 (14) (15) "Homebound student" means any student who would normally and
+19 regularly attend school but is confined to home or hospital because of an
+20 illness or accident for a period of ten (10) or more consecutive days.
+21 (15) (16) "Instructional staff" means those who hold an Idaho certifi-
+22 cate issued under section 33-1201, Idaho Code, and who are either involved
+23 in whose primary employment involves the direct instruction of a student or
+24 group of students or who serve in a mentor or teacher leader position for in-
+25 dividuals who hold an Idaho certificate issued under section 33-1201, Idaho
+26 Code.
+27 (17) "Instructional support staff" means those who hold an Idaho cer-
+28 tificate issued pursuant to section 33-1201, Idaho Code, whose primary
+29 employment involves supporting instructional staff, pupil service staff, or
+30 administrators with instruction-related services. This includes mentor-
+31 ing, curriculum coaching, or other instruction support positions.
+32 (16) (18) "Kindergarten" or "kindergarten average daily attendance"
+33 means and applies to all students enrolled in a school year, less than a
+34 school year, or summer kindergarten program.
+35 (17) (19) "Local salary schedule" means a compensation table adopted by
+36 a school district or public charter school, which table is used for deter-
+37 mining moneys to be distributed for instructional staff and pupil service
+38 staff salaries. Minimum compensation provided under a local salary schedule
+39 shall be at least equal to the minimum amounts established pursuant to sec-
+40 tion 33-1004E, Idaho Code.
+41 (18) (20) "Measurable student achievement" means the measurement of
+42 student academic achievement or growth within a given interval of instruc-
+43 tion for those students who have been enrolled in and attended eighty percent
+44 (80%) of the interval of instruction. Measures and targets shall be chosen
+45 at the school level in collaboration with the staff member impacted by the
+46 measures and applicable district staff and approved by the school board.
+47 Measures and targets must also align with the performance measures and
+48 benchmarks in the continuous improvement plan described in section 33-320,
+49 Idaho Code. The most effective measures and targets are those generated as
+50 close to the actual work as possible. Targets may be based on grade- or de-
+
+4
+1 partment-level achievement or growth goals that create collaboration within
+2 groups. Individual measurable student achievement targets and the percent-
+3 age of students meeting individual targets must be reported annually to the
+4 state. Assessment tools that may be used for measuring student achievement
+5 and growth include:
+6 (a) Idaho standards achievement test (ISAT), including interim ISAT
+7 assessments;
+8 (b) Student learning objectives;
+9 (c) Teacher-constructed assessments of student growth;
+10 (d) Pre- and post-tests, including district-adopted tests;
+11 (e) Performance-based assessments;
+12 (f) Idaho reading indicator, which will be one (1) of the required as-
+13 sessment tools for applicable staff;
+14 (g) College entrance exams or preliminary college entrance exams such
+15 as PSAT, SAT, PACT, and ACT;
+16 (h) Advanced placement exams;
+17 (i) Career technical exams;
+18 (j) Number of business or industry certificates or credentials earned
+19 by students in an approved career technical education program;
+20 (k) Number of students completing career technical education capstone
+21 courses; and
+22 (l) Number of students enrolled in career technical education courses
+23 that are part of a program that culminates with business or industry
+24 certificates or credentials.
+25 (19) (21) "Performance criteria" means the standards specified for
+26 instructional staff and pupil service staff to demonstrate teaching pro-
+27 ficiency for a given compensation rung. Each element of the professional
+28 compensation rung and advanced professional compensation rung performance
+29 criteria, as identified in this section and as applicable to a staff member's
+30 position, shall be documented, reported, and subject to review for determin-
+31 ing movement on the career ladder.
+32 (22) "Primary employment" means the position of employment in which a
+33 person spends fifty percent (50%) or more of the person's time.
+34 (20) (23)(a) "Professional compensation rung performance criteria"
+35 means:
+36 (i) An overall rating of proficient or higher, and no components
+37 rated as unsatisfactory, on the state framework for teaching eval-
+38 uation or equivalent for pupil service staff or principal or other
+39 school level administrator evaluation aligned to the state frame-
+40 work for teaching evaluation; and
+41 (ii) Demonstrating the majority of students have met measurable
+42 student achievement targets or student success indicator targets.
+43 (b) "Advanced professional compensation rung performance criteria"
+44 means:
+45 (i) An overall rating of proficient or higher, no components
+46 rated as unsatisfactory or basic, and rated as distinguished
+47 overall in domain two -- classroom environment or domain three
+48 -- instruction and use of assessment on the state framework for
+49 teaching evaluation or equivalent for pupil service staff or prin-
+
+5
+1 cipal or other school level administrator evaluation aligned to
+2 the state framework for teaching evaluation; and
+3 (ii) Demonstrating seventy-five percent (75%) or more of their
+4 students have met their measurable student achievement targets or
+5 student success indicator targets.
+6 (21) (24) "Public school district" or "school district" or "district"
+7 means any public school district organized under the laws of this state, in-
+8 cluding specially chartered school districts.
+9 (22) (25) "Pupil service staff" means those who provide whose primary
+10 employment involves providing services to students, but are not involved in
+11 does not involve direct instruction of those students, and who hold a pupil
+12 personnel services certificate.
+13 (23) (26) "School board" means a school district board of trustees or
+14 the board of directors of a public charter school.
+15 (24) (27) "Secondary grades" or "secondary average daily attendance"
+16 means and applies to students enrolled in grades 7 through 12, inclusive, or
+17 any combination thereof.
+18 (25) (28) "Secondary schools" are schools that serve grades 7 through
+19 12, inclusive, or any combination thereof.
+20 (26) (29) "Separate elementary school" means an elementary school lo-
+21 cated more than ten (10) miles on an all-weather road from both the near-
+22 est elementary school and elementary/secondary school serving like grades
+23 within the same school district and from the location of the office of the su-
+24 perintendent of schools of such district, or from the office of the chief ad-
+25 ministrative officer of such district if the district employs no superinten-
+26 dent of schools.
+27 (27) (30) "Separate kindergarten" means a kindergarten located more
+28 than ten (10) miles on an all-weather road from both the nearest kindergarten
+29 school within the same school district and from the location of the office
+30 of the superintendent of schools of such district, or from the office of the
+31 chief administrative officer of such district if the district employs no
+32 superintendent of schools.
+33 (28) (31) "Separate secondary school" means any secondary school lo-
+34 cated more than fifteen (15) miles on an all-weather road from any other
+35 secondary school and elementary/secondary school serving like grades oper-
+36 ated by the district.
+37 (29) (32) "Special education" means specially designed instruction or
+38 speech/language therapy at no cost to the parent to meet the unique needs of a
+39 student who is a child with a disability, including instruction in the class-
+40 room, the home, hospitals, institutions, and other settings; instruction
+41 in physical education; speech therapy and language therapy; transition ser-
+42 vices; travel training; assistive technology services; and vocational edu-
+43 cation.
+44 (30) (33) "Student learning plan" means a plan that outlines a student's
+45 program of study, which should include a rigorous academic core and a related
+46 sequence of electives in academics, career technical education, or humani-
+47 ties aligned with the student's post-graduation goals.
+48 (31) (34) "Student success indicators" means measurable indicators of
+49 student achievement or growth, other than academic, within a predefined in-
+50 terval of time for a specified group of students. Measures and targets shall
+
+6
+1 be chosen at the district or school level in collaboration with the pupil
+2 service staff member impacted by the measures and applicable district staff.
+3 Individual measurable student achievement targets and the percentage of
+4 students meeting each target must be reported annually to the state. Student
+5 success indicators include:
+6 (a) Quantifiable goals stated in a student's 504 plan or individualized
+7 education plan.
+8 (b) Quantifiable goals stated in a student's behavior improvement
+9 plan.
+10 (c) School- or district-identified measurable student objectives for a
+11 specified student group or population.
+12 (d) The percentage of students who create student learning plans in
+13 grade 8 or who annually update their student learning plans thereafter.
+14 (e) The percentage of students who satisfactorily complete one (1) or
+15 more advanced opportunities options as identified in section 33-4602,
+16 Idaho Code, or who earn business or industry certificates or creden-
+17 tials. This indicator shall be one (1) of the required indicators for
+18 applicable staff.
+19 (32) (35) "Support program" means the educational support program as
+20 described in section 33-1002, Idaho Code, the transportation support pro-
+21 gram described in section 33-1006, Idaho Code, and the exceptional education
+22 support program as described in section 33-1007, Idaho Code.
+23 (33) (36) "Support unit" means a function of average daily attendance
+24 used in the calculations to determine financial support provided to the pub-
+25 lic school districts.
+26 (34) (37) "Teacher" means any person employed in a teaching, in-
+27 structional, supervisory, educational administrative or educational and
+28 scientific capacity the teaching or instruction of students in any school
+29 district. In case of doubt, the state board of education shall determine
+30 whether any person employed requires certification as a teacher.
+31 SECTION 2. That Section 33-512D, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 33-512D. SELF-DIRECTED LEARNER DESIGNATION. (1) A student attending
+34 public school in Idaho shall be eligible to be designated as a self-directed
+35 learner. For the purposes of this section, a "self-directed learner" means a
+36 full-time student:
+37 (a) Who demonstrates mastery of content knowledge through grades, as-
+38 sessments, or mastery-based learning rubrics;
+39 (b) Whose teacher or teachers designate the student as such. The
+40 teacher may consider the student's mastery of the content, academic
+41 growth, timeliness for assignments, self-motivation, ability to estab-
+42 lish goals, and reaching age-appropriate learning outcomes;
+43 (c) Who, starting in grade 5, demonstrates mastery of addition and mul-
+44 tiplication for numbers 0-10, as well as related subtraction and divi-
+45 sion problems, known collectively as "math facts"; and
+46 (d) Who, starting in grade 8, demonstrates an informed choice of post-
+47 secondary career and education goals by:
+48 (i) Completing and updating his student learning plan as defined
+49 in section 33-1001(30)(32), Idaho Code;
+
+7
+1 (ii) Supplementing his student learning plan, as applicable, with
+2 the following that further his postsecondary goals:
+3 1. Extended learning opportunities as defined in section
+4 33-6401, Idaho Code;
+5 2. Courses and examinations funded in chapter 46, title 33,
+6 Idaho Code; or
+7 3. Any other credits or programs permitted under Idaho Code
+8 or district policy as applicable to the student's learning
+9 plan; and
+10 (iii) Identifying and writing down self-determined personal life
+11 goals, including an explanation of how attending specific classes
+12 will lead to the fulfillment of personal life goals.
+13 (2) Each school district or public charter school may adopt a self-di-
+14 rected learner policy to provide processes:
+15 (a) Through which students may seek a self-directed learner designa-
+16 tion;
+17 (b) By which teachers may designate a student as a self-directed
+18 learner;
+19 (c) To monitor and support self-directed learners;
+20 (d) By which a student's teacher or teachers rescind the self-directed
+21 learner designation; and
+22 (e) As otherwise necessary for implementation.
+23 (3) Once a student is designated a self-directed learner, the student
+24 has the right to flexible learning. Flexible learning may be different for
+25 each student and may include flexible attendance, attending school virtu-
+26 ally, extended learning opportunities, and any other agreed-upon learning
+27 inside or outside the classroom. Starting in grade 8, flexible learning
+28 should further the student's progress toward postsecondary goals. Any flex-
+29 ible learning permitted under this section must be agreed upon by the stu-
+30 dent, his teacher or teachers, and the student's parents or legal guardian.
+31 (4) In order to remain a self-directed learner, the student must meet
+32 criteria agreed upon by him, his teacher or teachers, and his parents or le-
+33 gal guardian. Criteria may include continued mastery of content knowledge
+34 and skills, academic growth, progress toward postsecondary goals, or other
+35 measures of student learning. If a student fails to meet the agreed-upon
+36 criteria or fails to stay current on classroom assignments, and does not cure
+37 the failure within an agreed-upon time frame, the building administrator
+38 shall rescind the self-directed learner designation upon recommendation by
+39 the teacher or teachers.
+40 (5) A self-directed learner will be reported as enrolled as one (1.0)
+41 FTE or in attendance for a full day in school for the purpose of calculat-
+42 ing support units and public school funding. The district or charter school
+43 will receive full funding for its self-directed learners, regardless of at-
+44 tendance or actual hours of instruction up to one (1) full day of attendance
+45 or one (1.0) FTE, or the remaining day or FTE if the student is shared between
+46 two (2) or more school districts or public charter schools.
+47 (6) Each school district or public charter school must report the num-
+48 ber of self-directed learners to the state department of education annually.
+49 SECTION 3. That Section 33-515, Idaho Code, be, and the same is hereby
+50 amended to read as follows:
+
+8
+1 33-515. ISSUANCE OF RENEWABLE CONTRACTS. (1) During the third full
+2 year of continuous employment by the same school district, including any
+3 specially chartered district, each certificated employee named in subsec-
+4 tion (34) (24) or (36) of section 33-1001, Idaho Code, and each school nurse
+5 and school librarian who has obtained a professional endorsement under
+6 section 33-1201A, Idaho Code, shall be evaluated for a renewable contract
+7 and shall, upon having been offered a contract for the next ensuing year,
+8 and upon signing and timely returning a contract for a fourth full year, be
+9 placed on a renewable contract status with said school district entitling
+10 such individual to the right to automatic renewal of contract, subject to the
+11 provisions included in this chapter, provided that instructional staff who
+12 have not obtained a professional endorsement under section 33-1201A, Idaho
+13 Code, may not be placed on a renewable contract status, provided however, if
+14 the career ladder pursuant to section 33-1004B, Idaho Code, is not funded,
+15 then a professional endorsement shall not be required. Additionally, any
+16 individual who has not successfully completed the three (3) year nontradi-
+17 tional route program while on a three (3) year interim certificate and has
+18 not yet been issued a five (5) year renewable certificate may not be placed on
+19 a renewable contract. Such individual will remain on a category 3 contract,
+20 even after serving three (3) continuous years of employment with the same
+21 school district.
+22 (2) At least once annually, the performance of each renewable contract
+23 certificated employee, school nurse, or school librarian shall be evaluated
+24 according to criteria and procedures established by the board of trustees in
+25 accordance with general guidelines approved by the state board of education.
+26 Such an evaluation shall be completed no later than June 1 of each year. The
+27 evaluation shall include a minimum of two (2) documented observations, one
+28 (1) of which shall be completed prior to January 1 of each year.
+29 (3) Any contract automatically renewed under the provisions of this
+30 section may be renewed for a shorter term, longer term or the same length
+31 of term as stated in the current contract and at a greater, lesser or equal
+32 salary as that stated in the current contract. Absent the board's applica-
+33 tion of a formal reduction in force, renewals of standard teacher contracts
+34 may be for a shorter term, longer term or the same length of term as stated
+35 in the current standard teacher contract and at a greater, lesser or equal
+36 salary, and shall be uniformly applied to all employees based upon the dis-
+37 trict's adopted salary schedule to the extent allowable in section 33-1004E,
+38 Idaho Code.
+39 (a) Contracts issued pursuant to this section shall be issued on or be-
+40 fore the first day of July each year.
+41 (b) At the discretion of the board, the district may issue letters of
+42 intent for employment for the next ensuing school year to renewable
+43 contract status employees during May of each school year. Such let-
+44 ter of intent shall not state a specific duration of the contract or
+45 salary/benefits term for the next ensuing school year.
+46 (c) Unless otherwise negotiated and ratified by both parties pursuant
+47 to section 33-1271 et seq., Idaho Code, standard teacher renewals for
+48 terms shorter in length than that stated in the current standard con-
+49 tract of renewable certificated employees, should be considered and im-
+50 plemented only after the district has determined that the salary-based
+
+9
+1 apportionment reimbursement that it estimates it will receive for the
+2 ensuing school year is less than the sum the district would otherwise be
+3 paying for salaries for certificated professional employees.
+4 (4) Nothing in this section shall prevent the board of trustees from of-
+5 fering a renewed contract increasing the salary of any certificated person,
+6 or from reassigning an administrative employee to a nonadministrative posi-
+7 tion with appropriate reduction of salary from the preexisting salary level.
+8 In the event the board of trustees reassigns an administrative employee to a
+9 nonadministrative position, the board shall give written notice to the em-
+10 ployee that contains a statement of the reasons for the reassignment. The
+11 employee, upon written request to the board, shall be entitled to an informal
+12 review of that decision. The process and procedure for the informal review
+13 shall be determined by the local board of trustees.
+14 (5) Before a board of trustees can determine not to renew for reasons of
+15 an unsatisfactory report of the performance of any certificated person whose
+16 contract would otherwise be automatically renewed, such person shall be en-
+17 titled to a reasonable period of probation. This period of probation shall
+18 be preceded by a written notice from the board of trustees with reasons for
+19 such probationary period and with provisions for adequate supervision and
+20 evaluation of the person's performance during the probationary period. Such
+21 period of probation shall not affect the person's renewable contract status.
+22 Consideration of probationary status for certificated personnel is consid-
+23 eration of the status of an employee within the meaning of section 74-206,
+24 Idaho Code, and may be held in executive session. If the consideration re-
+25 sults in probationary status, the individual on probation shall not be named
+26 in the minutes of the meeting. A record of the decision shall be placed in the
+27 teacher's personnel file.
+28 (6) If the board of trustees takes action to immediately discharge
+29 or discharge upon termination of the current contract a certificated per-
+30 son whose contract would otherwise be automatically renewed, the action
+31 of the board shall be consistent with the procedures specified in section
+32 33-513(5), Idaho Code, and, furthermore, the board shall notify the employee
+33 in writing whether there is just and reasonable cause not to renew the con-
+34 tract or to reduce the salary of the affected employee, and, if so, what
+35 reasons it relied upon in that determination.
+36 (7) If the board of trustees takes action after the declaration of a fi-
+37 nancial emergency pursuant to section 33-522, Idaho Code, and such action is
+38 directed at more than one (1) certificated employee, and if mutually agreed
+39 to by both parties, a single informal review shall be conducted. Without
+40 mutual consent of both parties, the board of trustees shall use the follow-
+41 ing procedure to conduct a single due process hearing within sixty-seven
+42 (67) days of the declaration of financial emergency pursuant to section
+43 33-522(2), Idaho Code, or on or before June 22, whichever shall occur first:
+44 (a) The superintendent or any other duly authorized administrative of-
+45 ficer of the school district may recommend the change in the length of
+46 the term stated in the current contract or reduce the salary of any cer-
+47 tificated employee by filing with the board of trustees written notice
+48 specifying the purported reasons for such changes.
+49 (b) Upon receipt of such notice, the board of trustees, acting through
+50 its duly authorized administrative official, shall give the affected
+
+10
+1 employees written notice of the reductions and the recommendation of
+2 the change in the length of the term stated in the current contract or
+3 the reduction of salary, along with written notice of a hearing be-
+4 fore the board of trustees prior to any determination by the board of
+5 trustees.
+6 (c) The hearing shall be scheduled to take place not less than six (6)
+7 days nor more than fourteen (14) days after receipt of the notice by the
+8 employees. The date provided for the hearing may be changed by mutual
+9 consent.
+10 (d) The hearing shall be open to the public.
+11 (e) All testimony at the hearing shall be given under oath or affirma-
+12 tion. Any member of the board, or the clerk of the board of trustees, may
+13 administer oaths to witnesses or affirmations by witnesses.
+14 (f) The employees may be represented by legal counsel and/or by a repre-
+15 sentative of a local or state education association.
+16 (g) The chairman of the board of trustees or the designee of the chair-
+17 man shall conduct the hearing.
+18 (h) The board of trustees shall cause an electronic record of the hear-
+19 ing to be made or shall employ a competent reporter to take stenographic
+20 or stenotype notes of all the testimony at the hearing. A transcript of
+21 the hearing shall be provided at cost by the board of trustees upon re-
+22 quest of the employee.
+23 (i) At the hearing, the superintendent or other duly authorized admin-
+24 istrative officer shall present evidence to substantiate the reduction
+25 contained in such notice.
+26 (j) The employees may produce evidence to refute the reduction. Any
+27 witness presented by the superintendent or by the employees shall be
+28 subject to cross-examination. The board of trustees may also examine
+29 witnesses and be represented by counsel.
+30 (k) The affected employees may file written briefs and arguments with
+31 the board of trustees within three (3) days after the close of the hear-
+32 ing or such other time as may be agreed upon by the affected employees
+33 and the board of trustees.
+34 (l) Within seven (7) days following the close of the hearing, the board
+35 of trustees shall determine and, acting through its duly authorized ad-
+36 ministrative official, shall notify the employees in writing whether
+37 the evidence presented at the hearing established the need for the ac-
+38 tion taken.
+39 The due process hearing pursuant to this subsection shall not be required if
+40 the board of trustees and the local education association reach an agreement
+41 on issues agreed upon pursuant to section 33-522(3), Idaho Code.
+42 (8) If the board of trustees, for reasons other than unsatisfactory
+43 service, for the ensuing contract year, determines to change the length of
+44 the term stated in the current contract, reduce the salary or not renew the
+45 contract of a certificated person whose contract would otherwise be automat-
+46 ically renewed, nothing herein shall require a probationary period.
+47 (9) If the board of trustees, for reasons other than unsatisfactory
+48 service, for the ensuing contract year, determines to change the length
+49 of the term stated in the current contract or reduce the salary of a cer-
+50 tificated person whose contract would otherwise be automatically renewed,
+
+11
+1 nothing herein shall require any individualized due process proceeding. In
+2 such circumstance, the board shall hold a single informal review for all im-
+3 pacted employees. The process and procedure for the single informal review
+4 shall be determined by the local board of trustees.
+5 SECTION 4. That Section 33-911, Idaho Code, be, and the same is hereby
+6 amended to read as follows:
+7 33-911. SCHOOL DISTRICT FACILITIES FUND. (1) There is hereby cre-
+8 ated in the state treasury the school district facilities fund. The fund
+9 shall consist of moneys provided pursuant to sections 57-811, 63-3638, and
+10 67-7434, Idaho Code, and any legislative transfers or appropriations. In-
+11 terest earned from the investment of moneys in the fund shall be returned to
+12 the fund. Moneys in the fund are hereby continuously appropriated for the
+13 purposes stated in this section.
+14 (2) The moneys in the fund shall be distributed by the state controller
+15 to the state department of education by August 1 each year for the purpose of
+16 construction or renovation of school facilities. The moneys shall be dis-
+17 tributed by the state department of education to each school district, as
+18 defined in section 33-1001(21)(23), Idaho Code, first as provided in sub-
+19 section (7) of this section and then on a per-pupil basis using the average
+20 daily attendance calculation provided in section 33-1003A, Idaho Code, for
+21 each student in kindergarten through grade 12 at physical facilities that
+22 are part of and on school grounds of the school district in which the student
+23 is enrolled with verification, as needed, by the office of the state board
+24 of education. Upon formal approval by the state board of education, a school
+25 district may receive an exemption to the physical facility requirement pur-
+26 suant to this subsection if the student would have attended a physical facil-
+27 ity in the school district if not for a stated emergency. The state depart-
+28 ment of education shall transfer the moneys by no later than August 31 each
+29 year to each school district. Such moneys shall be used in place of property
+30 tax levy moneys and shall be expended by a school district for one (1) or more
+31 of the purposes set forth in paragraphs (a) through (f) of this subsection.
+32 Moneys in the fund must be used by a school district in the following order of
+33 priority:
+34 (a) Payment of existing school bonds authorized pursuant to chapter 11,
+35 title 33, Idaho Code, and issued prior to July 1, 2025;
+36 (b) Payments required pursuant to section 33-909, Idaho Code;
+37 (c) Payment of existing school bonds authorized pursuant to chapter 11,
+38 title 33, Idaho Code, and issued on or after July 1, 2025;
+39 (d) Payment of supplemental school levies authorized pursuant to sec-
+40 tion 33-802, Idaho Code, excluding indefinite term supplemental levies
+41 described in section 33-802(5), Idaho Code;
+42 (e) Payment of school plant facility levies authorized pursuant to sec-
+43 tions 33-804 and 33-804A, Idaho Code; and
+44 (f) Any moneys that remain following the payments provided in para-
+45 graphs (a) through (e) of this subsection may be: used for construction
+46 of a new school facility, renovation, or maintenance needs; used to
+47 secure and make payments on a new school facilities bond; or saved in
+48 a reserve account by the school district for future school facility
+49 needs. Uses of funds shall include regular and routine facilities
+
+12
+1 maintenance, including preventive maintenance, building repairs, and
+2 building security, and periodic major facilities projects that involve
+3 planning, design, construction, renovation, retrofitting, and replac-
+4 ing of buildings and building systems, components, and features, as
+5 well as site acquisition, site improvements, and new construction.
+6 (3) The amount of moneys received by a school district pursuant to this
+7 section must be deducted from a school levy that would otherwise have been
+8 paid by property taxpayers. Such moneys may not be duplicated by the collec-
+9 tion of property tax, and no property taxes may be collected in order to make
+10 extra payments on expenses described in subsection (2) of this section in ex-
+11 cess of required amounts.
+12 (4) Each school district shall identify the amount received in the cur-
+13 rent year pursuant to this section in the certification of its budget in ac-
+14 cordance with section 63-803, Idaho Code. Said amount must be subtracted
+15 from the amount to be levied. The amount of moneys thereby saved from being
+16 collected by a property tax levy shall be reported on each property tax no-
+17 tice pursuant to section 63-902, Idaho Code.
+18 (5) Each school district shall report annually to the state department
+19 of education, in a manner prescribed by it, on the expenditure of moneys it
+20 has received pursuant to this section. The state department of education
+21 shall present the reports to the legislature each January.
+22 (6) For the purposes of this section, the Idaho school for the deaf and
+23 the blind shall be considered a school district and shall receive a distribu-
+24 tion based on the average daily attendance of the school.
+25 (7)(a) For state fiscal year 2025 only, any school district that would
+26 have received support from the bond levy equalization support program
+27 for a qualified bond passed prior to January 1, 2024, and for which prop-
+28 erty taxes were levied in property tax year 2023 pursuant to the amount
+29 intended by the bond shall receive a distribution of funds from the dis-
+30 tribution provided under subsection (2) of this section of at least as
+31 much as would have been provided through bond levy equalization support
+32 on July 1, 2024.
+33 (b) For state fiscal year 2026 only, any school district that would have
+34 received support from the bond levy equalization support program for a
+35 qualified bond passed prior to January 1, 2024, and for which property
+36 taxes were levied in property tax year 2024 pursuant to the amount in-
+37 tended by the bond shall receive a distribution of funds from the dis-
+38 tribution provided under subsection (2) of this section of at least as
+39 much as would have been provided through bond levy equalization support
+40 on July 1, 2025.
+41 (c) The state department of education may adjust distributions for re-
+42 maining districts proportionally as necessary pursuant to this para-
+43 graph. On and after July 1, 2024, school districts may use funds pro-
+44 vided in this section and section 33-913, Idaho Code, to offset the bond
+45 levy equalization support.
+46 SECTION 5. That Section 33-915, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+48 33-915. FIXED DISTRIBUTION -- SCHOOL MODERNIZATION FACILITIES FUND.
+49 (1) The state department of education shall establish a fixed distribution
+
+13
+1 of funds to be made available for voluntary election to each school district
+2 subject to the conditions in this section.
+3 (a) The distribution shall be calculated in state fiscal year 2025
+4 for each school district, as defined in section 33-1001(21)(23), Idaho
+5 Code, that is in operation as of July 1, 2024.
+6 (b) The distribution shall be calculated by multiplying the following
+7 two (2) factors, both of which shall be based on the most recent data
+8 available in the state fiscal year coinciding with the distribution
+9 calculation:
+10 (i) Calculate the per-pupil amount, using the average daily at-
+11 tendance calculation provided in section 33-1003A, Idaho Code,
+12 for each student in kindergarten through grade 12 at physical
+13 facilities that are part of and on school grounds of the school
+14 district in which the student is enrolled with verification, as
+15 needed, by the office of the state board of education. Upon formal
+16 approval by the state board of education, a school district may re-
+17 ceive an exemption to the physical facility requirement pursuant
+18 to this subsection if the student would have attended a physical
+19 facility in the school district if not for a stated emergency; and
+20 (ii) Calculate, together with the Idaho state building authority,
+21 the total amount that a bond issuance would generate, based on the
+22 amount established in section 63-3638(19), Idaho Code.
+23 (c) In no case shall the amount awarded to any school district be less
+24 than twenty-five thousand dollars ($25,000) over the ten (10) year pe-
+25 riod.
+26 (d) In no case shall the amount awarded to any school district with an
+27 active charter district maintenance and operation levy pursuant to sec-
+28 tion 33-802(6), Idaho Code, or a charter district supplemental mainte-
+29 nance and operation levy pursuant to section 33-802(4), Idaho Code, ex-
+30 ceed forty million dollars ($40,000,000) over the ten (10) year period.
+31 Excess funds shall be distributed proportionately according to the
+32 factors established in paragraph (b) of this subsection to remaining
+33 school districts that received initial allocations below forty million
+34 dollars ($40,000,000). Any districts receiving reallocations under
+35 this paragraph shall not exceed forty million dollars ($40,000,000).
+36 (e) For the purposes of this section, the Idaho school for the deaf and
+37 the blind shall be considered a school district and shall receive a dis-
+38 tribution based on the average daily attendance of the school.
+39 (2) The provisions of this section shall be null, void, and of no force
+40 and effect on and after June 30, 2034.
+41 SECTION 6. That Section 33-1201, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 33-1201. CERTIFICATE REQUIRED. (1) Every person who is employed to
+44 serve in any elementary or secondary school in the capacity of teacher,
+45 supervisor, administrator, education specialist, school nurse or school
+46 librarian or pupil service staff shall be required to have and to hold a
+47 certificate issued under authority of the state board of education, valid
+48 for the service being rendered; except that the state board of education may
+49 authorize endorsement for use in Idaho, for not more than five (5) years,
+
+14
+1 certificates valid in other states when the qualifications therefor are not
+2 lower than those required for an Idaho certificate.
+3 (2) No certificate shall be required of a student who is attending any
+4 teacher-training institution and serving as a practice teacher or teacher
+5 apprentice in a state board of education-approved registered apprenticeship
+6 program for teachers in a classroom under the supervision of a certificated
+7 teacher and who is jointly assigned by such teacher-training institution and
+8 the governing board of a district or a public institution to perform practice
+9 teaching.
+10 (3) A student, while serving in a practicum, internship, apprentice-
+11 ship, or student teaching position under the supervision of a person cer-
+12 tificated pursuant to this section, shall be accorded the same liability in-
+13 surance coverage by the school district being served as that accorded such
+14 certificated person in the same district, and such student shall comply with
+15 all rules and regulations of the school district or public institution while
+16 serving in such a capacity.
+17 SECTION 7. That Section 33-1201A, Idaho Code, be, and the same is hereby
+18 amended to read as follows:
+19 33-1201A. IDAHO PROFESSIONAL ENDORSEMENT -- ELIGIBILITY. (1) Any in-
+20 structional staff employee or any pupil service staff employee will receive
+21 mentoring as outlined in such employee's individualized professional learn-
+22 ing plan during the initial three (3) years of holding such certificate.
+23 Upon holding a certificate for three (3) years, any such instructional staff
+24 or pupil service staff employee may apply for an Idaho professional endorse-
+25 ment. Upon holding a professional endorsement for five (5) years or more,
+26 any such instructional staff or pupil service staff employee may apply for an
+27 Idaho advanced professional endorsement. Individuals who hold an instruc-
+28 tional staff certificate and a pupil service staff certificate shall have
+29 their experience based on the overall years of experience if held consecu-
+30 tively or the certificate they have held the longest if dually certificated.
+31 (2) To be eligible for an Idaho professional endorsement, the instruc-
+32 tional staff or pupil service staff employee must:
+33 (a) Have held a certificate and been employed in a public school for at
+34 least three (3) years or have completed a state board of education-ap-
+35 proved interim certificate of three (3) years or longer;
+36 (b) Show they met the professional compensation rung performance cri-
+37 teria for two (2) of the three (3) previous years or the third year;
+38 (c) Have a written recommendation from the employing school district;
+39 and
+40 (d) Have an annual individualized professional learning plan developed
+41 in conjunction with the employee's school district supervisor.
+42 Instructional staff employees may provide additional evidence demonstrat-
+43 ing effective teaching that may be considered in exceptional cases for
+44 purposes of determining proficiency and student achievement in the event
+45 required standards for professional endorsement are not met. Pupil service
+46 staff employees may provide additional evidence demonstrating effective
+47 student achievement or success that may be considered in exceptional cases
+48 for purposes of determining proficiency and student achievement or success
+49 in the event required standards for professional endorsement are not met.
+
+15
+1 (3) To be eligible for an Idaho advanced professional endorsement, the
+2 instructional staff or pupil service staff employee must:
+3 (a) Have held a renewable certificate and been employed in a public
+4 school for at least eight (8) years or more or have completed a state
+5 board of education-approved interim certificate of three (3) years or
+6 longer and held a renewable certificate and been employed in a public
+7 school for five (5) years or more;
+8 (b) Show they met the professional compensation rung performance cri-
+9 teria for four (4) of the five (5) previous years or the third, fourth,
+10 and fifth year;
+11 (c) During three (3) of the previous five (5) years, have served in
+12 an additional building or district leadership role in an Idaho public
+13 school, including but not limited to:
+14 (i) Instructional specialist or instructional coach;
+15 (ii) Mentor;
+16 (iii) Curriculum or assessment committee member;
+17 (iv) Team or committee leadership position;
+18 (v) Data coach; or
+19 (vi) Other leadership positions identified by the school dis-
+20 trict;
+21 (d) Have a written recommendation from the employing school district;
+22 (e) Have an annual individualized professional learning plan developed
+23 in conjunction with the employee's supervisor and a self-evaluation;
+24 and
+25 (f)(i) Effective July 1, 2020, through June 30, 2021, show they
+26 have met the advanced professional compensation rung performance
+27 criteria for three (3) of the five (5) previous years or the fifth
+28 year;
+29 (ii) Effective July 1, 2021, through June 30, 2022, show they have
+30 met the advanced professional compensation rung performance cri-
+31 teria for three (3) of the five (5) previous years or the fourth and
+32 fifth year; or
+33 (iii) Effective July 1, 2022, show they have met the advanced pro-
+34 fessional compensation rung performance criteria for three (3) of
+35 the five (5) previous years.
+36 Instructional staff employees may provide additional evidence demon-
+37 strating effective teaching that may be considered in exceptional cases
+38 for purposes of determining proficiency and student achievement in the
+39 event required standards for the advanced professional endorsement are not
+40 met. Pupil service staff employees may provide additional evidence demon-
+41 strating effective student achievement or success that may be considered
+42 in exceptional cases for purposes of determining proficiency and student
+43 achievement or success in the event required standards for the advanced pro-
+44 fessional endorsement are not met.
+45 (4) Instructional staff and pupil service staff who have been certified
+46 in another state shall be eligible for the professional endorsement if they:
+47 (a) Have a written recommendation from the employing school district;
+48 (b) Have worked in a certificated position in a compact-member state
+49 other than Idaho pursuant to section 33-4104, Idaho Code; and
+
+16
+1 (c) Would have been eligible to work in a certificated position in an
+2 Idaho public school based on that certification for three (3) to eight
+3 (8) years.
+4 (5) Instructional staff and pupil service staff who have been certified
+5 in another state shall be eligible for the advanced professional endorsement
+6 if they:
+7 (a) Have a written recommendation from the employing school district;
+8 (b) Have worked in a certificated position in a compact-member state
+9 other than Idaho pursuant to section 33-4104, Idaho Code; and
+10 (c) Would have been eligible to work in a certificated position in an
+11 Idaho public school based on that certification for nine (9) years or
+12 more.
+13 (6) Instructional staff and pupil service staff who have worked in
+14 an accredited private school and maintained their instructional or pupil
+15 service staff certification may use their years of private school work ex-
+16 perience to meet the years of experience requirements for the professional
+17 and advanced professional endorsement. Such staff may provide additional
+18 evidence demonstrating effective teaching that may be considered in excep-
+19 tional cases for purposes of determining proficiency and student achieve-
+20 ment requirements for professional and advanced professional eligibility
+21 criteria.
+22 (7) Individuals holding a professional endorsement or an advanced pro-
+23 fessional endorsement will be annually evaluated in at least two (2) domains
+24 in the state evaluation framework approved by the state board of education.
+25 All other instructional or pupil service staff employees must be evaluated
+26 across all domains in the evaluation framework. Ratings in the domains de-
+27 scribed in section 33-1001(20)(b)(22)(b), Idaho Code, are required as part
+28 of the advanced professional compensation rung performance criteria.
+29 (8) The state board of education shall promulgate rules implementing
+30 the provisions of this section.
+31 (9) For the purposes of this section:
+32 (a) "Certificate" means an Idaho instructional certificate, pupil
+33 service staff certificate, or out-of-state educator certificate that
+34 meets the requirements for reciprocity under rules promulgated by the
+35 state board of education;
+36 (b) In conjunction with the Idaho evaluation framework, "individual-
+37 ized professional learning plan" means an individualized professional
+38 development plan based on the Idaho framework for teaching evaluation
+39 and includes, at a minimum, identified interventions based on the indi-
+40 vidual's strengths and areas of needed growth, how the individual will
+41 set student achievement and growth goals, and areas of identified pro-
+42 fessional development and mentoring that target continuous improvement
+43 in professional areas, future student achievement, and school building
+44 or district culture;
+45 (c) "Instructional staff" means those involved in the direct instruc-
+46 tion of a student or group of students and who hold a certificate issued
+47 under section 33-1201, Idaho Code;
+48 (d) "Pupil service staff" means those who provide services to students
+49 but are not involved in direct instruction of those students and who
+50 hold a certificate issued under section 33-1201, Idaho Code; and
+
+17
+1 (e) "School district" means a school district or a public charter
+2 school.
+3 SECTION 8. That Section 33-1204, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 33-1204. VALIDITY, DURATION, RENEWAL, AND LAPSE OF CERTIFICATES --
+6 LIFETIME INSTRUCTIONAL AND LIFETIME ADMINISTRATOR CERTIFICATES. (1) The
+7 state board of education shall by rule provide for the validity, duration,
+8 renewal, and lapse of certificates. In addition, rules promulgated by the
+9 state board of education shall set forth criteria for renewal of adminis-
+10 trator certificates, which shall include a requirement that administrator
+11 certificate holders must complete a course consisting of a minimum of three
+12 (3) semester credits in the statewide framework for teachers' evaluations.
+13 Such course shall include a laboratory component.
+14 (2) If the holder of a certificate who has undergone a criminal history
+15 check pursuant to district policy as provided in section 33-512(15), Idaho
+16 Code, is found to have been convicted of any felony crime enumerated in sec-
+17 tion 33-1208, Idaho Code, the certificate shall be revoked or suspended as
+18 provided in this chapter.
+19 (3) The state board of education may by rule require professional de-
+20 velopment credits as a condition of certificate renewal, provided that such
+21 rule must recognize providing instruction in a professional development
+22 course or in a course at an institution of higher education as an option to
+23 complete required credits.
+24 (4) The state board of education may, subject to legislative approval,
+25 establish rules to provide for the issuance of a lifetime instructional
+26 certificate, a pupil service staff certificate, or a lifetime administra-
+27 tor certificate to any certificated teacher or administrator staff who has
+28 accumulated at least twenty-five (25) years of combined teaching and ad-
+29 ministration certificated experience in an Idaho school district, a public
+30 charter school in Idaho, or an equivalent public school system in another
+31 jurisdiction. Experience in either teaching or administration any certifi-
+32 cated position may be applied toward the total required years for either the
+33 certificate. Such certificate shall:
+34 (a) Be issued at no cost to the teacher or administrator Idaho certifi-
+35 cated individual;
+36 (b) Not require any ongoing reporting, maintenance, or professional
+37 development from the teacher or administrator Idaho certificated indi-
+38 vidual; and
+39 (c) Be valid for the duration of the teacher's or administrator's Idaho
+40 certificated individual's lifetime, provided that the teacher or ad-
+41 ministrator Idaho certificated individual does not engage in any pro-
+42 fessional misconduct that would warrant revocation pursuant to section
+43 33-1208, Idaho Code.
+44 SECTION 9. That Section 33-1636, Idaho Code, be, and the same is hereby
+45 amended to read as follows:
+46 33-1636. INNOVATION CLASSROOMS. (1) For purposes of this section:
+
+18
+1 (a) "Alternative curriculum" means a curriculum in one (1) or more sub-
+2 ject areas that is different than the curriculum in such area or areas
+3 offered by a school district. An alternative curriculum may encompass
+4 one (1) or more subject areas but must include, at a minimum, an alterna-
+5 tive curriculum in mathematics, history, English language arts, or sci-
+6 ence.
+7 (b) "Innovation classroom" means a classroom in which an alternative
+8 curriculum is offered.
+9 (c) "Requesting party" means a person or group of persons that requests
+10 an innovation classroom agreement from a school district. Such person
+11 or group must include:
+12 (i) A certified teacher or teachers in a school district; or
+13 (ii) A parent or parents whose child or children attend school in a
+14 school district.
+15 (2) A school district may enter into an innovation classroom agreement
+16 with a requesting party if the requesting party represents a group of stu-
+17 dents that is equal to or greater than the average class size in the school.
+18 The school district must indicate willingness or nonwillingness to enter
+19 into negotiation within sixty (60) days of the receipt of the request.
+20 (3) An innovation classroom agreement must include:
+21 (a) The name of any teacher or other certificated staff member who will
+22 be working in the innovation classroom. Any such teacher must be agreed
+23 upon by the school district and the parents of the students who will be
+24 receiving instruction in the innovation classroom;
+25 (b) The names of the students participating in the innovation class-
+26 room;
+27 (c) A description of how and where the innovation classroom's instruc-
+28 tion will take place and whether instruction will include in-person,
+29 hybrid, or virtual components. If requested, the school district must
+30 provide a classroom for the innovation classroom;
+31 (d) Growth criteria or other measures of student learning, such as
+32 those found in section 33-1001(18)(19), Idaho Code;
+33 (e) The alternative curriculum and instructional materials to be used
+34 in the innovation classroom. The parents of the participating students
+35 must agree to the alternative curriculum, and the school district will
+36 determine whether the alternative curriculum meets state standards and
+37 recommend ways to supplement the alternative curriculum, if applica-
+38 ble;
+39 (f) A description of an innovation classroom student's access to or
+40 use of the school district's transportation, playground, cafeteria,
+41 after-school activities, special education, and other services or fa-
+42 cilities; and
+43 (g) The date upon which the innovation classroom will start.
+44 (4) Students in an innovation classroom may use transportation ser-
+45 vices offered by the school district if the schedule of the innovation class-
+46 room is consistent with the school district's schedule or if the parties
+47 provide for transportation services in the innovation classroom agreement.
+48 (5) For purposes of compensation, any teacher or other certificated
+49 staff member working in an innovation classroom will be an employee of the
+50 school district and will be entitled to receive or participate in the public
+
+19
+1 employee retirement system of Idaho, federal social security, unemployment
+2 insurance, worker's compensation, health insurance, and other benefits and
+3 compensation to the same extent as other employees in the school district.
+4 (6) Students enrolled in an innovation classroom will be enrolled in
+5 the school district for the purpose of calculating educational support pro-
+6 gram funds apportioned to the school district. The school district must ap-
+7 portion funds for instructional use in an innovation classroom in an amount
+8 substantially similar to funds apportioned for instruction of students at
+9 the same grade level who do not participate in the innovation classroom.
+10 (7) Students participating in an innovation classroom will not be in-
+11 cluded in the public school accountability results for the school district
+12 unless the school district so desires or such inclusion is required by appli-
+13 cable law or rule. The school district will not be responsible for services
+14 for participating students, except those services described in the innova-
+15 tion classroom agreement.
+16 (8) Students in an innovation classroom must take any required state
+17 testing.
+18 (9) Innovation classrooms must:
+19 (a) Comply with the conditions or procedures established in the innova-
+20 tion classroom agreement; and
+21 (b) Comply with applicable laws, including state, federal, and local
+22 laws prohibiting discrimination and laws governing safety, including
+23 but not limited to sections 33-122 and 33-130, Idaho Code.
+24 SECTION 10. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

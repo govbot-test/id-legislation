@@ -1,0 +1,2158 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 555
+BY LOCAL GOVERNMENT COMMITTEE
+1 AN ACT
+2 RELATING TO SOLID WASTE FACILITIES; AMENDING SECTION 39-105, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING THE POWERS AND DUTIES OF THE DIRECTOR OF THE
+4 IDAHO DEPARTMENT OF ENVIRONMENTAL QUALITY; AMENDING SECTION 39-414,
+5 IDAHO CODE, TO REVISE PROVISIONS REGARDING THE POWERS AND DUTIES OF
+6 THE DISTRICT BOARD OF HEALTH; AMENDING SECTION 39-7401, IDAHO CODE, TO
+7 REVISE LEGISLATIVE FINDINGS AND PURPOSES OF THE SOLID WASTE FACILITIES
+8 ACT; AMENDING SECTION 39-7402, IDAHO CODE, TO REVISE PROVISIONS RE-
+9 GARDING THE APPLICABILITY OF THE ACT; AMENDING SECTION 39-7403, IDAHO
+10 CODE, TO REVISE DEFINITIONS; AMENDING SECTION 39-7404, IDAHO CODE, TO
+11 REVISE PROVISIONS REGARDING CONSISTENCY WITH FEDERAL LAW; AMENDING
+12 SECTION 39-7406, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE RESPEC-
+13 TIVE ROLES OF COUNTY, DIRECTOR, AND HEALTH DISTRICT; AMENDING SECTION
+14 39-7408, IDAHO CODE, TO REVISE PROVISIONS REGARDING THE SITE CERTIFI-
+15 CATION PROCESS; REPEALING SECTION 39-7408A, IDAHO CODE, RELATING TO
+16 SITE CERTIFICATION PROCEDURES FOR COMMERCIAL SOLID WASTE FACILITIES;
+17 REPEALING SECTION 39-7408B, IDAHO CODE, RELATING TO SITE REVIEW PAN-
+18 ELS; REPEALING SECTION 39-7408C, IDAHO CODE, RELATING TO SITING LICENSE
+19 APPLICATIONS; REPEALING SECTION 39-7408D, IDAHO CODE, RELATING TO THE
+20 DUTIES OF THE DIRECTOR RELATIVE TO SITING APPLICATIONS; AMENDING CHAP-
+21 TER 74, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-7409,
+22 IDAHO CODE, TO ESTABLISH PROVISIONS FOR CO-LOCATED WASTE FACILITIES;
+23 AMENDING SECTION 39-7409, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+24 THE STANDARDS FOR DESIGN AND TO REDESIGNATE THE SECTION; AMENDING SEC-
+25 TION 39-7410, IDAHO CODE, TO REVISE PROVISIONS REGARDING GROUND WATER
+26 MONITORING DESIGN AND TO REDESIGNATE THE SECTION; AMENDING SECTION
+27 39-7411, IDAHO CODE, TO REVISE PROVISIONS REGARDING DESIGN REVIEW PRO-
+28 CEDURES AND TO REDESIGNATE THE SECTION; AMENDING SECTION 39-7412, IDAHO
+29 CODE, TO REVISE PROVISIONS REGARDING STANDARDS FOR OPERATION AND TO RE-
+30 DESIGNATE THE SECTION; AMENDING SECTION 39-7413, IDAHO CODE, TO REVISE
+31 PROVISIONS REGARDING OPERATIONS PLAN REVIEWS AND TO REDESIGNATE THE
+32 SECTION; AMENDING SECTION 39-7414, IDAHO CODE, TO REVISE PROVISIONS RE-
+33 GARDING ASSESSMENT MONITORING AND CORRECTIVE ACTION AND TO REDESIGNATE
+34 THE SECTION; AMENDING SECTION 39-7415, IDAHO CODE, TO REVISE PROVISIONS
+35 REGARDING STANDARDS FOR CLOSURE AND TO REDESIGNATE THE SECTION; AMEND-
+36 ING SECTION 39-7416, IDAHO CODE, TO REVISE PROVISIONS REGARDING STAN-
+37 DARDS FOR POST-CLOSURE CARE AND TO REDESIGNATE THE SECTION; AMENDING
+38 SECTION 39-7417, IDAHO CODE, TO REVISE PROVISIONS REGARDING FINANCIAL
+39 ASSURANCE FOR CLOSURE, POST-CLOSURE CARE, AND CORRECTIVE ACTION AND
+40 TO REDESIGNATE THE SECTION; AMENDING SECTION 39-7418, IDAHO CODE, TO
+41 REVISE PROVISIONS REGARDING MODIFICATIONS TO SITES APPROVED UNDER THE
+42 CHAPTER AND TO REDESIGNATE THE SECTION; AMENDING CHAPTER 74, TITLE 39,
+43 IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-7420, IDAHO CODE, TO ES-
+44 TABLISH GENERAL PROVISIONS FOR THE APPLICATION PROCESS; AMENDING CHAP-
+45 TER 74, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-7421,
+
+2
+1 IDAHO CODE, TO ESTABLISH PROVISIONS FOR PUBLIC REVIEW AND APPROVAL OF
+2 APPLICATIONS; AMENDING CHAPTER 74, TITLE 39, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW SECTION 39-7422, IDAHO CODE, TO ESTABLISH PROVISIONS FOR
+4 ADMINISTRATIVE REVIEW AND APPROVAL OF APPLICATIONS; AMENDING CHAPTER
+5 74, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 39-7423, IDAHO
+6 CODE, TO ESTABLISH PROVISIONS FOR RECONCILIATION PROCEDURES AND AD-
+7 MINISTRATIVE AND JUDICIAL REVIEW; AMENDING CHAPTER 74, TITLE 39, IDAHO
+8 CODE, BY THE ADDITION OF A NEW SECTION 39-7424, IDAHO CODE, TO IMPOSE
+9 FEES; AMENDING CHAPTER 74, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW
+10 SECTION 39-7425, IDAHO CODE, TO ESTABLISH PROVISIONS FOR THE COLLEC-
+11 TION OF FEES AND REPORTING; AMENDING CHAPTER 74, TITLE 39, IDAHO CODE,
+12 BY THE ADDITION OF A NEW SECTION 39-7426, IDAHO CODE, TO ESTABLISH THE
+13 SOLID WASTE REGULATORY FUND; AMENDING SECTION 39-7419, IDAHO CODE, TO
+14 REVISE PROVISIONS REGARDING INSPECTIONS AND TO REDESIGNATE THE SEC-
+15 TION; AMENDING CHAPTER 74, TITLE 39, IDAHO CODE, BY THE ADDITION OF A NEW
+16 SECTION 39-7428, IDAHO CODE, TO PROVIDE FOR ADDITIONS AND PENALTIES;
+17 AMENDING SECTION 39-7420, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+18 VIOLATIONS AND ENFORCEMENT AND TO REDESIGNATE THE SECTION; AMENDING
+19 SECTION 39-7421, IDAHO CODE, TO REVISE PROVISIONS REGARDING RESEARCH,
+20 DEVELOPMENT, AND DEMONSTRATION PERMITS AND TO REDESIGNATE THE SECTION;
+21 AMENDING SECTION 39-107D, IDAHO CODE, TO CORRECT A CODE REFERENCE;
+22 AMENDING SECTION 39-7204, IDAHO CODE, TO CORRECT A CODE REFERENCE; AND
+23 DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+24 Be It Enacted by the Legislature of the State of Idaho:
+25 SECTION 1. That Section 39-105, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 39-105. POWERS AND DUTIES OF THE DIRECTOR. The director shall have the
+28 following powers and duties: (1) All (1) The director shall have all of the
+29 rights, powers, and duties regarding environmental protection functions,
+30 including but not limited to those provided by chapters 1, 4, 30, 36, 44, 58,
+31 65, 66, 70, 71, 72, and 74, title 39, Idaho Code. The director shall have all
+32 such powers and duties as described in this section as may have been or could
+33 have been exercised by his predecessors in law and shall be the successor in
+34 law to all contractual obligations entered into by predecessors in law. All
+35 hearings of the director shall be governed by the provisions of chapter 52,
+36 title 67, Idaho Code.
+37 (2) The director shall, pursuant and subject to the provisions of the
+38 Idaho Code and the provisions of this act, formulate and recommend to the
+39 board rules, as may be necessary, to deal with problems related to water
+40 pollution, air pollution, solid waste disposal, and licensure and certi-
+41 fication requirements pertinent thereto, which shall, upon adoption by the
+42 board, have the force of law relating to any purpose that may be necessary
+43 and feasible for enforcing the provisions of this act, including but not
+44 limited to the prevention, control, or abatement of environmental pollution
+45 or degradation including radionuclides and risks to public health related
+46 to any of the powers and duties described in this section. Any such rule
+47 may be of general application throughout the state or may be limited as to
+
+3
+1 times, places, circumstances, or conditions in order to make due allowance
+2 for variations therein.
+3 (3) The director, under the rules adopted by the board, shall have the
+4 general supervision of the promotion and protection of the environment of
+5 this state. The powers and duties of the director shall include but not be
+6 limited to the following:
+7 (a) The issuance of licenses and permits as prescribed by law and by the
+8 rules of the board promulgated hereunder. For each air quality oper-
+9 ating permit issued under title V of the federal clean air act and its
+10 implementing regulations, the director shall, consistent with the fed-
+11 eral clean air act and its implementing regulations, expressly include
+12 a provision stating that compliance with the conditions of the permit
+13 shall be deemed compliance with the applicable requirements of the fed-
+14 eral clean air act and the title V implementing regulations. The di-
+15 rector may develop and issue general permits covering numerous similar
+16 sources, as authorized by 40 CFR 70.6(d), as amended, and as appropri-
+17 ate.
+18 (b) The enforcement of rules relating to public water supplies and ad-
+19 ministration of the drinking water loan fund pursuant to chapter 76, ti-
+20 tle 39, Idaho Code, including making loans to eligible public drink-
+21 ing water systems, as defined in the federal safe drinking water act,
+22 as amended, and to comply with all requirements of the act, 42 U.S.C.
+23 300f et seq., and regulations promulgated pursuant to the act. This in-
+24 cludes but is not limited to: the development of and implementation of
+25 a capacity development strategy to ensure public drinking water systems
+26 have the technical, managerial, and financial capability to comply with
+27 the national primary drinking water regulations; and the enhancement of
+28 protection of source waters for public drinking water systems.
+29 (c) The establishment of liaison with other governmental departments,
+30 agencies, and boards in order to effectively assist other governmental
+31 entities with planning for the control of or abatement of environmental
+32 pollution. All of the rules adopted by the board hereunder shall apply
+33 to state institutions.
+34 (d) The supervision and administration of a system to safeguard air
+35 quality and to limit and control the emission of air contaminants.
+36 (e) The supervision and administration of a system to safeguard the
+37 quality of the waters of this state, including but not limited to the en-
+38 forcement of rules relating to the discharge of effluent into the waters
+39 of this state and the storage, handling, and transportation of solids,
+40 liquids, and gases that may cause or contribute to water pollution. For
+41 purposes of complying with the clean water act, the director may provide
+42 an exemption from additional reductions for those nonpoint sources that
+43 meet the applicable reductions set forth in an approved TMDL, as defined
+44 in chapter 36, title 39, Idaho Code.
+45 (f) The supervision and administration of administrative units whose
+46 responsibility shall be to assist and encourage counties, cities, other
+47 governmental units, and industries in the control and abatement of en-
+48 vironmental pollution.
+49 (g) The supervision and administration of a solid waste disposal site
+50 and design review program and issuance of approvals, licenses, and per-
+
+4
+1 mits in accordance with the provisions of chapters 4 and the Idaho solid
+2 waste facilities act, chapter 74, title 39, Idaho Code, and, in particu-
+3 lar, as follows:
+4 (i) The issuance of a solid waste disposal site certificate in the
+5 manner provided in chapter 74, title 39, Idaho Code. Issuing solid
+6 waste disposal site certificates;
+7 (ii) Providing review and approval regarding of the design of
+8 solid waste disposal facilities and ground water monitoring sys-
+9 tems and approval of all applications for flexible standards as
+10 provided for in 40 CFR 258, in accordance with the provisions of
+11 chapter 74, title 39, Idaho Code.;
+12 (iii) Cooperating and coordinating with operational monitoring
+13 of solid waste disposal sites by district health departments pur-
+14 suant to authority established in chapters 4 and 74, title 39,
+15 Idaho Code. Providing review and approval of solid waste facility
+16 operation, closure, post-closure, and financial assurance plans;
+17 (iv) Enforcing solid waste management operations and the provi-
+18 sions of chapter 74, title 39, Idaho Code, rules promulgated pur-
+19 suant thereto, and applicable federal law and regulations;
+20 (v) Developing and administering the research, development, and
+21 demonstration program, which is to be implemented as a part of the
+22 existing approved solid waste program, upon approval of the United
+23 States environmental protection agency; and
+24 (iv) (vi) Developing and proposing Promulgating rules, as neces-
+25 sary, subject to legislative approval, to supplement details of
+26 compliance with the Idaho solid waste facilities act and appli-
+27 cable federal regulations, provided that such regulations rules
+28 shall not conflict with the provisions of this act or be more
+29 strict than the requirements established in federal law or in the
+30 solid waste facilities act or be more stringent than applicable
+31 state law, including the provisions of chapter 74, title 39, Idaho
+32 Code, and applicable federal law and regulations.
+33 (h) The establishment, administration, and operation of:
+34 (i) A network of environmental monitoring stations, independent
+35 of the United States department of energy, within and around the
+36 facilities of the Idaho national laboratory to provide authorita-
+37 tive auditing and analysis of emissions, discharges, or releases
+38 of pollutants to the environment, including the air, water, and
+39 soil from such facilities; and
+40 (ii) Programs within the department to utilize the data obtained
+41 from such monitoring, and any other relevant data, in the enforce-
+42 ment of applicable agreements, statutes, and rules pertaining to
+43 such facilities and programs, to review, analyze, and participate
+44 in remedial decisions and other proposed actions and projects, and
+45 to ensure the protection of public health and the environment.;
+46 and
+47 (iii) The director shall also A program to monitor the implemen-
+48 tation of agreements between the United States and the state of
+49 Idaho related to the operation and environmental protection obli-
+50 gations of the Idaho national laboratory and provide periodic in-
+
+5
+1 formation to the governor, the attorney general, the legislature,
+2 and the people of Idaho concerning compliance with such agreements
+3 and obligations. The director shall have the power to enter into
+4 agreements with the United States department of energy in order to
+5 carry out the duties and authorities provided in this subsection.
+6 (i) The enforcement of all laws, rules, regulations, codes, and stan-
+7 dards relating to environmental protection and health.
+8 (j) The enhancement and protection of source waters of the state pur-
+9 suant to rules of the board.
+10 (4) The director, when so designated by the governor, shall have the
+11 power to apply for, receive on behalf of the state, and utilize any federal
+12 aid, grants, gifts, gratuities, or moneys made available through the federal
+13 government, including but not limited to the federal water pollution control
+14 act, for use in or by the state of Idaho in relation to health and environmen-
+15 tal protection.
+16 (5)(a) The director shall have the power to enter into and make con-
+17 tracts and agreements with any public agencies agency or municipal
+18 corporations corporation for facilities, land, and equipment when such
+19 use will have a beneficial or recreational effect or be in the best in-
+20 terest in carrying out the duties imposed on the department.
+21 (b) The director shall also have the power to enter into contracts for
+22 the expenditure of state matching funds for local purposes. This sub-
+23 section will constitute the authority for public agencies or municipal
+24 corporations to enter into such contracts and expend money for the pur-
+25 poses delineated in such contracts.
+26 (c) The director shall also have the power to enter into and make vol-
+27 untary contracts and agreements with public agencies, municipal corpo-
+28 rations, and private parties for funding or reimbursement of staff and
+29 consultant costs necessary for the director to discharge his duties as
+30 provided by state statute and administrative rule. Such contracts and
+31 agreements shall be limited to a five (5) year term, however they but can
+32 be renewed upon agreement of all parties. Moneys received through these
+33 contracts and agreements shall be expended pursuant to appropriation.
+34 (6) The director is authorized to adopt an official seal to be used on
+35 appropriate occasions, in connection with the functions of the department or
+36 the board, and such seal shall be judicially noticed. Copies of any books,
+37 records, papers, or other documents in the department shall be admitted in
+38 evidence equally with the originals thereof when authenticated under such
+39 seal.
+40 SECTION 2. That Section 39-414, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 39-414. POWERS AND DUTIES OF DISTRICT BOARD. The district board of
+43 health shall have and may exercise the following powers and duties:
+44 (1) To administer and enforce all state and district health laws, regu-
+45 lations, and standards.
+46 (2) To undertake only those actions that are necessary and reasonable
+47 for preserving and protecting public health and preventive health as sup-
+48 ported by scientific evidence. Additionally, the The board may enter into
+49 agreements with the director of the state department of health and welfare or
+
+6
+1 the director of the department of environmental quality to provide services
+2 or do such other things as specified in the agreement, subject to the limi-
+3 tations described in this subsection. An agreement entered pursuant to this
+4 subsection may be between either such director and one (1) district or mul-
+5 tiple districts. An order of a district board of health will take effect im-
+6 mediately. However, notwithstanding Notwithstanding the provisions of this
+7 subsection, if an order applies to all persons in a county or a public health
+8 district, the board of county commissioners within each affected county, af-
+9 ter consulting with the district board of health, will shall determine, by
+10 resolution, whether or not to approve the order within county limits within
+11 seven (7) days of the date of the order. If the board of county commissioners
+12 approves the order, then the order will take effect immediately for a period
+13 of thirty (30) days. Thereafter, the order may be extended, amended, or mod-
+14 ified and reimposed for thirty (30) day periods, subject to approval by the
+15 board of county commissioners.
+16 (3) To determine the location of its main office and to determine the
+17 location, if any, of branch offices.
+18 (4) To enter into contracts with any other governmental or public
+19 agency whereby the district board agrees to render services to or for such
+20 agency in exchange for a charge reasonably calculated to cover the cost of
+21 rendering such service. This authority is to be limited to services vol-
+22 untarily rendered and voluntarily received and shall not apply to services
+23 required by statute, rule, and regulation or by standards promulgated pur-
+24 suant to this chapter or chapter 1, title 39, Idaho Code.
+25 (5) To deposit all moneys or payment received or collected by gift,
+26 grant, devise, or any other way to the respective division or subaccount of
+27 the public health district in the public health district fund authorized by
+28 section 39-422, Idaho Code.
+29 (6) To establish a fiscal control policy.
+30 (7) To cooperate with the state board of health and welfare, the depart-
+31 ment of health and welfare, the board of environmental quality, and the de-
+32 partment of environmental quality.
+33 (8) To enter into contracts with other governmental agencies, and this
+34 chapter hereby authorizes such other agencies to enter into contracts with
+35 the health district, as may be deemed necessary to fulfill the duties imposed
+36 upon the district in providing for the health of the citizens within the dis-
+37 trict.
+38 (9) To purchase, exchange, or sell real property and construct, rent,
+39 or lease such buildings as may be required for the accomplishment of the
+40 duties imposed upon the district and to further obtain such other personal
+41 property as may be necessary to its functions.
+42 (10) To accept, receive, and utilize any gifts, grants, or funds and
+43 personal and real property that may be donated to it for the fulfillment of
+44 the purposes outlined in this chapter.
+45 (11) To establish a charge whereby the board agrees to render services
+46 to or for entities other than governmental or public agencies for an amount
+47 reasonably calculated to cover the cost of rendering such services.
+48 (12) To enter into a lease of real or personal property as lessor or
+49 lessee, or other transaction, with the Idaho health facilities authority for
+50 a term not to exceed ninety-nine (99) years upon a determination by the dis-
+
+7
+1 trict board that the real or personal property to be leased is necessary for
+2 the purposes of the district and to pledge nontax revenues of the district
+3 to secure the district's obligations under such leases. For the purposes of
+4 this chapter, a public health district is not a subdivision of the state and
+5 shall be considered an independent body corporate and politic pursuant to
+6 section 1, article VIII of the constitution of the state of Idaho and is not
+7 authorized hereby to levy taxes or to obligate the state of Idaho concerning
+8 such financing.
+9 (13) To administer and certify solid waste disposal site operations,
+10 closure, and post-closure procedures established by statute or regulation
+11 in accordance with the provisions of chapter 74, title 39, Idaho Code, in
+12 a manner equivalent to the site certification process set forth in section
+13 39-7408, Idaho Code.
+14 (14) (13) To select a board member to serve as trustee on the board of
+15 trustees of the Idaho district boards of health.
+16 SECTION 3. That Section 39-7401, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 39-7401. LEGISLATIVE FINDINGS AND PURPOSES. (1) The legislature
+19 finds:
+20 (a) That adverse public health and environmental impacts can result
+21 from the improper land disposal of solid waste and that the need for es-
+22 tablishing safe sites with adequate capacity for the disposal of solid
+23 waste is a matter of statewide concern and necessity; and
+24 (b) That the resource conservation and recovery act, (42 U.S.C. sec.
+25 6901, et seq.), as amended, and regulations adopted pursuant thereto,
+26 establish complex, detailed, and costly provisions for the location,
+27 design, operation, and monitoring of solid waste disposal sites, in-
+28 cluding such sites as may be operated pursuant to the responsibility es-
+29 tablished in chapter 44, title 31, Idaho Code; and
+30 (c) That a state program to implement flexible standards provided in
+31 40 CFR 258, if approved by the U.S. environmental protection agency,
+32 enables a state to take advantage of site specific factors in the de-
+33 sign and, operation, closure, post-closure, and financial assurance of
+34 solid waste facilities and flexibility in meeting federal criteria set
+35 forth in that regulation; and
+36 (d) That 40 CFR 258 provides that such a program of flexible standards
+37 requires approvals by a designated state agency; and
+38 (e) That chapter 1, title 39, Idaho Code, vests the Idaho department of
+39 environmental quality with the responsibility to issue a certificate of
+40 suitability concerning prospective solid waste landfill sites, to ap-
+41 prove solid waste facility design and ground water monitoring programs,
+42 and to provide approvals pursuant to 40 CFR 258; and
+43 (f) That chapter 44, title 31, Idaho Code, imposes on the counties the
+44 primary responsibility for the development and operation of a solid
+45 waste management system; and
+46 (g) That chapter 4 74, title 39, Idaho Code, vests the health districts
+47 Idaho department of environmental quality with the primary responsi-
+48 bility for the review and approval of solid waste facility operations
+
+8
+1 plans operations, closure, post-closure, and corrective action plans,
+2 and the enforcement of solid waste management operations; and
+3 (h) That the coordination and timeliness of response to federal law on
+4 the part of all public officials within the state is critical to compli-
+5 ance with federal regulations, the ability of each affected agency to
+6 carry out their statutory responsibilities, and the avoidance of exces-
+7 sive construction and public expenditures.
+8 (2) Therefore, it is the intent of the legislature to establish a
+9 program of solid waste management which complies with 40 CFR 258 federal
+10 regulations and facilitates the incorporation of flexible standards in
+11 facility design and, operations , closure, post-closure, and corrective ac-
+12 tion. The legislature hereby establishes the solid waste disposal standards
+13 and procedures outlined herein and a facility approval process for the state
+14 of Idaho, the political subdivisions thereof, and any private solid waste
+15 disposal site owner in order to facilitate the development and operation of
+16 solid waste disposal sites, to effect timely and responsible completion of
+17 statutory duties, and to ensure protection of human health and the environ-
+18 ment, to and protect the air, land, and waters of the state of Idaho.
+19 SECTION 4. That Section 39-7402, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 39-7402. APPLICABILITY. (1) The standards and procedures set forth in
+22 this chapter apply to owners and operators of new municipal solid waste land-
+23 fill (MSWLF) units, existing MSWLF units, and lateral expansions of existing
+24 MSWLF units, except as otherwise specifically provided.
+25 (2) The requirements of this chapter do not apply to MSWLF units that
+26 ceased to accept waste on or prior to October 9, 1991.
+27 (3) MSWLF units that receive waste after October 9, 1991, but stop
+28 receiving waste in conformance with the provisions of 40 CFR 258.1(d), are
+29 exempt from the requirements of this chapter, except as expressly provided
+30 herein.
+31 (4) All MSWLF units that receive waste on or after October 9, 1993, must
+32 comply with all of the requirements of this chapter, unless otherwise al-
+33 lowed in 40 CFR 258.1(d), (e), or (f).
+34 (5) MSWLF units failing to satisfy these standards shall cease oper-
+35 ation and shall not accept municipal solid waste for disposal by order of
+36 the department of environmental quality and/or the district health depart-
+37 ment until provisions of this chapter are complied with, unless a compliance
+38 schedule or corrective action plan has been approved by the director of the
+39 department of environmental quality and/or the district health department.
+40 (6) MSWLF units failing to satisfy the requirements set forth in this
+41 chapter are considered open dumps for purposes of state solid waste manage-
+42 ment planning and are prohibited under section 4005 of RCRA.
+43 (7) MSWLF units containing sewage sludge and which fail to satisfy the
+44 criteria set forth in 40 CFR 258 violate sections 309 and 405(e) of the clean
+45 water act.
+46 SECTION 5. That Section 39-7403, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+
+9
+1 39-7403. DEFINITIONS. As used in this chapter:
+2 (1) "Active portion" means that part of a facility or unit that has re-
+3 ceived or is receiving wastes and that has not been closed in accordance with
+4 40 CFR 258.60.
+5 (2) "Agricultural wastes" means wastes generated on farms resulting
+6 from the production of agricultural products including, but not limited
+7 to, manures and carcasses of dead animals weighing each or collectively in
+8 excess of fifteen (15) pounds but do does not include wastes that are clas-
+9 sified as hazardous.
+10 (3) "Applicant" means the owner or the operator with the owner's writ-
+11 ten consent.
+12 (4) "Aquifer" means a geological formation, group of formations, or a
+13 portion of a formation capable of yielding significant quantities of ground
+14 water to wells or springs.
+15 (5) "Board" means the Idaho board of environmental quality.
+16 (6) "Buffer zone" means that part of a facility that lies between the
+17 active portion and the property boundary.
+18 (7) "Clean soils and clean dredge spoils" means soils and dredge spoils
+19 which are not hazardous wastes or problem wastes as defined in this section
+20 and do not pose a significant risk to human health or the environment.
+21 (8) "Co-located waste facilities" or "CWF" means facilities that ac-
+22 cept both household waste and nonmunicipal solid waste in separate waste
+23 management units on geographically contiguous property that, separately,
+24 are subject to the provisions of this title and rules promulgated pursuant
+25 thereto.
+26 (8) (9) "Commercial solid waste" means all types of solid waste gener-
+27 ated by stores, offices, restaurants, warehouses, and other nonmanufactur-
+28 ing activities, excluding residential and industrial wastes.
+29 (9) "Commercial solid waste facility" means a facility owned and oper-
+30 ated as an enterprise conducted with the intent of making a profit by any in-
+31 dividual, association, firm, or partnership for the disposal of solid waste,
+32 but excludes a facility owned or operated by a political subdivision, state
+33 or federal agency, municipality or a facility owned or operated by any in-
+34 dividual, association, firm or partnership exclusively for the disposal of
+35 solid waste generated by such individual, association, firm or partnership.
+36 (10) "Construction/demolition waste" means the waste building materi-
+37 als, packaging, and rubble resulting from construction, remodeling, repair,
+38 and demolition operations on pavements, houses, commercial buildings, and
+39 other structures. Such waste includes, but is not limited to, bricks, con-
+40 crete, other masonry materials, soil, rock, lumber, road spoils, rebar,
+41 paving materials, and tree stumps. Noninert wastes and asbestos wastes are
+42 not considered to be demolition waste for the purposes of this chapter.
+43 (11) "Contaminate" means to allow discharge of a substance from a land-
+44 fill that would cause:
+45 (a) The concentration of that substance in the ground water to exceed
+46 the maximum contamination level (MCL) specified in 40 CFR 258.40, Idaho
+47 drinking water standards or federal regulations; or
+48 (b) A statistically significant increase in the concentration of that
+49 substance in the ground water where the existing concentration of that
+
+10
+1 substance exceeds the maximum contamination level specified in para-
+2 graph (a) of this subsection; or
+3 (c) A statistically significant increase above background in the con-
+4 centration of a substance which:
+5 (i) is Is not specified in paragraph (a) of this subsection; and
+6 (ii) is Is a result of the disposal of solid waste; and
+7 (iii) has Has been determined by the department to present a sub-
+8 stantial risk to human health or the environment in the concentra-
+9 tions found at the point of compliance.
+10 (12) "County" means any county in the state of Idaho.
+11 (13) "Cover material" means soil or other suitable material that is used
+12 to protect the active portion of the MSWLF unit.
+13 (14) "Department" means the Idaho department of environmental quality.
+14 (14) (15) "Director" means the director of the Idaho department of envi-
+15 ronmental quality.
+16 (15) (16) "Existing MSWLF unit" means any municipal solid waste land-
+17 fill unit that is receiving solid waste as of the applicable date specified
+18 in 40 CFR 258.1(e).
+19 (16) (17) "Facility" means all contiguous land and structures, buffer
+20 zones, and other appurtenances and improvements on the land used for the dis-
+21 posal of solid waste.
+22 (17) (18) "Floodplain" means the area encompassed by the one hundred
+23 (100) year flood as defined by applicable federal emergency management
+24 agency (FEMA) flood insurance maps or, if no map exists, then as defined in
+25 40 CFR 258.11.
+26 (18) (19) "Ground water" means water below the land surface in a zone of
+27 saturation.
+28 (19) "Health district" means one (1) of the seven (7) district health
+29 departments of the state of Idaho.
+30 (20) "Holocene fault" means a fault characterized as a fracture or a
+31 zone of fractures in any material along which strata on one (1) side have been
+32 displaced with respect to that on the other side and holocene being the most
+33 recent epoch of the quaternary period, extending from the end of the pleis-
+34 tocene epoch to the present.
+35 (21) "Household waste" means any solid waste, including garbage, trash,
+36 and sanitary waste in septic tanks, derived from households, including
+37 single and multiple residences, hotels and motels, bunkhouses, ranger sta-
+38 tions, crew quarters, campgrounds, picnic grounds, and day use recreation
+39 areas.
+40 (22) "Industrial solid waste" means solid waste generated by manufac-
+41 turing or industrial processes that is not a hazardous waste regulated under
+42 subtitle C of RCRA. Such waste may include, but is not limited to, waste
+43 resulting from the following manufacturing processes: electric power gen-
+44 eration; fertilizer and agricultural chemicals; food and related products
+45 and byproducts; inorganic chemicals; iron and steel manufacturing; leather
+46 and leather products; nonferrous metals manufacturing/foundries; organic
+47 chemicals; plastics and resins manufacturing; pulp and paper industry;
+48 rubber and miscellaneous plastic products; stone, glass, clay and con-
+49 crete products; textile manufacturing; transportation equipment; and water
+50 treatment. This term does not include mining waste or oil and gas waste.
+
+11
+1 (23) "Inert wastes" means noncombustible, nonhazardous, nonputresci-
+2 ble, nonleaching solid wastes that are likely to retain their physical and
+3 chemical structure under expected conditions of disposal, including resis-
+4 tance to biological attack.
+5 (24) "Landfill" means an area of land or an excavation in which wastes
+6 are placed for permanent disposal, and that is not a land application unit,
+7 surface impoundment, injection well, or waste pile.
+8 (25) "Landspreading disposal facility" or "land application unit"
+9 means a facility that applies sludges or other solid wastes onto or in-
+10 corporates solid waste into the soil surface, excluding manure spreading
+11 operations, at greater than agronomic rates, and soil conditioners, and
+12 immobilization rates.
+13 (26) "Lateral expansion" means a horizontal expansion of the waste
+14 boundaries of an existing MSWLF unit.
+15 (27) "Leachate" means a liquid that has passed through or emerged from
+16 solid waste and contains soluble, suspended, or miscible materials removed
+17 from such waste.
+18 (28) "Limited purpose landfill" means a landfill that receives solid
+19 waste of limited type with known and consistent composition other than wood
+20 wastes, municipal solid household waste, inert waste, and construction/de-
+21 molition waste.
+22 (29) "Liquid waste" is as defined in 40 CFR 258.28(c)(1).
+23 (30) "Monofill" means a landfill which contains a specific waste whose
+24 waste stream characteristics remain unchanged over time and may include spe-
+25 cial wastes, problem wastes or other consistent characteristic wastes but
+26 do does not include wastes regulated under any other applicable regulations
+27 regulation.
+28 (31) "Municipal solid waste landfill unit (MSWLF)" or "MSWLF" means a
+29 discrete area of land or an excavation that receives household waste, and
+30 that is not a land application unit, surface impoundment, injection well, or
+31 waste pile, as those terms are defined under in 40 CFR 257.2. A MSWLF unit
+32 also may receive other types of RCRA subtitle D wastes, such as commercial
+33 solid waste, nonhazardous sludge, conditionally exempt small quantity gen-
+34 erator waste, and industrial solid waste. Such a landfill may be publicly
+35 or privately owned. A MSWLF unit may be a new MSWLF unit, an existing MSWLF
+36 unit, or a lateral expansion.
+37 (32) "New MSWLF unit" means any municipal solid waste landfill unit that
+38 has not received waste prior to October 9, 1993, or prior to October 9, 1995,
+39 if the MSWLF unit meets the conditions specified in 40 CFR 258.1(f)(1).
+40 (33) "No potential for migration" means the geologic formation beneath
+41 the site and above the uppermost aquifer has sufficient hydrogeological
+42 characteristics and holding capacity adequate to contain all hazardous con-
+43 stituents generated during the active life, closure, and post-closure care
+44 periods.
+45 (34) "Nonmunicipal solid waste" or "NMSW" means a solid waste that is
+46 not mixed with household waste and not excluded by statute or rule.
+47 (35) "Nonmunicipal solid waste landfill" or "NMSWLF" means a landfill
+48 that accepts only nonmunicipal solid waste.
+49 (33) (36) "Open burning" means the combustion of solid waste without:
+
+12
+1 (a) control Control of combustion air to maintain adequate temperature
+2 for efficient combustion;
+3 (b) containment Containment of the combustion reaction in an enclosed
+4 device to provide sufficient resident time and mixing for complete com-
+5 bustion; and
+6 (c) control Control of the emission of the combustion products.
+7 (37) "Operations plan" means the written plan developed by an owner or
+8 operator of an MSWLF unit detailing how the facility is to be operated during
+9 its active life, during closure, and throughout the post-closure period.
+10 (34) (38) "Operator" means the person(s) responsible for the overall
+11 operation of a facility or part of a facility.
+12 (35) (39) "Owner" means the person(s) who owns a facility or part of a
+13 facility.
+14 (36) (40) "Permeability" means the capacity of a material to transmit a
+15 liquid. For the purposes of this chapter permeability is expressed in terms
+16 of hydraulic conductivity of water in centimeters-per-second units of mea-
+17 surement.
+18 (37) (41) "Person" means an individual, association, firm, partner-
+19 ship, political subdivision, public or private corporation, state or fed-
+20 eral agency, municipality, industry, or any other legal entity whatsoever.
+21 (38) (42) "Pile" or "waste pile" means any noncontainerized solid, non-
+22 flowing waste that is accumulated for treatment or storage.
+23 (39) "Plan of operation" means the written plan developed by an owner or
+24 operator of a MSWLF unit detailing how the facility is to be operated during
+25 its active life, during closure, and throughout the post closure period.
+26 (40) (43) "Point of compliance" means a vertical surface located at the
+27 hydraulically downgradient intercept with the uppermost aquifer at which a
+28 release from a waste management unit measured as change in constituent val-
+29 ues will trigger assessment monitoring. Point of compliance shall be used to
+30 define the facility design, location, and frequency of ground water monitor-
+31 ing wells and corrective action.
+32 (41) (44) "Post-closure" means the requirements placed upon the MSWLF
+33 unit after closure to ensure their environmental safety for a thirty (30)
+34 year period or until the site becomes stabilized in accordance with section
+35 39-7416, Idaho Code this chapter.
+36 (42) (45) "Processing" means an operation conducted on solid waste to
+37 prepare it for disposal.
+38 (43) (46) "Qualified professional" means a licensed professional ge-
+39 ologist or licensed professional engineer, as appropriate, holding current
+40 professional registration in compliance with applicable provisions of the
+41 Idaho Code.
+42 (44) (47) "RCRA" means the resource conservation and recovery act, (42
+43 U.S.C. sec. 6901 et seq.), as amended.
+44 (45) (48) "Run-off" means any rainwater, leachate, or other liquid that
+45 drains over land from any part of a facility.
+46 (46) (49) "Run-on" means any rainwater, leachate, or other liquid that
+47 drains over land onto any part of a facility.
+48 (47) (50) "Saturated zone" means that part of the earth's crust in which
+49 all voids are filled with water.
+
+13
+1 (48) (51) "Septage" means a semisolid consisting of settled sewage
+2 solids combined with varying amounts of water and dissolved materials gener-
+3 ated from a septic tank system.
+4 (49) (52) "Sludge" means any solid, semisolid, or liquid waste gen-
+5 erated from a municipal, commercial, or industrial waste water treatment
+6 plant, water supply treatment plant, or air pollution control facility,
+7 exclusive of the treated effluent from a waste water treatment plant.
+8 (50) (53) "Solid waste" means any garbage or refuse, sludge from a
+9 waste water treatment plant, water supply treatment plant, or air pollution
+10 control facility and other discarded material including solid, liquid,
+11 semisolid, or contained gaseous material resulting from industrial, commer-
+12 cial, mining, and agricultural operations and from community activities,
+13 but does not include solid or dissolved materials in domestic sewage, or
+14 solid or dissolved materials in irrigation return flows or industrial dis-
+15 charges that are point sources subject to permit under 33 U.S.C. 1342, or
+16 source, special nuclear, or byproduct material as defined in the atomic
+17 energy act of 1954, as amended (68 Stat. 923). These regulations shall not
+18 apply to the following solid wastes. Solid waste does not include:
+19 (a) Overburden, waste dumps, and low-grade stockpiles from mining op-
+20 erations;
+21 (b) Liquid wastes whose discharge or potential discharge is regulated
+22 under federal, state, or local water pollution permits;
+23 (c) Hazardous wastes, as designated in the hazardous waste management
+24 act, chapter 44, title 39, Idaho Code;
+25 (d) Wood waste used for ornamental, animal bedding, mulch and plant
+26 bedding and road building purposes;
+27 (e) Agricultural wastes, limited to manures and crop residues, re-
+28 turned to the soils at agronomic rates;
+29 (f) Clean soils and clean dredge spoils as otherwise regulated under
+30 section 404 of the federal clean water act (PL 95-217);
+31 (g) Septage taken to a sewage treatment plant permitted by either the
+32 U.S. environmental protection agency or the department; and
+33 (h) Wood debris resulting from the harvesting of timber and the dis-
+34 posal of which is permitted under pursuant to chapter 1, title 38, Idaho
+35 Code.;
+36 (i) Solid or dissolved materials in domestic sewage;
+37 (j) Solid or dissolved materials in irrigation return flows;
+38 (k) Industrial discharges that are point sources subject to permit un-
+39 der 33 U.S.C. 1342; and
+40 (l) Source, special nuclear, or byproduct material as defined in the
+41 atomic energy act of 1954, as amended.
+42 (51) (54) "Special waste" means those wastes which require special
+43 treatment or handling after it arrives arrival at the disposal site. The
+44 term includes, including but is not limited to, asbestos containing ma-
+45 terial, petroleum contaminated soils, low-level PCB containing material,
+46 low-level dioxin containing material, and uncut unprocessed tires.
+47 (52) (55) "Statistically significant" means significant as determined
+48 by ANOVA analysis of variance as applied within 40 CFR 258.53(h)(2) or as
+49 provided by 40 CFR 258.53(g)(5) a statistical test method outlined in 40 CFR
+
+14
+1 258.53(g) or by another method that meets the requirements provided by 40 CFR
+2 258.53(h).
+3 (53) (56) "Uppermost aquifer" means the geological formation nearest
+4 the natural ground surface that is an aquifer as well as lower aquifers that
+5 are hydraulically interconnected with this aquifer within the facility's
+6 property boundary.
+7 (54) (57) "Waste management unit boundary" means a vertical surface lo-
+8 cated at the hydraulically downgradient limit of the unit. This vertical
+9 surface extends down into the uppermost aquifer.
+10 (55) (58) "Water quality standard" means a standard set for maximum al-
+11 lowable contamination in surface waters and ground water as set forth in the
+12 water quality standards for waters for the state of Idaho.
+13 (56) (59) "Wetlands" is as defined in 40 CFR 232.2(r) by federal law or
+14 regulations.
+15 (57) (60) "Wood waste" means solid waste consisting of wood pieces or
+16 particles generated as a byproduct or waste from the manufacturing of wood
+17 products, handling and storage of raw materials and trees and stumps. This
+18 includes, but is not limited to, sawdust, chips, shavings, bark, pulp, hog
+19 fuel and log yard waste, but does not include wood pieces or particles con-
+20 taining chemical preservatives such as creosote, pentachlorophenol, or cop-
+21 per-chrome-arsenate.
+22 Undefined terms shall be given their usual and ordinary meaning within
+23 the context of the provisions of this chapter.
+24 SECTION 6. That Section 39-7404, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 39-7404. CONSISTENCY WITH FEDERAL LAW -- STATUS OF APPENDICES. (1) The
+27 legislature intends that the state of Idaho enact and carry out a solid waste
+28 program that will enable the state to achieve approved state status with re-
+29 spect to solid waste disposal facility regulation from the federal govern-
+30 ment.
+31 (2) The legislature finds that subtitle D of RCRA, and in particular
+32 the code of federal regulations, title 40, part 257 and 258, establish com-
+33 plex, detailed, and costly provisions for the disposal of solid waste. By
+34 the provisions of this chapter, the legislature desires to avoid duplicative
+35 or conflicting state and federal regulatory systems and allow local MSWLF
+36 unit owners the maximum flexibility possible under 40 CFR 257 and 258 federal
+37 regulations, to meet the substantive goals of protection of human health and
+38 the environment with consideration for actual site and climatic conditions.
+39 At any time that 40 CFR 257 or 40 CFR 258 is applicable federal law or regu-
+40 lations are amended, any additional flexibility or extension otherwise pro-
+41 hibited by this chapter shall be allowed as applicable.
+42 (3) The board may not promulgate any rule pursuant to this act chapter
+43 that would impose conditions or requirements more stringent or broader in
+44 scope than the referenced RCRA regulations of the United States environmen-
+45 tal protection agency or the provisions of this chapter. Until regulations
+46 are adopted, agency conclusions in appendix B through appendix H, inclusive,
+47 per the "Federal Register" of October 9, 1991, or the solid waste disposal
+48 technical manual published by the United States environmental protection
+
+15
+1 agency in November 1993 and revised in April 1998, shall be used for techni-
+2 cal guidance for relevant provisions of this chapter.
+3 SECTION 7. That Section 39-7406, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 39-7406. RESPECTIVE ROLES OF COUNTY, AND DIRECTOR AND HEALTH DISTRICT
+6 -- LIBERAL CONSTRUCTION. (1) The county, and director and health district
+7 each perform key roles in statewide solid waste management. Principal ju-
+8 risdiction for the various functions of solid waste regulation and manage-
+9 ment as it pertains to site selection, development, operation, and closure
+10 shall be carried out as outlined herein:
+11 (a) Each county may select a solid waste landfill site or sites, eval-
+12 uate said site(s) for compliance with site certification criteria,
+13 develop design plans for construction and operation of MSWLF unit(s),
+14 including ground water monitoring programs, provide for public re-
+15 view of its site certification, facility design and operations plans
+16 through the conduct of a twenty-eight (28) day any public comment period
+17 conducted pursuant to this chapter, publish legal notices, serve as
+18 the repository of funds established for financial assurance, cooperate
+19 with the director and district to construct and operate a solid waste
+20 disposal system which protects human health and the environment, and
+21 perform such other solid waste related duties as may be specified in
+22 chapter 44, title 31, Idaho Code;
+23 (b) The director shall interact:
+24 (i) Interact and cooperate with federal agencies to secure ap-
+25 proved state status concerning solid waste programs, administer;
+26 (ii) Administer the site selection process by requiring an owner
+27 to certify, through such professional documentation as may be re-
+28 quired in this chapter, that the site is not encumbered by criti-
+29 cal site limitations as set forth in section 39-7407, Idaho Code,
+30 ascertaining that such certification has been made by a qualified
+31 professional, review;
+32 (iii) Review and approve MSWLF unit design plans, the ground water
+33 monitoring program, alternative daily cover and final cover, al-
+34 ternative closure and post-closure care requirements recommended
+35 to the director for approval by the district, financial assurance,
+36 and any other approvals required in by this chapter or 40 CFR 258,
+37 prepare and/or;
+38 (iv) Prepare and adopt such regulations as may be necessary to im-
+39 plement the provisions of this chapter, and cooperate;
+40 (v) Cooperate in actual site monitoring and corrective action
+41 programs; and
+42 (c) (vi) The health district shall ascertain that Ensure opera-
+43 tions standards are met, prepare and/or;
+44 (vii) Prepare and adopt technical guidance, review and recommend
+45 approval of alternative operating, closure and post-closure re-
+46 quirements to the director, and review; and
+47 (viii) Review and enforce all aspects of operation, closure, and
+48 post-closure except as specified above.
+
+16
+1 (d) (c) All approvals required by 40 CFR 258 shall be obtained by the
+2 owner and/or applicant; and all provisions of 40 CFR 258 which provide
+3 for flexibility may be obtained by the owner and/or applicant; and the
+4 director shall have the authority to grant all such approvals in accor-
+5 dance with the provisions of this chapter, the duty to make a determina-
+6 tion that an application meets standards or provides an acceptable al-
+7 ternative, and the duty to approve or disapprove the application in a
+8 timely manner prescribed in this chapter.
+9 (2) This chapter shall be liberally construed to allow these public en-
+10 tities having jurisdiction to perform their respective roles to protect hu-
+11 man health and the environment through expeditious and technically proper
+12 solid waste management practices, while recognizing the authority of local
+13 governments to act in their governmental capacity to perform the duties pre-
+14 scribed in chapter 44, title 31, Idaho Code.
+15 SECTION 8. That Section 39-7408, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 39-7408. SITE CERTIFICATION PROCEDURE. (1) It shall be the responsi-
+18 bility of each applicant to obtain site certification from the director. The
+19 site certification process is hereby established to ascertain compliance
+20 with the requirements of section 39-7407, Idaho Code.
+21 (2) The site certification procedure shall be administered in the fol-
+22 lowing manner: accordance with the provisions of this chapter and rules pro-
+23 mulgated pursuant thereto.
+24 (a) Prior to submittal of the application, the applicant may conduct a
+25 site tour for the director, health district and all other public agen-
+26 cies with jurisdiction to familiarize the agencies with characteris-
+27 tics of the site and site surroundings.
+28 (b) The applicant may then submit an application to the director. The
+29 application shall address each of the criteria set forth in section
+30 39-7407, Idaho Code, explaining the technical findings regarding each.
+31 (c) Wherever technical evaluation of relevant information is required,
+32 a qualified professional, as appropriate, shall certify compliance
+33 with the requisite criteria.
+34 (d) When the application is submitted to the director, the applicant
+35 shall publish legal notice of submittal of the application in the news-
+36 paper published in the county as determined by the criteria in section
+37 31-819, Idaho Code, and shall make the application available for public
+38 inspection and copying. The date of publication of such notice shall
+39 begin a twenty-eight (28) day comment period during which written com-
+40 ments concerning the application may be submitted to the director.
+41 (e) The director shall act upon the application within twenty-one (21)
+42 days of the end of the comment period set forth above and shall enter a
+43 decision either certifying the site or rejecting the application. The
+44 director shall review the site certification application, not contra-
+45 vening the opinion of the applicant's qualified professional(s) with-
+46 out reliable empirical evidence that the affirmations in the applica-
+47 tion are erroneous. Upon finding that the criteria of section 39-7407,
+48 Idaho Code, have been affirmed by qualified professionals, the direc-
+49 tor shall certify the site. Any rejection of a site certification ap-
+
+17
+1 plication shall be accompanied by findings in writing expressly stat-
+2 ing the criteria insufficiently documented and/or violated and the evi-
+3 dence relied upon in making such determination. Failure of the director
+4 to act within twenty-one (21) days shall constitute site certification.
+5 An applicant shall be provided an opportunity to appeal any denial of
+6 certification.
+7 (f) (3) Site certification is transferable with ownership of the site.
+8 (g) Within ten (10) working days of receipt of certification from the
+9 director, the applicant shall publish notice in the newspaper provided
+10 for in subsection (d) of this section, informing the public that certi-
+11 fication of the site has been approved.
+12 SECTION 9. That Section 39-7408A, Idaho Code, be, and the same is hereby
+13 repealed.
+14 SECTION 10. That Section 39-7408B, Idaho Code, be, and the same is
+15 hereby repealed.
+16 SECTION 11. That Section 39-7408C, Idaho Code, be, and the same is
+17 hereby repealed.
+18 SECTION 12. That Section 39-7408D, Idaho Code, be, and the same is
+19 hereby repealed.
+20 SECTION 13. That Chapter 74, Title 39, Idaho Code, be, and the same is
+21 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+22 ignated as Section 39-7409, Idaho Code, and to read as follows:
+23 39-7409. CO-LOCATED WASTE FACILITIES. (1) An applicant may submit a
+24 combined application for a CWF pursuant to the provisions of this chapter.
+25 (2) A single notice of approval for a CWF shall be issued by the director
+26 pursuant to the provisions of this chapter.
+27 (3) The review and approval process shall be administered in accordance
+28 with the provisions of this chapter and rules promulgated pursuant thereto
+29 that are applicable to the applicant's CWF design and operations.
+30 (4) Co-located waste facilities shall be subject to the annual inspec-
+31 tion fee assessed on municipal solid waste landfills and shall be subject to
+32 tonnage fees in an amount equal to the waste that is disposed in the municipal
+33 solid waste landfill portion of the co-located facility.
+34 SECTION 14. That Section 39-7409, Idaho Code, be, and the same is hereby
+35 amended to read as follows:
+36 39-7409 39-7410. STANDARDS FOR DESIGN. (1) Applicability. These
+37 standards apply to new MSWLF units and lateral expansions of existing facil-
+38 ities as provided in 40 CFR 258.40.
+39 (2) Liner designs. An application shall indicate the liner design that
+40 will be used in each phase of construction. All owners or operators of MSWLF
+41 units shall use one (1) or more of the following designs, in combination or
+42 alone:
+
+18
+1 (a) Composite liner design. A composite liner design, as provided un-
+2 der 40 CFR 258.40(b) and shall include that includes a leachate collec-
+3 tion system as provided under 40 CFR 258.40(a)(2); or
+4 (b) Alternate liner design. A site-specific alternate liner de-
+5 sign based upon environmental performance, as allowed under 40 CFR
+6 258.40(a)(1), which will ensure that the concentration values listed
+7 in table 1, 40 CFR 258.40, or as amended, will not be exceeded in the
+8 uppermost aquifer at the relevant point of compliance. This design
+9 shall demonstrate consideration of site specific factors as provided
+10 in 40 CFR 258.40(c) and shall include a leachate collection system as
+11 provided under 40 CFR 258.40(a)(2); or
+12 (c) Arid design. A site-specific arid design based upon environmen-
+13 tal performance, as allowed under 40 CFR 258.40(a)(1) which will ensure
+14 that the concentration values listed in table 1, 40 CFR 258.40, or as
+15 amended, will not be exceeded in the uppermost aquifer at the relevant
+16 point of compliance. This design shall use both field collected data
+17 and predictions that maximize contaminant migration for demonstrating
+18 no potential for migration. This design will apply to locations having
+19 less than twenty-five (25) inches of precipitation annually, net evapo-
+20 rative losses greater than thirty (30) inches annually, and holding ca-
+21 pacity in native soils greater than annual absorbance; and only applies
+22 if:
+23 (i) solid Solid waste is deposited no less than fifty (50) feet
+24 above the seasonal high level of ground water in the uppermost
+25 aquifer;
+26 (ii) the The geologic formation beneath the site and above the up-
+27 permost aquifer must have capillary capacities greater than the
+28 projected maximum volume of leachate generated during the active
+29 life of the MSWLF unit; and
+30 (iii) "no potential for migration" is demonstrated when the geo-
+31 logic formation beneath the site and above the uppermost aquifer
+32 has sufficient hydrogeological characteristics and holding ca-
+33 pacity adequate to contain all hazardous constituents generated
+34 during the active life, closure and post-closure care periods. No
+35 potential for migration is demonstrated; and
+36 (iv) The location has less than twenty-five (25) inches of precip-
+37 itation annually, net evaporative losses greater than thirty (30)
+38 inches annually, and a holding capacity in native soils greater
+39 than annual absorbance.
+40 (3) Point of compliance. For each MSWLF unit, the relevant point of
+41 compliance shall be set by a qualified professional by criteria contained
+42 in 40 CFR 258.40(d)(1) through (d)(8), inclusive, subject to approval by the
+43 director.
+44 (4) Leachate discharge shall comply with permitted discharge require-
+45 ments under the federal clean water act (PL 95-217) and federal storm water
+46 discharge regulations (40 CFR part 122).
+47 SECTION 15. That Section 39-7410, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+19
+1 39-7410 39-7411. GROUND WATER MONITORING DESIGN. (1) Applicability.
+2 These requirements apply This section applies to MSWLF units except:
+3 (a) When the MSWLF unit meets the conditions for exemption provided for
+4 in 40 CFR 258.1(f); provided however, that the director may, at his dis-
+5 cretion, require monitoring of a MSWLF unit which meets the conditions
+6 for exemption in 40 CFR 258.1(f), if necessary to protect ground water
+7 resources. If the director does require ground water monitoring of such
+8 MSWLF unit, a method other than the ground water monitoring wells re-
+9 quired in this section and in 40 CFR 258.51 through 258.55 may be used to
+10 detect a release of contamination from the unit; or
+11 (b) When suspended upon demonstration, in accordance with 40 CFR
+12 258.50, that there is no potential for migration of hazardous con-
+13 stituents from the MSWLF unit to the uppermost aquifer during the active
+14 life of the unit and the post-closure care periods when certified by a
+15 qualified professional and approved by the director.
+16 (2) Ground water monitoring program. All ground water monitoring pro-
+17 grams shall be conducted in a manner consistent with the guidance of relevant
+18 portions of appendix F per the "Federal Register" of October 9, 1991, or the
+19 solid waste disposal technical manual published by the United States envi-
+20 ronmental protection agency in November 1993 and revised in April 1998. The
+21 schedule for compliance as provided by 40 CFR 258.50 shall apply unless an
+22 alternative schedule is approved by the director.
+23 (a) A ground water monitoring system must be installed that consists
+24 of a sufficient number of wells, installed at appropriate locations and
+25 depths, to conform with the requirements of 40 CFR 258.51(a) and (d).
+26 (b) A multiunit ground water monitoring system may be constructed in-
+27 stead of separate ground water monitoring systems for each MSWLF unit as
+28 provided in 40 CFR 258.51(b).
+29 (c) Monitoring wells must be cased in a manner that maintains the
+30 integrity of the monitoring well bore hole as provided in 40 CFR
+31 258.51(c). Wells must be constructed in such a manner as to prevent
+32 contamination of the samples, the sampled strata, and between aquifers
+33 and water bearing strata, and in accordance with Idaho department of
+34 water resources, well construction standards and the monitoring well
+35 standards of the national ground water association.
+36 (3) Point of compliance. For each MSWLF unit, the relevant point of
+37 compliance shall be set as a function of site and monitoring program design
+38 subject to the approval of the director. The relevant point of compliance
+39 for purposes of MSWLF unit design, well location, and corrective action
+40 shall be:
+41 (a) Located within the flow pathway(s) predicted from the results of
+42 the hydrogeologic investigation;
+43 (b) No more than one hundred fifty (150) meters downgradient from the
+44 waste management unit boundary;
+45 (c) On contiguous property owned, or otherwise subject to possessory
+46 rights by the MSWLF owner;
+47 (d) Shall be identified Identified by the qualified professional on all
+48 reports and documents pertaining to analysis of ground water protection
+49 measures; and
+
+20
+1 (e) Determined in consideration of factors provided in 40 CFR
+2 258.40(d).
+3 (4) Ground water characterization, sampling and analysis require-
+4 ments.
+5 (a) (4) The ground water monitoring system must include sampling and
+6 analysis procedures consistent with 40 CFR 258.53.
+7 (b) (a) Monitoring wells shall be tested for the constituents listed in
+8 40 CFR 258, appendix I, plus temperature, unless otherwise authorized
+9 by the director as provided in 40 CFR 258.54.
+10 (c) (b) Background values will shall be based on an independent sample
+11 from each well sampled at three (3) month intervals in a one (1) year pe-
+12 riod.
+13 (5) Detection monitoring program.
+14 (a) (5) Detection monitoring is required throughout the active life and
+15 post-closure care period at MSWLF units as provided in 40 CFR 258.54 at all
+16 ground water monitoring wells as defined in 40 CFR 258.51(a)(1) and (a)(2)
+17 for constituents listed in 40 CFR 258, appendix I.
+18 (b) (a) Each well shall be monitored on a semiannual basis after back-
+19 ground characterization. Alternative constituents and sampling fre-
+20 quency may be approved by the director based upon considerations as de-
+21 fined in 40 CFR 258.54 (a)(2) and (b). Requests for alternative con-
+22 stituents or frequency shall be based on a report certified by a quali-
+23 fied professional.
+24 (c) (b) Each ground water sample event must include a determination of
+25 the ground water surface elevation, flow direction, and rate.
+26 SECTION 16. That Section 39-7411, Idaho Code, be, and the same is hereby
+27 amended to read as follows:
+28 39-7411 39-7412. DESIGN REVIEW PROCEDURE. (1) Design of a MSWLF unit
+29 shall not be reviewed until site certification has been obtained. After
+30 obtaining site certification, an applicant shall produce design plans and
+31 specifications which comply with the design standards set forth in sections
+32 39-7409 and 39-7410, Idaho Code this chapter. The responsibility for com-
+33 plying with said standards shall rest solely with the applicant of the site.
+34 (2) An applicant may notify the director of its intent to initiate a
+35 MSWLF site design and meet with the director to discuss standards, schedule,
+36 design process to be used and particular concerns of the director.
+37 (3) (2) The applicant shall conduct aerial and cadastral surveys, rel-
+38 evant studies, and prepare a hydrogeologic report which will satisfy stan-
+39 dards and other provisions in accordance with this chapter and applicable
+40 state regulations. Specific climatic data and verification of location re-
+41 strictions shall be included a preliminary investigation. In so doing, the
+42 applicant shall conduct aerial and cadastral surveys and perform other rel-
+43 evant studies to demonstrate compliance with this chapter and rules promul-
+44 gated pursuant thereto.
+45 (4) (3) The After completing the preliminary investigation, the appli-
+46 cant shall submit findings and a tentative design plan, including prelimi-
+47 nary schematic design of environmental monitoring systems to the director as
+48 a result of the preliminary design investigation. The submittal initiates
+49 a twenty-eight (28) day period for department review and comment. Concur-
+
+21
+1 rent with the submittal to the director, the applicant shall publish notice
+2 in a newspaper of general circulation, as determined by the criteria in sec-
+3 tion 31-819, Idaho Code, in the county wherein the MSWLF would be located no-
+4 tifying the public that a preliminary design plan has been submitted to the
+5 director and is available for public review. The date of publication ini-
+6 tiates a twenty-eight (28) day period for department review and public com-
+7 ment. Written public comments concerning the proposed design plan shall be
+8 compiled by the director. The compiled public comments received by the di-
+9 rector and those generated by the director shall be transmitted to the owner,
+10 and the applicant if other than the owner, no more than thirty-five (35) days
+11 after the date of publication of the notice or seven (7) days after the end
+12 of the public comment period, whichever is later. preliminary design plan to
+13 the director for review and approval pursuant to this chapter. The prelimi-
+14 nary design plan shall include:
+15 (a) A hydrogeologic report;
+16 (b) Climatic data;
+17 (c) Location restrictions;
+18 (d) A preliminary ground water monitoring plan;
+19 (e) A preliminary schematic design of environmental monitoring sys-
+20 tems;
+21 (f) A preliminary schematic design of the facility; and
+22 (g) Such other information as is relevant or necessary to demonstrate
+23 compliance with the provisions of this chapter and rules promulgated
+24 pursuant thereto and to provide for meaningful comment by the public and
+25 the department.
+26 (5) (4) When a response is received from the director, Upon approval of
+27 the preliminary design by the director, the applicant may submit the facil-
+28 ity design, ground water monitoring program, and specifications, in a final
+29 design report which addresses standards established by this chapter, appli-
+30 cable federal regulations and other relevant provisions of state law shall
+31 submit a final design report to the director for review and approval pursuant
+32 to this chapter.
+33 (a) Said submittal The final design report shall include:
+34 (i) a A site-specific analysis of hydrogeologic conditions,;
+35 (ii) location Location restrictions;
+36 (iii) and other factors Factors relevant to long-term site in-
+37 tegrity, and shall address comments from the public and the direc-
+38 tor related to objective standards in the final design report.;
+39 (iv) A ground water monitoring program;
+40 (v) Facility design and specifications; and
+41 (vi) Such other information as is relevant or necessary to demon-
+42 strate compliance with the provisions of this chapter and rules
+43 promulgated pursuant thereto.
+44 (b) Said The submittal shall be prepared and stamped by a qualified
+45 professional in a manner consistent with sound professional practices.
+46 The submittal of this final design report initiates a fifty-six (56) day
+47 period for the director's review.
+48 (6) Concurrent with submittal to the director, the applicant shall re-
+49 lease the final design report, including all supporting reports, plans and
+50 documentation, to the extent practicable, for public comment by placing it
+
+22
+1 for inspection at every public library within the county where the proposed
+2 MSWLF would be located. Copies of the submittal shall be made available for
+3 possession, at the cost of duplication, at a public location in the county
+4 seat of the county where the proposed MSWLF unit would be located. The ap-
+5 plicant shall publish notice in a newspaper of general circulation, as de-
+6 termined by the criteria in section 31-819, Idaho Code, in the county wherein
+7 the MSWLF would be located notifying the public that a final design report
+8 has been submitted to the director and is available for public review. Pub-
+9 lic comments shall be submitted, in writing, to the director within twenty-
+10 eight (28) days of the date of publication.
+11 (7) No more than fifty-six (56) days after publication of notice of sub-
+12 mittal, or twenty-eight (28) days after the close of an advertised public
+13 comment period, whichever is later, the director shall enter a decision ei-
+14 ther approving or disapproving the final design. The decision shall be in
+15 writing and shall make one (1) of the following findings:
+16 (a) Based upon the information submitted, design complies with appli-
+17 cable standards.
+18 (b) Based upon the information submitted, the design does not comply
+19 with applicable standards, setting forth with specificity the material
+20 standards not met or insufficiently documented.
+21 (c) Failure to comport with professional standards.
+22 Failure of the director to respond to an applicant's request for ap-
+23 proval in the manner provided herein shall constitute approval of the
+24 request. Construction shall not be initiated on a MSWLF unit until approval
+25 has been granted, except that construction prior to approval may be initi-
+26 ated prior to July 1, 1993, for a MSWLF unit which meets the design standard
+27 of section 39-7409(2)(a), Idaho Code. The applicant shall publish notice of
+28 approval in a newspaper of general circulation when affirmative or defacto
+29 approval is given.
+30 (8) Upon entering a decision of disapproval, an automatic twenty-one
+31 (21) day stay of proceedings shall occur unless waived by the applicant.
+32 During the twenty-one (21) day stay, the director and the applicant may meet
+33 and confer to attempt to reconcile differences. At any point during that
+34 twenty-one (21) day period the director and applicant can reach an accord and
+35 approval can be granted, with construction authorized at that point. The
+36 applicant can tender a written waiver of this twenty-one (21) day reconcili-
+37 ation period which would initiate the requirement provided for in subsection
+38 (9) of this section. At any time in the review process or post-decision rec-
+39 onciliation process the applicant and director may mutually agree to extend
+40 the timeframes contained herein and may resort to mediation, arbitration, or
+41 binding arbitration to resolve differences as they mutually see fit.
+42 (9) If differences are not reconciled in the period set forth in subsec-
+43 tion (8) of this section, the director shall notify the owner that the design
+44 remains disapproved. Said notice of disapproval shall incorporate the ra-
+45 tionale for disapproval contained in the original decision of disapproval,
+46 deleting any issues resolved in the post-decision reconciliation period.
+47 (10) Following final action by the director the applicant may file a pe-
+48 tition with the district court, with concurrent notice to the director, in
+49 the county where the proposed MSWLF would be located for expedited appellate
+50 review of the director's decision. The petition shall set forth the specific
+
+23
+1 basis for the appeal and shall identify the legal and factual basis for con-
+2 testing the disapproval by the director. The director shall submit a copy
+3 of the entire record upon which its disapproval has been based no more than
+4 fourteen (14) days after the date the applicant's petition for review has
+5 been filed. Only information which has been available during the design re-
+6 view process may be used in the judicial review process.
+7 (11) All issues claimed as a basis of appeal by the applicant shall be
+8 addressed in a memorandum filed with the petition appealing disapproval by
+9 the director. The director shall submit a reply memorandum no later than
+10 fourteen (14) days after the applicant's petition for review has been filed.
+11 (12) Upon the record, the applicable law, the memoranda of the respec-
+12 tive parties, and such independent technical assistance as the court may
+13 find it necessary and appropriate to retain, the court shall evaluate the
+14 applicant's petition and the decision by the director and shall render a
+15 decision no more than twenty-one (21) days after the completed record, and
+16 accompanying memorandum, if one is filed, are submitted to the court by the
+17 director. The court shall sustain the director's disapproval action if
+18 it affirmatively finds that the record contains substantial evidence that
+19 the design does not comply with standards as specified pursuant to section
+20 39-7412(7)(b) or (c), Idaho Code. If the court finds the disapproval is
+21 not supported by substantial evidence in the record, it shall reverse the
+22 director's action and remand the matter to the director with appropriate
+23 instructions.
+24 (13) The procedure set forth in subsections (10) through (12) of this
+25 section are effective until January 1, 1994. On and after January 1, 1994,
+26 the applicant is entitled to judicial review pursuant to chapter 67, title
+27 52, Idaho Code. Upon waiver or expiration of the twenty-one (21) day recon-
+28 ciliation period, the director and the applicant shall stipulate to accel-
+29 erated judicial review pursuant to court approval where the ordinary review
+30 period provided in chapter 67, title 52, Idaho Code, may reasonably result in
+31 substantial increased costs to the applicant, potential violations of fed-
+32 eral or state environmental laws or threats to the public health and environ-
+33 ment.
+34 (5) Expansion of the site, facility, or operations, including adding a
+35 CWF, or addition of activities not included in the approved preliminary de-
+36 sign shall require the applicant to submit an application to update the pre-
+37 liminary design with the department for review and approval. The review and
+38 approval process for such applications shall depend on whether the proposed
+39 action is considered to be a major or minor modification.
+40 SECTION 17. That Section 39-7412, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 39-7412 39-7413. STANDARDS FOR OPERATION. Owners or operators of all
+43 MSWLF units shall:
+44 (1) Obtain site certification, design approval, and operating plan ap-
+45 proval prior to accepting waste;
+46 (1) (2) Implement a program for detecting and preventing disposal of
+47 regulated hazardous wastes as provided in 40 CFR 258.20;
+
+24
+1 (2) (3) Provide for daily cover as provided in 40 CFR 258.21. Alterna-
+2 tive materials or cover frequency other than daily cover may be used only as
+3 specified by the MSWLF plan of operation;
+4 (3) (4) Provide disease vector control as provided in 40 CFR 258.22;
+5 (4) (5) Implement a program of routine methane monitoring and control
+6 as provided in 40 CFR 258.23;
+7 (5) (6) Ensure that MSWLF units do not violate any ambient air quality
+8 standard or emission standard from any emission of landfill gases, combus-
+9 tion or any other emission associated with a MSWLF unit as provided in 40 CFR
+10 258.24;
+11 (6) (7) Provide and control access as provided in 40 CFR 258.25;
+12 (7) (8) Design, construct, and maintain a run-on/run-off run-on and
+13 run-off control systems as provided in 40 CFR 258.26 to:
+14 (a) Prevent all the run-on of surface waters and other liquids result-
+15 ing from a maximum flow of a twenty-five (25) year storm, or snowmelt
+16 into the active portion of the MSWLF unit;
+17 (b) Control the collection of the run-off of surface waters and other
+18 liquids resulting from a twenty-four (24) hour, twenty-five (25) year
+19 storm, or snowmelt, whichever is greater, from the active portion and
+20 the closed portions of a MSWLF unit; and
+21 (c) Prevent the discharge of pollutants into waters of the United
+22 States and the state of Idaho as defined in 40 CFR 258.27;
+23 (8) (9) Prohibit the disposal of noncontainerized liquids or sludges
+24 containing free liquids in MSWLF units except as provided in 40 CFR 258.28;
+25 (9) (10) Establish an operating and recordkeeping procedure as provided
+26 in 40 CFR 258.29; and
+27 (10) (11) Comply with operating procedures established by the board for
+28 implementation by the districts department, which are intended to assure
+29 ensure operations which protect the public health and maintain the integrity
+30 of the landfill design.; and
+31 (11) (12) For MSWLF units that dispose of greater more than twenty (20)
+32 tons per day of municipal solid waste based on an annual average shall:
+33 (a) Monitor daily climatic conditions. Monitoring shall include
+34 precipitation including snow, evaporation, evaporative water temper-
+35 ature, air temperature, wind speed and direction precipitation, air
+36 temperature, and wind speed and direction through on-site facilities or
+37 a designated local weather station; and
+38 (b) Weigh all incoming waste or provide an equivalent method of measur-
+39 ing waste tonnage capable of estimating total annual solid waste ton-
+40 nage.
+41 SECTION 18. That Section 39-7413, Idaho Code, be, and the same is hereby
+42 amended to read as follows:
+43 39-7413 39-7414. OPERATIONS PLAN REVIEW. (1) Prior to operation of
+44 a MSWLF unit, an operations plan shall be submitted to the health district
+45 with jurisdiction department. It shall be the responsibility of each appli-
+46 cant of a MSWLF unit to certify to the health district department that the
+47 provisions of section 39-7412, Idaho Code, have been complied with through
+48 development of an operating plan operations plan complies with this chapter
+49 and rules promulgated pursuant thereto. No solid waste disposal facility
+
+25
+1 shall accept waste without a current operating certificate from the health
+2 district with jurisdiction department.
+3 (2) The health district shall review operational plans in the same
+4 manner as the director reviews requests for site certification pursuant to
+5 section 39-7408, Idaho Code. An applicant shall provide information in the
+6 operations plan in sufficient detail to show compliance with the provisions
+7 of section 39-7412, Idaho Code, and required procedures adopted pursuant
+8 thereto. The same standards of review shall apply to an operations plan as
+9 apply to the site certification process. The health district shall accept
+10 certification by a qualified professional that standards of operation have
+11 been met upon presentation of the professional's certification of compli-
+12 ance and presentation of a written explanation of operational practices
+13 which will be undertaken to meet standards established in section 39-7412,
+14 Idaho Code this chapter and rules promulgated pursuant thereto.
+15 (3) If an operations plan provides for alternative operating criteria
+16 requiring approval by the director as provided in 40 CFR 258, the health dis-
+17 trict shall make a decision recommending approval or disapproval. Such plan
+18 shall be submitted by the health district to the director for his review. The
+19 submittal shall be accompanied by findings of fact and the recommendation
+20 from the health district. Proposed alternative operating criteria may be
+21 included in the operations plan for review and approval by the director pur-
+22 suant to this chapter. Alternative operating criteria may also be approved
+23 by submitting an application to amend the operations plan with the depart-
+24 ment. The review and approval process for such applications shall depend on
+25 whether the proposed operating criteria is considered to be a major or minor
+26 modification.
+27 (4) The director shall review the recommendation submitted by the
+28 health districts and shall make a decision to approve or disapprove. The
+29 director shall review recommendations for approval using the same stan-
+30 dards of review provided in section 39-7408(2)(e), Idaho Code. Expansion
+31 of the site, facility, or operations, including adding a CWF, or addition
+32 of activities not included in the approved operations plan shall require
+33 the applicant to submit an application to amend the operations plan with the
+34 department. The review and approval process for such applications shall
+35 depend on whether the proposed operating criteria is considered to be a major
+36 or minor modification.
+37 (5) Operations plans shall be recertified every five (5) years, at a
+38 minimum, pursuant to this chapter.
+39 (6) The review and approval process for a new operations plan, an amend-
+40 ment thereto, or recertification thereof shall be conducted pursuant to this
+41 chapter.
+42 SECTION 19. That Section 39-7414, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 39-7414 39-7415. ASSESSMENT MONITORING AND CORRECTIVE ACTION. (1)
+45 Applicability. These standards apply whenever a statistically significant
+46 increase over background has been detected for one (1) or more constituents
+47 listed in 40 CFR 258, appendix I or an alternative list approved in accor-
+48 dance with 40 CFR 258.54(a)(2).
+
+26
+1 (2) Assessment monitoring programs shall be performed in accordance
+2 with 40 CFR 258.55.
+3 (3) Assessment of corrective measures shall be performed in accordance
+4 with 40 CFR 258.56. Pursuant to 40 CFR 258.56, the owner or operator shall
+5 discuss the results of the corrective measures assessment, prior to the se-
+6 lection of a remedy, in a public meeting with interested and affected per-
+7 sons.
+8 (4) Selection of a remedy shall be performed in accordance with 40 CFR
+9 258.57.
+10 (5) Implementation of a corrective action program shall be performed in
+11 accordance with 40 CFR 258.58.
+12 SECTION 20. That Section 39-7415, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 39-7415 39-7416. STANDARDS FOR CLOSURE. (1) Applicability. These
+15 standards apply to all MSWLF units that receive wastes on or after October 9,
+16 1993, except as provided by 40 CFR 258. MSWLF units that accept waste after
+17 October 9, 1991, but cease to accept waste prior to October 9, 1993, shall,
+18 at a minimum, comply with subsections (2)(a) and (3) of this section in addi-
+19 tion to the "sanitary landfill closure guidance" criteria as adopted by the
+20 health district technical guidance committee on June 8, 1990.
+21 (2) Cover designs. Owners or operators of MSWLF units shall install one
+22 (1) of the following final cover systems:
+23 (a) A cover as provided under in 40 CFR 258.60(a) or (b); or
+24 (b) The cover material must be fine-grained A cover that has a
+25 fine-grained cover material with intrinsic permeability no greater
+26 than 1 X 10-3 cm/sec and a minimum thickness of twenty-four (24) inches;
+27 and:
+28 (i) Have There is a capillary holding capacity greater than the
+29 projected maximum accumulated volume of water as determined by
+30 utilization of accepted water balance methodology based on local
+31 or regional twenty-five (25) year climatic records;
+32 (ii) Annual precipitation is less than twenty-five (25) inches
+33 with net evaporative losses greater than thirty (30) inches annu-
+34 ally;
+35 (iii) The top six (6) inches of the cover shall be capable of sus-
+36 taining shallow rooted native plant growth; and
+37 (iv) This design shall demonstrate The design demonstrates
+38 consideration of site specific factors as provided in 40 CFR
+39 258.60(b); or.
+40 (c) As provided in 40 CFR 258.60(b).
+41 (3) The final grade of slopes shall be greater than two percent (2%)
+42 unless otherwise supported by the post-closure plan and uses approved by
+43 the health district department, and the grade of side slopes not more than
+44 thirty-three percent (33%).
+45 (4) Closure plan preparation, placement in operating record, notice of
+46 intent to close, time requirements for commencement and completion of clo-
+47 sure activities, certification, deed notation recordation of an environmen-
+48 tal covenant, and removal of deed notation an environmental covenant shall
+49 be conducted as provided in 40 CFR 258.60(c) through (j), inclusive. The
+
+27
+1 deed notation and removal of deed notation recordation and removal of an en-
+2 vironmental covenant shall comply with the uniform environmental covenants
+3 act, chapter 30, title 55, Idaho Code.
+4 (5) After completion and certification of an MSWLF closure, the owner
+5 or operator shall record an environmental covenant, pursuant to the uniform
+6 environmental covenants act, chapter 30, title 55, Idaho Code, on the prop-
+7 erty where the MSWLF is located, and its future use may be restricted in ac-
+8 cordance with a post-closure care plan. A copy of the environmental covenant
+9 shall be sent to the department after recording with the county clerk.
+10 (6) The review and approval process for a closure plan shall be con-
+11 ducted pursuant to this chapter.
+12 (7) The owner or operator of an MSWLF that is closing shall cause no-
+13 tice of closure to be published in a newspaper of general circulation in the
+14 county and in the immediate vicinity of the facility and shall post notice of
+15 closure signs at the facility's entrance. The notice shall be published and
+16 posted:
+17 (a) Between thirty (30) and ninety (90) days before the date of last re-
+18 ceipt of waste for a facility that has reached disposal capacity; or
+19 (b) Between thirty (30) and ninety (90) days before the closure, if the
+20 facility has remaining capacity and there is a reasonable likelihood
+21 that the facility will receive additional waste.
+22 SECTION 21. That Section 39-7416, Idaho Code, be, and the same is hereby
+23 amended to read as follows:
+24 39-7416 39-7417. STANDARDS FOR POST-CLOSURE CARE. (1) Applicability.
+25 Post-closure maintenance standards apply to all MSWLF units that receive
+26 wastes on or after October 9, 1993, except as provided by 40 CFR 258.1.
+27 (2) Post-closure care shall be conducted as provided under in 40 CFR
+28 258.61.
+29 (3) The review and approval process for a post-closure care plan shall
+30 be conducted pursuant to this chapter.
+31 SECTION 22. That Section 39-7417, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 39-7417 39-7418. FINANCIAL ASSURANCE FOR CLOSURE, POST-
+34 CLOSURE CARE, AND CORRECTIVE ACTION. (1) Applicability. These requirements
+35 shall apply to new MSWLF units, existing MSWLF units, and lateral expan-
+36 sions, except as exempted in 40 CFR 258.1(d) and 258.70(a).
+37 (2) The requirements of this section are effective April 9, 1995, ex-
+38 cept for MSWLF units meeting the conditions of 40 CFR 258.1(f)(1), in which
+39 case the effective date is October 9, 1995, or at such later date upon subse-
+40 quent amendment of 40 CFR 258.70 through 258.74.
+41 (3) All MSWLF units shall be underwritten by financial assurance provi-
+42 sions as provided by the following:
+43 (a) Closure as provided in 40 CFR 258.71;
+44 (b) Post-closure care as provided in 40 CFR 258.72; and
+45 (c) Corrective action as provided in 40 CFR 258.73.
+
+28
+1 (4) The financial assurance mechanisms provided for MSWLF units shall
+2 include any mechanism or a combination of mechanisms meeting the criteria of
+3 40 CFR 258.74.
+4 (5) Counties may use available borrowing capability through registered
+5 warrants for a prearranged amount and preapproved by a lending institution
+6 as a financial mechanism to assure assessment monitoring and corrective ac-
+7 tion needs.
+8 (6) Subdivisions of the state may use any method provided by law to meet
+9 the requirements of this section.
+10 (7) MSWLF units owned or operated by subdivisions of the state that
+11 qualify under 40 CFR 258.74(f) may include any mechanism allowed to them upon
+12 adoption and publication.
+13 (8) Financial assurance funds for MSWLF units not located on federal or
+14 state lands shall be deposited in a county trust fund in the county in which
+15 the MSWLF unit is located. The county shall act as the trustee for the trust
+16 funds, and as named coprincipal for surety bonds, letters of credit, and in-
+17 surance. As trustee, the county may require an independent audit of the ad-
+18 equacy of the financial assurance but shall not become liable for financial
+19 assurance except in the case of default as otherwise defined by federal and
+20 state law.
+21 (9) The review and approval process for a financial assurance plan
+22 shall be conducted pursuant to this chapter.
+23 SECTION 23. That Section 39-7418, Idaho Code, be, and the same is hereby
+24 amended to read as follows:
+25 39-7418 39-7419. MODIFICATIONS TO SITES APPROVED UNDER THIS CHAP-
+26 TER. (1) The following classes of modifications to approved sites shall
+27 require that an owner or operator amend the approved design or ground water
+28 monitoring program be considered major modifications:
+29 (a) Lateral expansion outside the approved waste management unit
+30 boundary design;
+31 (b) Unpredictable change affecting any environmental monitoring pro-
+32 gram;
+33 (c) Change of liner design, if not equivalent to the approved prelimi-
+34 nary design's liner design; or
+35 (d) A modification of the design or operation due to initiation of cor-
+36 rective action and remediation.; or
+37 (e) Any change to operation or design that, as determined by a quali-
+38 fied professional and affirmed by the director, may appear to result in
+39 an increased risk to human health or the environment.
+40 (2) The following modifications shall be considered minor modifica-
+41 tions:
+42 (a) Waste processing methodologies;
+43 (b) Installation or decommissioning of landfill gas extraction or
+44 ground water monitoring wells;
+45 (c) Alternative daily cover practices;
+46 (d) Solid waste diversion programs; or
+47 (e) Other actions or modifications that, as determined by a qualified
+48 professional and affirmed by the director, will not result in an in-
+49 creased risk to human health or the environment.
+
+29
+1 (3) The director may further define the scope of subsections (1) and (2)
+2 of this section by rule or other official policy document.
+3 (2) The scope of new investigations and plan amendment shall be defined
+4 by the owner, director and health district before any modification to the de-
+5 cision is begun. Only those stages of the applicable approval process af-
+6 fected by the request for modification shall be required.
+7 (4) The owner or operator of a facility shall apply to and obtain ap-
+8 proval from the director prior to implementing a major or minor modifica-
+9 tion.
+10 (5)(a) An applicant may request, in writing, that the director provide
+11 a preliminary determination on whether a modification is major or mi-
+12 nor. Such preliminary determination shall not prohibit the director
+13 from making a different determination after reviewing a formal major or
+14 minor modification application.
+15 (b) The director shall provide a preliminary decision within fourteen
+16 (14) days of receiving the request if the request is submitted with a
+17 summary of the proposed changes. If no such summary is provided, the
+18 director shall provide a preliminary decision within twenty-eight (28)
+19 days of receiving the request.
+20 (6) The review and approval process for a major or minor modification
+21 application shall be conducted pursuant to this chapter.
+22 (a) Notice of a rejected minor modification application shall be sent
+23 with empirical evidence that the modification will increase the risk to
+24 human health or the environment.
+25 (b) An applicant may appeal any rejection or condition of modification
+26 pursuant to the procedures provided in this chapter.
+27 (7) Approved and implemented major and minor modifications shall be ac-
+28 counted for in the operations plan when the plan is submitted for recertifi-
+29 cation. Such modifications may be accounted for prior to recertification by
+30 submitting an operations plan amendment with the director for review and ap-
+31 proval pursuant to this chapter.
+32 SECTION 24. That Chapter 74, Title 39, Idaho Code, be, and the same is
+33 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+34 ignated as Section 39-7420, Idaho Code, and to read as follows:
+35 39-7420. REVIEW, APPROVAL, AND RECONCILIATION PROCESSES -- GENERAL
+36 PROVISIONS. (1) A prospective applicant may request to meet with the de-
+37 partment to discuss applicable standards, schedules, processes, potential
+38 concerns, and other information relevant to submitting an application pur-
+39 suant to the provisions of this chapter.
+40 (2)(a) Wherever technical evaluation of relevant information is re-
+41 quired during the application process, a qualified professional, as
+42 appropriate, shall certify compliance with the applicable standards.
+43 (b) The director shall accept certification by a qualified profes-
+44 sional that standards have been met upon presentation of the profes-
+45 sional's certification of compliance and presentation of a written
+46 explanation of operational practices that will be undertaken to meet
+47 applicable standards.
+48 (3) Failure of the department or director to adhere to the statutory
+49 deadlines provided for in this chapter shall constitute:
+
+30
+1 (a) Notice that an application is determined to be complete; or
+2 (b) Approval of an application.
+3 (4) At any time in the review or reconciliation process, the applicant
+4 and director may agree, in writing, to:
+5 (a) Extend any of the statutory time frames provided for in this chap-
+6 ter; or
+7 (b) Enter into mediation or arbitration.
+8 (5) Upon receipt of notice of approval, the applicant shall cause no-
+9 tice to be published pursuant to this chapter, informing the public of such
+10 approval.
+11 SECTION 25. That Chapter 74, Title 39, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 39-7421, Idaho Code, and to read as follows:
+14 39-7421. PUBLIC REVIEW AND APPROVAL PROCESS. (1) The process set forth
+15 in this section applies to the following applications:
+16 (a) Site certifications;
+17 (b) Preliminary designs;
+18 (c) New operations plans;
+19 (d) Major modifications; and
+20 (e) Research, development, and demonstration permits and permit re-
+21 newals.
+22 (2) Within fourteen (14) days of receiving an application, the depart-
+23 ment shall notify the applicant, in writing, that the application is com-
+24 plete or incomplete.
+25 (a) If the application is deemed incomplete by the department, the no-
+26 tice shall:
+27 (i) Explain the application's deficiencies;
+28 (ii) Identify applicable standards, requirements, and other in-
+29 formation relied on by the department in determining that the ap-
+30 plication is incomplete;
+31 (iii) Inform the applicant that the application can be resubmitted
+32 pursuant to this section; and
+33 (iv) State that the applicant may request a meeting with the de-
+34 partment to review the application, its deficiencies, and solu-
+35 tions thereto.
+36 (b) Incomplete applications can be resubmitted within one (1) year of
+37 the date on the department's notice. The resubmitted application shall
+38 address all deficiencies identified in the notice. The department
+39 shall have fourteen (14) days to review the resubmitted application.
+40 If the department determines that deficiencies remain, the department
+41 shall notify the applicant, in writing, that the application has been
+42 rejected and shall include in such notice an explanation of the defi-
+43 ciencies and information relied on in making such determination.
+44 (3)(a) Upon receipt of the department's determination that an applica-
+45 tion is complete, the applicant shall:
+46 (i) Cause notice to be published in a newspaper of general circu-
+47 lation in the county where the facility is located, or proposed to
+48 be located, once a week for two (2) consecutive weeks;
+
+31
+1 (ii) Cause notice to be posted in the immediate vicinity of the fa-
+2 cility or proposed facility during the publication and public com-
+3 ment period;
+4 (iii) Provide written notice to the county in which the facility or
+5 proposed facility is located; and
+6 (iv) Provide a copy of such notices to the department within five
+7 (5) business days of the second publication.
+8 (b) The notice shall include:
+9 (i) The name and location of the facility or proposed facility;
+10 (ii) A general description of the proposed operations or modifi-
+11 cations;
+12 (iii) The place where the application may be reviewed; and
+13 (iv) Instructions directing the public to submit comments to the
+14 department within thirty-five (35) days of the date of the second
+15 publication.
+16 (4) Within fourteen (14) days of the end of the public comment period,
+17 the department shall provide the applicant with all of the public comments
+18 received by the department and may provide comments of its own. The ap-
+19 plicant may provide the department with a response to the comments within
+20 twenty-one (21) days of receiving the comments from the department.
+21 (5) Within seventy (70) days of the end of the public comment period,
+22 the director shall notify the applicant, in writing, that the application
+23 has been accepted or rejected.
+24 (a) When reviewing an application, the director shall:
+25 (i) Consider all of the comments received, including the depart-
+26 ment's and the applicant's, if provided; and
+27 (ii) Defer to the opinion of the applicant's qualified profes-
+28 sionals, unless there is reliable empirical evidence that the af-
+29 firmations in the application are erroneous.
+30 (b) An application shall be approved if the director determines that
+31 all applicable standards, requirements, and criteria of applicable
+32 law, rules, and regulations have been satisfied.
+33 (c) A rejected application shall be accompanied by written findings
+34 that thoroughly explain the reason for rejecting the application and
+35 provide the rationale, evidence, applicable standards, requirements,
+36 and information relied on by the director in rejecting the application.
+37 SECTION 26. That Chapter 74, Title 39, Idaho Code, be, and the same is
+38 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+39 ignated as Section 39-7422, Idaho Code, and to read as follows:
+40 39-7422. ADMINISTRATIVE REVIEW AND APPROVAL PROCESS. (1) The process
+41 set forth in this section applies to the following applications:
+42 (a) Final design reports;
+43 (b) Ground water monitoring plans;
+44 (c) Operations plan recertifications or amendments;
+45 (d) Closure plans;
+46 (e) Post-closure care plans;
+47 (f) Financial assurance plans; and
+48 (g) Minor modifications.
+
+32
+1 (2) Within fourteen (14) days of receiving an application, the depart-
+2 ment shall notify the applicant, in writing, that the application is com-
+3 plete or incomplete.
+4 (a) If the application is deemed incomplete by the department, the no-
+5 tice shall:
+6 (i) Explain the application's deficiencies;
+7 (ii) Identify applicable standards, requirements, and other in-
+8 formation relied on by the department in determining that the ap-
+9 plication is incomplete;
+10 (iii) Inform the applicant that the application can be resubmitted
+11 pursuant to this section; and
+12 (iv) State that the applicant may request a meeting with the de-
+13 partment to review the application, its deficiencies, and solu-
+14 tions thereto.
+15 (b) Incomplete applications can be resubmitted within six (6) months of
+16 the date on the department's notice. The resubmitted application shall
+17 address all deficiencies identified in the notice. The department
+18 shall have fourteen (14) days to review the resubmitted application.
+19 If the department determines that deficiencies remain, the department
+20 shall notify the applicant, in writing, that the application has been
+21 rejected and shall include in such notice an explanation of the defi-
+22 ciencies and information relied on in making such determination.
+23 (3) Within thirty-five (35) days of the date on the notice of a complete
+24 application, the director shall notify the applicant, in writing, that the
+25 application has been accepted or rejected.
+26 (a) When reviewing an application, the director shall defer to the
+27 opinion of the applicant's qualified professionals, unless there is
+28 reliable empirical evidence that the affirmations in the application
+29 are erroneous.
+30 (b) An application shall be approved if the director determines that
+31 all applicable standards, requirements, and criteria of applicable lo-
+32 cal, state, and federal law, rules, and regulations have been satis-
+33 fied.
+34 (c) A rejected application shall be accompanied by written findings
+35 that thoroughly explain the reason for rejecting the application and
+36 provide the rationale, evidence, applicable standards, requirements,
+37 and information relied on by the director in rejecting the application.
+38 SECTION 27. That Chapter 74, Title 39, Idaho Code, be, and the same is
+39 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+40 ignated as Section 39-7423, Idaho Code, and to read as follows:
+41 39-7423. RECONCILIATION PROCESS -- ADMINISTRATIVE AND JUDICIAL RE-
+42 VIEW. (1) Upon notice of application rejection, an automatic twenty-one (21)
+43 day stay of proceedings shall commence, unless such stay is waived by the
+44 applicant in writing.
+45 (2) If, at any point during the stay, the director determines that a
+46 reconciled application satisfies all of the applicable standards, require-
+47 ments, and criteria of applicable local, state, and federal law, rules, and
+48 regulations, the director shall issue a notice of approval.
+49 (3) Upon waiver or expiration of the stay:
+
+33
+1 (a) The director shall provide the applicant with a written notice
+2 that:
+3 (i) Informs the applicant that the application remains rejected;
+4 (ii) Includes a revised explanation of the rationale and basis for
+5 rejection; and
+6 (iii) Informs the applicant that the applicant is entitled to ju-
+7 dicial review pursuant to this section and chapter 52, title 67,
+8 Idaho Code; and
+9 (b) The applicant, the department, and affected persons are entitled
+10 to judicial review pursuant to chapter 52, title 67, Idaho Code. If ju-
+11 dicial review is sought by the applicant or director, the parties shall
+12 stipulate to accelerated judicial review pursuant to court approval
+13 when the ordinary review period provided in chapter 52, title 67, Idaho
+14 Code, may reasonably result in substantial increased costs to the ap-
+15 plicant, potential violations of federal or state environmental laws,
+16 or threats to public health and the environment.
+17 SECTION 28. That Chapter 74, Title 39, Idaho Code, be, and the same is
+18 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+19 ignated as Section 39-7424, Idaho Code, and to read as follows:
+20 39-7424. SOLID WASTE DISPOSAL FEES. (1) In order to facilitate the
+21 department assuming the responsibility for the activities formerly the
+22 responsibility of the various public health districts, it is necessary to
+23 impose a system of fees upon each municipal solid waste disposal facility
+24 or site authorized pursuant to this chapter, or other disposal facility
+25 authorized by the director, to support the additional regulatory responsi-
+26 bilities of the department. Costs and expenses incurred by the department
+27 in performing the duties provided for in this chapter that were formerly the
+28 responsibility of the various public health districts shall be paid out of
+29 the solid waste regulatory fund created in this chapter. The fees imposed
+30 pursuant to this section shall apply to all solid waste disposed of in an
+31 MSWLF located within this state, whether disposal remains in state or is
+32 exported out of state, and regardless of whether such waste is subsequently
+33 mined or otherwise recovered for items of value.
+34 (2) Each facility subject to regulation pursuant to this chapter shall
+35 pay an annual inspection fee.
+36 (a) MSWLFs shall pay an annual inspection fee of four thousand dollars
+37 ($4,000).
+38 (b) All other solid waste facilities shall pay an annual inspection fee
+39 in an amount to be established by the director.
+40 (3) In addition to the annual inspection fee, a tonnage fee of seven
+41 cents ($0.07) per ton of solid waste shall be imposed. The tonnage fee shall
+42 be assessed only on:
+43 (a) Solid waste disposed of at an MSWLF in the state of Idaho; and
+44 (b) Solid waste accepted at a transfer station and transported for dis-
+45 posal at an MSWLF located outside the state of Idaho.
+46 (4) Applicants shall pay an application fee in an amount to be estab-
+47 lished by the director at the time of submitting an application to the de-
+48 partment. Application fees are intended to promote accountability by ensur-
+49 ing complete and accurate submittal and not to cover the full costs incurred
+
+34
+1 by the department when carrying out its duties during application review and
+2 administration.
+3 (5) The legislature shall reevaluate the sufficiency of this section's
+4 fee amounts in the 2030 legislative session and shall adjust the fees accord-
+5 ingly, if necessary.
+6 SECTION 29. That Chapter 74, Title 39, Idaho Code, be, and the same is
+7 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+8 ignated as Section 39-7425, Idaho Code, and to read as follows:
+9 39-7425. COLLECTION OF FEES AND REPORTING. (1) The annual inspection
+10 fee shall be due and payable on or before October 31 of each year. The de-
+11 partment may adopt rules for pro-rating the annual inspection fee for new or
+12 closed facilities.
+13 (2) The tonnage fees shall be due and payable in monthly installments by
+14 the owner, operator, or designated employee or agent of such disposal facil-
+15 ity or site.
+16 (a) On or before the thirtieth day following the end of each monthly
+17 period in which the fee imposed pursuant to this chapter accrued, the
+18 owner, operator, or designated employee or agent shall file a return
+19 with the department on such forms as the department may require. The re-
+20 turn shall be signed and shall include:
+21 (i) The quantity of waste in tons for facilities with scales;
+22 (ii) The quantity of waste in tons, using five hundred (500)
+23 pounds per cubic yard, for facilities exempt from having scales;
+24 (iii) The amount of the fee for which the owner or operator is li-
+25 able for the preceding monthly period; and
+26 (iv) The remittance for such amount in such form required by the
+27 department.
+28 (b) The department may relieve any person from the obligation of fil-
+29 ing monthly returns and may instead require the return to cover other
+30 reporting periods, but in no event shall returns be filed for a period
+31 greater than three (3) months.
+32 SECTION 30. That Chapter 74, Title 39, Idaho Code, be, and the same is
+33 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+34 ignated as Section 39-7426, Idaho Code, and to read as follows:
+35 39-7426. SOLID WASTE REGULATORY FUND. (1) There is hereby created and
+36 established in the state treasury the solid waste regulatory fund.
+37 (2) The fund shall consist of revenues from the fees imposed by this
+38 chapter, together with any penalties, interest, or deficiency moneys col-
+39 lected by the department pursuant to the provisions of this chapter, and such
+40 other moneys that may be provided by legislative appropriation.
+41 (3) Moneys in the fund and all interest earned thereon shall be kept in
+42 the solid waste regulatory fund and shall be expended by the department for
+43 the technical, legal, inspection, and administrative support necessary for
+44 implementing this chapter and rules promulgated to meet requirements of this
+45 chapter and applicable federal regulations.
+
+35
+1 SECTION 31. That Section 39-7419, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 39-7419 39-7427. INSPECTIONS. (1) All MSWLF units shall be subject to
+4 routine inspection by the county, owner and director and health district in
+5 accordance with relevant provisions of the Idaho Code.
+6 (2) At intervals of not less than three (3) years, nor more than five (5)
+7 years, the owner, county, director and health district shall jointly conduct
+8 a comprehensive review of the MSWLF unit for provisions contained in this
+9 chapter, technical guidance, other provisions, and the plan for design and
+10 operation, as amended. A record of the review shall be placed in the oper-
+11 ating record of the MSWLF unit which shall be maintained by the owner and the
+12 health district with jurisdiction. Operating procedures shall be recerti-
+13 fied at intervals of no more than three (3) years.
+14 (2)(a) Facilities subject to the imposition of the fees provided for in
+15 this chapter shall keep complete and accurate records, including cer-
+16 tified scale or volume data as identified in this chapter, itemized in-
+17 voices, shipping papers, and manifests for all types and quantities of
+18 solid waste subject to the fees imposed by this chapter.
+19 (b) All books, documents, papers, electronic records, and other infor-
+20 mation required to be kept by this section shall be preserved for a pe-
+21 riod of at least five (5) years from the date of the record or the date of
+22 the entries appearing therein, unless the department, in writing, au-
+23 thorizes their destruction or disposal at an earlier date.
+24 (3) An authorized agent or employee of the department may enter any fa-
+25 cility or site subject to the provisions of this chapter during normal busi-
+26 ness hours and inspect the premises and records required to be kept pursuant
+27 to this section to determine whether the facility or site is in compliance
+28 with provisions of this chapter and rules promulgated to meet requirements
+29 of this chapter and applicable federal law and regulations.
+30 (4) Every three (3) to five (5) years, the owner and director shall
+31 jointly conduct a comprehensive inspection of the facility and review of the
+32 designs and plans to evaluate compliance with the applicable laws and regu-
+33 lations, identify areas of improvement, and provide technical guidance. A
+34 record of the review shall be kept at the facility and by the director.
+35 (5) The director shall inspect ground water monitoring reports and fi-
+36 nancial assurance documentation annually.
+37 SECTION 32. That Chapter 74, Title 39, Idaho Code, be, and the same is
+38 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+39 ignated as Section 39-7428, Idaho Code, and to read as follows:
+40 39-7428. ADDITIONS AND PENALTIES. The additions, penalties, and re-
+41 quirements provided by the Idaho income tax act, sections 63-3046, 63-3075,
+42 63-3076, and 63-3077, Idaho Code, shall apply in the same manner and to the
+43 same extent to this chapter as to the Idaho income tax act and shall cover
+44 such additions, penalties, and requirements and shall, for this purpose, be
+45 described and be for acts, omissions, delinquencies, and requirements pro-
+46 vided in this chapter.
+
+36
+1 SECTION 33. That Section 39-7420, Idaho Code, be, and the same is hereby
+2 amended to read as follows:
+3 39-7420 39-7429. VIOLATIONS AND ENFORCEMENT. (1) Failure to comply
+4 with the requirements established in this chapter, requirements of rules
+5 established pursuant to this chapter, and reasonable conditions of approval
+6 granted pursuant to this chapter shall be unlawful. Particularly with re-
+7 spect to siting and operation of a municipal solid waste landfill to satisfy
+8 the requirements of chapter 44, title 31, Idaho Code, enforcement should fo-
+9 cus upon on remediation of deficiencies, rather than punishment. Penalties
+10 should be imposed where practices show disregard for protection of human
+11 health, safety, and the environment.
+12 (2) Each public agency with responsibility for enforcement of require-
+13 ments established in this chapter may inspect, monitor, and employ such
+14 methods of enforcement as they may be empowered to use by statute or local
+15 ordinance.
+16 (a) (3) The director may shall apply the provisions of section 39-108,
+17 Idaho Code, to insure ensure compliance.
+18 (4) The collection and enforcement procedures available to the
+19 Idaho state tax commission provided by the Idaho income tax act, sections
+20 63-3030A, 63-3038, 63-3039, 63-3040, 63-3042 through 63-3045A, 63-3047
+21 through 63-3065A, 63-3068, 63-3071, 63-3072, 63-3073, and 63-3078, Idaho
+22 Code, shall apply and be available to the department for the enforcement
+23 of the solid waste disposal fees and for the assessment and collection of
+24 any amounts due thereunder. Said sections shall, for the aforementioned
+25 purposes, be considered part of this chapter and wherever liens or any other
+26 proceedings are defined as income tax liens or proceedings, they shall, when
+27 applied under this chapter, be described as solid waste disposal fee liens
+28 and proceedings.
+29 (b) (5) The respective health districts or the several counties
+30 director may employ the use of negotiated compliance agreements, in addition
+31 to civil legal remedies and misdemeanor criminal penalties otherwise autho-
+32 rized, in order to obtain compliance with requirements established herein.
+33 (3) (6) Where more than one (1) public entity undertakes enforcement
+34 efforts to obtain compliance with the provisions of this chapter, enforce-
+35 ment efforts should be coordinated to the greatest extent possible to mini-
+36 mize conflict among requirements and costs of compliance.
+37 (4) (7) A private right of action in on behalf of any person who has been
+38 injured or damaged by any approval authorized in this chapter or violation
+39 of the terms of any approval or regulation authorized in this chapter may be
+40 maintained in accordance with the provisions of this chapter and/or the pro-
+41 visions of chapter 52, title 67, Idaho Code, as applicable.
+42 (5) If a district fails to carry out responsibilities established in
+43 this chapter, the director may assume the authority otherwise to be imple-
+44 mented by a district.
+45 (8) The department may be made a party in any action at law or in eq-
+46 uity related to this chapter by any person aggrieved by the unlawful seizure
+47 or sale of his property, or in any suit for refund or to recover an overpay-
+48 ment, but only the state of Idaho shall be responsible for any final judgment
+
+37
+1 secured against the department, and said judgment shall be paid or satisfied
+2 out of the general fund of the state.
+3 SECTION 34. That Section 39-7421, Idaho Code, be, and the same is hereby
+4 amended to read as follows:
+5 39-7421 39-7430. RESEARCH, DEVELOPMENT, AND DEMONSTRATION PER-
+6 MITS. (1) The provisions of 42 U.S.C. 6945(c)(1)(B) and 40 CFR 258 allow
+7 the administrator of the United States environmental protection agency to
+8 approve state research, development, and demonstration permit programs.
+9 (2) The director shall initiate the process outlined in 40 CFR 239 by
+10 which the state may receive authorization to issue research, development,
+11 and demonstration (RDD) permits in compliance with 40 CFR 258.4 at such time
+12 as:
+13 (a) The department receives a request from any individual who expresses
+14 an intent to apply for an RDD permit; and
+15 (b) The department and requesting individual enter into a written
+16 agreement in which the requesting individual agrees to reimburse the
+17 department for the reasonable and necessary cost to make such applica-
+18 tion.
+19 (3) Upon receipt of state authorization to issue such permits, the di-
+20 rector may issue an RDD permit for a new MSWLF unit, existing MSWLF unit, or
+21 lateral expansion for which the owner or operator proposes to utilize inno-
+22 vative and new methods which vary from either or both of the following crite-
+23 ria:
+24 (a) The run-on control systems required by section 39-7412(7)(a),
+25 Idaho Code this chapter; and
+26 (b) The liquid restrictions in section 39-7412(8), Idaho Code pursuant
+27 to this chapter.
+28 (4) Any permit issued under subsection (3) of this section shall in-
+29 clude the following terms and conditions:
+30 (a) The MSWLF unit shall have a leachate collection system designed
+31 and constructed to maintain less than a thirty (30) centimeter depth of
+32 leachate on the liner;
+33 (b) Any liquids to be recirculated, injected or otherwise placed in
+34 the MSWLF unit shall be appropriate for the purposes of determining the
+35 efficacy and performance capabilities of the technology or process and
+36 shall be approved by the director;
+37 (c) The MSWLF unit owner or operator shall install and operate a land-
+38 fill gas collection and control system in accordance with emission con-
+39 trol requirements as specified in 40 CFR part 60, and, when collected
+40 in economically feasible volumes, landfill gas shall be used for energy
+41 generation.
+42 (5) Upon receipt of state authorization to issue such permits, the di-
+43 rector may issue an RDD permit for a new MSWLF unit, existing MSWLF unit,
+44 or lateral expansion, for which the owner or operator proposes to utilize
+45 innovative and new methods which vary from the final cover criteria of 40
+46 CFR 258.60 (a)(1), (a)(2) and (b)(1) provided the landfill owner or operator
+47 demonstrates that the infiltration of liquid will not cause contamination of
+48 ground water or surface water, or cause leachate depth on the liner to exceed
+49 thirty (30) centimeters.
+
+38
+1 (6) Any permit issued under the provisions of this section shall in-
+2 clude terms and conditions at least as protective as the criteria for MSWLFs
+3 to assure protection of human health and the environment. Such permits
+4 shall:
+5 (a) Provide for the construction and operation of such facilities as
+6 necessary, for not longer than three (3) years, unless renewed as pro-
+7 vided in subsection (8) of this section;
+8 (b) Provide that the MSWLF unit must receive only those types and quan-
+9 tities of municipal solid waste and nonhazardous wastes which the di-
+10 rector deems appropriate for the purposes of determining the efficacy
+11 and performance capabilities of the technology or process;
+12 (c) Include such requirements as necessary to protect human health and
+13 the environment, including such requirements as necessary for testing
+14 and providing information to the director with respect to the operation
+15 of the facility;
+16 (d) Require the owner or operator of a an MSWLF unit permitted under
+17 this section to submit an annual report to the director showing whether
+18 and to what extent the site is progressing in attaining project goals.
+19 The report shall also include a summary of all monitoring and testing
+20 results, as well as any other operating information specified by the di-
+21 rector in the permit. Annual reports shall be submitted to the director
+22 within three (3) months after the anniversary date of the approved per-
+23 mit or permit renewal; and
+24 (e) Require compliance with all criteria in chapter 74, title 39, Idaho
+25 Code, except as permitted under this section.
+26 (7) The director may order an immediate termination of all operations
+27 at the facility allowed under this section or other corrective measures at
+28 any time the director determines that the overall goals of the project are
+29 not being attained including, but not limited to, protection of human health
+30 or the environment.
+31 (8) Any permit issued under the provisions of this section shall not ex-
+32 ceed three (3) years and each renewal of a permit shall not exceed three (3)
+33 years.
+34 (a) The total term for a permit for a project, including renewals, shall
+35 not exceed twelve (12) twenty-one (21) years.
+36 (b) During permit renewal, the applicant shall provide a detailed as-
+37 sessment of the project showing the status with respect to achieving
+38 project goals, a list of problems and status with respect to problem
+39 resolutions, and any other requirements that the director determines
+40 necessary for permit renewal.
+41 (c) Owners or operators requesting permit renewal shall submit the per-
+42 mit renewal application to the director at least six (6) months prior to
+43 the existing permit's expiration date.
+44 (9) It shall be unlawful to begin construction to implement or other-
+45 wise utilize the exemptions provided in this section without first receiv-
+46 ing a permit from the director. Permit applications will be processed in the
+47 following manner:
+48 (a) The director shall review the RDD permit application and each
+49 subsequent permit renewal in the same manner as the director reviews
+50 requests for design approval pursuant to section 39-7411, Idaho Code
+
+39
+1 this chapter. An applicant shall provide information in the permit ap-
+2 plication in sufficient detail to address design, operating, closure,
+3 postclosure post-closure and financial assurance requirements.
+4 (b) Each permit application and permit renewal application shall re-
+5 quire the owner or operator to certify to the director that the infor-
+6 mation contained in the application is, to the best of his or her knowl-
+7 edge, accurate and true, and the MSWLF unit is in compliance with appli-
+8 cable law.
+9 (10) Permit review and oversight costs incurred by the department of
+10 environmental quality, or "department," and health district shall be re-
+11 imbursed by the applicant or permittee. Reimbursable review and oversight
+12 costs shall include, but are not limited to:
+13 (a) Reasonable costs associated with the director's review of a permit
+14 application submitted pursuant to this section, including department
+15 staff time and the cost of goods and services contracted by the depart-
+16 ment in performance of the activities described in this section;
+17 (b) Reasonable costs associated with the health district's review of
+18 portions of a permit application submitted pursuant to this section
+19 when such review is delegated to the health district by statute, rule,
+20 or agreement with the director;
+21 (c) (b) Reasonable costs associated with the department's and health
+22 district's oversight of permitted RDD units, including inspections and
+23 the review of annual reports, monitoring, and testing results required
+24 pursuant to this section or required by permit, and the processing of
+25 permit amendments and terminations; and
+26 (d) (c) All other reasonable and necessary costs of actions taken by the
+27 department pursuant to this section.
+28 (11) Reimbursable review and oversight costs incurred by the department
+29 and health district, as defined in subsection (10) of this section, shall be
+30 reimbursed as follows:
+31 (a) Each permit application submitted to the director pursuant to this
+32 section shall be accompanied by a nonrefundable fee of two hundred fifty
+33 dollars ($250) and an estimation of reimbursable review and oversight
+34 costs the department and health district may incur associated with the
+35 review of the permit application and oversight of the permit. Each per-
+36 mit renewal application submitted to the director pursuant to this sec-
+37 tion shall be accompanied by a nonrefundable fee of one hundred dollars
+38 ($100) and an estimation of reimbursable review and oversight costs the
+39 department and health district may incur associated with the review and
+40 oversight of the permit renewal.
+41 (b) If the department, in consultation with the health district, de-
+42 termines that the applicant's estimation of reimbursable review and
+43 oversight costs is accurate, and the submission of such funds will ad-
+44 equately reimburse the department and the health district for the cost
+45 of all review and oversight activities associated with that permit
+46 application or renewal application, the department shall notify the
+47 applicant, and the applicant shall submit to the department the full
+48 amount, or an installment deposit in the amount required pursuant to
+49 this subsection.
+
+40
+1 (c) If the department, in consultation with the health district, de-
+2 termines that the applicant's estimation of reimbursable review and
+3 oversight costs is not accurate, and the submission of such funds will
+4 not adequately reimburse the department and the health district for the
+5 cost of all review and oversight activities associated with that permit
+6 application or renewal application, the department shall notify the
+7 applicant and the application shall be returned to the applicant.
+8 (d) Upon receipt of funds in the amount estimated by the applicant and
+9 concurred to by the department and health district, or receipt of an in-
+10 stallment deposit in the amount required under this subsection, the di-
+11 rector shall initiate permit application review or permit renewal re-
+12 view.
+13 (e) Once the department and the health district concur concurs with
+14 an applicant's estimation of reimbursable review and oversight costs,
+15 and the department provides the applicant notice thereof, a permit ap-
+16 plicant or permit renewal applicant may submit to the department the
+17 reimbursement funds in their entirety or an installment deposit of two
+18 thousand five hundred dollars ($2,500). Should funding be required
+19 for costs incurred in excess of the initial two thousand five hundred
+20 dollar ($2,500) deposit, the department shall notify the applicant of
+21 required successive deposits in the amount of two thousand five hundred
+22 dollars ($2,500). The department shall pass along funds collected on
+23 behalf of the health district for reimbursable review and oversight
+24 costs incurred by such district within sixty (60) days of receipt of
+25 such funds from the applicant, or within sixty (60) days of receipt of
+26 a certified request for such funds from the health district, whichever
+27 is later. Any unused portion of the reimbursement funds, deposit, or
+28 successive deposit shall be returned to the applicant within sixty (60)
+29 days of the director's final decision to issue or deny a permit or permit
+30 renewal pursuant to this section. If the applicant fails to submit a
+31 successive deposit, the department shall suspend review of the permit
+32 application or renewal application, and the director shall be relieved
+33 of any applicable statutory or regulatory permit application or renewal
+34 application review deadlines during the review suspension.
+35 (f) The director shall, as a condition of renewal, require renewal ap-
+36 plicants to reimburse the department for previously uncaptured reim-
+37 bursable permit review and oversight costs incurred by the department
+38 or health district during the prior permit term.
+39 (g) Upon request, the department shall provide documentation to the
+40 applicant to aid in the development of the applicant's estimation of
+41 reimbursable review and oversight costs or to support the department's
+42 claims and any health district claims for such reimbursement.
+43 (h) Funds submitted to the department pursuant to this section shall
+44 not be returned if a permit application is terminated, withdrawn, re-
+45 turned, or denied unless the funds, or some portion thereof, have not
+46 been used by the department or health district as of the date of the ter-
+47 mination, withdrawal, return, or denial.
+48 (12) A permit issued pursuant to this section may be transferred only
+49 to a new owner or operator of the permitted MSWLF. The new owner or operator
+50 shall submit to the director, in writing, a request for permit transfer. The
+
+41
+1 request shall include a statement that the new owner or operator will comply
+2 with all terms and conditions of the permit. Upon transfer of the permit, the
+3 new owner or operator shall be responsible for compliance with all terms and
+4 conditions of the permit, and shall be subject to enforcement of such terms
+5 and conditions.
+6 (13) The following MSWLF units are not eligible for a permit issued pur-
+7 suant to this section:
+8 (a) MSWLF units operating under an exemption set forth in section
+9 39-7409(2)(c), Idaho Code this chapter.
+10 (b) MSWLF units operating under an exemption set forth in 40 CFR
+11 258.1(f).
+12 (c) MSWLF units that dispose of twenty (20) tons of solid waste per day
+13 or less, based on an annual average, are not eligible for a variance from
+14 40 CFR 258.60(b)(1), except in accordance with 40 CFR 258.60(b)(3).
+15 (d) MSWLF units that have exceeded ground water protection stan-
+16 dards at statistically significant levels as specified in section
+17 39-7410(4)(a), Idaho Code this chapter, from any waste unit on site and
+18 have not implemented a remedy in accordance with section 39-7414, Idaho
+19 Code this chapter, prior to RDD permit application submittal.
+20 (e) MSWLF units that have landfill gas concentration exceedances,
+21 as specified in section 39-7412(4), Idaho Code this chapter, from any
+22 waste unit on site and have not implemented a remedy in accordance with
+23 section 39-7412(4), Idaho Code this chapter, prior to RDD permit appli-
+24 cation submittal.
+25 (14) Owners or operators of MSWLF units circulating leachate or gas con-
+26 densate derived from the MSWLF unit in compliance with section 39-7412(8),
+27 Idaho Code this chapter, and 40 CFR 258.28, and not implementing or otherwise
+28 utilizing an exemption under this section, are not required to comply with
+29 the requirements of this section.
+30 (15) An applicant or permittee may appeal any final decision made by the
+31 director under this section by filing a request for hearing in accordance
+32 with rules promulgated by the department governing contested cases, or in
+33 the absence of such rules, in accordance with the procedures in chapter 52,
+34 title 67, Idaho Code.
+35 SECTION 35. That Section 39-107D, Idaho Code, be, and the same is hereby
+36 amended to read as follows:
+37 39-107D. RULES OF DEPARTMENT OR BOARD. (1) The legislature directs
+38 that any rule formulated and recommended by the department to the board which
+39 is broader in scope or more stringent than federal law or regulations, or
+40 proposes to regulate an activity not regulated by the federal government, is
+41 subject to the following additional requirements: the notice of proposed
+42 rulemaking and rulemaking record requirements under chapter 52, title 67,
+43 Idaho Code, must clearly specify that the proposed rule, or portions of the
+44 proposed rule, are broader in scope or more stringent than federal law or
+45 regulations, or regulate an activity not regulated by the federal govern-
+46 ment, and delineate which portions of the proposed rule are broader in scope
+47 or more stringent than federal law or regulations, or regulate an activity
+48 not regulated by the federal government.
+
+42
+1 (2) To the degree that a department action is based on science, in
+2 proposing any rule or portions of any rule subject to this section, the de-
+3 partment shall utilize:
+4 (a) The best available peer reviewed science and supporting studies
+5 conducted in accordance with sound and objective scientific practices;
+6 and
+7 (b) Data collected by accepted methods or best available methods if the
+8 reliability of the method and the nature of the decision justify use of
+9 the data.
+10 (3) Any proposed rule subject to this section which proposes a standard
+11 necessary to protect human health and the environment shall also include in
+12 the rulemaking record requirements under chapter 52, title 67, Idaho Code,
+13 the following additional information:
+14 (a) Identification of each population or receptor addressed by an esti-
+15 mate of public health effects or environmental effects; and
+16 (b) Identification of the expected risk or central estimate of risk for
+17 the specific population or receptor; and
+18 (c) Identification of each appropriate upper bound or lower bound esti-
+19 mate of risk; and
+20 (d) Identification of each significant uncertainty identified in the
+21 process of the assessment of public health effects or environmental ef-
+22 fects and any studies that would assist in resolving the uncertainty;
+23 and
+24 (e) Identification of studies known to the department that support, are
+25 directly relevant to, or fail to support any estimate of public health
+26 effects or environmental effects and the methodology used to reconcile
+27 inconsistencies in the data.
+28 (4) The department shall also include a summary of the information re-
+29 quired by subsection (3) of this section in the notice of rulemaking required
+30 by chapter 52, title 67, Idaho Code.
+31 (5) Any rule promulgated or adopted by the board which is broader in
+32 scope or more stringent than federal law or regulations, or which regulates
+33 an activity not regulated by the federal government, submitted to the stand-
+34 ing committee of the legislature pursuant to section 67-5291, Idaho Code,
+35 shall include a notice by the board identifying the portions of the adopted
+36 rule that are broader in scope or more stringent than federal law or rules, or
+37 which regulate an activity not regulated by the federal government.
+38 (6) Nothing provided herein is intended to alter the scope or effect of
+39 sections 39-105(3)(g)(iv), 39-118B, 39-3601, 39-4404, 39-7210 and 39-7404,
+40 Idaho Code, or any other provision of state law which limits or prohibits
+41 agency action or rulemaking that is broader in scope or more stringent than
+42 federal law or regulations.
+43 SECTION 36. That Section 39-7204, Idaho Code, be, and the same is hereby
+44 amended to read as follows:
+45 39-7204. PARTICIPATION. (1) To participate in the remediation program
+46 a person must submit an application to the department as described under sub-
+47 section (2) of this section.
+48 (2) An application submitted under this section must meet the following
+49 conditions:
+
+43
+1 (a) Contain the following general information concerning:
+2 (i) the person,
+3 (ii) the site, and
+4 (iii) other background information as requested by the depart-
+5 ment;
+6 (b) An environmental assessment that conforms to ASTM Standard Prac-
+7 tice E 1527, as amended, or equivalent.
+8 (3) Not more than thirty (30) days after receiving an application under
+9 subsection (2) of this section, the department shall determine if the person
+10 is eligible to participate in the remediation program under this chapter.
+11 (4) The department may reject an application submitted under subsec-
+12 tion (2) of this section for any of the following reasons:
+13 (a) Remediation is required pursuant to sections 39-101 through
+14 39-129, sections 39-4401 through 39-4432, or sections 39-7401 through
+15 39-7420 39-7429, Idaho Code, or rules promulgated thereunder, or other
+16 applicable statutory or common law; or
+17 (b) The condition of the hazardous substance or petroleum described in
+18 the application constitutes an imminent and substantial threat to human
+19 health or the environment; or
+20 (c) The application is not complete.
+21 (5) If the application is rejected under subsection (4)(c) of this sec-
+22 tion, the department shall provide the person with a list of all information
+23 needed to make the application complete. If the department fails to comply
+24 with this subsection, the application shall be considered completed for the
+25 purposes of this chapter.
+26 (6) If the department rejects an application, the department shall do
+27 the following:
+28 (a) Notify the person that the department rejected the application;
+29 (b) Explain the reason the department rejected the application.
+30 SECTION 37. An emergency existing therefor, which emergency is hereby
+31 declared to exist, this act shall be in full force and effect on and after
+32 July 1, 2026.

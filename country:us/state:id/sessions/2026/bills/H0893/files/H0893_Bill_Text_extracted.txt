@@ -1,0 +1,2140 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 893
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO CODIFIER'S CORRECTIONS; AMENDING THE HEADING FOR CHAPTER 45,
+3 TITLE 18, IDAHO CODE, TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION
+4 18-4501, IDAHO CODE, TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION
+5 18-4503, IDAHO CODE, TO MAKE TECHNICAL CORRECTIONS; AMENDING CHAPTER
+6 90, TITLE 18, IDAHO CODE, AS ENACTED BY SECTION 1, CHAPTER 252, LAWS OF
+7 2025, TO REDESIGNATE THE CHAPTER; AMENDING SECTION 19-307, IDAHO CODE,
+8 TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION 19-4705, IDAHO CODE,
+9 TO PROVIDE A CORRECT CODE REFERENCE; AMENDING SECTION 33-132, IDAHO
+10 CODE, TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION 33-3732, IDAHO
+11 CODE, AS ENACTED BY SECTION 2, CHAPTER 70, LAWS OF 2025, TO REDESIGNATE
+12 THE SECTION; AMENDING CHAPTER 68, TITLE 33, IDAHO CODE, AS ENACTED BY
+13 SECTION 1, CHAPTER 55, LAWS OF 2025, TO REDESIGNATE THE CHAPTER; AMEND-
+14 ING SECTION 39-309, IDAHO CODE, TO REMOVE SURPLUS VERBIAGE; AMENDING
+15 SECTION 39-1102, IDAHO CODE, TO MAKE CODIFIER'S CORRECTIONS; AMENDING
+16 SECTION 39-1106, IDAHO CODE, TO REMOVE SURPLUS VERBIAGE; AMENDING SEC-
+17 TION 39-1392a, IDAHO CODE, TO REMOVE SURPLUS VERBIAGE; AMENDING SECTION
+18 39-3340, IDAHO CODE, TO MAKE A TECHNICAL CORRECTION; AMENDING SECTION
+19 39-4117, IDAHO CODE, AS ENACTED BY SECTION 1, CHAPTER 221, LAWS OF 2025,
+20 TO REDESIGNATE THE SECTION; AMENDING SECTION 49-401A, IDAHO CODE, TO
+21 REMOVE A CODE REFERENCE; AMENDING SECTION 49-402, IDAHO CODE, TO MAKE A
+22 CODIFIER'S CORRECTION; AMENDING SECTION 49-402D, IDAHO CODE, TO MAKE A
+23 CODIFIER'S CORRECTION AND TO REMOVE SURPLUS VERBIAGE; AMENDING SECTION
+24 49-420T, IDAHO CODE, AS ENACTED BY SECTION 2, CHAPTER 172, LAWS OF 2025,
+25 TO REDESIGNATE THE SECTION AND TO MAKE A TECHNICAL CORRECTION; AMENDING
+26 SECTION 54-1421, IDAHO CODE, AS ENACTED BY SECTION 1, CHAPTER 187, LAWS
+27 OF 2025, TO REDESIGNATE THE SECTION; AMENDING SECTION 54-5802, IDAHO
+28 CODE, TO MAKE A CODIFIER'S CORRECTION AND TO REMOVE SURPLUS VERBIAGE;
+29 AMENDING SECTION 55-103, IDAHO CODE, TO MAKE A CODIFIER'S CORRECTION;
+30 AMENDING SECTION 55-3203, IDAHO CODE, TO REMOVE SURPLUS VERBIAGE;
+31 AMENDING SECTION 56-1003, IDAHO CODE, TO MAKE CODIFIER'S CORRECTIONS;
+32 AMENDING SECTION 56-1602, IDAHO CODE, TO MAKE A TECHNICAL CORRECTION;
+33 AMENDING CHAPTER 22, TITLE 56, IDAHO CODE, AS ENACTED BY SECTION 13,
+34 CHAPTER 84, LAWS OF 2025, TO REDESIGNATE THE CHAPTER; AMENDING SEC-
+35 TION 57-829, IDAHO CODE, AS ENACTED BY SECTION 1, CHAPTER 256, LAWS OF
+36 2025, TO REDESIGNATE THE SECTION; AMENDING SECTION 58-307, IDAHO CODE,
+37 TO REMOVE OBSOLETE LANGUAGE; AMENDING SECTION 63-3622XX, IDAHO CODE,
+38 AS ENACTED BY SECTION 1, CHAPTER 86, LAWS OF 2025, TO REDESIGNATE THE
+39 SECTION; AMENDING SECTION 67-827A, IDAHO CODE, TO MAKE CODIFIER'S COR-
+40 RECTIONS; AMENDING SECTION 67-2362, IDAHO CODE, AS ENACTED BY SECTION
+41 3, CHAPTER 6, LAWS OF 2025, TO REDESIGNATE THE SECTION; AMENDING SEC-
+42 TION 67-5242, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE; AMENDING
+43 SECTION 67-7602B, IDAHO CODE, TO PROVIDE A CORRECT CODE REFERENCE;
+44 AMENDING SECTION 67-9407, IDAHO CODE, AS ENACTED BY SECTION 2, CHAPTER
+45 83, LAWS OF 2025, TO REDESIGNATE THE SECTION; AMENDING CHAPTER 98, TI-
+
+2
+1 TLE 67, IDAHO CODE, AS ENACTED BY SECTION 2, CHAPTER 107, LAWS OF 2025,
+2 TO REDESIGNATE THE CHAPTER; AMENDING SECTION 72-1330A, IDAHO CODE, AS
+3 ENACTED BY SECTION 17, CHAPTER 29, LAWS OF 2025, TO REDESIGNATE THE
+4 SECTION; AND DECLARING AN EMERGENCY, PROVIDING AN EFFECTIVE DATE, AND
+5 PROVIDING A SUNSET DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That the Heading for Chapter 45, Title 18, Idaho Code, be,
+8 and the same is hereby amended to read as follows:
+9 CHAPTER 45
+10 KIDNAPING KIDNAPPING
+11 SECTION 2. That Section 18-4501, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 18-4501. KIDNAPING KIDNAPPING DEFINED. Every person who wilfully:
+14 1. Seizes, confines, inveigles or kidnaps another, with intent to cause
+15 him, without authority of law, to be secretly confined or imprisoned within
+16 this state, or to be sent out of this state, or in any way held to service or
+17 kept or detained against his will; or,
+18 2. Leads, takes, entices away or detains a child under the age of six-
+19 teen (16) years, with intent to keep or conceal it from its custodial parent,
+20 guardian or other person having lawful care or control thereof, or with in-
+21 tent to steal any article upon the person of the child; or,
+22 3. Abducts, entices or by force or fraud unlawfully takes or carries
+23 away another at or from a place without the state, or procures, advises, aids
+24 or abets such an abduction, enticing, taking or carrying away, and after-
+25 wards sends, brings, has or keeps such person, or causes him to be kept or se-
+26 creted within this state; or,
+27 4. Seizes, confines, inveigles, leads, takes, entices away or kidnaps
+28 another against his will to extort money, property or any other thing of
+29 value or obtain money, property or reward or any other thing of value for the
+30 return or disposition of such person is guilty of kidnaping kidnapping.
+31 SECTION 3. That Section 18-4503, Idaho Code, be, and the same is hereby
+32 amended to read as follows:
+33 18-4503. SECOND DEGREE KIDNAPING KIDNAPPING WHEN NOT FOR RANSOM. Ev-
+34 ery other kidnaping kidnapping committed shall be kidnaping kidnapping in
+35 the second degree.
+36 SECTION 4. That Chapter 90, Title 18, Idaho Code, as enacted by Section
+37 1, Chapter 252, Laws of 2025, be, and the same is hereby amended to read as
+38 follows:
+39 CHAPTER 90 91
+40 ADVERTISING ILLEGAL DRUGS
+41 18-9001 18-9101. ADVERTISING ILLEGAL DRUGS PROHIBITED. (1) Any per-
+42 son who willfully publishes any commercial advertisement, in any medium,
+
+3
+1 within the state of Idaho for marijuana, narcotics, or other psychoactive
+2 substances that are illegal under Idaho Code and illegal under the laws of
+3 the jurisdiction where the marijuana, narcotics, or other psychoactive sub-
+4 stances are provided, including federal, state, or local laws, is guilty of
+5 a misdemeanor, punishable in accordance with section 18-113, Idaho Code,
+6 with a fine of five hundred dollars ($500) to be imposed for each violation.
+7 Each day in which a violation of this section exists shall be considered a
+8 separate offense.
+9 (2) As used in this section, "commercial advertisement" means an ad-
+10 vertisement that encourages consumers to engage with products or services to
+11 benefit a commercial enterprise.
+12 SECTION 5. That Section 19-307, Idaho Code, be, and the same is hereby
+13 amended to read as follows:
+14 19-307. KIDNAPING KIDNAPPING AND SIMILAR OFFENSES. In any case where a
+15 person:
+16 1. Seizes, confines, inveigles or kidnaps another, with intent to cause
+17 him, without authority of law, to be secretly confined or imprisoned within
+18 this state, or to be sent out of this state, or in any way held to service or
+19 kept or detained against his will; or
+20 2. Leads, takes, entices away or detains a child under the age of six-
+21 teen (16) years, with intent to keep or conceal it from its custodial parent,
+22 guardian or other person having lawful care or control thereof, or with in-
+23 tent to steal any article upon the person of the child; or
+24 3. Abducts, entices or by force or fraud unlawfully takes or carries
+25 away another at or from a place without the state, or procures, advises, aids
+26 or abets such an abduction, enticing, taking or carrying away, and after-
+27 wards sends, brings, has or keeps such person, or causes him to be kept or se-
+28 creted within this state; or
+29 4. Seizes, confines, inveigles, leads, takes, entices away or kidnaps
+30 another against his will to extort money, property or any other things of
+31 value or obtain money, property or reward or any other thing of value for the
+32 return or disposition of such person; or
+33 5. Inveigles or entices any unmarried person of previous chaste charac-
+34 ter, under the age of eighteen (18) years, into any house of ill-fame, or of
+35 assignation, or elsewhere, for the purpose of prostitution, or to have il-
+36 licit carnal connection with any other person; and every person who aids or
+37 assists in such inveiglement or enticement; or
+38 6. Takes away any person under the age of eighteen (18) years from his or
+39 her father, mother, guardian, or other person having the legal charge of that
+40 person, without their consent, for the purpose of prostitution;
+41 Venue is in the county in which the offense is committed, or out of which
+42 the person upon whom the offense was committed may, in the commission of the
+43 offense, have been brought, or in which an act was done by the defendant in
+44 instigating, procuring, promoting, or aiding in the commission of the of-
+45 fense, or in abetting the parties concerned therein.
+46 SECTION 6. That Section 19-4705, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+
+4
+1 19-4705. PAYMENT OF FINES AND FORFEITURES -- SATISFACTION OF JUDGMENT
+2 -- DISPOSITION -- APPORTIONMENT. (1) Except as otherwise provided in subsec-
+3 tion (2) of this section:
+4 (a) All fines and forfeitures collected pursuant to the judgment of
+5 any court of the state shall be remitted to the court in which the judg-
+6 ment was rendered. The judgment shall then be satisfied by entry in the
+7 docket of the court. The clerk of the court shall daily remit all fines
+8 and forfeitures to the county auditor, who shall at the end of each month
+9 apportion the proceeds according to the provisions of this chapter.
+10 Other existing laws regarding the disposition of fines and forfeitures
+11 are hereby repealed to the extent such laws are inconsistent with the
+12 provisions of this chapter, except as provided in section 49-1013(5),
+13 Idaho Code.
+14 (b) Fines and forfeitures remitted for violations of fish and game
+15 laws shall be apportioned two and one-half percent (2 1/2%) to the
+16 state treasurer for deposit in the state general fund, ten percent
+17 (10%) to the search and rescue account, twenty-two and one-half percent
+18 (22 1/2%) to the district court fund, and sixty-five percent (65%) to
+19 the public shooting range fund as provided in section 36-418, Idaho
+20 Code.
+21 (c) Fines and forfeitures remitted for violations of state motor ve-
+22 hicle laws, for violation of state driving privilege laws, and for
+23 violation of state laws prohibiting driving while under the influence
+24 of alcohol, drugs or any other intoxicating substances shall be appor-
+25 tioned ten percent (10%) to the state treasurer, of which eighty-six
+26 percent (86%) shall be deposited to the state general fund and fourteen
+27 percent (14%) shall be deposited to the peace officers standards and
+28 training fund authorized in section 19-5116, Idaho Code, forty-five
+29 percent (45%) to the state treasurer for deposit in the highway distri-
+30 bution account, twenty-two and one-half percent (22 1/2%) to the dis-
+31 trict court fund, and twenty-two and one-half percent (22 1/2%) to the
+32 state treasurer for deposit in the public school income fund; provided,
+33 however, that fines and forfeitures remitted for violation of state mo-
+34 tor vehicle laws, for violation of state driving privilege laws, and for
+35 violation of state laws prohibiting driving while under the influence
+36 of alcohol, drugs or any other intoxicating substances, where an arrest
+37 is made or a citation is issued by a city law enforcement official or by
+38 a law enforcement official of a governmental agency under contract to
+39 provide law enforcement services for a city, shall be apportioned ten
+40 percent (10%) to the state treasurer, of which eighty-six percent (86%)
+41 shall be deposited to the state general fund and fourteen percent (14%)
+42 shall be deposited to the peace officers standards and training fund
+43 authorized in section 19-5116, Idaho Code, and ninety percent (90%) to
+44 the city whose officer made the arrest or issued the citation.
+45 (d) Fines and forfeitures remitted for violation of any state law not
+46 involving fish and game laws, motor vehicle laws, state driving privi-
+47 lege laws, or state laws prohibiting driving while under the influence
+48 of alcohol, drugs or any other intoxicating substances shall be appor-
+49 tioned ten percent (10%) to the state treasurer, of which eighty-six
+50 percent (86%) shall be deposited to the state general fund and fourteen
+
+5
+1 percent (14%) shall be deposited to the peace officers standards and
+2 training fund authorized in section 19-5116, Idaho Code, and ninety
+3 percent (90%) to the district court fund of the county in which the vio-
+4 lation occurred.
+5 (e) Fines and forfeitures remitted for violation of county ordinances
+6 shall be apportioned ten percent (10%) to the state treasurer, of which
+7 eighty-six percent (86%) shall be deposited to the state general fund
+8 and fourteen percent (14%) shall be deposited to the peace officers
+9 standards and training fund authorized in section 19-5116, Idaho Code,
+10 and ninety percent (90%) to the district court fund of the county whose
+11 ordinance was violated.
+12 (f) Fines and forfeitures remitted for violation of city ordinances
+13 shall be apportioned ten percent (10%) to the state treasurer, of which
+14 eighty-six percent (86%) shall be deposited to the state general fund
+15 and fourteen percent (14%) shall be deposited to the peace officers
+16 standards and training fund authorized in section 19-5116, Idaho Code,
+17 and ninety percent (90%) to the city whose ordinance was violated.
+18 (g) Fines and forfeitures remitted for violations not specified in this
+19 chapter shall be apportioned ten percent (10%) to the state treasurer,
+20 of which eighty-six percent (86%) shall be deposited to the state gen-
+21 eral fund and fourteen percent (14%) shall be deposited to the peace of-
+22 ficers standards and training fund authorized in section 19-5116, Idaho
+23 Code, and ninety percent (90%) to the district court fund of the county
+24 in which the violation occurred, except in cases where a duly designated
+25 officer of any city police department or city law enforcement official
+26 made the arrest for any such violation, in which case ninety percent
+27 (90%) shall be apportioned to the city whose officer made the arrest.
+28 (h) Fines and forfeitures remitted for violations involving any of the
+29 provisions of chapter 71, title 67, Idaho Code, shall be apportioned ten
+30 percent (10%) to the state treasurer, of which eighty-six percent (86%)
+31 shall be deposited to the state general fund and fourteen percent (14%)
+32 shall be deposited to the peace officers standards and training fund au-
+33 thorized in section 19-5116, Idaho Code, and ninety percent (90%) to the
+34 general fund of the county or city whose law enforcement official issued
+35 the citation.
+36 (i) Fines and forfeitures remitted for violations of overweight laws
+37 as provided in section 49-1013(3), Idaho Code, shall be deposited one
+38 hundred percent (100%) into the highway distribution account.
+39 (j) Fines remitted for violations of section 18-7008, Idaho Code, shall
+40 be apportioned ten percent (10%) to the district court fund, sixty-five
+41 percent (65%) to the county where the trespass occurred for appropria-
+42 tion to the sheriff's office, and twenty-five percent (25%) to the Idaho
+43 rangeland resources commission for expanded education programs regard-
+44 ing private property rights and land user responsibility.
+45 (k) Fines remitted for violations of section 18-9001 18-9101, Idaho
+46 Code, shall be apportioned ninety percent (90%) to the county where the
+47 violation occurred for appropriation to the sheriff's office and ten
+48 percent (10%) to the district court fund of the county where the viola-
+49 tion occurred.
+
+6
+1 (2) Any fine or forfeiture remitted for any misdemeanor violation for
+2 which an increase in the maximum fine became effective on or after July 1,
+3 2005, shall be apportioned as follows:
+4 (a) Any funds remitted, up to the maximum amount that could have been
+5 imposed before July 1, 2005, as a fine for the misdemeanor violation
+6 shall be apportioned according to the applicable provisions of subsec-
+7 tion (1) of this section; and
+8 (b) Any other funds remitted, in excess of the maximum amount that could
+9 have been imposed before July 1, 2005, as a fine for the misdemeanor vi-
+10 olation shall be remitted to the state treasurer and shall be deposited
+11 in the drug court, mental health court and family court services fund as
+12 set forth in section 1-1625, Idaho Code.
+13 (3) As used in this section, the term "city law enforcement official"
+14 shall include an official of any governmental agency providing law enforce-
+15 ment services to a city in accordance with the terms of a contract or agree-
+16 ment, when such official makes the arrest or issues a citation within the ge-
+17 ographical limits of the city and when the contract or agreement provides for
+18 payment to the city of fines and forfeitures resulting from such service.
+19 SECTION 7. That Section 33-132, Idaho Code, be, and the same is hereby
+20 amended to read as follows:
+21 33-132. LOCAL SCHOOL BOARDS -- INTERNET FILTERING REQUIRED. (1) As
+22 a condition for receiving moneys from the state general fund, each local
+23 school district and public charter school shall have internet content fil-
+24 ters that shall be included as part of any wireless internet access made
+25 available to children. The content filters shall:
+26 (a) Prohibit and prevent the use of school computers and other school
+27 owned technology-related services from sending, receiving, viewing, or
+28 downloading materials that are deemed to be harmful to minors, as de-
+29 fined by section 18-1514, Idaho Code; and
+30 (b) Filter or block internet access to obscene materials, materials
+31 harmful to minors, and materials that depict the sexual exploitation of
+32 a minor, as defined in chapter 15, title 18, Idaho Code.
+33 (2) The filtering solution shall be configurable to school district and
+34 public charter school policies regarding acceptable, age appropriate inter-
+35 net content. The content filtering shall include the ability:
+36 (a) For each school district and public charter school to manage its
+37 own filtering policies, including the decision to block specific cate-
+38 gories of content and to maintain its own whitelist and blacklist over-
+39 rides;
+40 (b) To provide individual school district and public charter school
+41 utilization and filtering reports, including the most frequently
+42 visited websites, the most frequently visited categories, the most fre-
+43 quently blocked websites, the most frequently used search terms, and
+44 the top authenticated users;
+45 (c) To audit all changes to content filtering; and
+46 (d) For all reporting and management of content filtering to be avail-
+47 able through any internet-connected browser and efficiently perform
+48 all content filtering functions.
+
+7
+1 (3) A school district or public charter school may offer digital or on-
+2 line library resources to students in kindergarten through grade 12 only if
+3 the vendor or other person or entity providing the resources verifies that
+4 all the resources will comply with the provisions of subsection (4) of this
+5 section.
+6 (4) Digital or online library resources offered by school districts or
+7 public charter schools to students in kindergarten through grade 12 shall
+8 have safety policies and technology protection measures that:
+9 (a) Prohibit and prevent a user from sending, receiving, viewing, or
+10 downloading materials that are deemed to be harmful to minors, as de-
+11 fined in section 18-1514, Idaho Code; and
+12 (b) Filter or block access to obscene materials, materials harmful to
+13 minors, and materials that depict the sexual exploitation of a minor, as
+14 defined in chapter 15, title 18, Idaho Code.
+15 (5) Notwithstanding any contract provision to the contrary, if a
+16 provider of digital or online library resources fails to comply with the re-
+17 quirements of subsection (4) of this section, the school district or public
+18 charter school may withhold further payments, if any, to the provider pend-
+19 ing verification of compliance with the provisions of subsection (4) of this
+20 section.
+21 (6) If a provider of digital or online library resources fails to timely
+22 verify that the provider is in compliance with the requirements of subsec-
+23 tion (4) of this section, the school district or public charter school may
+24 consider the provider's act of noncompliance a breach of contract.
+25 (7) School districts and public charter Schools schools shall have
+26 policies that:
+27 (a) Establish appropriate disciplinary measures to be taken against
+28 persons violating the policy provided for in this section;
+29 (b) Include a component of internet safety for students that is inte-
+30 grated into the school district's or public charter school's instruc-
+31 tional program; and
+32 (c) Inform the public that administrative procedures have been adopted
+33 to enforce the policy provided for in this section and to handle com-
+34 plaints about such enforcement, and that such procedures are available
+35 for review at the school district or public charter school office.
+36 (8) The policy provided for in subsection (1) of this section may in-
+37 clude terms, conditions, and requirements deemed appropriate by the school
+38 district's board of trustees or the public charter school's governing board,
+39 including but not limited to requiring written parental authorization for
+40 internet use by minors or differentiating acceptable uses among elementary,
+41 middle, and high school students.
+42 (9) The district's superintendent is hereby authorized to take reason-
+43 able measures to implement and enforce the provisions of this section.
+44 SECTION 8. That Section 33-3732, Idaho Code, as enacted by Section 2,
+45 Chapter 70, Laws of 2025, be, and the same is hereby amended to read as fol-
+46 lows:
+47 33-3732 33-3733. TITLE IX COMPLIANCE IN HIGHER EDUCATION. (1) For the
+48 purposes of this section:
+
+8
+1 (a) "Institution of higher education" means any public postsecondary
+2 institution, including but not limited to universities, colleges, and
+3 community colleges, operating within the state of Idaho that receives
+4 federal financial assistance.
+5 (b) "Office for civil rights" means the federal agency responsible for
+6 enforcing title IX compliance within educational institutions.
+7 (c) "President" means the chief executive officer or equivalent high-
+8 est-ranking official of an institution of higher education in the state
+9 of Idaho, without regard to the specific title of such individual.
+10 (d) "Title IX" means title IX of the education amendments of 1972 (20
+11 U.S.C. 1681 et seq.), and all applicable federal regulations duly pro-
+12 mulgated by any federal department or agency pursuant to the same.
+13 (e) "Title IX compliance" means the policies, procedures, actions, and
+14 investigations required by title IX to ensure that an institution of
+15 higher education is in compliance with title IX.
+16 (2) The president of each institution of higher education in Idaho
+17 shall have the exclusive authority and duty to implement all title IX compli-
+18 ance. When necessary, the president of an institution of higher education
+19 may delegate specific tasks or duties related to title IX to designated
+20 staff reporting to the office of the president, provided that the president
+21 approves any final decision or action on any title IX related task or duty.
+22 To carry out this provision, the president of each institution of higher
+23 education in Idaho shall:
+24 (a) Establish policies to implement the requirements of title IX and
+25 corresponding binding federal regulations issued by the United States
+26 department of education and the office for civil rights. Such policies
+27 shall be narrowly tailored to meet only the minimum requirements of ti-
+28 tle IX; and
+29 (b) Ensure that all complaints filed with the institution of higher
+30 education pursuant to title IX are promptly investigated in accordance
+31 with title IX regulations. The president shall review and approve any
+32 decisions regarding sanctions, accommodations, or disciplinary ac-
+33 tions arising from title IX complaints.
+34 (3) The president of each institution of higher education shall pre-
+35 pare and submit a report to the Idaho state board of education and the Idaho
+36 legislative services office no later than July 1 of each year, which report
+37 shall include:
+38 (a) The number of title IX complaints received during the previous aca-
+39 demic year. The report shall also include the number of investigations
+40 conducted and a description of the outcomes of all investigations;
+41 (b) Copies of all title IX-related policies and procedures of the in-
+42 stitution of higher education, which shall conspicuously highlight any
+43 changes made to such policies and procedures during the previous year;
+44 (c) A summary of interim measures taken to protect complainants and the
+45 accused during the time an investigation is pending; and
+46 (d) A summary of all corrective actions taken to address failures in ti-
+47 tle IX compliance.
+48 SECTION 9. That Chapter 68, Title 33, Idaho Code, as enacted by Section
+49 1, Chapter 55, Laws of 2025, be, and the same is hereby amended to read as
+50 follows:
+
+9
+1 CHAPTER 68 69
+2 DISTRACTION-FREE LEARNING
+3 33-6801 33-6901. DEFINITIONS. As used in this chapter:
+4 (1) "Electronic communications device" means any device that uses
+5 electronic signals to create, transmit, and receive information, including
+6 cellular telephones.
+7 (2) "School building" means any structure in which any instruction, ex-
+8 tracurricular activities, or training provided by a school is conducted.
+9 (3) "School grounds or premises" means the parcel of real property on
+10 which any school building is located and any other parcel of real property
+11 that is owned or leased by the local school district or public charter school
+12 on which any instruction, extracurricular activities, or training of the
+13 school is conducted.
+14 (4) "School hours" means the designated period of the day when school is
+15 open and in operation.
+16 33-6802 33-6902. DISTRACTION-FREE LEARNING. (1) No later than Decem-
+17 ber 31, 2025, every local school board and public charter school shall adopt
+18 a policy governing the use of electronic communications devices by students
+19 in school buildings and on school grounds or premises during school hours.
+20 The policy shall:
+21 (a) Emphasize that student use of electronic communications devices
+22 be as limited as possible in school buildings and on school grounds or
+23 premises during school hours; and
+24 (b) Reduce distractions related to the use of electronic communica-
+25 tions devices in classroom settings during school hours.
+26 (2) The provisions of this section shall not be construed to require a
+27 local school board or public charter school to adopt a policy that prohibits
+28 all use of electronic communications devices by students. However, local
+29 school boards and public charter schools may adopt a policy prohibiting stu-
+30 dents from carrying electronic communications devices in school buildings
+31 and on school grounds or premises during school hours. A local school board
+32 or public charter school that adopts such policy shall be considered to have
+33 met the requirement to adopt a policy under this section.
+34 (3) A policy adopted pursuant to the provisions of this section may
+35 provide for exceptions to the use of electronic communications devices,
+36 including but not limited to accommodations for individualized education
+37 programs. Each policy shall specify any disciplinary measures for viola-
+38 tions of the policy.
+39 (4) Every local school board and public charter school shall make the
+40 policy it adopts pursuant to the provisions of this section publicly avail-
+41 able and display such policy prominently on its public website.
+42 SECTION 10. That Section 39-309, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 39-309. PAYMENT FOR TREATMENT -- FINANCIAL ABILITY OF PATIENTS. (1) An
+45 individual receiving substance use disorder services through the department
+46 shall be responsible for paying for the services received. The financial re-
+
+10
+1 sponsibility for each service shall be based on the individual's ability to
+2 pay as determined by the department.
+3 (2) If treatment is provided by the department and the patient has not
+4 paid the charge for the treatment, the department is entitled to any income
+5 or payment received by the patient or to which he may be entitled for the ser-
+6 vices rendered, and to any payment from any public or private source avail-
+7 able to the department because of the treatment provided to the patient.
+8 (3) A patient in an approved treatment facility, or the estate of the
+9 patient, or a person obligated to provide for the cost of treatment and hav-
+10 ing sufficient financial ability, is liable to the department for the cost of
+11 transportation, maintenance and treatment of the patient therein in accor-
+12 dance with rates established by the department. (4) may
+13 SECTION 11. That Section 39-1102, Idaho Code, be, and the same is hereby
+14 amended to read as follows:
+15 39-1102. DEFINITIONS. As used in this chapter:
+16 (1) "Board" means the Idaho board of health and welfare.
+17 (2) "Child" means a person less than thirteen (13) years of age.
+18 (3) "Daycare" means care and supervision provided for compensation
+19 during part of a twenty-four (24) hour day, for a child or children not
+20 related by blood, marriage or legal guardianship to the person or persons
+21 providing the care, in a place other than the child's or children's own home
+22 or homes.
+23 (4) "Daycare center" means a place or facility providing daycare for
+24 compensation for thirteen (13) or more children.
+25 (5) "Daycare facility" means a place or facility providing daycare
+26 services for compensation to seven (7) or more children not related to the
+27 provider.
+28 (6) "Department" means the Idaho department of health and welfare.
+29 (7) "Employee" means any person working for compensation in a facility
+30 that provides daycare.
+31 (8) "Family daycare home" means a home, place, or facility providing
+32 daycare for six (6) or fewer children.
+33 (9) "Group daycare facility" means a home, place, or facility providing
+34 daycare for seven (7) to twelve (12) children.
+35 (10) "Group size" means the maximum number of children in one (1) group
+36 or classroom.
+37 (11) "Mixed age group" means a care group that includes children of mul-
+38 tiple ages.
+39 (12) "Operator" means a person who operates or maintains a licensed day-
+40 care facility.
+41 (13) "Owner" means a person, group of individuals, or entity that has
+42 legal control and authority over a daycare business.
+43 (14) "Provider" means a person who provides care and supervision at a
+44 daycare facility and is included in the child:staff ratio.
+45 (15) "Ratio" means the number of staff required to supervise a certain
+46 number of children.
+47 (16) "Single age group" means a care group that includes children of
+48 similar age.
+
+11
+1 (17) "Staff" means anyone who is sixteen (16) years of age or older who
+2 is employed by a daycare facility to provide care and supervision. "Staff"
+3 includes operators, owners, and providers.
+4 (14) (18) "Supervision" means:
+5 (a) For a child less than five (5) years of age, a provider is within
+6 sight or normal hearing range of the child and near enough to render im-
+7 mediate assistance to the child;
+8 (b) For a child five (5) years of age and older, a provider is within
+9 sight or normal hearing range of the child as appropriate to the child's
+10 individual age, needs, and capabilities; and
+11 (c) Notwithstanding paragraph (b) of this subsection, for all children
+12 while sleeping, swimming or engaging in other water activity involving
+13 a pool, hot tub, or other body of water, or on field trips or activities
+14 away from the facility, a provider is within sight and normal hearing
+15 range of the child.
+16 (15) (18) (19) "Training" means continuing education in child develop-
+17 ment areas relating to child care.
+18 SECTION 12. That Section 39-1106, Idaho Code, be, and the same is hereby
+19 amended to read as follows:
+20 39-1106. ISSUANCE OF LICENSE -- RENEWAL. (1) Upon receipt of the com-
+21 pleted application, inspection certificates and the criminal history, the
+22 department shall, upon a finding of compliance with the standards set forth
+23 in this chapter, issue a basic daycare license to the applicant within sixty
+24 (60) days. The license shall be valid for two (2) years, unless suspended
+25 or revoked, and be posted in a conspicuous place at the daycare facility.
+26 revoked or suspended
+27 (2) The department shall send a renewal application to the owner of the
+28 daycare facility no later than ninety (90) days prior to the expiration of
+29 an existing license. The owner shall submit to the department the renewal
+30 application with the required renewal fee and a criminal history check prior
+31 to the expiration of the existing license. A complete criminal history check
+32 shall be provided for any new persons requiring a criminal history check in
+33 accordance with section 39-1105, Idaho Code.
+34 (3) Criminal history checks on those persons under eighteen (18) years
+35 of age shall include a check of the juvenile justice records of adjudications
+36 of the magistrate division of the district court, county probation services
+37 and department records as authorized by the minor and his parent or guardian.
+38 (4) The department shall maintain a list of all licensees for public
+39 use.
+40 (5) Submission of a renewal application, fee and required criminal
+41 history check shall entitle the daycare facility owner to continue daycare
+42 services, subject to action by the department pursuant to section 39-1113,
+43 Idaho Code.
+44 SECTION 13. That Section 39-1392a, Idaho Code, be, and the same is
+45 hereby amended to read as follows:
+46 39-1392a. DEFINITIONS. The following terms shall have the following
+47 meanings when used in this section:
+
+12
+1 (1) "Emergency medical services personnel" means emergency medical
+2 services providers and ambulance-based clinicians licensed pursuant to
+3 chapter 9, title 46, Idaho Code.
+4 (2) "Group medical practice" means a partnership, corporation, limited
+5 liability company, or other association formed for the purpose of offering
+6 health care services through physicians and other licensed or otherwise au-
+7 thorized health care providers who are partners, shareholders, members, em-
+8 ployees, or contractors of such group medical practice.
+9 (3) "Health care organization" means a hospital, in-hospital medical
+10 staff committee, medical society, managed care organization, licensed emer-
+11 gency medical service, group medical practice, residential care facility or
+12 skilled nursing facility.
+13 (4) "Hospital" means a facility in Idaho as defined in section 39-1301,
+14 Idaho Code. 39-1313
+15 (5) "In-hospital medical staff committees" means any individual doctor
+16 who is a hospital staff member, or any hospital employee, or any group of such
+17 doctors and/or hospital employees, who are duly designated a committee by
+18 hospital staff bylaws, by action of an organized hospital staff, or by action
+19 of the board of directors of a hospital, and which committee is authorized
+20 by said bylaws, staff or board of directors, to conduct research or study of
+21 hospital patient cases, or of medical questions or problems using data and
+22 information from hospital patient cases.
+23 (6) "Licensed emergency medical service" means an ambulance service or
+24 a nontransport service licensed pursuant to chapter 9, title 46, Idaho Code.
+25 (7) "Managed care organization" means a public or private person or or-
+26 ganization that offers a managed care plan.
+27 (8) "Managed care plan" means a contract of coverage given to an indi-
+28 vidual, family or group of covered individuals pursuant to which a member is
+29 entitled to receive a defined set of health care benefits through an orga-
+30 nized system of health care providers in exchange for defined consideration
+31 and which requires the member to use, or creates financial incentives for the
+32 member to use, health care providers owned, managed, employed by or under
+33 contract with the managed care organization.
+34 (9) "Medical society" means any duly constituted, authorized and rec-
+35 ognized professional society or entity made up of physicians licensed to
+36 practice medicine in Idaho, having as its purpose the maintenance of high
+37 quality in the standards of health care provided in Idaho or any region or
+38 segment of the state, operating with the approval of the Idaho state board
+39 of medicine, or any official committee appointed by the Idaho state board of
+40 medicine.
+41 (10) "Patient care records" means written or otherwise recorded, pre-
+42 served and maintained records of the medical or surgical diagnostic, clini-
+43 cal, or therapeutic care of any patient treated by or under the direction of
+44 licensed professional personnel, including emergency medical services per-
+45 sonnel, in every health care organization subject to this act, whether as an
+46 inpatient or outpatient of the health care organization.
+47 (11) "Peer review" means the collection, interpretation and analysis of
+48 data by a health care organization for the purpose of bettering the system
+49 of delivery of health care or to improve the provision of health care or to
+50 otherwise reduce patient morbidity and mortality and improve the quality of
+
+13
+1 patient care. Peer review activities by a health care organization include,
+2 without limitation:
+3 (a) Credentialing, privileging or affiliating of health care providers
+4 as members of, or providers for, a health care organization;
+5 (b) Quality assurance and improvement, patient safety investigations
+6 and analysis, patient adverse outcome reviews, and root-cause analysis
+7 and investigation activities by a health care organization; and
+8 (c) Professional review action, meaning an action or recommendation
+9 of a health care organization which is taken or made in the conduct of
+10 peer review, that is based on the competence or professional conduct of
+11 an individual physician or emergency medical services personnel where
+12 such conduct adversely affects or could adversely affect the health
+13 or welfare of a patient or the physician's privileges, employment or
+14 membership in the health care organization or in the case of emergency
+15 medical services personnel, the emergency medical services personnel's
+16 scope of practice, employment or membership in the health care organ-
+17 ization.
+18 (12) "Peer review records" means all evidence of interviews, reports,
+19 statements, minutes, memoranda, notes, investigative graphs and compila-
+20 tions and the contents thereof, and all physical materials relating to peer
+21 review of any health care organization. "Peer review records" does not mean
+22 or include patient care records; provided however, that the records relating
+23 to the identification of which particular patient care records were selected
+24 for, or reviewed, examined or discussed in peer review by a health care or-
+25 ganization and the methodology used for selecting such records shall be con-
+26 sidered peer review records.
+27 (13) "Skilled nursing facility" means a facility licensed under chapter
+28 13, title 39, Idaho Code, to provide skilled care to recipients.
+29 SECTION 14. That Section 39-3340, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 39-3340. LICENSING. (1) Any person, firm, partnership, association,
+32 governmental unit, or corporation within the state proposing to operate, es-
+33 tablish, manage, conduct, or maintain a residential care or assisted living
+34 facility in the state shall have a license issued by the licensing agency of
+35 the department. A license is not transferable. The owner of the license has
+36 ultimate responsibility for the operation of the facility.
+37 (2) Each residential care or assisted living facility in the state re-
+38 quires an administrator, properly licensed by the division of occupational
+39 and professional licenses. The licensed administrator may perform the day-
+40 to-day responsibilities at the facility or may delegate all day-to-day re-
+41 sponsibilities to a facility manager. A licensed administrator may serve up
+42 to three (3) multiple facilities and delegate all day-to-day responsibili-
+43 ties to on-site managers.
+44 (3) All facilities must be licensed by the department.
+45 (a) Change of building ownership, new construction, or buildings being
+46 converted to a facility shall be licensed, and the operator shall follow
+47 the application procedures and obtain a license before commencing oper-
+48 ation as a facility.
+
+14
+1 (b) When there is a change of operator or lessee in currently licensed
+2 buildings, the operator or lessee shall follow the licensing process
+3 for currently licensed buildings. Facilities shall submit requested
+4 licensing documents to the department. Any company or individual es-
+5 tablished in the state of Idaho with at least one (1) operating facility
+6 shall not be required to submit an updated copy of policies and pro-
+7 cedures. The licensing process shall not require a fire life safety
+8 inspection prior to license issuance. Within one hundred eighty (180)
+9 days of license issuance fire life safety shall inspect and provide rec-
+10 ommendations, if any, to the new operator or lessee.
+11 (c) Any minor change of ownership of existing buildings shall be commu-
+12 nicated to the department within sixty (60) days of the change.
+13 (d) Exceptions to the provisions of this section may be made by the de-
+14 partment for temporary management.
+15 SECTION 15. That Section 39-4117, Idaho Code, as enacted by Section 1,
+16 Chapter 221, Laws of 2025, be, and the same is hereby amended to read as fol-
+17 lows:
+18 39-4117 39-4119. LIVE VIRTUAL RE-INSPECTIONS. (1) Except as otherwise
+19 provided for in this section, the division and local governments shall be au-
+20 thorized to perform live virtual re-inspections at their discretion.
+21 (2) When conducting a live virtual re-inspection pursuant to this
+22 section, the division or a local government shall, with respect to each
+23 re-inspection, verify the address or physical location of such re-inspec-
+24 tion. Such verification may be made by showing the physical address or other
+25 identifying features of the location where the live virtual re-inspection is
+26 taking place.
+27 (3) Neither the division nor local governments shall use live virtual
+28 re-inspections for structural inspections on buildings that are three (3)
+29 stories or greater.
+30 (4) For purposes of this section:
+31 (a) "Live virtual inspection" means a form of visual inspection that
+32 uses real time visual or electronic aids to allow an inspector who is en-
+33 forcing a building code to perform an inspection without having to be
+34 physically present at the job site during the inspection.
+35 (b) "Live virtual re-inspection" means a live virtual inspection per-
+36 formed following a previous inspection by an inspector who was physi-
+37 cally present at the location subject to such re-inspection.
+38 SECTION 16. That Section 49-401A, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 49-401A. OWNER TO SECURE REGISTRATION FROM A COUNTY ASSESSOR OR THE
+41 DEPARTMENT. (1) Every owner of a motor vehicle, trailer or semitrailer who
+42 intends to operate the vehicle upon any highway in this state shall, before
+43 the same is so operated, apply to a county assessor or to the department or
+44 an agent of the department and obtain registration for vehicles pursuant to
+45 sections 49-402(1) through (3), 49-402A, 49-402B and 49-422, Idaho Code.
+46 All others shall be obtained from the department except as provided in sub-
+47 section (2) of this section. Owners of vehicles specified in section 49-426,
+
+15
+1 Idaho Code, are exempt from the provisions of this section. Owners of vehi-
+2 cles operating on a temporary basis as provided in sections 49-431(3), and
+3 49-432 and 49-433, Idaho Code, are exempt from the provisions of this section
+4 to the extent that the temporary permits in use are unexpired.
+5 (2) Commercial vehicles in excess of twenty-six thousand (26,000)
+6 pounds gross weight, farm and noncommercial vehicles in excess of sixty
+7 thousand (60,000) pounds gross weight and all vehicles registered under
+8 section 49-435, Idaho Code, shall be registered by the department. All other
+9 commercial, farm and noncommercial vehicles and the vehicles in paragraphs
+10 (a), (b), and (c) of this subsection shall be registered by the county asses-
+11 sor or by the department or an agent of the department.
+12 (a) Motor vehicles equipped primarily to haul passengers on a commer-
+13 cial basis, doing strictly an intrastate business, and having gross
+14 weights of twenty-six thousand (26,000) pounds or less.
+15 (b) Any farm vehicle or combination of vehicles where each vehicle or
+16 combination of vehicles shall not exceed a gross weight of sixty thou-
+17 sand (60,000) pounds.
+18 (c) Nonresident vehicles or combination of vehicles owned by transient
+19 labor used in hauling unprocessed agricultural products for hire and
+20 not exceeding sixty thousand (60,000) pounds gross weight shall regis-
+21 ter their vehicle for the appropriate gross weight scale for the annual
+22 fee if registered on or before June 30 and for one-half (1/2) the annual
+23 fee if not registered until on or after July 1 of any year, with the as-
+24 sessor of the county in which the owner resides.
+25 (3) Commercial, farm and noncommercial vehicles of any weight doing
+26 strictly an intrastate business may be registered by the county assessor or
+27 by the department or an agent of the department by mutual agreement between
+28 the department and the county.
+29 SECTION 17. That Section 49-402, Idaho Code, be, and the same is hereby
+30 amended to read as follows:
+31 49-402. ANNUAL REGISTRATION. (1) The annual fee for operating each
+32 pickup truck, each neighborhood electric vehicle and each other motor ve-
+33 hicle having a maximum gross weight not in excess of eight thousand (8,000)
+34 pounds and that complies with the federal motor vehicle safety standards as
+35 defined in section 49-107, Idaho Code, shall be:
+36 Vehicles one (1) and two (2) years old .........................$69.00
+37 Vehicles three (3) and four (4) years old ......................$57.00
+38 Vehicles five (5) and six (6) years old ........................$57.00
+39 Vehicles seven (7) and eight (8) years old .....................$45.00
+40 Vehicles over eight (8) years old .............................$45.00
+41 There shall be twelve (12) registration periods, starting in January
+42 for holders of validation registration stickers numbered 1, and proceed-
+43 ing consecutively through December for holders of validation registration
+44 stickers numbered 12, each of which shall start on the first day of a calen-
+45 dar month and end on the last day of the twelfth month from the first day of
+46 the beginning month. Registration periods shall expire at midnight on the
+47 last day of the registration period in the year designated by the validation
+48 registration sticker. The numeral digit on the validation registration
+49 stickers shall, as does the registration card, fix the registration period
+
+16
+1 under the staggered registration system for the purpose of reregistration
+2 and notice of expiration.
+3 A vehicle that has once been registered for any of the above-designated
+4 periods shall, upon reregistration, be registered for the period bearing the
+5 same number, and the registration card shall show and be the exclusive proof
+6 of the expiration date of registration and licensing. Vehicles may be ini-
+7 tially registered for less than a twelve (12) month period, or for more than a
+8 twelve (12) month period, and the fee prorated on a monthly basis if the frac-
+9 tional registration tends to fulfill the purpose of the monthly series reg-
+10 istration system.
+11 (2) For all school buses operated either by a nonprofit, nonpublic
+12 school or operated pursuant to a service contract with a school district for
+13 transporting children to or from school or in connection with school-ap-
+14 proved activities, the annual fee shall be twenty-four dollars ($24.00) and
+15 shall be subject to staggered registration for the purpose of reregistration
+16 and notice of expiration.
+17 (3) For all motorcycles and motor-driven cycles that comply with the
+18 federal motor vehicle safety standards, operated on the public highways, the
+19 annual fee shall be nineteen dollars ($19.00) and shall be subject to stag-
+20 gered registration for the purpose of reregistration and notice of expira-
+21 tion.
+22 (4) For operation of an all-terrain vehicle, utility type vehicle or
+23 motorbike, excluding a motorbike with an engine displacement of fifty (50)
+24 cubic centimeters or less, on city, county or highway district roads or
+25 highways open to such use, a restricted vehicle license plate fee pursuant
+26 to section 49-450, Idaho Code, shall be paid. In addition, the certifi-
+27 cate of number fee specified in section 67-7122, Idaho Code, shall be paid
+28 as provided in section 67-7122, Idaho Code. The certificate of number and
+29 restricted vehicle license plate exemption provided in section 49-426(2),
+30 Idaho Code, applies to all-terrain vehicles, utility type vehicles, motor-
+31 bikes and motorcycles used for the purposes described in section 49-426(2),
+32 Idaho Code. Nonresidents shall be allowed to purchase a restricted vehicle
+33 license plate and validation sticker pursuant to section 67-7124, Idaho
+34 Code, for an all-terrain vehicle, utility type vehicle, or motorbike.
+35 (5) For all motor homes, the fee shall be as specified in subsection (1)
+36 of this section and shall be in addition to the fees provided for in section
+37 49-445, Idaho Code.
+38 (6) Registration fees shall not be subject to refund.
+39 (7) A financial institution or repossession service contracted to
+40 a financial institution repossessing vehicles under the terms of a secu-
+41 rity agreement shall move the vehicle from the place of repossession to the
+42 financial institution's place of business on a repossession plate. The
+43 repossession plate shall also be used for demonstrating the vehicle to a
+44 prospective purchaser for a period not to exceed ninety-six (96) hours. The
+45 registration fees for repossession plates shall be as required in subsection
+46 (1) of this section for a vehicle one (1) and two (2) years old. All other
+47 fees required under chapter 4, title 49, Idaho Code, shall be in addition to
+48 the registration fee. The repossession plate shall be subject to staggered
+49 registration for the purpose of reregistration and notice of expiration.
+
+17
+1 (8) A wrecker or towing business engaged in the process of towing motor-
+2 ized vehicles that have been wrecked, abandoned, salvaged or may be disabled
+3 may apply for a wrecker plate to be displayed on those vehicles being towed,
+4 provided the power unit is properly registered under this chapter. The reg-
+5 istration fees for wrecker plates shall be as required in subsection (1) of
+6 this section for a vehicle one (1) and two (2) years old. All other fees re-
+7 quired under chapter 4, title 49, Idaho Code, shall be in addition to the reg-
+8 istration fee and shall be subject to staggered registration for the purpose
+9 of reregistration and notice of expiration.
+10 (9) In addition to the annual registration fee in this section, there
+11 shall be an initial program fee of twenty-five dollars ($25.00) and an an-
+12 nual program fee of fifteen dollars ($15.00) for all special license plate
+13 programs for those license plates issued pursuant to sections 49-404A,
+14 49-407, 49-408, 49-409, 49-414, 49-416, 49-418 and 49-418D, Idaho Code. For
+15 special plates issued pursuant to section 49-417E, Idaho Code, there shall
+16 be an initial program fee of seventy dollars ($70.00) and an annual program
+17 fee of fifty dollars ($50.00). For special plates issued pursuant to sec-
+18 tions 49-406 and 49-406A, Idaho Code, there shall be an initial program fee
+19 of twenty-five dollars ($25.00) but there shall be no annual renewal fee.
+20 For special plates issued pursuant to sections 49-415D, 49-417, 49-417A,
+21 49-417B, 49-417C, 49-417D, 49-418A, 49-418B, 49-418C, 49-419, 49-419A,
+22 49-419C, 49-419E, 49-420, 49-420A, 49-420B, 49-420C, 49-420D, 49-420E,
+23 49-420J, 49-420K, 49-420L, 49-420M, 49-420N, 49-420O, 49-420P, 49-420Q,
+24 49-420R, 49-420S, and 49-420T, and 49-420T 49-420U, Idaho Code, and unless
+25 otherwise expressly provided for in this chapter, any new special plate
+26 program effective on and after January 1, 2013, pursuant to section 49-402D,
+27 Idaho Code, there shall be an initial program fee of thirty-five dollars
+28 ($35.00) and an annual program fee of twenty-five dollars ($25.00). The fees
+29 contained in this subsection shall be applicable to all new special plate
+30 programs and shall be subject to staggered registration for the purpose of
+31 reregistration and notice of expiration. The initial program fee and the
+32 annual program fee shall be deposited in the state highway account and shall
+33 be used to fund the cost of administration of special license plate programs,
+34 unless otherwise specified by law.
+35 (10) Any vehicle that does not meet federal motor vehicle safety stan-
+36 dards shall not be registered and shall not be permitted to operate on public
+37 highways of the state, as defined in section 40-117, Idaho Code, unless oth-
+38 erwise specifically authorized.
+39 (11) In addition to annual registration fees as provided in this sec-
+40 tion, registrants may pay a fee to purchase an Idaho state parks passport
+41 authorizing resident motor vehicle entry into all Idaho state parks. Reg-
+42 istrants may pay the fee for a one (1) year or two (2) year period of time.
+43 The fee shall be ten dollars ($10.00) for one (1) year and twenty dollars
+44 ($20.00) for two (2) years. All fees collected pursuant to this subsection
+45 shall be deposited into the park and recreation fund and shall be subject to
+46 appropriation. Fees collected pursuant to this subsection shall not be con-
+47 sidered a motor vehicle registration fee as provided in section 17, article
+48 VII of the constitution of the state of Idaho.
+49 SECTION 18. That Section 49-402D, Idaho Code, be, and the same is hereby
+50 amended to read as follows:
+
+18
+1 49-402D. SPECIAL LICENSE PLATE PREQUALIFICATION PROCESS.
+2 (1)(a) For any new special license plate program approved by the legis-
+3 lature, the program sponsor shall, before issuance of any such special
+4 license plate, meet the prequalification process outlined in this sec-
+5 tion. The program sponsor for any special plate program shall:
+6 (i) Submit a financial plan for the use of the proceeds from the
+7 special license plate sales and certify that all such proceeds
+8 shall be deposited in the highway distribution account, except for
+9 military license plates and any new special plate that may be es-
+10 tablished for the benefit of the state of Idaho or any department,
+11 division, bureau, or agency thereof, including an Idaho college or
+12 university pursuant to section 49-418A, Idaho Code, or a license
+13 plate for the benefit of firearms safety education programs pur-
+14 suant to section 49-420S, Idaho Code; and , or
+15 (ii) Designate an individual who shall be deemed responsible by
+16 the agency for certifying compliance with the requirements of this
+17 section and working with the department.
+18 (b) The department is authorized and shall adopt and promulgate rules
+19 to carry out the provisions of this section.
+20 (2) If the request for a special license plate is approved by the de-
+21 partment, the following requirements, in addition to those set out in sub-
+22 section (1) of this section, shall be met by September 1 prior to the next
+23 legislative session and prior to the issuance of any special license plates
+24 approved by the legislature.
+25 (a) The applicant shall deposit estimated programming and administra-
+26 tive costs with the department to be utilized for programming costs of
+27 the specialty plate. Administrative costs in the amount of one thousand
+28 dollars ($1,000) shall be nonrefundable.
+29 (b) In addition to the requirements provided for in section 49-402C,
+30 Idaho Code, the applicant requesting a special license plate program
+31 shall provide to the department an acceptable plate design.
+32 (c) The applicant shall transmit to the department a list of two hundred
+33 fifty (250) applicants, whose vehicles are currently registered in the
+34 state of Idaho, who intend to purchase the specialty plate when avail-
+35 able, as evidenced by completing forms provided by the department.
+36 (3) The department shall submit the completed applications for special
+37 license plate programs that meet the requirements of this section to the
+38 chairmen of the senate transportation committee and the house of representa-
+39 tives transportation and defense committee each year on behalf of the agency
+40 to be included for consideration in the next legislative session.
+41 (4) On an annual basis, by December 1 of each calendar year, the sponsor
+42 of a special license plate program shall prepare an annual report, which
+43 shall be made available on request and shall be forwarded to the department.
+44 Such report shall include an accounting of revenues and expenditures associ-
+45 ated with the funds collected for the special license plate program. The de-
+46 partment shall compile and forward such reports to the chairmen of the senate
+47 transportation committee and the house of representatives transportation
+48 and defense committee by January 15 of each year. Failure of the agency to
+49 provide such report by the due date shall result in the discontinuation of
+50 the special license plate program sales on January 1. The provisions of this
+
+19
+1 section shall exclude special plates established for the highway distri-
+2 bution account, the state of Idaho or any department, division, bureau, or
+3 agency thereof, an Idaho college or university pursuant to section 49-418A,
+4 Idaho Code, a license plate for the benefit of firearms safety education
+5 programs pursuant to section 49-420S, Idaho Code, and military license plate
+6 programs.
+7 (5) Any decision by the department that the special license plate pro-
+8 gram application does not meet the provisions of this section may be appealed
+9 to the director of the department. Such notice of appeal shall be made in
+10 writing within twenty (20) days of the notice of denial. For all denied ap-
+11 plications, the department shall, at the next legislative session, report
+12 to the senate and house of representatives transportation committees on such
+13 denied applications and the reason for the denials.
+14 SECTION 19. That Section 49-420T, Idaho Code, as enacted by Section 2,
+15 Chapter 172, Laws of 2025, be, and the same is hereby amended to read as fol-
+16 lows:
+17 49-420T 49-420U. AN APPEAL TO HEAVEN LICENCE LICENSE PLATES. (1) On
+18 and after January 1, 2026, any person who is the owner of a vehicle registered
+19 under the provisions of section 49-402, Idaho Code, or registered under any
+20 other section of law for which the purchase of special plates is allowed, may
+21 apply for and, upon department approval, receive special an appeal to heaven
+22 license plates in lieu of regular license plates.
+23 (2) The provisions of this section shall not apply to any vehicle with
+24 a registered maximum gross weight over twenty-six thousand (26,000) pounds.
+25 Availability of an appeal to heaven license plates for other vehicles shall
+26 be subject to the rules, policies, and procedures of the department.
+27 (3) In addition to the regular registration fee required in this chap-
+28 ter, the applicant shall be charged a fee of thirty-five dollars ($35.00) for
+29 the initial issuance of plates, and twenty-five dollars ($25.00) upon each
+30 succeeding annual registration. Such fees shall be deposited in the state
+31 highway account and shall be used, in part, to fund the cost of the plate de-
+32 sign and administration of this special license plate program.
+33 (4) Whenever title or interest in a vehicle registered under the pro-
+34 visions of this section is transferred or assigned, the owner may transfer
+35 the special plates to another vehicle upon payment of the required transfer
+36 fees. The owner may display the plates on another vehicle only upon receipt
+37 of the new registration from the department.
+38 (5) Notwithstanding the provisions of section 49-402C, Idaho Code, the
+39 an appeal to heaven license plate design shall be of a color and design sim-
+40 ilar to the flag portion of the United States postal service's 1968 six-cent
+41 (6¢) stamp commemorating George Washington's cruisers flag of 1775, except
+42 with a brown tree trunk and the words "AN APPEAL TO HEAVEN" on the bottom cen-
+43 ter and the word "IDAHO" in the top center. Such design shall be approved
+44 by the department, utilizing a numbering system as determined by the depart-
+45 ment.
+46 (6) The an appeal to heaven license plate established in this section
+47 shall be exempt from the requirements of section 49-402D.
+48 (7) Sample an appeal to heaven license plates may be purchased for a
+49 fee of fifteen dollars ($15.00), which shall be deposited in the state high-
+
+20
+1 way account. No additional fee shall be charged for personalizing sample
+2 plates.
+3 SECTION 20. That Section 54-1421, Idaho Code, as enacted by Section 1,
+4 Chapter 187, Laws of 2025, be, and the same is hereby amended to read as fol-
+5 lows:
+6 54-1421 54-1422. DELEGATION. (1) A nurse with appropriate education,
+7 training, and experience and who is licensed under this chapter may dele-
+8 gate to a non-nurse tasks that do not involve the exercise of independent
+9 clinical judgment, as long as the nurse responsible for delegation maintains
+10 proper supervision and is satisfied that the person is qualified and ade-
+11 quately trained.
+12 (2) For the purposes of this section, "tasks that do not involve the ex-
+13 ercise of independent clinical judgment" are duties that an individual has
+14 received formal training to perform and that such individual is certified to
+15 perform by a national organization acceptable to the board.
+16 SECTION 21. That Section 54-5802, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 54-5802. DEFINITIONS. As used in this chapter:
+19 (1) "Apprentice" means a person registered with the barber and cosme-
+20 tology services licensing board to learn an occupation in a licensed estab-
+21 lishment who, while so learning, performs or assists in performing any prac-
+22 tices of barbering, barber-styling, cosmetology, or electrology.
+23 (2) "Barber" means a person licensed to practice barbering as defined
+24 in this section.
+25 (3) "Barbering" means any one (1) or any combination of the following
+26 practices when performed on the upper part of the human body for cosmetic
+27 purposes and not for the treatment of disease or physical or mental ailments:
+28 (a) Shaving the face or cutting, trimming, arranging, dressing, curl-
+29 ing, cleansing, singeing or performing similar work on the hair;
+30 (b) Fitting, cutting or dressing hairpieces or toupees;
+31 (c) Giving facial and scalp massages or treatments with oils, creams,
+32 lotions or other preparations, either by hand or by a mechanical appli-
+33 ance; and
+34 (d) Applying cosmetic preparations, antiseptics, powders, oils, clays
+35 or lotions to the scalp, face, and neck.
+36 (4) "Barber-styling" means any one (1) or any combination of the fol-
+37 lowing practices when performed on the upper part of the human body for cos-
+38 metic purposes and not for the treatment of disease or physical or mental
+39 ailments:
+40 (a) Shaving the face or cutting, trimming, arranging, dressing, curl-
+41 ing, waving by any method, straightening, cleansing, singeing, bleach-
+42 ing, coloring or performing similar work on the hair;
+43 (b) Fitting, cutting or dressing hairpieces or toupees;
+44 (c) Giving facial and scalp massages or treatments with oils, creams,
+45 lotions or other preparations, either by hand or by a mechanical appli-
+46 ance; and
+
+21
+1 (d) Applying cosmetic preparations, antiseptics, powders, oils, clays
+2 or lotions to the scalp, face, and neck.
+3 (5) "Barber-stylist" means a person licensed to practice bar-
+4 ber-styling as defined in this section.
+5 (6) "Board" means the barber and cosmetology services licensing board
+6 established by section 54-5806, Idaho Code.
+7 (7) "Cosmetologist" means a person licensed to practice cosmetology as
+8 defined in this section.
+9 (8) "Cosmetology" means any one (1) or any combination of the following
+10 practices when performed on the human body for cosmetic purposes and not for
+11 the treatment of disease or physical or mental ailments:
+12 (a) Cutting, trimming, arranging, dressing, curling, waving by any
+13 method, cleansing, singeing, bleaching, coloring or performing similar
+14 work on the hair, except as provided for in subsection (25) (24) of this
+15 section; (23)
+16 (b) Fitting, cutting or dressing hairpieces or toupees;
+17 (c) Noninvasive care of the skin by application of cosmetic prepa-
+18 rations, antiseptics, tonics, lotions, creams and essential oils
+19 to cleanse, massage, exfoliate, hydrate and stimulate; makeup ap-
+20 plication; pore extraction; use of chemical exfoliants approved for
+21 professional esthetic use; particle exfoliation; use of any class I
+22 medical device, as classified by the United States food and drug admin-
+23 istration, designed for care of the skin, except that a class II medical
+24 device designed for care of the skin may be used as directed and super-
+25 vised by an authorized and licensed health care practitioner; temporary
+26 removal of superfluous hair by lotions, creams, waxing, tweezing, de-
+27 pilatories or other means; and tinting or perming the eyebrows and
+28 eyelashes; and
+29 (d) Manicuring and pedicuring nails and applying artificial nails.
+30 (9) "Division" means the division of occupational and professional li-
+31 censes.
+32 (10) "Electrologist" means a person licensed to practice electrology,
+33 as defined in this section, and skilled in the permanent removal of unwanted
+34 hair.
+35 (11) "Electrology" or "electrolysis" means the permanent removal of
+36 hair by destroying the hair-producing cells of the skin and vascular system
+37 through the use of equipment and devices approved by and registered with the
+38 United States food and drug administration.
+39 (12) "Establishment" means a place licensed under this chapter, other
+40 than a licensed school, where barbering, barber-styling, cosmetology or
+41 electrology is practiced.
+42 (13) "Esthetician" means a person licensed to practice esthetics as de-
+43 fined in this section.
+44 (14) "Esthetics" means noninvasive care of the skin by application of
+45 cosmetic preparations, antiseptics, tonics, lotions, creams and essential
+46 oils to cleanse, massage, exfoliate, hydrate and stimulate; makeup applica-
+47 tion; pore extraction; use of chemical exfoliants approved for professional
+48 esthetic use; particle exfoliation; use of any class I medical device, as
+49 classified by the United States food and drug administration, designed for
+50 care of the skin, except that a class II medical device designed for care
+
+22
+1 of the skin may be used as directed and supervised by an authorized and li-
+2 censed health care practitioner; temporary removal of superfluous hair by
+3 lotions, creams, waxing, tweezing, depilatories or other means; and tinting
+4 or perming the eyebrows and eyelashes.
+5 (15) "Haircutting" means cutting, trimming, arranging, dressing, curl-
+6 ing, cleansing, singeing or performing similar work on the hair and fitting,
+7 cutting or dressing hairpieces or toupees.
+8 (16) "Hairpieces or toupees" means a full or partial head covering that
+9 is made from natural or synthetic hair that is affixed to a person's scalp,
+10 hair, or head with an adhesive agent such as glue, tape, keratin bonds, fu-
+11 sion bonds, or other bonding agent, and is worn during activities such as
+12 sleep, exercise, and bathing.
+13 (17) "High school student" means a person who has completed the first
+14 two (2) years of high school and is enrolled in a high school or secondary
+15 school licensed under this chapter.
+16 (18) "Instructor" means a person licensed under this chapter to prac-
+17 tice and teach any practice defined in this section.
+18 (19) "Instructor trainee" means a barber, barber-stylist or cosmetol-
+19 ogist attending a licensed school to receive training to teach barbering,
+20 barber-styling or cosmetology.
+21 (20) "Licensed school" means a secondary or postsecondary barber, cos-
+22 metology, or electrology school that:
+23 (a) Is licensed under its official name by the barber and cosmetology
+24 services licensing board; and
+25 (b) Admits as students only those individuals who meet the requirements
+26 of section 54-5810(1)(b), Idaho Code.
+27 (22) (21) "Makeup artistry" means noninvasive care of the skin by appli-
+28 cation of cosmetic preparations for cleansing and the application of makeup,
+29 which includes the application of cosmetics or any pigment product that is
+30 used to cover, camouflage or decorate the skin.
+31 (23) (22) "Nail technician" means a person licensed to practice nail
+32 technology as defined in this section.
+33 (24) (23) "Nail technology" means any one (1) or more of the following
+34 practices when performed on the human body:
+35 (a) Manicuring and pedicuring nails;
+36 (b) Applying artificial nails; and
+37 (c) Massaging the hands and feet.
+38 (25) (24) "Natural hair braiding" means the service of twisting, wrap-
+39 ping, weaving, extending, locking, or braiding hair by hand or with a mechan-
+40 ical device.
+41 (a) "Natural hair braiding" includes:
+42 (i) The use of natural or synthetic hair extensions, natural or
+43 synthetic hair and fibers, and decorative beads and other hair ac-
+44 cessories;
+45 (ii) Minor trimming of natural hair or hair extensions incidental
+46 to twisting, wrapping, weaving, extending, locking, or braiding
+47 hair;
+48 (iii) The making of wigs from natural hair, natural fibers, syn-
+49 thetic fibers, and hair extensions; and
+
+23
+1 (iv) The use of topical agents, such as conditioners, gels,
+2 moisturizers, oils, pomades, and shampoos, in conjunction with
+3 performing services under subparagraphs (i) or (ii) of this para-
+4 graph.
+5 (b) "Natural hair braiding" does not include:
+6 (i) The application of dyes, reactive chemicals, or other prepa-
+7 rations to alter the color of the hair or to straighten, curl, or
+8 alter the structure of the hair; or
+9 (ii) The use of chemical hair joining agents, such as synthetic
+10 tape, keratin bonds, or fusion bonds.
+11 (26) (25) "Retail cosmetics dealer" means a stationary business offer-
+12 ing cosmetic products for sale at retail to the general public in which the
+13 business's employees apply cosmetic products to customers' faces in connec-
+14 tion with the sale or attempted sale of the products without compensation
+15 from the customer other than the regular price of the products.
+16 (28) (26) "Student" means a person learning barbering, barber-styling,
+17 cosmetology or electrology at a licensed school who, while so learning, per-
+18 forms or assists in performing any practices of barbering, barber-styling,
+19 cosmetology or electrology.
+20 (29) (27) "Wig" means a removable head covering that is made from nat-
+21 ural hair, natural fibers that resemble hair, or synthetic fibers that re-
+22 semble hair. A wig is not affixed to a person's scalp or hair using an adhe-
+23 sive agent such as glue, tape, keratin bonds, fusion bonds, or other bonding
+24 agent.
+25 SECTION 22. That Section 55-103, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 55-103. WHO MAY OWN PROPERTY. (1) Except as provided in subsection (2)
+28 or (3) of this section, any person, whether citizen or alien, may take, hold,
+29 and dispose of property, real or personal.
+30 (2) Notwithstanding any provision of law to the contrary, on and af-
+31 ter the effective date of this subsection, a foreign government or a foreign
+32 state-controlled enterprise shall not purchase, acquire, or hold any con-
+33 trolling interest in agricultural land, forest land, water rights, mining
+34 claims, or mineral rights in the state of Idaho. This subsection does not
+35 apply to any interest in agricultural land, forest land, water rights, min-
+36 ing claims, or mineral rights acquired by a foreign government or foreign
+37 state-controlled enterprise prior to the effective date of this subsection
+38 or to any foreign pension fund.
+39 (3) Notwithstanding any other provision of law to the contrary, a for-
+40 eign principal from a foreign adversary shall not purchase, acquire, or hold
+41 any controlling interest, except a de minimis indirect interest, in agricul-
+42 tural land, water rights, mining claims, or mineral rights in the state of
+43 Idaho. A foreign principal has a de minimis indirect interest if any owner-
+44 ship is the result of the foreign principal's ownership of registered equi-
+45 ties in a publicly traded company owning the land and if the foreign princi-
+46 pal's ownership in the company is either:
+47 (a) Less than five percent (5%) of any class of registered equities or
+48 less than five percent (5%) in the aggregate in multiple classes of reg-
+49 istered equities; or
+
+24
+1 (b) A noncontrolling interest in an entity controlled by a company that
+2 is both registered with the United States securities and exchange com-
+3 mission as an investment advisor under the investment advisers act of
+4 1940, as amended, and is not a foreign entity.
+5 (4) A foreign principal that directly or indirectly owns or otherwise
+6 controls agricultural land, water rights, mining claims, or mineral rights
+7 in the state of Idaho must sell, transfer, or otherwise divest itself of
+8 the agricultural land, mining claims, or mineral rights within one hundred
+9 eighty (180) days of the effective date of this act.
+10 (5) A foreign principal that directly or indirectly owns or acquires
+11 agricultural land, water rights, or any interest in such land in this state
+12 must register with the Idaho state department of agriculture within sixty
+13 (60) days of the effective date of this act or the date of acquisition,
+14 whichever is latest. The department must establish a form for such registra-
+15 tion, which, at a minimum, must include all of the following:
+16 (a) The name of the owner of the agricultural land, water rights, or the
+17 owner of the interest in such land;
+18 (b) The address of the agricultural land, the property appraiser's par-
+19 cel identification number, and the property's legal description; and
+20 (c) The number of acres of agricultural land.
+21 (6) A foreign principal that directly owns or acquires mining claims
+22 or mineral rights or any interest in such claims in this state must register
+23 with the Idaho department of lands and the Idaho secretary of state within
+24 sixty (60) days of the effective date of this act or the date of acquisition,
+25 whichever is latest. The foreign principal shall be registered to do busi-
+26 ness with the Idaho secretary of state's office. The Idaho department of
+27 lands shall provide the form for such registration, which at a minimum must
+28 include the following:
+29 (a) The mineral lease number with lease length and premises by parcel
+30 and acres; and
+31 (b) The application for use of state land by the individual or legal en-
+32 tity.
+33 (7) Notwithstanding the provisions of subsection (3) of this section, a
+34 foreign principal from a foreign adversary country may acquire agricultural
+35 land, mining claims, or mineral rights on or after July 1, 2025, by devise
+36 or descent, through the enforcement of security interests, or through the
+37 collection of debts, provided that the foreign principal sells, transfers,
+38 or otherwise divests itself of the agricultural land, water rights, mining
+39 claims, or mineral rights within one hundred eighty (180) days of acquiring
+40 the agricultural land, mining claims, or mineral rights.
+41 (8) The provisions of subsections (3) through (7) of this section shall
+42 not apply to an entity that has a national security agreement with the com-
+43 mittee on foreign investment in the United States as of July 1, 2025, and
+44 maintains such national security agreement.
+45 (9) The Idaho state department of agriculture and department of lands
+46 shall adopt rules, subject to legislative approval, to implement the provi-
+47 sions of this section.
+48 (10) The responsibility for determining whether an entity is subject to
+49 this section rests solely with the foreign entity, the attorney general, or
+50 any qualifying whistleblower, and no other individual or entity. An indi-
+
+25
+1 vidual or entity who is not a foreign entity shall not be required to deter-
+2 mine or inquire whether another person or entity is or may be subject to the
+3 provisions of this section and shall bear no civil or criminal liability un-
+4 der this section.
+5 (11) If a foreign principal from a foreign adversary country does not
+6 divest the public or private lands, mining claims, or mineral rights as re-
+7 quired by this section, the attorney general shall commence an action in the
+8 district court within the jurisdiction of the public or private land, mining
+9 claims, or mineral rights.
+10 (12) If the public or private land is held in violation of this sec-
+11 tion, the district court shall order that the public or private land be sold
+12 through judicial foreclosure.
+13 (13) Proceeds of the sale shall be disbursed to lienholders, in the or-
+14 der of priority, except for liens that, under the terms of the sale, are to
+15 remain on the public or private land.
+16 (14) Any individual may act as a whistleblower and provide a referral to
+17 the office of the attorney general for violations of this section.
+18 (15) If a whistleblower referral results in a divestiture of land, min-
+19 ing claims, or mineral rights or other assets held in violation of this sec-
+20 tion, the whistleblower shall be entitled to a reward equal to thirty percent
+21 (30%) of the proceeds of the land, mining claims, mineral rights, or asset
+22 sale resulting from a violation of this section after payment of lienhold-
+23 ers. Proceeds of the sale shall be disbursed in the following order:
+24 (a) To bona fide lienholders, in order of priority, except for liens
+25 that, under the terms of the sale, are to remain on the property;
+26 (b) The payment of authorized costs of the sale, including all approved
+27 fees and expenses of the referee and any taxes and assessments due;
+28 (c) The payment, in an amount approved by the court, to the attorney
+29 general for reimbursement of investigation and litigation costs and ex-
+30 penses;
+31 (d) To whistleblowers; and
+32 (e) To the restricted foreign entity.
+33 (16) The whistleblower enforcement provision takes effect one hundred
+34 eighty (180) days after the enforcement date of this section.
+35 (17) As used in this section:
+36 (a) "Agricultural land" shall have the same meaning as "land actively
+37 devoted to agricultural purposes" as provided in section 63-604, Idaho
+38 Code.
+39 (b) "Controlling interest" means:
+40 (i) Possession of more than fifty percent (50%) of the ownership
+41 interest in an entity; or
+42 (ii) A percentage of ownership interest in an entity that is fifty
+43 percent (50%) or less if a foreign government actually directs the
+44 business and affairs of the entity without the requirement or con-
+45 sent of any other party.
+46 (c) "Foreign adversary" means any foreign government or foreign non-
+47 government person engaged in a long-term pattern or serious instances
+48 of conduct significantly adverse to the national security of the United
+49 States or security and safety of United States persons as determined un-
+50 der 15 CFR 791.4, as it existed on January 1, 2025.
+
+26
+1 (d) "Foreign government" means a government other than the federal gov-
+2 ernment of the United States or the government of any state, political
+3 subdivision of a state, territory, federally recognized Indian tribe,
+4 or possession of the United States.
+5 (e) "Forest land" means privately owned or state-owned land being held
+6 and used primarily for the continuous purpose of growing and harvesting
+7 trees of a marketable species. Having met the above criteria, forest
+8 land includes:
+9 (i) Forest land is land evidenced by present use and silvicul-
+10 tural treatment.
+11 (ii) Forest land is land that has a dedicated use that is further
+12 evidenced by a forest land management plan that includes eventual
+13 harvest of the forest crop.
+14 (iii) Forest land is land bearing forest growth or land that has
+15 not been converted to another use.
+16 (iv) Forest land is land that has had the trees removed by man
+17 through harvest, including clear-cuts or by natural disaster,
+18 such as but not limited to fire, and which within five (5) years af-
+19 ter harvest or initial assessment will be reforested as specified
+20 in the forest practices act, chapter 13, title 38, Idaho Code.
+21 (f) "Foreign pension fund" means a trust, corporation, or other entity
+22 created or organized under the law of a country other than the United
+23 States to provide retirement or pension fund benefits. However, the
+24 term "foreign pension fund" shall not include any trust, corporation,
+25 or other entity that is owned by or subject to a controlling interest of
+26 a sovereign wealth fund.
+27 (g) "Foreign principal" means:
+28 (i) The government or any official of the government of a foreign
+29 adversary;
+30 (ii) A political party or member of a political party or any subdi-
+31 vision of a political party of a foreign adversary;
+32 (iii) A partnership, association, corporation, organization, or
+33 other combination of persons organized under the laws of or having
+34 its principal place of business in a foreign adversary, or a sub-
+35 sidiary of such entity, owned or controlled wholly or in part by
+36 any person, entity, or collection of persons or entities of a for-
+37 eign adversary;
+38 (iv) Any person who is domiciled in a foreign adversary and is not
+39 a citizen or lawful permanent resident of the United States; and
+40 (v) Any person, entity, or collection of persons or entities de-
+41 scribed in this paragraph having a controlling interest in a part-
+42 nership, association, corporation, organization, trust, or any
+43 other legal entity or subsidiary formed for the purpose of owning
+44 real property.
+45 (h) "Mineral right" shall have the same meaning as provided in section
+46 47-701, Idaho Code.
+47 (i) "Mining claim" means a portion of land containing minerals that a
+48 miner has a right to occupy and possess for the purpose of extracting
+49 minerals.
+
+27
+1 (j) "State-controlled enterprise" means a business enterprise, how-
+2 ever denominated, sovereign wealth fund, or state-backed investment
+3 fund in which a foreign government has a controlling interest.
+4 (k) "Water right" shall have the same meaning as provided in section
+5 42-230, Idaho Code.
+6 (4)(a) (18)(a) The attorney general shall investigate acquisitions of
+7 interests in real property reasonably suspected of violating the prohi-
+8 bitions provided for in subsection (2) of this section upon receipt of a
+9 complaint alleging such violation.
+10 (b) The attorney general shall enforce the prohibitions provided for
+11 in subsection (2) of this section for any interest in land, rights, or
+12 claims held in violation of the provisions of subsection (2) of this
+13 section by petitioning the district court for an order and judgment
+14 that: finds such violation; appoints a receiver; and authorizes the
+15 receiver to sell such land, rights, or claims. For a receivership pro-
+16 ceeding under this section:
+17 (i) Proceeds of the sale shall be disbursed to lienholders, in
+18 order of priority, except for liens that, under the terms of the
+19 sale, are to remain on the land, rights, or claims;
+20 (ii) At the receivership sale, lienholders shall be permitted to
+21 have a credit bid; and
+22 (iii) Any excess proceeds shall be disbursed to the owner of record
+23 of the real property.
+24 (c) Upon the commencement of an action provided for in this section, the
+25 attorney general shall promptly file a notice of lis pendens with the
+26 court.
+27 (d) Upon the entry of a court order appointing a receiver and authoriz-
+28 ing the receiver's powers to sell the property pursuant to the provi-
+29 sions of this section, the attorney general shall promptly record a copy
+30 of the court order in the office of the county where the property is lo-
+31 cated that is responsible for the maintenance of property records.
+32 (e) No title to land, rights, or claims shall be invalid or subject to
+33 divestiture due to a violation of the provisions of this section by any
+34 former owner or other individual or entity having formerly held or owned
+35 an interest in the real property.
+36 (f) Divestiture of a foreign government's or foreign state-controlled
+37 enterprise's title under this section shall not be a basis to void,
+38 invalidate, or otherwise extinguish any bona fide mortgage, lien, or
+39 other interest granted by, through, or under the foreign government or
+40 foreign state-controlled enterprise.
+41 (g) No person or entity that is not a foreign government or a foreign
+42 state-controlled enterprise shall bear any civil or criminal liability
+43 for failing to determine or to make an inquiry about whether an indi-
+44 vidual or other entity is a foreign government or a foreign state-con-
+45 trolled enterprise.
+46 SECTION 23. That Section 55-3203, Idaho Code, be, and the same is hereby
+47 amended to read as follows:
+48 55-3203. DEFINITIONS. As used in this chapter:
+
+28
+1 (1) "Board" means the entity that has the duty of governing the home-
+2 owner's association and may be referred to as a board of directors, executive
+3 board, or any other such similar name.
+4 (2) "Community manager" means a person or agent who provides for or oth-
+5 erwise engages in the management of a common interest community or the man-
+6 agement of a homeowner's association.
+7 (3) "Declarant" means an individual or entity filing a declaration in
+8 association with a residential subdivision.
+9 (4) "Declaration" means an instrument filed in the real property
+10 records of a county that includes restrictive covenants governing a residen-
+11 tial subdivision.
+12 (5) "Financial disclosure" means the accounting records of the organi-
+13 zation that are kept, disclosed, and made available for inspection in accor-
+14 dance with part 11, chapter 30, title 30, Idaho Code, and the governing docu-
+15 ments of the homeowner's association.
+16 (6) "Governing documents" means a written instrument by which the home-
+17 owner's association may exercise powers or manage, maintain, or otherwise
+18 affect the property under the jurisdiction of the homeowner's association.
+19 Governing documents includes but is not limited to articles of incorpora-
+20 tion, bylaws, a plat, rules of the homeowner's association, and any declara-
+21 tion of covenants, conditions, and restrictions.
+22 (7)(a) "Homeowner's association" means any incorporated or unincorpo-
+23 rated residential association:
+24 (i) In which membership is based on owning or possessing an inter-
+25 est in real property; and
+26 (ii) That has the authority, pursuant to recorded covenants, by-
+27 laws, or other governing documents, to assess and record liens
+28 against the real property of its members.
+29 (b) "Homeowner's association" includes the following persons who may
+30 or may not be members of a homeowner's association or serve on the board
+31 of a homeowner's association:
+32 (i) A community manager pursuant to a contract with a homeowner's
+33 association; and
+34 (ii) An agent or person with explicit or apparent authority to act
+35 on behalf of a homeowner's association.
+36 (8) "Member" or "membership" means any person or entity owning or pos-
+37 sessing an interest in residential real property or a lot within the physical
+38 boundaries of an established homeowner's association.
+39 (9) "Owner" means a person who holds record title to property in a resi-
+40 dential subdivision and includes an agent of a person who holds record title
+41 to property in a residential subdivision.
+42 (10) "Transfer fee" means a fee, charge, or assessment, as that term is
+43 described in chapter 31, title 55, Idaho Code, charged by the homeowner's as-
+44 sociation and payable to the homeowner's association upon the transfer of an
+45 interest in real property that is under the jurisdiction of the homeowner's
+46 association. (7)
+47 SECTION 24. That Section 56-1003, Idaho Code, be, and the same is hereby
+48 amended to read as follows:
+
+29
+1 56-1003. POWERS AND DUTIES OF THE DIRECTOR. The director shall have
+2 the following powers and duties:
+3 (1) All of the powers and duties of the department of public health, the
+4 department of health, the board of health, and all nonenvironmental protec-
+5 tion duties of the department of health and welfare are hereby vested to the
+6 director of the department of health and welfare. However, oversight of the
+7 department and rulemaking and hearing functions relating to public health
+8 and licensure and certification standards shall be vested in the board of
+9 health and welfare. Except when the authority is vested in the board of
+10 health and welfare under law, the director shall have all such powers and
+11 duties as may have been or could have been exercised by his predecessors in
+12 law, including the authority to adopt, promulgate, and enforce rules, and
+13 shall be the successor in law to all contractual obligations entered into by
+14 predecessors in law. All rulemaking proceedings and hearings of the direc-
+15 tor shall be governed by the provisions of chapter 52, title 67, Idaho Code.
+16 (2) The director shall, pursuant and subject to the provisions of Idaho
+17 Code and this chapter, promulgate and recommend to the board rules to admin-
+18 ister statutes related to health and licensure and certification require-
+19 ments pertinent to health. Such rules may be of general application across
+20 the state or may be limited in time, place, and circumstance as needed to ad-
+21 dress problems.
+22 (3) The director, under rules adopted by the board, shall have general
+23 supervision of the health and welfare of the people of this state. The powers
+24 and duties of the director shall include but are not limited to the follow-
+25 ing:
+26 (a) The education of the people of this state using guidelines and rec-
+27 ommendations for issues of health, safety, mental health, and wellness;
+28 (b) The issuance of licenses and permits as prescribed by law and by the
+29 rules of the board;
+30 (c) The supervision and administration of laboratories and the super-
+31 vision and administration of standards of tests for environmental pol-
+32 lution, chemical analyses and communicable diseases. The director may
+33 require that laboratories operated by any city, county, institution,
+34 person, firm or corporation for health or environmental purposes con-
+35 form to standards set by the board of health and welfare and the board of
+36 environmental quality in rule;
+37 (d) The supervision and administration of a mental health program,
+38 which shall include services for the evaluation, screening, custody and
+39 treatment of the mentally ill and those persons suffering from a mental
+40 defect or mental defects, and services for the prevention of suicide;
+41 (e) The supervision and administration of the various schools, hos-
+42 pitals, and institutions that were the responsibility of the board of
+43 health and welfare;
+44 (f) The supervision and administration of services dealing with sub-
+45 stance abuse, including but not limited to treatment and rehabilita-
+46 tion;
+47 (g) Communication and cooperation with other governmental depart-
+48 ments, agencies and boards in order to effectively assist with the
+49 planning for the control of or abatement of health problems. All of the
+50 rules adopted by the board shall apply to state institutions;
+
+30
+1 (i) (h) The supervision of administrative units whose responsibility
+2 shall be to assist and encourage counties, cities, other governmental
+3 units, and industries in the control of and/or abatement of health prob-
+4 lems; and
+5 (j) (i) The enforcement of all laws and rules relating to health.
+6 (4) The director, when so designated by the governor, and any other time
+7 subject to the standard appropriations and approval process of the legisla-
+8 ture, shall have the power to apply for, receive on behalf of the state, and
+9 utilize any federal aid, grants, gifts, or moneys made available through the
+10 federal government.
+11 (5) The director shall have the power to enter into and make contracts
+12 and agreements with any public agencies or municipal corporations for the
+13 use of facilities, land, and equipment when such use will have a beneficial,
+14 recreational, or therapeutic effect or be in the best interest in carrying
+15 out the duties imposed upon the department. The director shall also have the
+16 power to enter into contracts for the expenditure of state matching funds for
+17 local purposes. This subsection will constitute the authority for public
+18 agencies or municipal corporations to enter into such contracts and expend
+19 money for the purposes delineated in such contracts.
+20 (6) The director is authorized to adopt an official seal to be used on
+21 appropriate occasions, in connection with the functions of the department or
+22 the board, and such seal shall be judicially noticed. Copies of any books,
+23 records, papers and other documents in the department shall be admitted in
+24 evidence equally with the originals thereof when authenticated under such
+25 seal.
+26 (7) The director, under rules adopted by the board of health and welfare
+27 and approved by the legislature pursuant to section 67-5291, Idaho Code,
+28 and section 29, article III of the constitution of the state of Idaho, shall
+29 have the power to impose and enforce orders of isolation, quarantine, or
+30 restricted access to protect the public from the spread of infectious or
+31 communicable diseases or from contamination from chemical, nuclear, or bi-
+32 ological agents, whether naturally occurring or propagated by criminal or
+33 terrorist act.
+34 (a) An order of isolation may be issued only for a person diagnosed with
+35 an infectious or a communicable disease, presenting medically unknown
+36 symptoms, or contaminated from a chemical, nuclear, or biological agent
+37 and only while a person is infectious, displaying unknown symptoms, or
+38 contaminated.
+39 (b) An order of quarantine may be issued only for a person exposed to:
+40 (i) An infectious or a communicable disease;
+41 (ii) A person displaying medically unknown symptoms; or
+42 (iii) Contamination from a chemical, nuclear, or biological
+43 agent;
+44 under circumstances likely to result in the spread of the disease, symp-
+45 toms, or contaminant to the person who had such contact and only for a
+46 reasonable period of time sufficient to determine whether the exposed
+47 person will become sick.
+48 (c) If the director has reasonable cause to believe a chemical, nu-
+49 clear, or biological agent has been released in an identifiable place,
+50 including a building or structure, the director may impose an order of
+
+31
+1 restricted access into or out of that place for the purpose of determin-
+2 ing whether that place has been contaminated with a chemical, nuclear,
+3 or biological agent that may create a substantial and immediate danger
+4 to the public. An order of restricted access shall be effective only
+5 until such time as the contamination has been remediated and the area
+6 of restricted access has been determined to no longer pose an immediate
+7 health risk.
+8 (d) An order of isolation, quarantine, or restricted access issued pur-
+9 suant to this section shall not be subject to the Idaho administrative
+10 procedure act, chapter 52, title 67, Idaho Code, but shall be subject to
+11 judicial review as a final agency order. However, this shall not pre-
+12 vent the director from reconsidering, amending, or withdrawing the or-
+13 der. Judicial review of orders of isolation, quarantine, or restricted
+14 access shall be de novo. The court may affirm, reverse, or modify the
+15 order and shall affirm the order if the director shows by clear and con-
+16 vincing evidence that the order is reasonably necessary to protect the
+17 public from a substantial and immediate danger of the spread of an in-
+18 fectious or communicable disease or from contamination by a chemical,
+19 nuclear, or biological agent. A hearing on a request for review pur-
+20 suant to this paragraph shall be held as soon as practicable but no later
+21 than three (3) business days after the request is made. Notice of the
+22 request for review to the court must be provided to the director. The
+23 court may order the person who is the subject of or affected by the or-
+24 der of isolation, quarantine, or restricted access to appear remotely
+25 via technology approved by the Idaho supreme court. Upon conclusion of
+26 a hearing described in this subsection, the court conducting judicial
+27 review shall issue an order:
+28 (i) Affirming or modifying the order of isolation, quarantine, or
+29 restricted access; or
+30 (ii) Reversing the order and releasing an individual who is the
+31 subject of or affected by such order.
+32 (e) Any person who violates an order of isolation, quarantine, or re-
+33 stricted access shall be guilty of a misdemeanor.
+34 (8) The director shall develop safeguards necessary to ensure the se-
+35 curity of nonpublic personal information in the department's possession and
+36 to prevent undue disclosure of such information. The director shall estab-
+37 lish a process to authenticate requests made by a person, entity or jurisdic-
+38 tion arising under the 2007 Hague convention on the international recovery
+39 of child support and other forms of family maintenance. In the event the de-
+40 partment becomes aware of any improper disclosure, the director shall take
+41 all actions required under section 28-51-105, Idaho Code.
+42 SECTION 25. That Section 56-1602, Idaho Code, be, and the same is hereby
+43 amended to read as follows:
+44 56-1602. DEFINITIONS. As used in this chapter:
+45 (1) "CMS" means the centers for medicare and medicaid services.
+46 (2) "Department" means the Idaho department of health and welfare.
+47 (3) "Fiscal year" means the time period from July 1 to June 30.
+48 (4) "Fund" means the ICF assessment fund established pursuant to sec-
+49 tion 56-1603, Idaho Code.
+
+32
+1 (5) "ICF" means an intermediate care facility f as defined in section
+2 39-1301, Idaho Code, and licensed pursuant to chapter 13, title 39, Idaho
+3 Code.
+4 (6) "Net patient service revenue" means gross revenues from services
+5 provided to ICF patients, less reductions from gross revenue resulting from
+6 an inability to collect payment of charges. Patient service revenue ex-
+7 cludes nonpatient care revenues such as beauty and barber, vending income,
+8 interest and contributions, revenues from sale of meals and all outpatient
+9 revenues. Reductions from gross revenue includes: bad debts; contractual
+10 adjustments; uncompensated care; administrative, courtesy and policy dis-
+11 counts and adjustments; and other such revenue deductions.
+12 (7) "Resident day" means a calendar day of care provided to an ICF resi-
+13 dent, including the day of admission and excluding the day of discharge, pro-
+14 vided that one (1) resident day shall be deemed to exist when admission and
+15 discharge occur on the same day.
+16 (8) "Upper payment limit" means the limitation established in 42 CFR
+17 section 447.272, that disallows federal matching funds when state medicaid
+18 agencies pay certain classes of facilities an aggregate amount for services
+19 that exceed the amount that is paid for the same services furnished by that
+20 class of facilities under medicare payment principles.
+21 SECTION 26. That Chapter 22, Title 56, Idaho Code, as enacted by Section
+22 13, Chapter 84, Laws of 2025, be, and the same is hereby amended to read as
+23 follows:
+24 CHAPTER 22 24
+25 DRINKING WATER LABORATORY CERTIFICATION PROGRAM
+26 56-2201 56-2401. SHORT TITLE. This chapter shall be known and may be
+27 cited as the "Drinking Water Laboratory Certification Program."
+28 56-2202 56-2402. APPLICATION FOR CERTIFICATION. (1) An application
+29 for drinking water certification, listing methods approved by the depart-
+30 ment of environmental quality, shall be submitted annually by laboratories
+31 seeking certification on a form approved by the department of health and
+32 welfare.
+33 (2) Applications for renewal and supporting documentation requested by
+34 the department of health and welfare must be received by the department at
+35 least thirty (30) days before the current certificate expires.
+36 (3) A laboratory seeking to change methods or to add analytes prior to
+37 annual reapplication shall submit an amended application and provide sup-
+38 porting documentation requested by the department of health and welfare.
+39 Laboratories submitting an amended application shall be subject to an addi-
+40 tional base fee charge.
+41 (4) All certifications shall be valid for one (1) year from the date of
+42 issuance.
+43 56-2203 56-2403. CERTIFICATION FEES. (1) Laboratories requesting
+44 chemistry certification shall be charged a base fee of one hundred dollars
+45 ($100) per discipline and twenty dollars ($20.00) per analyte per method.
+
+33
+1 (2) Laboratories requesting microbiology certification shall be
+2 charged a fee of one hundred fifty dollars ($150).
+3 (3) Out-of-state laboratories requesting chemistry certification
+4 shall be charged a base fee of two hundred dollars ($200) per discipline and
+5 twenty dollars ($20.00) per analyte per method.
+6 (4) Out-of-state laboratories requesting microbiology certification
+7 shall be charged a fee of three hundred dollars ($300).
+8 (5) New laboratories requesting certification will be charged a non-
+9 refundable application fee of two hundred fifty dollars ($250) per disci-
+10 pline listed on the completed application form.
+11 56-2204 56-2404. CERTIFICATION OVERSIGHT AND REQUIREMENTS. (1) Qual-
+12 ified representatives of the department of health and welfare are authorized
+13 to audit the premises and operations of all certified laboratories to de-
+14 termine the adequacy of the laboratory to perform drinking water compliance
+15 testing. On-site audits shall occur a minimum of every three (3) years or
+16 more frequently at the discretion of the department. Departmental represen-
+17 tatives shall issue a written report of audit findings, list items requiring
+18 a laboratory response, and specify the response time frame required to main-
+19 tain certification.
+20 (2) Test results shall be submitted in a format approved by the depart-
+21 ment of environmental quality and shall be reported to the department of en-
+22 vironmental quality, or the department's designee, no later than ten (10)
+23 business days after the completion of testing or upon receipt of results from
+24 subcontracted laboratories.
+25 (3) As soon as feasible, a laboratory shall notify the department of
+26 environmental quality, or the department's designee, of any nitrate and ni-
+27 trate level exceeding the current maximum contaminant level. Notification
+28 shall also be made for any other regulated chemical or radiological contam-
+29 inant that exceeds four (4) times the maximum contaminant level. Notifica-
+30 tion requirements apply to any samples subcontracted to another laboratory.
+31 (4) A laboratory shall notify the department of environmental quality,
+32 or the department's designee, of any total coliform positive result by the
+33 end of the day, unless the positive result is obtained after the department
+34 of environmental quality is closed and the department of environmental qual-
+35 ity does not have either an after-hours phone line or an alternative notifi-
+36 cation procedure, in which case the laboratory shall notify the department
+37 of environmental quality before the end of the next business day.
+38 SECTION 27. That Section 57-829, Idaho Code, as enacted by Section 1,
+39 Chapter 256, Laws of 2025, be, and the same is hereby amended to read as fol-
+40 lows:
+41 57-829 57-832. AMERICA250 COMMEMORATION FUND -- AMERICA250 ADVISORY
+42 COMMITTEE. (1) There is hereby created in the state treasury the America250
+43 commemoration fund for the purpose of funding Idaho's participation in cel-
+44 ebrating the two hundred fiftieth anniversary of America's founding. All
+45 moneys in the fund are to be used only for the purposes provided in this sec-
+46 tion, and shall be expended only as directed and approved by the America250
+47 advisory committee pursuant to the provisions of subsection (4) of this sec-
+48 tion.
+
+34
+1 (2) Moneys in the fund shall include:
+2 (a) Any remaining amounts appropriated by the legislature during the
+3 2024 legislative session for the purposes described by this section;
+4 and
+5 (b) Gifts, grants, and other donations.
+6 (3) The state treasurer shall invest the idle moneys of the America250
+7 commemoration fund, and the interest earned on such investments shall be
+8 retained by such fund. All unobligated funds remaining in the America250
+9 commemoration fund on June 30, 2027, shall be transferred by the state con-
+10 troller on such date into the general fund.
+11 (4)(a) There is hereby created the America250 advisory committee that
+12 shall be comprised of seven (7) members, and shall include the director
+13 of the state historical society, the state treasurer, one (1) member
+14 appointed by the governor, and four (4) members appointed by the leg-
+15 islative council. The legislative council shall select the chair of
+16 the America250 advisory committee. The America250 advisory committee
+17 shall direct and approve all distributions of funds from the America250
+18 commemoration fund. The America250 advisory committee shall meet at
+19 least annually at such place and time as it determines and may meet as
+20 often as necessary to discharge the duties imposed on it.
+21 (b) Notwithstanding any provision of law to the contrary, the divi-
+22 sion of financial management shall approve the spending authority of
+23 the America250 commemoration fund for any spending directive that is
+24 approved by the America250 advisory committee for any state entity in
+25 the same manner as the approval process for funds that are not cogniz-
+26 able pursuant to section 67-3516(2), Idaho Code. Spending authority
+27 approved pursuant to this subsection shall only be made for each state
+28 entity that does not have sufficient authority within such entity's
+29 current appropriation from its miscellaneous revenue fund or other
+30 allowable fund to comply with the America250 advisory committee's
+31 spending directive. If a state entity does not have an allowable mis-
+32 cellaneous fund from which to expend moneys, the state entity shall
+33 establish a miscellaneous revenue fund to facilitate the spending di-
+34 rective of the America250 advisory committee.
+35 (c) The state treasurer, on behalf of the America250 advisory com-
+36 mittee, shall record and track all revenues and expenditures by fund
+37 sources pursuant to subsection (2) of this section for each approved
+38 purpose and to ensure that moneys are not allocated in excess of avail-
+39 able revenue.
+40 SECTION 28. That Section 58-307, Idaho Code, be, and the same is hereby
+41 amended to read as follows:
+42 58-307. TERM OF LEASE -- APPLICATION FOR RENEWAL -- ALLOWANCE FOR IM-
+43 PROVEMENTS. (1) No lease of state trust lands shall be for a longer term than
+44 twenty (20) years.
+45 (2) Notwithstanding any other provisions of law, all state lands may
+46 be leased for a period of up to twenty-five (25) years to the federal gov-
+47 ernment, to federal agencies, state agencies, counties, or cities, school
+48 districts or political subdivisions when leased for public purposes. Such
+
+35
+1 leases for public purposes may be entered into by negotiation and shall se-
+2 cure a rental amount based on the fair market value of the state land.
+3 (3) Notwithstanding any other provisions of law, all state endowment
+4 trust lands may be leased for a period of up to thirty-five (35) years for
+5 residential purposes as determined by the state board of land commissioners
+6 including, but not limited to, single family, recreational cottage site and
+7 homesite leases.
+8 (4) Notwithstanding any other provision of law to the contrary, all
+9 state lands may be leased for a period of up to forty (40) years for grazing
+10 leases.
+11 (5) Notwithstanding any other provisions of law, all state endowment
+12 trust lands may be leased for a period of up to forty-nine (49) years for com-
+13 mercial purposes under such terms and conditions as may be set by the board,
+14 provided that, for such leases in excess of twenty (20) years, the board con-
+15 sults with the county commissioners of the county in which the lands are lo-
+16 cated before leasing the lands, and the use for which the land is leased shall
+17 be consistent with the local planning and zoning ordinances insofar as is
+18 reasonable and practicable. For each lease in excess of twenty (20) years,
+19 the department shall hold a hearing in the county in which the parcel is lo-
+20 cated. Grazing leases shall be excluded from the hearing requirement.
+21 (6) The term "commercial purposes" means fuel cells, low impact hy-
+22 dro, wind, geothermal resources, biomass, cogeneration, sun or landfill
+23 gas as the principal source of power with a facility capable of generating
+24 not less than twenty-five (25) kilowatts of electricity, industrial enter-
+25 prises, retail sales outlets, business and professional office buildings,
+26 hospitality enterprises, commercial recreational activities, multifamily
+27 residential developments and other similar businesses. For purposes of
+28 this section, farming leases, grazing leases, conservation leases including
+29 lands enrolled in federal conservation programs such as the conservation
+30 reserve enhancement program (CREP), noncommercial recreation leases, oil
+31 and gas leases, mineral leases, communication site leases, single family,
+32 recreational cottage site and homesite leases, and leases for other similar
+33 uses, are not considered leases for commercial purposes. The terms fuel
+34 cells, low impact hydro, wind, geothermal resources, biomass, cogeneration,
+35 sun or landfill gas shall have the same definitions as provided in section
+36 63-3622QQ, Idaho Code.
+37 (7) The board may require that all fixed improvements constructed upon
+38 land leased for commercial purposes be removed or become the property of the
+39 state upon termination of the lease, and that any heirs, encumbrances or
+40 claims of third parties with respect to any improvements shall be expressly
+41 subordinate and subject to the rights of the state under this section.
+42 (8) Except for oil and gas, mineral and commercial leases, the lease
+43 year shall run from January 1 through December 31, and all leases shall ex-
+44 pire on December 31 of the year of expiration.
+45 (9) All applications to lease or to renew an existing lease which ex-
+46 pires December 31 of any year, shall be filed in the office of the director
+47 of the department of lands by the thirtieth day of April preceding the date
+48 of such expiration. Such applications will be considered by the state land
+49 board and be disposed of in the manner provided by law; except that the board
+50 may reject conflicting applications for a lease for commercial purposes if
+
+36
+1 the lessee exercises the preference right to renew clause, and provided such
+2 right is specified in the lease.
+3 (10) Where conflicts appear upon leases, except for mineral leases
+4 which, pursuant to chapter 7, title 47, Idaho Code, contain a preferential
+5 right to renew clause, such applications shall be considered as having been
+6 filed simultaneously. However, nothing herein shall be construed to prevent
+7 the state board of land commissioners from accepting and considering appli-
+8 cations for new leases at any time.
+9 (11) In case improvements have been made on land while under lease which
+10 is expiring, and the former lessee is not the successful bidder, but the land
+11 is leased to another, the amount of such improvements shall be paid to the
+12 former lessee. The following shall be considered improvements: plowing
+13 done within one (1) year, provided no crop has been raised on the plowed land
+14 after such plowing, fencing, buildings, cisterns, wells, growing crops and
+15 any other asset which shall be considered an improvement by the director.
+16 (12) Commercial leases of the state lands shall not be subject to the
+17 conflict auction provisions of section 58-310, Idaho Code. The board may,
+18 at its discretion, consider individual applications or call for proposals
+19 and sealed bids by public advertisement, and may evaluate said proposals and
+20 award the lease to the bidder whose proposal achieves the highest return over
+21 the term of the lease and who is capable of meeting such terms and conditions
+22 as may be set by the board; in the alternative, the board may call for lease
+23 applications by public advertisement and if more than one (1) person files
+24 an application to hold an auction in the same manner as provided in section
+25 58-310, Idaho Code. In all cases, the board must obtain a reasonable rental,
+26 based upon fair market value of the state land, throughout the duration of
+27 the lease. The board may reject any or all proposals and any or all bids, and
+28 may reoffer the lease at a later date if the board determines that the pro-
+29 posals or bids do not achieve the highest and best use of the land at market
+30 rental.
+31 SECTION 29. That Section 63-3622XX, Idaho Code, as enacted by Section
+32 1, Chapter 86, Laws of 2025, be, and the same is hereby amended to read as
+33 follows:
+34 63-3622XX 63-3622YY. SMALL SELLER. (1) There is hereby exempted from
+35 the taxes imposed by this chapter sales of tangible personal property made by
+36 an individual making small sales. A small seller shall not collect or remit
+37 any state sales or use tax imposed by this chapter.
+38 (2) For purposes of this section, "small seller" means an Idaho resi-
+39 dent making sales that do not exceed five thousand dollars ($5,000) in cumu-
+40 lative gross receipts in the current or previous calendar year. It shall not
+41 include partnerships, corporations, or limited liability corporations.
+42 (3) The exemption provided in this section shall not apply to:
+43 (a) Sales of motor vehicles, trailers, all-terrain vehicles, utility
+44 type vehicles, specialty off-highway vehicles, motorcycles intended
+45 for off-road use, snowmobiles, aircraft, vessels as defined in section
+46 67-7003, Idaho Code, alcohol, or tobacco; or
+47 (b) Items purchased to be sold or incorporated into items to be sold.
+48 (4) A small seller with gross receipts exceeding five thousand dollars
+49 ($5,000) shall within thirty (30) days file with the state tax commission
+
+37
+1 an application for a temporary seller's permit and begin collecting sales
+2 and use tax. No temporary seller's permit shall be issued for a period of
+3 time greater than the remaining calendar year in which sales exceeded five
+4 thousand dollars ($5,000) for a small seller. The following year, such
+5 seller shall apply for a seller's permit under the provisions of section
+6 63-3620(a), Idaho Code.
+7 (5) A small seller shall indicate on such seller's invoice, if re-
+8 quested by the purchaser, that the sale was exempt from sales and use tax
+9 pursuant to the provisions of this section.
+10 (6) A small seller shall not permanently maintain, occupy, or use an
+11 office, place of distribution, sales or sample room or place, warehouse or
+12 storage place, or other place of business or maintain a stock of goods with
+13 anticipation of exceeding gross receipts of five thousand dollars ($5,000).
+14 (7) A small seller may file an application with the state tax commission
+15 for a seller's permit pursuant to section 63-3620, Idaho Code, before such
+16 seller reaches the five thousand dollar ($5,000) threshold provided in sub-
+17 section (2) of this section.
+18 (8) Nothing in this section relieves a small seller from filing indi-
+19 vidual income tax returns for persons who meet the filing requirements under
+20 section 63-3030, Idaho Code.
+21 (9) A small seller with sales exceeding three thousand dollars ($3,000)
+22 annually shall keep such records for not less than four (4) years pursuant to
+23 section 63-3624, Idaho Code.
+24 SECTION 30. That Section 67-827A, Idaho Code, be, and the same is hereby
+25 amended to read as follows:
+26 67-827A. POWERS AND DUTIES. The office of information technology ser-
+27 vices is hereby authorized and directed:
+28 (1)(a)(i) To control and approve the acquisition and installa-
+29 tion of all telecommunications equipment and facilities for all
+30 departments and institutions of state government, except as pro-
+31 vided in subparagraphs (ii), (iii) and (iv) of this paragraph;
+32 (ii) To coordinate the acquisition and installation of all
+33 telecommunications equipment and facilities for the institutions
+34 of higher education and the elected officers in the executive
+35 branch;
+36 (iii) To coordinate the acquisition and installation of all
+37 telecommunications equipment and facilities for the legislative
+38 and judicial branches;
+39 (iv) Provided however, that the acquisition and installation of
+40 all public safety and microwave equipment shall be under the con-
+41 trol of the military division. The military division is autho-
+42 rized to charge and receive payment for actual and necessary ex-
+43 penses incurred in providing services to any unit of state govern-
+44 ment under the provisions of this subparagraph.
+45 (b) In approving or directing the acquisition or installation of
+46 telecommunications equipment or facilities, the office shall first
+47 consult with and consider the recommendations and advice of the direc-
+48 tors or executive heads of the various departments or institutions. Any
+49 acquisition or installation of any telecommunications equipment or fa-
+
+38
+1 cilities that is contrary to the office's direction or is not in harmony
+2 with the state's overall plan for telecommunications and information
+3 sharing shall be reported in writing to the governor and the legisla-
+4 ture.
+5 (2) To provide a system of telecommunications for all departments and
+6 institutions of state government. Funds received pursuant to this subsec-
+7 tion shall be appropriated for payment of telecommunications and telephone
+8 charges incurred by the various agencies and institutions of state govern-
+9 ment.
+10 (3) To provide a means whereby political subdivisions of the state may
+11 use the state telecommunications system, on such terms and under such condi-
+12 tions as the office of information technology services may establish.
+13 (4) To accept federal funds granted by congress or by executive order
+14 for all or any of the purposes of this chapter, as well as gifts and donations
+15 from individuals and private organizations or foundations.
+16 (5) To oversee implementation of cybersecurity policies that foster
+17 risk and cybersecurity management telecommunications and decision-making
+18 with both internal and external organizational stakeholders.
+19 (6) To consult with and direct state agencies and officials regarding
+20 information security needs.
+21 (7) To direct state agencies and officials on penetration tests and
+22 vulnerability scans of state technology systems in order to identify steps
+23 to mitigate identified risks.
+24 (8) To direct state agencies and officials to ensure that state agen-
+25 cies implement mandatory education and training of state employees and pro-
+26 vide guidance on appropriate levels of training for various classifications
+27 of state employees.
+28 (9) To direct appropriate state agencies to create, coordinate, pub-
+29 lish, routinely update and market a statewide cybersecurity website as an
+30 information repository for intelligence-sharing and cybersecurity best
+31 practices.
+32 (10) To ensure that all state agencies implement and maintain cyberse-
+33 curity best practices.
+34 (11) To require all state agencies to implement and use multifactor
+35 identification to access information technology devices or services, in-
+36 cluding but not limited to local and remote network access to any email
+37 accounts, cloud storage accounts, web applications, networks, databases, or
+38 servers.
+39 (12) To coordinate public and private entities to develop, create and
+40 promote statewide public outreach efforts to protect personal information
+41 and sensitive data from cyber threats.
+42 (11)(a) (13)(a) To obtain a criminal history check on prospective em-
+43 ployees and contractors with the Idaho office of information technology
+44 services who provide information technology (IT) services to external
+45 state agency customers and who work in one (1) or more of the following
+46 disciplines:
+47 (i) IT network engineering;
+48 (ii) IT operations and support;
+49 (iii) IT software engineering;
+50 (iv) Geographic information systems;
+
+39
+1 (v) IT information management;
+2 (vi) IT database administration;
+3 (vii) IT systems and infrastructure engineering;
+4 (viii) IT information security engineering;
+5 (ix) IT architecture;
+6 (x) IT management;
+7 (xi) Remote sensing analysis; and
+8 (xii) Data science.
+9 (b) The criminal history check done pursuant to paragraph (a) of this
+10 subsection shall be based on a completed ten (10) finger fingerprint
+11 card or scan and shall include, at a minimum, information from the Idaho
+12 bureau of criminal identification database and the federal bureau of
+13 investigation's criminal history database.
+14 (c) For the purposes of this section, "information technology" shall
+15 have the same meaning as provided for in section 67-831, Idaho Code.
+16 (12) (13) (14) To promulgate and adopt reasonable rules, subject to leg-
+17 islative approval, for effecting the purposes of this act pursuant to the
+18 provisions of chapter 52, title 67, Idaho Code.
+19 SECTION 31. That Section 67-2362, Idaho Code, as enacted by Section 3,
+20 Chapter 6, Laws of 2025, be, and the same is hereby amended to read as fol-
+21 lows:
+22 67-2362 67-2363. USE OF MULTIFACTOR IDENTIFICATION REQUIRED. (1) The
+23 legislative branch and its staff, the judicial branch and its staff, and the
+24 elected constitutional officers and their staffs shall implement the use of
+25 multifactor identification as that term is defined in section 67-831, Idaho
+26 Code.
+27 (2) Multifactor identification shall be required to access informa-
+28 tion technology devices or services as those terms are described in section
+29 67-831, Idaho Code, including but not limited to local and remote network
+30 access to any email accounts, cloud storage accounts, web applications,
+31 networks, databases, or servers.
+32 SECTION 32. That Section 67-5242, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 67-5242. PROCEDURE AT HEARING. (1) In a contested case other than an
+35 emergency proceeding held pursuant to section 62-5247 67-5247, Idaho Code,
+36 all parties shall receive notice that shall include:
+37 (a) A statement of the time, place, and nature of the hearing;
+38 (b) A statement of the legal authority under which the hearing is to be
+39 held; and
+40 (c) A short and plain statement of the matters asserted or the issues
+41 involved.
+42 (2) At the hearing, the presiding officer:
+43 (a) Shall regulate the course of the proceedings to assure that there
+44 is a full disclosure of all relevant facts and issues, including such
+45 cross-examination as may be necessary.
+
+40
+1 (b) Shall afford all parties the opportunity to respond and present ev-
+2 idence and argument on all issues involved, except as restricted by a
+3 limited grant of intervention or by a prehearing order.
+4 (c) May give nonparties an opportunity to present oral or written
+5 statements. If the presiding officer proposes to consider a statement
+6 by a nonparty, the presiding officer shall give all parties an opportu-
+7 nity to challenge or rebut it and, on motion of any party, the presiding
+8 officer shall require the statement to be given under oath or affirma-
+9 tion.
+10 (d) Shall cause the hearing to be recorded at the agency's expense. Any
+11 party, at that party's expense, may have a transcript prepared or may
+12 cause additional recordings to be made during the hearing if the making
+13 of the additional recording does not cause distraction or disruption.
+14 (e) May conduct all or part of the hearing by telephone, video confer-
+15 ence, or other electronic means, if each participant in the hearing has
+16 an opportunity to participate in the entire proceeding while it is tak-
+17 ing place.
+18 SECTION 33. That Section 67-7602B, Idaho Code, be, and the same is
+19 hereby amended to read as follows:
+20 67-7602B. FUNDING. The Idaho heritage trust shall receive funds
+21 collected in section 49-450, Idaho Code, in the amount of fifty cents
+22 (50¢) per plate for the use of the copyrighted design provided in section
+23 49-443(10)(1), Idaho Code. The Idaho transportation department shall
+24 collect such funds and distribute them to the Idaho heritage trust fund
+25 quarterly. The role of the heritage trust is to accept proposals from the
+26 public requesting funds for heritage preservation projects. The proposals
+27 are evaluated on established criteria, and if in the opinion of the heritage
+28 trust they qualify, a grant may be awarded subject to the availability of
+29 funds. The heritage trust shall insure that the following occurs in respect
+30 to the management of funds:
+31 (1) Funds earned from the use of the motor vehicle license plate design
+32 shall be deposited directly into the trust fund where it will earn interest
+33 that will be used for heritage preservation projects. Contributions from
+34 private fund raising efforts may also be deposited to the trust fund.
+35 (2) Only the interest earned from the trust fund shall be expended, and
+36 the trust fund shall remain as a permanent endowment generating income in
+37 perpetuity for heritage preservation.
+38 (3) The Idaho heritage trust shall require project sponsors to match
+39 the funds granted for each project, so that no more than half the monetary
+40 support for any project shall come from the proceeds of the trust fund.
+41 SECTION 34. That Section 67-9407, Idaho Code, as enacted by Section 2,
+42 Chapter 83, Laws of 2025, be, and the same is hereby amended to read as fol-
+43 lows:
+44 67-9407 67-9418. REPORTING REQUIREMENTS. (1) For the purposes of this
+45 section:
+
+41
+1 (a) "Agency" means a state agency that is subject to the provisions of
+2 section 67-1904, Idaho Code, and that is a licensing authority as de-
+3 fined in this chapter.
+4 (b) "Credible complaint" means an allegation supported by specific
+5 facts or evidence that reasonably warrants investigation of a potential
+6 quality-related violation or technical violation.
+7 (c) "Quality-related violation" means a disciplinary action that re-
+8 lates to direct consumer harm such as an injury from a practice error or
+9 negligence.
+10 (d) "Technical violation" means a disciplinary action that relates to
+11 the violation of a specific occupational licensing-related law or rule
+12 that does not cause direct consumer harm, such as failing to meet a con-
+13 tinuing education requirement, late renewal of a license, or failing to
+14 hold certain required insurance.
+15 (2) As part of the annual performance report that an agency is required
+16 to prepare pursuant to section 67-1904, Idaho Code, an agency shall, begin-
+17 ning with the fiscal year 2027 report, include the following information
+18 separately for each license under its purview:
+19 (a) The total number of licensees as of the last day of the fiscal year;
+20 (b) The total number of new licenses issued during the fiscal year;
+21 (c) The number of new applicants for licensure who were denied licen-
+22 sure during the fiscal year;
+23 (d) The number of licenses renewed during the fiscal year;
+24 (e) The number of licenses that were not renewed during the fiscal year;
+25 (f) The number of credible complaints against licensees during the fis-
+26 cal year; and
+27 (g) The number of final disciplinary actions against licensees during
+28 the fiscal year.
+29 (3) For disciplinary actions reported pursuant to subsection (2)(g) of
+30 this section, an agency shall report:
+31 (a) The number and type of disciplinary action taken, reported as a cor-
+32 rective action plan, civil fine, license suspension, license revoca-
+33 tion, or other;
+34 (b) The number of related disciplinary actions stemming from technical
+35 violations;
+36 (c) The number of related disciplinary actions stemming from quality-
+37 related violations; and
+38 (d) For all quality-related violations, a brief, de-identified summary
+39 of the violations suitable for the lay public to understand the nature
+40 of the case.
+41 SECTION 35. That Chapter 98, Title 67, Idaho Code, as enacted by Section
+42 2, Chapter 107, Laws of 2025, be, and the same is hereby amended to read as
+43 follows:
+44 CHAPTER 98 99
+45 IDAHO CONSTITUTIONAL MONEY ACT OF 2025
+46 67-9801 67-9901. SHORT TITLE. This act shall be known and may be cited
+47 as the "Idaho Constitutional Money Act of 2025."
+
+42
+1 67-9802 67-9902. DEFINITIONS. For the purposes of this chapter, the
+2 following terms have the following definitions:
+3 (1) "Debt" means any public or private obligation, tax or other pub-
+4 lic charge, or other provision in any contract, agreement, law, or regula-
+5 tion that requires and stipulates the payment of, or by the terms of which is
+6 payable in, some medium of exchange, currency, or money.
+7 (2) "Entity" means the state of Idaho, corporations, partnerships,
+8 trusts, labor unions, and unincorporated associations that reside or trans-
+9 act business or other operations within the state of Idaho.
+10 (3) "Gold and silver coin" means all such gold and silver coin as are
+11 allowable for a state:
+12 (a) To "make ... a tender in payment of debts" under the authority re-
+13 served to the several states in clause 1, section 10, article I of, and
+14 the tenth amendment to, the constitution of the United States; or
+15 (b) To employ as its own medium of exchange in the performance of its
+16 sovereign governmental functions.
+17 (4) "Legal tender" means a medium of exchange, currency, or money that
+18 may be offered and accepted for the satisfaction of debts under the laws of
+19 the state of Idaho or of the United States, as the case may be.
+20 (5) "Person" means all natural persons.
+21 (6) "Specie" means:
+22 (a) Stamped or imprinted coin having gold or silver content; or
+23 (b) Refined gold or silver bullion that is coined, stamped, or im-
+24 printed with its weight and purity and valued primarily based on its
+25 metal content and not its form.
+26 (7) "State" means the state of Idaho and all departments, agencies, of-
+27 ficials, and employees thereof.
+28 67-9803 67-9903. GOLD AND SILVER COIN AND SPECIE. (1) To the full ex-
+29 tent allowed by clause 1, section 10, article I of, and the tenth amendment
+30 to, the constitution of the United States, gold and silver coin and specie
+31 minted domestically shall be legal tender in the state of Idaho under the
+32 laws of this state. The state may also elect to use gold and silver coin and
+33 specie in conducting its business.
+34 (2) Unless expressly provided by statute or by contract, no person or
+35 other entity may compel another person or other entity to tender or accept
+36 gold or silver coin or specie unless agreed upon by the parties.
+37 SECTION 36. That Section 72-1330A, Idaho Code, as enacted by Section
+38 17, Chapter 29, Laws of 2025, be, and the same is hereby amended to read as
+39 follows:
+40 72-1330A 72-1330B. WORKPLACE MISCONDUCT. (1) "Workplace misconduct"
+41 means conduct in connection with employment that willfully disregards the
+42 employer's interest, willfully violates the employer's reasonable rules, or
+43 disregards a standard of behavior that the employer has a right to expect of
+44 its employees.
+45 (2) A claimant's conduct disregards a standard of behavior the employer
+46 has a right to expect of its employees when the conduct falls below the stan-
+47 dard of behavior expected by the employer and the employer's expectation was
+48 objectively reasonable. There is no requirement that the claimant's conduct
+
+43
+1 be willful, intentional, or deliberate. The claimant's subjective state of
+2 mind is not a relevant factor in determining workplace misconduct pursuant
+3 to this subsection.
+4 (3) An employer's expectation shall be considered objectively reason-
+5 able when it is communicated to the employee or flows naturally from the em-
+6 ployment relationship. An expectation that flows naturally need not be com-
+7 municated to an employee to be considered objectively reasonable.
+8 (4) Mere inefficiency, unsatisfactory conduct, inadvertencies, iso-
+9 lated instances of ordinary negligence, good faith errors in judgment or
+10 discretion, or failure to meet the performance expectations of the employer
+11 because of inability or incapacity shall not be considered misconduct con-
+12 nected with employment.
+13 (5) Except as provided in section 72-1366(5), Idaho Code, conduct in-
+14 volving personal, nonjob-related behavior occurring outside the workplace
+15 shall not be considered workplace misconduct in connection with employment.
+16 SECTION 37. An emergency existing therefor, which emergency is hereby
+17 declared to exist, this act shall be in full force and effect on and after
+18 July 1, 2026. The provisions of Section 27 of this act shall be null, void and
+19 of no force and effect on and after July 1, 2027.

@@ -1,0 +1,114 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Nichols
+Seconded by Semmelroth
+IN THE SENATE
+SENATE AMENDMENT TO S.B. NO. 1271
+1 AMENDMENT TO THE BILL
+2 On page 1 of the printed bill, delete lines 7 through 40; and on page 2,
+3 delete lines 1 through 37, and insert:
+4 "SECTION 1. That Title 52, Idaho Code, be, and the same is hereby
+5 amended by the addition thereto of a NEW CHAPTER, to be known and designated
+6 as Chapter 5, Title 52, Idaho Code, and to read as follows:
+7 CHAPTER 5
+8 PUBLIC HEALTH AND SAFETY NUISANCES
+9 52-501. RODENTS OF UNUSUAL SIZE -- NUISANCES. (1) The legislature
+10 finds that the state of Idaho, in particular its more metropolitan areas,
+11 has seen a dramatic increase in the presence of rats, which is especially
+12 concerning given their lack of historic presence in Idaho and their ability
+13 to easily transport diseases that are transmittable to humans and to cause
+14 economic damage to agriculture and property.
+15 (2) The Norway rat and the roof rat (rats) are hereby declared to be:
+16 (a) A public health and safety nuisance, pursuant to the provisions of
+17 this section;
+18 (b) An invasive species for the purposes of chapter 19, title 22, Idaho
+19 Code;
+20 (c) An agricultural pest for the purposes of chapter 26, title 25, Idaho
+21 Code; and
+22 (d) A vermin and public health and welfare pest for the purposes of
+23 chapter 28, title 39, Idaho Code.
+24 (3) The director of the department of agriculture shall:
+25 (a) Coordinate efforts, to the maximum extent possible, with:
+26 (i) The boards of county commissioners within Idaho;
+27 (ii) Control districts, the boards thereof, and the boards of
+28 county commissioners operating pursuant to chapter 26, title 25,
+29 Idaho Code;
+30 (iii) Abatement districts, the boards thereof, and the boards of
+31 county commissioners operating pursuant to chapter 28, title 39,
+32 Idaho Code;
+33 (iv) Public health districts and the boards thereof, pursuant to
+34 chapter 4, title 39, Idaho Code;
+35 (v) Any other state agency, department, or political subdivision
+36 that the director determines necessary to enact the provisions of
+37 this section; and
+38 (vi) Any other entity, public or private, that the director deter-
+39 mines necessary to coordinate or contract with to enact the provi-
+
+2
+1 sions of this section, including to promote public education mate-
+2 rials;
+3 (b) Develop and implement a coordinated plan to engage the public, po-
+4 litical subdivisions, and other relevant stakeholders to determine the
+5 extent and scope of rats in Idaho; and
+6 (c) Develop and distribute public education material that promotes on-
+7 going reporting and best practices to prevent and eradicate rats.
+8 (4) The finding of a rat in Idaho is encouraged to be promptly reported
+9 to the department of agriculture.
+10 (a) The department shall collect and compile all such reports regarding
+11 the presence of rats in order to determine:
+12 (i) The movement and location of the rats;
+13 (ii) Where abatement is necessary;
+14 (iii) The type of abatement that is necessary; and
+15 (iv) Where the department may need assistance to abate the rats.
+16 (b) Such reports and educational materials shall be made publicly
+17 available on the department's website.
+18 (5) The department shall use such reports to create an abatement plan
+19 that includes ongoing public education material distribution.
+20 (a) The abatement plan shall:
+21 (i) Summarize the extent and scope of rats in Idaho;
+22 (ii) Describe the actions already taken and that are currently in
+23 progress to address the rats;
+24 (iii) Describe any planned future actions to address the rats;
+25 (iv) Provide information on how to report the presence of rats to
+26 the department; and
+27 (v) Provide accessible ways to prevent or eliminate rats within
+28 the community and household.
+29 (b) The abatement plan shall be made publicly available on the depart-
+30 ment's website.
+31 (c) The department shall review and update, if necessary, the abatement
+32 plan at least every three (3) years.
+33 (d) The director shall present and provide the abatement plan to the
+34 following legislative bodies for review during the 2027 legislative
+35 session and any legislative session following a revision of the plan:
+36 (i) The house and senate agricultural affairs committees;
+37 (ii) The joint finance-appropriations committee; and
+38 (iii) The interim committee on natural resources, if so requested.
+39 (e) If the director determines that abatement actions should be under-
+40 taken, the anticipated costs to abate the rats shall be included in the
+41 director's report. Such moneys may be requested by the director and ap-
+42 propriated by the legislature.
+43 (6) State agencies and political subdivisions shall make themselves
+44 available, subject to available personnel, equipment, and funding, to as-
+45 sist the department in enacting the provisions of this section. Nothing in
+46 this section shall require mandatory participation or the expenditure of
+47 local funds.
+48 (7) This section shall be known and may be cited as "The Idaho Rodents of
+49 Unusual Size Act."".
+
+3
+1 CORRECTION TO TITLE
+2 On page 1, delete lines 2 through 5, and insert:
+3 "RELATING TO ABATEMENT OF RATS; AMENDING TITLE 52, IDAHO CODE, BY THE ADDI-
+4 TION OF A NEW CHAPTER 5, TITLE 52, IDAHO CODE, TO DECLARE CERTAIN RATS
+5 A PUBLIC HEALTH AND SAFETY NUISANCE AND TO REQUIRE THE DIRECTOR OF THE
+6 DEPARTMENT OF AGRICULTURE TO DETERMINE THE EXTENT AND SCOPE OF SUCH RATS
+7 IN IDAHO AND WHETHER ABATEMENT IS NECESSARY; AND DECLARING AN EMER-
+8 GENCY.".

@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 688
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO MOTOR VEHICLES; REPEALING SECTION 49-967, IDAHO CODE, RELATING
+3 TO AIR BAGS AND AIR BAG SYSTEMS; AMENDING CHAPTER 9, TITLE 49, IDAHO
+4 CODE, BY THE ADDITION OF A NEW SECTION 49-967, IDAHO CODE, TO ESTABLISH
+5 PROVISIONS REGARDING AIR BAGS AND AIR BAG SYSTEMS; AND DECLARING AN
+6 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 49-967, Idaho Code, be, and the same is hereby
+9 repealed.
+10 SECTION 2. That Chapter 9, Title 49, Idaho Code, be, and the same is
+11 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+12 ignated as Section 49-967, Idaho Code, and to read as follows:
+13 49-967. AIR BAGS AND AIR BAG SYSTEMS -- PROHIBITED ACTS -- PENALTY. (1)
+14 It shall be unlawful for any person to knowingly or intentionally:
+15 (a) Manufacture, import, distribute, offer for sale, sell, or lease,
+16 or install or reinstall into any motor vehicle, a counterfeit automo-
+17 bile supplemental restraint system, a nonfunctional air bag, or other
+18 object that replaces an automobile supplemental restraining component
+19 that fails to meet the federal motor vehicle safety standards as pro-
+20 vided in 49 CFR 571.208, for the make, model, and year of the motor vehi-
+21 cle;
+22 (b) Offer for sale, sell, lease, or otherwise transfer ownership of
+23 a motor vehicle with a counterfeit automobile supplemental restraint
+24 system, a nonfunctional air bag, or other object that replaces an au-
+25 tomobile supplemental restraining component that fails to meet the fed-
+26 eral motor vehicle safety standards as provided in 49 CFR 571.208, for
+27 the make, model, and year of the motor vehicle; or
+28 (c) Install or reinstall any object, component, part, or device as
+29 part of an automobile supplemental restraint system that causes a motor
+30 vehicle's diagnostic system to fail to warn the motor vehicle operator
+31 that an air bag is not installed, a nonfunctional air bag is installed,
+32 or a counterfeit automobile supplemental restraint system component is
+33 installed that does not comply with 49 CFR 571.208, for the make, model,
+34 and year of the motor vehicle. A violation of this paragraph shall not
+35 occur until the installation work is complete and one of the following
+36 conditions occurs:
+37 (i) The motor vehicle is returned to the operator; or
+38 (ii) The title to the motor vehicle is transferred.
+39 (2) Any person convicted of a violation of the provisions of this sec-
+40 tion shall be guilty of a misdemeanor.
+41 (3) As used in this section:
+
+2
+1 (a) "Air bag" means an inflatable restraint device for occupants of a
+2 motor vehicle that is part of an automobile supplemental restraint sys-
+3 tem.
+4 (b) "Automobile supplemental restraint system" means a passive in-
+5 flatable crash protection system that a vehicle manufacturer designs
+6 to protect occupants of a motor vehicle in conjunction with a seat belt
+7 assembly, as defined in 49 CFR 571.209, that has one (1) or more air bags
+8 and all components required to ensure that each air bag:
+9 (i) Operates as designed in a motor vehicle crash; and
+10 (ii) Meets federal motor vehicle safety standards for the spe-
+11 cific make, model, and year of manufacture of the vehicle in which
+12 the air bag is installed.
+13 (c) "Counterfeit automobile supplemental restraint system component"
+14 means a replacement component, including an air bag, that displays a
+15 trademark that is identical to or substantially similar to the manufac-
+16 turer's or supplier's trademark without authorization from a manufac-
+17 turer or a person that supplies parts to the manufacturer.
+18 (d)(i) "Nonfunctional air bag" means a replacement air bag that:
+19 1. Was previously deployed or damaged;
+20 2. Has a fault that a motor vehicle's diagnostic system de-
+21 tects once the air bag is installed;
+22 3. May not be sold or leased pursuant to 49 U.S.C. 30120(j);
+23 or
+24 4. Includes a counterfeit automobile supplemental re-
+25 straint system component or other part or object that is
+26 installed for the purpose of misleading a motor vehicle
+27 owner or operator into believing that a functional air bag is
+28 installed.
+29 (ii) "Nonfunctional air bag" does not include a deployed air bag
+30 that has not been repaired or an air bag that is installed in a mo-
+31 tor vehicle when:
+32 1. Such vehicle has been declared a total loss or is other-
+33 wise a totaled vehicle;
+34 2. The owner was issued a salvage title certificate in Idaho
+35 or a similar title from another state; or
+36 3. The air bag is visible in its deployed condition.
+37 SECTION 3. An emergency existing therefor, which emergency is hereby
+38 declared to exist, this act shall be in full force and effect on and after
+39 July 1, 2026.

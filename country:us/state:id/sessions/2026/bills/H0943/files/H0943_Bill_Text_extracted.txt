@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 943
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO TAXATION; PROVIDING LEGISLATIVE FINDINGS; AMENDING TITLE 63,
+3 IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 46, TITLE 63, IDAHO CODE,
+4 TO PROVIDE A SHORT TITLE, TO DEFINE TERMS, TO PROVIDE AN INCOME TAX
+5 CREDIT, A PROPERTY TAX EXEMPTION, AND A SALES TAX EXEMPTION FOR STRATE-
+6 GIC PIPELINE INFRASTRUCTURE PROJECTS, TO PROVIDE REGULATORY RELIEF FOR
+7 STRATEGIC PIPELINE INFRASTRUCTURE PROJECTS, AND TO PROVIDE FOR THE AP-
+8 PLICATION FOR FEDERAL GRANTS AND FINANCING PROGRAMS; AND PROVIDING AN
+9 EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. LEGISLATIVE FINDINGS. The Legislature finds and declares
+12 that:
+13 (1) Reliable access to motor fuels and refined petroleum products is
+14 essential to Idaho's economy, public safety, and quality of life, including
+15 but not limited to agriculture, food production, manufacturing, construc-
+16 tion, transportation, emergency services, health care, and commerce.
+17 (2) Idaho does not currently have an in-state petroleum refining capac-
+18 ity and therefore relies heavily on interstate transportation systems and
+19 out-of-state fuel supplies to meet the needs of residents and businesses.
+20 (3) Disruptions, constraints, and increased costs affecting in-
+21 terstate fuel supply chains can result in higher fuel prices, reduced
+22 availability, and economic harm to Idaho consumers, employers, and critical
+23 services, particularly in a rural state where travel and transportation are
+24 necessary.
+25 (4) A resilient and diversified fuel supply system, including access to
+26 multiple interstate pipeline routes and sources, reduces vulnerability to
+27 supply disruptions, market volatility, and external policy or infrastruc-
+28 ture constraints.
+29 (5) Energy security is a matter of public safety and economic stability
+30 for the State of Idaho. Ensuring access to reliable, sufficient, and diver-
+31 sified supplies of motor fuels and refined petroleum products is essential
+32 to protect Idaho residents, businesses, agriculture, emergency services,
+33 and critical infrastructure from supply disruptions, price volatility, and
+34 external market or policy constraints.
+35 (6) Investment in modern, expanded, and reliable interstate pipeline
+36 infrastructure promotes fuel supply stability, enhances energy security,
+37 supports economic growth, and benefits consumers through improved market
+38 access and competition.
+39 (7) High-cost pipeline infrastructure projects require substantial
+40 up-front capital investment and long-term regulatory certainty, and such
+41 projects may not proceed without targeted incentives and a predictable,
+42 timely permitting framework.
+
+2
+1 (8) The State of Idaho has a legitimate and compelling interest in
+2 encouraging infrastructure investment that strengthens energy supply re-
+3 silience, protects consumers from supply shocks, and supports the continued
+4 functioning of Idaho's economy and essential services.
+5 SECTION 2. That Title 63, Idaho Code, be, and the same is hereby amended
+6 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+7 ter 46, Title 63, Idaho Code, and to read as follows:
+8 CHAPTER 46
+9 PROTECTING IDAHO PIPELINE ENERGY SECURITY ACT
+10 63-4601. SHORT TITLE. This chapter shall be known and may be cited as
+11 the "Protecting Idaho Pipeline Energy Security Act" or the "PIPES Act."
+12 63-4602. DEFINITIONS. For the purposes of this chapter:
+13 (1) "Construction" means the development, installation, or creation of
+14 a new pipeline or related facilities, including laterals, interconnections,
+15 pumping stations, storage facilities, and associated infrastructure.
+16 (2) "Developer" means any person or business entity, including an
+17 owner, operator, developer, or investor, who engages in or proposes to en-
+18 gage in the interstate transmission, storage, distribution, or delivery of
+19 crude oil or refined petroleum products and is eligible for any incentive
+20 provided in this chapter.
+21 (3) "Energy security" means the availability of reliable, sufficient,
+22 and diversified fuel supplies necessary to support economic activity, pub-
+23 lic safety, and essential services within the state.
+24 (4) "Pipeline" means real and personal property, including gathering
+25 lines and fixtures, owned or operated to facilitate the interstate trans-
+26 mission, storage, distribution, or delivery of crude oil or refined petro-
+27 leum products through a pipe that has an outside diameter of at least six (6)
+28 inches.
+29 (5) "Refined petroleum products" means gasoline, diesel fuel, aviation
+30 fuel, and other liquid products derived from crude oil that are intended for
+31 use as motor fuel.
+32 (6) "Strategic pipeline infrastructure project" means any phased or
+33 multistage project where the developer certifies to the state tax commission
+34 in writing that the aggregate investment will meet or exceed fifty million
+35 dollars ($50,000,000) in new investment in construction of a new pipeline
+36 that:
+37 (a) Is not a replacement of an existing pipeline;
+38 (b) Crosses into Idaho from an adjacent state or nation from which no
+39 pipeline already exists; and
+40 (c) Delivers crude oil or refined petroleum products to Idaho cus-
+41 tomers.
+42 63-4603. INCOME TAX CREDIT, PROPERTY TAX EXEMPTION, AND SALES TAX EX-
+43 EMPTION FOR STRATEGIC PIPELINE INFRASTRUCTURE PROJECTS.
+44 (1)(a) For taxable years beginning on or after January 1, 2027, a devel-
+45 oper that places a strategic pipeline infrastructure project into ser-
+46 vice is allowed an investment tax credit against any applicable tax im-
+
+3
+1 posed by chapter 30, title 63, Idaho Code. The credit shall be equal to
+2 thirty-five percent (35%) of the new infrastructure-related revenue.
+3 For purposes of this section, "infrastructure-related revenue" means
+4 an increase, if any, in the amount of revenue, in a taxable year, that is
+5 attributable to the strategic pipeline infrastructure project.
+6 (b) The credit allowed under this section may be claimed annually
+7 through the taxable year that the earliest of the following occurs:
+8 (i) The economic life of the strategic pipeline infrastructure
+9 project has ended, provided that a developer shall provide the
+10 state tax commission with such information as the state tax com-
+11 mission may require to determine and certify the economic life of
+12 the strategic pipeline infrastructure project;
+13 (ii) Twenty (20) years have passed from the time the initial
+14 credit was claimed; or
+15 (iii) The developer has recovered fifty percent (50%) of the total
+16 cost of the strategic pipeline infrastructure project through the
+17 credit provided in this section.
+18 (c) A developer seeking a credit under this section shall, for each tax-
+19 able year, file a report with the state tax commission showing the in-
+20 frastructure-related revenue. The report shall be prepared by an inde-
+21 pendent certified public accountant that verifies the infrastructure-
+22 related revenue described in paragraph (a) of this subsection in accor-
+23 dance with generally accepted accounting principles.
+24 (2) The construction of a pipeline on or after January 1, 2027, that is
+25 the result of a completed strategic pipeline infrastructure project in Idaho
+26 shall be exempt from real and personal property taxation.
+27 (3) Beginning on January 1, 2027, the sale, lease, or purchase of tan-
+28 gible property that is incorporated into the pipeline system as a component
+29 part of the strategic pipeline infrastructure project is exempt from any
+30 sales or use tax under Idaho law.
+31 63-4604. REGULATORY RELIEF FOR STRATEGIC PIPELINE INFRASTRUCTURE
+32 PROJECTS. (1) Except as otherwise required by federal law, a strategic
+33 pipeline infrastructure project shall be exempt from any additional state
+34 permitting, licensing, certification, environmental review, or any other
+35 applicable statutory requirement.
+36 (2) If a state agency is charged with implementing or enforcing any fed-
+37 eral regulatory review and approval process in connection with a strategic
+38 pipeline infrastructure project, such agency shall expedite and prioritize
+39 such review or approval to the extent permitted by federal law.
+40 (3) This section shall not be construed to prevent any county or city
+41 permitting, licensing, certification, environmental review, or any other
+42 applicable requirements.
+43 (4) In the event a state agency, county, or city fails to issue a fi-
+44 nal decision on an application for a permit, license, certification, or any
+45 other applicable regulatory authorization within sixty (60) days, or within
+46 the timeline mandated by federal law, whichever is shorter, the application
+47 for any permit, license, certification, or other similar application shall
+48 be deemed approved.
+
+4
+1 (5) State agencies, counties, cities, and all other political subdi-
+2 visions shall give priority consideration to strategic pipeline infrastruc-
+3 ture projects that materially enhance Idaho's energy security by:
+4 (a) Increasing access to diversified interstate fuel supply sources;
+5 (b) Improving redundancy or resiliency of fuel transportation infra-
+6 structure; or
+7 (c) Reducing Idaho's reliance on a limited number of supply corridors
+8 or single-source markets.
+9 63-4605. APPLICATION FOR FEDERAL GRANTS AND FINANCING PROGRAMS. State
+10 agencies are authorized and directed to seek out all available federal
+11 grants, state or federal low-interest or no-interest financing options, or
+12 other similar state or federal programs that may be available to financially
+13 or otherwise assist a business seeking to invest in and complete a strategic
+14 pipeline infrastructure project.
+15 SECTION 3. This act shall be in full force and effect on and after Jan-
+16 uary 1, 2027.

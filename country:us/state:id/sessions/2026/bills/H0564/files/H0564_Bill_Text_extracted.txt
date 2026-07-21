@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 564
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO THE IDAHO BUILDING CODE ACT; AMENDING SECTION 39-4113, IDAHO
+3 CODE, TO REVISE PROVISIONS REGARDING PUBLIC SCHOOL BUILDING PLANS AND
+4 TO MAKE TECHNICAL CORRECTIONS; AND DECLARING AN EMERGENCY AND PROVIDING
+5 AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 39-4113, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 39-4113. PLAN REVIEWS -- MAXIMUM FEES AND SCHOOL INSPECTIONS. (1) The
+10 administrator shall establish a program for plan reviews and permit issuance
+11 entirely within the division of occupational and professional licenses.
+12 Plan reviews shall be for the provisions of this chapter and chapter 10, ti-
+13 tle 54, Idaho Code, chapter 26, title 54, Idaho Code, chapter 50, title 54,
+14 Idaho Code, and chapter 86, title 39, Idaho Code, pertaining to construc-
+15 tion, alteration or repair of buildings or structures within the scope of
+16 the division's jurisdiction pursuant to this chapter. Plans for schools
+17 reviewed by the division shall not include a review for compliance with the
+18 provisions of chapter 2, title 41, Idaho Code, or for local planning and
+19 zoning requirements.
+20 (2) Plan review fees shall be established by rules promulgated by the
+21 board. Local governments elected by school districts to perform building
+22 plan reviews for public schools as provided for in this section shall not
+23 charge a fee for such review of building plans in excess of what the divi-
+24 sion has established by rule for building plan review services for public
+25 schools.
+26 (3) Each manufacturer of commercial coaches and modular buildings
+27 shall submit the building plans for every model of such structure to the ad-
+28 ministrator for the purpose of review.
+29 (4)(a) Public school building plans shall be approved by either the
+30 local government or the division of occupational and professional li-
+31 censes, whichever the school district elects. Any city or county that
+32 has adopted by ordinance all the applicable codes pursuant to section
+33 39-4109, Idaho Code, and the codes as permitted in chapter 10, title 54,
+34 Idaho Code, chapter 26, title 54, Idaho Code, and chapter 50, title 54,
+35 Idaho Code, shall be eligible to perform school plan reviews only if the
+36 following additional requirements are met: plans examiners performing
+37 building and energy code plan reviews shall hold current certification
+38 as a commercial building plans examiner by the International Code Coun-
+39 cil; examiners performing plumbing code plan reviews shall hold current
+40 certification as a plumbing inspector by the international associa-
+41 tion of plumbing and mechanical officials and shall be a licensed Idaho
+42 journeyman plumber; examiners performing electrical code plan reviews
+
+2
+1 shall hold current certification as an electrical inspector by the
+2 national certification program for construction code inspectors and
+3 shall be a licensed Idaho journeyman electrician; and examiners per-
+4 forming mechanical code plan reviews shall hold current certification
+5 as a commercial mechanical inspector by the International Code Council.
+6 (b) All plans examiners who perform public school plan reviews shall be
+7 either an employee of the division, an employee of the local jurisdic-
+8 tion in which the school is to be constructed, or performing plan re-
+9 views under an interagency contract between local jurisdictions, and
+10 shall meet the eligibility requirements as provided in paragraph (a) of
+11 this subsection.
+12 (c) An eligible local government may contract with the division for re-
+13 view of any portion of the plans for which the local government does not
+14 have a properly certified plans examiner. A county may be deemed eli-
+15 gible to perform plan review services only for those types of installa-
+16 tions for which they have authority pursuant to this chapter and chap-
+17 ter 50, title 54, Idaho Code, to adopt an enforcement program. Where
+18 an eligible county performs the plan review services, the electrical
+19 and plumbing code plan reviews shall be performed by the division at the
+20 hourly rate as established in rule by the division. Any local govern-
+21 ment elected to perform plan review services for public schools shall
+22 provide the division a copy of all approved plans.
+23 (d) Wherein the proposed work is valued in excess of one hundred thou-
+24 sand dollars ($100,000), a school district may elect to utilize the
+25 school plan review services available from an eligible local government
+26 building code enforcement jurisdiction or from the division. Wherein
+27 the proposed work is valued at one hundred thousand dollars ($100,000)
+28 or less, a school district may elect to use a local government without
+29 regard to the eligibility requirements in paragraph (a) of this sub-
+30 section. Election by a school district shall be made by submitting a
+31 written certification to both the division and the involved local gov-
+32 ernment.
+33 (e) Public school plan review services provided by either the divi-
+34 sion or an eligible local jurisdiction pursuant to this section shall
+35 include a review of the following disciplines: building (structural
+36 and nonstructural), mechanical, fuel gas, plumbing, electrical, acces-
+37 sibility, elevators, boilers, and energy conservation. At a minimum,
+38 plan review services shall include:
+39 (i) A technical examination of all drawings and construction doc-
+40 uments;
+41 (ii) The approval of such drawings and construction documents
+42 by determining whether such are in accord with the codes adopted
+43 pursuant to sections 39-4109, 54-1001, 54-2601 and 54-5001, Idaho
+44 Code;
+45 (iii) A determination that the drawings and construction docu-
+46 ments are in compliance, or noncompliance, with the applicable
+47 codes, code interpretation, and the identification of approved
+48 modifications or alternative materials, design or methods; and
+
+3
+1 (iv) The identification of the reviewing official(s), the date
+2 upon which plans are approved, and a stamp or some other similar
+3 mark on the plans evidencing approval.
+4 (f) If a school district elects to utilize the plan review services
+5 of the division, it shall submit to the division of occupational and
+6 professional licenses three (3) sets of working drawings and specifi-
+7 cations for new public school buildings or facilities and additions or
+8 alterations to existing facilities. The division will review the plans
+9 submitted to it pursuant to this section for compliance with the current
+10 editions of the codes specified in this chapter or within rules pro-
+11 mulgated pursuant to this chapter by the board and by section 39-8006,
+12 Idaho Code.
+13 (5) Public school building plans must shall be approved by either the
+14 local government or the division before the school district may advertise
+15 for bids. The jurisdiction performing the public school building plan re-
+16 view shall complete the initial plan review within thirty (30) calendar days
+17 of submission of such plan. Once plans are reviewed and approved pursuant
+18 to this section, no material change can shall be made to such plans with-
+19 out review and approval of such change by the jurisdiction performing the
+20 plan review. All school construction or remodeling governed by this chap-
+21 ter shall be inspected by building inspectors certified in accordance with
+22 section 39-4108, Idaho Code, or by Idaho-licensed architects or engineers to
+23 determine compliance with this chapter and the Idaho uniform school building
+24 safety act, chapter 80, title 39, Idaho Code. Nothing in this section shall
+25 limit the authority of local governments to issue building permits, perform
+26 fire code or other zoning and land use-related plan reviews or provide a full
+27 range of building code enforcement activities as they relate to inspections
+28 of school buildings or facilities sited within their jurisdiction regard-
+29 less of the election exercised by the school district pursuant to this sec-
+30 tion.
+31 SECTION 2. An emergency existing therefor, which emergency is hereby
+32 declared to exist, this act shall be in full force and effect on and after
+33 July 1, 2026.

@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 718
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE FREEDOM OF CHOICE OF DENTURES ACT; AMENDING SECTION 54-3312,
+3 IDAHO CODE, TO REVISE PROVISIONS REGARDING FEES; AND DECLARING AN EMER-
+4 GENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 54-3312, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 54-3312. FEES. The board shall be entitled to charge and collect the
+9 following fees subject to adjustment as prescribed by section 54-3309(c),
+10 Idaho Code:
+11 (a) An application fee (which shall include the cost of an examination
+12 when required) of not to exceed three hundred dollars ($300) one thousand
+13 dollars ($1,000);
+14 (b) An initial license fee of not to exceed six hundred dollars ($600)
+15 one thousand dollars ($1,000);
+16 (c) A biennial renewal fee of not to exceed two thousand dollars
+17 ($2,000) two thousand five hundred dollars ($2,500).
+18 SECTION 2. An emergency existing therefor, which emergency is hereby
+19 declared to exist, this act shall be in full force and effect on and after
+20 July 1, 2026.

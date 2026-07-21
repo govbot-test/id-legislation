@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 700
+BY BUSINESS COMMITTEE
+1 AN ACT
+2 RELATING TO THE UNLAWFUL EMPLOYMENT OF UNAUTHORIZED ALIENS; AMENDING TITLE
+3 44, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 28, TITLE 44, IDAHO
+4 CODE, TO ESTABLISH PROVISIONS PROHIBITING THE UNLAWFUL EMPLOYMENT OF
+5 UNAUTHORIZED ALIENS; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFEC-
+6 TIVE DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Title 44, Idaho Code, be, and the same is hereby amended
+9 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+10 ter 28, Title 44, Idaho Code, and to read as follows:
+11 CHAPTER 28
+12 UNLAWFUL EMPLOYMENT OF UNAUTHORIZED ALIENS
+13 44-2801. UNLAWFUL EMPLOYMENT OF UNAUTHORIZED ALIENS. (1) It shall be
+14 unlawful for any employer; any person acting as an agent for an employer; any
+15 person who, for a fee, refers an alien for employment; or any officer, agent,
+16 or representative of a labor organization to knowingly employ, continue to
+17 employ, rehire, recruit, or refer for employment in this state any alien who
+18 is not lawfully present in the United States or whose immigration status does
+19 not authorize employment under federal law. A violation of the provisions of
+20 this subsection shall be a misdemeanor.
+21 (2) For purposes of this section, an alien shall be deemed unauthorized
+22 for employment if the alien:
+23 (a) Is not lawfully present in the United States;
+24 (b) Lacks a valid, unexpired federal immigration status that indepen-
+25 dently authorizes employment; or
+26 (c) Previously held employment authorization that was based on an un-
+27 derlying immigration status that has expired, been terminated, or been
+28 revoked.
+29 (3) An employer who, after hiring an alien, knows or reasonably should
+30 know that the alien's lawful immigration status or employment authorization
+31 has expired, been revoked, or otherwise ceased shall not continue to employ
+32 such alien.
+33 (4)(a) An employer, or agent thereof, shall not be subject to criminal
+34 liability pursuant to the provisions of this section with respect to a
+35 specific employee if, prior to the commencement of employment:
+36 (i) The employer verified the employee's identity and employment
+37 eligibility through the federal e-verify program or any successor
+38 program designated by the United States department of homeland se-
+39 curity; and
+40 (ii) The verification process resulted in a confirmation of em-
+41 ployment authorization.
+
+2
+1 (b) Compliance with e-verify in good faith shall constitute an affirma-
+2 tive defense to prosecution pursuant to this section.
+3 (5) As used in this section, "employer," "employment," "knowingly,"
+4 and "unauthorized alien" shall be construed with 8 U.S.C. 1324a.
+5 SECTION 2. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2026.

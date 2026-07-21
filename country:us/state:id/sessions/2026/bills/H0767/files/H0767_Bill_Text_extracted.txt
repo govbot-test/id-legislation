@@ -1,0 +1,235 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 767
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO DEVELOPMENT IMPACT FEES; AMENDING SECTION 67-8203, IDAHO CODE,
+3 TO REVISE A DEFINITION; AMENDING SECTION 67-8210, IDAHO CODE, TO REVISE
+4 A PROVISION REGARDING EARMARKING AND EXPENDITURE OF COLLECTED DEVELOP-
+5 MENT IMPACT FEES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Section 67-8203, Idaho Code, be, and the same is hereby
+9 amended to read as follows:
+10 67-8203. DEFINITIONS. As used in this chapter:
+11 (1) "Affordable housing" means housing affordable to families whose
+12 incomes do not exceed eighty percent (80%) of the median income for the ser-
+13 vice area or areas within the jurisdiction of the governmental entity.
+14 (2) "Appropriate" means to legally obligate by contract or otherwise
+15 commit to use by appropriation or other official act of a governmental en-
+16 tity.
+17 (3) "Capital improvements" means improvements with a useful life of ten
+18 (10) years or more, by new construction or other action, which increase the
+19 service capacity of a public facility. Capital improvements shall include,
+20 for public safety facilities only, fire apparatus replacement as provided in
+21 subsection (24)(f) of this section.
+22 (4) "Capital improvement element" means a component of a comprehensive
+23 plan adopted pursuant to chapter 65, title 67, Idaho Code, which component
+24 meets the requirements of a capital improvements plan pursuant to this chap-
+25 ter.
+26 (5) "Capital improvements plan" means a plan adopted pursuant to this
+27 chapter that identifies capital improvements for which development impact
+28 fees may be used as a funding source.
+29 (6) "Developer" means any person or legal entity undertaking develop-
+30 ment, including a party that undertakes the subdivision of property pursuant
+31 to sections 50-1301 through 50-1334, Idaho Code.
+32 (7) "Development" means any construction or installation of a building
+33 or structure, or any change in use of a building or structure, or any change
+34 in the use, character or appearance of land, which creates additional demand
+35 and need for public facilities or the subdivision of property that would per-
+36 mit any change in the use, character or appearance of land. As used in this
+37 chapter, "development" shall not include activities that would otherwise
+38 be subject to payment of the development impact fee if such activities are
+39 undertaken by a taxing district, as defined in section 63-201, Idaho Code,
+40 or by an authorized public charter school, as defined in section 33-5202A,
+41 Idaho Code, in the course of carrying out its statutory responsibilities,
+
+2
+1 unless the adopted impact fee ordinance expressly includes taxing districts
+2 or public charter schools as being subject to development impact fees.
+3 (8) "Development approval" means any written authorization from a gov-
+4 ernmental entity that authorizes the commencement of a development.
+5 (9) "Development impact fee" means a payment of money imposed as a con-
+6 dition of development approval to pay for a proportionate share of the cost
+7 of system improvements needed to serve development. This term is also re-
+8 ferred to as an impact fee in this chapter. The term does not include the fol-
+9 lowing:
+10 (a) A charge or fee to pay the administrative, plan review, or inspec-
+11 tion costs associated with permits required for development;
+12 (b) Connection or hookup charges;
+13 (c) Availability charges for drainage, sewer, water, or transportation
+14 charges for services provided directly to the development; or
+15 (d) Amounts collected from a developer in a transaction in which the
+16 governmental entity has incurred expenses in constructing capital im-
+17 provements for the development if the owner or developer has agreed to
+18 be financially responsible for the construction or installation of the
+19 capital improvements, unless a written agreement is made pursuant to
+20 section 67-8209(3), Idaho Code, for credit or reimbursement.
+21 (10) "Development requirement" means a requirement attached to a devel-
+22 opmental approval or other governmental action approving or authorizing a
+23 particular development project including, but not limited to, a rezoning,
+24 which requirement compels the payment, dedication or contribution of goods,
+25 services, land, or money as a condition of approval.
+26 (11) "Extraordinary costs" means those costs incurred as a result of an
+27 extraordinary impact.
+28 (12) "Extraordinary impact" means an impact that is reasonably deter-
+29 mined by the governmental entity to:
+30 (a) Result in the need for system improvements, the cost of which will
+31 significantly exceed the sum of the development impact fees to be gener-
+32 ated from the project or the sum agreed to be paid pursuant to a develop-
+33 ment agreement as allowed by section 67-8214(2), Idaho Code; or
+34 (b) Result in the need for system improvements that are not identified
+35 in the capital improvements plan.
+36 (13) "Fee payer" means that person who pays or is required to pay a de-
+37 velopment impact fee.
+38 (14) "Governmental entity" means any unit of local government that is
+39 empowered in this enabling legislation to adopt a development impact fee or-
+40 dinance.
+41 (15) "Impact fee." See development impact fee.
+42 (16) "Land use assumptions" means a description of the service area and
+43 projections of land uses, densities, intensities, and population in the ser-
+44 vice area over at least a twenty (20) year period.
+45 (17) "Level of service" means a measure of the relationship between ser-
+46 vice capacity and service demand for public facilities.
+47 (18) "Manufactured home" means a structure, constructed according to
+48 HUD/FHA mobile home construction and safety standards, transportable in one
+49 (1) or more sections, which, in the traveling mode, is eight (8) feet or more
+50 in width or is forty (40) body feet or more in length, or when erected on site,
+
+3
+1 is three hundred twenty (320) or more square feet, and which is built on a
+2 permanent chassis and designed to be used as a dwelling with or without a
+3 permanent foundation when connected to the required utilities, and includes
+4 the plumbing, heating, air conditioning, and electrical systems contained
+5 therein, except that such term shall include any structure that meets all the
+6 requirements of this subsection except the size requirements and with re-
+7 spect to which the manufacturer voluntarily files a certification required
+8 by the secretary of housing and urban development and complies with the stan-
+9 dards established under 42 U.S.C. 5401 et seq.
+10 (19) "Modular building" is as defined in section 39-4301, Idaho Code.
+11 (20) "Present value" means the total current monetary value of past,
+12 present, or future payments, contributions or dedications of goods, ser-
+13 vices, materials, construction or money.
+14 (21) "Project" means a particular development on an identified parcel
+15 of land.
+16 (22) "Project improvements" means site improvements and facilities
+17 that are planned and designed to provide service for a particular devel-
+18 opment project and that are necessary for the use and convenience of the
+19 occupants or users of the project.
+20 (23) "Proportionate share" means that portion of the cost of system im-
+21 provements determined pursuant to section 67-8207, Idaho Code, which rea-
+22 sonably relates to the service demands and needs of the project.
+23 (24) "Public facilities" means:
+24 (a) Water supply production, treatment, storage and distribution fa-
+25 cilities;
+26 (b) Wastewater collection, treatment and disposal facilities;
+27 (c) Roads, streets and bridges, including rights-of-way, traffic
+28 signals, landscaping and any local components of state or federal high-
+29 ways;
+30 (d) Stormwater collection, retention, detention, treatment and dis-
+31 posal facilities, flood control facilities, and bank and shore protec-
+32 tion and enhancement improvements;
+33 (e) Parks, open space and recreation areas, and related capital im-
+34 provements; and
+35 (f) Public safety facilities, including law enforcement, fire stations
+36 and apparatus, emergency medical and rescue, and street lighting facil-
+37 ities. Public safety facilities shall include fire apparatus replace-
+38 ment, as long as such replacement is identified in an adopted capital
+39 improvement plan, is attributable to the impacts of growth, and no more
+40 than fifty percent (50%) of the total cost of the replacement is funded
+41 with development impact fees.
+42 (25) "Recreational vehicle" means a vehicular type unit primarily de-
+43 signed as temporary quarters for recreational, camping, or travel use, which
+44 either has its own motive power or is mounted on or drawn by another vehicle.
+45 (26) "Service area" means any defined geographic area identified by a
+46 governmental entity or by intergovernmental agreement in which specific
+47 public facilities provide service to development within the area defined, on
+48 the basis of sound planning or engineering principles or both.
+49 (27) "Service unit" means a standardized measure of consumption, use,
+50 generation or discharge attributable to an individual unit of development
+
+4
+1 calculated in accordance with generally accepted engineering or planning
+2 standards for a particular category of capital improvements.
+3 (28) "System improvements," in contrast to project improvements, means
+4 capital improvements to public facilities designed to provide service to a
+5 service area including, without limitation, the type of improvements de-
+6 scribed in section 50-1703, Idaho Code.
+7 (29) "System improvement costs" means costs incurred for construction
+8 or reconstruction of system improvements, including design, acquisition,
+9 engineering and other costs attributable thereto, and also including, with-
+10 out limitation, the type of costs described in section 50-1702(h), Idaho
+11 Code, to provide additional public facilities needed to serve new growth and
+12 development and shall include the costs of fire apparatus replacement iden-
+13 tified in the capital improvements plan that are attributable to the impacts
+14 of growth pursuant to subsection (24)(f) of this section. For clarifica-
+15 tion, system improvement costs do not include:
+16 (a) Construction, acquisition or expansion of public facilities other
+17 than capital improvements identified in the capital improvements plan;
+18 (b) Repair, operation or maintenance of existing or new capital im-
+19 provements;
+20 (c) Upgrading, updating, expanding or replacing existing capital im-
+21 provements to serve existing development in order to meet stricter
+22 safety, efficiency, environmental or regulatory standards;
+23 (d) Upgrading, updating, expanding or replacing existing capital im-
+24 provements to provide better service to existing development;
+25 (e) Administrative and operating costs of the governmental entity un-
+26 less such costs are attributable to development of the capital improve-
+27 ments plan, as provided in section 67-8208, Idaho Code; or
+28 (f) Principal payments and interest or other finance charges on bonds
+29 or other indebtedness except financial obligations issued by or on be-
+30 half of the governmental entity to finance capital improvements identi-
+31 fied in the capital improvements plan.
+32 SECTION 2. That Section 67-8210, Idaho Code, be, and the same is hereby
+33 amended to read as follows:
+34 67-8210. EARMARKING AND EXPENDITURE OF COLLECTED DEVELOPMENT IMPACT
+35 FEES. (1) An ordinance imposing development impact fees shall provide that
+36 all development impact fee funds shall be maintained in one (1) or more
+37 interest-bearing accounts within the capital projects fund. Accounting
+38 records shall be maintained for each category of system improvements and the
+39 service area in which the fees are collected. Interest earned on development
+40 impact fees shall be considered funds of the account on which it is earned,
+41 and not funds subject to section 57-127, Idaho Code, and shall be subject
+42 to all restrictions placed on the use of development impact fees under the
+43 provisions of this chapter.
+44 (2) Expenditures of development impact fees shall be made only for the
+45 category of system improvements and within or for the benefit of the service
+46 area for which the development impact fee was imposed as shown by the capi-
+47 tal improvements plan and as authorized in this chapter. Development impact
+48 fees shall not be used for any purpose other than system improvement costs
+
+5
+1 to create additional improvements to serve new growth and the replacement of
+2 fire apparatus pursuant to section 67-8203(24)(f), Idaho Code.
+3 (3) As part of its annual audit process, a governmental entity shall
+4 prepare an annual report:
+5 (a) Describing the amount of all development impact fees collected, ap-
+6 propriated, or spent during the preceding year by category of public fa-
+7 cility and service area; and
+8 (b) Describing the percentage of tax and revenues other than impact
+9 fees collected, appropriated or spent for system improvements during
+10 the preceding year by category of public facility and service area.
+11 (4) Collected development impact fees must be expended within eight
+12 (8) years from the date they were collected, on a first-in, first-out (FIFO)
+13 basis, except that the development impact fees collected for wastewater
+14 collection, treatment and disposal and drainage facilities must be expended
+15 within twenty (20) years. Any funds not expended within the prescribed times
+16 shall be refunded pursuant to section 67-8211, Idaho Code. A governmental
+17 entity may hold the fees for longer than eight (8) years if it identifies, in
+18 writing:
+19 (a) A reasonable cause why the fees should be held longer than eight (8)
+20 years; and
+21 (b) An anticipated date by which the fees will be expended but in no
+22 event greater than eleven (11) years from the date they were collected.
+23 SECTION 3. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after
+25 July 1, 2026.

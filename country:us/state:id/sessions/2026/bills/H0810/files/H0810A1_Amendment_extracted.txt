@@ -1,0 +1,17 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by Shippy
+Seconded by Harris
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 810
+1 AMENDMENT TO SECTION 1
+2 On page 1 of the printed bill, in line 26, delete "or a religious mis-
+3 sion".

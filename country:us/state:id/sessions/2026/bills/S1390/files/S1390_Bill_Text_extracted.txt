@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1390
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO 340B DRUG PRICING PROGRAM REPORTING; AMENDING SECTION 41-351,
+3 IDAHO CODE, TO REVISE PROVISIONS REGARDING 340B DRUG PRICING PROGRAM
+4 REPORTING; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 41-351, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 41-351. 340B DRUG PRICING PROGRAM REPORTING. (1) As used in this sec-
+9 tion, "340B covered entity" means an entity authorized to participate in the
+10 federal 340B drug pricing program under section 340B(a)(4) of the federal
+11 public health service act.
+12 (2) Before April 1 of each year, a 340B covered entity shall report the
+13 following information to the state department of health and welfare, the
+14 state controller's office, and the attorney general concerning the 340B cov-
+15 ered entity's participation in the federal 340B drug pricing program for the
+16 previous calendar most recent fiscal year:
+17 (a) The name of the covered 340B entity;
+18 (b) The aggregate acquisition cost for prescription drugs obtained un-
+19 der the 340B program and dispensed via contract pharmacies that are not
+20 owned or operated by an affiliated 340B entity;
+21 (c) The aggregate payment amount received for drugs obtained under the
+22 340B program and dispensed to patients 340B savings from the prescrip-
+23 tion drugs dispensed as described in paragraph (b) of this subsection;
+24 (d) The aggregate payment made to pharmacies under contract to dispense
+25 drugs contract pharmacies that are not owned or operated by an affili-
+26 ated 340B covered entity to dispense drugs obtained under the 340B pro-
+27 gram;
+28 (e) The number of claims for prescription drugs prescriptions dis-
+29 pensed as described in paragraph (c) (b) of this subsection; and
+30 (f) How the 340B covered entity uses any savings from participating in
+31 the 340B program, including the amount of savings used for the provision
+32 of charity care, community benefits, or a similar program of providing
+33 unreimbursed health care to the indigent.
+34 (3) The information required to be reported pursuant to subsection (2)
+35 of this section shall be reported by payer type, including the following:
+36 (a) Commercial;
+37 (b) Medicaid; and
+38 (c) Medicare.
+39 (4) (3) The data submitted in the reports required pursuant to subsec-
+40 tion (2) of this section is confidential, shall be reported through a secure
+41 website portal, and shall not be made available for public inspection.
+
+2
+1 (5) (4) Before November 15 of each year, the state controller's office
+2 shall prepare a report that aggregates the data submitted pursuant to sub-
+3 section (2) of this section and:
+4 (a) Submit the report to the legislative council in an electronic for-
+5 mat; and
+6 (b) Make such report available on the transparent Idaho website.
+7 (6) (5) The attorney general may use the information in the reports re-
+8 quired pursuant to subsection (2) of this section for the purposes of inves-
+9 tigating medicaid fraud and ensuring compliance with health resources and
+10 service administration requirements.
+11 SECTION 2. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after
+13 July 1, 2026.

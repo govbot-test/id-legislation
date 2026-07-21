@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 818
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO FERTILITY PRESERVATION SERVICES; AMENDING CHAPTER 18, TITLE
+3 41, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 41-1854, IDAHO CODE, TO
+4 ESTABLISH PROVISIONS REGARDING COVERAGE FOR CERTAIN FERTILITY PRESER-
+5 VATION SERVICES; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE
+6 DATE.
+7 Be It Enacted by the Legislature of the State of Idaho:
+8 SECTION 1. That Chapter 18, Title 41, Idaho Code, be, and the same is
+9 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+10 ignated as Section 41-1854, Idaho Code, and to read as follows:
+11 41-1854. COVERAGE FOR CERTAIN FERTILITY PRESERVATION SERVICES. (1) As
+12 used in this section:
+13 (a) "Fertility preservation services" means the collection and preser-
+14 vation of sperm, unfertilized oocytes, and ovarian tissue.
+15 (b) "Fertility preservation services" does not include the storage of
+16 such unfertilized genetic materials.
+17 (2) This section shall apply only to a health benefit plan that provides
+18 benefits for medical or surgical expenses incurred as a result of a health
+19 condition, accident, or sickness, including an individual, group, blanket,
+20 or franchise insurance policy or insurance agreement, a group hospital ser-
+21 vice contract, or an individual group evidence of coverage or similar cover-
+22 age document that is offered by:
+23 (a) An insurance company;
+24 (b) A group hospital service corporation operating pursuant to chapter
+25 34, title 41, Idaho Code;
+26 (c) A managed care organization operating pursuant to chapter 39, title
+27 41, Idaho Code;
+28 (d) A fraternal benefit society operating pursuant to chapter 32, title
+29 41, Idaho Code; or
+30 (e) An exchange operating pursuant to chapter 61, title 41, Idaho Code.
+31 (3) Notwithstanding any other provision of law to the contrary, a group
+32 or individual health benefit plan providing benefits for medical or surgical
+33 expenses incurred as a result of a health condition, accident, or sickness
+34 shall provide coverage for fertility preservation services to a covered per-
+35 son who will receive a medically necessary treatment for cancer, including
+36 surgery, chemotherapy, or radiation, that the American society of clinical
+37 oncology or the American society for reproductive medicine has established
+38 may directly or indirectly cause impaired fertility.
+39 (4) The fertility preservation services described by subsection (3) of
+40 this section shall be standard procedures to preserve fertility consistent
+41 with established medical practices or professional guidelines published by
+
+2
+1 the American society of clinical oncology or the American society for repro-
+2 ductive medicine.
+3 SECTION 2. An emergency existing therefor, which emergency is hereby
+4 declared to exist, this act shall be in full force and effect on and after
+5 July 1, 2026.

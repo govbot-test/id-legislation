@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 686
+BY JUDICIARY, RULES AND ADMINISTRATION COMMITTEE
+1 AN ACT
+2 RELATING TO BRIBERY AND CORRUPTION; AMENDING SECTION 18-1359, IDAHO CODE, TO
+3 REVISE A PROVISION REGARDING EMPLOYMENT OF RELATIVES AND TO PROVIDE AN
+4 EXEMPTION REGARDING THE EMPLOYMENT OF CERTAIN RELATIVES; AND DECLARING
+5 AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Section 18-1359, Idaho Code, be, and the same is hereby
+8 amended to read as follows:
+9 18-1359. USING PUBLIC POSITION FOR PERSONAL GAIN. (1) No public ser-
+10 vant shall:
+11 (a) Without the specific authorization of the governmental entity for
+12 which he serves, use public funds or property to obtain a pecuniary ben-
+13 efit for himself.
+14 (b) Solicit, accept or receive a pecuniary benefit as payment for
+15 services, advice, assistance or conduct customarily exercised in the
+16 course of his official duties. This prohibition shall not include triv-
+17 ial benefits not to exceed a value of fifty dollars ($50.00) incidental
+18 to personal, professional or business contacts and involving no sub-
+19 stantial risk of undermining official impartiality.
+20 (c) Use or disclose confidential information gained in the course of or
+21 by reason of his official position or activities in any manner with the
+22 intent to obtain a pecuniary benefit for himself or any other person or
+23 entity in whose welfare he is interested or with the intent to harm the
+24 governmental entity for which he serves.
+25 (d) Be interested in any contract made by him in his official capacity,
+26 or by any body or board of which he is a member, except as provided in
+27 section 18-1361, Idaho Code.
+28 (e) Appoint or vote for the appointment of any person related to him by
+29 blood or marriage within the second degree to any clerkship, office, po-
+30 sition, employment or duty, when the salary, wages, pay or compensation
+31 of such appointee is to be paid out of public funds or fees of office,
+32 or appoint or furnish employment to any person whose salary, wages, pay
+33 or compensation is to be paid out of public funds or fees of office, and
+34 who is related by either blood or marriage within the second degree to
+35 any other public servant when such appointment is made on the agreement
+36 or promise of such other public servant or any other public servant to
+37 appoint or furnish employment to anyone so related to the public ser-
+38 vant making or voting for such appointment. Any public servant who pays
+39 out of any public funds under his control or who draws or authorizes the
+40 drawing of any warrant or authority for the payment out of any public
+41 fund of the salary, wages, pay, or compensation of any such ineligi-
+
+2
+1 ble person, knowing him to be ineligible, is guilty of a misdemeanor and
+2 shall be punished as provided in this chapter.
+3 (f) Unless specifically authorized by another provision of law, com-
+4 mit any act prohibited of members of the legislature or any officer
+5 or employee of any branch of the state government by section 67-9230,
+6 Idaho Code, violations of which are subject to penalties as provided in
+7 section 67-9231, Idaho Code, which prohibition and penalties shall be
+8 deemed to extend to all public servants pursuant to the provisions of
+9 this section.
+10 (2) No person related to any member of the legislature by blood or mar-
+11 riage within the second degree shall be appointed to any clerkship, office,
+12 position, employment or duty within the legislative branch of government
+13 or otherwise be employed by the legislative branch of government when the
+14 salary, wages, pay or compensation of such appointee or employee is to be
+15 paid out of public funds. The provisions of this subsection shall not apply
+16 to any person who participates in the legislative page program of the senate
+17 or the house of representatives.
+18 (3) No person related to a mayor or member of a city council by blood or
+19 marriage within the second degree shall be appointed to any clerkship, of-
+20 fice, position, employment or duty with the mayor's or city council's city
+21 when the salary, wages, pay or compensation of such appointee or employee is
+22 to be paid out of public funds.
+23 (4) No person related to a county commissioner by blood or marriage
+24 within the second degree shall be appointed to any clerkship, office, po-
+25 sition, employment or duty with the commissioner's county when the salary,
+26 wages, pay or compensation of such appointee or employee is to be paid out of
+27 public funds.
+28 (5)(a) An employee of a governmental entity holding a position prior
+29 to the election of a local government official, who is related to a
+30 local government official within the second degree, shall be entitled
+31 to retain his or her position and receive general pay increases, step
+32 increases, cost of living increases, and/or other across-the-board
+33 increases in salary or merit increases, benefits and bonuses or promo-
+34 tions. if the employee:
+35 (i) Held the position prior to the election of the local govern-
+36 ment official; or
+37 (ii) Meets the requirements of subsection (8) of this section
+38 prior to a city's population exceeding ten thousand (10,000) per-
+39 sons.
+40 (b) Nothing in this section shall be construed as creating any property
+41 rights in the position held by an employee subject to this section, and
+42 all authority in regard to disciplinary action, transfer, dismissal,
+43 demotion or termination shall continue to apply to the employee.
+44 (6) The prohibitions contained within this section shall not include
+45 conduct defined by the provisions of section 74-403(4), Idaho Code.
+46 (7) The prohibitions within this section and section 18-1356, Idaho
+47 Code, as it applies to part-time public servants, do not include those ac-
+48 tions or conduct involving the public servant's business, profession or
+49 occupation and unrelated to the public servant's official conduct, and do
+50 not apply to a pecuniary benefit received in the normal course of a leg-
+
+3
+1 islator's business, profession or occupation and unrelated to any bill,
+2 legislation, proceeding or official transaction.
+3 (8)(a) The prohibition of subsection (3) of this section shall not ap-
+4 ply if all the following conditions are met:
+5 (i) The city has a population of fewer than ten thousand (10,000)
+6 persons, based on the most recent decennial census;
+7 (ii) The position to be filled requires specific education,
+8 training, or relevant experience related to the duties of the po-
+9 sition, and the related individual meets those qualifications;
+10 (iii) Public notice of the job opening has been made through means
+11 customarily used by the city for job postings, including posting
+12 to the city website, if applicable;
+13 (iv) The position has been publicly posted for no fewer than
+14 forty-five (45) days prior to the proposed appointment or employ-
+15 ment, and no qualified applicants have applied during the posting
+16 period;
+17 (v) The city has made a good faith effort to identify and con-
+18 sider qualified applicants, including documented outreach and
+19 follow-up with applicants to determine availability and qualifi-
+20 cations;
+21 (vi) The city maintains a written record of:
+22 1. All applications received;
+23 2. The qualifications of each applicant;
+24 3. The reasons for rejection of unqualified applicants; and
+25 4. The rationale for the appointment or employment of the
+26 related individual;
+27 (vii) The city council approves the appointment or employment at
+28 an open meeting, and the familial relationship is publicly dis-
+29 closed prior to the vote;
+30 (viii) The related, elected official does not serve as the super-
+31 visor, manager, or otherwise exercise direct authority over the
+32 work or employment conditions of the newly appointed or employed
+33 individual. The city council shall assign supervisory responsi-
+34 bilities to an unrelated employee or official who is not within the
+35 second degree of blood or marriage to the newly appointed or em-
+36 ployed individual. Any performance evaluations, disciplinary ac-
+37 tions, or decisions relating to compensation or advancement shall
+38 be made or reviewed by an unrelated supervisor or official and con-
+39 firmed by the city council, with a written record maintained docu-
+40 menting the rationale for such actions; and
+41 (ix) Any increase in compensation for a person appointed or em-
+42 ployed pursuant to this subsection is limited to cost-of-living
+43 adjustments or other across-the-board increases provided to all
+44 employees. Such individual shall not be eligible for discre-
+45 tionary increases, bonuses, or promotions unless approved by the
+46 city council in an open meeting, with the rationale for such in-
+47 crease made part of the record. No person appointed or employed
+48 pursuant to this subsection shall receive any benefits beyond
+49 those uniformly offered to all similarly situated employees of the
+50 city.
+
+4
+1 (b) No position shall be created solely for the purpose of employing a
+2 related individual, nor shall the provisions of this subsection be con-
+3 strued to impair or limit the provisions of subsection (5) of this sec-
+4 tion.
+5 SECTION 2. An emergency existing therefor, which emergency is hereby
+6 declared to exist, this act shall be in full force and effect on and after
+7 July 1, 2026.

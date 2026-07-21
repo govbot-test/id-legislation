@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 972
+BY APPROPRIATIONS COMMITTEE
+1 AN ACT
+2 RELATING TO THE APPROPRIATION TO THE DEPARTMENT OF HEALTH AND WELFARE; AP-
+3 PROPRIATING ADDITIONAL MONEYS TO THE DEPARTMENT OF HEALTH AND WELFARE
+4 FOR THE SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM FOR FISCAL YEAR 2027;
+5 AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. In addition to any other appropriation provided by law,
+8 there is hereby appropriated to the Department of Health and Welfare for
+9 the Division of Welfare the following amounts to be expended for operating
+10 expenditures from the listed funds for the period July 1, 2026, through June
+11 30, 2027, for the purpose of Supplemental Nutrition Assistance Program ad-
+12 ministration:
+13 Cooperative Welfare (General) Fund $351,000
+14 Cooperative Welfare (Federal) Fund 163,000
+15 TOTAL $514,000
+16 SECTION 2. An emergency existing therefor, which emergency is hereby
+17 declared to exist, this act shall be in full force and effect on and after
+18 July 1, 2026.

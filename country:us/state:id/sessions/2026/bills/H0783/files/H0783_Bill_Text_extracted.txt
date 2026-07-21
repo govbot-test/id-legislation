@@ -1,0 +1,182 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 783
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO MEDICAL SAVINGS ACCOUNTS; AMENDING SECTION 63-3022K, IDAHO
+3 CODE, TO REVISE A DEFINITION AND TO MAKE TECHNICAL CORRECTIONS; AND PRO-
+4 VIDING AN EFFECTIVE DATE.
+5 Be It Enacted by the Legislature of the State of Idaho:
+6 SECTION 1. That Section 63-3022K, Idaho Code, be, and the same is hereby
+7 amended to read as follows:
+8 63-3022K. MEDICAL SAVINGS ACCOUNT. (1) For taxable years commencing
+9 on and after January 1, 1995, annual contributions to a medical savings ac-
+10 count not exceeding two thousand dollars ($2,000) for the account holder and
+11 interest earned on a medical savings account shall be deducted from taxable
+12 income by the account holder, if such amount has not been previously deducted
+13 or excluded in arriving at taxable income. For married individuals, the max-
+14 imum deduction shall be computed separately for each individual. Contribu-
+15 tions to the account shall not exceed the amount deductible under this sec-
+16 tion.
+17 (2) For taxable years beginning on or after January 1, 2014, the an-
+18 nual contributions to a medical savings account shall be limited to ten thou-
+19 sand dollars ($10,000). Both interest earned and all contributions to med-
+20 ical savings accounts shall be deducted from taxable income by the account
+21 holder, if such amount has not been previously deducted or excluded in arriv-
+22 ing at taxable income.
+23 (3) For the purpose of this section, the following terms have the fol-
+24 lowing meanings unless the context clearly denotes otherwise:
+25 (a) "Account holder" means an individual, in the case of married indi-
+26 viduals each spouse, including a self-employed person, on whose behalf
+27 the medical savings account is established.
+28 (b) "Dependent" means a person for whom a deduction is permitted under
+29 section 151(b) or (c) of the Internal Revenue Code if a deduction for the
+30 person is claimed for that person on the account holder's Idaho income
+31 tax return.
+32 (c) "Dependent child" means a child or grandchild of the account holder
+33 who is not a dependent if the account holder actually pays the eligible
+34 medical expenses of the child or grandchild and the child or grandchild
+35 is any of the following:
+36 (i) Under twenty-one (21) years of age, or enrolled as a full-time
+37 student at an accredited college or university.;
+38 (ii) Legally entitled to the provision of proper or necessary sub-
+39 sistence, education, medical care or other care necessary for his
+40 or her health, guidance or well-being and not otherwise emanci-
+41 pated, self-supporting, married or a member of the armed forces of
+42 the United States.; or
+
+2
+1 (iii) Mentally or physically incapacitated to the extent that he
+2 or she is not self-sufficient.
+3 (d) "Depository" means a state or national bank, savings and loan asso-
+4 ciation, credit union or trust company authorized to act as a fiduciary
+5 or an insurance administrator or insurance company authorized to do
+6 business in this state, a broker or investment advisor regulated by the
+7 department of finance, a broker or insurance agent regulated by the
+8 department of insurance or a health maintenance organization, frater-
+9 nal benefit society, hospital and professional service corporation as
+10 defined in section 41-3403, Idaho Code, or nonprofit mutual insurer
+11 regulated under title 41, Idaho Code.
+12 (e) "Eligible medical expense" means an expense paid by the taxpayer
+13 for medical care described in section 213(d) of the Internal Revenue
+14 Code, and long-term care expenses of the account holder, or expenses
+15 paid by the account holder as a member of a health care sharing ministry
+16 as defined in section 41-121, Idaho Code, and the spouse, dependents and
+17 dependent children of the account holder.
+18 (f) "Long-term care expenses" means expenses incurred in providing
+19 custodial care in a nursing facility as defined in section 39-1301,
+20 Idaho Code, and for insurance premiums relating to long-term care in-
+21 surance under chapter 46, title 41, Idaho Code.
+22 (g) "Medical savings account" means an account established with a de-
+23 pository to pay the eligible medical expenses of the account holder and
+24 the dependents and dependent children of the account holder. Medical
+25 savings accounts shall carry the name of the account holder, a desig-
+26 nated beneficiary or beneficiaries of the account holder and shall be
+27 designated by the depository as a "medical savings account."
+28 (4) Upon agreement between an employer and employee, an employer may
+29 establish and contribute to the employee's medical savings account or con-
+30 tribute to an employee's existing medical savings account. For taxable
+31 years beginning on or after January 1, 1995, but before January 1, 2014, the
+32 total combined annual contributions by an employer and the account holder
+33 shall not exceed two thousand dollars ($2,000) for the account holder. Em-
+34 ployer contributions to an employee's medical savings account shall be owned
+35 by the employee.
+36 (5) Funds held in a medical savings account may be withdrawn by the
+37 account holder at any time. Withdrawals for the purpose of paying eligible
+38 medical expenses shall not be subject to the tax imposed in this chapter.
+39 Funds held in a medical savings account must be exhausted before the account
+40 holder, the account holder's dependent or the account holder's dependent
+41 child receives any state assistance for medical care. The burden of proving
+42 that a withdrawal from a medical savings account was made for an eligible
+43 medical expense is upon on the account holder and not upon on the depository
+44 or the employer of the account holder. Other withdrawals shall be subject to
+45 the following restrictions and penalties:
+46 (a) There shall be a distribution penalty for withdrawal of funds by the
+47 account holder for purposes other than the payment of eligible medical
+48 expenses. The penalty shall be ten percent (10%) of the amount of with-
+49 drawal from the account and, in addition, the amount withdrawn shall be
+50 subject to the tax imposed in this chapter. The direct transfer of funds
+
+3
+1 from a medical savings account to a medical savings account at a differ-
+2 ent depository shall not be considered a withdrawal for purposes of this
+3 section. Charges relating to the administration and maintenance of the
+4 account by the depository are not withdrawals for purposes of this sec-
+5 tion.
+6 (b) After an account holder reaches fifty-nine and one-half (59 1/2)
+7 years of age, withdrawals may be made for eligible medical expenses or
+8 for any other reason without penalty, but subject to the tax imposed by
+9 this section.
+10 (c) Upon the death of an account holder, the account principal, as
+11 well as any interest accumulated thereon, shall be distributed without
+12 penalty to the designated beneficiary or beneficiaries.
+13 (d) Funds withdrawn which that are later reimbursed shall be taxable
+14 unless redeposited into the account within sixty (60) days of the reim-
+15 bursement. Deposits of reimbursed eligible medical expenses shall not
+16 be included in calculating the amount deductible.
+17 (e) Funds deposited in a medical savings account which that are de-
+18 posited in error or unintentionally and which that are withdrawn within
+19 thirty (30) days of being deposited shall be treated as if the amounts
+20 had not been deposited in the medical savings account. Funds withdrawn
+21 from a medical savings account which that are withdrawn in error or un-
+22 intentionally and which that are redeposited within thirty (30) days
+23 of being withdrawn shall be treated as if the amounts had not been with-
+24 drawn from the medical savings account.
+25 (f) Funds withdrawn which that are, not later than the sixtieth day af-
+26 ter the day of the withdrawal, deposited into another medical savings
+27 account for the benefit of the same account holder are not a withdrawal
+28 for purposes of this section and shall not be included in calculating
+29 the amount deductible.
+30 (6) Reporting. Depositories, in the case of medical savings accounts,
+31 shall provide to the state tax commission, in the routine fashion used for
+32 all interest-bearing accounts, the same information that is provided for
+33 any interest-bearing bank account. So as to minimize the burden of report-
+34 ing, the information shall be provided in the format in which information is
+35 provided for any interest-bearing bank account to the state tax commission.
+36 There shall be no other reporting requirements. Account holders shall pro-
+37 vide on any state income tax form in which they take a deduction for a medical
+38 savings account the account number of their medical savings account and the
+39 depository at which the account is held.
+40 (7) Any medical care savings account established pursuant to chapter
+41 53, title 41, Idaho Code, as enacted by chapter 186, laws of 1994, may be con-
+42 tinued pursuant to the provisions of this section and all duties, privileges
+43 and liabilities imposed in this section upon account holders of medical care
+44 savings accounts and the beneficiaries of those accounts shall apply to ac-
+45 count holders of medical care savings accounts and their beneficiaries es-
+46 tablished pursuant to chapter 53, title 41, Idaho Code, as enacted by chapter
+47 186, laws of 1994, as if the medical care savings account were a medical sav-
+48 ings account established pursuant to this section.
+49 (8)(a) If the account holder's surviving spouse acquires the account
+50 holder's interest in a medical savings account by reason of being the
+
+4
+1 designated beneficiary of such account at the death of the account
+2 holder, the medical savings account shall be treated as if the spouse
+3 were the account holder.
+4 (b) If, by reason of the death of the account holder, any person ac-
+5 quires the account holder's interest in a medical savings account in a
+6 case to which subsection (8)(a) of this section does not apply:
+7 (i) Such account shall cease to be a medical savings account as of
+8 the date of death; and
+9 (ii) An amount equal to the fair market value of the assets in such
+10 account on such date shall be includable, if such person is not the
+11 estate of such holder, in such person's Idaho taxable income for
+12 the taxable year which that includes such date, or if such person
+13 is the estate of such holder, in such holder's Idaho taxable income
+14 for the last taxable year of such holder.
+15 (c) The amount includable in Idaho taxable income under subsection
+16 (8)(b) of this section by any person, other than the estate, shall be
+17 reduced by the amount of qualified medical expenses which that were in-
+18 curred by the decedent before the date of the decedent's death and paid
+19 by such person within one (1) year after such date.
+20 SECTION 2. This act shall be in full force and effect on and after Jan-
+21 uary 1, 2027.

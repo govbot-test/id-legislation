@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1310
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO HUMAN FETAL TISSUE; AMENDING TITLE 39, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW CHAPTER 69, TITLE 39, IDAHO CODE, TO ESTABLISH PROVISIONS
+4 REGARDING THE USE OF HUMAN FETAL TISSUE IN PRODUCTS; AND DECLARING AN
+5 EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Title 39, Idaho Code, be, and the same is hereby amended
+8 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+9 ter 69, Title 39, Idaho Code, and to read as follows:
+10 CHAPTER 69
+11 HUMAN FETAL TISSUE IN PRODUCTS
+12 39-6901. HUMAN FETAL TISSUE IN PRODUCTS. (1) All products that use any
+13 ingredients or additives that have been subjected to the use of human fetal
+14 tissue in the testing or production phase shall include explicit labeling
+15 indicating inclusion of human fetal tissue in the research, production, or
+16 development of the product.
+17 (2) The provisions of this section shall apply to any vaccination or
+18 medical product that includes human fetal tissue and shall apply to products
+19 where testing was performed on the final product, or its components or mate-
+20 rials, or to the specific production lot or batch of the product, or its com-
+21 ponents or materials.
+22 (3) Manufacturers shall be strictly liable for a violation of the pro-
+23 visions of subsection (1) of this section. Retailers shall be liable only if
+24 they had actual knowledge that the product required labeling as provided in
+25 subsection (1) of this section and failed to do so.
+26 (4) When the attorney general has reason to believe that any person or
+27 entity is violating or has violated the requirements of this section, the
+28 attorney general may bring an action to obtain injunctive relief and civil
+29 penalties of up to five thousand dollars ($5,000) per violation or up to five
+30 percent (5%) of the gross revenue derived from the sale of the violating
+31 product in this state while such sales were in violation. The injunction
+32 shall be sufficient to prevent the defendant from violating the requirements
+33 of this section.
+34 (5)(a) It shall be an affirmative defense that:
+35 (i) Consumers have been conspicuously informed while purchasing
+36 that the product has been subjected to the use of human fetal tis-
+37 sue, such as:
+38 1. For online sales, by a prominent display on the website
+39 the product was ordered from; or
+40 2. For in-person sales, by being informed vocally;
+
+2
+1 (ii) A manufacturer established and maintained written policies
+2 reasonably designed to ensure compliance with the provisions of
+3 subsection (1) of this section, including verification from in-
+4 gredient suppliers, and informed retailers of such policies; and
+5 (iii) A retailer relied in good faith on the labeling provided by a
+6 manufacturer.
+7 (b) It shall not be an affirmative defense that the manufacturer or re-
+8 tailer is not based in this state.
+9 (6) As used in this section, "human fetal tissue" means tissue or cells
+10 obtained from a dead human embryo or fetus after a spontaneous or induced
+11 abortion or after a stillbirth and includes any fetal cell, embryonic cell,
+12 or cell line derived from a fetal or embryonic cell and any derivative bio-
+13 logical matter such as deoxyribonucleic acid (DNA) or proteins originating
+14 from such tissue, cells, or cell lines.
+15 SECTION 2. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

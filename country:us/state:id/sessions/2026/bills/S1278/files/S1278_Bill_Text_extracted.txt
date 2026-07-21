@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1278
+BY LOCAL GOVERNMENT AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO LOCAL LAND USE PLANNING; AMENDING CHAPTER 65, TITLE 67, IDAHO
+3 CODE, BY THE ADDITION OF A NEW SECTION 67-6541, IDAHO CODE, TO ESTAB-
+4 LISH PROVISIONS FOR THE REGULATION OF DEVELOPMENT ON RELIGIOUS LAND, TO
+5 DEFINE TERMS, TO PROVIDE APPLICABILITY, TO PROVIDE FOR ALLOWABLE USES,
+6 TO PROHIBIT CERTAIN CITY OR COUNTY REQUIREMENTS, TO PERMIT CERTAIN CITY
+7 OR COUNTY REGULATION, TO PROVIDE FOR A DUTY TO APPROVE CERTAIN DEVEL-
+8 OPMENT, AND TO PROVIDE FOR ENFORCEMENT; AND DECLARING AN EMERGENCY AND
+9 PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Chapter 65, Title 67, Idaho Code, be, and the same is
+12 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+13 ignated as Section 67-6541, Idaho Code, and to read as follows:
+14 67-6541. REGULATION OF DEVELOPMENT ON RELIGIOUS LAND. (1) As used in
+15 this section:
+16 (a) "Group home" means a residential facility that provides housing and
+17 support services in a community-based environment for individuals who
+18 require assistance due to physical, mental, developmental, or behav-
+19 ioral disabilities.
+20 (b) "Heavy industrial use" means a storage, processing, or manufactur-
+21 ing use that:
+22 (i) Uses flammable or explosive materials;
+23 (ii) Presents hazardous conditions; or
+24 (iii) Is noxious or offensive due to odors, smoke, noise, fumes, or
+25 vibrations.
+26 (c) "Housing organization" means:
+27 (i) A trade or industry group consisting of local members primar-
+28 ily engaged in the construction or management of housing units;
+29 (ii) A nonprofit organization that provides or advocates for in-
+30 creased access to housing and has participated in public comment
+31 before the legislature; or
+32 (iii) A nonprofit organization engaged in public policy research,
+33 education, or outreach related to housing.
+34 (d) "Mixed-use" means the use and development of a site consisting of
+35 residential and nonresidential uses in which residential uses occupy at
+36 least sixty-five percent (65%) of the total square footage of the devel-
+37 opment.
+38 (e) "Multifamily" means the use and development of a site for three (3)
+39 or more dwelling units within one (1) or more buildings, including con-
+40 dominiums.
+
+2
+1 (f) "Religious land" means land owned by a religious organization or
+2 land leased by a religious organization for a term of no less than forty
+3 (40) years.
+4 (g) "Religious organization" means a nonprofit religious entity or-
+5 ganized primarily for religious purposes, including those qualifying
+6 under section 501(c)(3) or section 501(c)(4) of the Internal Revenue
+7 Code.
+8 (h) "Supportive housing" means residential accommodations that com-
+9 bine housing with supportive services, designed to assist individuals
+10 or families in maintaining stable housing and achieving independence.
+11 (2) This section shall not apply to any portion of religious land lo-
+12 cated within one-quarter (1/4) mile of a heavy industrial use, airport, or
+13 military base.
+14 (3)(a) A city or county shall permit multifamily and mixed-use develop-
+15 ment as allowable uses on religious land.
+16 (b) A city or county shall not require a zoning change, variance, con-
+17 ditional use permit, or other special approval in order to permit such
+18 uses on religious land.
+19 (4) For multifamily or mixed-use development on religious land, a city
+20 or county shall not:
+21 (a) Restrict building height to less than forty (40) feet or three (3)
+22 stories;
+23 (b) Require front setbacks greater than fifteen (15) feet, rear set-
+24 backs greater than ten (10) feet, or side setbacks greater than five (5)
+25 feet;
+26 (c) Impose minimum parking requirements except as required by federal
+27 law;
+28 (d) Restrict development by limiting density, building coverage, or
+29 unit size beyond what is provided in this section;
+30 (e) Prohibit supportive housing or group homes; or
+31 (f) Require the conversion of an existing building to exceed the inter-
+32 national building code standards otherwise applicable.
+33 (5) Nothing in this section shall be construed to prohibit a city or
+34 county from applying generally applicable:
+35 (a) Sewer and water access requirements;
+36 (b) Stormwater management requirements; or
+37 (c) Building codes not otherwise restricted by this section.
+38 (6)(a) A city or county shall approve an application for a multifamily
+39 or mixed-use development on religious land if it complies with appli-
+40 cable regulations other than those prohibited in subsection (4) of this
+41 section.
+42 (b) Approval under this section shall be ministerial.
+43 (7)(a) A person aggrieved by a violation of this section or a housing
+44 organization may bring an action in the district court of the county in
+45 which the property is located.
+46 (b) The court may issue declaratory or injunctive relief or writs of
+47 mandamus and award damages for economic losses caused by a violation.
+48 (c) The court shall award reasonable attorney's fees and costs to a pre-
+49 vailing plaintiff.
+
+3
+1 (d) Governmental immunity is waived to the extent necessary to enforce
+2 this section.
+3 (8) Nothing in this section shall be construed to:
+4 (a) Allow for the building of homeless shelters;
+5 (b) Direct any entity to approve a permit for a homeless shelter; or
+6 (c) Infringe on any jurisdiction's ability to regulate or prohibit
+7 homeless shelters.
+8 (9) The provisions of this section shall apply to any application for
+9 development on religious land received by a city or county on and after July
+10 1, 2026.
+11 SECTION 2. An emergency existing therefor, which emergency is hereby
+12 declared to exist, this act shall be in full force and effect on and after
+13 July 1, 2026.

@@ -1,0 +1,489 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 811
+BY REVENUE AND TAXATION COMMITTEE
+1 AN ACT
+2 RELATING TO COMMUNITY INFRASTRUCTURE DISTRICTS; AMENDING SECTION 50-3101,
+3 IDAHO CODE, TO REVISE A PROVISION REGARDING THE FORMATION OF A COMMUNITY
+4 INFRASTRUCTURE DISTRICT AND TO MAKE TECHNICAL CORRECTIONS; AMENDING
+5 SECTION 50-3102, IDAHO CODE, TO DEFINE A TERM, TO REVISE DEFINITIONS,
+6 AND TO MAKE TECHNICAL CORRECTIONS; AMENDING SECTION 50-3108, IDAHO
+7 CODE, TO REVISE A PROVISION REGARDING THE MAXIMUM INDEBTEDNESS ALLOWED;
+8 AMENDING SECTION 50-3111, IDAHO CODE, TO REVISE PROVISIONS REGARDING
+9 THE TERMS OF BONDS; AMENDING CHAPTER 31, TITLE 50, IDAHO CODE, BY THE
+10 ADDITION OF A NEW SECTION 50-3122, IDAHO CODE, TO ESTABLISH PROVISIONS
+11 REGARDING FIRE PROTECTION SERVICES AND EMERGENCY SERVICES FEES FOR DIS-
+12 TRICTS FORMED AFTER JANUARY 1, 2026; AMENDING SECTION 50-3112, IDAHO
+13 CODE, TO PROVIDE CORRECT CODE REFERENCES; AND DECLARING AN EMERGENCY
+14 AND PROVIDING AN EFFECTIVE DATE.
+15 Be It Enacted by the Legislature of the State of Idaho:
+16 SECTION 1. That Section 50-3101, Idaho Code, be, and the same is hereby
+17 amended to read as follows:
+18 50-3101. PURPOSE, RELATIONSHIP WITH OTHER LAWS AND SHORT TITLE. (1)
+19 The purpose of this chapter is:
+20 (a) To encourage the funding and construction of regional community in-
+21 frastructure in advance of actual developmental growth that creates the
+22 need for such additional infrastructure;
+23 (b) To provide a means for the advance payment of development impact
+24 fees established in chapter 82, title 67, Idaho Code, and the community
+25 infrastructure that may be financed thereby; and
+26 (c) To create additional financial tools and financing mechanisms that
+27 allow new growth to more expediently pay for itself.
+28 (2) Only community infrastructure to be publicly owned by this state or
+29 a political subdivision thereof may be financed pursuant to this chapter.
+30 (3) A community infrastructure district may only be formed pursuant to
+31 this chapter only by a city in the city's incorporated area, or by a county
+32 in an area contained within a city's comprehensive plan with the city's con-
+33 sent, or by a county when the district is outside of a city's comprehensive
+34 plan.
+35 (4) A community infrastructure district may be formed only after (i)
+36 prior review and approval by the governing body of each county or city in
+37 which the district is proposed to be located of a petition requesting the
+38 formation of the district, and (ii) the necessary approvals for site de-
+39 velopment under the local land use planning act, sections 67-6501 et seq.,
+40 Idaho Code, and the planning and zoning ordinances of each county and city
+41 in which the district is proposed to be located have been obtained; provided
+42 however, that where there will be phased development, approvals obtained
+
+2
+1 for the first phase of site development shall be sufficient for the initial
+2 creation and organization of the district. The formation of a district
+3 pursuant to this chapter shall not prevent the exercise by a county, city
+4 or other political subdivision of any of its powers on the same basis as on
+5 all other land within its jurisdiction. Notwithstanding the formation of a
+6 district, the development of real property located within the district shall
+7 remain subject to the provisions of chapter 65, title 67, Idaho Code, and
+8 the applicable planning and zoning ordinances of the counties and cities in
+9 which the district is located. The formation of a district pursuant to this
+10 chapter shall not prevent the subsequent establishment of other districts or
+11 the improvement or assessment of land within the district by a county, city
+12 or other political subdivision.
+13 (5) This chapter shall be known and may be cited as the "Community In-
+14 frastructure District Act."
+15 SECTION 2. That Section 50-3102, Idaho Code, be, and the same is hereby
+16 amended to read as follows:
+17 50-3102. DEFINITIONS. As used in this chapter, the following terms
+18 shall have the meanings as stated:
+19 (1) "Assessment area" means real property within the boundaries of a
+20 community infrastructure district that is the subject of a specific special
+21 assessment as set forth in this chapter.
+22 (2) "Community infrastructure" means improvements that have a substan-
+23 tial nexus to the district and directly or indirectly benefit the district.
+24 Community infrastructure excludes public improvements fronting individual
+25 single-family residential lots. Community infrastructure includes plan-
+26 ning, design, engineering, construction, acquisition or installation of
+27 such infrastructure, including the costs of applications, impact fees and
+28 other fees, permits and approvals related to the construction, acquisition
+29 or installation of such infrastructure, and incurring expenses incident to
+30 and reasonably necessary to carry out the purposes of this chapter. Com-
+31 munity infrastructure includes all public facilities as defined in section
+32 67-8203(24), Idaho Code, and, to the extent not already included within the
+33 definition in section 67-8203(24), Idaho Code, the following:
+34 (a) Highways, parkways, expressways, interstates, or other such des-
+35 ignations, interchanges, bridges, crossing structures, and related ap-
+36 purtenances;
+37 (b) Public parking facilities, including all areas for vehicular use
+38 for travel, ingress, egress and parking;
+39 (c) Trails and areas for pedestrian, equestrian, bicycle or other non-
+40 motor vehicle use for travel, ingress, egress and parking;
+41 (d) Public safety facilities;
+42 (e) Acquiring interests in real property for community infrastructure;
+43 (f) Financing costs related to the construction of items listed in this
+44 subsection; and
+45 (g) Impact fees.
+46 (3) "Community infrastructure segment" means a separate or a dis-
+47 cernible portion of a construction contract attributable to community
+48 infrastructure.
+
+3
+1 (4) "Debt service" means the principal of, interest on and premium, if
+2 any, on the bonds when due, whether at maturity or prior redemption, and fees
+3 and costs of registrars, trustees, paying agents or other agents necessary
+4 to handle the bonds and the costs of credit enhancement or liquidity support.
+5 (5) "Discharge date" means the date on which no further payments will be
+6 due on an outstanding bond, regardless of the amount of principal and inter-
+7 est paid prior to such date, as provided in section 50-3111, Idaho Code.
+8 (5) (6) "District" means a community infrastructure district formed
+9 pursuant to this chapter. A district formed after July 1, 2022, shall not
+10 exclude from the district any land that is completely surrounded by property
+11 in the district. A district shall only include only contiguous property
+12 at the time of formation. Land that is connected by only a shoestring or
+13 strip of land that comprises a railroad or highway right-of-way shall not be
+14 considered contiguous for the purposes of this chapter. Subsequent to a dis-
+15 trict's formation, a district may include noncontiguous property but only if
+16 specifically determined by the district board to have a substantial nexus to
+17 the initial district or to the community infrastructure contemplated by the
+18 initial district and then authorized by the district board in its discretion
+19 and pursuant to section 50-3106, Idaho Code.
+20 (6) (7) "District board" means the board of directors of the district.
+21 (7) (8) "District development agreement" means an agreement between a
+22 property owner or developer, the county or city, any other political subdi-
+23 vision of the state, and/or the district. A district development agreement
+24 shall be used to establish obligations of the parties to the agreement re-
+25 lating to district financing and development, including: intergovernmental
+26 agreements; the ultimate public ownership of the community infrastructure
+27 financed by the district; the understanding of the parties with regard to
+28 future annexations of property into the district; the total amount of bonds
+29 to be issued by the district and the property taxes and special assessments
+30 to be levied and imposed to repay the bonds and the provisions regarding
+31 the disbursement of bond proceeds; the financial assurances, if any, to be
+32 provided with respect to the bonds; impact and other fees imposed by gov-
+33 ernmental authorities, including credit, prepayment and/or reimbursement
+34 with respect thereto; temporary assessments and the disbursement of revenue
+35 from such assessments pursuant to section 50-3122, Idaho Code; and other
+36 matters relating to the community infrastructure, such as construction, ac-
+37 quisition, planning, design, inspection, ownership and control. A district
+38 development agreement shall be in addition to and shall not supplant any de-
+39 velopment agreement entered into pursuant to section 67-6511A, Idaho Code,
+40 pursuant to which a governing body may require or permit, as a condition of
+41 rezoning, that an owner or developer make a written commitment concerning
+42 the use or development of the subject parcel.
+43 (8) (9) "General plan" means the general plan described in section
+44 50-3103(1), Idaho Code, as the plan may be amended from time to time.
+45 (9) (10) "Governing body" means the county commissioners or city coun-
+46 cil that by law is constituted as the governing body of the county or city in
+47 which the district is located. Reference in this chapter to "governing body
+48 or bodies" shall mean the governing body or bodies of each county and city in
+49 which the district is located.
+
+4
+1 (10) (11) "Owner" means the person listed as the owner of real property
+2 within the district or a proposed district on the current property rolls in
+3 effect at the time that the action, proceeding, hearing or election has be-
+4 gun; provided however, that if a person listed on the property rolls is no
+5 longer the owner of real property within the district or a proposed district
+6 and the name of the successor owner becomes known and is verified by recorded
+7 deed or other similar evidence of transfer of ownership, the successor owner
+8 shall be deemed to be the owner for the purposes of this chapter.
+9 (11) (12) "Market value for assessment purposes" means the amount of the
+10 last preceding equalized assessment of all taxable property and excludes
+11 all property exempt from taxation pursuant to section 63-602G, Idaho Code,
+12 within the community infrastructure district on the tax rolls completed and
+13 available as of the date of approval in the district bond issuance.
+14 (12) (13) "Person" means any entity, individual, corporation, partner-
+15 ship, firm, association, limited liability company, limited liability part-
+16 nership, trust or other such entities as recognized by the state of Idaho.
+17 A "person in interest" is any person who is a qualified elector in the dis-
+18 trict, who is an owner of real property in the district or who is a real prop-
+19 erty taxpayer in the district.
+20 (13) (14) "Qualified elector" means a person who possesses all of the
+21 qualifications required of electors under the general laws of the state of
+22 Idaho and:
+23 (a) Resides within the boundaries of a district or a proposed district
+24 and who is a qualified elector. For purposes of this chapter, such elec-
+25 tor shall also be known as a "resident qualified elector"; or
+26 (b) Is an owner of real property that is located within the district or a
+27 proposed district, who is not a resident qualified elector as set forth
+28 above. For purposes of this chapter, such elector shall also be known as
+29 an "owner qualified elector."
+30 (14) (15) "Special assessment" means an assessment imposed upon real
+31 property located within an assessment area for a specific purpose and of a
+32 special benefit to the affected property, collected and enforced in the same
+33 manner as property taxes, that may be apportioned according to the direct or
+34 indirect special benefits conferred upon the affected property, as well as
+35 any, or any combination, of the following: acreage, square footage, front
+36 footage, the cost of providing community infrastructure for the affected
+37 property, or any other reasonable method as determined by the district
+38 board.
+39 SECTION 3. That Section 50-3108, Idaho Code, be, and the same is hereby
+40 amended to read as follows:
+41 50-3108. GENERAL OBLIGATION BONDS -- ELECTION -- MAXIMUM INDEBTEDNESS
+42 ALLOWED -- LEVY. (1) After district formation, whenever the district board
+43 shall deem it advisable to issue general obligation bonds of the district,
+44 the district board shall provide therefor by resolution, which resolution
+45 shall specify and set forth the community infrastructure and other costs and
+46 expenses approved by the district board consistent with the general plan to
+47 be financed with the bonds, and make provision for the collection of an an-
+48 nual tax sufficient to pay the interest on the bonds as it falls due, and also
+
+5
+1 to constitute a sinking fund for the payment of the principal thereof as re-
+2 quired by the constitution and laws of the state of Idaho.
+3 (2) The resolution shall also provide for holding an election, held
+4 in compliance with section 50-3112, Idaho Code, to submit to the qualified
+5 electors of the district the question of authorizing the district to issue
+6 general obligation bonds of the district to provide money for said community
+7 infrastructure consistent with the general plan. The ballot used in such
+8 election shall be in form substantially as follows: "In favor of issuing
+9 bonds to the amount of.......... dollars for the purpose stated in Resolu-
+10 tion No....," and "Against issuing bonds to the amount of......... dollars
+11 for the purpose stated in Resolution No....".
+12 (3) If two-thirds (2/3) of the qualified electors at such election
+13 assent to the issuing of the bonds and the incurring of the indebtedness
+14 thereby created for the purpose aforesaid, the district board shall there-
+15 upon be authorized to issue and create such indebtedness in the manner and
+16 for the purposes specified in said resolution, and the bonds shall be issued
+17 and sold in the manner provided by the laws of the state of Idaho, and the
+18 district board by further resolution shall be entitled to issue and sell
+19 the bonds in series or divisions up to the authorized amount without the
+20 further vote of the qualified electors, and to issue and sell such bonds at
+21 such times and in such amounts as the district board deems appropriate to
+22 carry out a community infrastructure project or projects in phases; pro-
+23 vided however, that before any issuance of the bonds, including issuance in
+24 series or divisions and, in addition to such other determinations made by
+25 the district board as it may deem reasonable and prudent, the district board
+26 shall also determine whether reasonable financial assurance for the payment
+27 of the debt service on the bonds through additional collateral, payment
+28 guarantee or otherwise shall be required from a developer. The developer
+29 shall be consulted and shall be given a reasonable period of time within
+30 which to appear, either in person or in writing, and respond to any proposed
+31 financial assurance. If, following such developer's response, the district
+32 board determines that reasonable financial assurance shall be required, the
+33 district board shall specify the type and amount of the financial assurance
+34 required in its resolution.
+35 (4) In no event shall the aggregate outstanding principal amount of
+36 general obligation bonds and any other indebtedness for which the full faith
+37 and credit of the district are pledged exceed nine percent (9%) of the ac-
+38 tual or adjusted market value for assessment purposes on all taxable real
+39 property within the district as such valuation existed on December 31 of the
+40 previous year.
+41 (5) After the bonds are issued, the district shall enter in its minutes
+42 a record of the bonds sold and their number and dates and shall periodically
+43 collect the pledged revenues to pay the debt service on the bonds when due.
+44 (6) Bond proceeds received by the district shall be held in a segregated
+45 account and shall be disbursed therefrom only for:
+46 (a) The payment of community infrastructure and/or community in-
+47 frastructure segments approved by the district board and actually
+48 completed; or
+49 (b) For the purpose of reimbursing actually paid expenditures relating
+50 to community infrastructure as approved by the district board; provided
+
+6
+1 however, that lien releases with respect to the payment made must be ob-
+2 tained from the underlying providers of labor, work, services or mate-
+3 rials as a condition to such payment; or
+4 (c) For the payment or reimbursement of governmentally imposed impact
+5 fees as approved by the district board.
+6 (7) Completion of community infrastructure may be phased and payment
+7 made pursuant to a draw schedule. Bond proceeds shall be expended on the com-
+8 munity infrastructure within three (3) years after issuance. Prior to is-
+9 suance of the bonds, the district board shall determine that such bond pro-
+10 ceeds can reasonably be expended within that time.
+11 (8) Each year, prior to the time for the certification required under
+12 section 50-3114, Idaho Code, the district board shall levy a tax upon all
+13 taxable real property within the district, sufficient, together with any
+14 money from the sources described in section 50-3107(3), Idaho Code, to pay
+15 debt service on the bonds when due. The levy shall be made by resolution
+16 entered upon the minutes of the district board, and it shall be the duty of
+17 the clerk of the district, immediately after entry of the resolution in the
+18 minutes, to transmit to the board of county commissioners in each county
+19 in which the district is located the certification required under section
+20 50-3114, Idaho Code. Such tax levied shall then be collected and accounted
+21 for at the time and in the form and manner as other taxes are collected and
+22 accounted for under the laws of this state. Moneys derived from the levy of
+23 property taxes to pay the debt service on the bonds shall be kept separately
+24 from other funds of the district. A district's levy of property taxes shall
+25 constitute a lien on all taxable real property within the district.
+26 (9) The district may issue and sell refunding bonds to refund general
+27 obligation bonds of the district authorized by this section. The principal
+28 amount of the refunding bonds may be more or less than the principal amount of
+29 the bonds being refunded, provided that the proceeds of the refunding bonds
+30 are used only for refunding purposes and payment of the costs thereof, and
+31 the total obligation of the district is not increased, that is, if the amount
+32 of the refunding bonds is more than the principal amount of the bonds being
+33 refunded, issuance of the refunding bonds will result in a net present value
+34 savings to the district. No election shall be required in connection with
+35 the issuance and sale of such refunding bonds. Refunding bonds issued pur-
+36 suant to this section shall have a final maturity date no later than the final
+37 maturity date of the bonds being refunded.
+38 SECTION 4. That Section 50-3111, Idaho Code, be, and the same is hereby
+39 amended to read as follows:
+40 50-3111. TERMS OF BONDS. (1) For any bonds issued under this chap-
+41 ter, the district board shall prescribe the denominations of the bonds, the
+42 principal amount of each issue and the form of the bonds and shall establish
+43 the maturities, which shall not exceed thirty (30) years from the date of
+44 issuance of such bonds, interest payment dates and interest rates, whether
+45 fixed or variable, not exceeding the maximum rate stated in the notice of
+46 the election or the resolution of the district board. The bonds, up to the
+47 aggregate authorized principal amount thereof, may be issued in whole or
+48 divided into series, and by supplementary resolution adopted from time to
+49 time by the district board, the district may issue any remaining principal
+
+7
+1 amount of the bonds in one (1) or more subsequent divisions. No election
+2 shall be required in connection with the issuance of any remaining principal
+3 amount of the bonds in a subsequent division. The bonds may be sold by com-
+4 petitive bid or negotiated sale for public or private offering at, below or
+5 above par. The proceeds of the bonds shall be deposited with the treasurer,
+6 or with a trustee or agent designated by the district board, to the credit
+7 of the district to be withdrawn for the purposes provided by this chapter.
+8 Pending that use, the proceeds may be invested as determined by the district
+9 board. The bonds shall be made payable as to both principal and interest
+10 solely from revenues of the district, and shall specify the revenues pledged
+11 for such purposes, and shall contain such other terms, conditions, covenants
+12 and agreements as the district board deems proper. The bonds may be payable
+13 from any combination of taxes or revenues of the types described in sections
+14 50-3108, 50-3109 and , 50-3110, and 50-3122, Idaho Code.
+15 (2) Any bonds issued pursuant to this chapter on and after July 1, 2026,
+16 shall be automatically discharged, regardless of any principal or interest
+17 that may be outstanding, on the date that is forty (40) years after the is-
+18 suance of such series of bonds. Such discharge date shall be automatic and
+19 shall not require any further action on the part of the district.
+20 (3) Any district formed pursuant to this chapter shall be dissolved in
+21 the year that is five (5) years after completion of all work to be performed
+22 under a district's general plan, as long as no bonds remain outstanding. If
+23 any bonds remain outstanding after such year, such district shall be dis-
+24 solved in the year after such bonds are paid.
+25 SECTION 5. That Chapter 31, Title 50, Idaho Code, be, and the same is
+26 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+27 ignated as Section 50-3122, Idaho Code, and to read as follows:
+28 50-3122. FIRE PROTECTION SERVICES AND EMERGENCY MEDICAL SERVICES FEES
+29 FOR DISTRICTS FORMED AFTER JANUARY 1, 2026. (1) A community infrastructure
+30 district formed after January 1, 2026, may impose an annual fee for fire pro-
+31 tection services and emergency medical services if authorized by the govern-
+32 ing body in the district development agreement.
+33 (2) A fee under this section may be imposed on each residential property
+34 for a term not to exceed five (5) years, commencing upon the transfer of title
+35 to the first residential homeowner. Notwithstanding any provision of law to
+36 the contrary, the district shall be exempt from providing public notice when
+37 a fee is imposed on a property for the first time. The existence, terms, and
+38 any applicable amounts of the fee shall be disclosed in the property disclo-
+39 sure notice and shall be signed and acknowledged by any purchaser prior to
+40 purchase. The obligation to pay the fee shall run with the property, and any
+41 subsequent owner who acquires title within the original five (5) year period
+42 shall be responsible for payment of the fee for the remainder of that five (5)
+43 year term. No fee under this section may be extended or renewed beyond its
+44 initial five (5) year term, and each such fee shall expire at the end of the
+45 five (5) year term without further notice or action. Upon the expiration of
+46 the fee for a property as provided in this section, the district shall have no
+47 further authority to impose a fee under this section on that same property.
+48 (3) The initial amount of the fee and any provision for annual increases
+49 shall be as set forth in the district development agreement, provided that
+
+8
+1 the amount of the fee shall not increase by more than two percent (2%) in any
+2 year.
+3 (4) The fee shall be collected and accounted for at the time and in the
+4 form and manner as property taxes are collected and accounted for under the
+5 laws of this state. All revenues from the fee shall be kept separate from
+6 other district funds in a dedicated fund and may accumulate from year to year
+7 to ensure the availability of moneys to pay for or offset the costs of fire
+8 protection services and emergency medical services as authorized in this
+9 section.
+10 (5) The district board shall budget and disburse the fee proceeds col-
+11 lected pursuant to this section solely to pay for or offset the costs of
+12 fire protection services and emergency medical services for the district.
+13 Permissible expenditures shall include but not be limited to salaries and
+14 benefits of fire protection services personnel and emergency medical ser-
+15 vices personnel; procurement, maintenance, repair, or replacement of fire
+16 protection services or emergency medical services equipment; fire protec-
+17 tion services training; emergency medical services training; and other
+18 operational expenses necessary for fire protection and emergency response.
+19 Notwithstanding the provisions of this subsection, the fee may be pledged to
+20 bonds issued by the district if a portion of the net proceeds of bonds is used
+21 to fund the costs of fire protection services and emergency medical services
+22 for the district.
+23 (6) The district may enter into agreements with cities, fire protection
+24 districts, ambulance districts, or other service providers to furnish fire
+25 protection services or emergency medical services to the district and may
+26 distribute fee revenues to such service providers pursuant to such agree-
+27 ments or as provided in the district development agreement. In no event
+28 shall the district be required to pay any amount in excess of collections
+29 from the fees.
+30 SECTION 6. That Section 50-3112, Idaho Code, be, and the same is hereby
+31 amended to read as follows:
+32 50-3112. NOTICE AND CONDUCT OF ELECTION. (1) Any election pursuant
+33 to this chapter shall be a nonpartisan election, and in regard to election
+34 dates, shall be held in compliance with section 34-106, Idaho Code, or sec-
+35 tion 50-405, Idaho Code. Except as otherwise specifically set forth in this
+36 section, the district board shall cause the election to be held and conducted
+37 in the same manner prescribed by law for the holding of general elections in
+38 this state, including chapter 14, title 34, Idaho Code, and shall call the
+39 election by posting notices in three (3) public places within the boundaries
+40 of the district not less than thirty (30) days before the election. Notice
+41 shall also be published twice, the first time not less than twelve (12) days
+42 prior to the election and the second time not less than five (5) days prior to
+43 the election, in a newspaper of general circulation in each county or city
+44 in which the proposed district is located. A copy of such notice shall also
+45 be mailed to each district resident and each owner of real property in the
+46 district if known or such owner's agent if known, addressed to such person
+47 at his or her post office address if known or, if unknown, to a post office in
+48 the county or city where the district is located. Ownership of real property
+
+9
+1 shall be determined as of the date of the adoption of the resolution ordering
+2 the hearing. The notice shall state:
+3 (a) The place of holding the election;
+4 (b) Subject to section 34-1409, Idaho Code, the hours during the day in
+5 which the polls will be open;
+6 (c) If the election is a bond election, whether the bonds are general
+7 obligation bonds or revenue bonds, the total principal amount of bonds
+8 to be authorized, whether the bonds will be issued in series, the maxi-
+9 mum rate of interest to be paid on the bonds and the maximum term of the
+10 bonds, not exceeding thirty (30) years;
+11 (d) If the election is an election to change or eliminate an existing
+12 tax, the maximum tax amount to be imposed as a result of the change or
+13 elimination;
+14 (e) The purposes for which property taxes levied and revenues raised
+15 will be used, including a description of the community infrastructure
+16 to be financed with tax revenues, district revenues or bond proceeds;
+17 (f) That the imposition of property taxes will result in a lien for the
+18 payment thereof on real property within the district; and
+19 (g) That a general plan is on file with the county clerk of each county
+20 in which the district is located.
+21 (2) The district board shall determine the date of the election and the
+22 polling place or places for the election. The district board may establish,
+23 change, and consolidate election precincts within the district, as it deems
+24 necessary and appropriate, and shall define precinct boundaries.
+25 (3) Subject to section 50-3102(10) and (13) 50-3102(11) and (14), Idaho
+26 Code, the current property rolls for the district and current voter lists in
+27 effect at the time that the election has begun shall be used to determine the
+28 qualified electors. If the district includes land lying partly in and partly
+29 out of any precinct, the voter lists may contain the names of all electors in
+30 the precinct, and the precinct boards at those precincts shall require that a
+31 prospective elector execute an affidavit stating that the elector is also a
+32 qualified elector.
+33 (4) If the district is to be located within two (2) or more counties
+34 and/or cities, the election shall be held on the same day in each jurisdic-
+35 tion.
+36 (5) The ballot material provided to each voter shall include:
+37 (a) For an election concerning the issuance of bonds, an impartial de-
+38 scription of the bonds to be issued and an impartial description of the
+39 property taxes to be imposed; the method of apportionment, collection
+40 and enforcement and other details sufficient to enable each qualified
+41 elector to reasonably estimate the amount of tax he or she will be obli-
+42 gated to pay; and a statement that the issuance of the bonds and the im-
+43 position of property taxes is for the provision of certain, but not nec-
+44 essarily all, community infrastructure that may be needed or desirable
+45 within the district, and that other taxes or assessments by other gov-
+46 ernmental entities may be presented for approval by qualified electors;
+47 and
+48 (b) For an election to change an existing maximum tax or eliminate an
+49 existing tax, an impartial description of the change or elimination.
+
+10
+1 (6) Within ten (10) days after an election, the district board shall
+2 meet and canvass the returns, and declare the results thereof. At least a
+3 two-thirds (2/3) majority of the votes cast at the election shall be required
+4 for issuing bonds or changing an existing tax. The canvass may be continued
+5 for an additional period not to exceed thirty (30) days at the election of the
+6 district board for the purpose of completing the canvass. Failure of a re-
+7 quired majority to vote in favor of the matter submitted shall not prejudice
+8 the submission of the same or similar matters at a later election. The can-
+9 vass of any general obligation bond election shall be filed and recorded in
+10 each county in which the district is located.
+11 (7) In any election held pursuant to this chapter, every voter may vote
+12 at any election held pursuant to this chapter, but shall be entitled to cast
+13 votes, as follows: (i) each resident qualified elector shall be entitled to
+14 one (1) vote; and (ii) each owner qualified elector shall be entitled to one
+15 (1) vote. An owner qualified elector shall not be entitled to an additional
+16 vote as a result of also being a resident of the district. When record title
+17 is held in more than one (1) name, the owners shall file with the clerk of the
+18 district at or prior to the election a designation in writing, of which one of
+19 the owners shall be deemed the owner for purposes of voting.
+20 (8) In conducting an election, the polling official may require evi-
+21 dence of ownership of property and designation of the power to exercise the
+22 vote of any owner consistent with the provisions of this section and section
+23 50-3102(10) 50-3102(11), Idaho Code.
+24 SECTION 7. An emergency existing therefor, which emergency is hereby
+25 declared to exist, this act shall be in full force and effect on and after
+26 July 1, 2026.

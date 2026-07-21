@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Amendment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+Moved by VanOrden
+Seconded by Lakey
+IN THE SENATE
+SENATE AMENDMENT TO H.B. NO. 494
+1 AMENDMENT TO SECTION 3
+2 On page 4 of the printed bill, delete lines 12 through 26, and insert:
+3 "32-1805. TEMPORARY CARE ASSISTANCE PROGRAM REQUIREMENTS. (1) A For
+4 a temporary care assistance program, the department of health and welfare
+5 shall check against the state's sex offender registry operated by the Idaho
+6 state police and against the national sex offender public website operated
+7 by the United States department of justice that checks names and addresses
+8 in the registries before allowing someone to become a temporary caregiver
+9 within the program's service. The process must include a criminal history
+10 and background check conducted by the department of health and welfare
+11 comparable to the background check processed for foster parents. The back-
+12 ground check shall be fingerprint-based, requiring that the fingerprints
+13 of temporary caregivers be submitted to the federal bureau of investigation
+14 and the Idaho state police bureau of criminal identification to complete a
+15 national criminal history background check., pursuant to chapter 25, title
+16 56, Idaho Code, which shall be conducted in the same manner as background
+17 checks for foster parents. The background check shall be fingerprint-based
+18 and shall require that the fingerprints of temporary caregivers be submitted
+19 to the Idaho state police to process the background check through the state
+20 criminal history repository and the federal bureau of investigation for
+21 a national criminal history search. The department of health and welfare
+22 shall not charge a fee for background checks required by this section.".

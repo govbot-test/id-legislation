@@ -1,0 +1,356 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 542
+BY STATE AFFAIRS COMMITTEE
+1 AN ACT
+2 RELATING TO THE STOP HARMS FROM ADDICTIVE SOCIAL MEDIA ACT; AMENDING TITLE
+3 48, IDAHO CODE, BY THE ADDITION OF A NEW CHAPTER 21, TITLE 48, IDAHO
+4 CODE, TO PROVIDE A SHORT TITLE, TO DEFINE TERMS, TO ESTABLISH PROVISIONS
+5 REGARDING AGE ESTIMATION AND IDENTIFICATION OF CHILDREN, TO ESTABLISH
+6 PROVISIONS REGARDING LIMITATIONS AND REQUIREMENTS FOR SOCIAL MEDIA
+7 ACCOUNTS FOR CHILDREN, TO PROVIDE FOR REMEDIES AND ENFORCEMENT, AND TO
+8 PROVIDE EXCLUSIONS AND PROHIBITIONS ON CERTAIN WAIVERS; PROVIDING SEV-
+9 ERABILITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+10 Be It Enacted by the Legislature of the State of Idaho:
+11 SECTION 1. That Title 48, Idaho Code, be, and the same is hereby amended
+12 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+13 ter 21, Title 48, Idaho Code, and to read as follows:
+14 CHAPTER 21
+15 STOP HARMS FROM ADDICTIVE SOCIAL MEDIA ACT
+16 48-2101. SHORT TITLE. This chapter shall be known and may be cited as
+17 the "Stop Harms from Addictive Social Media Act."
+18 48-2102. DEFINITIONS. As used in this chapter:
+19 (1) "Account holder" means a resident of Idaho who has an account or a
+20 profile with a covered social media platform, which is associated by the cov-
+21 ered social media platform with a unique identifier, during any period in
+22 which a covered social media platform knows or should reasonably know that
+23 the resident is physically located in Idaho.
+24 (2) "Addictive interface features" means any of the following:
+25 (a) Infinite scrolling, which means either:
+26 (i) Continuously loading content, which is content that loads as
+27 the account holder scrolls down the page without the need to open a
+28 separate page; or
+29 (ii) Seamless content, which is content that uses pages with no
+30 visible or apparent end or page breaks;
+31 (b) Display of a profile-based feed;
+32 (c) Push notifications, whether audible, visual, or tactile, designed
+33 to call the attention of the account holder to newly posted content or to
+34 responses to content posted by the account holder or designed to inform
+35 the account holder about other specific activities or events related to
+36 the account holder's account; however, this does not include notifica-
+37 tions for the purposes of alerting the account holder to incoming calls,
+38 text messages, email messages, or similar messages sent by human con-
+39 tacts and delivered by means of any application;
+
+2
+1 (d) Auto-play video, which is video that begins to play without the ac-
+2 count holder first clicking on the video or on a play button for that
+3 video;
+4 (e) Display of personal metrics that indicate the number of times other
+5 users have clicked a button or taken other action to indicate their re-
+6 action to content posted by the account holder or that they have shared
+7 or reposted content posted by the account holder; or
+8 (f) Display of awards, badges, tiers, or any other form of recognition
+9 of the account holder based on hours spent by the account holder on the
+10 social media platform, number of followers, number of postings, fre-
+11 quency or regularity of postings, or any other metric of usage or per-
+12 formance on the social media platform.
+13 (3) "Child" means a resident of Idaho who is sixteen (16) years of age or
+14 younger.
+15 (4) "Covered social media platform" means a social media plat-
+16 form, including any parent, subsidiary, or affiliate of the social media
+17 platform, that has collectively generated at least one billion dollars
+18 ($1,000,000,000) in advertising revenues worldwide in one (1) or more of the
+19 preceding three (3) years.
+20 (5) "First trigger date" means, with respect to each account holder and
+21 each covered social media platform, the first date when the account holder
+22 has used the covered social media platform for twenty-five (25) cumulative
+23 hours within a six (6) month period, following the effective date of this
+24 chapter.
+25 (6) "Minor" means a resident of Idaho who is under the age of majority
+26 but does not include emancipated minors.
+27 (7) "Notice to a parent" shall have the same meaning as established in
+28 15 U.S.C. 6501 and implementing regulations pursuant to 16 CFR 312.4.
+29 (8) "Paid commercial advertising" means advertising for which the so-
+30 cial media platform receives compensation of any sort in return for display-
+31 ing and that seeks to encourage the account holder to purchase a product or
+32 service or otherwise engage in a commercial transaction or to follow a link
+33 to a website that encourages the account holder to engage in a commercial
+34 transaction.
+35 (9) "Parent" includes any legal guardian of a minor.
+36 (10)(a) "Personal information" means information about an account
+37 holder collected online that comprises personal information pursuant
+38 to 15 U.S.C. 6501(8) and additionally includes:
+39 (i) Any record of or information derived from online activity or
+40 history, search history, or online communications of an account
+41 holder with respect to any application, website, or social media
+42 platform;
+43 (ii) Any photograph or biometric information that is used or could
+44 reasonably be used to identify the account holder, including but
+45 not limited to fingerprints, voiceprints, iris or retina imagery
+46 scans, facial templates, and gait imagery or metrics; and
+47 (iii) Any geolocation information associated with an account
+48 holder or with a device of an account holder.
+49 (b) "Personal information," for the purposes of this chapter, does not
+50 include:
+
+3
+1 (i) An express search term, request, or selection submitted by
+2 the account holder during the current session on the covered so-
+3 cial media platform;
+4 (ii) An identifier used solely for the purpose of directing per-
+5 sonal communications to or from the account holder; or
+6 (iii) Information that comprises account holder-selected or par-
+7 ent-selected settings relating to privacy, accessibility, or
+8 blocking of age-inappropriate content or relating to technical
+9 information concerning the account holder's device.
+10 (11)(a) "Profile-based feed" means a feed in which the material pre-
+11 sented has been selected or prioritized by the social media platform for
+12 display to an account holder based in whole or in part on personal infor-
+13 mation of the account holder.
+14 (b) Content created by a third party that is displayed to the account
+15 holder because the account holder has taken an affirmative step to se-
+16 lect the third party's content for inclusion in the feed displayed to
+17 the account holder, such as by "following," "friending," or engaging in
+18 a similar action in relation to the third party, and not otherwise se-
+19 lected or prioritized for display to the account holder based on per-
+20 sonal information shall not render such feed a profile-based feed.
+21 (c) Content excluded by a covered social media platform from the feed
+22 of an account holder based on information about or any estimate of the
+23 age of an account holder, solely for the purpose of excluding content
+24 that is obscene to children sixteen (16) years of age or younger or that
+25 by policy of the covered social media platform is not suitable for pre-
+26 sentation to children of that age, shall not render such feed a profile-
+27 based feed.
+28 (12) "Profile-based paid commercial advertising" means paid commercial
+29 advertising that has been selected or prioritized for display to an account
+30 holder based in whole or in part on personal information of the account
+31 holder. Advertising selected for display to an account holder shall not
+32 be considered profile-based paid commercial advertising if the selection
+33 process considers information about or an estimate of the age of the account
+34 holder solely for the purpose of excluding advertisements that by law or pol-
+35 icy of the covered social media platform are not suitable for presentation
+36 to children of that age.
+37 (13) "Second trigger date" means, with respect to each account holder
+38 and each covered social media platform, the first date when the account
+39 holder has used the covered social media platform for fifty (50) cumulative
+40 hours within a six (6) month period, following the effective date of this
+41 chapter.
+42 (14)(a) "Social media platform" means an internet website or applica-
+43 tion that:
+44 (i) Is open to the public;
+45 (ii) Allows a user to create an account;
+46 (iii) Primarily functions to facilitate the viewing, sharing, or
+47 generation of content by users; and
+48 (iv) Utilizes addictive features, personal information to inform
+49 targeted advertising, or profile-based feeds.
+50 (b) "Social media platform" does not include:
+
+4
+1 (i) A broadband internet access service as defined by the federal
+2 communications commission; or
+3 (ii) An online service, website, or application where the exclu-
+4 sive function is to facilitate private communications, including
+5 email, video conferencing, and direct messaging.
+6 (15) "Verifiable parental consent" shall have the same meaning as es-
+7 tablished pursuant to 15 U.S.C. 6501(9) and the implementing regulations
+8 pursuant to 16 CFR 312.5, with the added requirement that the covered social
+9 media platform has retained documentation sufficient to reasonably estab-
+10 lish that it has obtained verifiable parental consent within the meanings of
+11 those provisions.
+12 48-2103. AGE ESTIMATION AND IDENTIFICATION OF CHILDREN.
+13 (1)(a) Within fourteen (14) days of the first trigger date, a covered
+14 social media platform shall use reasonable means and reasonable ef-
+15 forts, taking into consideration available technology and the data in
+16 the possession of the covered social media platform, to estimate the
+17 age of the account holder for purposes of this chapter. If the covered
+18 social media platform is able to conclude with eighty percent (80%) con-
+19 fidence or higher that the account holder is sixteen (16) years of age or
+20 older, the covered social media platform may treat the account holder to
+21 be other than a child for the purposes of this chapter. Otherwise, the
+22 covered social media platform shall treat the account holder as a child
+23 for the purposes of this chapter.
+24 (b) Within fourteen (14) days of the second trigger date, a covered so-
+25 cial media platform shall use reasonable means and reasonable efforts,
+26 taking into consideration available technology and the data in the pos-
+27 session of the covered social media platform, to revise its estimate of
+28 the age of the account holder for the purposes of this chapter. If the
+29 covered social media platform is able to conclude with ninety percent
+30 (90%) confidence or higher that the account holder is sixteen (16) years
+31 of age or older, the covered social media platform may treat the account
+32 holder to be other than a child for the purposes of this chapter. Other-
+33 wise, the covered social media platform shall treat the account holder
+34 as a child for the purposes of this chapter.
+35 (c) After the second trigger date, a covered social media platform
+36 shall update its estimate of the age of each account holder after every
+37 additional one hundred (100) hours spent by the account holder on the
+38 platform, or as often as the covered social media platform applies any
+39 form of data analytics or artificial intelligence to update its esti-
+40 mate of any other demographic characteristic of the account holder for
+41 any reason, whichever period is shorter.
+42 (2) A covered social media platform shall have no obligation under this
+43 chapter to estimate the age of an account holder, or to take any other action
+44 with respect to such an account, when the account holder has had an account
+45 with the covered social media platform continuously for at least seven (7)
+46 years.
+47 (3) Nothing in this section shall be construed to create any duty on the
+48 part of a covered social media platform to request, collect, or retain any
+49 information from or about any account holder. The age estimate required by
+
+5
+1 this section shall be derived based on information collected and retained by
+2 the covered social media platform in the ordinary course of operation of the
+3 social media platform.
+4 48-2104. LIMITATIONS AND REQUIREMENTS FOR SOCIAL MEDIA ACCOUNTS FOR
+5 CHILDREN.
+6 (1)(a) A covered social media platform shall require applicants for an
+7 account to provide the applicant's birth date as part of the account ap-
+8 plication process.
+9 (b) A covered social media platform shall not create or maintain an ac-
+10 count for a child or change the terms and conditions of an account for
+11 a child without first obtaining verifiable parental consent. Such con-
+12 sent must be sufficient for the formation of a binding contract with a
+13 minor under ordinary principles of contract law under the laws of this
+14 state. Information collected for the purpose of obtaining verifiable
+15 parental consent shall not be used for any purpose other than obtain-
+16 ing verifiable parental consent and shall be deleted immediately after
+17 an attempt to obtain verifiable parental consent, except to the extent
+18 necessary to comply with any other applicable state or federal law or
+19 regulation.
+20 (2)(a) An account for a child shall have all privacy settings set by de-
+21 fault at the most private levels. A covered social media platform may
+22 not change the privacy settings of an account for a child without first
+23 obtaining verifiable parental consent for such change for as long as the
+24 account holder remains a child.
+25 (b) In the course of obtaining verifiable parental consent for the es-
+26 tablishment or continuation of an account for a child, a covered social
+27 media platform shall prominently provide and explain an option for the
+28 parent to make such consent conditional on receipt of a separate pass-
+29 word that enables the parent to:
+30 (i) Monitor the amount of time the child spends using the covered
+31 social media platform;
+32 (ii) Set daily and weekly time limits on the use of the covered so-
+33 cial media platform; and
+34 (iii) Set limits on the times of day when the covered social media
+35 platform can be accessed by the child.
+36 (3) A covered social media platform shall not present addictive inter-
+37 face features in the display or feed of any child.
+38 (4) A covered social media platform shall not present profile-based
+39 paid commercial advertising in the display or feed of any child.
+40 (5) A covered social media platform has a continuing obligation to
+41 terminate an account if the covered social media platform concludes, or
+42 obtains information from which it reasonably should conclude, pursuant to
+43 its obligations under section 48-2103, Idaho Code, that the account holder
+44 is a child, unless verifiable parental consent has been obtained for such
+45 account.
+46 (6)(a) A covered social media platform shall terminate an account of a
+47 minor within seven (7) days after receipt of a request for termination
+48 from the account holder.
+
+6
+1 (b) A covered social media platform shall terminate the account of a mi-
+2 nor within fourteen (14) days after receipt of a request for termination
+3 from a parent of the minor. Upon receipt of such a request, the covered
+4 social media platform shall verify that the requesting party is a par-
+5 ent of the account holder by whatever means of verification the covered
+6 social media platform uses for purposes of ascertaining the validity of
+7 verifiable parental consent.
+8 (c) A covered social media platform shall provide clear, simple, and
+9 easy-to-locate means for the parent of any minor to request termination
+10 of such minor's account.
+11 (7)(a) If a covered social media platform determines that it must ter-
+12 minate an account because the account holder has been classified as a
+13 child and verifiable parental consent has not been obtained, the cov-
+14 ered social media platform shall notify the account holder of its intent
+15 to terminate the account within seven (7) days of making that determina-
+16 tion and shall provide the reason therefor.
+17 (b) A covered social media platform shall provide thirty (30) days from
+18 the date of such notice for the account holder to dispute the age classi-
+19 fication and complete an age verification process or to provide verifi-
+20 able parental consent.
+21 (c) If an account holder disputes classification as a child, the cov-
+22 ered social media platform may rely on any commercially reasonable age
+23 verification process to resolve the dispute. The covered social media
+24 platform shall make a reasonable determination of such dispute within
+25 thirty (30) days of the completion of such age verification.
+26 (d) After considering a dispute and the result of any age verification,
+27 if a covered social media platform determines that it is obligated to
+28 terminate an account, it shall terminate that account within seven (7)
+29 days of making such determination.
+30 48-2105. REMEDIES AND ENFORCEMENT. (1) If a covered social media plat-
+31 form permits a child to open or continue an account on such platform in the
+32 absence of verifiable parental consent, then any purported contract per-
+33 taining to such account is invalid and unenforceable as contrary to public
+34 policy, including but not limited to any arbitration provision, limitation
+35 of liability, or limitation of remedies, regardless of whether such covered
+36 social media platform had actual or constructive knowledge that the account
+37 holder was a child.
+38 (2)(a) A child or parent shall have a private right of action for
+39 declaratory or injunctive relief, damages, including harm to mental
+40 health and emotional distress, court costs and reasonable attorney's
+41 fees, and any other appropriate relief as a result of any negligent,
+42 reckless, or knowing violation of the provisions of this chapter.
+43 (b) Where a covered social media platform's violation was reckless or
+44 knowing, a child or parent who prevails on a claim based on any viola-
+45 tion of this chapter shall be entitled to recover actual damages estab-
+46 lished at trial or ten thousand dollars ($10,000) in statutory damages,
+47 whichever is greater.
+
+7
+1 (c) Where a covered social media platform's violation was part of a con-
+2 sistent pattern of reckless or knowing conduct, punitive damages may be
+3 awarded.
+4 (d) A covered social media platform shall not be liable for any viola-
+5 tion of this chapter if it has used reasonable means and reasonable ef-
+6 forts, taking into consideration available technology and the data in
+7 possession of the covered social media platform, to comply with the re-
+8 quirements of this chapter.
+9 (e) A civil action for damages for a violation of this chapter must be
+10 brought within three (3) years of the date the plaintiff knew, or rea-
+11 sonably should have known, of the alleged violation.
+12 (3)(a) Any knowing or reckless violation of this chapter shall be con-
+13 sidered a violation of section 48-603, Idaho Code.
+14 (b) If the attorney general has reasonable cause to believe that any
+15 covered social media platform has engaged in, is engaging in, or is
+16 about to engage in any knowing or reckless violation of this chapter,
+17 the attorney general may exercise all of the investigative, legal, and
+18 other authority provided pursuant to chapter 6, title 48, Idaho Code.
+19 48-2106. EXCLUSIONS -- WAIVER PROHIBITED. (1) Nothing in this chapter
+20 shall be construed to limit in any way what content parents may show to their
+21 children.
+22 (2) Nothing in this chapter shall be construed to limit in any way, be-
+23 yond limits imposed by other law, what results an online search engine may
+24 return in response to a query by a child.
+25 (3) A waiver or limitation of any prohibition, requirement, or right to
+26 remedies established by this chapter, by any minor or parent, is unlawful,
+27 contrary to public policy, void ab initio, and of no effect, and no court or
+28 arbitrator may enforce or give effect to any such waiver, notwithstanding
+29 any contract or choice-of-law provision in a contract.
+30 SECTION 2. SEVERABILITY. It is the intent of the Legislature that every
+31 provision, section, subsection, sentence, clause, phrase or word in this
+32 act, and every application of the provisions in this act, are severable from
+33 each other. If any application of any provision in this act to any person,
+34 group of persons, or circumstances is found by a court to be invalid or un-
+35 constitutional, the remaining applications of that provision to all other
+36 persons and circumstances shall be severed and may not be affected. All
+37 constitutionally valid applications of this act shall be severed from any
+38 applications that a court finds to be invalid, leaving the valid applica-
+39 tions in force, because it is the Legislature's intent and priority that
+40 the valid applications be allowed to stand alone. The Legislature further
+41 declares that it would have enacted this act, and each provision, section,
+42 subsection, sentence, clause, phrase, or word, and all constitutional ap-
+43 plications of this act irrespective of the fact that any provision, section,
+44 subsection, sentence, clause, phrase, or word, or applications of this act,
+45 were to be declared unconstitutional.
+46 SECTION 3. An emergency existing therefor, which emergency is hereby
+47 declared to exist, this act shall be in full force and effect on and after
+48 July 1, 2026.

@@ -1,0 +1,998 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE HOUSE OF REPRESENTATIVES
+HOUSE BILL NO. 945
+BY WAYS AND MEANS COMMITTEE
+1 AN ACT
+2 RELATING TO ARTIFICIAL INTELLIGENCE MEDICAL SERVICES; PROVIDING LEGISLA-
+3 TIVE FINDINGS AND INTENT; AMENDING TITLE 54, IDAHO CODE, BY THE ADDITION
+4 OF A NEW CHAPTER 60, TITLE 54, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO
+5 DEFINE TERMS, TO ESTABLISH THE BOARD OF AUTONOMOUS MEDICAL PRACTICE,
+6 TO PROVIDE FOR A LICENSURE FRAMEWORK, TO PROVIDE FOR TRANSPARENCY, TO
+7 PROVIDE FOR CLINICAL INTEGRITY, PATIENT LOYALTY, AND AUDITABILITY,
+8 TO PROVIDE FOR A REGULATORY SANDBOX AND ETHICAL OVERSIGHT, TO PROVIDE
+9 FOR SCOPE OF PRACTICE AUTHORITY AND A LIABILITY WAIVER, TO PROVIDE FOR
+10 ENFORCEMENT, TO PROVIDE FOR STATE FUNDING, TO PROVIDE FOR INSURANCE
+11 GUIDANCE, AND TO PROVIDE A RULE OF CONSTRUCTION; PROVIDING SEVERABIL-
+12 ITY; AND DECLARING AN EMERGENCY AND PROVIDING AN EFFECTIVE DATE.
+13 Be It Enacted by the Legislature of the State of Idaho:
+14 SECTION 1. LEGISLATIVE FINDINGS AND INTENT. (1) The Legislature finds
+15 that:
+16 (a) The patient-directed diagnostic, therapeutic, triaging, prescrib-
+17 ing, or other clinical application of artificial intelligence, when of-
+18 fered as a clinical AI service, may constitute the practice of medicine
+19 or other licensed clinical practice subject to state regulation.
+20 (b) Laboratory-developed tests and professional diagnostic services
+21 that are solely patient-specific professional services within this
+22 state, and not marketed or distributed as general purpose commercial
+23 products, are professional services subject to state regulation, dis-
+24 tinct from the commercial sale of medical devices regulated by the
+25 federal food, drug, and cosmetic act.
+26 (c) To address critical provider shortages and improve patient out-
+27 comes, the state must establish a clear, safe licensure pathway for
+28 autonomous and augmented clinical services delivered through software,
+29 systems, or devices while preserving state authority and avoiding con-
+30 flict with applicable federal law.
+31 (d) The regulation of autonomous clinical decision-making is demon-
+32 strably necessary to protect the life, health, and safety of the citi-
+33 zens of this state. The licensure requirements established in this act
+34 are narrowly tailored to regulate only the professional application
+35 of artificial intelligence in a clinical setting and do not restrict
+36 the general private ownership or nonclinical use of computational re-
+37 sources.
+38 (e) The purpose of professional licensure and regulation is to protect
+39 the public health, safety, and welfare. Nothing in this act is intended
+40 to preserve or advance the economic interests, market share, or profes-
+41 sional boundaries of any particular health care profession. This act
+42 shall be construed to promote patient access to safe and effective arti-
+43 ficial intelligence services and to encourage responsible innovation.
+
+2
+1 Any regulatory requirement adopted pursuant to this act that materially
+2 affects market entry or the availability of AI-enabled services shall
+3 be reasonably related to, and proportionate with, an identified risk to
+4 patient safety and shall not impose restrictions greater than necessary
+5 to address such risk.
+6 (f) Laboratory-developed tests and professional diagnostic services
+7 utilizing proprietary methodologies, when offered and performed solely
+8 as patient-specific professional services within this state and not
+9 marketed or distributed as general-purpose commercial products, con-
+10 stitute professional services subject to state regulation. Nothing in
+11 this act shall be construed to expand or limit the application of appli-
+12 cable federal law.
+13 (g) Nothing in this act expands or restricts the scope of practice of
+14 any human-licensed health care profession; rather, this act creates an
+15 independent licensure pathway for clinical AI services.
+16 (2) It is the intent of the Legislature through this act to create a
+17 new class of health care provider, the AI-augmented and autonomous service
+18 provider, capable of practicing medicine or other licensed clinical prac-
+19 tice under state licensure.
+20 SECTION 2. That Title 54, Idaho Code, be, and the same is hereby amended
+21 by the addition thereto of a NEW CHAPTER, to be known and designated as Chap-
+22 ter 60, Title 54, Idaho Code, and to read as follows:
+23 CHAPTER 60
+24 ARTIFICIAL INTELLIGENCE MEDICAL SERVICES
+25 54-6001. SHORT TITLE. This chapter shall be known and may be cited as
+26 the "AI Medical Services Act."
+27 54-6002. DEFINITIONS. For the purposes of this chapter:
+28 (1) "AAASP" or "artificial intelligence augmented and autonomous ser-
+29 vice provider" means a corporate or legal entity licensed by the board to op-
+30 erate clinical AI services that are subject to licensure pursuant to section
+31 54-6004, Idaho Code.
+32 (a) For the purposes of state law governing patient privacy, confiden-
+33 tiality, credentialing, reimbursement, and professional accountabil-
+34 ity as administered under this chapter, an AAASP is deemed a health care
+35 provider.
+36 (b) For the purposes of state-administered patient privacy, confiden-
+37 tiality, credentialing, and reimbursement laws, and for federal laws
+38 that expressly defer to state determinations of provider status, in-
+39 cluding the federal health insurance portability and accountability
+40 act (HIPAA), an AAASP is deemed a health care provider, without creating
+41 or implying recognition for purposes of medicare, medicaid, or other
+42 federal payment programs.
+43 (c) An AAASP shall be treated as a health care provider under all ap-
+44 plicable state privacy and confidentiality laws and shall comply with
+45 HIPAA to the extent it functions as a covered entity or business asso-
+46 ciate.
+
+3
+1 (2) "Adverse event" means an event of patient death, serious physical
+2 or psychological harm, or serious risk of harm reasonably associated with a
+3 clinical AI service, including inappropriate triage or failure to escalate
+4 care.
+5 (3) "AI" means artificial intelligence.
+6 (4) AI operational role categories:
+7 (a) "Advisory AI" means artificial intelligence that analyzes pa-
+8 tient-specific data to generate options, potential diagnoses, risk
+9 stratification, or therapeutic suggestions for a licensed health care
+10 provider or directly for a patient or user, where such output is in-
+11 tended to inform but not substitute for independent clinical judgment
+12 and where the provider or user is expected to review, contextualize,
+13 and determine whether and how to act regarding the suggestion for each
+14 patient encounter.
+15 (b) "Fully autonomous AI" means artificial intelligence authorized to
+16 independently diagnose, treat, triage, or prescribe without the neces-
+17 sity of human supervision or intervention for each distinct case.
+18 (c) "Informational AI" means artificial intelligence that provides ag-
+19 gregated data, literature, or administrative information to a user but
+20 does not suggest a specific clinical action, such as search retrieval,
+21 transcription, or back-office support.
+22 (d) "Supervised autonomous AI" means artificial intelligence autho-
+23 rized to generate and execute a clinical action, diagnosis, or treat-
+24 ment plan under the supervision of a licensed human provider who retains
+25 the ability to intervene.
+26 (5) "Board" means the board of autonomous medical practice.
+27 (6)(a) "Clinical AI service" means any software system, algorithmic
+28 model, or automated service that, whether independently or in combina-
+29 tion with human involvement, performs, supports, or materially influ-
+30 ences functions that constitute the practice of medicine or other li-
+31 censed clinical practice with respect to a specific patient, to the ex-
+32 tent otherwise permitted under applicable law.
+33 (b) "Clinical AI service" encompasses AI systems across a spectrum of
+34 functionality and autonomy, including information-providing, advi-
+35 sory, supervised autonomous, and autonomous systems, when such systems
+36 engage in patient-directed clinical functions as described in this sub-
+37 section. Such functions include but are not limited to:
+38 (i) Collecting, analyzing, interpreting, or synthesizing clini-
+39 cal data, biometric data, diagnostic data, laboratory data, imag-
+40 ing data, or patient-reported information for a specific patient;
+41 (ii) Generating or supporting clinical assessments, diagnostic
+42 conclusions, risk stratification, triage determinations, treat-
+43 ment plans, medication selection or dosing, or therapeutic initi-
+44 ation, modification, continuation, or discontinuation for a spe-
+45 cific patient;
+46 (iii) Recommending, supporting, or interpreting laboratory
+47 tests, diagnostic procedures, or monitoring parameters for a spe-
+48 cific patient;
+49 (iv) Monitoring patient status, detecting clinically meaning-
+50 ful changes, predicting clinical deterioration or improvement,
+
+4
+1 or supporting clinical intervention workflows for a specific pa-
+2 tient, whether in real time or asynchronously; and
+3 (v) Communicating clinical information, recommendations,
+4 alerts, or guidance intended to inform patient care or licensed
+5 clinician decision-making for a specific patient.
+6 (c) "Clinical AI service" may be deployed through any care delivery
+7 modality, including in-person clinical systems, or software-based
+8 agents. The mode of deployment does not alter whether a system consti-
+9 tutes a clinical AI service under this definition.
+10 (d) "Clinical AI service" does not include software or systems whose
+11 sole function is administrative, financial, scheduling, billing, in-
+12 ventory, claims processing, documentation assistance, generalized
+13 clinical education, population-level analytics, research, quality
+14 improvement, public health surveillance, or de-identified data pro-
+15 cessing, provided such systems do not materially influence clinical
+16 decision-making for a specific patient.
+17 (e) "Clinical AI service" also does not include purely informational
+18 systems that only transmit, store, display, or route data without per-
+19 forming clinical analysis, interpretation, or decision support, unless
+20 such systems materially influence patient-specific clinical functions
+21 described in paragraph (b) of this subsection. A system is considered
+22 deployed as a clinical AI service if it is marketed, represented, or
+23 reasonably used to independently perform patient-specific clinical
+24 decision-making or autonomous clinical action. A system is not consid-
+25 ered deployed as a clinical AI service when it merely provides advisory
+26 clinical decision support to a licensed human health care provider who
+27 retains independent authority for clinical decisions and execution.
+28 (7)(a) Clinical condition categories:
+29 (i) "Chronic condition" means a human disease, disorder, in-
+30 jury, or impairment that is persistent, recurrent, or reasonably
+31 expected to require ongoing or periodic clinical management,
+32 monitoring, or care to maintain function, prevent progression,
+33 mitigate symptoms, or reduce the risk of complications. Chronic
+34 conditions are primarily managed through longitudinal care rather
+35 than isolated emergency intervention and may experience episodic
+36 exacerbations requiring temporary escalation of care.
+37 (ii) "Critical condition" means a disease, illness, injury, or
+38 physiologic state in which one (1) or more vital organ systems is
+39 impaired, failing, or at substantial risk of failure, or in which
+40 the condition presents a high probability of death, permanent dis-
+41 ability, or serious irreversible harm without prompt and advanced
+42 clinical intervention. A critical condition is characterized by
+43 physiologic instability, high acuity, or the need for continuous
+44 monitoring, specialized resources, or intensive medical manage-
+45 ment to prevent catastrophic outcomes.
+46 (iii) "Noncritical condition" means a condition, illness, or in-
+47 jury, whether acute, subacute, stable chronic, or self-limiting,
+48 for which, based on reasonable clinical judgment and available
+49 clinical information, a delay in definitive diagnosis, initia-
+50 tion of treatment, or escalation of care would not reasonably be
+
+5
+1 expected to result in serious adverse health consequences, per-
+2 manent disability, or death. A noncritical condition does not
+3 present objective signs of physiologic instability, rapidly pro-
+4 gressive deterioration, or the need for immediate emergency or
+5 life-preserving intervention.
+6 (iv) "Preventive condition" means a medical condition where
+7 measures, services, or interventions are applied to reduce the
+8 likelihood of disease onset, progression, recurrence, or compli-
+9 cations, including wellness, fitness, primary, and risk-based
+10 preventive care, whether applied to healthy individuals or in-
+11 dividuals with identified risk factors or existing conditions,
+12 where the primary purpose is risk reduction or health maintenance
+13 rather than treatment of an active acute pathology and where the
+14 intervention is generally low-risk and consistent with accepted
+15 standards of care.
+16 (v) "Time-sensitive condition" means a medical condition or
+17 acute clinical presentation for which the effectiveness of di-
+18 agnosis, treatment, or intervention is materially dependent on
+19 timely initiation and for which a delay in care is reasonably ex-
+20 pected to result in rapid clinical deterioration, irreversible
+21 morbidity, or death. Time-sensitive conditions require acceler-
+22 ated recognition, triage, and escalation of care based on reason-
+23 able clinical judgment and available clinical information.
+24 (b) Clinical condition categorization under this chapter shall be
+25 based on the patient's presentation and the clinical information rea-
+26 sonably available at the time of the service, not on retrospective
+27 diagnosis. A licensee acting in reasonable reliance on available clin-
+28 ical information shall not be deemed in violation of the provisions of
+29 the chapter solely due to later reclassification of the condition.
+30 (8) "Designated responsible official" means a natural person desig-
+31 nated by an AAASP who is authorized to bind the AAASP for compliance and
+32 administrative matters under this chapter, to receive legal process and
+33 board notices, and to certify filings and reports required by the board. A
+34 designated responsible official is not, solely by designation, deemed to be
+35 practicing a licensed health care profession.
+36 (9) "Materially influence" means having a reasonable likelihood of be-
+37 ing relied on to make, modify, or forego a patient-specific clinical deci-
+38 sion or action.
+39 (10) "Medical director" means a physician licensed and in good stand-
+40 ing in this state who is designated by an AAASP to provide clinical oversight
+41 of the AAASP's clinical scope, safety protocols, escalation pathways, and
+42 quality assurance processes, as required by this chapter or board rule.
+43 (11) "Reportable event" means an adverse event, a material near miss,
+44 a material malfunction affecting clinical output, or a material data in-
+45 tegrity failure affecting patient-specific clinical decisions.
+46 (12) "Sandbox reciprocity state" means a jurisdiction recognized by the
+47 board as having a substantially similar regulatory sandbox for health tech-
+48 nology.
+
+6
+1 54-6003. BOARD OF AUTONOMOUS MEDICAL PRACTICE. (1) There is hereby
+2 established the board of autonomous medical practice in the division of oc-
+3 cupational and professional licenses. The board's jurisdiction extends to
+4 clinical AI services constituting the practice of medicine or other licensed
+5 clinical practice performing clinical AI services as defined in section
+6 54-6002, Idaho Code.
+7 (2) The board shall consist of eleven (11) voting members appointed by
+8 and serving at the pleasure of the governor. Members may be removed by the
+9 governor at any time, with or without cause. The board shall include:
+10 (a) One (1) licensed medical doctor or doctor of osteopathy;
+11 (b) One (1) registered nurse or advanced practice registered nurse;
+12 (c) One (1) licensed pharmacist;
+13 (d) One (1) licensed mental or behavioral health professional;
+14 (e) One (1) member representing hospitals, such as a hospital associa-
+15 tion employee or hospital chief executive officer;
+16 (f) One (1) health care ethicist with an advanced degree or significant
+17 professional experience in medical ethics or bioethics;
+18 (g) One (1) public member representing the interests and protections of
+19 consumers with respect to clinical AI services; and
+20 (h) Four (4) members at large with demonstrated expertise in any of the
+21 following fields: health technology, artificial intelligence, systems
+22 engineering, health care administration, patient safety, or regulatory
+23 affairs.
+24 (3)(a) The division administrator shall appoint an executive officer
+25 who shall serve as the chief administrative officer of the board and
+26 shall be responsible for the administration and operation of the board.
+27 The executive officer's compensation shall be funded through state
+28 appropriations. The executive officer shall be considered a nonclassi-
+29 fied employee, an executive employee, and an exempt employee.
+30 (b) The division administrator or executive officer may employ such
+31 other staff as necessary to carry out the duties of the board, includ-
+32 ing a board ethicist as required by section 54-6007(4), Idaho Code, who
+33 shall be a nonvoting member of the board.
+34 (c) Except as otherwise expressly reserved to the board by statute or
+35 rule, the division administrator or executive officer is authorized to
+36 take all actions reasonably necessary to carry out and enforce the laws
+37 and rules administered by the board, including but not limited to the
+38 authority to:
+39 (i) Employ, supervise, evaluate, and discipline staff and con-
+40 tractors;
+41 (ii) Enter into contracts, procure goods and services, and make
+42 expenditures within appropriated or authorized budgets;
+43 (iii) Establish internal organizational structure, operational
+44 procedures, and administrative systems;
+45 (iv) Receive, process, investigate, and resolve applications,
+46 registrations, filings, complaints, audits, and compliance mat-
+47 ters;
+48 (v) Conduct investigations, issue requests for information, and
+49 require the production of records as authorized by law;
+
+7
+1 (vi) Administer examinations, reviews, assessments, certifica-
+2 tions, or registrations authorized by law or rule; and
+3 (vii) Take any other administrative or operational actions neces-
+4 sary to efficiently carry out the purposes of this chapter.
+5 (4)(a) The board is authorized to adopt and charge reasonable fees for
+6 applications, provisional licenses, license renewals, and other admin-
+7 istrative services. Fees shall be set at a level sufficient to offset
+8 the administrative costs of the regulatory sandbox and licensure moni-
+9 toring.
+10 (b) The legislature may appropriate funds as necessary for the initial
+11 establishment and operation of the board. Any such appropriation shall
+12 be temporary and shall terminate once fee revenue generated under this
+13 section is sufficient to support the ongoing administrative costs of
+14 the board.
+15 (5) Members shall serve staggered four (4) year terms. The governor
+16 shall make appointments to promote regular turnover and avoid regulatory
+17 capture. No member may serve more than two (2) consecutive terms.
+18 (6) The board shall:
+19 (a) Monitor and have the right to grant, suspend, and revoke AAASP li-
+20 censes of all classes and types;
+21 (b) Establish and operate or contract for a state centralized institu-
+22 tional review board;
+23 (c) Authorize and develop frameworks for delegated agreements, collab-
+24 orative practice agreements, and supervision agreements, collectively
+25 referred to as clinical practice agreements in this chapter;
+26 (d) Conduct or contract for algorithmic safety and bias audits; and
+27 (e) Issue unique state provider identifiers for billing.
+28 (7) The board may adopt rules in accordance with the provisions of chap-
+29 ter 52, title 67, Idaho Code:
+30 (a) As necessary to administer, implement, and enforce the provisions
+31 of this chapter consistent with legislative intent and the authority
+32 expressly granted to the board, including rules governing licensure
+33 standards, application procedures, renewal requirements, recordkeep-
+34 ing, reporting, inspections, audits, and compliance oversight;
+35 (b) To establish minimum standards of professional conduct, oper-
+36 ational compliance, and public protection applicable to licensees,
+37 within the scope and purposes of this chapter; and
+38 (c) To prescribe fees, forms, and administrative processes necessary
+39 to carry out the duties of the board.
+40 (8)(a) The board shall meet at least quarterly and at such additional
+41 times as may be necessary to carry out the duties of the board.
+42 (b) A meeting of the board may be called by the chair, the executive of-
+43 ficer, or upon written request of a majority of the board members.
+44 (c) The board shall annually elect from among its members a chair and
+45 vice chair, who shall serve one (1) year terms in such positions and may
+46 be reelected.
+47 (d) A majority of the voting members of the board shall constitute a
+48 quorum for the transaction of business. An affirmative vote of a ma-
+49 jority of the members present at a meeting at which a quorum is present
+
+8
+1 shall be required for official action of the board, unless otherwise
+2 provided by law.
+3 (e) All meetings of the board shall be open to the public and conducted
+4 in compliance with the state open meetings law and public records act.
+5 The board may enter executive session only as authorized by law.
+6 (f) The board shall permit public participation in meetings by telecon-
+7 ference or other electronic means, provided that public access and quo-
+8 rum requirements are satisfied.
+9 (g) No rule that materially restricts AAASP scope of practice or im-
+10 poses a new material barrier to market entry shall be adopted without:
+11 (i) At least a two-thirds (2/3) affirmative vote of the board; and
+12 (ii) Written findings that the restriction is supported by sub-
+13 stantial evidence of a patient-safety risk and is the least re-
+14 strictive means to address such risk.
+15 (9) As the specific licensing authority for AAASPs, the board:
+16 (a) May receive complaints, conduct investigations, require the pro-
+17 duction of records reasonably related to compliance with this chapter,
+18 and conduct audits and inspections as authorized by law and rule;
+19 (b) May issue administrative subpoenas for testimony and documents in
+20 furtherance of an investigation or contested case;
+21 (c) May impose discipline, including reprimand, probation, restricted
+22 licensure, suspension, revocation, and administrative fines, if an
+23 AAASP fails to meet the applicable standard of care or violates this
+24 chapter or board rules; and
+25 (d) Must conduct any denial, discipline, or adverse licensure action
+26 as a contested case subject to the judicial review provisions of chapter
+27 52, title 67, Idaho Code.
+28 54-6004. LICENSURE FRAMEWORK. (1) The following AI operational cate-
+29 gories are exempt from licensure under this chapter, provided they do not ex-
+30 ceed the scope set forth in this section:
+31 (a) All informational AI systems, regardless of the clinical condition
+32 they are applied to;
+33 (b) Advisory AI as applied to preventive, chronic, or noncritical con-
+34 ditions; and
+35 (c) Supervised autonomous AI applied strictly to preventive conditions
+36 and not issuing patient-specific clinical orders as part of a licensed
+37 professional service rendered within this state, including but not lim-
+38 ited to medication orders, laboratory orders, or device orders.
+39 (2) The board shall issue AAASP licenses with a base class and an auton-
+40 omy modifier, as provided in this subsection.
+41 (a) Base classes:
+42 (i) Class A, state clinical service, is for clinical AI ser-
+43 vices delivered as patient-specific professional services and
+44 regulated by the state pursuant to its authority over the prac-
+45 tice of medicine or other licensed clinical practice, including
+46 but not limited to services operating in a manner analogous to
+47 laboratory-developed tests or other proprietary algorithmic di-
+48 agnostic, triaging, or therapeutic services, that do not rely on
+
+9
+1 food and drug administration clearance or approval as the basis
+2 for their lawful clinical use.
+3 (ii) Class B, federal device reciprocity service, is for clinical
+4 AI services that have achieved food and drug administration clear-
+5 ance, authorization, or approval as software as a medical device
+6 and for which such federal authorization serves as the primary ba-
+7 sis for the system's lawful clinical use.
+8 (iii) Class C, therapeutic and support service, is for clinical AI
+9 services providing nondiagnostic therapy, coaching, or monitor-
+10 ing. Class C services do not independently establish a diagnosis
+11 but operate on the basis of an existing diagnosis, referral, or pa-
+12 tient-identified condition.
+13 (b) Autonomy modifiers:
+14 (i) Modifier L0, voluntary or exempt, is for AI systems otherwise
+15 exempt from licensure under subsection (1) of this section that
+16 voluntarily elect to obtain licensure.
+17 (ii) Modifier L1, advisory-critical, is for advisory AI address-
+18 ing critical or time-sensitive conditions.
+19 (iii) Modifier L2, supervised, is for supervised autonomous AI re-
+20 quiring human oversight or clinical practice agreements.
+21 (iv) Modifier L3, autonomous, is for fully autonomous AI autho-
+22 rized for independent operation.
+23 (3)(a) In order to protect clinical decision support from liability,
+24 an advisory AI system shall not require licensure under this chapter,
+25 including under modifier L1, when the system:
+26 (i) Does not independently initiate, execute, modify, or discon-
+27 tinue a clinical action, order, diagnosis, or treatment; and
+28 (ii) Is not intended, represented, or reasonably relied on as a
+29 substitute for independent professional clinical judgment in the
+30 management of a critical or time-sensitive condition.
+31 (b) Nothing in this subsection exempts any system that otherwise meets
+32 the definition of supervised autonomous AI or fully autonomous AI.
+33 (4) An AAASP license is required for any entity operating clinical AI
+34 services that fall within the following categories:
+35 (a) Critical advisory AI: Advisory AI tools applied to critical and
+36 time-sensitive conditions that are intended, represented, or reason-
+37 ably relied on to guide clinical action in a manner that substitutes
+38 for, rather than merely informs, independent clinical judgment and that
+39 does not satisfy the clinical decision support liability protections
+40 set forth in subsection (3) of this section.
+41 (b) Clinical supervised AI: Supervised autonomous AI applied to
+42 chronic, noncritical, critical, or time-sensitive conditions, or
+43 preventive conditions but only where the service includes patient-spe-
+44 cific clinical orders, including but not limited to medication orders,
+45 laboratory orders, or device orders as part of a licensed professional
+46 service rendered within this state.
+47 (c) Fully autonomous AI: All fully autonomous AI systems, regardless of
+48 the condition category they are applied to.
+49 (5) Licenses granted pursuant to this chapter may be:
+
+10
+1 (a) A provisional, or sandbox, AAASP license, which shall be the ini-
+2 tial license issued to all new applicants, that restricts the licensee
+3 to operating within the regulatory sandbox subject to the oversight,
+4 geographic limitations, and data-reporting requirements of section
+5 54-6007, Idaho Code; or
+6 (b) A full, or unrestricted, AAASP license, which shall be the standard
+7 license permitting statewide practice, issued upon successful comple-
+8 tion from the sandbox.
+9 (6) Licensed human providers utilizing exempt AI tools within their
+10 standard scope of practice are not required to obtain an AAASP license.
+11 However, an exempt AI entity may voluntarily apply for AAASP licensure des-
+12 ignated as "modifier L0" to obtain standalone reimbursement or enter into
+13 clinical practice agreements.
+14 (7) A licensee may obtain license reciprocity by sandbox reciprocity,
+15 federal reciprocity, or licensure by recognition in substantially similar
+16 jurisdictions, as provided in this subsection.
+17 (a) A licensee in good standing in a sandbox reciprocity state, and not
+18 the subject of any active or pending disciplinary action, shall be eli-
+19 gible for licensure by recognition in the Idaho state sandbox upon sub-
+20 mission of a completed application.
+21 (b) An entity holding a valid federal clearance for the specific use
+22 case applied for shall be automatically eligible for class B licensure.
+23 The board may impose state conditions of licensure under this chapter,
+24 including transparency, reporting, auditing, pilot-zone, and sandbox
+25 requirements, to the extent not inconsistent with federal law, provided
+26 that they align with benchmarks, post-market monitoring plans, and re-
+27 lated guidelines already applicable to that provider to the maximum ex-
+28 tent practicable.
+29 (c)(i) The board shall grant an AAASP license to an applicant
+30 holding a current, unrestricted authorization to provide substan-
+31 tially similar clinical AI services in another state, unless the
+32 board determines that:
+33 1. The originating jurisdiction's regulatory framework is
+34 materially less protective of patient safety than this chap-
+35 ter;
+36 2. The applicant is not in good standing or is the subject of
+37 pending disciplinary action; or
+38 3. The scope of practice or autonomy level requested in this
+39 state exceeds that authorized in the originating jurisdic-
+40 tion.
+41 (ii) Licensure granted under this paragraph shall not require
+42 satisfaction of initial licensure requirements, except as neces-
+43 sary to verify good standing, scope equivalence, and compliance
+44 with reporting and transparency obligations under this chapter.
+45 (d) The board may require the applicant to submit documentation neces-
+46 sary to assess substantial similarity and may impose reasonable condi-
+47 tions or limitations to ensure patient safety and compliance with this
+48 chapter.
+49 (e) A licensee may petition to upgrade from a lower modifier to a higher
+50 modifier, such as from L2 to L3, upon submitting safety data from the
+
+11
+1 sandbox demonstrating performance equivalent to or exceeding human
+2 benchmarks, to the extent such escalation is not inconsistent with fed-
+3 eral law.
+4 (8)(a) A modifier L2 AAASP and modifier L3 AAASP may issue patient-spe-
+5 cific clinical orders as part of a licensed professional service
+6 rendered within this state, including but not limited to medication or-
+7 ders, laboratory orders, or device orders, provided that such authority
+8 does not authorize the interstate marketing, distribution, or commer-
+9 cial sale of a medical device in violation of federal law.
+10 (b) A modifier L2 AAASP and modifier L3 AAASP may issue medication or-
+11 ders for prescription drugs other than controlled substances within its
+12 approved scope. Dispensing and drug administration of controlled sub-
+13 stances shall occur only through persons or entities authorized under
+14 state law to dispense or administer medications.
+15 (9)(a) Within thirty (30) days of receiving an initial application for
+16 licensure, the board shall determine whether the application is com-
+17 plete and notify the applicant in writing.
+18 (i) If the application is incomplete, the board must specify ex-
+19 actly what information is missing.
+20 (ii) If the board fails to notify the applicant of a deficiency
+21 within the thirty (30) day period, the application shall be deemed
+22 complete for the purposes of this chapter. If an application is
+23 deemed complete by operation of law due to board inaction, the
+24 board may not subsequently deny the application based solely on
+25 the absence of a document or information that it failed to request
+26 within the thirty (30) day review period, provided the applicant
+27 submits such missing information within ten (10) days of a written
+28 request.
+29 (b) Except as provided in paragraph (c) of this subsection, the board
+30 shall grant or deny a license within ninety (90) days after the applica-
+31 tion is deemed complete.
+32 (c) If the board ethicist determines, pursuant to section 54-6007(4),
+33 Idaho Code, that an applicant's proposed data collection constitutes
+34 "human subjects research" requiring full review by the state central-
+35 ized institutional review board or an external institutional review
+36 board, the board may extend the review period by one (1) additional
+37 thirty (30) day increment. The board must notify the applicant of this
+38 extension in writing prior to the expiration of the initial ninety (90)
+39 day period.
+40 (d) If the board fails to issue a final determination within the appli-
+41 cable time period set forth in paragraph (b) or (c) of this subsection,
+42 a provisional license shall be immediately and automatically issued to
+43 the applicant, upon submission by the applicant, through its designated
+44 responsible official, of a sworn attestation under penalty of per-
+45 jury that the applicant has satisfied all minimum insurance, bonding,
+46 safety, reporting, and compliance requirements required for provi-
+47 sional licensure under this chapter. The provisional license shall
+48 be valid for ninety (90) days or until the board issues a final order,
+49 whichever occurs first.
+
+12
+1 54-6005. CONSUMER TRANSPARENCY AND DISCLOSURE. (1) Patients have the
+2 right to know the nature of the health care provider delivering clinical ser-
+3 vices.
+4 (2) Prior to or at the time of service, an AAASP operating under modi-
+5 fier L2 shall disclose to the patient: "An artificial intelligence system
+6 was used to generate and execute a clinical action, diagnosis, or treatment
+7 plan under the supervision of a licensed human provider who retains the abil-
+8 ity to intervene. You have the right to request a human review of the de-
+9 cision, which may incur additional costs or time." This disclosure require-
+10 ment does not apply to advisory AI tools that provide recommendations, risk
+11 scores, alerts, or guidance to a licensed human health care provider who in-
+12 dependently determines whether and how to act.
+13 (3) Prior to delivering services, an AAASP operating under modifier L3
+14 shall obtain affirmative patient acknowledgment of the following disclo-
+15 sure: "You are receiving care from an autonomous AI provider licensed by
+16 the State. This provider is an artificial intelligence system and does not
+17 include routine human clinical oversight. You may seek additional or alter-
+18 native care from a licensed human health care provider of your choice at any
+19 time."
+20 (4) In addition to the requirement set forth under subsection (3) of
+21 this section, a modifier L3 AAASP operating under a provisional license
+22 shall disclose to the patient: "This provider is operating under a provi-
+23 sional State license as part of a regulatory sandbox evaluating safety and
+24 effectiveness. By consenting to this service, you acknowledge that liabil-
+25 ity for noneconomic damages may be limited under State law as provided in the
+26 AI Medical Services Act."
+27 54-6006. CLINICAL INTEGRITY, PATIENT LOYALTY, AND AUDITABILITY.
+28 (1)(a) An AAASP holding a modifier L2 or L3 license shall be bound by a
+29 professional duty of loyalty to the patient. The AAASP must act solely
+30 in the best clinical interest of the patient.
+31 (b) The professional duty of loyalty includes a mandate for economic
+32 stewardship of the patient's resources. Stewardship requires the
+33 AAASP to prioritize the patient's overall welfare, which includes the
+34 optimization of clinical outcomes, financial efficiency, care coor-
+35 dination, and patient convenience. An AAASP violates this duty if its
+36 clinical logic is configured to prioritize the financial interests of
+37 the AAASP or its affiliates over a substantially similar and clinically
+38 appropriate alternative that offers superior value, coordination, or
+39 efficiency to the patient.
+40 (2)(a) The interface through which a clinical AI service interacts with
+41 a patient is deemed a clinical space.
+42 (b) It shall be unlawful for an AAASP to display, verbally articulate,
+43 or otherwise present paid commercial content, advertisements, spon-
+44 sored results, or third-party marketing messages within the context of
+45 a clinical encounter, diagnosis, or treatment plan.
+46 (c) An AAASP shall not use conversational prompts or nudges designed to
+47 persuade a patient to request a specific medication or optional commer-
+48 cial service for the sole purpose of financial gain.
+
+13
+1 (3)(a) An AAASP shall not utilize weights, biases, or prompt engi-
+2 neering to prefer an affiliated pharmacy, specialist, or manufacturer
+3 unless such preference is based on objectively verifiable clinical,
+4 economic, or coordination advantages for the patient, including but not
+5 limited to lower out-of-pocket costs, faster time-to-treatment initi-
+6 ation, superior validated outcomes, or enhanced convenience through
+7 vertical integration.
+8 (b) If an algorithm results in a recommendation for an affiliated en-
+9 tity, the AAASP satisfies its duty of loyalty, even if a human doctor
+10 might have reasonably chosen an alternative recommendation, provided
+11 it:
+12 (i) Discloses the financial affiliation in a clear and conspicu-
+13 ous manner at the point of recommendation; and
+14 (ii) Presents the patient with a choice of at least two (2) nonaf-
+15 filiated alternatives of similar clinical quality, where reason-
+16 ably available, presented with equal visual prominence in the in-
+17 terface.
+18 (4)(a) Every AAASP shall maintain an immutable clinical logic snapshot
+19 for every version of its algorithm deployed in production, including
+20 the underlying weights, decision logic, and prompt-engineering in-
+21 structions.
+22 (b) AAASPs shall retain these snapshots for a period of two (2) years to
+23 allow for retrospective replay of the logic used in any specific patient
+24 encounter during a board audit.
+25 (c) Once an AAASP receives formal notice of an investigation, it is pro-
+26 hibited from altering or deleting any snapshots related to the investi-
+27 gation period.
+28 (5)(a) The board is authorized to perform statistical audits of an
+29 AAASP's referral and prescription patterns.
+30 (b) A finding that an AAASP recommends an affiliate at a rate signifi-
+31 cantly higher than the regional average, or other appropriate clinical
+32 or economic benchmarks as determined by the board, shall create a rebut-
+33 table presumption of unlawful steering.
+34 (c) An AAASP may rebut this presumption by demonstrating through its
+35 clinical logic snapshots that the preference was driven by objective
+36 data, such as a showing that the affiliate provided superior care coor-
+37 dination or convenience or the lowest-cost option for the patient.
+38 54-6007. REGULATORY SANDBOX AND ETHICAL OVERSIGHT.
+39 (1)(a) All initial licenses shall be provisional for a period of up to
+40 two (2) years.
+41 (b) Upon completion of the two (2) year period, the provisional license
+42 shall convert to a full AAASP license upon an affirmative determination
+43 by the board that published safety benchmarks have been met, unless the
+44 board and the licensee mutually agree to extend the provisional period
+45 to collect further data. An extension of provisional licensure under
+46 this subsection is temporary in nature and shall not be construed as a
+47 substitute for, or equivalent to, issuance of a restricted full license
+48 under subsection (2) of this section or as a determination that the ap-
+49 plicable criteria for permanent licensure have been satisfied.
+
+14
+1 (c) The licensee may request expedited approval for full AAASP licen-
+2 sure through an application for expedited approval of full licensure.
+3 The board may approve full licensure upon determining that the pro-
+4 visional licensee has clearly demonstrated that it meets or exceeds
+5 safety and performance benchmarks.
+6 (2)(a) The board may impose restrictions on the scope of an AAASP's op-
+7 erations during the provisional or sandbox period, or as a condition of
+8 a restricted full license, in order to ensure safe, controlled, and evi-
+9 dence-based deployment.
+10 (b) During the provisional or sandbox period, such restrictions may
+11 be used to facilitate phased deployment, data collection, and valida-
+12 tion of safety and effectiveness. Upon issuance of a restricted full
+13 license, such restrictions may be maintained, modified, or removed to
+14 reflect the scope within which the AAASP has demonstrated sustained
+15 safety, effectiveness, and compliance.
+16 (c) Permissible restrictions applicable to either provisional autho-
+17 rization or a restricted full license include but are not limited to the
+18 following:
+19 (i) Geographic limitations, including restriction to designated
+20 health professional shortage areas or specific medically under-
+21 served counties;
+22 (ii) Patient volume caps, such as a maximum number of active pa-
+23 tients;
+24 (iii) Scope limitations, including restriction of a clinical AI
+25 service to specified disease states, conditions, or clinical
+26 functions; and
+27 (iv) Phased supervised deployment, including requirements for
+28 physician review or confirmation of a defined number of patient
+29 interactions, diagnoses, or treatment recommendations prior to
+30 modification or removal of human-in-the-loop requirements.
+31 (3) Notwithstanding any geographic, volume, or site-specific restric-
+32 tions imposed under subsection (2) of this section on any provisional or full
+33 AAASP licensee, the licensee shall be authorized to provide services to any
+34 patient in the state who provides informed consent and meets at least one (1)
+35 of the following high-need criteria, as demonstrated by a referral or attes-
+36 tation from a licensed physician:
+37 (a) The patient resides in a federal health professional shortage area;
+38 (b) The patient has been diagnosed with a severe or life-threatening
+39 condition or multiple chronic conditions;
+40 (c) The patient has a condition from which death is likely to occur
+41 within six (6) months;
+42 (d) The patient has a condition or disability that causes irreversible
+43 morbidity or likely substantial reduction in daily function;
+44 (e) The patient has been determined by a licensed health care provider
+45 to be at high risk for a specific condition, disease, or diagnosis that
+46 the AAASP is designed to detect, diagnose, or treat; or
+47 (f) The patient is unable to obtain access to an appropriate human clin-
+48 ician within a time frame reasonably related to the patient's condition
+49 category.
+
+15
+1 (4) The board shall establish ethical review procedures and human sub-
+2 jects protections.
+3 (a) As part of the application process, every sandbox applicant must
+4 submit a determination to the board ethicist declaring whether the
+5 applicant's proposed data collection constitutes "human subjects re-
+6 search" under 45 CFR 46 or is exempt or a quality improvement.
+7 (b) The board ethicist or the health care ethicist voting member shall
+8 review and sign off on the determination.
+9 (c) If the activity is determined to be human subjects research, or if
+10 the applicant elects to treat it as such to support future federal ap-
+11 plications, the applicant must obtain institutional review board ap-
+12 proval prior to commencing data collection.
+13 (d) The board shall establish a state centralized institutional review
+14 board to provide expedited, low-cost ethical review for sandbox par-
+15 ticipants. Applicants may elect to use this state centralized institu-
+16 tional review board or an academic or hospital-based or other external
+17 accredited institutional review board, or a network of external insti-
+18 tutional review boards, to maximize availability.
+19 (e) The state centralized institutional review board shall complete
+20 its review and issue a determination within thirty (30) days of re-
+21 ceiving a complete protocol submission to ensure compliance with the
+22 licensure timelines established in section 54-6004(9), Idaho Code.
+23 (f) Nothing in this section alters or waives any obligation under 45 CFR
+24 46 or applicable food and drug administration human subject regulations
+25 when such obligations apply by virtue of federal funding, federal pro-
+26 gram participation, or other federal jurisdiction.
+27 (5) The board shall ensure financial accountability and patient
+28 safety.
+29 (a) All AAASP applicants must submit proof of professional liability
+30 insurance coverage commensurate with human specialists in the same
+31 field or as determined by the board.
+32 (b) All AAASP applicants shall submit to state and federal criminal
+33 background checks, in a form and manner prescribed by the board, if the
+34 applicant is:
+35 (i) Any individual with direct or indirect ownership of ten per-
+36 cent (10%) or more of the AAASP;
+37 (ii) The designated responsible official;
+38 (iii) The medical director;
+39 (iv) Any natural person who provides unsupervised direct patient
+40 care or who is authorized to independently initiate, modify, or
+41 execute patient-specific clinical actions on behalf of the AAASP;
+42 or
+43 (v) Any other category of personnel that the board determines by
+44 rule demonstrates risk to patient safety, data security, or pro-
+45 gram integrity.
+46 (c) All AAASP applicants must submit a surety bond payable to the state
+47 consumer protection fund established in section 48-606, Idaho Code, in
+48 an amount determined by the board, but no less than fifty thousand dol-
+49 lars ($50,000), to cover claims or operational failures not covered by
+50 insurance.
+
+16
+1 (d) Each AAASP applicant and licensee shall maintain on file with the
+2 board a current designated responsible official and contact informa-
+3 tion. Failure to maintain a current designation is grounds for admin-
+4 istrative action.
+5 (e) Each AAASP applying for or holding a modifier L2 or modifier L3 li-
+6 cense shall designate a medical director. The medical director shall
+7 be responsible for oversight of clinical scope, safety protocols, es-
+8 calation procedures, and quality assurance related to patient care.
+9 The designated responsible official and the medical director may be the
+10 same individual or different individuals, at the election of the AAASP.
+11 (6)(a) As a condition of licensure, every AAASP applicant must submit
+12 and maintain a wind-down and continuity plan approved by the board.
+13 Such plan must detail procedures for the AAASP's insolvency, license
+14 revocation, or market exit.
+15 (b) The plan must designate a successor data custodian such as a health
+16 information exchange or state repository. In a triggering event, the
+17 AAASP shall transfer all patient data to the successor data custodian in
+18 an interoperable format within seventy-two (72) hours.
+19 (c) The AAASP must maintain a data transfer escrow or bond sufficient to
+20 cover the technical costs of data migration.
+21 (d) The AAASP must carry tail coverage on its liability policy for a pe-
+22 riod equal to the state statute of limitations for malpractice plus one
+23 (1) year.
+24 (e) The board is authorized to seize the surety bond to execute the
+25 wind-down and continuity plan if the AAASP fails to initiate it volun-
+26 tarily.
+27 (7)(a) The board shall establish and publish objective safety and per-
+28 formance benchmarks that an AAASP must meet or exceed to qualify for
+29 modifier L3 licensure or to graduate from the regulatory sandbox.
+30 (b) Such benchmarks shall be designed to ensure that the AAASP demon-
+31 strates clinical competency, accuracy, and safety outcomes that meet
+32 or exceed the performance of a reasonably prudent human health care
+33 provider practicing in the same or similar specialty.
+34 (c) Benchmarks may include clinically validated testing, subgroup per-
+35 formance evaluation, calibration, false positive and false negative
+36 rates appropriate to the intended use, and real-world outcome measures.
+37 The board may recognize external evaluation frameworks by guidance and
+38 should align with federal benchmarks and monitoring methods for similar
+39 services and tools when possible.
+40 (d) To maintain licensure, an AAASP must submit annual performance
+41 reports demonstrating that the model continues to meet the safety
+42 benchmarks established at licensure. The board may suspend a license
+43 if data indicates model drift or a degradation in safety outcomes.
+44 Licensees shall report adverse and reportable events as defined in sec-
+45 tion 54-6002, Idaho Code.
+46 (e) To minimize duplication and administrative burden to licensees,
+47 the board shall, to the maximum extent practicable, align state bench-
+48 marks and post-market surveillance and monitoring plans with:
+49 (i) Federal benchmarks and post-market surveillance plans estab-
+50 lished for class B AAASP licensees; and
+
+17
+1 (ii) Other state sandbox or state licensing board benchmarks for
+2 AAASP licensees who are sandbox participants in another state or
+3 who hold a similar license in another state.
+4 54-6008. SCOPE OF PRACTICE -- WAIVER -- STANDARD OF CARE. (1) A clini-
+5 cal AI service or act is within the authorized scope of practice of a licensed
+6 AAASP if:
+7 (a) The act is consistent with and not expressly prohibited by this
+8 chapter or the limitations of the specific license class and modifier
+9 held by the AAASP;
+10 (b) The act is consistent with the AI model's validated technical spec-
+11 ifications, training data, intended use case, and performance parame-
+12 ters as submitted to the board; and
+13 (c) The performance of the act is within the accepted standard of care
+14 under Idaho law for the specific clinical task that would be provided in
+15 the same or similar clinical setting by a reasonable and prudent human
+16 health care provider with the same or similar specialization.
+17 (2) The board shall ensure that any administrative rules adopted under
+18 this chapter do not conflict with the universal practice authority granted
+19 by this section, ensuring that regulation focuses on clinical outcomes and
+20 safety rather than prescriptive technical methodologies.
+21 (3) Any prohibition on the corporate practice of medicine or any other
+22 licensed clinical practice is waived solely to the extent necessary to per-
+23 mit an AAASP to hold an AAASP license and to bill for clinical AI services au-
+24 thorized under this chapter. Nothing in this subsection authorizes a person
+25 or entity to control the independent professional judgment of a licensed hu-
+26 man health care provider, nor does it alter corporate practice restrictions
+27 applicable to human clinical services.
+28 (4) A provider-patient relationship exists when a licensed AAASP de-
+29 livers a clinical AI service to a specific patient and the patient reasonably
+30 relies on that service for health care decision-making, and such relation-
+31 ship shall give rise to professional duty, standard of care, confidential-
+32 ity, and civil liability under state law.
+33 (5) For AAASP sandbox participants in substantial compliance with this
+34 chapter and the informed consent requirements of section 54-6005, Idaho
+35 Code, noneconomic damages shall be governed by the limitations set forth
+36 in section 6-1603, Idaho Code. Nothing in this subsection limits economic
+37 damages, injunctive relief, or board disciplinary authority.
+38 (6) Nothing in this chapter authorizes any natural person to engage in
+39 conduct outside the scope of that person's professional license, if any. Au-
+40 thority granted to an AAASP does not confer practice authority on any unli-
+41 censed individual involved in development, deployment, operations, or sup-
+42 port of a clinical AI service.
+43 (7)(a) The board shall have exclusive authority to regulate, license,
+44 investigate, and discipline AAASPs and the delivery of clinical AI ser-
+45 vices authorized under this chapter.
+46 (b) No other state licensing board shall impose licensure require-
+47 ments, supervision requirements, disciplinary action, or rules of
+48 professional conduct that have the purpose or effect of restricting,
+49 prohibiting, or conditioning the lawful use of, reliance on, or partic-
+
+18
+1 ipation in services provided by a licensed AAASP acting within the scope
+2 of this chapter.
+3 (c) Nothing in this subsection limits the authority of any state li-
+4 censing board to regulate the independent professional conduct of natu-
+5 ral persons within that board's jurisdiction. If, in the course of an
+6 investigation, the board identifies evidence of potential misconduct
+7 by a licensed human practitioner that is independent of and not solely
+8 attributable to lawful AAASP operation, the board may refer such matter
+9 to the appropriate licensing board for review.
+10 (8) Designation as a medical director does not, by itself, constitute
+11 the practice of medicine with respect to individual patient encounters con-
+12 ducted by an AAASP and does not create professional liability for the outputs
+13 of an AAASP acting within the scope of this chapter.
+14 54-6009. UNLAWFUL PRACTICE -- TITLE PROTECTION -- ENFORCEMENT. (1) A
+15 person or entity shall not offer, operate, market, or deploy a clinical AI
+16 service requiring licensure under section 54-6004, Idaho Code, without a
+17 valid AAASP license issued under this chapter.
+18 (2) A person or entity shall not falsely represent that it holds an
+19 AAASP license, license class, or autonomy modifier, or use any words, let-
+20 ters, or symbols that reasonably imply such licensure.
+21 (3) A person or entity shall not knowingly aid, abet, or facilitate the
+22 unlicensed practice prohibited by this section.
+23 (4) The board may issue cease and desist orders and may request the at-
+24 torney general to bring an action for injunctive relief to enforce the provi-
+25 sions of this chapter.
+26 (5) The board may impose an administrative fine not to exceed ten thou-
+27 sand dollars ($10,000) for each count or offense, in addition to any other
+28 remedy authorized by law.
+29 54-6010. FINANCE -- REIMBURSEMENT. (1) The department of health and
+30 welfare and the state employee health plan shall collaborate with the board
+31 to develop reimbursement codes, pilot programs, or coverage determinations
+32 for licensed AAASP sandbox participants. The department of health and wel-
+33 fare and the department of administration's office of group insurance may
+34 issue any rules as may be necessary to carry out the duties of this section.
+35 (2)(a) The board shall issue a unique state provider identifier to ev-
+36 ery licensed AAASP for use in claiming reimbursement from state payer
+37 programs whenever a federal national provider identifier is unavail-
+38 able or technically inapplicable.
+39 (b) Reimbursement for claims submitted under a state provider identi-
+40 fier by a provider without a corresponding federal national provider
+41 identifier or centers for medicare and medicaid services recogni-
+42 tion shall be funded exclusively through state general funds or other
+43 sources of nonfederal funds unless the requirements of paragraph (c) of
+44 this subsection are met.
+45 (c) No claims for AAASP services shall be submitted for federal medi-
+46 cal assistance percentage matching funds unless and until the centers
+47 for medicare and medicaid services issues written guidance confirming
+48 eligibility or otherwise makes clear through guidance or establishment
+
+19
+1 of billing protocols that such federal matching funds are available for
+2 these services.
+3 (3) To maximize the full potential value of AI-based clinical services,
+4 reimbursement models for AAASP services should prioritize value-based care,
+5 capitation models, bundled payments, or other alternative payment method-
+6 ologies over fee-for-service, where practical.
+7 54-6011. INSURANCE REIMBURSEMENT AND REGULATORY GUIDANCE. (1) No
+8 later than July 1, 2027, the department of insurance shall issue formal guid-
+9 ance, bulletins, or rules as may be necessary to clarify the application of
+10 the Idaho insurance code to AAASPs licensed under this chapter.
+11 (2) Such guidance or rules may:
+12 (a) Establish that an AAASP holding a valid modifier L2 or modifier
+13 L3 license constitutes a recognized provider type eligible for reim-
+14 bursement under private health insurance policies and state-regulated
+15 health plans;
+16 (b) Designate appropriate billing mechanisms, which may include the
+17 use of existing current procedural terminology codes with specific mod-
+18 ifiers identifying the service as AI-delivered, or the adoption of new
+19 distinct billing codes as they become available;
+20 (c) Prohibit health insurance carriers from denying coverage for a med-
+21 ically necessary service solely because the service was provided by a
+22 licensed AAASP, provided that the service would be covered if delivered
+23 by a human health care provider; and
+24 (d) Outline standards for including AAASPs in insurance provider net-
+25 works, including credentialing requirements that are appropriate for
+26 automated systems rather than individual human history such as waiving
+27 malpractice history questions that do not apply to software.
+28 (3) In developing these rules, the department shall consult with the
+29 board of autonomous medical practice to ensure clinical consistency and with
+30 the public health districts to ensure alignment with public health goals.
+31 (4) This section applies to health insurance coverage to the extent
+32 permitted by state and federal law, including the employee retirement income
+33 security act of 1974.
+34 (5) Nothing in this section shall be construed to require a health bene-
+35 fit plan to provide coverage or reimbursement for any service.
+36 54-6012. RULE OF CONSTRUCTION AND FEDERAL COMPLIANCE. (1) Nothing in
+37 this chapter shall be construed to prohibit, restrict, or require licensure
+38 solely for the development, ownership, or private operation of artificial
+39 intelligence models, provided such models are not marketed or deployed as
+40 clinical AI services for patient care.
+41 (2) This chapter constitutes a regulation of professional medical con-
+42 duct and not a restriction on computational resources.
+43 (3) Nothing in this chapter authorizes conduct that is expressly pro-
+44 hibited by federal law or that would place a licensee in unavoidable conflict
+45 with the federal food, drug, and cosmetic act or the controlled substances
+46 act.
+47 (4) Nothing in this chapter shall be construed to authorize conduct
+48 prohibited under the criminal laws of this state.
+
+20
+1 (5) Nothing in the licensure established pursuant to this chapter shall
+2 be construed to authorize the distribution of a commercial medical device in
+3 violation of the federal food, drug, and cosmetic act. A class C license au-
+4 thorizes the professional delivery of therapeutic services via artificial
+5 intelligence, which constitutes the practice of medicine within this state,
+6 distinct from the commercial sale of a medical device.
+7 (6)(a) It shall be the policy of this state that AI-enabled health care
+8 services within the scope of this chapter are presumed authorized un-
+9 less a specific data-backed safety risk is identified.
+10 (b) In promulgating rules, the board shall not impose a restriction on
+11 AAASP licensure or scope of practice that is more burdensome than neces-
+12 sary to address a specific documented risk to public health.
+13 (c) The board shall issue written findings supporting any material
+14 rule restriction, denial, or adverse licensure action, and such find-
+15 ings shall be supported by substantial evidence in the administrative
+16 record, consistent with the provisions of chapter 52, title 67, Idaho
+17 Code.
+18 SECTION 3. SEVERABILITY. The provisions of this act are hereby declared
+19 to be severable and if any provision of this act or the application of such
+20 provision to any person or circumstance is declared invalid for any reason,
+21 such declaration shall not affect the validity of the remaining portions of
+22 this act.
+23 SECTION 4. An emergency existing therefor, which emergency is hereby
+24 declared to exist, this act shall be in full force and effect on and after
+25 July 1, 2026.

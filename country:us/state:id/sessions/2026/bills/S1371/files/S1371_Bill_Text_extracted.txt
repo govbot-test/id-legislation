@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1371
+BY JUDICIARY AND RULES COMMITTEE
+1 AN ACT
+2 RELATING TO EDUCATION; AMENDING CHAPTER 1, TITLE 33, IDAHO CODE, BY THE ADDI-
+3 TION OF A NEW SECTION 33-145, IDAHO CODE, TO ESTABLISH THE IDAHO STUDENT
+4 SAFETY AND EDUCATOR DISCLOSURE ACT; AND DECLARING AN EMERGENCY AND PRO-
+5 VIDING AN EFFECTIVE DATE.
+6 Be It Enacted by the Legislature of the State of Idaho:
+7 SECTION 1. That Chapter 1, Title 33, Idaho Code, be, and the same is
+8 hereby amended by the addition thereto of a NEW SECTION, to be known and des-
+9 ignated as Section 33-145, Idaho Code, and to read as follows:
+10 33-145. IDAHO STUDENT SAFETY AND EDUCATOR DISCLOSURE ACT. (1) The
+11 legislature finds that student safety is a paramount responsibility of the
+12 state and that uniform statewide reporting and disclosure requirements in
+13 the hiring of school employees is necessary to protect good faith disclo-
+14 sures and prevent concealment of misconduct against a student.
+15 (2) For the purposes of this section:
+16 (a) "Covered individual" means any school personnel.
+17 (b) "Educational entity" means any public school district, public
+18 charter school, private school, the state department of education,
+19 or any other entity that provides K-12 education and receives public
+20 funds, including any program, school, or activity operated by or under
+21 the authority of such entity.
+22 (c) "Misconduct" means any conduct by a covered individual that vio-
+23 lates the code of ethics for Idaho professional educators relating to
+24 educator-student relationships.
+25 (d) "Pending investigation" means any internal, administrative, reg-
+26 ulatory, or criminal investigation that has been initiated and has not
+27 reached a final disposition.
+28 (3) An educational entity shall not conduct an internal review or in-
+29 vestigation of alleged abuse, abandonment, or neglect of a child in lieu of
+30 reporting to law enforcement as required by section 16-1605, Idaho Code.
+31 Nothing in this subsection shall be construed to prohibit an educational
+32 entity from taking administrative action or conducting an internal review
+33 or investigation after a report has been made in compliance with section
+34 16-1605, Idaho Code.
+35 (4) Prior to hiring an employee, an educational entity shall obtain
+36 disclosure statements from applicants and all educational employers or ed-
+37 ucational contractors with the applicant for the prior ten (10) years and
+38 shall specifically request information about any pending investigations,
+39 resignations during investigations, and disciplinary actions involving the
+40 applicant. Any applicant who makes a material misrepresentation or willful
+41 omission regarding such disclosure statements or information required by
+
+2
+1 this subsection shall be subject to immediate termination of employment or
+2 recission of such applicant's employment contract.
+3 (5) An educational entity or administrator that knowingly withholds or
+4 falsifies a disclosure statement required under this section shall be sub-
+5 ject to administrative penalties, civil liability, and professional disci-
+6 pline.
+7 (6) Educational entities and administrators have immunity from civil
+8 liability for disclosures made in good faith under this section.
+9 (7) Any resignation, termination, or administrative leave during an
+10 investigation of misconduct by a covered individual shall be referred to the
+11 Idaho professional standards commission. Upon referral, the educational
+12 entity shall confirm that the covered individual's certification status is
+13 accurately reflected in the state department of education's certification
+14 lookup application.
+15 SECTION 2. An emergency existing therefor, which emergency is hereby
+16 declared to exist, this act shall be in full force and effect on and after
+17 July 1, 2026.

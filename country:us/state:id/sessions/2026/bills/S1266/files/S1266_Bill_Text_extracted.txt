@@ -1,0 +1,571 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LEGISLATURE OF THE STATE OF IDAHO
+Sixty-eighth Legislature Second Regular Session - 2026
+IN THE SENATE
+SENATE BILL NO. 1266
+BY HEALTH AND WELFARE COMMITTEE
+1 AN ACT
+2 RELATING TO FOSTER CARE PLACEMENT; AMENDING SECTION 16-1622, IDAHO CODE, TO
+3 REVISE PROVISIONS REGARDING PARENTAL RIGHTS AND EXTENDED FOSTER CARE
+4 ORDERS; AMENDING SECTION 16-2002, IDAHO CODE, TO REVISE A DEFINITION;
+5 AMENDING SECTION 39-1202, IDAHO CODE, TO REVISE DEFINITIONS AND TO
+6 DEFINE A TERM; AMENDING SECTION 39-1211A, IDAHO CODE, TO REVISE PROVI-
+7 SIONS REGARDING PLACEMENT OF CHILDREN; AND DECLARING AN EMERGENCY AND
+8 PROVIDING AN EFFECTIVE DATE.
+9 Be It Enacted by the Legislature of the State of Idaho:
+10 SECTION 1. That Section 16-1622, Idaho Code, be, and the same is hereby
+11 amended to read as follows:
+12 16-1622. REVIEW HEARINGS -- STATUS HEARINGS -- ANNUAL PERMANENCY
+13 HEARINGS. (1) Review hearing.
+14 (a) A hearing for review of the child's case and permanency plan shall
+15 be held no later than six (6) months after entry of the court's order
+16 taking jurisdiction under this act and every two (2) months thereafter.
+17 The department and the guardian ad litem shall file reports to the court
+18 no later than five (5) days prior to the two (2) month review hearing.
+19 The purpose of the review hearing is:
+20 (i) To determine:
+21 1. The safety of the child;
+22 2. The continuing necessity for and appropriateness of the
+23 placement;
+24 3. The extent of compliance with the case plan; and
+25 4. The extent of progress that has been made toward alle-
+26 viating or mitigating the causes necessitating placement in
+27 foster care;
+28 (ii) To determine or continue to investigate whether the child is
+29 an Indian child. If there is reason to believe that the child is an
+30 Indian child and there has not been a final determination regard-
+31 ing the child's status as an Indian child:
+32 1. The department shall document and the court shall inquire
+33 about the efforts that have been made since the last hearing
+34 to determine whether the child is an Indian child; and
+35 2. The department shall document and the court shall de-
+36 termine that the department is using active efforts to work
+37 with all tribes of which the child may be a member to verify
+38 whether the child is a member or eligible for membership;
+39 (iii) To inquire regarding the child's educational stability. The
+40 department shall document and the court shall inquire as to the ef-
+41 forts made to ensure educational stability for the child, includ-
+42 ing the efforts made to keep the child in the school in which the
+
+2
+1 child is enrolled at the time of placement or the reason that re-
+2 maining in the school is not in the child's best interests;
+3 (iv) To inquire regarding sibling placement. The department
+4 shall document and the court shall inquire whether siblings were
+5 placed together or, if siblings were not placed together, the
+6 efforts made to place siblings together, the reasons why sib-
+7 lings were not placed together, and a plan for ensuring frequent
+8 visitation or ongoing interaction between the siblings, unless
+9 visitation or ongoing interaction would be contrary to the safety
+10 or well-being of one (1) or more of the siblings;
+11 (v) To inquire regarding permanency. The court shall ask each
+12 youth age twelve (12) years and older about his desired permanency
+13 outcome and discuss with the youth his current permanency plan.
+14 For a youth age fourteen (14) years and older, the hearing shall
+15 include a review of the services needed to assist the youth to make
+16 the transition from foster care to successful adulthood;
+17 (vi) To document efforts related to the reasonable and prudent
+18 parent standard. For a youth whose permanency goal is another
+19 planned permanent living arrangement, the department shall docu-
+20 ment:
+21 1. That the youth's foster parents or child care institution
+22 is following the reasonable and prudent parent standard when
+23 deciding whether the child may participate in extracurricu-
+24 lar, enrichment, cultural and social activities; and
+25 2. The regular, ongoing opportunities to engage in age- or
+26 developmentally appropriate activities that have been pro-
+27 vided to the youth;
+28 (vii) To document efforts made to find a permanent placement other
+29 than another planned permanent living arrangement. For a youth
+30 whose permanency goal is another planned permanent living ar-
+31 rangement, the department shall document:
+32 1. The intensive, ongoing, and, as of the date of the hear-
+33 ing, unsuccessful efforts made to place the youth with a par-
+34 ent, in an adoptive placement, in a guardianship, or in the
+35 legal custody of the department in a placement with a fit and
+36 willing relative, including an adult sibling; and
+37 2. Why another planned permanent living arrangement is the
+38 best permanency plan for the youth and a compelling reason
+39 why, as of the date of the review hearing, it would not be in
+40 the best interest of the child to be placed permanently with
+41 a parent, in an adoptive placement, in a guardianship, or in
+42 the legal custody of the department in a placement with a fit
+43 and willing relative, including an adult sibling;
+44 (viii) To make findings regarding a permanency goal of another
+45 planned permanent living arrangement. For youth whose permanency
+46 goal is another planned permanent living arrangement, the court
+47 shall make written, case-specific findings, as of the date of the
+48 hearing, that:
+49 1. Another planned permanent living arrangement is the best
+50 permanency goal for the youth; and
+
+3
+1 2. There are compelling reasons why it is not in the best in-
+2 terest of the youth to be placed permanently with a parent,
+3 in an adoptive placement, in a guardianship, or in the legal
+4 custody of the department in a placement with a fit and will-
+5 ing relative, including an adult sibling;
+6 (ix) To document and inquire regarding psychotropic medication.
+7 At each review hearing, if the child is being treated with psy-
+8 chotropic medication, these additional requirements shall apply:
+9 1. The department shall report to the court the medication
+10 and dosage prescribed for the child and the medical profes-
+11 sional who prescribed the medication; and
+12 2. The court shall inquire as to, and may make any additional
+13 inquiry relevant to, the use of psychotropic medication; and
+14 (x) To project, when reasonable, a likely date by which the child
+15 may be safely returned to and maintained in the home or placed in
+16 another permanent placement.
+17 (b) A status hearing is a review hearing that does not address all or
+18 most of the purposes identified in paragraph (a) of this subsection and
+19 may be held at the discretion of the court. Neither the department nor
+20 the guardian ad litem is required to file a report with the court prior
+21 to a status hearing, unless ordered otherwise by the court.
+22 (c) A motion for revocation or modification of an order issued un-
+23 der section 16-1619, Idaho Code, may be filed by the department or any
+24 party; provided that no motion may be filed by the respondents under
+25 this section within three (3) months of a prior hearing on care and
+26 placement of the child. Notice of a motion for review of a child's case
+27 shall be provided to the parents and other legal guardians, the prose-
+28 cuting attorney or deputy attorney general, the guardian ad litem, the
+29 attorney for the child, the department and foster parents.
+30 (d) If the motion filed under paragraph (c) of this subsection alleges
+31 that the child's best interests are no longer served by carrying out the
+32 order issued under section 16-1619, Idaho Code, or that the department
+33 or other authorized agency has failed to provide adequate care for the
+34 child, the court shall hold a hearing on the motion.
+35 (e) The department or authorized agency may move the court at any time
+36 to vacate any order placing a child in its custody or under its protec-
+37 tive supervision.
+38 (2) Permanency plan and hearing.
+39 (a) The permanency plan shall include a permanency goal. The per-
+40 manency goal may be one (1) of the following: continued efforts at
+41 reunification, in the absence of a judicial determination of aggra-
+42 vated circumstances; or termination of parental rights and adoption,
+43 guardianship or, for youth age sixteen (16) years and older only, an-
+44 other planned permanent living arrangement. Every permanency plan
+45 shall include the information set forth in section 16-1621(3)(a) and
+46 (b), Idaho Code. If the permanency plan has reunification as a per-
+47 manency goal, the plan shall include information set forth in section
+48 16-1621(3)(c), Idaho Code; however, if the circumstances that caused
+49 the child to be placed into protective custody resulted in a conviction
+50 for lewd and lascivious conduct or felony injury to a child, if the child
+
+4
+1 has been in protective custody for more than six (6) months, or if a
+2 high risk of repeat maltreatment or reentry into foster care exists due
+3 to a parent's recent completion of substance abuse treatment or other
+4 compelling circumstances, then the permanency plan shall include a
+5 period of protective supervision or trial home visit period of no less
+6 than ninety (90) days prior to the court vacating the case. During the
+7 protective supervision or trial home visit period, the department shall
+8 make regular home visits. During the protective supervision or trial
+9 home visit period, the court shall hold one (1) or more review hearings
+10 for each permanency plan where a period of protective supervision or a
+11 trial home visit has been imposed and may require participation in sup-
+12 portive services, including community home visiting and peer-to-peer
+13 mentoring. Families reunified following a period of protective super-
+14 vision or a trial home visit should be encouraged by the department or
+15 the court to continue to participate in supportive services when ben-
+16 eficial and appropriate. If the permanency plan has a permanency goal
+17 other than reunification, the plan shall include the information set
+18 forth in section 16-1621(3)(d), Idaho Code, and if the permanency goal
+19 is termination of parental rights and adoption, then in addition to the
+20 information set forth in section 16-1620(3), Idaho Code, the permanency
+21 plan shall also name the proposed adoptive parents when known. If the
+22 adoptive parents are not known at the time the permanency plan is pre-
+23 pared, then the department shall amend the plan to name the proposed
+24 adoptive parents as soon as such person or persons become known. The
+25 court may approve a permanency plan that includes a primary goal and a
+26 concurrent goal. As used in this paragraph, "trial home visit" means
+27 that a child is returned to the care of the parent or guardian from whom
+28 the child was removed with the department continuing to have legal cus-
+29 tody of the child.
+30 (b) A permanency hearing shall be held no later than twelve (12) months
+31 from the date the child is removed from the home or the date of the
+32 court's order taking jurisdiction under this chapter, whichever occurs
+33 first, and at least every twelve (12) months thereafter, as long as the
+34 court has jurisdiction over the child. The court shall approve, reject
+35 or modify the permanency plan of the department and review progress in
+36 accomplishing the permanency goal. The permanency plan, as approved by
+37 the court, shall be entered into the record as an order of the court. A
+38 permanency hearing may be held at any time and may be combined with the
+39 review hearing required under subsection (1) of this section.
+40 (c) The court shall make written, case-specific findings whether the
+41 department made reasonable efforts to finalize the primary permanency
+42 goal in effect for the child. Lack of reasonable efforts to reunify may
+43 be a basis for an order approving a permanency plan with a permanency
+44 goal of reunification.
+45 (d) Where the permanency goal is not reunification, the hearing shall
+46 include a review of the department's consideration of options for
+47 in-state and out-of-state placement of the child. In the case of a
+48 child in an out-of-state placement, the court shall determine whether
+49 the out-of-state placement continues to be appropriate and in the best
+50 interest of the child.
+
+5
+1 (e) The court shall ask each youth age twelve (12) years and older about
+2 his desired permanency outcome and discuss with the youth his current
+3 permanency plan. In the case of a child who has attained the age of four-
+4 teen (14) years and older, the hearing shall include a determination of
+5 the services needed to assist the youth to make the transition from fos-
+6 ter care to successful adulthood.
+7 (f) The court may approve a primary permanency goal of another planned
+8 permanent living arrangement only for youth age sixteen (16) years or
+9 older and only upon written, case-specific findings that, as of the date
+10 of the hearing:
+11 (i) Another planned permanent living arrangement is the best per-
+12 manency goal for the youth; and
+13 (ii) There are compelling reasons why it is not in the best inter-
+14 est of the youth to be placed permanently with a parent, in an adop-
+15 tive placement, in a guardianship, or in the legal custody of the
+16 department in a placement with a fit and willing relative, includ-
+17 ing an adult sibling.
+18 (g) If the child has been in the temporary or legal custody of the de-
+19 partment for twelve (12) of the most recent twenty-two (22) months, the
+20 department shall file, prior to the last day of the fifteenth twelfth
+21 month, a petition to terminate parental rights, unless the court finds
+22 that:
+23 (i) The child is placed permanently with a relative;
+24 (ii) There are compelling reasons why termination of parental
+25 rights is not in the best interests of the child; or
+26 (iii) The department has failed to provide reasonable efforts to
+27 reunify the child with his family.
+28 (h) The department shall document and the court shall inquire:
+29 (i) As to the efforts made to ensure educational stability for the
+30 child, including the efforts made to keep the child in the school
+31 in which the child is enrolled at the time of placement or that re-
+32 maining in the school is not in the child's best interests; and
+33 (ii) That siblings were placed together or, if siblings were not
+34 placed together, the efforts made to place siblings together, the
+35 reasons why siblings were not placed together or why a joint place-
+36 ment would be contrary to the safety or well-being of one (1) or
+37 more of the siblings and a plan for ensuring frequent visitation or
+38 ongoing interaction among siblings, unless visitation or ongoing
+39 interaction would be contrary to the safety or well-being of one
+40 (1) or more of the siblings.
+41 (i) If there is reason to believe that the child is an Indian child and
+42 there has not been a final determination regarding the child's status as
+43 an Indian child, the department shall document and the court shall:
+44 (i) Inquire about the efforts that have been made since the last
+45 hearing to determine whether the child is an Indian child; and
+46 (ii) Determine that the department has made active efforts to work
+47 with all tribes of which the child may be a member to verify whether
+48 the child is a member or eligible for membership.
+49 (j) At each permanency hearing, if the child is being treated with psy-
+50 chotropic medication, these additional requirements shall apply:
+
+6
+1 (i) The department shall report to the court the medication and
+2 dosage prescribed for the child and the medical professional who
+3 prescribed the medication; and
+4 (ii) The court shall inquire as to, and may make any additional
+5 inquiry relevant to, the use of psychotropic medication.
+6 (k) The court may authorize the department to suspend further efforts
+7 to reunify the child with the child's parent, pending further order of
+8 the court, when a permanency plan is approved by the court and the perma-
+9 nency plan does not include a permanency goal of reunification.
+10 (3) If a youth is in the legal custody of the department or other autho-
+11 rized agency and is within ninety (90) days of his eighteenth birthday, the
+12 department shall file a report with the court that includes the department's
+13 transition plan for the youth. The court shall have a review or permanency
+14 hearing at which the court shall:
+15 (a) Discuss with the youth his or her transition plan; and
+16 (b) Review the transition plan with the youth for purposes of ensur-
+17 ing that the plan provides the services necessary to allow the youth to
+18 transition to a successful adulthood.
+19 (4) If a child is in the legal custody of the department and the court
+20 has approved placement of the child in a qualified residential treatment
+21 program, then at each review hearing pursuant to subsection (1)(a) of this
+22 section and at each permanency hearing pursuant to subsection (2)(b) of this
+23 section the department shall document:
+24 (a) That ongoing assessment of the strengths and needs of the child con-
+25 tinues to support the determination that the needs of the child cannot
+26 be met through placement in a foster family home, that the placement in
+27 a qualified residential treatment program provides the most effective
+28 and appropriate level of care for the child that is in the least restric-
+29 tive environment, and that the placement is consistent with the short-
+30 term and long-term goals for the child, as specified in the permanency
+31 plan for the child;
+32 (b) The specific treatment or service needs that will be met for the
+33 child in the placement and the length of time the child is expected to
+34 need the treatment or services; and
+35 (c) The efforts made by the department to prepare the child to return
+36 home or to be placed with a fit and willing relative, a legal guardian,
+37 or an adoptive parent or in a foster family home.
+38 (5) Notwithstanding any provision of law to the contrary, the court may
+39 order extended foster care for a person between the ages of eighteen (18) and
+40 twenty-three (23) years to help such person achieve a successful transition
+41 to adulthood, provided such person must have been in the custody of the de-
+42 partment until his eighteenth birthday and must meet the criteria set forth
+43 in 42 U.S.C. 675(8)(B)(iv). The extension shall be for a fixed period of
+44 time and shall not extend past the person's twenty-third birthday. The court
+45 shall hold review hearings at least once every six (6) months after an order
+46 for extended foster care has been entered. The two (2) month review hearing
+47 timeline requirement pursuant to subsection (1) of this section shall not
+48 apply to extended foster care orders.
+49 SECTION 2. That Section 16-2002, Idaho Code, be, and the same is hereby
+50 amended to read as follows:
+
+7
+1 16-2002. DEFINITIONS. When used in this chapter, unless the text oth-
+2 erwise requires:
+3 (1) "Court" means the district court or magistrate's division thereof
+4 or, if the context requires, a judge or magistrate thereof.
+5 (2) "Child" or "minor" means any individual who is under the age of
+6 eighteen (18) years.
+7 (3) "Neglected" means:
+8 (a) Conduct as defined in section 16-1602(31), Idaho Code; or
+9 (b) The parent(s) has failed to comply with the court's orders or the
+10 case plan in a child protective act case and:
+11 (i) The department has had temporary or legal custody of the child
+12 for twelve (12) of the most recent twenty-two (22) months; and
+13 (ii) Reunification has not been accomplished by the last day of
+14 the fifteenth twelfth month in which the child has been in the tem-
+15 porary or legal custody of the department.
+16 (4) "Abused" means conduct as defined in section 16-1602(1), Idaho
+17 Code.
+18 (5) "Abandoned" means the parent has willfully failed to maintain a
+19 normal parental relationship, including but not limited to reasonable sup-
+20 port or regular personal contact. Failure of the parent to maintain this
+21 relationship without just cause for a period of one (1) year shall constitute
+22 prima facie evidence of abandonment under this section; provided however,
+23 where termination is sought by a grandparent seeking to adopt the child, the
+24 willful failure of the parent to maintain a normal parental relationship as
+25 provided herein without just cause for six (6) months shall constitute prima
+26 facie evidence of abandonment.
+27 (6) "Legal custody" means status created by court order that vests in a
+28 custodian the following rights and responsibilities:
+29 (a) To have physical custody and control of the child and to determine
+30 where and with whom the child shall live;
+31 (b) To supply the child with food, clothing, shelter and incidental ne-
+32 cessities;
+33 (c) To provide the child with care, education and discipline; and
+34 (d) To authorize medical, dental, psychiatric, psychological and other
+35 remedial care and treatment for the child, including care and treatment
+36 in a facility with a program of services for children.
+37 However, such rights and responsibilities shall be exercised subject to the
+38 powers, rights, duties and responsibilities of the guardian of the person.
+39 (7) "Guardianship of the person" means those rights and duties imposed
+40 upon a person appointed as guardian of a minor under the laws of Idaho. It
+41 includes but is not necessarily limited either in number or kind to:
+42 (a) The authority to consent to marriage, to enlistment in the armed
+43 forces of the United States, and to major medical, psychiatric and sur-
+44 gical treatment; to represent the minor in legal actions; and to make
+45 other decisions concerning the child of substantial legal signifi-
+46 cance;
+47 (b) The authority and duty of reasonable visitation, except to the ex-
+48 tent that such right of visitation has been limited by court order;
+
+8
+1 (c) The rights and responsibilities of legal custody, except where le-
+2 gal custody has been vested in another individual or in an authorized
+3 child placement agency; and
+4 (d) When the parent and child relationship has been terminated by judi-
+5 cial decree with respect to the parents, or only living parent, or when
+6 there is no living parent, the authority to consent to the adoption of
+7 the child and to make any other decision concerning the child which the
+8 child's parents could make.
+9 (8) "Guardian ad litem" means a person appointed by the court pursuant
+10 to section 16-1614 or 5-306, Idaho Code.
+11 (9) "Authorized agency" means the department, a local agency, a person,
+12 an organization, corporation, benevolent society or association licensed
+13 or approved by the department or the court to receive children for control,
+14 care, maintenance or placement.
+15 (10) "Department" means the department of health and welfare and its au-
+16 thorized representatives.
+17 (11) "Parent" means:
+18 (a) The birth mother or the adoptive mother;
+19 (b) The adoptive father;
+20 (c) The biological father of a child conceived or born during the fa-
+21 ther's marriage to the birth mother; and
+22 (d) The unmarried biological father whose consent to an adoption of the
+23 child is required pursuant to section 16-1504, Idaho Code.
+24 (12) "Presumptive father" means a man who is or was married to the birth
+25 mother and the child is born during the marriage or within three hundred
+26 (300) days after the marriage is terminated.
+27 (13) "Parent and child relationship" includes all rights, privileges,
+28 duties and obligations existing between parent and child, including inheri-
+29 tance rights, and shall be construed to include adoptive parents.
+30 (14) "Parties" includes the child and the petitioners.
+31 (15) "Unmarried biological father," as used in this chapter and chapter
+32 15, title 16, Idaho Code, means the biological father of a child who was not
+33 married to the child's mother at the time the child was conceived or born.
+34 (16) "Unmarried biological mother," as used in this chapter, means the
+35 biological mother of a child who was not married to the child's biological
+36 father at the time the child was conceived or born.
+37 (17) "Disability" means, with respect to an individual, any mental or
+38 physical impairment that substantially limits one (1) or more major life
+39 activities of the individual, including but not limited to self-care, man-
+40 ual tasks, walking, seeing, hearing, speaking, learning, or working, or a
+41 record of such an impairment, or being regarded as having such an impairment.
+42 Disability shall not include transvestism, transsexualism, pedophilia,
+43 exhibitionism, voyeurism, other sexual behavior disorders, or substance use
+44 disorders, compulsive gambling, kleptomania, or pyromania. Sexual prefer-
+45 ence or orientation is not considered an impairment or disability. Whether
+46 an impairment substantially limits a major life activity shall be determined
+47 without consideration of the effect of corrective or mitigating measures
+48 used to reduce the effects of the impairment.
+
+9
+1 (18) "Adaptive equipment" means any piece of equipment or any item that
+2 is used to increase, maintain, or improve the parenting abilities of a parent
+3 with a disability.
+4 (19) "Supportive services" means services that assist a parent with a
+5 disability to compensate for those aspects of their disability that affect
+6 their ability to care for their child and that will enable them to discharge
+7 their parental responsibilities. The term includes specialized or adapted
+8 training, evaluations, or assistance with effective use of adaptive equip-
+9 ment and accommodations that allow a parent with a disability to benefit from
+10 other services, such as Braille texts or sign language interpreters.
+11 SECTION 3. That Section 39-1202, Idaho Code, be, and the same is hereby
+12 amended to read as follows:
+13 39-1202. DEFINITIONS. For the purposes of this chapter:
+14 (1) "Board" means the Idaho board of health and welfare.
+15 (2) "Child care" means that care, control, supervision or maintenance
+16 of children for twenty-four (24) hours a day provided as an alternative to
+17 parental care.
+18 (3) "Child" means an individual less than eighteen (18) years of age who
+19 is not enrolled in an institution of higher education.
+20 (4) "Children's agency" means a person who operates a business for the
+21 placement of children in foster homes or for adoption in a permanent home
+22 and who does not provide child care as part of that business. Children's
+23 agency does not include a licensed attorney or physician assisting or pro-
+24 viding natural and adoptive parents with legal services or medical services
+25 necessary to initiate and complete adoptive placements.
+26 (5) "Children's camp" means a program of child care at a location
+27 away from the child's home that is primarily recreational and includes the
+28 overnight accommodation of the child and is not intended to provide treat-
+29 ment, therapy or rehabilitation for the child.
+30 (6) "Children's institution" means a person who operates a residential
+31 facility for children not related to that person, if that person is an in-
+32 dividual, for the purpose of providing child care. Children's institutions
+33 include, but are not limited to, foster homes, maternity homes, children's
+34 therapeutic outdoor programs, or any facilities providing treatment, ther-
+35 apy or rehabilitation for children. Children's institutions do not include:
+36 (a) facilities that provide only daycare as defined in chapter 11, title 39,
+37 Idaho Code; (b) facilities and agencies including hospitals, skilled nurs-
+38 ing facilities, intermediate care facilities, and intermediate care facil-
+39 ities for people with intellectual disabilities licensed pursuant to chap-
+40 ter 13, title 39, Idaho Code; (c) day schools; (d) individuals acting in an
+41 advisory capacity, counseling a child in a religious context, and providing
+42 no child care associated with the advice; or (e) the occasional or irregular
+43 care of a neighbor's, relative's or friend's child or children by a person
+44 not ordinarily engaged in child care.
+45 (7) "Children's residential care facility" means a children's institu-
+46 tion, excluding:
+47 (a) Foster homes;
+48 (b) Residential schools;
+49 (c) Children's camps.
+
+10
+1 No facility expressly excluded from the definition of a children's institu-
+2 tion is included within the definition of a children's residential care fa-
+3 cility.
+4 (8) "Children's therapeutic outdoor program" is a program designed to
+5 provide behavioral, substance abuse, or mental health services to minors in
+6 an outdoor setting. This does not include children's camps, church camps,
+7 or other outdoor programs primarily designed to be educational or recre-
+8 ational, such as Boy Scouts, Girl Scouts, 4-H or sports camps.
+9 (9) "Continued care" means the ongoing placement of an individual in a
+10 foster home, children's residential care facility, or transitional living
+11 placement who reaches the age of eighteen (18) years but is less than twenty-
+12 three (23) years of age.
+13 (10) "Day school" means a public, private, parochial or secular facil-
+14 ity offering an educational program in which the children leave the facility
+15 each day at the conclusion of the academic, vocational or school-supervised
+16 activities.
+17 (11) "Department" means the state department of health and welfare.
+18 (12) "Director" means the director of the department of health and wel-
+19 fare.
+20 (13) "Foster care" means child care by a person not related to the child,
+21 in lieu of parental care, in a foster home. The term also includes care pro-
+22 vided by kin when placement has been made by the department and the kin are
+23 licensed by the department pursuant to 39-1211A, Idaho Code.
+24 (14) "Foster home" means a home that accepts, for any period of time,
+25 with or without compensation, one (1) or more children who are not related
+26 to the foster parent as members of the household for the purpose of providing
+27 substitute parental care. The term also includes a home of kin when place-
+28 ment has been made by the department and the kin is licensed by the department
+29 pursuant to 39-1211A, Idaho Code.
+30 (15) "Group care" means foster care of a number of children for whom
+31 child care in a family setting is not available or appropriate in a dormitory
+32 or cottage type setting characterized by activities and discipline of a more
+33 regimented and less formal nature than found in a family setting.
+34 (16) "Juvenile detention" is as defined in section 20-502(8), Idaho
+35 Code, of the juvenile corrections act.
+36 (17) "Juvenile detention center" means a facility established pursuant
+37 to sections 20-517 and 20-518, Idaho Code.
+38 (18) "Kin" means all relatives pursuant to this chapter, extended fam-
+39 ily members, and those who have a significant family-like relationship with
+40 a child.
+41 (18) (19) "Person" includes any individual, group of individuals, asso-
+42 ciation, partnership, limited liability company or corporation.
+43 (19) (20) "Placement" means finding a suitable licensed foster home or
+44 suitable adoptive home for a child and completing the arrangements for a
+45 child to be accepted into and adjusted to such home.
+46 (20) (21) "Relative" means a child's grandparent, great grandparent,
+47 aunt, great aunt, uncle, great uncle, brother-in-law, sister-in-law, first
+48 cousin, sibling or half-sibling.
+49 (21) (22) "Representative" means an employee of the state department of
+50 health and welfare.
+
+11
+1 (22) (23) "Residential facility" means any facility where child care is
+2 provided, as defined in this section, and that provides day and night accom-
+3 modation.
+4 (23) (24) "Residential school" means a residential facility for chil-
+5 dren that:
+6 (a) Provides a planned, scheduled, regular, academic or vocational
+7 school program for students in the elementary, middle or secondary
+8 grades as defined in section 33-1001, Idaho Code; and
+9 (b) Provides services substantially comparable to those provided in
+10 nonresidential public schools where the primary purpose is the educa-
+11 tion and academic pursuits of the students; and
+12 (c) Does not seek, receive or enroll students for treatment of such spe-
+13 cial needs as substance abuse, mental illness, emotional disturbance,
+14 developmental disability or intellectual disability; and
+15 (d) Is not:
+16 (i) A college or university;
+17 (ii) A children's camp as defined in this section; or
+18 (iii) A public or private day school in which the children leave
+19 the facility each day at the conclusion of the academic, voca-
+20 tional or school-supervised activities.
+21 (24) (25) "Transitional living" means living arrangements and after-
+22 care services for children, or as continued care, to gain experience living
+23 on their own in a supportive and supervised environment prior to emancipa-
+24 tion.
+25 SECTION 4. That Section 39-1211A, Idaho Code, be, and the same is hereby
+26 amended to read as follows:
+27 39-1211A. RELATIVE FOSTER CARE KINSHIP FOSTER CARE -- LIMITED VARI-
+28 ANCE OR WAIVER. (1) A relative Kin providing foster care for a related child
+29 pursuant to chapter 16, title 16, Idaho Code, must be licensed in accordance
+30 with this chapter.
+31 (2) Notwithstanding the provisions of subsection (1) of this section,
+32 the department may expedite placement with a relative, issue a foster care
+33 license, or grant a limited variance or waiver of a licensing standard or re-
+34 quirement, or for a relative. The department may establish separate stan-
+35 dards or requirements for licensure of relatives kin if, in the department's
+36 judgment, the health and safety of the related child is not thereby endan-
+37 gered.
+38 (3) If the department grants a limited variance or waiver of a licensing
+39 standard or requirement to the child's relative pursuant to this section,
+40 the department shall document the grounds for granting the limited variance
+41 or waiver and the reasons the limited variance or waiver will not compromise
+42 the related child's safety and health.
+43 (4) A limited variance or waiver of a licensing standard or requirement
+44 granted to a child's relative pursuant to this section shall be reviewed by
+45 the department for continuing compliance, need, and approval at regular in-
+46 tervals, subject to the provisions of section 39-1113, Idaho Code.
+
+12
+1 SECTION 5. An emergency existing therefor, which emergency is hereby
+2 declared to exist, this act shall be in full force and effect on and after
+3 July 1, 2026.
